@@ -3,21 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Nikolai Prokoschenko <email address hidden>, 2011.
-#   <email address hidden>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-04-25 03:24+0000\n"
-"Last-Translator: dubwai <email address hidden>\n"
-"Language-Team: Russian (http://www.transifex.net/projects/p/musicbrainz/language/ru/)\n"
+"PO-Revision-Date: 2011-01-30 16:57+0000\n"
+"Last-Translator: FULL NAME <email address hidden>\n"
+"Language-Team: English (Canada) (http://www.transifex.net/projects/p/musicbrainz/language/en_CA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Language: en_CA\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../root/account/lost_password.tt:7
 #, perl-format
@@ -25,7 +23,7 @@ msgid ""
 " Enter your username and email below. We will send you an email with a link "
 "to reset your password. If you have forgotten your username, {link|retrieve "
 "it} first and then reset your password. "
-msgstr " Введите имя пользователя и адрес электронной почты. Мы вышлем письмо со ссылкой для сброса вашего пароля. Если вы забыли имя пользователя, {link|восстановите его}, а затем сбросьте пароль. "
+msgstr ""
 
 #: ../root/recording/add_isrc.tt:8
 #, perl-format
@@ -107,7 +105,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:319
 #, perl-format
 msgid "(add a new recording)"
-msgstr "(добавить новую запись)"
+msgstr ""
 
 #: DB:link_attribute_type/description:528
 #, perl-format
@@ -137,7 +135,7 @@ msgstr ""
 #: ../root/edit/details/add_release.tt:22
 #, perl-format
 msgid "(new release group)"
-msgstr "(новая релиз группа)"
+msgstr ""
 
 #: ../root/annotation/common.tt:17
 #: ../root/edit/details/add_artist_annotation.tt:10
@@ -179,7 +177,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/Release.pm:179
 #, perl-format
 msgid "(unknown)"
-msgstr "(неизвестно)"
+msgstr ""
 
 #: ../root/user/profile.tt:24
 #, perl-format
@@ -224,7 +222,6 @@ msgid "1 vote"
 msgid_plural "{n} unanimous votes"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: DB:medium_format/name:30
 msgid "10\" Vinyl"
@@ -457,7 +454,6 @@ msgid "A private collection"
 msgid_plural "{n} private collections"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/edit/relationship/create_batch.tt:23
 #: ../root/edit/relationship/create.tt:26
@@ -560,7 +556,7 @@ msgstr ""
 #: ../root/account/registered.tt:1 ../root/account/registered.tt:2
 #, perl-format
 msgid "Account Created"
-msgstr "Учетная запись создана"
+msgstr ""
 
 #: ../root/admin/edit_user.tt:23 ../root/admin/edit_user.tt:27
 #, perl-format
@@ -716,7 +712,7 @@ msgstr ""
 #: ../root/artist/create.tt:16 ../root/artist/create.tt:18
 #, perl-format
 msgid "Add a New Artist"
-msgstr "Добавить исполнителя"
+msgstr ""
 
 #: ../root/collection/create.tt:1 ../root/collection/create.tt:3
 #, perl-format
@@ -789,7 +785,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtistAlias.pm:7
 #, perl-format
 msgid "Add artist alias"
-msgstr "Добавить альтернативное имя"
+msgstr ""
 
 #: ../root/cdstub/layout.tt:23
 #, perl-format
@@ -839,14 +835,14 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 #, perl-format
 msgid "Add release"
-msgstr "Добавить релиз"
+msgstr ""
 
 #: ../root/artist/layout.tt:57
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseGroup.pm:18
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Create.pm:22
 #, perl-format
 msgid "Add release group"
-msgstr "Добавить релиз группу"
+msgstr ""
 
 #: ../root/report/duplicate_artists.tt:45
 #, perl-format
@@ -1033,7 +1029,7 @@ msgstr ""
 #: ../root/components/aliases.tt:7
 #, perl-format
 msgid "Alias"
-msgstr "Альтернативное имя"
+msgstr ""
 
 #: ../root/alias/edit_form.tt:3
 #, perl-format
@@ -1063,7 +1059,7 @@ msgstr ""
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Aliases"
-msgstr "Альтернативные имена"
+msgstr ""
 
 #: ../root/user/profile/layout.tt:19
 #, perl-format
@@ -1254,7 +1250,6 @@ msgid "An anonymous user"
 msgid_plural "{n} anonymous users"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/account/register.tt:9
 #, perl-format
@@ -1308,7 +1303,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:41
 #, perl-format
 msgid "Annotation"
-msgstr "Пояснение"
+msgstr ""
 
 #: ../root/annotation/diff.tt:2 ../root/artist/annotation_diff.tt:1
 #: ../root/label/annotation_diff.tt:1 ../root/recording/annotation_diff.tt:1
@@ -1620,7 +1615,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:35
 #, perl-format
 msgid "Artist"
-msgstr "Исполнитель"
+msgstr ""
 
 #: ../root/statistics/view_js.tt:27
 #, perl-format
@@ -1940,7 +1935,6 @@ msgid "Associated with {num} recording"
 msgid_plural "Associated with {num} recordings"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: DB:language/name:27
 msgid "Asturian"
@@ -2477,7 +2471,7 @@ msgstr ""
 #: ../root/layout/menu.tt:113
 #, perl-format
 msgid "Blog"
-msgstr "Блог"
+msgstr ""
 
 #: DB:medium_format/name:20
 msgid "Blu-ray"
@@ -2572,27 +2566,27 @@ msgstr ""
 #: ../root/layout/menu.tt:161
 #, perl-format
 msgid "Browse"
-msgstr "Обзор"
+msgstr ""
 
 #: ../root/browse/artist.tt:1 ../root/browse/artist.tt:3
 #, perl-format
 msgid "Browse Artists"
-msgstr "Обзор Исполнителей"
+msgstr ""
 
 #: ../root/browse/label.tt:1 ../root/browse/label.tt:3
 #, perl-format
 msgid "Browse Labels"
-msgstr "Обзор Лейблов"
+msgstr ""
 
 #: ../root/browse/release_group.tt:1 ../root/browse/release_group.tt:3
 #, perl-format
 msgid "Browse Release Groups"
-msgstr "Обзор Релиз Групп"
+msgstr ""
 
 #: ../root/browse/release.tt:1 ../root/browse/release.tt:3
 #, perl-format
 msgid "Browse Releases"
-msgstr "Обзор Релизов"
+msgstr ""
 
 #: ../root/browse/work.tt:1 ../root/browse/work.tt:3
 #, perl-format
@@ -2602,7 +2596,7 @@ msgstr ""
 #: ../root/browse/index.tt:5 ../root/search/index.tt:5
 #, perl-format
 msgid "Browse artists"
-msgstr "Обзор исполнителей"
+msgstr ""
 
 #: ../root/browse/page_selector.tt:17
 #, perl-format
@@ -2612,24 +2606,24 @@ msgstr ""
 #: ../root/browse/index.tt:6 ../root/search/index.tt:6
 #, perl-format
 msgid "Browse labels"
-msgstr "Обзор лейблов"
+msgstr ""
 
 #: ../root/artist/browse_various_recordings.tt:2
 #, perl-format
 msgid "Browse recordings"
-msgstr "Обзор записей"
+msgstr ""
 
 #: ../root/artist/browse_various.tt:2 ../root/browse/index.tt:8
 #: ../root/search/index.tt:8
 #, perl-format
 msgid "Browse release groups"
-msgstr "Обзор релиз групп"
+msgstr ""
 
 #: ../root/artist/browse_various_releases.tt:2 ../root/browse/index.tt:7
 #: ../root/search/index.tt:7
 #, perl-format
 msgid "Browse releases"
-msgstr "Обзор релизов"
+msgstr ""
 
 #: ../root/browse/index.tt:9 ../root/search/index.tt:9
 #, perl-format
@@ -2822,7 +2816,7 @@ msgstr ""
 #: ../root/work/merge.tt:19
 #, perl-format
 msgid "Cancel"
-msgstr "Отменить"
+msgstr ""
 
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
@@ -3053,14 +3047,14 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/Move.pm:17
 #, perl-format
 msgid "Change release group"
-msgstr "Изменить группу релиза"
+msgstr ""
 
 #: ../root/release/sidebar.tt:68
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseQuality.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Release/ChangeQuality.pm:18
 #, perl-format
 msgid "Change release quality"
-msgstr "Изменить качество релиза"
+msgstr ""
 
 #: ../root/edit/vote.tt:27
 #, perl-format
@@ -3875,7 +3869,7 @@ msgstr ""
 #: ../root/account/register.tt:41 ../root/layout/menu.tt:71
 #, perl-format
 msgid "Create Account"
-msgstr "Создать учетную запись"
+msgstr ""
 
 #: ../root/edit/relationship/create_batch.tt:12
 #: ../root/edit/relationship/create.tt:13
@@ -3892,7 +3886,7 @@ msgstr ""
 #: ../root/account/register.tt:5 ../root/account/register.tt:12
 #, perl-format
 msgid "Create an Account"
-msgstr "Создать учетную запись"
+msgstr ""
 
 #: ../root/collection/edit_form.tt:11
 #, perl-format
@@ -4213,12 +4207,12 @@ msgstr ""
 #: ../root/tracklist/index.tt:31
 #, perl-format
 msgid "Date"
-msgstr "Дата"
+msgstr ""
 
 #: ../root/artist/edit_form.tt:48 ../root/label/edit_form.tt:49
 #, perl-format
 msgid "Date Period"
-msgstr "Период времени"
+msgstr ""
 
 #: ../root/account/preferences.tt:14
 #, perl-format
@@ -4237,7 +4231,7 @@ msgstr ""
 msgid ""
 "Dates are in the format YYYY-MM-DD. Partial dates such as YYYY-MM or just "
 "YYYY are OK, or you can omit the date entirely."
-msgstr "Даты записываются в формате ГГГГ-ММ-ДД. Можно вводить даты частично, например ГГГГ-ММ или ГГГГ, или не вписывать дату вообще."
+msgstr ""
 
 #: DB:link_attribute_type/description:496
 #, perl-format
@@ -4277,7 +4271,7 @@ msgstr ""
 #: ../root/admin/delete_user.tt:13
 #, perl-format
 msgid "Delete Account"
-msgstr "Удалить учетную запись"
+msgstr ""
 
 #: ../root/admin/delete_user.tt:2 ../root/user/profile/layout.tt:39
 #, perl-format
@@ -4287,7 +4281,7 @@ msgstr ""
 #: ../root/admin/delete_user.tt:21
 #, perl-format
 msgid "Delete my account"
-msgstr "Удалить мою учетную запись"
+msgstr ""
 
 #: ../root/admin/delete_user.tt:7
 #, perl-format
@@ -4360,7 +4354,7 @@ msgstr ""
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Details"
-msgstr "Подробнее"
+msgstr ""
 
 #: ../root/release/edit/tracklist.tt:197
 #, perl-format
@@ -4574,7 +4568,7 @@ msgstr ""
 #: ../root/layout/menu.tt:206
 #, perl-format
 msgid "Documentation"
-msgstr "Документация"
+msgstr ""
 
 #: DB:language/name:108
 msgid "Dogri"
@@ -4600,7 +4594,7 @@ msgstr ""
 #: ../root/user/login.tt:12
 #, perl-format
 msgid "Don't have an account? {uri|Create one now}!"
-msgstr "У вас есть учетная запись? {uri|Создайте её сейчас}!"
+msgstr ""
 
 #: ../root/layout.tt:141
 #, perl-format
@@ -4718,7 +4712,7 @@ msgstr ""
 #: ../root/user/collections.tt:23 ../root/work/header.tt:1
 #, perl-format
 msgid "Edit"
-msgstr "Править"
+msgstr ""
 
 #: ../root/edit/index.tt:9
 #, perl-format
@@ -4738,7 +4732,7 @@ msgstr ""
 #: ../root/artist/edit.tt:17
 #, perl-format
 msgid "Edit Artist"
-msgstr "Править исполнителя"
+msgstr ""
 
 #: ../root/artist/edit_alias.tt:1
 #, perl-format
@@ -4969,7 +4963,7 @@ msgstr ""
 #: ../root/release/edit-links.tt:13
 #, perl-format
 msgid "Edit:"
-msgstr "Править:"
+msgstr ""
 
 #: ../root/edit/details/edit_release_events.tt:58
 #, perl-format
@@ -4988,7 +4982,7 @@ msgstr ""
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
 msgid "Editing FAQ"
-msgstr "ЧаВО по правкам"
+msgstr ""
 
 #: ../root/artist/layout.tt:107 ../root/label/layout.tt:81
 #: ../root/recording/layout.tt:59 ../root/release_group/layout.tt:60
@@ -5266,7 +5260,7 @@ msgstr ""
 #: ../root/components/forms.tt:24 ../root/release/edit/editnote.tt:42
 #, perl-format
 msgid "Enter edit"
-msgstr "Отредактировать"
+msgstr ""
 
 #: ../root/edit/vote.tt:29
 #, perl-format
@@ -5278,7 +5272,7 @@ msgstr ""
 msgid ""
 "Enter your email address below and we will send you an email with your "
 "MusicBrainz account information."
-msgstr "Введите ниже ваш адрес электронной почты и мы отправим вам письмо с информацией о вашей учетной записью MusicBrainz."
+msgstr ""
 
 #: ../root/forms/edit-note.tt:5
 #, perl-format
@@ -5334,7 +5328,6 @@ msgid "Error:"
 msgid_plural "Errors:"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/components/common-macros.tt:82
 #, perl-format
@@ -5452,7 +5445,7 @@ msgstr ""
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:21
 #, perl-format
 msgid "FAQs"
-msgstr "Список ЧаВО"
+msgstr ""
 
 #: ../root/user/profile.tt:128
 #, perl-format
@@ -5630,7 +5623,7 @@ msgstr ""
 #: ../root/layout/menu.tt:242 ../root/layout.tt:143
 #, perl-format
 msgid "Forums"
-msgstr "Форумы"
+msgstr ""
 
 #: ../root/admin/linktype/form.tt:13 ../root/admin/linktype/tree.tt:12
 #, perl-format
@@ -5664,7 +5657,6 @@ msgid "Found in {num} user collection"
 msgid_plural "Found in {num} user collections"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/release/lookup.tt:4
 #, perl-format
@@ -5677,7 +5669,6 @@ msgid "Found {n} edit"
 msgid_plural "Found at least {n} edits"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/components/with-pager.tt:5
 #, perl-format
@@ -5685,7 +5676,6 @@ msgid "Found {n} result"
 msgid_plural "Found {n} results"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/components/with-pager.tt:7
 #, perl-format
@@ -5693,7 +5683,6 @@ msgid "Found {n} result for \"{q}\""
 msgid_plural "Found {n} results for \"{q}\""
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/label/layout.tt:14 ../root/scripts/text_strings.tt:72
@@ -6679,7 +6668,7 @@ msgstr ""
 msgid ""
 "If you're interested in receiving information from MusicBrainz staff or "
 "communicating with other users, {ml|please subscribe to our mailing lists}."
-msgstr "Если Вы заинтересованы в получение информации от команды MusicBrainz или в поддержании связи с остальными участниками, {ml|подпишитесь пожалуйста на наши списки рассылки}."
+msgstr ""
 
 #: DB:language/name:179
 msgid "Igbo"
@@ -8166,7 +8155,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:40
 #, perl-format
 msgid "Label"
-msgstr "Лейбл"
+msgstr ""
 
 #: ../root/statistics/view_js.tt:28
 #, perl-format
@@ -8570,7 +8559,7 @@ msgstr ""
 #: ../root/user/login.tt:34
 #, perl-format
 msgid "Log In"
-msgstr "Войти"
+msgstr ""
 
 #: ../root/layout/menu.tt:19
 #, perl-format
@@ -8580,7 +8569,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:338
 #, perl-format
 msgid "Log in"
-msgstr "Войти"
+msgstr ""
 
 #: ../root/artist/layout.tt:110 ../root/label/layout.tt:83
 #: ../root/recording/layout.tt:61 ../root/release_group/layout.tt:62
@@ -8588,7 +8577,7 @@ msgstr "Войти"
 #: ../root/work/layout.tt:54
 #, perl-format
 msgid "Log in to edit"
-msgstr "Войти для правки"
+msgstr ""
 
 #: DB:language/name:197
 msgid "Lojban"
@@ -8763,7 +8752,7 @@ msgstr ""
 #: ../root/layout/menu.tt:238
 #, perl-format
 msgid "Mailing Lists"
-msgstr "Списки рассылки"
+msgstr ""
 
 #: DB:language/name:258
 msgid "Maithili"
@@ -8999,7 +8988,6 @@ msgid "Mediums with 1 Disc ID"
 msgid_plural "Mediums with {n} Disc IDs"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/statistics/view_js.tt:134
 #, perl-format
@@ -9063,7 +9051,7 @@ msgstr ""
 #: ../root/artist/merge.tt:1 ../root/artist/merge.tt:3
 #, perl-format
 msgid "Merge Artists"
-msgstr "Свести исполнителей"
+msgstr ""
 
 #: ../root/label/merge.tt:1 ../root/label/merge.tt:3
 #, perl-format
@@ -9147,7 +9135,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
 #, perl-format
 msgid "Merge release groups"
-msgstr "Соединить релиз группы"
+msgstr ""
 
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
@@ -9414,7 +9402,7 @@ msgstr ""
 #: ../root/layout/menu.tt:130
 #, perl-format
 msgid "MusicBrainz for Android"
-msgstr "MusicBrainz для Android"
+msgstr ""
 
 #: ../root/account/register.tt:55
 #, perl-format
@@ -9442,7 +9430,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "MusicBrainz uses artist aliases mainly as variant names or search hints."
-msgstr "Альтернативные имена исполнителей в MusicBrainz используются для записи вариаций имён и для уточнения поиска."
+msgstr ""
 
 #: ../root/label/add_alias.tt:4 ../root/label/edit_alias.tt:4
 #, perl-format
@@ -9584,7 +9572,7 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:16
 #, perl-format
 msgid "Name"
-msgstr "Имя"
+msgstr ""
 
 #: ../root/admin/linkattributetype/form.tt:12
 #: ../root/admin/linktype/form.tt:12 ../root/artist/details.tt:5
@@ -9778,7 +9766,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:35
 #, perl-format
 msgid "Next"
-msgstr "Дальше"
+msgstr ""
 
 #: ../root/release/edit/duplicates.tt:36
 #: ../root/release/edit/information.tt:110
@@ -10228,7 +10216,7 @@ msgstr ""
 #: ../root/account/change_password.tt:10
 #, perl-format
 msgid "Old password:"
-msgstr "Старый пароль:"
+msgstr ""
 
 #: ../root/edit/details/edit_medium.tt:190
 #, perl-format
@@ -10295,7 +10283,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:49 ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "Open Edits"
-msgstr "Открытые правки"
+msgstr ""
 
 #: ../root/artist/layout.tt:105 ../root/edit/list_header.tt:11
 #: ../root/label/layout.tt:79 ../root/recording/layout.tt:57
@@ -10309,7 +10297,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:350
 #, perl-format
 msgid "Open in tagger"
-msgstr "Открыть в программе"
+msgstr ""
 
 #: ../root/statistics/index.tt:453
 #, perl-format
@@ -10524,7 +10512,6 @@ msgid "PUIDs with 1 Recording"
 msgid_plural "PUIDs with {n} Recordings"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/edit/details/add_puids.tt:8
 #, perl-format
@@ -10563,7 +10550,7 @@ msgstr ""
 #: ../root/components/paginator.tt:32
 #, perl-format
 msgid "Page {cur} of {total}"
-msgstr "Страница {cur} из {total}"
+msgstr ""
 
 #: ../root/admin/wikidoc/create.tt:8 ../root/admin/wikidoc/edit.tt:9
 #, perl-format
@@ -10700,7 +10687,7 @@ msgstr ""
 #: ../root/release_group/details.tt:20 ../root/work/details.tt:20
 #, perl-format
 msgid "Permanent link:"
-msgstr "Постоянная ссылка:"
+msgstr ""
 
 #: DB:language/name:334
 msgid "Persian"
@@ -10877,7 +10864,7 @@ msgstr ""
 msgid ""
 "Please read the {doc_styleguide|Style Guidelines}, then provide the "
 "necessary information about the new artist below."
-msgstr "Прочтите {doc_styleguide|указания по стилю} и затем укажите ниже нужную информация о новом исполнителе."
+msgstr ""
 
 #: ../root/release_group/delete.tt:8
 #, perl-format
@@ -10891,7 +10878,7 @@ msgstr ""
 msgid ""
 "Please review the documentation about {aliases|artist aliases}, before "
 "entering this edit."
-msgstr "До правки, взгляните на информацию об {aliases|альтернативных именах исполнителей}."
+msgstr ""
 
 #: ../root/label/delete_alias.tt:4
 #, perl-format
@@ -11217,7 +11204,7 @@ msgstr ""
 #: ../root/layout/menu.tt:118
 #, perl-format
 msgid "Products"
-msgstr "Продукты"
+msgstr ""
 
 #: ../root/user/profile/layout.tt:12
 #, perl-format
@@ -11344,7 +11331,6 @@ msgid "Rate: {rating} star"
 msgid_plural "Rate: {rating} stars"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/artist/browse_various.tt:16 ../root/artist/index.tt:66
 #: ../root/artist/recordings-list.tt:27 ../root/artist/works.tt:21
@@ -11402,7 +11388,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:38
 #, perl-format
 msgid "Recording"
-msgstr "Запись"
+msgstr ""
 
 #: ../root/recording/edit_form.tt:6
 #, perl-format
@@ -11495,7 +11481,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:66
 #, perl-format
 msgid "Recordings"
-msgstr "Записи"
+msgstr ""
 
 #: ../root/statistics/index.tt:337
 #, perl-format
@@ -11513,7 +11499,6 @@ msgid "Recordings with 1 PUID"
 msgid_plural "Recordings with {n} PUIDs"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/statistics/view_js.tt:143
 #, perl-format
@@ -11521,7 +11506,6 @@ msgid "Recordings with 1 Release"
 msgid_plural "Recordings with {n} Releases"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:1
 #: ../root/report/recordings_with_earliest_release_relationships.tt:3
@@ -11785,7 +11769,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:37
 #, perl-format
 msgid "Release"
-msgstr "Релиз"
+msgstr ""
 
 #: ../root/recording/index.tt:13
 #, perl-format
@@ -11805,7 +11789,7 @@ msgstr ""
 #: ../root/recording/index.tt:14
 #, perl-format
 msgid "Release Date"
-msgstr "Дата выпуска"
+msgstr ""
 
 #: ../root/edit/details/historic/add_release.tt:70
 #, perl-format
@@ -11820,7 +11804,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:36
 #, perl-format
 msgid "Release Group"
-msgstr "Релиз группа"
+msgstr ""
 
 #: ../root/release_group/edit_form.tt:6
 #, perl-format
@@ -11882,7 +11866,6 @@ msgid "Release Groups with 1 Release"
 msgid_plural "Release Groups with {n} Releases"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/edit/search_macros.tt:278
 #, perl-format
@@ -11912,7 +11895,7 @@ msgstr ""
 #: ../root/recording/index.tt:12
 #, perl-format
 msgid "Release Title"
-msgstr "Название записи"
+msgstr ""
 
 #: ../root/release/edits.tt:20 ../root/release/header.tt:8
 #, perl-format
@@ -11928,7 +11911,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
 #, perl-format
 msgid "Release group"
-msgstr "Релиз группа"
+msgstr ""
 
 #: ../root/release_group/edits.tt:20 ../root/release_group/header.tt:13
 #, perl-format
@@ -12071,7 +12054,7 @@ msgstr ""
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Releases"
-msgstr "Релизы"
+msgstr ""
 
 #: ../root/statistics/view_js.tt:122
 #, perl-format
@@ -12165,7 +12148,6 @@ msgid "Releases with 1 Disc ID"
 msgid_plural "Releases with {n} Disc IDs"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/report/index.tt:36 ../root/report/releases_with_cc_links.tt:1
 #: ../root/report/releases_with_cc_links.tt:3
@@ -12294,7 +12276,7 @@ msgstr ""
 #: ../root/user/collections.tt:24
 #, perl-format
 msgid "Remove"
-msgstr "Удалить"
+msgstr ""
 
 #: ../root/artist/delete_alias.tt:2 ../root/label/delete_alias.tt:2
 #: ../root/work/delete_alias.tt:2
@@ -12423,14 +12405,14 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 #, perl-format
 msgid "Remove release"
-msgstr "Удалить релиз"
+msgstr ""
 
 #: ../root/release_group/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseGroup.pm:9
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 #, perl-format
 msgid "Remove release group"
-msgstr "Удалить релиз группу"
+msgstr ""
 
 #: ../root/layout/merge-helper.tt:33
 #, perl-format
@@ -12451,7 +12433,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
 #, perl-format
 msgid "Remove track"
-msgstr "Удалить дорожку"
+msgstr ""
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -12788,7 +12770,7 @@ msgstr ""
 #: ../root/search/index.tt:3 ../root/taglookup/form.tt:13
 #, perl-format
 msgid "Search"
-msgstr "Найти"
+msgstr ""
 
 #: ../root/layout/menu.tt:157
 #, perl-format
@@ -12821,7 +12803,7 @@ msgstr ""
 #: ../root/search/results-work.tt:1 ../root/search/results-work.tt:3
 #, perl-format
 msgid "Search Results"
-msgstr "Результаты поиска"
+msgstr ""
 
 #: ../root/cdtoc/lookup.tt:56
 #, perl-format
@@ -13530,7 +13512,7 @@ msgstr ""
 #: ../root/search/results-label.tt:11
 #, perl-format
 msgid "Sort Name"
-msgstr "Имя для сортировки"
+msgstr ""
 
 #: ../root/release/edit/missing_entities.tt:17
 #, perl-format
@@ -13549,7 +13531,7 @@ msgstr ""
 #: ../root/label/layout.tt:6
 #, perl-format
 msgid "Sort name:"
-msgstr "Сортировать по имени:"
+msgstr ""
 
 #: DB:language/name:310
 msgid "Sotho, Northern"
@@ -13681,7 +13663,7 @@ msgstr ""
 #: ../root/release/lookup.tt:14
 #, perl-format
 msgid "Status"
-msgstr "Состояние"
+msgstr ""
 
 #: ../root/edit/details/add_release.tt:39
 #: ../root/edit/details/edit_release.tt:46
@@ -13735,7 +13717,7 @@ msgstr ""
 #: ../root/artist/layout.tt:121 ../root/label/layout.tt:93
 #, perl-format
 msgid "Subscribe"
-msgstr "Подписаться"
+msgstr ""
 
 #: ../root/label/subscriptions.tt:25
 #, perl-format
@@ -13745,7 +13727,7 @@ msgstr ""
 #: ../root/artist/subscribe.tt:20
 #, perl-format
 msgid "Subscribe to this artist."
-msgstr "Подписаться на исполнителя"
+msgstr ""
 
 #: ../root/artist/subscribe.tt:1 ../root/label/subscriptions.tt:1
 #, perl-format
@@ -13806,7 +13788,7 @@ msgstr ""
 #: ../root/edit/details/add_release_annotation.tt:30
 #, perl-format
 msgid "Summary:"
-msgstr "Краткое описание"
+msgstr ""
 
 #: DB:language/name:399 DB:script/name:107
 msgid "Sundanese"
@@ -14017,7 +13999,7 @@ msgstr ""
 #: ../root/user/tags.tt:1 ../root/work/header.tt:1 ../root/work/tags.tt:1
 #, perl-format
 msgid "Tags"
-msgstr "Ярлыки"
+msgstr ""
 
 #: ../root/statistics/index.tt:64
 #, perl-format
@@ -14724,7 +14706,7 @@ msgstr ""
 #: ../root/artist/subscribe.tt:11
 #, perl-format
 msgid "There are no editors currently subscribed to this artist."
-msgstr "На данный момент нет редакторов, подписанных на этого исполнителя."
+msgstr ""
 
 #: ../root/artist/split.tt:24
 #, perl-format
@@ -14753,7 +14735,6 @@ msgid "There is also one anonymous subscriber."
 msgid_plural "There are also {num} anonymous subscribers."
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/artist/subscribe.tt:15
 #, perl-format
@@ -14761,7 +14742,6 @@ msgid "There is also {num} anonymous subscriber"
 msgid_plural "There are also {num} anonymous subscribers"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/user/subscribers.tt:4
 #, perl-format
@@ -14770,7 +14750,6 @@ msgid_plural ""
 "There are currently {num} users subscribed to edits that {user} makes:"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/artist/subscribers.tt:4
 #, perl-format
@@ -14778,7 +14757,6 @@ msgid "There is currently {num} user subscribed to {artist}:"
 msgid_plural "There are currently {num} users subscribed to {artist}:"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/label/subscribers.tt:4
 #, perl-format
@@ -14786,7 +14764,6 @@ msgid "There is currently {num} user subscribed to {label}:"
 msgid_plural "There are currently {num} users subscribed to {label}:"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/search/editor-not-found.tt:4
 #, perl-format
@@ -15936,7 +15913,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:11
 #, perl-format
 msgid "Title"
-msgstr "Название"
+msgstr ""
 
 #: ../root/cdstub/edit.tt:54 ../root/edit/details/add_track_kv.tt:3
 #: ../root/release/edit/information.tt:24
@@ -15966,7 +15943,7 @@ msgstr ""
 #: ../root/browse/release.tt:39 ../root/browse/work.tt:39
 #, perl-format
 msgid "To begin browsing, please select a letter above."
-msgstr "Начните просмотр с выбора начальной буква сверху"
+msgstr ""
 
 #: ../root/elections/show.tt:88
 #, perl-format
@@ -16108,7 +16085,7 @@ msgstr ""
 #: ../root/freedb/show.tt:63 ../root/search/lib/inline-results-recording.tt:14
 #, perl-format
 msgid "Track"
-msgstr "Дорожка"
+msgstr ""
 
 #: ../root/release/edit/tracklist.tt:151 ../root/release/edit/tracklist.tt:385
 #: ../root/release/edit/tracklist.tt:386
@@ -16183,7 +16160,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:116 ../root/tracklist/index.tt:5
 #, perl-format
 msgid "Tracks"
-msgstr "Дорожки"
+msgstr ""
 
 #: ../root/report/index.tt:59
 #, perl-format
@@ -16323,7 +16300,7 @@ msgstr ""
 #: ../root/search/results-release-group.tt:12
 #, perl-format
 msgid "Type"
-msgstr "Тип"
+msgstr ""
 
 #: ../root/artist/edit_form.tt:41 ../root/artist/index.tt:4
 #: ../root/artist/layout.tt:9 ../root/edit/details/add_artist.tt:25
@@ -16343,7 +16320,7 @@ msgstr "Тип"
 #: ../root/work/edit_form.tt:10 ../root/work/layout.tt:11
 #, perl-format
 msgid "Type:"
-msgstr "Тип:"
+msgstr ""
 
 #: ../root/edit/details/edit_release_attributes.tt:13
 #, perl-format
@@ -16556,7 +16533,7 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:32
 #, perl-format
 msgid "Unsubscribe"
-msgstr "Отписаться"
+msgstr ""
 
 #: ../root/label/subscriptions.tt:21
 #, perl-format
@@ -16566,7 +16543,7 @@ msgstr ""
 #: ../root/artist/subscribe.tt:18
 #, perl-format
 msgid "Unsubscribe from this artist."
-msgstr "Отписаться от исполнителя"
+msgstr ""
 
 #: ../root/admin/edit_user.tt:12
 #, perl-format
@@ -16581,7 +16558,7 @@ msgstr ""
 #: ../root/admin/wikidoc/edit.tt:16 ../root/admin/wikidoc/index.tt:108
 #, perl-format
 msgid "Update"
-msgstr "Изменить"
+msgstr ""
 
 #: ../root/admin/wikidoc/edit.tt:1 ../root/admin/wikidoc/edit.tt:3
 #, perl-format
@@ -16997,7 +16974,7 @@ msgstr ""
 #: ../root/edit/info.tt:57 ../root/edit/list_header.tt:21
 #, perl-format
 msgid "Voting FAQ"
-msgstr "ЧаВО по голосованию"
+msgstr ""
 
 #: ../root/elections/show.tt:85
 #, perl-format
@@ -17054,7 +17031,7 @@ msgstr ""
 #: ../root/artist/edit_form.tt:18 ../root/label/edit_form.tt:15
 #, perl-format
 msgid "Warning:"
-msgstr "Внимание:"
+msgstr ""
 
 #: DB:link_attribute_type/description:323 DB:link_attribute_type/name:323
 #, perl-format
@@ -17224,29 +17201,29 @@ msgstr ""
 #: ../root/layout.tt:142
 #, perl-format
 msgid "Wiki"
-msgstr "Вики"
+msgstr ""
 
 #: ../root/admin/wikidoc/index.tt:87
 #, perl-format
 msgid "Wiki version"
-msgstr "Вики версия"
+msgstr ""
 
 #: ../root/edit/details/change_wikidoc.tt:4
 #, perl-format
 msgid "WikiDoc:"
-msgstr "ВикиДок:"
+msgstr ""
 
 #: DB:link_type/link_phrase:89 DB:link_type/link_phrase:179
 #: DB:link_type/link_phrase:216 DB:link_type/reverse_link_phrase:279
 #, perl-format
 msgid "Wikipedia"
-msgstr "Википедия"
+msgstr ""
 
 #: DB:link_type/link_phrase:279 DB:link_type/reverse_link_phrase:89
 #: DB:link_type/reverse_link_phrase:179 DB:link_type/reverse_link_phrase:216
 #, perl-format
 msgid "Wikipedia page for"
-msgstr "Страница Википедии для"
+msgstr ""
 
 #: DB:link_attribute_type/description:266
 #, perl-format
@@ -17403,7 +17380,7 @@ msgstr ""
 #: ../root/search/results-freedb.tt:14
 #, perl-format
 msgid "Year"
-msgstr "Год"
+msgstr ""
 
 #: DB:country/name:234
 msgid "Yemen"
@@ -17437,7 +17414,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Yes, I am sure this artist is not duplicate, and I know what I am doing."
-msgstr "Да, я уверен что исполнитель не дублируется, и я знаю что делаю."
+msgstr ""
 
 #: ../root/label/edit_form.tt:29
 #, perl-format
@@ -17482,7 +17459,7 @@ msgstr ""
 #: ../root/artist/edit_form.tt:3
 #, perl-format
 msgid "You are about to add an artist to MusicBrainz."
-msgstr "Вы собираетесь добавить исполнителя в MusicBrainz."
+msgstr ""
 
 #: ../root/cdtoc/set_durations.tt:4
 #, perl-format
@@ -17548,7 +17525,7 @@ msgstr ""
 msgid ""
 "You are attempting to add an artist which appears to be very similar, if not"
 " exactly the same, as these existing artists:"
-msgstr "Вы пытаетесь добавить исполнителя, чьё имя похоже либо совпадает с именами следующих исполнителей:"
+msgstr ""
 
 #: ../root/browse/page_selector.tt:30
 #, perl-format
@@ -17858,7 +17835,7 @@ msgstr ""
 #: DB:link_attribute_type/description:492
 #, perl-format
 msgid "Zurna http://en.wikipedia.org/wiki/Zurna"
-msgstr "Зурна http://ru.wikipedia.org/wiki/Зурна"
+msgstr ""
 
 #: ../root/scripts/text_strings.tt:33
 #, perl-format
@@ -18390,7 +18367,7 @@ msgstr ""
 #: DB:link_type/link_phrase:199 DB:link_type/link_phrase:224
 #, perl-format
 msgid "blogs"
-msgstr "блоги"
+msgstr ""
 
 #: DB:link_attribute_type/name:504
 #, perl-format
@@ -20499,7 +20476,7 @@ msgstr ""
 #: DB:link_type/link_phrase:198 DB:link_type/link_phrase:223
 #, perl-format
 msgid "microblogs"
-msgstr "микроблоги"
+msgstr ""
 
 #: DB:link_attribute_type/name:2
 #, perl-format
@@ -20953,7 +20930,6 @@ msgid "plus {n} other anonymous user"
 msgid_plural "Plus {n} other anonymous users"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/release/collections.tt:14
 #, perl-format
@@ -20961,7 +20937,6 @@ msgid "plus {n} other private collection"
 msgid_plural "plus {n} other private collections"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: DB:link_attribute_type/name:515
 #, perl-format
@@ -21207,7 +21182,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:82
 #, perl-format
 msgid "releases"
-msgstr "релизы"
+msgstr ""
 
 #: DB:link_type/link_phrase:6 DB:link_type/link_phrase:236
 #, perl-format
@@ -22209,7 +22184,6 @@ msgid "which identify 1 recording:"
 msgid_plural "which identify {num} recordings:"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/statistics/index.tt:401
 #, perl-format
@@ -22292,7 +22266,6 @@ msgid "with {num} PUID:"
 msgid_plural "with {num} PUIDs:"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/statistics/index.tt:289 ../root/statistics/index.tt:322
 #, perl-format
@@ -22300,7 +22273,6 @@ msgid "with {num} disc ID:"
 msgid_plural "with {num} disc IDs:"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: DB:link_attribute_type/description:213 DB:link_attribute_type/name:213
 #, perl-format
@@ -22790,7 +22762,6 @@ msgid "{artist} has no releases which have only {n} track."
 msgid_plural "{artist} has no releases which have {n} tracks."
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/artist/relationships.tt:36 ../root/components/relationships.tt:26
 #, perl-format
@@ -22839,7 +22810,6 @@ msgid "{count} private rating not listed."
 msgid_plural "{count} private ratings not listed."
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/user/profile.tt:41
 #, perl-format
@@ -22877,7 +22847,7 @@ msgstr ""
 #: ../root/components/aliases.tt:42
 #, perl-format
 msgid "{entity} has no aliases."
-msgstr "У {entity} нет альтернативных имён"
+msgstr ""
 
 #: ../root/edit/details/remove_medium.tt:6
 #, perl-format
@@ -22932,7 +22902,6 @@ msgid "{num} artist found"
 msgid_plural "{num} artists found"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/tag/collection.tt:1
 #, perl-format
@@ -22940,7 +22909,6 @@ msgid "{num} collection found"
 msgid_plural "{num} collections found"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
@@ -22948,7 +22916,6 @@ msgid "{num} day"
 msgid_plural "{num}&nbsp;days"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/tag/label.tt:1
 #, perl-format
@@ -22956,7 +22923,6 @@ msgid "{num} label found"
 msgid_plural "{num} labels found"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
@@ -22964,7 +22930,6 @@ msgid "{num} month"
 msgid_plural "{num}&nbsp;months"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/tag/recording.tt:1
 #, perl-format
@@ -22972,7 +22937,6 @@ msgid "{num} recording found"
 msgid_plural "{num} recordings found"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/tag/release.tt:1
 #, perl-format
@@ -22980,7 +22944,6 @@ msgid "{num} release found"
 msgid_plural "{num} releases found"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/tag/release_group.tt:1
 #, perl-format
@@ -22988,7 +22951,6 @@ msgid "{num} release group found"
 msgid_plural "{num} release groups found"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/tag/work.tt:1
 #, perl-format
@@ -22996,7 +22958,6 @@ msgid "{num} work found"
 msgid_plural "{num} works found"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
@@ -23004,7 +22965,6 @@ msgid "{num} year"
 msgid_plural "{num}&nbsp;years"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/statistics/formats.tt:9 ../root/statistics/formats.tt:11
 #: ../root/statistics/index.tt:124 ../root/statistics/index.tt:130
@@ -23081,7 +23041,6 @@ msgid "{release} has been added to {num} collection:"
 msgid_plural "{release} has been added to {num} collections:"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../root/release/collections.tt:22
 #, perl-format
@@ -23180,7 +23139,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:50 ../root/edit/index.tt:29
 #, perl-format
 msgid "{yes} yes : {no} no"
-msgstr "{yes} за : {no} против"
+msgstr ""
 
 #: ../root/release/edit/duplicates.tt:35 ../root/release/edit/editnote.tt:41
 #: ../root/release/edit/missing_entities.tt:119
@@ -23292,7 +23251,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:51
 msgid "The email address is missing."
-msgstr "Адрес электронной почты отсутствует"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:58
 msgid "The time is missing or is in an invalid format."
@@ -23324,7 +23283,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:157
 msgid "There is no user with this username"
-msgstr "Пользователя с таким именем не существует"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:161
 msgid "There is no user with this username and email"
@@ -23417,7 +23376,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:419
 msgid "Release not found"
-msgstr "Релиз не найден"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:433
 msgid "Target entity not found"
@@ -23447,7 +23406,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:306
 msgid "This release is already in the selected release group"
-msgstr "Этот релиз уже в выбранных релиз группах"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:502
 msgid ""
@@ -23572,17 +23531,17 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabel.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
 msgid "Add label"
-msgstr "Добавить лейбл"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabelAnnotation.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAnnotation.pm:12
 msgid "Add label annotation"
-msgstr "Добавить пояснение к лейблу"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLink.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Create.pm:22
 msgid "Add relationship"
-msgstr "Добавить связь"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLinkAttr.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkAttribute.pm:13
@@ -23592,17 +23551,17 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLinkType.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkType.pm:13
 msgid "Add relationship type"
-msgstr "Добавить тип связи"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddPUIDs.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddPUIDs.pm:13
 msgid "Add PUIDs"
-msgstr "Добавить PUID"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:14
 msgid "Add release annotation"
-msgstr "Добавить пояснения к релизу"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseEvents.pm:11
 msgid "Add release events (historic)"
@@ -23664,19 +23623,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupName.pm:7
 msgid "Edit release group name"
-msgstr "Править название релиз группы"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupType.pm:9
 msgid "Edit release group type"
-msgstr "Править тип релиз группы"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseLanguage.pm:13
 msgid "Edit release language"
-msgstr "Править язык релиза"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseName.pm:10
 msgid "Edit release name"
-msgstr "Править название релиза"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length"
@@ -23707,7 +23666,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Release/Merge.pm:49
 msgid "Merge releases"
-msgstr "Соединить релизы"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:18
@@ -23716,7 +23675,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release"
-msgstr "Переместить релиз"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:10
@@ -23752,7 +23711,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases"
-msgstr "Удалить релизы"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists"
@@ -23804,19 +23763,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
-msgstr "Добавить лейбл релиза"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/DeleteReleaseLabel.pm:16
 msgid "Remove release label"
-msgstr "Удалить лейбл релиза"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
-msgstr "Править релиз"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:28
 msgid "Edit release artist"
-msgstr "Править исполнителя релиза"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:140
 msgid ""
@@ -23829,15 +23788,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
-msgstr "Править лейбл релиза"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
-msgstr "Добавить пояснение к релиз группе"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Edit.pm:33
 msgid "Edit release group"
-msgstr "Править релиз группу"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
@@ -23845,11 +23804,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
-msgstr "Вики документация"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
-msgstr "Изменить ВикиДок"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
@@ -24036,7 +23995,6 @@ msgid "This medium has a Disc ID, it should have exactly {n} track."
 msgid_plural "This medium has a Disc ID, it should have exactly {n} tracks."
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
@@ -24216,7 +24174,6 @@ msgid_plural ""
 "{trackcount} tracks"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:1377
 msgid "This release already has all of its tracks"
@@ -24237,7 +24194,6 @@ msgid_plural ""
 "{trackcount} tracks"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:1427
 msgid "None of the tracks on this album are eligible for removal"
@@ -24245,7 +24201,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:52
 msgid "Release Information"
-msgstr "Информация о релизе"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:73
 msgid "Add Missing Entities"
