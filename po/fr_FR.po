@@ -5,6 +5,7 @@
 # Translators:
 #   <email address hidden>, 2012.
 # Benjamin <email address hidden>, 2011.
+# Benjamin Sonntag <email address hidden>, 2011, 2012.
 # Benjamin Sonntag <email address hidden>, 2011.
 # Dibou  <email address hidden>, 2012.
 # murdos <email address hidden>, 2011.
@@ -13,8 +14,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-03-20 06:06+0000\n"
-"Last-Translator: Dibou <email address hidden>\n"
+"PO-Revision-Date: 2012-04-29 19:03+0000\n"
+"Last-Translator: Benjamin Sonntag <email address hidden>\n"
 "Language-Team: French (France) (http://www.transifex.net/projects/p/musicbrainz/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -69,12 +70,12 @@ msgstr "#"
 #: ../root/statistics/formats.tt:31
 #, perl-format
 msgid "% of total mediums"
-msgstr ""
+msgstr "% du nombre total de media"
 
 #: ../root/statistics/formats.tt:29
 #, perl-format
 msgid "% of total releases"
-msgstr ""
+msgstr "% du total des sorties"
 
 #: ../root/doc/edit_type.tt:67
 #, perl-format
@@ -99,12 +100,12 @@ msgstr "(<strong>non vérifié !</strong>)"
 #: ../root/main/400.tt:12 ../root/main/500.tt:41
 #, perl-format
 msgid "(No details about this error are available)"
-msgstr ""
+msgstr "(Aucun détail disponible sur cette erreur)"
 
 #: ../root/statistics/formats.tt:37
 #, perl-format
 msgid "(Totals)"
-msgstr ""
+msgstr "(Totaux)"
 
 #: ../root/release/edit/recordings.tt:205
 #: ../root/release/edit/recordings.tt:319
@@ -140,7 +141,7 @@ msgstr "(nouveau disque)"
 #: ../root/edit/details/add_release.tt:22
 #, perl-format
 msgid "(new release group)"
-msgstr ""
+msgstr "(nouveau groupe de sorties)"
 
 #: ../root/annotation/common.tt:17
 #: ../root/edit/details/add_artist_annotation.tt:10
@@ -168,12 +169,12 @@ msgstr "(aucun)"
 #: ../root/elections/show.tt:121
 #, perl-format
 msgid "(private)"
-msgstr ""
+msgstr "(privé)"
 
 #: ../root/search/lib/inline-results-recording.tt:49
 #, perl-format
 msgid "(standalone recording)"
-msgstr ""
+msgstr "(enregistrement isolé)"
 
 #: ../root/edit/details/convert_release_to_multiple_artists.tt:11
 #: ../root/edit/details/historic/mac_to_sac.tt:8
@@ -192,12 +193,12 @@ msgstr "(vérifié le {date})"
 #: ../root/release/merge.tt:63
 #, perl-format
 msgid "(was medium {position} on release {release})"
-msgstr ""
+msgstr "(était le média {position} de la sortie {release})"
 
 #: ../root/release/merge.tt:58
 #, perl-format
 msgid "(was medium {position}: {name} on release {release})"
-msgstr ""
+msgstr "(était le média {position}: {nom} de la sortie {release})"
 
 #: ../root/recording/layout.tt:19
 #, perl-format
@@ -214,7 +215,7 @@ msgstr "* Cette valeur indique la différence totale en secondes entre le CD que
 #: ../root/statistics/view_js.tt:23
 #, perl-format
 msgid "/day"
-msgstr ""
+msgstr "/jour"
 
 #: ../root/user/profile.tt:81
 #, perl-format
@@ -230,7 +231,7 @@ msgstr[1] "{n} votes unanimes"
 
 #: DB:medium_format/name:30
 msgid "10\" Vinyl"
-msgstr ""
+msgstr "Vinyl 10\""
 
 #: ../root/user/profile.tt:179 ../root/user/profile.tt:183
 #, perl-format
@@ -240,11 +241,11 @@ msgstr "100%"
 #: DB:link_attribute_type/description:529 DB:link_attribute_type/name:529
 #, perl-format
 msgid "12 string guitar"
-msgstr ""
+msgstr "Guitare 12 cordes"
 
 #: DB:medium_format/name:31
 msgid "12\" Vinyl"
-msgstr ""
+msgstr "Vinyl 12\""
 
 #: ../root/elections/show.tt:17
 #, perl-format
@@ -263,11 +264,11 @@ msgstr ""
 
 #: DB:medium_format/name:29
 msgid "7\" Vinyl"
-msgstr ""
+msgstr "Vinyl 7\""
 
 #: DB:medium_format/name:34
 msgid "8cm CD"
-msgstr ""
+msgstr "CD de 8cm"
 
 #: ../root/admin/edit_user.tt:16
 #, perl-format
@@ -282,7 +283,7 @@ msgstr "<em>Annulation</em>"
 #: ../root/annotation/history.tt:31
 #, perl-format
 msgid "<em>no changelog specified</em>"
-msgstr ""
+msgstr "<em>aucun journal n'a été sélectionné</em>"
 
 #: ../root/edit/edit_header.tt:62
 #, perl-format
@@ -306,7 +307,7 @@ msgstr "<strong>Erreur :</strong> Vous avez essayé de naviguer dans la base de 
 #: ../root/release/edit/tracklist.tt:143
 #, perl-format
 msgid "<strong>Error</strong>:"
-msgstr ""
+msgstr "<strong>Erreur</strong> :"
 
 #: ../root/account/register.tt:14
 #, perl-format
@@ -375,7 +376,7 @@ msgid ""
 "A CD Stub was found that matches the disc ID you provided. If the below "
 "tracklist appears correct, you may use it as a starting point as a new "
 "MusicBrainz release"
-msgstr ""
+msgstr "Un modèle de CD a été trouvé, dont l'ID de disque correspond. Si la liste de pistes ci-dessous vous semble correcte, vous pourriez l'utiliser comme point de départ pour une nouvelle sortie MusicBrainz."
 
 #: DB:link_attribute_type/description:600
 #, perl-format
@@ -457,8 +458,8 @@ msgstr ""
 #, perl-format
 msgid "A private collection"
 msgid_plural "{n} private collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Une collection privée"
+msgstr[1] "{n} collections privées"
 
 #: ../root/edit/relationship/create_batch.tt:23
 #: ../root/edit/relationship/create.tt:26
@@ -478,7 +479,7 @@ msgstr "une relation entre {entity0} et {entity1} existe déjà avec ces attribu
 #: ../root/edit/relationship/create_url.tt:30
 #, perl-format
 msgid "A relationship between {entity} and {url} already exists."
-msgstr ""
+msgstr "La relation entre {entity} et {url} existe déjà."
 
 #: DB:link_attribute_type/description:192
 #, perl-format
@@ -511,7 +512,7 @@ msgstr ""
 #: DB:link_type/link_phrase:77 DB:link_type/reverse_link_phrase:77
 #, perl-format
 msgid "ASIN"
-msgstr ""
+msgstr "ASIN"
 
 #: DB:language/name:2
 msgid "Abkhazian"
@@ -536,7 +537,7 @@ msgstr "S'abstenir"
 #: ../root/statistics/view_js.tt:68
 #, perl-format
 msgid "Abstentions"
-msgstr ""
+msgstr "Abstentions"
 
 #: ../root/doc/edit_type.tt:58
 #, perl-format
@@ -591,17 +592,17 @@ msgstr "Actions"
 #: ../root/statistics/view_js.tt:71
 #, perl-format
 msgid "Active Editors"
-msgstr ""
+msgstr "Éditeurs actifs"
 
 #: ../root/statistics/view_js.tt:73
 #, perl-format
 msgid "Active Users"
-msgstr ""
+msgstr "Utilisateurs actifs"
 
 #: ../root/statistics/view_js.tt:72
 #, perl-format
 msgid "Active Voters"
-msgstr ""
+msgstr "Électeurs actifs"
 
 #: DB:language/name:5
 msgid "Adangme"
@@ -631,7 +632,7 @@ msgstr "Ajouter un crédit d'artiste"
 #: ../root/cdstub/logged_in.tt:1 ../root/cdstub/logged_in.tt:2
 #, perl-format
 msgid "Add CD Stub"
-msgstr ""
+msgstr "Ajouter un modèle de CD"
 
 #: ../root/release/edit/tracklist.tt:166 ../root/release/edit/tracklist.tt:292
 #: ../root/release/edit/tracklist.tt:476
@@ -684,19 +685,19 @@ msgstr "Ajouter une sortie"
 #: ../root/layout/menu.tt:182
 #, perl-format
 msgid "Add Release Group"
-msgstr ""
+msgstr "Ajouter un groupe de sorties"
 
 #: ../root/layout/menu.tt:191 ../root/recording/create.tt:16
 #: ../root/recording/create.tt:18
 #, perl-format
 msgid "Add Standalone Recording"
-msgstr ""
+msgstr "Ajouter un enregistrement isolé"
 
 #: ../root/edit/relationship/create_url.tt:15
 #: ../root/edit/relationship/create_url.tt:17
 #, perl-format
 msgid "Add URL Relationship"
-msgstr ""
+msgstr "Ajouter une relation avec une URL"
 
 #: ../root/layout/menu.tt:188
 #, perl-format
@@ -852,7 +853,7 @@ msgstr "Ajouter un groupe de sorties"
 #: ../root/report/duplicate_artists.tt:45
 #, perl-format
 msgid "Add selected artists for merging"
-msgstr ""
+msgstr "Ajouter les artistes sélectionnés en vue d'une fusion"
 
 #: ../root/artist/recordings.tt:7 ../root/isrc/index.tt:37
 #, perl-format
@@ -878,7 +879,7 @@ msgstr "Ajouter à ma collection"
 #: ../root/release/sidebar.tt:127
 #, perl-format
 msgid "Add to {collection}"
-msgstr ""
+msgstr "Ajouter à {collection}"
 
 #: ../root/release/edit/tracklist.tt:437
 #, perl-format
@@ -960,7 +961,7 @@ msgstr ""
 #: ../root/statistics/index.tt:562
 #, perl-format
 msgid "Advanced Relationships"
-msgstr ""
+msgstr "Relations avancées"
 
 #: DB:language/name:6
 msgid "Adyghe"
@@ -977,7 +978,7 @@ msgstr "afar"
 #: ../root/layout/sidebar/sidebar-affiliates.tt:7
 #, perl-format
 msgid "Affiliate links"
-msgstr ""
+msgstr "Liens d'affiliation"
 
 #: DB:country/name:1
 msgid "Afghanistan"
@@ -1094,27 +1095,27 @@ msgstr "Toutes les modifications ont été appliquées"
 #: ../root/statistics/view_js.tt:59
 #, perl-format
 msgid "All edits that have failed by being voted down"
-msgstr ""
+msgstr "Toutes les modifications ont échouées du fait d'un vote négatif"
 
 #: ../root/statistics/view_js.tt:57
 #, perl-format
 msgid "All edits that have failed dependency checks"
-msgstr ""
+msgstr "Toutes les modifications ont échouées à cause de leurs dépendances"
 
 #: ../root/statistics/view_js.tt:58
 #, perl-format
 msgid "All edits that have failed prerequisite checks"
-msgstr ""
+msgstr "Toutes les modifications ont échouées à cause de prérequis non satisfaits"
 
 #: ../root/statistics/view_js.tt:56
 #, perl-format
 msgid "All edits that have hit an error"
-msgstr ""
+msgstr "Toutes les modifications ayant provoqué une erreur"
 
 #: ../root/statistics/languages_scripts.tt:22
 #, perl-format
 msgid "All other available languages and scripts have 0 releases."
-msgstr ""
+msgstr "Toutes les autres langues et encodages ont 0 sorties."
 
 #: DB:link_type/link_phrase:283 DB:link_type/link_phrase:284
 #: DB:link_type/link_phrase:285 DB:link_type/reverse_link_phrase:286
@@ -1126,7 +1127,7 @@ msgstr "Allmusic"
 #: DB:link_type/reverse_link_phrase:284 DB:link_type/reverse_link_phrase:285
 #, perl-format
 msgid "Allmusic page for"
-msgstr ""
+msgstr "Page Allmusic de "
 
 #: ../root/account/preferences.tt:32
 #, perl-format
@@ -1177,7 +1178,7 @@ msgstr "altaïques, langues"
 #: ../root/release/edit/tracklist.tt:180
 #, perl-format
 msgid "Alternatively, enter a tracklist below:"
-msgstr ""
+msgstr "Sinon, entrez une liste de pistes ci-dessous : "
 
 #: ../root/search/results-artist.tt:7
 #, perl-format
@@ -1187,23 +1188,23 @@ msgstr "Sinon, vous pouvez {uri|ajouter un nouvel artiste}."
 #: ../root/search/results-label.tt:38
 #, perl-format
 msgid "Alternatively, you may {uri|add a new label}."
-msgstr ""
+msgstr "Sinon, vous pouvez {uri|créer un label}."
 
 #: ../root/search/results-recording.tt:7
 #, perl-format
 msgid "Alternatively, you may {uri|add a new recording}."
-msgstr ""
+msgstr "Sinon, vous pouvez {uri|créer un enregistrement}."
 
 #: ../root/search/results-release_group.tt:30
 #: ../root/search/results-release-group.tt:30
 #, perl-format
 msgid "Alternatively, you may {uri|add a new release group}."
-msgstr ""
+msgstr "Sinon, vous pouvez {uri|créer un groupe de sorties}."
 
 #: ../root/search/results-work.tt:44
 #, perl-format
 msgid "Alternatively, you may {uri|add a new work}."
-msgstr ""
+msgstr "Sinon, vous pouvez {uri|créer un travail}."
 
 #: DB:link_attribute_type/description:311
 #, perl-format
@@ -1261,7 +1262,7 @@ msgstr[1] "{n} utilisateurs anonymes"
 msgid ""
 "An error occured while creating your account.  Make sure javascript and "
 "cookies are enabled in your browser."
-msgstr ""
+msgstr "Une erreur est survenue à la création de votre compte. Assurez-vous que javascript et les cookies sont activés sur votre navigateur."
 
 #: ../root/edit/index.tt:21 ../root/edit/list.tt:68
 #: ../root/release/edit/editnote.tt:27
@@ -1384,7 +1385,7 @@ msgstr "Ajouter ces médias à la release cible"
 #: ../root/statistics/view_js.tt:55
 #, perl-format
 msgid "Applied edits"
-msgstr ""
+msgstr "Modifications appliquées"
 
 #: ../root/statistics/index.tt:459
 #, perl-format
@@ -1438,19 +1439,19 @@ msgstr "Êtes-vous sûr de vouloir affecter l'ID de disque <code>{discid}</code>
 msgid ""
 "Are you sure you want to delete all information about {e}? This cannot be "
 "undone!"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer toutes les informations sur {e} ? Cela ne peut pas être annulé !"
 
 #: ../root/admin/delete_user.tt:19
 #, perl-format
 msgid "Are you sure you want to delete your account? This cannot be undone!"
-msgstr ""
+msgstr "Etes-vous sûr de vouloir supprimer votre compte ? Cela ne peut pas être annulé !"
 
 #: ../root/elections/nominate.tt:5
 #, perl-format
 msgid ""
 "Are you sure you want to nominate the editor {editor} for auto-editor "
 "status?"
-msgstr ""
+msgstr "Etes-vous sûr de vouloir promouvoir l'éditeur {editor} au statut d'auto-éditeur ?"
 
 #: ../root/recording/delete_puid.tt:2
 #, perl-format
@@ -1495,7 +1496,7 @@ msgstr "Êtes-vous sûr de vouloir supprimer l'ID de disque <code>{discid}</code
 #: ../root/edit/cancel.tt:3
 #, perl-format
 msgid "Are you sure you wish to cancel edit #{n}? This cannot be undone!"
-msgstr ""
+msgstr "Etes-vous sûr de vouloir annuler la modification N°{n} ? Cela sera définitif !"
 
 #: ../root/admin/wikidoc/delete.tt:4
 #, perl-format
@@ -1561,7 +1562,7 @@ msgstr "Argentine"
 
 #: DB:work_type/name:1
 msgid "Aria"
-msgstr ""
+msgstr "Aria"
 
 #: DB:country/name:11
 msgid "Armenia"
@@ -1625,12 +1626,12 @@ msgstr "Artiste"
 #: ../root/statistics/view_js.tt:27
 #, perl-format
 msgid "Artist Countries"
-msgstr ""
+msgstr "Pays de l'artiste"
 
 #: ../root/edit/search_macros.tt:278
 #, perl-format
 msgid "Artist Country"
-msgstr ""
+msgstr "Pays de l'artiste"
 
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
@@ -1666,12 +1667,12 @@ msgstr "Artiste non trouvé"
 #: ../root/statistics/view_js.tt:155
 #, perl-format
 msgid "Artist Ratings"
-msgstr ""
+msgstr "Note de l'artiste"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
 msgid "Artist Ratings (raw)"
-msgstr ""
+msgstr "Note de l'artiste (brute)"
 
 #: ../root/user/subscriptions/artist.tt:1 ../root/user/subscriptions/menu.tt:3
 #, perl-format
@@ -1686,7 +1687,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:32
 #, perl-format
 msgid "Artist Types and Genders"
-msgstr ""
+msgstr "Types et genre de l'artiste"
 
 #: ../root/components/forms.tt:223
 #, perl-format
@@ -1711,7 +1712,7 @@ msgstr "Artist dans MusicBrainz"
 #: ../root/artist/layout.tt:4
 #, perl-format
 msgid "Artist information"
-msgstr ""
+msgstr "Informations sur l'artiste"
 
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
@@ -1731,37 +1732,37 @@ msgstr "Artiste {n} :"
 #: ../root/statistics/index.tt:571
 #, perl-format
 msgid "Artist-Artist:"
-msgstr ""
+msgstr "Artiste - artiste :"
 
 #: ../root/statistics/index.tt:577
 #, perl-format
 msgid "Artist-Label:"
-msgstr ""
+msgstr "Artiste - label :"
 
 #: ../root/statistics/index.tt:583
 #, perl-format
 msgid "Artist-Recording:"
-msgstr ""
+msgstr "Artiste - enregistrement :"
 
 #: ../root/statistics/index.tt:595
 #, perl-format
 msgid "Artist-Release Group:"
-msgstr ""
+msgstr "Artiste -  groupe de sorties : "
 
 #: ../root/statistics/index.tt:589
 #, perl-format
 msgid "Artist-Release:"
-msgstr ""
+msgstr "Artiste - sortie : "
 
 #: ../root/statistics/index.tt:601
 #, perl-format
 msgid "Artist-URL:"
-msgstr ""
+msgstr "Artiste - URL : "
 
 #: ../root/statistics/index.tt:607
 #, perl-format
 msgid "Artist-Work:"
-msgstr ""
+msgstr "Artiste - travail :"
 
 #: ../root/cdstub/edit.tt:55 ../root/cdstub/import.tt:7
 #: ../root/cdtoc/attach_filter_artist.tt:6 ../root/cdtoc/lookup.tt:60
@@ -1859,52 +1860,52 @@ msgstr ""
 #: ../root/statistics/view_js.tt:103
 #, perl-format
 msgid "Artists with gender set to female"
-msgstr ""
+msgstr "Artistes féminines"
 
 #: ../root/statistics/view_js.tt:102
 #, perl-format
 msgid "Artists with gender set to male"
-msgstr ""
+msgstr "Artistes masculins"
 
 #: ../root/statistics/view_js.tt:104
 #, perl-format
 msgid "Artists with gender set to other"
-msgstr ""
+msgstr "Artiste d'un autre genre"
 
 #: ../root/statistics/view_js.tt:101
 #, perl-format
 msgid "Artists with gender unset (non-group artists)"
-msgstr ""
+msgstr "Artistes au genre non précisé (hors groupes)"
 
 #: ../root/statistics/view_js.tt:112
 #, perl-format
 msgid "Artists with no appearances in artist credits"
-msgstr ""
+msgstr "Artistes n'apparaissant dans aucun crédit d'artiste"
 
 #: ../root/statistics/view_js.tt:75
 #, perl-format
 msgid "Artists with no country set"
-msgstr ""
+msgstr "Artistes sans précision de pays "
 
 #: ../root/statistics/view_js.tt:107
 #, perl-format
 msgid "Artists with type set to group"
-msgstr ""
+msgstr "Artistes de type \"groupe\""
 
 #: ../root/statistics/view_js.tt:108
 #, perl-format
 msgid "Artists with type set to other"
-msgstr ""
+msgstr "Artistes de type \"autre\""
 
 #: ../root/statistics/view_js.tt:106
 #, perl-format
 msgid "Artists with type set to person"
-msgstr ""
+msgstr "Artistes de type personne"
 
 #: ../root/statistics/view_js.tt:109
 #, perl-format
 msgid "Artists with type unset"
-msgstr ""
+msgstr "Artiste sans type "
 
 #: ../root/statistics/index.tt:17 ../root/statistics/index.tt:116
 #, perl-format
@@ -1922,7 +1923,7 @@ msgstr "assamais"
 #: ../root/recording/fingerprints.tt:3
 #, perl-format
 msgid "Associated AcoustIDs"
-msgstr ""
+msgstr "AcoustID associé"
 
 #: ../root/recording/fingerprints.tt:5
 #, perl-format
@@ -1980,7 +1981,7 @@ msgstr "Rattaché aux sorties"
 #: ../root/artist/relationships.tt:15
 #, perl-format
 msgid "Attributes"
-msgstr ""
+msgstr "Attributs"
 
 #: ../root/admin/linktype/form.tt:30
 #: ../root/edit/details/edit_relationship_type.tt:26
@@ -2023,12 +2024,12 @@ msgstr "Élections des Auto-Éditeurs"
 #: ../root/elections/show.tt:1 ../root/elections/show.tt:3
 #, perl-format
 msgid "Auto-editor election #{no}"
-msgstr ""
+msgstr "Élection de l'auto-éditeur N°{no}"
 
 #: ../root/elections/index.tt:1 ../root/elections/index.tt:3
 #, perl-format
 msgid "Auto-editor elections"
-msgstr ""
+msgstr "Élections des auto-éditeurs"
 
 #: ../root/user/privileged.tt:18
 #, perl-format
@@ -2052,12 +2053,12 @@ msgstr "Modifications par Robot"
 #: ../root/account/preferences.tt:49
 #, perl-format
 msgid "Automatically subscribe me to artists I create."
-msgstr ""
+msgstr "Abonne-moi automatiquement aux artistes que je crée."
 
 #: ../root/account/preferences.tt:51
 #, perl-format
 msgid "Automatically subscribe me to labels I create."
-msgstr ""
+msgstr "Abonne-moi automatiquement aux labels que je crée."
 
 #: DB:language/name:30
 msgid "Avaric"
@@ -2086,12 +2087,12 @@ msgstr "azéri"
 #: DB:link_type/link_phrase:190
 #, perl-format
 msgid "BBC Music"
-msgstr ""
+msgstr "BBC Music"
 
 #: DB:link_type/reverse_link_phrase:190
 #, perl-format
 msgid "BBC Music page for"
-msgstr ""
+msgstr "page BBC Music de "
 
 #: ../root/browse/page_selector.tt:54
 #, perl-format
@@ -2101,7 +2102,7 @@ msgstr "Retour"
 #: ../root/elections/show.tt:5
 #, perl-format
 msgid "Back to elections"
-msgstr ""
+msgstr "Retourner aux élections"
 
 #: DB:link_attribute_type/description:12
 #, perl-format
@@ -2144,7 +2145,7 @@ msgstr "balinais"
 
 #: DB:work_type/name:2
 msgid "Ballet"
-msgstr ""
+msgstr "Ballet"
 
 #: DB:language/name:43
 msgid "Baltic languages"
@@ -2244,7 +2245,7 @@ msgstr "basa"
 msgid ""
 "Based on the above CD stub, we also found the following releases in "
 "MusicBrainz that may be related:"
-msgstr ""
+msgstr "Sur la base du modèle de CD ci-dessus, nous avons trouvé les sorties suivantes dans MusicBrainz, qui pourraient être en relation :"
 
 #: ../root/release/edit/duplicates.tt:13
 #, perl-format
@@ -2332,7 +2333,7 @@ msgid ""
 "review entered data to create the most accurate music database on the "
 "internet. If this appeals to you, please {reg|create an account} or "
 "{login_url|login}."
-msgstr ""
+msgstr "Devenez membre de MusicBrainz en vous créant un compte et {how|lisez notre documentation} sur comment entrer des informations dans MusicBrainz. Découvrez comment ce processus de re"
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/scripts/text_strings.tt:70
@@ -2693,7 +2694,7 @@ msgstr "Résultat de la recherche de CD"
 #: ../root/cdtoc/lookup.tt:82
 #, perl-format
 msgid "CD Not Found"
-msgstr ""
+msgstr "CD non trouvé"
 
 #: ../root/search/results-cdstub.tt:10
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
@@ -2709,7 +2710,7 @@ msgstr "Modèle de CD non trouvé"
 #: ../root/cdtoc/lookup.tt:17
 #, perl-format
 msgid "CD Stub found"
-msgstr ""
+msgstr "Modèle de CD non trouvé"
 
 #: ../root/statistics/index.tt:60
 #, perl-format
@@ -2744,7 +2745,7 @@ msgstr "Détails du modèle de CD"
 #: ../root/release/edit/tracklist.tt:172
 #, perl-format
 msgid "CD stub import"
-msgstr ""
+msgstr "Importation d'un modèle de CD"
 
 #: ../root/cdstub/layout.tt:1
 #, perl-format
@@ -2757,7 +2758,7 @@ msgid ""
 "CD stubs are a feature to allow anonymous users to submit data to "
 "MusicBrainz. For more information, see {cdstub|the documentation on CD "
 "stubs}."
-msgstr ""
+msgstr "les modèles de CD sont une fonctionnalité permettant à des utilisateurs anonymes de soumettre des données à MusicBrainz. Pour plus d'information, voir {cdstub|la documentation sur les modèles de CD}."
 
 #: DB:medium_format/name:33
 msgid "CD-R"
@@ -2766,17 +2767,17 @@ msgstr "CD-R"
 #: ../root/statistics/view_js.tt:119
 #, perl-format
 msgid "CDStub tracks"
-msgstr ""
+msgstr "Pistes du modèle de CD"
 
 #: ../root/statistics/view_js.tt:117
 #, perl-format
 msgid "CDStubs (all)"
-msgstr ""
+msgstr "Modèles de CD (tous)"
 
 #: ../root/statistics/view_js.tt:118
 #, perl-format
 msgid "CDStubs (submitted)"
-msgstr ""
+msgstr "Modèles de CD (soumis)"
 
 #: DB:language/name:65
 msgid "Caddo"
@@ -2798,7 +2799,7 @@ msgstr "Cameroun"
 #: ../root/doc/edit_type.tt:65
 #, perl-format
 msgid "Can be approved"
-msgstr ""
+msgstr "Peut être approuvé"
 
 #: DB:country/name:38
 msgid "Canada"
@@ -2826,12 +2827,12 @@ msgstr "Annuler"
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
 msgid "Cancel Edit"
-msgstr ""
+msgstr "Annuler la modification"
 
 #: ../root/components/common-macros.tt:396
 #, perl-format
 msgid "Cancel creating relationship with {name}"
-msgstr ""
+msgstr "Annuler la création de la relation avec {name}"
 
 #: ../root/edit/cancel.tt:24 ../root/edit/edit_header.tt:81
 #: ../root/edit/info.tt:21
@@ -2871,12 +2872,12 @@ msgstr "L'annulation d'une modification en attente prendra effet sous une heure,
 #: ../root/elections/index.tt:9
 #, perl-format
 msgid "Candidate"
-msgstr ""
+msgstr "Candidat"
 
 #: ../root/elections/show.tt:11
 #, perl-format
 msgid "Candidate:"
-msgstr ""
+msgstr "Candidat :"
 
 #: ../root/edit/relationship/cannot_create.tt:1
 #: ../root/edit/relationship/cannot_create.tt:2
@@ -2896,7 +2897,7 @@ msgstr "Impossible d'effectuer la modification"
 
 #: DB:work_type/name:3
 msgid "Cantata"
-msgstr ""
+msgstr "Cantate"
 
 #: DB:country/name:39
 msgid "Cape Verde"
@@ -2904,7 +2905,7 @@ msgstr "Cap-Vert"
 
 #: DB:release_packaging/name:4
 msgid "Cardboard/Paper Sleeve"
-msgstr ""
+msgstr "Emballage carton ou papier"
 
 #: DB:script/name:108
 msgid "Carian"
@@ -2912,7 +2913,7 @@ msgstr "carien"
 
 #: DB:medium_format/name:9
 msgid "Cartridge"
-msgstr ""
+msgstr "Cartouche"
 
 #: DB:medium_format/name:8
 msgid "Cassette"
@@ -2921,7 +2922,7 @@ msgstr "Cassette"
 #: ../root/release/edit/information.tt:75
 #, perl-format
 msgid "Cat.No:"
-msgstr ""
+msgstr "Cat. No :"
 
 #: DB:language/name:68
 msgid "Catalan"
@@ -3045,7 +3046,7 @@ msgstr "Changer de sens"
 #: ../root/release/change_quality.tt:1 ../root/release/change_quality.tt:2
 #, perl-format
 msgid "Change release data quality"
-msgstr ""
+msgstr "Changer la qualité des données de la sortie"
 
 #: ../root/release/sidebar.tt:69
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseGroup.pm:10
@@ -3094,7 +3095,7 @@ msgstr "tchétchène"
 #: ../root/statistics/timeline.tt:75
 #, perl-format
 msgid "Check boxes above"
-msgstr ""
+msgstr "Cochez la case ci-dessus"
 
 #: DB:language/name:82 DB:script/name:88
 msgid "Cherokee"
@@ -3190,32 +3191,32 @@ msgstr "syriaque classique"
 #: ../root/scripts/text_strings.tt:78
 #, perl-format
 msgid "Clear artist"
-msgstr ""
+msgstr "Effacer l'artiste"
 
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
 msgid "Clear label"
-msgstr ""
+msgstr "Effacer le label"
 
 #: ../root/scripts/text_strings.tt:80
 #, perl-format
 msgid "Clear recording"
-msgstr ""
+msgstr "Effacer l'enregistrement"
 
 #: ../root/scripts/text_strings.tt:81
 #, perl-format
 msgid "Clear release"
-msgstr ""
+msgstr "Effacer la sortie"
 
 #: ../root/scripts/text_strings.tt:82
 #, perl-format
 msgid "Clear release group"
-msgstr ""
+msgstr "Effacer le groupe de sorties"
 
 #: ../root/scripts/text_strings.tt:83
 #, perl-format
 msgid "Clear work"
-msgstr ""
+msgstr "Effacer le travail"
 
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
@@ -3225,7 +3226,7 @@ msgstr "Cliquez sur Modifier pour modifier l'association des enregistrements de 
 #: ../root/statistics/timeline.tt:74
 #, perl-format
 msgid "Click to deselect"
-msgstr ""
+msgstr "Cliquez pour désélectionner"
 
 #: ../root/account/edit_ok.tt:12
 #, perl-format
@@ -3240,7 +3241,7 @@ msgstr "Client :"
 #: ../root/edit/search_macros.tt:278
 #, perl-format
 msgid "Closed"
-msgstr ""
+msgstr "Fermé"
 
 #: ../root/edit/info.tt:42
 #, perl-format
@@ -3275,7 +3276,7 @@ msgstr "codet pour les documents non écrites"
 #: ../root/layout/menu.tt:92
 #, perl-format
 msgid "Code of Conduct"
-msgstr ""
+msgstr "Code de conduite"
 
 #: ../root/report/collaboration_relationships.tt:19
 #, perl-format
@@ -3310,7 +3311,7 @@ msgstr "Collection non trouvée"
 #: ../root/collection/edit_form.tt:4
 #, perl-format
 msgid "Collection details"
-msgstr ""
+msgstr "Détails de la collection"
 
 #: ../root/collection/layout.tt:1
 #, perl-format
@@ -3351,7 +3352,7 @@ msgstr "Comparaison de la version de {user_old} le {date_old} avec la version de
 
 #: DB:release_group_type/name:4
 msgid "Compilation"
-msgstr ""
+msgstr "Compilation"
 
 #: DB:link_attribute_type/description:499
 #, perl-format
@@ -3426,7 +3427,7 @@ msgstr ""
 #: ../root/statistics/timeline.tt:71
 #, perl-format
 msgid "Controls"
-msgstr ""
+msgstr "Contrôles"
 
 #: DB:country/name:50
 msgid "Cook Islands"
@@ -3444,12 +3445,12 @@ msgstr "Copier"
 #: ../root/release/edit/missing_entities.tt:21
 #, perl-format
 msgid "Copy Name"
-msgstr ""
+msgstr "Copier le nom"
 
 #: ../root/release/edit/recordings.tt:398
 #, perl-format
 msgid "Copy all track changes to associated recordings."
-msgstr ""
+msgstr "Copier toutes les pistes modifiées sur les enregistrements associés."
 
 #: ../root/statistics/index.tt:12 ../root/statistics/view_js.tt:25
 #, perl-format
@@ -3476,7 +3477,7 @@ msgstr "Costa Rica"
 #: ../root/statistics/view_js.tt:73
 #, perl-format
 msgid "Count of active editors (editing or voting) during the last week"
-msgstr ""
+msgstr "Nombre d'éditeurs actifs (édition ou vote) la semaine dernière"
 
 #: ../root/statistics/view_js.tt:68
 #, perl-format
@@ -3486,17 +3487,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:114
 #, perl-format
 msgid "Count of all Artist Credits"
-msgstr ""
+msgstr "Nombre de crédits d'artistes"
 
 #: ../root/statistics/view_js.tt:155
 #, perl-format
 msgid "Count of all Artist Ratings"
-msgstr ""
+msgstr "Nombre de notes d'artistes"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
 msgid "Count of all Artist Ratings (raw)"
-msgstr ""
+msgstr "Nombre de notes d'artistes (brut)"
 
 #: ../root/statistics/view_js.tt:169
 #, perl-format
@@ -3506,27 +3507,27 @@ msgstr ""
 #: ../root/statistics/view_js.tt:115
 #, perl-format
 msgid "Count of all Barcodes"
-msgstr ""
+msgstr "Nombre total de codes-barres"
 
 #: ../root/statistics/view_js.tt:119
 #, perl-format
 msgid "Count of all CDStub tracks"
-msgstr ""
+msgstr "Nombre de pistes de modèles de CD"
 
 #: ../root/statistics/view_js.tt:117
 #, perl-format
 msgid "Count of all CDStubs"
-msgstr ""
+msgstr "Nombre de modèles de CD"
 
 #: ../root/statistics/view_js.tt:118
 #, perl-format
 msgid "Count of all CDStubs ever submitted"
-msgstr ""
+msgstr "Nombre total de modèles de CD soumis"
 
 #: ../root/statistics/view_js.tt:120
 #, perl-format
 msgid "Count of all Disc IDs"
-msgstr ""
+msgstr "Nombres d'ID de disques"
 
 #: ../root/statistics/view_js.tt:123
 #, perl-format
@@ -3546,22 +3547,22 @@ msgstr ""
 #: ../root/statistics/view_js.tt:126 ../root/statistics/view_js.tt:127
 #, perl-format
 msgid "Count of all ISRCs"
-msgstr ""
+msgstr "Nombre d'ISRCs"
 
 #: ../root/statistics/view_js.tt:128 ../root/statistics/view_js.tt:129
 #, perl-format
 msgid "Count of all ISWCs"
-msgstr ""
+msgstr "Nombre d'ISWCs"
 
 #: ../root/statistics/view_js.tt:156
 #, perl-format
 msgid "Count of all Label Ratings"
-msgstr ""
+msgstr "Nombre de notes de label"
 
 #: ../root/statistics/view_js.tt:162
 #, perl-format
 msgid "Count of all Label Ratings (raw)"
-msgstr ""
+msgstr "Nombre de notes de label (brut)"
 
 #: ../root/statistics/view_js.tt:170
 #, perl-format
@@ -3836,7 +3837,7 @@ msgstr ""
 #: ../root/statistics/countries.tt:25
 #, perl-format
 msgid "Countries"
-msgstr ""
+msgstr "Pays"
 
 #: ../root/cdtoc/list.tt:9 ../root/collection/index.tt:15
 #: ../root/edit/details/edit_release_events.tt:6
@@ -3911,12 +3912,12 @@ msgstr "Créer une relation avec {other}"
 #: ../root/edit/search_macros.tt:278
 #, perl-format
 msgid "Created"
-msgstr ""
+msgstr "Créés"
 
 #: DB:link_attribute_type/name:254
 #, perl-format
 msgid "Creative Commons"
-msgstr ""
+msgstr "Créative Commons"
 
 #: DB:link_attribute_type/description:256
 #, perl-format
@@ -3979,7 +3980,7 @@ msgstr ""
 #: DB:link_attribute_type/description:254
 #, perl-format
 msgid "Creative commons licenses"
-msgstr ""
+msgstr "Licence Créative Commons"
 
 #: DB:link_type/description:24 DB:link_type/description:131
 #, perl-format
@@ -4101,11 +4102,11 @@ msgstr "Côte d'Ivoire"
 
 #: DB:medium_format/name:11
 msgid "DAT"
-msgstr ""
+msgstr "DAT"
 
 #: DB:medium_format/name:16
 msgid "DCC"
-msgstr ""
+msgstr "DCC"
 
 #: DB:link_type/link_phrase:8 DB:link_type/link_phrase:227
 #, perl-format
@@ -4149,15 +4150,15 @@ msgstr ""
 
 #: DB:medium_format/name:2
 msgid "DVD"
-msgstr ""
+msgstr "DVD"
 
 #: DB:medium_format/name:18
 msgid "DVD-Audio"
-msgstr ""
+msgstr "DVD-Audio"
 
 #: DB:medium_format/name:19
 msgid "DVD-Video"
-msgstr ""
+msgstr "DVD-Vidéo"
 
 #: DB:language/name:99
 msgid "Dakota"
@@ -4196,7 +4197,7 @@ msgstr "Qualité des données"
 #: ../root/release/sidebar.tt:25
 #, perl-format
 msgid "Data Quality:"
-msgstr ""
+msgstr "Qualité des données :"
 
 #: ../root/statistics/layout.tt:12 ../root/statistics/layout.tt:24
 #, perl-format
@@ -4251,17 +4252,17 @@ msgstr "Décédé le :"
 #: ../root/statistics/view_js.tt:148
 #, perl-format
 msgid "Default Data Quality"
-msgstr ""
+msgstr "Qualité par défaut des données"
 
 #: ../root/statistics/index.tt:232
 #, perl-format
 msgid "Default Data Quality:"
-msgstr ""
+msgstr "Qualité par défaut des données :"
 
 #: ../root/label/layout.tt:22
 #, perl-format
 msgid "Defunct:"
-msgstr ""
+msgstr "Défunt :"
 
 #: DB:language/name:103
 msgid "Delaware"
@@ -4270,28 +4271,28 @@ msgstr "delaware"
 #: ../root/edit/search_macros.tt:104
 #, perl-format
 msgid "Delete"
-msgstr ""
+msgstr "Effacer"
 
 #: ../root/admin/delete_user.tt:3 ../root/admin/delete_user.tt:12
 #: ../root/admin/delete_user.tt:13
 #, perl-format
 msgid "Delete Account"
-msgstr ""
+msgstr "Effacer le compte"
 
 #: ../root/admin/delete_user.tt:2 ../root/user/profile/layout.tt:39
 #, perl-format
 msgid "Delete User"
-msgstr ""
+msgstr "Effacer l'utilisateur"
 
 #: ../root/admin/delete_user.tt:21
 #, perl-format
 msgid "Delete my account"
-msgstr ""
+msgstr "Affacer mon compte"
 
 #: ../root/admin/delete_user.tt:7
 #, perl-format
 msgid "Delete {e}"
-msgstr ""
+msgstr "Effacer {e}"
 
 #: DB:link_attribute_type/description:160 DB:link_attribute_type/name:160
 #, perl-format
@@ -4373,7 +4374,7 @@ msgstr ""
 #: ../root/layout/menu.tt:139
 #, perl-format
 msgid "Developer Resources"
-msgstr ""
+msgstr "Ressources pour développeurs"
 
 #: ../root/main/index.tt:86
 #, perl-format
@@ -4388,7 +4389,7 @@ msgstr "Développement"
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:28
 #, perl-format
 msgid "Died:"
-msgstr ""
+msgstr "Décédé : "
 
 #: DB:release_packaging/name:3
 msgid "Digipak"
@@ -4481,7 +4482,7 @@ msgstr "IDs de disque :"
 #: ../root/release/edit/tracklist.tt:372
 #, perl-format
 msgid "Disc title"
-msgstr ""
+msgstr "Titre du disque"
 
 #: ../root/cdtoc/attach_medium.tt:13 ../root/release/edit/recordings.tt:251
 #: ../root/release/edit/tracklist.tt:345
@@ -4498,19 +4499,19 @@ msgstr "Disque {num} : {titre}"
 #: DB:link_type/link_phrase:217 DB:link_type/link_phrase:90
 #, perl-format
 msgid "Discogs"
-msgstr ""
+msgstr "Discogs"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Release Groups"
-msgstr ""
+msgstr "URL Discogs liée à plusieurs groupes de sorties"
 
 #: ../root/report/discogs_links_with_multiple_releases.tt:1
 #: ../root/report/discogs_links_with_multiple_releases.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Releases"
-msgstr ""
+msgstr "URL Discogs liée à plusieurs sorties"
 
 #: ../root/report/index.tt:30
 #, perl-format
