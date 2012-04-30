@@ -4,13 +4,14 @@
 # 
 # Translators:
 # Gioele  <email address hidden>, 2012.
+#   <email address hidden>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-02-14 08:37+0000\n"
-"Last-Translator: Gioele <email address hidden>\n"
+"PO-Revision-Date: 2012-04-30 20:51+0000\n"
+"Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -131,7 +132,7 @@ msgstr ""
 #: ../root/edit/details/reorder_mediums.tt:24
 #, perl-format
 msgid "(new disc)"
-msgstr ""
+msgstr "(nuovo disco)"
 
 #: ../root/edit/details/add_release.tt:22
 #, perl-format
@@ -159,7 +160,7 @@ msgstr ""
 #: ../root/user/profile.tt:73 ../root/user/profile.tt:94
 #, perl-format
 msgid "(none)"
-msgstr ""
+msgstr "(nessuno)"
 
 #: ../root/elections/show.tt:121
 #, perl-format
@@ -178,7 +179,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/Release.pm:179
 #, perl-format
 msgid "(unknown)"
-msgstr ""
+msgstr "(sconosciuto)"
 
 #: ../root/user/profile.tt:24
 #, perl-format
@@ -215,23 +216,23 @@ msgstr ""
 #: ../root/user/profile.tt:81
 #, perl-format
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../root/edit/info.tt:48
 #, perl-format
 msgid "1 vote"
 msgid_plural "{n} unanimous votes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 vote"
+msgstr[1] "{n} voti unanimi"
 
 #: DB:medium_format/name:30
 msgid "10\" Vinyl"
-msgstr ""
+msgstr "Vinile 10\""
 
 #: ../root/user/profile.tt:179 ../root/user/profile.tt:183
 #, perl-format
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: DB:link_attribute_type/description:529 DB:link_attribute_type/name:529
 #, perl-format
@@ -240,7 +241,7 @@ msgstr ""
 
 #: DB:medium_format/name:31
 msgid "12\" Vinyl"
-msgstr ""
+msgstr "Vinile 12\""
 
 #: ../root/elections/show.tt:17
 #, perl-format
@@ -259,7 +260,7 @@ msgstr ""
 
 #: DB:medium_format/name:29
 msgid "7\" Vinyl"
-msgstr ""
+msgstr "Vinile 7\""
 
 #: DB:medium_format/name:34
 msgid "8cm CD"
@@ -507,7 +508,7 @@ msgstr ""
 #: DB:link_type/link_phrase:77 DB:link_type/reverse_link_phrase:77
 #, perl-format
 msgid "ASIN"
-msgstr ""
+msgstr "ASIN"
 
 #: DB:language/name:2
 msgid "Abkhazian"
@@ -1116,13 +1117,13 @@ msgstr ""
 #: DB:link_type/link_phrase:285 DB:link_type/reverse_link_phrase:286
 #, perl-format
 msgid "Allmusic"
-msgstr ""
+msgstr "Allmusic"
 
 #: DB:link_type/link_phrase:286 DB:link_type/reverse_link_phrase:283
 #: DB:link_type/reverse_link_phrase:284 DB:link_type/reverse_link_phrase:285
 #, perl-format
 msgid "Allmusic page for"
-msgstr ""
+msgstr "Pagina Allmusic per"
 
 #: ../root/account/preferences.tt:32
 #, perl-format
@@ -1304,7 +1305,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:41
 #, perl-format
 msgid "Annotation"
-msgstr ""
+msgstr "Annotazione"
 
 #: ../root/annotation/diff.tt:2 ../root/artist/annotation_diff.tt:1
 #: ../root/label/annotation_diff.tt:1 ../root/recording/annotation_diff.tt:1
@@ -2082,12 +2083,12 @@ msgstr ""
 #: DB:link_type/link_phrase:190
 #, perl-format
 msgid "BBC Music"
-msgstr ""
+msgstr "BBC Music"
 
 #: DB:link_type/reverse_link_phrase:190
 #, perl-format
 msgid "BBC Music page for"
-msgstr ""
+msgstr "Pagina BBC Music per"
 
 #: ../root/browse/page_selector.tt:54
 #, perl-format
@@ -4494,7 +4495,7 @@ msgstr ""
 #: DB:link_type/link_phrase:217 DB:link_type/link_phrase:90
 #, perl-format
 msgid "Discogs"
-msgstr ""
+msgstr "Discogs"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
@@ -4522,7 +4523,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:217 DB:link_type/reverse_link_phrase:90
 #, perl-format
 msgid "Discogs page for"
-msgstr ""
+msgstr "Pagina Discogs per"
 
 #: ../root/report/separate_discs.tt:1 ../root/report/separate_discs.tt:3
 #, perl-format
@@ -5725,7 +5726,7 @@ msgstr ""
 #: ../root/cdtoc/info.tt:15
 #, perl-format
 msgid "FreeDB:"
-msgstr ""
+msgstr "FreeDB:"
 
 #: DB:language/name:134
 msgid "French"
@@ -6255,7 +6256,7 @@ msgstr ""
 #: ../root/user/profile.tt:67
 #, perl-format
 msgid "Homepage:"
-msgstr ""
+msgstr "Homepage:"
 
 #: DB:country/name:95
 msgid "Honduras"
@@ -6324,13 +6325,13 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:275
 #, perl-format
 msgid "IBDb"
-msgstr ""
+msgstr "IBDb"
 
 #: DB:link_type/link_phrase:275 DB:link_type/reverse_link_phrase:99
 #: DB:link_type/reverse_link_phrase:195
 #, perl-format
 msgid "IBDb page for"
-msgstr ""
+msgstr "Pagina IBDb per"
 
 #: ../root/edit/search_macros.tt:278
 #, perl-format
@@ -6340,7 +6341,7 @@ msgstr ""
 #: DB:link_type/link_phrase:97 DB:link_type/link_phrase:178
 #, perl-format
 msgid "IMDb"
-msgstr ""
+msgstr "IMDb"
 
 #: DB:link_type/reverse_link_phrase:83 DB:link_type/reverse_link_phrase:258
 #, perl-format
@@ -6350,19 +6351,19 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:97 DB:link_type/reverse_link_phrase:178
 #, perl-format
 msgid "IMDb page for"
-msgstr ""
+msgstr "Pagina IMDb per"
 
 #: DB:link_type/link_phrase:100 DB:link_type/link_phrase:196
 #: DB:link_type/reverse_link_phrase:276
 #, perl-format
 msgid "IOBDb"
-msgstr ""
+msgstr "IOBDb"
 
 #: DB:link_type/link_phrase:276 DB:link_type/reverse_link_phrase:100
 #: DB:link_type/reverse_link_phrase:196
 #, perl-format
 msgid "IOBDb page for"
-msgstr ""
+msgstr "Pagina IOBDb per"
 
 #: ../root/artist/edit_form.tt:44 ../root/artist/layout.tt:40
 #: ../root/edit/details/add_artist.tt:56
@@ -9467,12 +9468,12 @@ msgstr ""
 #: DB:link_type/link_phrase:91 DB:link_type/link_phrase:181
 #, perl-format
 msgid "MusicMoz"
-msgstr ""
+msgstr "MusicMoz"
 
 #: DB:link_type/reverse_link_phrase:91 DB:link_type/reverse_link_phrase:181
 #, perl-format
 msgid "MusicMoz page for"
-msgstr ""
+msgstr "Pagina MusicMoz per"
 
 #: ../root/layout/menu.tt:27
 #, perl-format
@@ -9518,12 +9519,12 @@ msgstr ""
 #: DB:link_type/link_phrase:189 DB:link_type/link_phrase:215
 #, perl-format
 msgid "MySpace"
-msgstr ""
+msgstr "MySpace"
 
 #: DB:link_type/reverse_link_phrase:189 DB:link_type/reverse_link_phrase:215
 #, perl-format
 msgid "MySpace page for"
-msgstr ""
+msgstr "Pagina MySpace per"
 
 #: DB:country/name:146 DB:script/name:64
 msgid "Myanmar"
@@ -10157,7 +10158,7 @@ msgstr ""
 #: ../root/layout/sidebar/sidebar-favicons.tt:11
 #, perl-format
 msgid "Official homepage"
-msgstr ""
+msgstr "Pagina ufficiale"
 
 #: DB:script/name:27
 msgid "Ogham"
@@ -11254,12 +11255,12 @@ msgstr ""
 #: DB:link_type/link_phrase:174
 #, perl-format
 msgid "PureVolume"
-msgstr ""
+msgstr "PureVolume"
 
 #: DB:link_type/reverse_link_phrase:174
 #, perl-format
 msgid "PureVolume page for"
-msgstr ""
+msgstr "Pagina PureVolume per"
 
 #: DB:language/name:343
 msgid "Pushto"
@@ -12875,12 +12876,12 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:280
 #, perl-format
 msgid "SecondHandSongs"
-msgstr ""
+msgstr "SecondHandSongs"
 
 #: DB:link_type/link_phrase:280
 #, perl-format
 msgid "SecondHandSongs page for"
-msgstr ""
+msgstr "Pagina SecondHandSongs per"
 
 #: ../root/cdtoc/info.tt:38 ../root/cdtoc/info.tt:40 ../root/cdtoc/info.tt:42
 #, perl-format
@@ -13255,12 +13256,12 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:289
 #, perl-format
 msgid "Songfacts"
-msgstr ""
+msgstr "Songfacts"
 
 #: DB:link_type/link_phrase:289
 #, perl-format
 msgid "Songfacts page for"
-msgstr ""
+msgstr "Pagina Songfacts per"
 
 #: DB:language/name:391
 msgid "Songhai languages"
@@ -13545,12 +13546,12 @@ msgstr ""
 #: DB:link_type/link_phrase:290 DB:link_type/link_phrase:291
 #, perl-format
 msgid "SoundCloud"
-msgstr ""
+msgstr "SoundCloud"
 
 #: DB:link_type/reverse_link_phrase:290 DB:link_type/reverse_link_phrase:291
 #, perl-format
 msgid "SoundCloud page for"
-msgstr ""
+msgstr "Pagina SoundCloud per"
 
 #: DB:release_group_type/name:5
 msgid "Soundtrack"
@@ -16732,13 +16733,13 @@ msgstr ""
 #: DB:link_type/link_phrase:210
 #, perl-format
 msgid "VGMdb"
-msgstr ""
+msgstr "VGMdb"
 
 #: DB:link_type/reverse_link_phrase:86 DB:link_type/reverse_link_phrase:191
 #: DB:link_type/reverse_link_phrase:210
 #, perl-format
 msgid "VGMdb page for"
-msgstr ""
+msgstr "Pagina VGMdb per"
 
 #: DB:medium_format/name:21
 msgid "VHS"
@@ -17218,13 +17219,13 @@ msgstr ""
 #: DB:link_type/link_phrase:216 DB:link_type/reverse_link_phrase:279
 #, perl-format
 msgid "Wikipedia"
-msgstr ""
+msgstr "Wikipedia"
 
 #: DB:link_type/link_phrase:279 DB:link_type/reverse_link_phrase:89
 #: DB:link_type/reverse_link_phrase:179 DB:link_type/reverse_link_phrase:216
 #, perl-format
 msgid "Wikipedia page for"
-msgstr ""
+msgstr "Pagina Wikipedia per"
 
 #: DB:link_attribute_type/description:266
 #, perl-format
@@ -23235,7 +23236,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
 msgid "'{id}' is not a valid MusicBrainz ID"
-msgstr "'{id}' non è id ID MusicBrainz valido"
+msgstr "'{id}' non è un ID di MusicBrainz valido"
 
 #: ../lib/MusicBrainz/Server/Controller.pm:113
 msgid ""
@@ -23429,7 +23430,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/WS/2/DiscID.pm:87
 msgid "Invalid TOC"
-msgstr ""
+msgstr "TOC non valido"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:106
 msgid "No title provided"
@@ -23453,7 +23454,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:121
 msgid "Incomplete TOC data"
-msgstr ""
+msgstr "Dati TOC incompleti"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:124
 msgid "Missing disc ID"
@@ -23469,7 +23470,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:133
 msgid "Invalid barcode"
-msgstr ""
+msgstr "Codice a barre non valido"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:142
 msgid "There are already MusicBrainz releases with this disc ID"
@@ -23837,7 +23838,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
-msgstr ""
+msgstr "[nessuno]"
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"
@@ -24018,7 +24019,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:44
 msgid "FreeDB"
-msgstr ""
+msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/User/ChangePassword.pm:37
 msgid "The old password is incorrect"
@@ -24026,7 +24027,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:20
 msgid "Invalid URL format"
-msgstr ""
+msgstr "Formato URL non valido"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:79
 msgid "Daily"
@@ -24046,31 +24047,31 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
-msgstr ""
+msgstr "Un giorno"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:36
 msgid "A week"
-msgstr ""
+msgstr "Una settimana"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:37
 msgid "2 weeks"
-msgstr ""
+msgstr "2 settimane"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:38
 msgid "A month"
-msgstr ""
+msgstr "Un mese"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:246
 msgid "YYYY"
-msgstr ""
+msgstr "AAAA"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:247
 msgid "MM"
-msgstr ""
+msgstr "MM"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:248
 msgid "DD"
-msgstr ""
+msgstr "GG"
 
 #: ../lib/MusicBrainz/Server/Release.pm:78
 msgid "(Special case)"
