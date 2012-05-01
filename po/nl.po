@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 12:08+0000\n"
+"PO-Revision-Date: 2012-05-01 12:56+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -86,7 +86,7 @@ msgstr ""
 #: ../root/components/tag-cloud.tt:26
 #, perl-format
 msgid "'{tag}' has been used {num} times"
-msgstr ""
+msgstr "'{tag}' is {num} keer gebruikt"
 
 #: ../root/user/profile.tt:28
 #, perl-format
@@ -517,7 +517,7 @@ msgstr ""
 #: ../root/layout/menu.tt:77
 #, perl-format
 msgid "About"
-msgstr ""
+msgstr "Over"
 
 #: ../root/edit/search_macros.tt:234 ../root/edit/vote.tt:19
 #: ../root/elections/show.tt:73 ../lib/MusicBrainz/Server/Data/Vote.pm:154
@@ -1138,7 +1138,7 @@ msgstr ""
 #: ../root/account/preferences.tt:31
 #, perl-format
 msgid "Allow other users to see my tags"
-msgstr ""
+msgstr "Sta andere gebruikers toe om mijn etiketten te zien"
 
 #: ../root/collection/edit_form.tt:6
 #, perl-format
@@ -2568,17 +2568,17 @@ msgstr ""
 #: ../root/layout/menu.tt:161
 #, perl-format
 msgid "Browse"
-msgstr ""
+msgstr "Bladeren"
 
 #: ../root/browse/artist.tt:1 ../root/browse/artist.tt:3
 #, perl-format
 msgid "Browse Artists"
-msgstr ""
+msgstr "Blader door artiesten"
 
 #: ../root/browse/label.tt:1 ../root/browse/label.tt:3
 #, perl-format
 msgid "Browse Labels"
-msgstr ""
+msgstr "Blader door platenmaatschappijen"
 
 #: ../root/browse/release_group.tt:1 ../root/browse/release_group.tt:3
 #, perl-format
@@ -2593,27 +2593,27 @@ msgstr ""
 #: ../root/browse/work.tt:1 ../root/browse/work.tt:3
 #, perl-format
 msgid "Browse Works"
-msgstr ""
+msgstr "Blader door composities"
 
 #: ../root/browse/index.tt:5 ../root/search/index.tt:5
 #, perl-format
 msgid "Browse artists"
-msgstr ""
+msgstr "Blader door artiesten"
 
 #: ../root/browse/page_selector.tt:17
 #, perl-format
 msgid "Browse further"
-msgstr ""
+msgstr "Blader verder"
 
 #: ../root/browse/index.tt:6 ../root/search/index.tt:6
 #, perl-format
 msgid "Browse labels"
-msgstr ""
+msgstr "Blader door platenmaatschappijen"
 
 #: ../root/artist/browse_various_recordings.tt:2
 #, perl-format
 msgid "Browse recordings"
-msgstr ""
+msgstr "Blader door opnames"
 
 #: ../root/artist/browse_various.tt:2 ../root/browse/index.tt:8
 #: ../root/search/index.tt:8
@@ -2630,7 +2630,7 @@ msgstr ""
 #: ../root/browse/index.tt:9 ../root/search/index.tt:9
 #, perl-format
 msgid "Browse works"
-msgstr ""
+msgstr "Blader door composities"
 
 #: DB:country/name:32
 msgid "Brunei Darussalam"
@@ -6234,7 +6234,7 @@ msgstr ""
 #: ../root/doc/edit_types.tt:20 ../lib/MusicBrainz/Server/Edit/Historic.pm:12
 #, perl-format
 msgid "Historic"
-msgstr ""
+msgstr "Historisch"
 
 #: DB:language/name:172
 msgid "Hittite"
@@ -9111,7 +9111,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
 #, perl-format
 msgid "Merge mediums and recordings"
-msgstr ""
+msgstr "Media en opnames samenvoegen"
 
 #: ../root/release/merge_confirm.tt:10
 #, perl-format
@@ -9418,7 +9418,7 @@ msgstr ""
 msgid ""
 "MusicBrainz is an open music encyclopedia that collects music metadata and "
 "makes it available to the public."
-msgstr ""
+msgstr "Musicbrainz is een open muziekencyclopedie die metagegevens over muziek verzamelt en beschikbaar stelt aan het publiek."
 
 #: ../root/main/index.tt:61
 #, perl-format
@@ -11206,7 +11206,7 @@ msgstr ""
 #: ../root/layout/menu.tt:118
 #, perl-format
 msgid "Products"
-msgstr ""
+msgstr "Producten"
 
 #: ../root/user/profile/layout.tt:12
 #, perl-format
@@ -12435,7 +12435,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
 #, perl-format
 msgid "Remove track"
-msgstr ""
+msgstr "Verwijder nummer"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -12772,7 +12772,7 @@ msgstr ""
 #: ../root/search/index.tt:3 ../root/taglookup/form.tt:13
 #, perl-format
 msgid "Search"
-msgstr ""
+msgstr "Zoeken"
 
 #: ../root/layout/menu.tt:157
 #, perl-format
@@ -13497,7 +13497,7 @@ msgid ""
 " to carry out a search. If you are attempting to find something that "
 "contains nothing but punctuation characters (e.g. !!!) then you need to use "
 "the {uri|browse page}, since this search ignores punctuation characters."
-msgstr ""
+msgstr "Excuses, uw zoekopdracht (<code>{query}</code>) bevat niet genoeg informatie om te zoeken. Als u iets probeert te vinden dat alleen uit leestekens (bijv. !!!) bestaat, moet u de {uri|browse page} gebruiken, omdat deze zoekpagina leestekens negeert."
 
 #: ../root/search/error/uri-too-large.tt:3
 #, perl-format
@@ -13894,7 +13894,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:45
 #, perl-format
 msgid "Tag"
-msgstr ""
+msgstr "Etiket"
 
 #: ../root/taglookup/index.tt:1 ../root/taglookup/index.tt:3
 #, perl-format
@@ -15130,7 +15130,7 @@ msgstr ""
 #: ../root/layout.tt:76
 #, perl-format
 msgid "This is a MusicBrainz development server."
-msgstr ""
+msgstr "Dit is een Musicbrainz server voor ontwikkeling."
 
 #: ../root/layout.tt:85
 #, perl-format
@@ -15142,7 +15142,7 @@ msgstr ""
 #: ../root/user/login.tt:27
 #, perl-format
 msgid "This is a development server; all passwords have been reset to \"mb\"."
-msgstr ""
+msgstr "Dit is een server voor ontwikkeling; alle paswoorden zijn teruggezet naar \"mb\"."
 
 #: ../root/annotation/common.tt:33
 #, perl-format
@@ -15915,7 +15915,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:11
 #, perl-format
 msgid "Title"
-msgstr ""
+msgstr "Titel"
 
 #: ../root/cdstub/edit.tt:54 ../root/edit/details/add_track_kv.tt:3
 #: ../root/release/edit/information.tt:24
@@ -17158,7 +17158,7 @@ msgstr ""
 #: ../root/main/index.tt:27
 #, perl-format
 msgid "Welcome to MusicBrainz!"
-msgstr ""
+msgstr "Welkom bij Musicbrainz!"
 
 #: DB:language/name:455
 msgid "Welsh"
@@ -17263,7 +17263,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:39
 #, perl-format
 msgid "Work"
-msgstr ""
+msgstr "Compositie"
 
 #: ../root/work/edit_form.tt:6
 #, perl-format
@@ -23236,16 +23236,16 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
 msgid "'{id}' is not a valid MusicBrainz ID"
-msgstr ""
+msgstr "'{id}' is geen geldig Musicbrainz ID"
 
 #: ../lib/MusicBrainz/Server/Controller.pm:113
 msgid ""
 "Thank you, your edit has been entered into the edit queue for peer review."
-msgstr ""
+msgstr "Bedankt, uw aanpassing is toegevoegd aan de wachtrij voor collegiale toetsing."
 
 #: ../lib/MusicBrainz/Server/Controller.pm:114
 msgid "Thank you, your edit has been accepted and applied"
-msgstr ""
+msgstr "Bedankt, uw aanpassing is geaccepteerd en toegepast"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:44
 msgid "The user ID is missing or is in an invalid format."
@@ -23253,20 +23253,20 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:51
 msgid "The email address is missing."
-msgstr ""
+msgstr "Het e-mailadres ontbreekt."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:58
 msgid "The time is missing or is in an invalid format."
-msgstr ""
+msgstr "De tijdsduur ontbreekt of is niet correct geformatteerd."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:66
 msgid "The verification key is missing."
-msgstr ""
+msgstr "De verificatiesleutel ontbreekt."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:74
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:206
 msgid "The checksum is invalid, please double check your email."
-msgstr ""
+msgstr "Het controlecijfer is incorrect, controleert u uw e-mail alstublieft opnieuw."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:82
 msgid "Sorry, this email verification link has expired."
@@ -23293,7 +23293,7 @@ msgstr "Er is geen gebruiker met deze gebruikersnaam en e-mailadres"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:190
 msgid "Missing one or more required parameters."
-msgstr ""
+msgstr "Één of meerdere verplichte parameters ontbreekt."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:198
 msgid "Sorry, this password reset link has expired."
@@ -23306,7 +23306,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:256
 msgid "There is no user with this email"
-msgstr ""
+msgstr "Er is geen gebruiker met dit e-mailadres"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:461
 msgid ""
@@ -23488,27 +23488,27 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAnnotation.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtistAnnotation.pm:7
 msgid "Add artist annotation"
-msgstr ""
+msgstr "Voeg een aantekening voor deze artiest toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Create.pm:18
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtist.pm:7
 msgid "Add artist"
-msgstr ""
+msgstr "Voeg een artiest toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Delete.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveArtist.pm:9
 msgid "Remove artist"
-msgstr ""
+msgstr "Verwijder een artiest"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/DeleteAlias.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveArtistAlias.pm:9
 msgid "Remove artist alias"
-msgstr ""
+msgstr "Verwijder dit alias van deze artiest"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Edit.pm:28
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtist.pm:9
 msgid "Edit artist"
-msgstr ""
+msgstr "Wijzig artiest"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
@@ -23518,7 +23518,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeArtist.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseGroups.pm:7
 msgid "Merge artists"
-msgstr ""
+msgstr "Voeg artiesten samen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/AddDiscID.pm:11
@@ -23533,17 +23533,17 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabel.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
 msgid "Add label"
-msgstr ""
+msgstr "Voeg platenmaatschappij toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabelAnnotation.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAnnotation.pm:12
 msgid "Add label annotation"
-msgstr ""
+msgstr "Voeg een aantekening voor deze platenmaatschappij toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLink.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Create.pm:22
 msgid "Add relationship"
-msgstr ""
+msgstr "Voeg verwantschap toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLinkAttr.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkAttribute.pm:13
@@ -23558,7 +23558,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddPUIDs.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddPUIDs.pm:13
 msgid "Add PUIDs"
-msgstr ""
+msgstr "Voeg PUID's toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:14
@@ -24106,7 +24106,7 @@ msgstr ""
 msgid ""
 "A soundtrack is the musical score to a movie, TV series, stage show, "
 "computer game etc."
-msgstr ""
+msgstr "Een soundtrack is de muziek voor een film, tv-serie, toneelvoorstelling, computerspel enz."
 
 #: ../lib/MusicBrainz/Server/Release.pm:84
 msgid "Non-music spoken word releases."

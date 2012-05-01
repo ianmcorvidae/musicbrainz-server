@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# çilek  <email address hidden>, 2012.
 # Nikolai Prokoschenko <email address hidden>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2011-01-30 16:57+0000\n"
-"Last-Translator: FULL NAME <email address hidden>\n"
+"PO-Revision-Date: 2012-05-01 12:48+0000\n"
+"Last-Translator: çilek <email address hidden>\n"
 "Language-Team: Turkish (http://www.transifex.net/projects/p/musicbrainz/language/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17241,7 +17242,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:39
 #, perl-format
 msgid "Work"
-msgstr ""
+msgstr "Eser"
 
 #: ../root/work/edit_form.tt:6
 #, perl-format
@@ -23196,32 +23197,32 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
 msgid "'{id}' is not a valid MusicBrainz ID"
-msgstr ""
+msgstr "'{id}', geçerli bir MusicBrainz Kimliği değil."
 
 #: ../lib/MusicBrainz/Server/Controller.pm:113
 msgid ""
 "Thank you, your edit has been entered into the edit queue for peer review."
-msgstr ""
+msgstr "Teşekkürler, değişikliğiniz denetim sırasına alındı."
 
 #: ../lib/MusicBrainz/Server/Controller.pm:114
 msgid "Thank you, your edit has been accepted and applied"
-msgstr ""
+msgstr "Teşekkürler, değişikliğiniz kabul edildi ve uygulandı."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:44
 msgid "The user ID is missing or is in an invalid format."
-msgstr ""
+msgstr "Kullanıcı Kimliği eksik veya hatalı formatda."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:51
 msgid "The email address is missing."
-msgstr ""
+msgstr "Eposta adresi eksik."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:58
 msgid "The time is missing or is in an invalid format."
-msgstr ""
+msgstr "Zaman, eksik veya hatalı formatda."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:66
 msgid "The verification key is missing."
-msgstr ""
+msgstr "Doğrulama anahtarı eksik."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:74
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:206
@@ -23230,7 +23231,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:82
 msgid "Sorry, this email verification link has expired."
-msgstr ""
+msgstr "Üzgünüz, bu eposta doğrulama bağlantısı zaman aşımına uğramış."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:91
 #, perl-brace-format
@@ -23245,19 +23246,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:157
 msgid "There is no user with this username"
-msgstr ""
+msgstr "Bu kullanıcı adıyla ilişkili bir kullanıcı bulunmuyor."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:161
 msgid "There is no user with this username and email"
-msgstr ""
+msgstr "Bu eposta ve kullanıcı adıyla ilişkili bir kullanıcı bulunmuyor."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:190
 msgid "Missing one or more required parameters."
-msgstr ""
+msgstr "Mecburi parametreler eksik."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:198
 msgid "Sorry, this password reset link has expired."
-msgstr ""
+msgstr "Üzgünüz, bu şifre sıfırlama bağlantısı zaman aşımına uğramış."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
@@ -23266,7 +23267,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:256
 msgid "There is no user with this email"
-msgstr ""
+msgstr "Bu eposta adresiyle ilişkili bir kullanıcı bulunmuyor."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:461
 msgid ""
