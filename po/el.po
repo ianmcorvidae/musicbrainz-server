@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 14:13+0000\n"
+"PO-Revision-Date: 2012-05-01 15:56+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -645,7 +645,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:92
 #, perl-format
 msgid "Add Label"
-msgstr ""
+msgstr "Προσθήκη Δισκογραφικής Εταιρείας"
 
 #: ../root/label/add_alias.tt:1
 #, perl-format
@@ -723,7 +723,7 @@ msgstr ""
 #: ../root/label/create.tt:15 ../root/label/create.tt:17
 #, perl-format
 msgid "Add a New Label"
-msgstr ""
+msgstr "Προσθήκη μιας Νέας Δισκογραφικής Εταιρείας"
 
 #: ../root/release_group/create.tt:23
 #, perl-format
@@ -813,7 +813,7 @@ msgstr "Προσθήκη νέου καλλιτέχνη"
 #: ../root/release/edit/missing_entities.tt:102
 #, perl-format
 msgid "Add new label"
-msgstr ""
+msgstr "Προσθήκη νέας δισκογραφικής εταιρείας"
 
 #: ../root/release/edit/recordings.tt:96
 #, perl-format
@@ -1183,7 +1183,7 @@ msgstr ""
 #: ../root/search/results-label.tt:38
 #, perl-format
 msgid "Alternatively, you may {uri|add a new label}."
-msgstr ""
+msgstr "Εναλλακτικά, μπορείτε να {uri|προσθέσετε μια νέα δισκογραφική εταιρεία}."
 
 #: ../root/search/results-recording.tt:7
 #, perl-format
@@ -1524,7 +1524,7 @@ msgstr ""
 #: ../root/label/delete.tt:8
 #, perl-format
 msgid "Are you sure you wish to remove the label {label} from MusicBrainz?"
-msgstr ""
+msgstr "Είστε σίγουροι ότι θέλετε να καταργήσετε τη δισκογραφική εταιρεία {label} από το MusicBrainz;"
 
 #: ../root/recording/delete.tt:8
 #, perl-format
@@ -1732,7 +1732,7 @@ msgstr ""
 #: ../root/statistics/index.tt:577
 #, perl-format
 msgid "Artist-Label:"
-msgstr ""
+msgstr "Καλλιτέχνης-Δισκογραφική εταιρεία"
 
 #: ../root/statistics/index.tt:583
 #, perl-format
@@ -5002,7 +5002,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:43
 #, perl-format
 msgid "Editor"
-msgstr "Συντάκτης"
+msgstr "Χρήστης"
 
 #: ../root/user/not_found.tt:1 ../root/user/not_found.tt:2
 #, perl-format
@@ -8156,7 +8156,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:40
 #, perl-format
 msgid "Label"
-msgstr ""
+msgstr "Δισκογραφική εταιρεία"
 
 #: ../root/statistics/view_js.tt:28
 #, perl-format
@@ -12393,7 +12393,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/Delete.pm:12
 #, perl-format
 msgid "Remove label"
-msgstr ""
+msgstr "Κατάργηση δισκογραφικής εταιρείας"
 
 #: ../root/recording/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
@@ -23421,7 +23421,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/User.pm:244
 #, perl-brace-format
 msgid "The editor {name} has no email address attached to their account."
-msgstr ""
+msgstr "Ο χρήστης {name} δεν έχει συνδέσει κάποια διεύθυνση email με το λογαριασμό του."
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:272
 msgid "Your message could not be sent"
@@ -23532,7 +23532,7 @@ msgstr "Προσθήκη ISRC"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabel.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
 msgid "Add label"
-msgstr ""
+msgstr "Προσθήκη δισκογραφικής εταιρείας"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabelAnnotation.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAnnotation.pm:12
@@ -23597,7 +23597,7 @@ msgstr "Επεξεργασία ονόματος καλλιτέχνη"
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabel.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:28
 msgid "Edit label"
-msgstr ""
+msgstr "Επεξεργασία δισκογραφικής εταιρείας"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLink.pm:17
 msgid "Edit relationship (historic)"
@@ -23661,7 +23661,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeLabel.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
 msgid "Merge labels"
-msgstr ""
+msgstr "Συγχώνευση δισκογραφικών εταιρειών"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeRelease.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
@@ -23768,7 +23768,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/DeleteReleaseLabel.pm:16
 msgid "Remove release label"
-msgstr ""
+msgstr "Κατάργηση δισκογραφικής εταιρείας κυκλοφορίας"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
@@ -23789,7 +23789,7 @@ msgstr "Επεξεργασία barcode"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
-msgstr ""
+msgstr "Επεξεργασία δισκογραφικής εταιρείας κυκλοφορίας"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"

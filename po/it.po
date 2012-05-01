@@ -5,13 +5,14 @@
 # Translators:
 # Gioele  <email address hidden>, 2012.
 #   <email address hidden>, 2012.
+#   <email address hidden>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 09:35+0000\n"
-"Last-Translator: salorock <email address hidden>\n"
+"PO-Revision-Date: 2012-05-01 15:36+0000\n"
+"Last-Translator: leofiore <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -86,7 +87,7 @@ msgstr ""
 #: ../root/components/tag-cloud.tt:26
 #, perl-format
 msgid "'{tag}' has been used {num} times"
-msgstr ""
+msgstr "'{tag}' è stato usato {num} volta/e"
 
 #: ../root/user/profile.tt:28
 #, perl-format
@@ -122,7 +123,7 @@ msgstr ""
 #: ../root/user/profile.tt:20
 #, perl-format
 msgid "(hidden)"
-msgstr ""
+msgstr "(nascosto)"
 
 #: ../root/edit/details/reorder_mediums.tt:26
 #, perl-format
@@ -165,7 +166,7 @@ msgstr "(nessuno)"
 #: ../root/elections/show.tt:121
 #, perl-format
 msgid "(private)"
-msgstr ""
+msgstr "(privato)"
 
 #: ../root/search/lib/inline-results-recording.tt:49
 #, perl-format
@@ -237,7 +238,7 @@ msgstr "100%"
 #: DB:link_attribute_type/description:529 DB:link_attribute_type/name:529
 #, perl-format
 msgid "12 string guitar"
-msgstr ""
+msgstr "Chitarra a 12 corde"
 
 #: DB:medium_format/name:31
 msgid "12\" Vinyl"
@@ -303,7 +304,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:143
 #, perl-format
 msgid "<strong>Error</strong>:"
-msgstr ""
+msgstr "<strong>Errore</strong>:"
 
 #: ../root/account/register.tt:14
 #, perl-format
@@ -327,7 +328,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:593
 #, perl-format
 msgid "<strong>Note</strong>:"
-msgstr ""
+msgstr "<strong>Nota</strong>:"
 
 #: ../root/main/index.tt:38
 #, perl-format
@@ -348,7 +349,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:130
 #, perl-format
 msgid "<strong>Warning</strong>:"
-msgstr ""
+msgstr "<strong>Attenzione</strong>:"
 
 #: ../root/scripts/text_strings.tt:49
 #, perl-format
@@ -454,8 +455,8 @@ msgstr ""
 #, perl-format
 msgid "A private collection"
 msgid_plural "{n} private collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Una collezione privata"
+msgstr[1] "{n} collezioni private"
 
 #: ../root/edit/relationship/create_batch.tt:23
 #: ../root/edit/relationship/create.tt:26
@@ -661,12 +662,12 @@ msgstr ""
 #: ../root/edit/info.tt:13
 #, perl-format
 msgid "Add Note"
-msgstr ""
+msgstr "Aggiungi Annotazione"
 
 #: ../root/admin/wikidoc/create.tt:1 ../root/admin/wikidoc/create.tt:3
 #, perl-format
 msgid "Add Page"
-msgstr ""
+msgstr "Aggiungi Pagina"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -724,7 +725,7 @@ msgstr ""
 #: ../root/label/create.tt:15 ../root/label/create.tt:17
 #, perl-format
 msgid "Add a New Label"
-msgstr ""
+msgstr "Aggiungi una Nuova Etichetta"
 
 #: ../root/release_group/create.tt:23
 #, perl-format
@@ -942,12 +943,12 @@ msgstr ""
 #: ../root/layout/menu.tt:51
 #, perl-format
 msgid "Admin"
-msgstr ""
+msgstr "Amministrazione"
 
 #: ../root/admin/index.tt:1 ../root/admin/index.tt:3
 #, perl-format
 msgid "Administration"
-msgstr ""
+msgstr "Amministrazione"
 
 #: ../root/admin/edit_user.tt:15
 #, perl-format
@@ -1179,12 +1180,12 @@ msgstr ""
 #: ../root/search/results-artist.tt:7
 #, perl-format
 msgid "Alternatively, you may {uri|add a new artist}."
-msgstr ""
+msgstr "In alternativa, puoi {uri|aggiungere un nuovo artista}."
 
 #: ../root/search/results-label.tt:38
 #, perl-format
 msgid "Alternatively, you may {uri|add a new label}."
-msgstr ""
+msgstr "In alternativa, puoi {uri|aggiungere una nuova etichetta}."
 
 #: ../root/search/results-recording.tt:7
 #, perl-format
@@ -1554,7 +1555,7 @@ msgstr ""
 
 #: DB:country/name:10
 msgid "Argentina"
-msgstr ""
+msgstr "Argentina"
 
 #: DB:work_type/name:1
 msgid "Aria"
@@ -1562,7 +1563,7 @@ msgstr ""
 
 #: DB:country/name:11
 msgid "Armenia"
-msgstr ""
+msgstr "Armenia"
 
 #: DB:language/name:21 DB:script/name:35
 msgid "Armenian"
@@ -1658,7 +1659,7 @@ msgstr ""
 #: ../root/artist/not_found.tt:1 ../root/artist/not_found.tt:2
 #, perl-format
 msgid "Artist Not Found"
-msgstr ""
+msgstr "Artista non trovato"
 
 #: ../root/statistics/view_js.tt:155
 #, perl-format
@@ -1708,12 +1709,12 @@ msgstr ""
 #: ../root/artist/layout.tt:4
 #, perl-format
 msgid "Artist information"
-msgstr ""
+msgstr "Informazioni sull'Artista"
 
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
 msgid "Artist name:"
-msgstr ""
+msgstr "Nome Artista"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -1788,7 +1789,7 @@ msgstr ""
 #: ../root/taglookup/form.tt:4
 #, perl-format
 msgid "Artist:"
-msgstr ""
+msgstr "Artista:"
 
 #: ../root/artist/works.tt:18 ../root/otherlookup/results-work.tt:9
 #: ../root/release/edit/missing_entities.tt:37 ../root/report/index.tt:14
@@ -1797,7 +1798,7 @@ msgstr ""
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Artists"
-msgstr ""
+msgstr "Artisti"
 
 #: ../root/statistics/view_js.tt:111
 #, perl-format
@@ -2696,7 +2697,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
 #, perl-format
 msgid "CD Stub"
-msgstr ""
+msgstr "Bozza CD"
 
 #: ../root/cdstub/error.tt:2
 #, perl-format
@@ -4780,7 +4781,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:81
 #, perl-format
 msgid "Edit Note"
-msgstr ""
+msgstr "Modifica Annotazione"
 
 #: ../root/account/edit_ok.tt:1 ../root/account/edit_ok.tt:3
 #: ../root/account/edit.tt:1 ../root/account/edit.tt:3
@@ -12937,7 +12938,7 @@ msgstr ""
 #: ../root/user/contact.tt:3 ../lib/MusicBrainz/Server/Controller/User.pm:243
 #, perl-format
 msgid "Send Email"
-msgstr ""
+msgstr "Invia Email"
 
 #: ../root/user/contact.tt:17
 #, perl-format
@@ -15915,7 +15916,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:11
 #, perl-format
 msgid "Title"
-msgstr ""
+msgstr "Titolo"
 
 #: ../root/cdstub/edit.tt:54 ../root/edit/details/add_track_kv.tt:3
 #: ../root/release/edit/information.tt:24
@@ -23253,7 +23254,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:51
 msgid "The email address is missing."
-msgstr ""
+msgstr "L'indirizzo email è mancante."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:58
 msgid "The time is missing or is in an invalid format."
@@ -23270,7 +23271,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:82
 msgid "Sorry, this email verification link has expired."
-msgstr ""
+msgstr "Spiacenti, questo link di verifica email è scaduto."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:91
 #, perl-brace-format
@@ -23306,7 +23307,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:256
 msgid "There is no user with this email"
-msgstr ""
+msgstr "Non c'è alcun utente con questa email"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:461
 msgid ""
@@ -23493,12 +23494,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/Create.pm:18
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtist.pm:7
 msgid "Add artist"
-msgstr ""
+msgstr "Aggiungi artista"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Delete.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveArtist.pm:9
 msgid "Remove artist"
-msgstr ""
+msgstr "Rimuovi artista"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/DeleteAlias.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveArtistAlias.pm:9
@@ -23508,7 +23509,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/Edit.pm:28
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtist.pm:9
 msgid "Edit artist"
-msgstr ""
+msgstr "Modifica artista"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
@@ -23558,7 +23559,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddPUIDs.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddPUIDs.pm:13
 msgid "Add PUIDs"
-msgstr ""
+msgstr "Aggiungi PUID"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:14
@@ -23572,11 +23573,11 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrack.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
 msgid "Add track"
-msgstr ""
+msgstr "Aggiungi traccia"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackAnnotation.pm:7
 msgid "Add track annotation"
-msgstr ""
+msgstr "Aggiungi annotazione per la traccia"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeArtistQuality.pm:10
 msgid "Change artist quality"
@@ -23593,7 +23594,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistName.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistSortname.pm:7
 msgid "Edit artist name"
-msgstr ""
+msgstr "Modifica nome artista"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabel.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:28
@@ -23725,15 +23726,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
-msgstr ""
+msgstr "Aggiungi supporto"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Delete.pm:18
 msgid "Remove medium"
-msgstr ""
+msgstr "Rimuovi supporto"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Edit.pm:33
 msgid "Edit medium"
-msgstr ""
+msgstr "Modifica supporto"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
@@ -23749,19 +23750,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship.pm:7
 msgid "Relationship"
-msgstr ""
+msgstr "Relazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Delete.pm:25
 msgid "Remove relationship"
-msgstr ""
+msgstr "Rimuovi relazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Edit.pm:28
 msgid "Edit relationship"
-msgstr ""
+msgstr "Modifica relazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkType.pm:13
 msgid "Remove relationship type"
-msgstr ""
+msgstr "Rimuovi tipo della relazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
@@ -23887,11 +23888,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:21
 msgid "Enter a valid url e.g. \"http://google.com/\""
-msgstr ""
+msgstr "Inserisci un URL valido ad es. \"http://www.google.it\""
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
-msgstr ""
+msgstr "Il protocollo dell'URL deve essere HTTP, HTTPS o FTP"
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
@@ -23995,13 +23996,13 @@ msgstr ""
 #, perl-brace-format
 msgid "This medium has a Disc ID, it should have exactly {n} track."
 msgid_plural "This medium has a Disc ID, it should have exactly {n} tracks."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Questo supporto ha un ID Disco, dovrebbe avere esattamente {n} traccia"
+msgstr[1] "Questo supporto ha un ID Disco, dovrebbe avere esattamente {n} tracce"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
 msgid "Track {pos} is missing."
-msgstr ""
+msgstr "La traccia {pos} è mancante"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:213
 msgid ""
@@ -24023,7 +24024,7 @@ msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/User/ChangePassword.pm:37
 msgid "The old password is incorrect"
-msgstr ""
+msgstr "La vecchia password non è corretta"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:20
 msgid "Invalid URL format"
@@ -24043,7 +24044,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
-msgstr ""
+msgstr "Per favore scegli un altro username, questo è già preso"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
