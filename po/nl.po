@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 15:59+0000\n"
+"PO-Revision-Date: 2012-05-01 16:57+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -96,7 +96,7 @@ msgstr ""
 #: ../root/main/400.tt:12 ../root/main/500.tt:41
 #, perl-format
 msgid "(No details about this error are available)"
-msgstr ""
+msgstr "(Van deze foutmelding zijn geen details beschikbaar)"
 
 #: ../root/statistics/formats.tt:37
 #, perl-format
@@ -313,7 +313,7 @@ msgid ""
 "license. Furthermore, you give the MetaBrainz Foundation the right to "
 "license this data for commercial use. Please read our {doc|license page} for"
 " more details.</strong>"
-msgstr "<strong>Let op dat alle bijdragen die u doet aan MusicBrainz in het Publieke Domein en/of onder een by-nc-sa licentie van Creative Commons worden vrijgegeven. Daarnaast geeft u de MetaBrainz-stichting het recht om de gegevens voor commercieel gebruik in licentie te geven. Lees onze {doc | licentiepagina} voor meer details.</strong>"
+msgstr "<strong>Let op dat alle bijdragen die u doet aan MusicBrainz in het Publiek Domein en/of onder een by-nc-sa licentie van Creative Commons worden vrijgegeven. Daarnaast geeft u de MetaBrainz-stichting het recht om de gegevens voor commercieel gebruik in licentie te geven. Lees onze {doc | licentiepagina} voor meer details.</strong>"
 
 #: ../root/admin/wikidoc/index.tt:68
 #, perl-format
@@ -342,7 +342,7 @@ msgid ""
 "<strong>The universal lingua franca for music</strong> by providing a "
 "reliable and unambiguous form of {doc|music identification}, enabling both "
 "people and machines to have meaningful conversations about music."
-msgstr ""
+msgstr "<strong>De universele lingua franca voor muziek</strong> door het betrouwbaar en ondubbelzinnig verstrekken van {doc | identificatie van muziek}, zodat zowel mensen en machines zinvolle gesprekken over muziek kunnen voeren."
 
 #: ../root/components/common-macros.tt:587 ../root/recording/edit.tt:41
 #: ../root/release/edit/tracklist.tt:130
@@ -1435,7 +1435,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to delete all information about {e}? This cannot be "
 "undone!"
-msgstr ""
+msgstr "Weet u zeker dat u alle informatie over {e} wilt verwijderen? Dit kan niet ongedaan worden gemaakt!"
 
 #: ../root/admin/delete_user.tt:19
 #, perl-format
@@ -2968,7 +2968,7 @@ msgstr ""
 
 #: DB:country/name:41
 msgid "Central African Republic"
-msgstr ""
+msgstr "Centraal-Afrikaanse Republiek"
 
 #: DB:language/name:66
 msgid "Central American Indian languages"
@@ -3399,7 +3399,7 @@ msgstr ""
 
 #: DB:country/name:236
 msgid "Congo, The Democratic Republic of the"
-msgstr ""
+msgstr "Congo, Democratische Republiek"
 
 #: ../root/account/registered.tt:4
 #, perl-format
@@ -4086,7 +4086,7 @@ msgstr ""
 
 #: DB:country/name:56
 msgid "Czech Republic"
-msgstr ""
+msgstr "Tsjechische Republiek"
 
 #: DB:country/name:245
 msgid "Czechoslovakia (historical, 1918-1992)"
@@ -4591,7 +4591,7 @@ msgstr ""
 
 #: DB:country/name:60
 msgid "Dominican Republic"
-msgstr ""
+msgstr "Dominicaanse Republiek"
 
 #: ../root/user/login.tt:12
 #, perl-format
@@ -5069,7 +5069,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:53
 #, perl-format
 msgid "Edits about to be cancelled"
-msgstr ""
+msgstr "Wijzigingen die spoedig geannuleerd worden"
 
 #: ../root/layout/menu.tt:45
 #, perl-format
@@ -6546,7 +6546,7 @@ msgid ""
 "{cancel|how to cancel pending edits}, to cancel the pending add alias edit. "
 "Removing pending edits, rather than entering new edits helps reduce the "
 "amount of open edits in the system."
-msgstr ""
+msgstr "Als u deze alias per ongeluk hebt toegevoegd, volg dan alstublieft de instructies over {cancel | hoe wijzigingen te annuleren} om openstaande wijzigingen te annuleren. Het annuleren van openstaande wijzigingen in plaats van nieuwe wijzigingen toe te voegen helpt om het aantal openstaande wijzigingen in het systeem te verminderen."
 
 #: ../root/account/edit.tt:7
 #, perl-format
@@ -6724,12 +6724,12 @@ msgstr ""
 msgid ""
 "In order to log in or make changes to the database you must visit the main "
 "server at {uri}."
-msgstr ""
+msgstr "Om u aan te melden en veranderingen te maken in de gegevensbank moet u de hoofdserver gebruiken op {uri}."
 
 #: ../root/main/mirror_404.tt:9
 #, perl-format
 msgid "In order to view this page please visit the main server at {uri}."
-msgstr ""
+msgstr "Om deze pagina te bekijken moet u de hoofdserver gebruiken op {uri}."
 
 #: ../root/user/login.tt:20
 #, perl-format
@@ -7206,7 +7206,7 @@ msgid ""
 "version is a version of the song with the main vocals removed, designed to "
 "be used for karaoke. (<a "
 "href=\"/doc/Karaoke_Version_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een nummer een karaokeversie is van een ander nummer. Een karaokeversie is een versie van een lied waarvan de belangrijkste vocalen zijn verwijderd en is bedoeld voor het gebruik bij karaoke. (<a href=\"/doc/Karaoke_Version_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:239 DB:link_type/description:244
 #, perl-format
@@ -7730,7 +7730,7 @@ msgstr ""
 
 #: DB:country/name:101
 msgid "Iran, Islamic Republic of"
-msgstr ""
+msgstr "Iran, Islamitische Republiek"
 
 #: DB:language/name:193
 msgid "Iranian languages"
@@ -8090,11 +8090,11 @@ msgstr ""
 
 #: DB:country/name:112
 msgid "Korea (North), Democratic People's Republic of"
-msgstr ""
+msgstr "Korea (Noord), Democratische Volksrepubliek"
 
 #: DB:country/name:113
 msgid "Korea (South), Republic of"
-msgstr ""
+msgstr "Korea (Zuid), Republiek"
 
 #: DB:language/name:224 DB:script/name:43
 msgid "Korean"
@@ -8345,7 +8345,7 @@ msgstr ""
 
 #: DB:country/name:116
 msgid "Lao People's Democratic Republic"
-msgstr ""
+msgstr "Laos, Democratische Volksrepubliek"
 
 #: DB:medium_format/name:5
 msgid "LaserDisc"
@@ -8483,7 +8483,7 @@ msgid ""
 "Like Wikipedia, MusicBrainz is maintained by a global community of users and"
 " we want everyone &mdash; including you &mdash; to {doc|participate and "
 "contribute}."
-msgstr ""
+msgstr "Net als Wikipedia wordt MusicBrainz onderhouden door een wereldwijde gemeenschap van gebruikers en we willen dat iedereen &mdash; inclusief uzelf &mdash; {doc | deelneemt en bijdraagt}."
 
 #: DB:script/name:58
 msgid "Limbu"
@@ -8712,7 +8712,7 @@ msgstr ""
 
 #: DB:country/name:126
 msgid "Macedonia, The Former Yugoslav Republic of"
-msgstr ""
+msgstr "Macedonië, Republiek"
 
 #: DB:language/name:254
 msgid "Macedonian"
@@ -9246,7 +9246,7 @@ msgstr ""
 
 #: DB:country/name:140
 msgid "Moldova, Republic of"
-msgstr ""
+msgstr "Moldavië. Republiek"
 
 #: DB:language/name:274
 msgid "Mon-Khmer languages"
@@ -9432,18 +9432,18 @@ msgstr ""
 #, perl-format
 msgid ""
 "MusicBrainz uses artist aliases mainly as variant names or search hints."
-msgstr ""
+msgstr "MusicBrainz gebruikt aliassen voor artiesten vooral als varianten op namen of als hints bij het zoeken."
 
 #: ../root/label/add_alias.tt:4 ../root/label/edit_alias.tt:4
 #, perl-format
 msgid ""
 "MusicBrainz uses label aliases mainly as variant names or search hints."
-msgstr ""
+msgstr "MusicBrainz gebruikt aliassen voor platenmaatschappijen vooral als varianten op namen of als hints bij het zoeken."
 
 #: ../root/work/add_alias.tt:4 ../root/work/edit_alias.tt:4
 #, perl-format
 msgid "MusicBrainz uses work aliases mainly as variant names or search hints."
-msgstr ""
+msgstr "MusicBrainz gebruikt aliassen voor composities vooral als varianten op namen of als hints bij het zoeken."
 
 #: ../root/layout.tt:24
 #, perl-format
@@ -10832,7 +10832,7 @@ msgid ""
 "Please note that any content submitted to MusicBrainz will be made available"
 " to the public under {open|open licenses}, do not submit any copyrighted "
 "text here! "
-msgstr ""
+msgstr "Let op dat elke inhoud die aan MusicBrainz wordt toegevoegd beschikbaar wordt gesteld aan het publiek onder {open | open licenties}. Voeg hier geen auteursrechtelijk beschermde tekst toe!"
 
 #: ../root/label/edit_form.tt:4
 #, perl-format
@@ -11015,7 +11015,7 @@ msgid ""
 "Points to the Discogs page for this album. Always use the domain "
 "<code>www.discogs.com</code> and no genre subdomains. (<a "
 "href=\"http://musicbrainz.org/doc/Discogs_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Verwijst naar een Discogs-pagina voor dit album. Gebruik altijd het domein <code>www.discogs.com</code> en geen subdomeinen voor genres.(<a href=\"http://musicbrainz.org/doc/Discogs_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:180
 #, perl-format
@@ -11023,7 +11023,7 @@ msgid ""
 "Points to the Discogs page for this artist. Always use the domain "
 "<code>www.discogs.com</code> and no genre subdomains. (<a "
 "href=\"http://musicbrainz.org/doc/Discogs_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Verwijst naar een Discogs-pagina voor deze artiest. Gebruik altijd het domein <code>www.discogs.com</code> en geen subdomeinen voor genres.(<a href=\"http://musicbrainz.org/doc/Discogs_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:195
 #, perl-format
@@ -11237,12 +11237,12 @@ msgstr ""
 #: ../root/user/collections.tt:21
 #, perl-format
 msgid "Public"
-msgstr ""
+msgstr "Publiek"
 
 #: ../root/collection/header.tt:14
 #, perl-format
 msgid "Public collection"
-msgstr ""
+msgstr "Publieke collectie"
 
 #: DB:label_type/name:7
 msgid "Publisher"
@@ -13877,7 +13877,7 @@ msgstr ""
 
 #: DB:country/name:204
 msgid "Syrian Arab Republic"
-msgstr ""
+msgstr "Syrië, Arabische Republiek"
 
 #: ../root/main/503.tt:1 ../root/main/503.tt:3
 #, perl-format
@@ -14073,7 +14073,7 @@ msgstr ""
 
 #: DB:country/name:207
 msgid "Tanzania, United Republic of"
-msgstr ""
+msgstr "Tanzania, Verenigde Republiek"
 
 #: DB:language/name:408
 msgid "Tatar"
@@ -14448,7 +14448,7 @@ msgid ""
 "brass gong, typically about 20cm in diameter, which is used primarily in the"
 " folk music of Korea. (<a "
 "href=\"http://en.wikipedia.org/wiki/Kkwaenggwari\">Wikipedia</a>)"
-msgstr ""
+msgstr "De kkwaenggwari (Koreaans: 꽹과리, ook gespeld als ggwaenggwari) is een kleine platte messing gong, normaal gesproken met een diameter van 20 cm, die vooral gebruikt wordt in de traditionele Koreaanse muziek. (<a href=\"http://en.wikipedia.org/wiki/Kkwaenggwari\">Wikipedia</a>)"
 
 #: DB:link_attribute_type/description:371
 #, perl-format
@@ -14458,7 +14458,7 @@ msgstr ""
 #: ../root/layout.tt:77
 #, perl-format
 msgid "The main server is located at {uri}."
-msgstr ""
+msgstr "De hoofdserver is te vinden op {uri}."
 
 #: ../root/main/index.tt:81
 #, perl-format
@@ -14466,7 +14466,7 @@ msgid ""
 "The majority of the data in the <strong>MusicBrainz Database</strong> is "
 "released into the <strong>Public Domain</strong> and can be downloaded and "
 "used <strong>for free</strong>."
-msgstr ""
+msgstr "De meerderheid van de gegevens in de <strong>gegevensbank van Musicbrainz</strong> is vrijgegeven in het <strong>Publiek Domein</strong> en kan <strong>gratis</strong> gedownload en gebruikt worden."
 
 #: DB:link_attribute_type/description:294
 #, perl-format
@@ -14551,7 +14551,7 @@ msgstr ""
 #: ../root/layout.tt:108
 #, perl-format
 msgid "The server is temporary in read-only mode for database maintainance."
-msgstr ""
+msgstr "De server is tijdelijk in alleen-lezen modus vanwege onderhoud aan de gegevensbank."
 
 #: DB:link_attribute_type/description:112
 #, perl-format
@@ -15137,7 +15137,7 @@ msgstr "Dit is een Musicbrainz server voor ontwikkeling."
 msgid ""
 "This is a Musicbrainz mirror server. To edit or make changes to the data "
 "please visit the main server at {uri}."
-msgstr ""
+msgstr "Dit is een spiegelserver van MusicBrainz. Om veranderingen door te voeren in de gegevens moet u de hoofdserver gebruiken op {uri}."
 
 #: ../root/user/login.tt:27
 #, perl-format
@@ -16773,7 +16773,7 @@ msgstr ""
 
 #: DB:country/name:228
 msgid "Venezuela, Bolivarian Republic of"
-msgstr ""
+msgstr "Venezuela, Bolivariaanse Republiek"
 
 #: DB:link_attribute_type/description:503
 #, perl-format
@@ -17594,7 +17594,7 @@ msgid ""
 "main MusicBrainz database until an editor decides to take your submitted "
 "information, ensures it meets our standards and inserts it into the main "
 "database."
-msgstr ""
+msgstr "U kunt gegevens van een cd toevoegen zoals dit op de cd aangegeven staat zonder dat u zich zorgen hoeft te maken om deel uit te maken van MusicBrainz. Cd's die zo zijn toegevoegd zijn beschikbaar in programma's. Echter, zij zullen niet aan de belangrijkste gegevensbank van MusicBrainz worden toegevoegd tot een redacteur besluit om uw ingediende informatie op te pakken en ervoor te zorgen dat het aan onze standaarden voldoet, en het toevoegt aan de belangrijkste gegevensbank."
 
 #: ../root/cdstub/logged_in.tt:3
 #, perl-format
@@ -17765,7 +17765,7 @@ msgstr ""
 #: ../root/account/register.tt:31
 #, perl-format
 msgid "Your username will be publicly visible."
-msgstr ""
+msgstr "Uw gebruikersnaam zal publiekelijk zichtbaar zijn."
 
 #: DB:country/name:235
 msgid "Yugoslavia (historical, 1918-2003)"
@@ -21047,7 +21047,7 @@ msgstr ""
 #: DB:link_attribute_type/name:371
 #, perl-format
 msgid "public domain"
-msgstr ""
+msgstr "publiek domein"
 
 #: DB:link_type/link_phrase:66 DB:link_type/link_phrase:127
 #: DB:link_type/link_phrase:206 DB:link_type/link_phrase:32
@@ -23092,7 +23092,7 @@ msgstr ""
 #: ../root/user/collections.tt:32
 #, perl-format
 msgid "{user} has no public collections."
-msgstr ""
+msgstr "{user} heeft geen publieke collecties."
 
 #: ../root/user/ratings.tt:23
 #, perl-format
