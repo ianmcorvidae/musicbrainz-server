@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 18:57+0000\n"
+"PO-Revision-Date: 2012-05-01 19:55+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -6775,7 +6775,7 @@ msgid ""
 "together, but did not form a lasting group. For groups you should use the "
 "membership type. (<a "
 "href=\"http://musicbrainz.org/doc/Collaboration_Relationship_Type\">Details</a>)"
-msgstr "Indicates a collaboration between two artist or among several artists. Use this for projects, single albums, or even tracks where some artists worked together, but did not form a lasting group. For groups you should use the membership type. (<a href=\"http://musicbrainz.org/doc/Collaboration_Relationship_Type\">Details</a>)"
+msgstr ""
 
 #: DB:link_type/description:15
 #, perl-format
@@ -6784,7 +6784,7 @@ msgid ""
 "performed the same songs. Please take care to always point to the "
 "<strong>first</strong> version ever released! (<a "
 "href=\"http://musicbrainz.org/doc/Cover_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει μια διασκευασμένη έκδοση ενός άλμπουμ. Αυτό σημαίνει ότι ένας άλλος καλλιτέχνης ερμήνευσε τα ίδια τραγούδια. Παρακαλώ σιγουρευτείτε ότι επισημαίνετε πάντα την <strong>πρώτη</strong> έκδοση που κυκλοφόρησε! (<a href=\"http://musicbrainz.org/doc/Cover_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:172
 #, perl-format
@@ -6818,7 +6818,7 @@ msgid ""
 "Indicates a miscellaneous support role. This is usually stated in the liner "
 "notes of an album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει έναν γενικότερο υποστηρικτικό ρόλο. Συνήθως αναφέρεται στο ένθετο του δίσκου. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:105
 #, perl-format
@@ -6843,35 +6843,35 @@ msgstr ""
 msgid ""
 "Indicates a parent-child relationship (<a "
 "href=\"http://musicbrainz.org/doc/Parent_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει μια σχέση γονιού-παιδιού (<a href=\"http://musicbrainz.org/doc/Parent_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:20
 #, perl-format
 msgid ""
 "Indicates a person or agency that did photography for this album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει ένα πρόσωπο ή πρακτορείο το οποίο ανέλαβε τη λήψη φωτογραφιών για αυτή τη κυκλοφορία. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:250
 #, perl-format
 msgid ""
 "Indicates a person or agency that did photography for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει ένα πρόσωπο ή πρακτορείο το οποίο ανέλαβε τη λήψη φωτογραφιών για αυτή τη σύνθεση. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:18
 #, perl-format
 msgid ""
 "Indicates a person or agency that did the art direction for this album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει ένα άτομο ή πρακτορείο που ανέλαβε την καλλιτεχνική διεύθυνση για αυτή τη κυκλοφορία. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:265
 #, perl-format
 msgid ""
 "Indicates a person or agency that did the art direction for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει ένα άτομο ή πρακτορείο που ανέλαβε την καλλιτεχνική διεύθυνση για αυτή τη σύνθεση. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:63
 #, perl-format
@@ -7652,7 +7652,7 @@ msgstr ""
 
 #: DB:country/name:100
 msgid "Indonesia"
-msgstr ""
+msgstr "Ινδονησία"
 
 #: DB:language/name:189
 msgid "Indonesian"
@@ -7705,7 +7705,7 @@ msgstr ""
 
 #: DB:release_group_type/name:7
 msgid "Interview"
-msgstr ""
+msgstr "Συνέντευξη"
 
 #: ../root/edit/details/merge_common.tt:17
 #: ../root/edit/details/merge_recordings.tt:10
@@ -7729,7 +7729,7 @@ msgstr ""
 
 #: DB:country/name:101
 msgid "Iran, Islamic Republic of"
-msgstr ""
+msgstr "Ιράν, Ισλαμική Δημοκρατία του"
 
 #: DB:language/name:193
 msgid "Iranian languages"
@@ -7737,20 +7737,20 @@ msgstr ""
 
 #: DB:country/name:102
 msgid "Iraq"
-msgstr ""
+msgstr "Ιράκ"
 
 #: DB:country/name:103
 msgid "Ireland"
-msgstr ""
+msgstr "Ιρλανδία"
 
 #: DB:language/name:149
 msgid "Irish"
-msgstr ""
+msgstr "Ιρλανδικά"
 
 #: DB:link_attribute_type/description:491 DB:link_attribute_type/name:491
 #, perl-format
 msgid "Irish bouzouki"
-msgstr ""
+msgstr "Ιρλανδικό μπουζούκι"
 
 #: DB:link_attribute_type/name:435
 #, perl-format
@@ -7771,11 +7771,11 @@ msgstr ""
 
 #: DB:country/name:252
 msgid "Isle of Man"
-msgstr ""
+msgstr "Νήσος του Μαν"
 
 #: DB:country/name:104
 msgid "Israel"
-msgstr ""
+msgstr "Ισραήλ"
 
 #: ../root/layout.tt:96
 #, perl-format
@@ -7786,11 +7786,11 @@ msgstr ""
 
 #: DB:language/name:195
 msgid "Italian"
-msgstr ""
+msgstr "Ιταλικά"
 
 #: DB:country/name:105
 msgid "Italy"
-msgstr ""
+msgstr "Ιταλία"
 
 #: ../root/layout/menu.tt:124 ../root/main/index.tt:9
 #, perl-format
@@ -7799,15 +7799,15 @@ msgstr ""
 
 #: DB:country/name:106
 msgid "Jamaica"
-msgstr ""
+msgstr "Τζαμάικα"
 
 #: DB:country/name:107
 msgid "Japan"
-msgstr ""
+msgstr "Ιαπωνία"
 
 #: DB:language/name:198 DB:script/name:85
 msgid "Japanese"
-msgstr ""
+msgstr "Γιαπωνέζικα"
 
 #: DB:link_attribute_type/description:224
 #, perl-format
@@ -7817,7 +7817,7 @@ msgstr ""
 #: DB:link_attribute_type/description:293
 #, perl-format
 msgid "Japanese string instrument"
-msgstr ""
+msgstr "Γιαπωνέζικο έγχορδο όργανο"
 
 #: DB:script/name:100
 msgid "Japanese syllabaries"
@@ -7835,7 +7835,7 @@ msgstr ""
 #: ../root/release/edit/layout.tt:22
 #, perl-format
 msgid "Javascript needs to be enabled to edit releases."
-msgstr ""
+msgstr "Το javascript πρέπει να είναι ενεργοποιημένο για να επεξεργαστείτε κυκλοφορίες."
 
 #: ../root/recording/edit.tt:35 ../root/release_group/create.tt:18
 #: ../root/release_group/edit.tt:24 ../root/work/create.tt:18
@@ -7846,7 +7846,7 @@ msgstr ""
 #: ../root/artist/edit_credit.tt:17 ../root/artist/split.tt:17
 #, perl-format
 msgid "Javascript needs to be enabled."
-msgstr ""
+msgstr "Το javascript πρέπει να είναι ενεργοποιημένο."
 
 #: DB:country/name:253
 msgid "Jersey"
@@ -7869,7 +7869,7 @@ msgstr ""
 
 #: DB:country/name:108
 msgid "Jordan"
-msgstr ""
+msgstr "Ιορδανία"
 
 #: DB:language/name:200
 msgid "Judeo-Arabic"
@@ -7977,7 +7977,7 @@ msgstr ""
 
 #: DB:country/name:109
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Καζακστάν"
 
 #: DB:release_packaging/name:6
 msgid "Keep Case"
@@ -8008,7 +8008,7 @@ msgstr ""
 
 #: DB:country/name:110
 msgid "Kenya"
-msgstr ""
+msgstr "Κένυα"
 
 #: DB:script/name:48
 msgid "Kharoshthi"
@@ -8073,7 +8073,7 @@ msgstr ""
 
 #: DB:language/name:421
 msgid "Klingon"
-msgstr ""
+msgstr "Κλίνγκον"
 
 #: DB:language/name:222
 msgid "Komi"
@@ -8089,15 +8089,15 @@ msgstr ""
 
 #: DB:country/name:112
 msgid "Korea (North), Democratic People's Republic of"
-msgstr ""
+msgstr "Κορέα (Βόρεια), Λαοκρατική Δημοκρατία της"
 
 #: DB:country/name:113
 msgid "Korea (South), Republic of"
-msgstr ""
+msgstr "Κορέα (Νότια), Δημοκρατία της"
 
 #: DB:language/name:224 DB:script/name:43
 msgid "Korean"
-msgstr ""
+msgstr "Κορεατικά"
 
 #: DB:link_attribute_type/description:334
 #, perl-format
@@ -8127,7 +8127,7 @@ msgstr ""
 
 #: DB:language/name:232
 msgid "Kurdish"
-msgstr ""
+msgstr "Κουρδικά"
 
 #: DB:language/name:229
 msgid "Kurukh"
@@ -8139,11 +8139,11 @@ msgstr ""
 
 #: DB:country/name:114
 msgid "Kuwait"
-msgstr ""
+msgstr "Κουβέιτ"
 
 #: DB:country/name:115
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "Κιργιστάν"
 
 #: ../root/cdtoc/list.tt:10 ../root/collection/index.tt:16
 #: ../root/components/common-macros.tt:424
@@ -8166,32 +8166,32 @@ msgstr ""
 #: ../root/edit/search_macros.tt:278
 #, perl-format
 msgid "Label Country"
-msgstr ""
+msgstr "Χώρα δισκογραφικής εταιρείας"
 
 #: ../root/label/edit_form.tt:34
 #, perl-format
 msgid "Label Details"
-msgstr ""
+msgstr "Λεπτομέρειες Δισκογραφικής Εταιρείας"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Label IPI:"
-msgstr ""
+msgstr "IPI Δισκογραφικής Εταιρείας"
 
 #: ../root/statistics/view_js.tt:125
 #, perl-format
 msgid "Label IPIs"
-msgstr ""
+msgstr "IPIs Δισκογραφικής Εταιρείας"
 
 #: ../root/label/not_found.tt:1 ../root/label/not_found.tt:2
 #, perl-format
 msgid "Label Not Found"
-msgstr ""
+msgstr "Δισκογραφική Εταιρεία Δε Βρέθηκε"
 
 #: ../root/statistics/view_js.tt:156
 #, perl-format
 msgid "Label Ratings"
-msgstr ""
+msgstr "Βαθμολογίες Δισκογραφικής Εταιρείας"
 
 #: ../root/statistics/view_js.tt:162
 #, perl-format
@@ -8313,7 +8313,7 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:30
 #, perl-format
 msgid "Language"
-msgstr ""
+msgstr "Γλώσσα"
 
 #: ../root/edit/details/add_release.tt:46
 #: ../root/edit/details/edit_release.tt:38
@@ -8321,22 +8321,22 @@ msgstr ""
 #: ../root/release/edit/information.tt:44 ../root/release/sidebar.tt:25
 #, perl-format
 msgid "Language:"
-msgstr ""
+msgstr "Γλώσσα:"
 
 #: ../root/edit/details/edit_release_language.tt:8
 #, perl-format
 msgid "Language: {language}, script: {script}"
-msgstr ""
+msgstr "Γλώσσα: {language}, γραφή: {script}"
 
 #: ../root/statistics/languages_scripts.tt:25
 #, perl-format
 msgid "Languages"
-msgstr ""
+msgstr "Γλώσσες"
 
 #: ../root/statistics/languages_scripts.tt:19
 #, perl-format
 msgid "Languages and Scripts"
-msgstr ""
+msgstr "Γλώσσες και Γραφές"
 
 #: DB:language/name:237 DB:script/name:69
 msgid "Lao"
@@ -8344,48 +8344,48 @@ msgstr ""
 
 #: DB:country/name:116
 msgid "Lao People's Democratic Republic"
-msgstr ""
+msgstr "Λάος, Λαϊκή Δημοκρατία του "
 
 #: DB:medium_format/name:5
 msgid "LaserDisc"
-msgstr ""
+msgstr "LaserDisc"
 
 #: ../root/user/profile.tt:146
 #, perl-format
 msgid "Last 28 days"
-msgstr ""
+msgstr "Τελευταίες 28 μέρες"
 
 #: ../root/statistics/index.tt:500 ../root/statistics/index.tt:548
 #, perl-format
 msgid "Last Week:"
-msgstr ""
+msgstr "Περασμένη Βδομάδα:"
 
 #: ../root/cdstub/layout.tt:9
 #, perl-format
 msgid "Last modified:"
-msgstr ""
+msgstr "Τελευταία τροποποίηση:"
 
 #: ../root/layout/sidebar/sidebar-lastupdate.tt:2
 #, perl-format
 msgid "Last updated on {date}"
-msgstr ""
+msgstr "Τελευταία ανανέωση στις {date}"
 
 #: ../root/artist/details.tt:15 ../root/label/details.tt:15
 #: ../root/recording/details.tt:15 ../root/release/details.tt:15
 #: ../root/release_group/details.tt:15 ../root/work/details.tt:15
 #, perl-format
 msgid "Last updated:"
-msgstr ""
+msgstr "Τελευταία ανανέωση:"
 
 #: ../root/statistics/countries.tt:27 ../root/statistics/formats.tt:20
 #: ../root/statistics/index.tt:6 ../root/statistics/languages_scripts.tt:21
 #, perl-format
 msgid "Last updated: {date}"
-msgstr ""
+msgstr "Τελευταία ανανέωση: {date}"
 
 #: DB:language/name:238 DB:script/name:28
 msgid "Latin"
-msgstr ""
+msgstr "Λατινική"
 
 #: DB:script/name:30
 msgid "Latin (Fraktur variant)"
@@ -8397,11 +8397,11 @@ msgstr ""
 
 #: DB:country/name:117
 msgid "Latvia"
-msgstr ""
+msgstr "Λεττονία"
 
 #: DB:language/name:239
 msgid "Latvian"
-msgstr ""
+msgstr "Λεττονικά"
 
 #: DB:link_attribute_type/description:4
 #, perl-format
@@ -8410,7 +8410,7 @@ msgstr ""
 
 #: DB:country/name:118
 msgid "Lebanon"
-msgstr ""
+msgstr "Λίβανος"
 
 #: ../root/statistics/timeline.tt:60
 #, perl-format
@@ -8429,7 +8429,7 @@ msgstr ""
 #: ../root/tracklist/index.tt:15
 #, perl-format
 msgid "Length"
-msgstr ""
+msgstr "Διάρκεια"
 
 #: ../root/edit/details/add_standalone_recording.tt:28
 #: ../root/edit/details/add_track_kv.tt:7
@@ -8438,7 +8438,7 @@ msgstr ""
 #: ../root/recording/edit_form.tt:10 ../root/recording/layout.tt:12
 #, perl-format
 msgid "Length:"
-msgstr ""
+msgstr "Διάρκεια:"
 
 #: DB:script/name:57
 msgid "Lepcha"
@@ -8454,7 +8454,7 @@ msgstr ""
 
 #: DB:country/name:120
 msgid "Liberia"
-msgstr ""
+msgstr "Λιβερία"
 
 #: DB:country/name:121
 msgid "Libya"
@@ -8467,7 +8467,7 @@ msgstr ""
 
 #: DB:country/name:122
 msgid "Liechtenstein"
-msgstr ""
+msgstr "Λιχτενστάιν"
 
 #: DB:link_attribute_type/description:513
 #, perl-format
@@ -8486,16 +8486,16 @@ msgstr ""
 
 #: DB:script/name:58
 msgid "Limbu"
-msgstr ""
+msgstr "Λίμπου"
 
 #: DB:language/name:241
 msgid "Limburgish"
-msgstr ""
+msgstr "Λιμβουργιανά"
 
 #: ../root/user/profile.tt:45
 #, perl-format
 msgid "Limited User"
-msgstr ""
+msgstr "Περιορισμένος Χρήστης"
 
 #: DB:script/name:80
 msgid "Linear A"
@@ -8526,15 +8526,15 @@ msgstr ""
 
 #: DB:country/name:123
 msgid "Lithuania"
-msgstr ""
+msgstr "Λιθουανία"
 
 #: DB:language/name:243
 msgid "Lithuanian"
-msgstr ""
+msgstr "Λιθουανικά"
 
 #: DB:release_group_type/name:9
 msgid "Live"
-msgstr ""
+msgstr "Ζωντανά"
 
 #: ../root/layout/menu.tt:145
 #, perl-format
@@ -8703,7 +8703,7 @@ msgstr ""
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "MBID:"
-msgstr ""
+msgstr "MBID:"
 
 #: DB:country/name:125
 msgid "Macao"
@@ -8711,15 +8711,15 @@ msgstr ""
 
 #: DB:country/name:126
 msgid "Macedonia, The Former Yugoslav Republic of"
-msgstr ""
+msgstr "Μακεδονίας, Πρώην Γιουγκοσλαβική Δημοκρατία της"
 
 #: DB:language/name:254
 msgid "Macedonian"
-msgstr ""
+msgstr "Μακεδονικά"
 
 #: DB:country/name:127
 msgid "Madagascar"
-msgstr ""
+msgstr "Μαδαγασκάρη"
 
 #: DB:link_attribute_type/description:242
 #, perl-format
@@ -8741,7 +8741,7 @@ msgstr ""
 #: ../root/layout/menu.tt:127 ../root/main/index.tt:10
 #, perl-format
 msgid "Magic MP3 Tagger"
-msgstr ""
+msgstr "Magic MP3 Tagger"
 
 #: ../root/account/preferences.tt:37
 #, perl-format
@@ -8766,7 +8766,7 @@ msgstr ""
 #: ../root/taglookup/nag.tt:22
 #, perl-format
 msgid "Make a donation now!"
-msgstr ""
+msgstr "Κάντε μια δωρεά τώρα!"
 
 #: DB:language/name:275
 msgid "Malagasy"
@@ -8774,7 +8774,7 @@ msgstr ""
 
 #: DB:country/name:128
 msgid "Malawi"
-msgstr ""
+msgstr "Μαλάουι"
 
 #: DB:language/name:266
 msgid "Malay"
@@ -8786,11 +8786,11 @@ msgstr ""
 
 #: DB:country/name:129
 msgid "Malaysia"
-msgstr ""
+msgstr "Μαλαισία"
 
 #: DB:country/name:130
 msgid "Maldives"
-msgstr ""
+msgstr "Μαλδίβες"
 
 #: DB:gender/name:1
 msgid "Male"
@@ -8808,15 +8808,15 @@ msgstr ""
 
 #: DB:country/name:131
 msgid "Mali"
-msgstr ""
+msgstr "Μάλι"
 
 #: DB:country/name:132
 msgid "Malta"
-msgstr ""
+msgstr "Μάλτα"
 
 #: DB:language/name:276
 msgid "Maltese"
-msgstr ""
+msgstr "Μαλτέζικα"
 
 #: DB:language/name:277
 msgid "Manchu"
@@ -8873,7 +8873,7 @@ msgstr ""
 
 #: DB:country/name:133
 msgid "Marshall Islands"
-msgstr ""
+msgstr "Νησιά Μάρσαλ"
 
 #: DB:language/name:257
 msgid "Marshallese"
@@ -8889,7 +8889,7 @@ msgstr ""
 
 #: DB:language/name:265
 msgid "Masai"
-msgstr ""
+msgstr "Μασάι"
 
 #: DB:work_type/name:8
 msgid "Mass"
@@ -8998,12 +8998,12 @@ msgstr ""
 #: ../root/statistics/index.tt:314
 #, perl-format
 msgid "Mediums with at least one disc ID:"
-msgstr ""
+msgstr "Μέσα με τουλάχιστον ένα disc ID:"
 
 #: ../root/statistics/index.tt:308
 #, perl-format
 msgid "Mediums with no disc IDs:"
-msgstr ""
+msgstr "Μέσα χωρίς disc IDs:"
 
 #: ../root/statistics/view_js.tt:95
 #, perl-format
@@ -9014,7 +9014,7 @@ msgstr ""
 #: ../root/statistics/index.tt:302
 #, perl-format
 msgid "Mediums:"
-msgstr ""
+msgstr "Μέσα:"
 
 #: DB:script/name:120
 msgid "Meitei Mayek"
@@ -9033,7 +9033,7 @@ msgstr ""
 #: ../root/user/profile.tt:57
 #, perl-format
 msgid "Member since:"
-msgstr ""
+msgstr "Μέλος από:"
 
 #: DB:language/name:269 DB:script/name:148
 msgid "Mende"
@@ -9047,27 +9047,27 @@ msgstr ""
 #: ../root/layout/merge-helper.tt:30 ../root/release/merge_search.tt:14
 #, perl-format
 msgid "Merge"
-msgstr ""
+msgstr "Συγχώνευση"
 
 #: ../root/artist/merge.tt:1 ../root/artist/merge.tt:3
 #, perl-format
 msgid "Merge Artists"
-msgstr ""
+msgstr "Συγχώνευση Καλλιτεχνών"
 
 #: ../root/label/merge.tt:1 ../root/label/merge.tt:3
 #, perl-format
 msgid "Merge Labels"
-msgstr ""
+msgstr "Συγχώνευση Δισκογραφικών Εταιρειών"
 
 #: ../root/layout/merge-helper.tt:3
 #, perl-format
 msgid "Merge Process"
-msgstr ""
+msgstr "Διαδικασία Συγχώνευσης"
 
 #: ../root/recording/merge.tt:1 ../root/recording/merge.tt:3
 #, perl-format
 msgid "Merge Recordings"
-msgstr ""
+msgstr "Συγχώνευση Ηχογραφήσεων"
 
 #: ../root/release_group/merge.tt:1 ../root/release_group/merge.tt:3
 #, perl-format
@@ -9079,7 +9079,7 @@ msgstr ""
 #: ../root/release/merge.tt:15 ../root/release/merge.tt:17
 #, perl-format
 msgid "Merge Releases"
-msgstr ""
+msgstr "Συγχώνευση Κυκλοφοριών"
 
 #: ../root/work/merge.tt:1 ../root/work/merge.tt:3
 #, perl-format
@@ -9089,22 +9089,22 @@ msgstr ""
 #: ../root/artist/layout.tt:90
 #, perl-format
 msgid "Merge artist"
-msgstr ""
+msgstr "Συγχώνευση καλλιτεχνών"
 
 #: ../root/edit/details/historic/merge_releases.tt:25
 #, perl-format
 msgid "Merge attributes:"
-msgstr ""
+msgstr "Συγχώνευση ιδιοτήτων:"
 
 #: ../root/label/layout.tt:64
 #, perl-format
 msgid "Merge label"
-msgstr ""
+msgstr "Συγχώνευση δισκογραφικών εταιρειών"
 
 #: ../root/edit/details/historic/merge_releases.tt:30
 #, perl-format
 msgid "Merge language &amp; script:"
-msgstr ""
+msgstr "Συγχώνευση γλώσσας &amp; γραφής:"
 
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
@@ -9115,17 +9115,17 @@ msgstr ""
 #: ../root/release/merge_confirm.tt:10
 #, perl-format
 msgid "Merge method:"
-msgstr ""
+msgstr "Μέθοδος συγχώνευσης:"
 
 #: ../root/recording/layout.tt:42
 #, perl-format
 msgid "Merge recording"
-msgstr ""
+msgstr "Συγχώνευση ηχογράφησης"
 
 #: ../root/release/sidebar.tt:72
 #, perl-format
 msgid "Merge release"
-msgstr ""
+msgstr "Συγχώνευση κυκλοφορίας"
 
 #: ../root/release_group/layout.tt:41
 #, perl-format
@@ -9141,7 +9141,7 @@ msgstr ""
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
 msgid "Merge strategy:"
-msgstr ""
+msgstr "Στρατηγική συγχώνευσης:"
 
 #: ../root/work/layout.tt:35
 #, perl-format
@@ -9152,7 +9152,7 @@ msgstr ""
 #: ../root/edit/details/merge_recordings.tt:3
 #, perl-format
 msgid "Merge:"
-msgstr ""
+msgstr "Συγχώνευση:"
 
 #: DB:script/name:153
 msgid "Meroitic Cursive"
@@ -9165,7 +9165,7 @@ msgstr ""
 #: ../root/user/contact.tt:11
 #, perl-format
 msgid "Message:"
-msgstr ""
+msgstr "Μήνυμα:"
 
 #: DB:link_attribute_type/description:452
 #, perl-format
@@ -9184,7 +9184,7 @@ msgstr ""
 
 #: DB:country/name:138
 msgid "Mexico"
-msgstr ""
+msgstr "Μεξικό"
 
 #: DB:language/name:271
 msgid "Mi'kmaq"
@@ -9196,7 +9196,7 @@ msgstr ""
 
 #: DB:country/name:139
 msgid "Micronesia, Federated States of"
-msgstr ""
+msgstr "Μικρονησίας, Ομόσπονδες Πολιτείες της"
 
 #: DB:language/name:272
 msgid "Minangkabau"
@@ -9204,12 +9204,12 @@ msgstr ""
 
 #: DB:medium_format/name:6
 msgid "MiniDisc"
-msgstr ""
+msgstr "MiniDisc"
 
 #: DB:link_attribute_type/description:349 DB:link_attribute_type/name:349
 #, perl-format
 msgid "Minimoog"
-msgstr ""
+msgstr "Minimoog"
 
 #: DB:language/name:287
 msgid "Mirandese"
@@ -9241,7 +9241,7 @@ msgstr ""
 
 #: DB:language/name:281
 msgid "Moldavian"
-msgstr ""
+msgstr "Μολδαβικά"
 
 #: DB:country/name:140
 msgid "Moldova, Republic of"
@@ -9253,7 +9253,7 @@ msgstr ""
 
 #: DB:country/name:141
 msgid "Monaco"
-msgstr ""
+msgstr "Μονακό"
 
 #: DB:language/name:244
 msgid "Mongo"
@@ -9261,15 +9261,15 @@ msgstr ""
 
 #: DB:country/name:142
 msgid "Mongolia"
-msgstr ""
+msgstr "Μογγολία"
 
 #: DB:language/name:282 DB:script/name:17
 msgid "Mongolian"
-msgstr ""
+msgstr "Μογγολικά"
 
 #: DB:country/name:247
 msgid "Montenegro"
-msgstr ""
+msgstr "Μαυροβούνιο"
 
 #: DB:country/name:143
 msgid "Montserrat"
@@ -9447,17 +9447,17 @@ msgstr ""
 #: ../root/layout.tt:24
 #, perl-format
 msgid "MusicBrainz: Artist"
-msgstr ""
+msgstr "MusicBrainz: Καλλιτέχνης"
 
 #: ../root/layout.tt:25
 #, perl-format
 msgid "MusicBrainz: Label"
-msgstr ""
+msgstr "MusicBrainz: Δισκογραφική Εταιρεία"
 
 #: ../root/layout.tt:26
 #, perl-format
 msgid "MusicBrainz: Release"
-msgstr ""
+msgstr "MusicBrainz: Κυκλοφορία"
 
 #: ../root/layout.tt:27
 #, perl-format
@@ -9467,22 +9467,22 @@ msgstr ""
 #: DB:link_type/link_phrase:91 DB:link_type/link_phrase:181
 #, perl-format
 msgid "MusicMoz"
-msgstr ""
+msgstr "MusicMoz"
 
 #: DB:link_type/reverse_link_phrase:91 DB:link_type/reverse_link_phrase:181
 #, perl-format
 msgid "MusicMoz page for"
-msgstr ""
+msgstr "Σελίδα του MusicMoz για"
 
 #: ../root/layout/menu.tt:27
 #, perl-format
 msgid "My Collections"
-msgstr ""
+msgstr "Οι συλλογές μου"
 
 #: ../root/layout/menu.tt:24
 #, perl-format
 msgid "My Data"
-msgstr ""
+msgstr "Τα δεδομένα μου"
 
 #: ../root/layout/menu.tt:36
 #, perl-format
@@ -9492,7 +9492,7 @@ msgstr ""
 #: ../root/layout/menu.tt:30
 #, perl-format
 msgid "My Ratings"
-msgstr ""
+msgstr "Οι βαθμολογίες μου"
 
 #: ../root/layout/menu.tt:33
 #, perl-format
@@ -9502,12 +9502,12 @@ msgstr ""
 #: ../root/edit/search_macros.tt:278
 #, perl-format
 msgid "My Vote"
-msgstr ""
+msgstr "Οι ψήφοι μου"
 
 #: ../root/edit/index.tt:39
 #, perl-format
 msgid "My vote:"
-msgstr ""
+msgstr "Η ψήφος μου:"
 
 #: ../root/edit/edit_header.tt:31 ../root/edit/edit_header.tt:36
 #: ../root/edit/edit_header.tt:41
@@ -9518,16 +9518,16 @@ msgstr ""
 #: DB:link_type/link_phrase:189 DB:link_type/link_phrase:215
 #, perl-format
 msgid "MySpace"
-msgstr ""
+msgstr "MySpace"
 
 #: DB:link_type/reverse_link_phrase:189 DB:link_type/reverse_link_phrase:215
 #, perl-format
 msgid "MySpace page for"
-msgstr ""
+msgstr "Σελίδα στο MySpace για"
 
 #: DB:country/name:146 DB:script/name:64
 msgid "Myanmar"
-msgstr ""
+msgstr "Μιανμάρ"
 
 #: DB:language/name:478
 msgid "N'Ko"
@@ -9573,7 +9573,7 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:16
 #, perl-format
 msgid "Name"
-msgstr ""
+msgstr "Όνομα"
 
 #: ../root/admin/linkattributetype/form.tt:12
 #: ../root/admin/linktype/form.tt:12 ../root/artist/details.tt:5
@@ -9607,7 +9607,7 @@ msgstr ""
 #: ../root/work/edit_form.tt:7
 #, perl-format
 msgid "Name:"
-msgstr ""
+msgstr "Όνομα:"
 
 #: DB:country/name:147
 msgid "Namibia"
@@ -9639,7 +9639,7 @@ msgstr ""
 
 #: DB:country/name:149
 msgid "Nepal"
-msgstr ""
+msgstr "Νεπάλ"
 
 #: DB:language/name:301
 msgid "Nepal Bhasa"
@@ -9651,7 +9651,7 @@ msgstr ""
 
 #: DB:country/name:150
 msgid "Netherlands"
-msgstr ""
+msgstr "Ολλανδία"
 
 #: DB:country/name:151
 msgid "Netherlands Antilles (historical, 1954-2010)"
@@ -9660,12 +9660,12 @@ msgstr ""
 #: ../root/annotation/history.tt:7
 #, perl-format
 msgid "New"
-msgstr ""
+msgstr "Νέο"
 
 #: ../root/edit/details/edit_medium.tt:219
 #, perl-format
 msgid "New Artist"
-msgstr ""
+msgstr "Νέος Καλλιτέχνης"
 
 #: ../root/artist/edit_credit.tt:32 ../root/artist/split.tt:46
 #, perl-format
@@ -9674,7 +9674,7 @@ msgstr ""
 
 #: DB:country/name:152
 msgid "New Caledonia"
-msgstr ""
+msgstr "Νέα Καληδονία"
 
 #: ../root/admin/linkattributetype/create.tt:1
 #: ../root/admin/linkattributetype/create.tt:3
@@ -9693,7 +9693,7 @@ msgstr ""
 #: ../root/edit/details/historic/merge_releases.tt:14
 #, perl-format
 msgid "New Release:"
-msgstr ""
+msgstr "Νέα Κυκλοφορία:"
 
 #: ../root/edit/details/edit_release_attributes.tt:27
 #, perl-format
@@ -9716,12 +9716,12 @@ msgstr ""
 
 #: DB:country/name:153
 msgid "New Zealand"
-msgstr ""
+msgstr "Νέα Ζηλανδία"
 
 #: ../root/release/merge.tt:53
 #, perl-format
 msgid "New disc title:"
-msgstr ""
+msgstr "Νέο όνομα δίσκου:"
 
 #: ../root/edit/details/edit_release_language.tt:25
 #, perl-format
@@ -9857,7 +9857,7 @@ msgstr ""
 #: ../root/elections/index.tt:29
 #, perl-format
 msgid "No elections found."
-msgstr ""
+msgstr "Δε βρέθηκαν ψηφοφορίες."
 
 #: ../root/tag/label.tt:1
 #, perl-format
@@ -9866,7 +9866,7 @@ msgstr ""
 
 #: DB:language/name:486
 msgid "No linguistic content"
-msgstr ""
+msgstr "Κανένα γλωσσικό περιεχόμενο"
 
 #: ../root/release/lookup.tt:33
 #, perl-format
@@ -9881,7 +9881,7 @@ msgstr ""
 #: ../root/artist/recordings.tt:10
 #, perl-format
 msgid "No recordings found."
-msgstr ""
+msgstr "Δε βρέθηκαν ηχογραφήσεις."
 
 #: ../root/tag/recording.tt:1
 #, perl-format
@@ -9916,7 +9916,7 @@ msgstr ""
 #: ../root/release_group/index.tt:78
 #, perl-format
 msgid "No releases found."
-msgstr ""
+msgstr "Δε βρέθηκαν κυκλοφορίες."
 
 #: ../root/tag/release.tt:1
 #, perl-format
@@ -9926,19 +9926,19 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:113 ../root/scripts/text_strings.tt:37
 #, perl-format
 msgid "No results"
-msgstr ""
+msgstr "Κανένα αποτέλεσμα"
 
 #: ../root/otherlookup/results.tt:10 ../root/search/results-annotation.tt:28
 #: ../root/search/results-cdstub.tt:28 ../root/search/results-freedb.tt:34
 #: ../root/search/results-tag.tt:24
 #, perl-format
 msgid "No results found"
-msgstr ""
+msgstr "Δε βρέθηκαν αποτελέσματα"
 
 #: ../root/components/search.tt:43
 #, perl-format
 msgid "No results found."
-msgstr ""
+msgstr "Δε βρέθηκαν αποτελέσματα."
 
 #: ../root/search/lib/inline-results-artist.tt:31
 #: ../root/search/lib/inline-results-recording.tt:62
@@ -9959,12 +9959,12 @@ msgstr ""
 #: ../root/user/privileged.tt:9
 #, perl-format
 msgid "No users found"
-msgstr ""
+msgstr "Δε βρέθηκαν χρήστες"
 
 #: ../root/edit/search_macros.tt:234
 #, perl-format
 msgid "No vote"
-msgstr ""
+msgstr "Καμία ψήφος"
 
 #: ../root/edit/search_macros.tt:278
 #, perl-format
@@ -9999,16 +9999,16 @@ msgstr ""
 #: DB:release_packaging/name:7
 #, perl-format
 msgid "None"
-msgstr ""
+msgstr "Κανένα"
 
 #: DB:country/name:158
 msgid "Norfolk Island"
-msgstr ""
+msgstr "Νησί Νόρφολκ"
 
 #: ../root/components/common-macros.tt:457
 #, perl-format
 msgid "Normal"
-msgstr ""
+msgstr "Κανονικό"
 
 #: ../root/statistics/view_js.tt:150
 #, perl-format
@@ -10023,7 +10023,7 @@ msgstr ""
 #: ../root/user/profile.tt:48
 #, perl-format
 msgid "Normal User"
-msgstr ""
+msgstr "Κανονικός Χρήστης"
 
 #: DB:language/name:308
 msgid "Norse, Old"
@@ -10040,7 +10040,7 @@ msgstr ""
 
 #: DB:country/name:159
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Βόρειες Μαριάνες"
 
 #: DB:link_attribute_type/description:438
 #, perl-format
@@ -10054,11 +10054,11 @@ msgstr ""
 
 #: DB:country/name:160
 msgid "Norway"
-msgstr ""
+msgstr "Νορβηγία"
 
 #: DB:language/name:309
 msgid "Norwegian"
-msgstr ""
+msgstr "Νορβηγικά"
 
 #: DB:language/name:306
 msgid "Norwegian Bokmål"
@@ -10079,7 +10079,7 @@ msgid ""
 "Note! If you do not know the month or day of release, please leave them "
 "empty.  January 1st is not often the actual release date, please double "
 "check that you have entered the release date correctly."
-msgstr ""
+msgstr "Προσοχή! Αν δεν ξέρετε το μήνα ή τη μέρα κυκλοφορίας, παρακαλώ αφήστε τα κενά. Η 1η Ιανουαρίου συνήθως δεν είναι η πραγματική ημερομηνία κυκλοφορίας, παρακαλώ σιγουρευτείτε ότι έχετε εισαγάγει σωστά την ημερομηνία."
 
 #: ../root/edit/details/set_track_lengths.tt:58
 #, perl-format
@@ -10106,7 +10106,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:285 ../root/release/edit/tracklist.tt:408
 #, perl-format
 msgid "Now loading tracklist..."
-msgstr ""
+msgstr "Νέο όνομα δίσκου:"
 
 #: DB:language/name:311
 msgid "Nubian languages"

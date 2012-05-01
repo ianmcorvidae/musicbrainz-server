@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 18:58+0000\n"
+"PO-Revision-Date: 2012-05-01 19:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -588,7 +588,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:71
 #, perl-format
 msgid "Active Editors"
-msgstr ""
+msgstr "Actieve redacteuren"
 
 #: ../root/statistics/view_js.tt:73
 #, perl-format
@@ -1447,7 +1447,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to nominate the editor {editor} for auto-editor "
 "status?"
-msgstr ""
+msgstr "Weet u zeker dat u de redacteur {editor} wilt nomineren voor de status van autoredacteur?"
 
 #: ../root/recording/delete_puid.tt:2
 #, perl-format
@@ -2010,27 +2010,27 @@ msgstr ""
 #: ../root/admin/edit_user.tt:6
 #, perl-format
 msgid "Auto-editor"
-msgstr ""
+msgstr "Autoredacteur"
 
 #: ../root/layout/menu.tt:98
 #, perl-format
 msgid "Auto-editor Elections"
-msgstr ""
+msgstr "Autoredacteurverkiezingen"
 
 #: ../root/elections/show.tt:1 ../root/elections/show.tt:3
 #, perl-format
 msgid "Auto-editor election #{no}"
-msgstr ""
+msgstr "Autoredacteurverkiezing #{no}"
 
 #: ../root/elections/index.tt:1 ../root/elections/index.tt:3
 #, perl-format
 msgid "Auto-editor elections"
-msgstr ""
+msgstr "Autoredacteurverkiezingen"
 
 #: ../root/user/privileged.tt:18
 #, perl-format
 msgid "Auto-editors"
-msgstr ""
+msgstr "Autoredacteuren"
 
 #: ../root/user/privileged.tt:19
 #, perl-format
@@ -2039,7 +2039,7 @@ msgid ""
 "privileges. These privileges allow them to make select edits that are "
 "automatically approved without going through the normal voting process, as "
 "well as the ability to instantly approve other users' edits."
-msgstr ""
+msgstr "Autoredacteuren zijn vertrouwde gebruikers die {url|autoredacteur} privileges hebben gekregen. Deze privileges laat hen een select aantal wijzigingen maken die automatisch worden doorgevoerd zonder door de normale stemmingsprocedure te gaan. Ook geeft dit hen de mogelijkheid om wijzigingen van andere gebruikers direct te bevestigen."
 
 #: ../root/user/profile.tt:120
 #, perl-format
@@ -2928,12 +2928,12 @@ msgstr ""
 #: ../root/report/cat_no_looks_like_asin.tt:15
 #, perl-format
 msgid "Catalog Number"
-msgstr ""
+msgstr "Catalogusnummer"
 
 #: ../root/edit/details/edit_release_events.tt:8
 #, perl-format
 msgid "Catalog number"
-msgstr ""
+msgstr "Catalogusnummer"
 
 #: ../root/edit/details/add_release_label.tt:13
 #: ../root/edit/details/edit_release_label.tt:17
@@ -2941,14 +2941,14 @@ msgstr ""
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Catalog number:"
-msgstr ""
+msgstr "Catalogusnummer:"
 
 #: ../root/cdtoc/list.tt:11 ../root/collection/index.tt:17
 #: ../root/recording/index.tt:17 ../root/release_group/index.tt:18
 #: ../root/release_group/releases-list.tt:27 ../root/tracklist/index.tt:34
 #, perl-format
 msgid "Catalog#"
-msgstr ""
+msgstr "Catalogus#"
 
 #: DB:language/name:69
 msgid "Caucasian languages"
@@ -3406,7 +3406,7 @@ msgstr "Congo, Democratische Republiek"
 msgid ""
 "Congratulations, your new account has been created and you are now logged "
 "into MusicBrainz!"
-msgstr ""
+msgstr "Gefeliciteerd, uw nieuwe gebruikersaccount is gecreëerd en u bent nu aangemeld bij MusicBrainz!"
 
 #: ../root/layout/menu.tt:235
 #, perl-format
@@ -3753,7 +3753,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:70
 #, perl-format
 msgid "Count of all editors"
-msgstr ""
+msgstr "Aantal redacteurs"
 
 #: ../root/statistics/view_js.tt:48
 #, perl-format
@@ -3798,12 +3798,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:71
 #, perl-format
 msgid "Count of editors who have submitted edits during the last week"
-msgstr ""
+msgstr "Aantal redacteurs die afgelopen week wijzigingen hebben ingediend"
 
 #: ../root/statistics/view_js.tt:72
 #, perl-format
 msgid "Count of editors who have voted on during the last week"
-msgstr ""
+msgstr "Aantal redacteurs die afgelopen week hebben gestemd"
 
 #: ../root/statistics/view_js.tt:50
 #, perl-format
@@ -4896,7 +4896,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:92
 #, perl-format
 msgid "Edit by {editor}"
-msgstr ""
+msgstr "Wijziging door {editor}"
 
 #: ../root/label/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabelAlias.pm:7
@@ -5003,47 +5003,47 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:43
 #, perl-format
 msgid "Editor"
-msgstr ""
+msgstr "Redacteur"
 
 #: ../root/user/not_found.tt:1 ../root/user/not_found.tt:2
 #, perl-format
 msgid "Editor Not Found"
-msgstr ""
+msgstr "Redacteur niet gevonden"
 
 #: ../root/user/subscriptions/editor.tt:1 ../root/user/subscriptions/menu.tt:5
 #, perl-format
 msgid "Editor Subscriptions"
-msgstr ""
+msgstr "Abonnementen op redacteurs"
 
 #: ../root/user/profile/layout.tt:1 ../root/user/profile/layout.tt:8
 #, perl-format
 msgid "Editor “{user}”"
-msgstr ""
+msgstr "Redacteur \"{user}\""
 
 #: ../root/statistics/index.tt:412 ../root/statistics/view_js.tt:70
 #, perl-format
 msgid "Editors"
-msgstr ""
+msgstr "Redacteurs"
 
 #: ../root/artist/subscribe.tt:2
 #, perl-format
 msgid "Editors Subscribed to this Artist"
-msgstr ""
+msgstr "Redacteurs die op deze artiest zijn geabonneerd"
 
 #: ../root/label/subscriptions.tt:2
 #, perl-format
 msgid "Editors subscribed to this Label"
-msgstr ""
+msgstr "Redacteurs die op deze platenmaatschappij zijn geabonneerd"
 
 #: ../root/statistics/index.tt:408
 #, perl-format
 msgid "Editors, Edits, and Votes"
-msgstr ""
+msgstr "Redacteurs, wijzigingen en stemmen"
 
 #: ../root/statistics/index.tt:52 ../root/statistics/index.tt:417
 #, perl-format
 msgid "Editors:"
-msgstr ""
+msgstr "Redacteurs:"
 
 #: ../root/statistics/index.tt:442 ../root/statistics/view_js.tt:48
 #: ../root/user/edits.tt:15
@@ -5059,7 +5059,7 @@ msgstr ""
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
 msgid "Edits By Your Subscribed Editors"
-msgstr ""
+msgstr "Wijzigingen door redacteurs waarop u bent geabonneerd"
 
 #: ../root/edit/subscribed.tt:15 ../root/edit/subscribed.tt:17
 #, perl-format
@@ -7987,7 +7987,7 @@ msgstr ""
 #: ../root/user/login.tt:31
 #, perl-format
 msgid "Keep me logged in"
-msgstr ""
+msgstr "Houd me aangemeld"
 
 #: ../root/components/forms.tt:131 ../root/components/forms.tt:155
 #: ../root/release/edit/tracklist.tt:460
@@ -8561,17 +8561,17 @@ msgstr ""
 #: ../root/user/login.tt:34
 #, perl-format
 msgid "Log In"
-msgstr ""
+msgstr "Aanmelden"
 
 #: ../root/layout/menu.tt:19
 #, perl-format
 msgid "Log Out"
-msgstr ""
+msgstr "Afmelden"
 
 #: ../root/components/common-macros.tt:338
 #, perl-format
 msgid "Log in"
-msgstr ""
+msgstr "Aanmelden"
 
 #: ../root/artist/layout.tt:110 ../root/label/layout.tt:83
 #: ../root/recording/layout.tt:61 ../root/release_group/layout.tt:62
@@ -8579,7 +8579,7 @@ msgstr ""
 #: ../root/work/layout.tt:54
 #, perl-format
 msgid "Log in to edit"
-msgstr ""
+msgstr "Aanmelden om te wijzigen"
 
 #: DB:language/name:197
 msgid "Lojban"
@@ -9989,7 +9989,7 @@ msgstr ""
 #: ../root/elections/nominate.tt:1 ../root/elections/nominate.tt:3
 #, perl-format
 msgid "Nominate a candidate for auto-editor"
-msgstr ""
+msgstr "Nomineer een kandidaat voor autoredacteur"
 
 #: ../root/statistics/index.tt:157
 #, perl-format
@@ -10267,7 +10267,7 @@ msgstr ""
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
 msgid "Only {doc|auto-editors} can approve an edit."
-msgstr ""
+msgstr "Alleen {doc|autoredacteuren} kunnen een wijziging direct bevestigen."
 
 #: ../root/edit/search_macros.tt:84
 #, perl-format
@@ -10779,7 +10779,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:66
 #, perl-format
 msgid "Please double-check the barcode on the release."
-msgstr ""
+msgstr "Controleert u alstublieft de streepjescode op de release nog een keer."
 
 #: ../root/components/tag.tt:7
 #, perl-format
@@ -10993,7 +10993,7 @@ msgstr ""
 #: ../root/recording/fingerprints.tt:39
 #, perl-format
 msgid "Please {login_url|log in} to edit these PUIDs."
-msgstr ""
+msgstr "{login_url|Meld u alstublieft aan} om deze PUID's te wijzigen."
 
 #: ../root/release/discids.tt:57
 #, perl-format
@@ -11038,7 +11038,7 @@ msgid ""
 "Points to the Internet Movie Database page for this artist. URLs should "
 "follow the format <code>http://www.imdb.com/name/&lt;ID&gt;/</code>. (<a "
 "href=\"http://musicbrainz.org/doc/IMDb_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Verwijst naar de Internet Movie Database pagina voor deze artiest. URL's moeten de indeling <code>http://www.imdb.com/name/&lt;ID&gt;/</code> hebben. (<a href=\"http://musicbrainz.org/doc/IMDb_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:196
 #, perl-format
@@ -12460,7 +12460,7 @@ msgstr "Een bug rapporteren"
 #: ../root/layout/menu.tt:251
 #, perl-format
 msgid "Report a Copyright Violation"
-msgstr ""
+msgstr "Rapporteer een auteursrechtenschending"
 
 #: ../root/layout/menu.tt:200 ../root/report/index.tt:1
 #: ../root/report/index.tt:3
@@ -12826,7 +12826,7 @@ msgstr ""
 #: ../root/search/editor.tt:1
 #, perl-format
 msgid "Search for an Editor"
-msgstr ""
+msgstr "Zoek naar een redacteur"
 
 #: ../root/edit/list_header.tt:8
 #, perl-format
@@ -13297,7 +13297,7 @@ msgstr ""
 msgid ""
 "Sorry, <code>{discid}</code> does not match a CD stub. You can try  "
 "{search_url|searching for it} instead."
-msgstr ""
+msgstr "Excuus, <code>{discid}</code> komt niet overeen met een cd-beginsel. U kunt proberen {search_url|ernaar te zoeken}."
 
 #: ../root/cdstub/error.tt:19
 #, perl-format
@@ -13659,7 +13659,7 @@ msgstr ""
 #: ../root/layout/menu.tt:104 ../root/user/profile.tt:107
 #, perl-format
 msgid "Statistics"
-msgstr ""
+msgstr "Satistieken"
 
 #: ../root/edit/search_macros.tt:278 ../root/elections/index.tt:10
 #: ../root/release/lookup.tt:14
@@ -13973,7 +13973,7 @@ msgstr ""
 
 #: DB:language/name:414 DB:script/name:76
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: DB:script/name:79
 msgid "Tagbanwa"
@@ -14202,35 +14202,35 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:63
 #, perl-format
 msgid "The barcode you entered is a valid EAN code."
-msgstr ""
+msgstr "De streepjescode die u heeft ingevoerd is een geldige EAN-code."
 
 #: ../root/scripts/text_strings.tt:61
 #, perl-format
 msgid "The barcode you entered is a valid UPC code."
-msgstr ""
+msgstr "De streepjescode die u heeft ingevoerd is een geldige UPC-code."
 
 #: ../root/scripts/text_strings.tt:62
 #, perl-format
 msgid ""
 "The barcode you entered is either an invalid UPC code, or an EAN code with "
 "the check digit missing."
-msgstr ""
+msgstr "De streepjescode die u heeft ingevoerd is of een ongeldige UPC-code, of een EAN-code waarbij het controlegetal mist."
 
 #: ../root/scripts/text_strings.tt:64
 #, perl-format
 msgid "The barcode you entered is not a valid EAN code."
-msgstr ""
+msgstr "De streepjescode die u heeft ingevoerd is geen geldige EAN-code."
 
 #: ../root/scripts/text_strings.tt:65
 #, perl-format
 msgid "The barcode you entered is not a valid UPC or EAN code."
-msgstr ""
+msgstr "De streepjescode die u heeft ingevoerd is een geldige UPC of EAN-code."
 
 #: ../root/scripts/text_strings.tt:60
 #, perl-format
 msgid ""
 "The barcode you entered looks like a UPC code with the check digit missing."
-msgstr ""
+msgstr "De streepjescode die u heeft ingevoerd lijkt op een UPC-code waarbij het controlegetal mist."
 
 #: DB:link_attribute_type/description:536
 #, perl-format
@@ -14391,7 +14391,7 @@ msgstr ""
 #: ../root/user/privileged.tt:23
 #, perl-format
 msgid "The following {count} users have auto-editor privileges:"
-msgstr ""
+msgstr "De volgende {count} gebruikers hebben autoredacteurprivileges:"
 
 #: DB:link_attribute_type/description:100
 #, perl-format
@@ -14708,7 +14708,7 @@ msgstr ""
 #: ../root/artist/subscribe.tt:11
 #, perl-format
 msgid "There are no editors currently subscribed to this artist."
-msgstr ""
+msgstr "Er zijn momenteel geen redacteurs geabonneerd op deze artiest."
 
 #: ../root/artist/split.tt:24
 #, perl-format
@@ -14770,7 +14770,7 @@ msgstr[1] ""
 #: ../root/search/editor-not-found.tt:4
 #, perl-format
 msgid "There is no editor with this name."
-msgstr ""
+msgstr "Er is geen redacteur met deze naam."
 
 #: ../root/edit/cannot_approve.tt:3
 #, perl-format
@@ -15816,7 +15816,7 @@ msgstr ""
 #: ../root/user/profile.tt:134
 #, perl-format
 msgid "This table shows a summary of votes cast by this editor."
-msgstr ""
+msgstr "Deze tabel geeft een samenvatting van alle stemmen die door deze redacteur zijn uitgebracht."
 
 #: DB:link_attribute_type/description:526
 #, perl-format
@@ -17125,7 +17125,7 @@ msgid ""
 "We have sent you a verification email to <code>{email}</code>. Please check "
 "your mailbox and click on the link in the email to verify the new email "
 "address."
-msgstr ""
+msgstr "We hebben u een verificatie-e-mail gestuurd naar <code>{email}</code>. Kijkt u alstublieft in uw postvak en klik op de link in de e-mail om het nieuwe e-mailadres te verifiëren."
 
 #: ../root/main/500.tt:52
 #, perl-format
@@ -17666,7 +17666,7 @@ msgstr ""
 #: ../root/edit/index.tt:79
 #, perl-format
 msgid "You must be logged in to vote on edits"
-msgstr ""
+msgstr "U moet ingelogd zijn om de stemmen op wijzigingen"
 
 #: ../root/main/401.tt:9
 #, perl-format
@@ -17694,7 +17694,7 @@ msgstr ""
 #: ../root/user/login.tt:7
 #, perl-format
 msgid "You need to be logged in to view this page."
-msgstr ""
+msgstr "U moet ingelogd zijn om deze pagina te bekijken."
 
 #: ../root/release/edit/information.tt:142
 #, perl-format
@@ -18527,7 +18527,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:201
 #, perl-format
 msgid "catalog reissued by"
-msgstr ""
+msgstr "catalogus heruitgegeven door"
 
 #: DB:link_attribute_type/name:599
 #, perl-format
@@ -19116,7 +19116,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:82
 #, perl-format
 msgid "editors"
-msgstr ""
+msgstr "redacteurs"
 
 #: DB:link_attribute_type/description:383
 #, perl-format
@@ -20023,7 +20023,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:203
 #, perl-format
 msgid "is/was distributing the catalog of"
-msgstr ""
+msgstr "distribueert/distribueerde de catalogus van"
 
 #: DB:link_type/short_link_phrase:112
 #, perl-format
@@ -20038,7 +20038,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:201
 #, perl-format
 msgid "is/was reissuing the catalog of"
-msgstr ""
+msgstr "geeft/gaf opnieuw de catalogus uit van"
 
 #: DB:link_type/short_link_phrase:200
 #, perl-format
@@ -22113,7 +22113,7 @@ msgstr ""
 #: DB:link_attribute_type/name:354
 #, perl-format
 msgid "vocoder"
-msgstr ""
+msgstr "vocoder"
 
 #: DB:link_type/link_phrase:292
 #, perl-format
@@ -23422,7 +23422,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/User.pm:244
 #, perl-brace-format
 msgid "The editor {name} has no email address attached to their account."
-msgstr ""
+msgstr "De redacteur {name} heeft geen e-mailadres aan zijn of haar gebruikersaccount gekoppeld."
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:272
 msgid "Your message could not be sent"
