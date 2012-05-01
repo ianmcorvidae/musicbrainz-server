@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 12:56+0000\n"
+"PO-Revision-Date: 2012-05-01 13:58+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -37,7 +37,7 @@ msgstr ""
 msgid ""
 "\"NNNNN\" is a unique 5-digit number identifying the particular sound "
 "recording."
-msgstr ""
+msgstr "\"NNNNN\" is een uniek 5-cijferig getal dat een afzonderlijke geluidsopname identificeert."
 
 #: ../root/recording/add_isrc.tt:9
 #, perl-format
@@ -107,7 +107,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:319
 #, perl-format
 msgid "(add a new recording)"
-msgstr ""
+msgstr "(nieuwe opname toevoegen)"
 
 #: DB:link_attribute_type/description:528
 #, perl-format
@@ -170,7 +170,7 @@ msgstr ""
 #: ../root/search/lib/inline-results-recording.tt:49
 #, perl-format
 msgid "(standalone recording)"
-msgstr ""
+msgstr "(losstaande opname)"
 
 #: ../root/edit/details/convert_release_to_multiple_artists.tt:11
 #: ../root/edit/details/historic/mac_to_sac.tt:8
@@ -687,7 +687,7 @@ msgstr ""
 #: ../root/recording/create.tt:18
 #, perl-format
 msgid "Add Standalone Recording"
-msgstr ""
+msgstr "Voeg een losstaande opname toe"
 
 #: ../root/edit/relationship/create_url.tt:15
 #: ../root/edit/relationship/create_url.tt:17
@@ -744,7 +744,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:165
 #, perl-format
 msgid "Add a new recording"
-msgstr ""
+msgstr "Voeg een nieuwe opname toe"
 
 #: ../root/cdtoc/attach_artist_releases.tt:47
 #: ../root/cdtoc/attach_filter_artist.tt:38
@@ -819,7 +819,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:96
 #, perl-format
 msgid "Add new recording"
-msgstr ""
+msgstr "Voeg nieuwe opname toe"
 
 #: ../root/edit/index.tt:89
 #, perl-format
@@ -829,7 +829,7 @@ msgstr ""
 #: ../root/artist/layout.tt:67
 #, perl-format
 msgid "Add recording"
-msgstr ""
+msgstr "Voeg opname toe"
 
 #: ../root/artist/layout.tt:62 ../root/label/layout.tt:51
 #: ../root/release_group/layout.tt:28
@@ -854,7 +854,7 @@ msgstr ""
 #: ../root/artist/recordings.tt:7 ../root/isrc/index.tt:37
 #, perl-format
 msgid "Add selected recordings for merging"
-msgstr ""
+msgstr "Voeg geselecteerde opnames toe voor samenvoeging"
 
 #: ../root/artist/releases.tt:6 ../root/label/index.tt:9
 #: ../root/release_group/index.tt:75
@@ -1165,7 +1165,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:358
 #, perl-format
 msgid "Also update the recording with track changes"
-msgstr ""
+msgstr "Voeg wijzigingen aan nummers ook toe aan de opnames"
 
 #: DB:language/name:434
 msgid "Altaic languages"
@@ -1189,7 +1189,7 @@ msgstr ""
 #: ../root/search/results-recording.tt:7
 #, perl-format
 msgid "Alternatively, you may {uri|add a new recording}."
-msgstr ""
+msgstr "U kunt ook {uri | een nieuwe opname toevoegen}."
 
 #: ../root/search/results-release_group.tt:30
 #: ../root/search/results-release-group.tt:30
@@ -1454,7 +1454,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to remove the PUID <code>{puid}</code> from "
 "{recording} by {ac}?"
-msgstr ""
+msgstr "Weet u zeker dat u de PUID <code>{puid}</code> van {recording} door {ac} wilt verwijderen?"
 
 #: ../root/artist/delete_alias.tt:7
 #, perl-format
@@ -1520,7 +1520,7 @@ msgstr ""
 msgid ""
 "Are you sure you wish to remove the ISRC <code>{isrc}</code> from "
 "{recording} by {artist}?"
-msgstr ""
+msgstr "Weet u zeker dat u de ISRC <code>{isrc}</code> van {recording} door {artist} wilt verwijderen?"
 
 #: ../root/label/delete.tt:8
 #, perl-format
@@ -1531,7 +1531,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the recording {recording} from MusicBrainz?"
-msgstr ""
+msgstr "Weet u zeker dat u de opname {recording} van Musicbrainz wilt verwijderen?"
 
 #: ../root/edit/relationship/delete.tt:6
 #, perl-format
@@ -1738,7 +1738,7 @@ msgstr ""
 #: ../root/statistics/index.tt:583
 #, perl-format
 msgid "Artist-Recording:"
-msgstr ""
+msgstr "Artiest-Opname:"
 
 #: ../root/statistics/index.tt:595
 #, perl-format
@@ -1929,14 +1929,14 @@ msgstr ""
 #: ../root/puid/index.tt:5
 #, perl-format
 msgid "Associated with recordings"
-msgstr ""
+msgstr "Gekoppeld aan opnames"
 
 #: ../root/isrc/index.tt:5
 #, perl-format
 msgid "Associated with {num} recording"
 msgid_plural "Associated with {num} recordings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Gekoppeld aan {num} opname"
+msgstr[1] "Gekoppeld aan {num} opnames"
 
 #: DB:language/name:27
 msgid "Asturian"
@@ -2884,7 +2884,7 @@ msgstr ""
 #: ../root/recording/cannot_add.tt:1
 #, perl-format
 msgid "Cannot add recordings"
-msgstr ""
+msgstr "Opname kan niet worden toegevoegd"
 
 #: ../root/artist/special_purpose.tt:1
 #, perl-format
@@ -3217,7 +3217,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
 msgid "Click Edit to edit the recording associations for this disc."
-msgstr ""
+msgstr "Klik wijzigen om de gekoppelde opnames voor deze plaat te wijzigen."
 
 #: ../root/statistics/timeline.tt:74
 #, perl-format
@@ -3446,7 +3446,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:398
 #, perl-format
 msgid "Copy all track changes to associated recordings."
-msgstr ""
+msgstr "Kopieer alle wijzigingen naar gekoppelde opnames"
 
 #: ../root/statistics/index.tt:12 ../root/statistics/view_js.tt:25
 #, perl-format
@@ -4691,7 +4691,7 @@ msgstr ""
 msgid ""
 "Each track in the MusicBrainz database has to be linked to a recording, "
 "choose the appropriate recording or look for it in the database."
-msgstr ""
+msgstr "Elk nummer in de gegevensbank van MusicBrainz moet gekoppeld zijn aan een opname, kies de passende opname of zoek er naar in de gegevensbank."
 
 #: DB:country/name:244
 msgid "East Germany (historical, 1949-1990)"
@@ -4792,7 +4792,7 @@ msgstr ""
 #: ../root/recording/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Recording Annotation"
-msgstr ""
+msgstr "Wijzig de aantekening van deze opname"
 
 #: ../root/edit/relationship/create_batch.tt:10
 #: ../root/edit/relationship/edit.tt:13 ../root/edit/relationship/edit.tt:15
@@ -6435,7 +6435,7 @@ msgstr ""
 #: ../root/report/isrc_with_many_recordings.tt:3
 #, perl-format
 msgid "ISRCs with multiple recordings"
-msgstr ""
+msgstr "ISRC's met meerdere opnames"
 
 #: ../root/artist/works.tt:19
 #, perl-format
@@ -6536,7 +6536,7 @@ msgstr ""
 msgid ""
 "If we do not have a recording for this track in the database yet, please "
 "select \"Add a new recording\" below."
-msgstr ""
+msgstr "Als we nog geen opname van dit nummer in de gegevensbank hebben, selecteer dan hieronder \"Voeg een nieuwe opname toe\"."
 
 #: ../root/artist/delete_alias.tt:11 ../root/label/delete_alias.tt:10
 #: ../root/work/delete_alias.tt:10
@@ -6558,7 +6558,7 @@ msgstr ""
 msgid ""
 "If you continue with the current merge strategy, the following recordings "
 "will be merged:"
-msgstr ""
+msgstr "Als u doorgaat met de huidige samenvoegingsstrategie, zullen de volgende opnames worden samengevoegd:"
 
 #: ../root/release/edit/information.tt:169
 #, perl-format
@@ -7225,7 +7225,7 @@ msgid ""
 "material was used. Please take care to always point to the "
 "<strong>first</strong> version ever released! (<a "
 "href=\"http://musicbrainz.org/doc/Remaster_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een nummer een remaster is van een ander nummer. Dit betekent dat de audio in dit proces is veranderd, maar dat hetzelfde originele opnamemateriaal is gebruikt. Let hierbij op dat u verwijst naar de <strong>eerste</strong> versie die ooit is uitgebracht! (<a href=\"http://musicbrainz.org/doc/Remaster_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:10
 #, perl-format
@@ -7278,7 +7278,7 @@ msgid ""
 "material was used. Please take care to always point to the "
 "<strong>first</strong> version ever released! (<a "
 "href=\"http://musicbrainz.org/doc/Remaster_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een album een remaster is van een ander album. Dit betekent dat de audio in dit proces is veranderd, maar dat hetzelfde originele opnamemateriaal is gebruikt. Let hierbij op dat u verwijst naar de <strong>eerste</strong> versie die ooit is uitgebracht! (<a href=\"http://musicbrainz.org/doc/Remaster_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:17
 #, perl-format
@@ -7286,7 +7286,7 @@ msgid ""
 "Indicates that an album was performed live and released as another album. "
 "Please use this relationship only if (almost) every track of the original "
 "recording was performed on the live version, not for normal live recordings."
-msgstr ""
+msgstr "Geeft aan dat een album live was uitgevoerd en uitgegeven als een ander album. Gebruik deze verwantschap alstublieft alleen als (bijna) elk nummer van de originele opname uitgevoerd was op de live-versie, niet voor normale liveopnames."
 
 #: DB:link_type/description:262
 #, perl-format
@@ -7519,7 +7519,7 @@ msgid ""
 " in addition to instrumentation, the handling of groups of instruments and "
 "their balance and interaction (<a "
 "href=\"http://musicbrainz.org/doc/Orchestrator_Relationship_Type\">Details</a>)."
-msgstr ""
+msgstr "Geeft de persoon aan die de opname heeft georkestreerd. Orkestratie houdt, naast instrumentatie, het omgaan met groepen instrumenten en de balans en interactie daartussen in. (<a href=\"http://musicbrainz.org/doc/Orchestrator_Relationship_Type\">Details</a>)."
 
 #: DB:link_type/description:39 DB:link_type/description:166
 #, perl-format
@@ -7539,7 +7539,7 @@ msgid ""
 "instrument, including the limitations of the instrument, playing techniques "
 "and idiomatic handling of the instrument (<a "
 "href=\"http://musicbrainz.org/doc/Instrumentator_Relationship_Type\">Details</a>)."
-msgstr ""
+msgstr "Geeft de persoon aan die de instrumentatie voor een opname heeft verzorgd. Instrumentatie gaat over de techniek van het schrijven van muziek voor een bepaald instrument, inclusief de beperkingen van het instrument, speeltechniek en het idiomatisch gebruik van het instrument (<a href=\"http://musicbrainz.org/doc/Instrumentator_Relationship_Type\">Details</a>)."
 
 #: DB:link_type/description:47
 #, perl-format
@@ -12400,7 +12400,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
 #, perl-format
 msgid "Remove recording"
-msgstr ""
+msgstr "Verwijder opname"
 
 #: ../root/release/sidebar.tt:75
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
@@ -23245,7 +23245,7 @@ msgstr "Bedankt, uw aanpassing is toegevoegd aan de wachtrij voor collegiale toe
 
 #: ../lib/MusicBrainz/Server/Controller.pm:114
 msgid "Thank you, your edit has been accepted and applied"
-msgstr "Bedankt, uw aanpassing is geaccepteerd en toegepast"
+msgstr "Bedankt, uw wijziging is geaccepteerd en toegepast"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:44
 msgid "The user ID is missing or is in an invalid format."
@@ -23404,7 +23404,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Recording.pm:217
 msgid "This ISRC already exists for this recording"
-msgstr ""
+msgstr "Deze opname heeft deze ISRC al"
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:306
 msgid "This release is already in the selected release group"
@@ -23737,15 +23737,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
-msgstr ""
+msgstr "Voeg aantekening voor opname toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Create.pm:24
 msgid "Add standalone recording"
-msgstr ""
+msgstr "Voeg losstaande opname toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Merge.pm:13
 msgid "Merge recordings"
-msgstr ""
+msgstr "Voeg opnames samen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship.pm:7
 msgid "Relationship"
@@ -23907,7 +23907,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
-msgstr ""
+msgstr "U moet een notitie toevoegen als u een losstaande opname toevoegt."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:13
 msgid "Link type is required"

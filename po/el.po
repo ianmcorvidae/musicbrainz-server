@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 12:45+0000\n"
+"PO-Revision-Date: 2012-05-01 13:58+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -611,7 +611,7 @@ msgstr ""
 #: ../root/layout/menu.tt:176
 #, perl-format
 msgid "Add Artist"
-msgstr ""
+msgstr "Προσθήκη Καλλιτέχνη"
 
 #: ../root/artist/add_alias.tt:1
 #, perl-format
@@ -713,7 +713,7 @@ msgstr ""
 #: ../root/artist/create.tt:16 ../root/artist/create.tt:18
 #, perl-format
 msgid "Add a New Artist"
-msgstr ""
+msgstr "Προσθήκη ενός Νέου Καλλιτέχνη"
 
 #: ../root/collection/create.tt:1 ../root/collection/create.tt:3
 #, perl-format
@@ -808,7 +808,7 @@ msgstr ""
 #: ../root/release/edit/missing_entities.tt:62
 #, perl-format
 msgid "Add new artist"
-msgstr ""
+msgstr "Προσθήκη νέου καλλιτέχνη"
 
 #: ../root/release/edit/missing_entities.tt:102
 #, perl-format
@@ -836,7 +836,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 #, perl-format
 msgid "Add release"
-msgstr ""
+msgstr "Προσθήκη κυκλοφορίας"
 
 #: ../root/artist/layout.tt:57
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseGroup.pm:18
@@ -848,7 +848,7 @@ msgstr ""
 #: ../root/report/duplicate_artists.tt:45
 #, perl-format
 msgid "Add selected artists for merging"
-msgstr ""
+msgstr "Προσθήκη επιλεγμένων καλλιτεχνών προς συγχώνευση"
 
 #: ../root/artist/recordings.tt:7 ../root/isrc/index.tt:37
 #, perl-format
@@ -1682,7 +1682,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:32
 #, perl-format
 msgid "Artist Types and Genders"
-msgstr ""
+msgstr "Είδη Καλλιτέχνη και Φύλα "
 
 #: ../root/components/forms.tt:223
 #, perl-format
@@ -4851,7 +4851,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:22
 #, perl-format
 msgid "Edit URL"
-msgstr ""
+msgstr "Επεξεργασία URL"
 
 #: ../root/user/profile/layout.tt:27
 #, perl-format
@@ -4928,7 +4928,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
 #, perl-format
 msgid "Edit recording"
-msgstr ""
+msgstr "Επεξεργασία ηχογράφησης"
 
 #: ../root/recording/edit_annotation.tt:2
 #, perl-format
@@ -5002,7 +5002,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:43
 #, perl-format
 msgid "Editor"
-msgstr ""
+msgstr "Συντάκτης"
 
 #: ../root/user/not_found.tt:1 ../root/user/not_found.tt:2
 #, perl-format
@@ -6233,7 +6233,7 @@ msgstr ""
 #: ../root/doc/edit_types.tt:20 ../lib/MusicBrainz/Server/Edit/Historic.pm:12
 #, perl-format
 msgid "Historic"
-msgstr ""
+msgstr "Ιστορικό"
 
 #: DB:language/name:172
 msgid "Hittite"
@@ -8943,7 +8943,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Medium.pm:7
 #, perl-format
 msgid "Medium"
-msgstr ""
+msgstr "Μέσο"
 
 #: ../root/tracklist/index.tt:28
 #, perl-format
@@ -11389,7 +11389,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:38
 #, perl-format
 msgid "Recording"
-msgstr ""
+msgstr "Ηχογράφηση"
 
 #: ../root/recording/edit_form.tt:6
 #, perl-format
@@ -11482,7 +11482,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:66
 #, perl-format
 msgid "Recordings"
-msgstr ""
+msgstr "Ηχογραφήσεις"
 
 #: ../root/statistics/index.tt:337
 #, perl-format
@@ -11770,7 +11770,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:37
 #, perl-format
 msgid "Release"
-msgstr ""
+msgstr "Κυκλοφορία"
 
 #: ../root/recording/index.tt:13
 #, perl-format
@@ -12320,7 +12320,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/PUID/Delete.pm:14
 #, perl-format
 msgid "Remove PUID"
-msgstr ""
+msgstr "Αφαίρεση PUID"
 
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 #, perl-format
@@ -12434,7 +12434,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
 #, perl-format
 msgid "Remove track"
-msgstr ""
+msgstr "Αφαίρεση κομματιού"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -12936,7 +12936,7 @@ msgstr ""
 #: ../root/user/contact.tt:3 ../lib/MusicBrainz/Server/Controller/User.pm:243
 #, perl-format
 msgid "Send Email"
-msgstr ""
+msgstr "Αποστολή Email"
 
 #: ../root/user/contact.tt:17
 #, perl-format
@@ -15914,7 +15914,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:11
 #, perl-format
 msgid "Title"
-msgstr ""
+msgstr "Τίτλος"
 
 #: ../root/cdstub/edit.tt:54 ../root/edit/details/add_track_kv.tt:3
 #: ../root/release/edit/information.tt:24
@@ -16145,7 +16145,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:59
 #, perl-format
 msgid "Tracklist"
-msgstr ""
+msgstr "Λίστα τραγουδιών"
 
 #: ../root/edit/details/add_medium.tt:17
 #: ../root/edit/details/remove_medium.tt:17
@@ -16343,7 +16343,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/URL.pm:7
 #, perl-format
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../root/url/index.tt:2
 #, perl-format
@@ -23252,7 +23252,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:51
 msgid "The email address is missing."
-msgstr ""
+msgstr "Η διεύθυνση email λείπει."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:58
 msgid "The time is missing or is in an invalid format."
@@ -23284,11 +23284,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:157
 msgid "There is no user with this username"
-msgstr ""
+msgstr "Δεν υπάρχει χρήστης με αυτό το όνομα."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:161
 msgid "There is no user with this username and email"
-msgstr ""
+msgstr "Δεν υπάρχει χρήστης με αυτό το όνομα και email."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:190
 msgid "Missing one or more required parameters."
@@ -23305,7 +23305,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:256
 msgid "There is no user with this email"
-msgstr ""
+msgstr "Δεν υπάρχει χρήστης με αυτό το email."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:461
 msgid ""
@@ -23425,7 +23425,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:272
 msgid "Your message could not be sent"
-msgstr ""
+msgstr "Το μήνυμά σας δεν μπορούσε να σταλεί"
 
 #: ../lib/MusicBrainz/Server/Controller/WS/2/DiscID.pm:87
 msgid "Invalid TOC"
@@ -23433,11 +23433,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:106
 msgid "No title provided"
-msgstr ""
+msgstr "Δεν έχει δοθεί τίτλος"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:109
 msgid "No artist names provided"
-msgstr ""
+msgstr "Δεν έχει δοθεί όνομα καλλιτέχνη"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:112
 msgid "Not all tracks specify an artist"
@@ -23492,12 +23492,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/Create.pm:18
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtist.pm:7
 msgid "Add artist"
-msgstr ""
+msgstr "Προσθήκη καλλιτέχνη"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Delete.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveArtist.pm:9
 msgid "Remove artist"
-msgstr ""
+msgstr "Κατάργηση καλλιτέχνη"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/DeleteAlias.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveArtistAlias.pm:9
@@ -23507,7 +23507,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/Edit.pm:28
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtist.pm:9
 msgid "Edit artist"
-msgstr ""
+msgstr "Επεξεργασία καλλιτέχνη"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
@@ -23517,17 +23517,17 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeArtist.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseGroups.pm:7
 msgid "Merge artists"
-msgstr ""
+msgstr "Συγχώνευση καλλιτεχνών"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/AddDiscID.pm:11
 msgid "Add disc ID"
-msgstr ""
+msgstr "Προσθήκη disc ID"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddISRCs.pm:16
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddISRCs.pm:21
 msgid "Add ISRCs"
-msgstr ""
+msgstr "Προσθήκη ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabel.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
@@ -23542,7 +23542,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLink.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Create.pm:22
 msgid "Add relationship"
-msgstr ""
+msgstr "Προσθήκη σχέσης"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLinkAttr.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkAttribute.pm:13
@@ -23557,7 +23557,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddPUIDs.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddPUIDs.pm:13
 msgid "Add PUIDs"
-msgstr ""
+msgstr "Προσθήκη PUID"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:14
@@ -23592,7 +23592,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistName.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistSortname.pm:7
 msgid "Edit artist name"
-msgstr ""
+msgstr "Επεξεργασία ονόματος καλλιτέχνη"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabel.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:28
@@ -23632,11 +23632,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseLanguage.pm:13
 msgid "Edit release language"
-msgstr ""
+msgstr "Επεξεργασία γλώσσας κυκλοφορίας"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseName.pm:10
 msgid "Edit release name"
-msgstr ""
+msgstr "Επεξεργασία ονόματος κυκλοφορίας"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length"
@@ -23667,7 +23667,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Release/Merge.pm:49
 msgid "Merge releases"
-msgstr ""
+msgstr "Συγχώνευση κυκλοφοριών"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:18
@@ -23676,17 +23676,17 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release"
-msgstr ""
+msgstr "Μετακίνηση κυκλοφορίας"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:10
 msgid "Remove disc ID"
-msgstr ""
+msgstr "Κατάργηση disc ID"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveISRC.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Recording/RemoveISRC.pm:17
 msgid "Remove ISRC"
-msgstr ""
+msgstr "Κατάργηση ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabelAlias.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Label/DeleteAlias.pm:14
@@ -23772,7 +23772,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
-msgstr ""
+msgstr "Επεξεργασία κυκλοφορίας"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:28
 msgid "Edit release artist"
@@ -23785,7 +23785,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditBarcodes.pm:17
 msgid "Edit barcodes"
-msgstr ""
+msgstr "Επεξεργασία barcode"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
@@ -23994,8 +23994,8 @@ msgstr ""
 #, perl-brace-format
 msgid "This medium has a Disc ID, it should have exactly {n} track."
 msgid_plural "This medium has a Disc ID, it should have exactly {n} tracks."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Αυτό το μέσο διαθέτει Disc ID, θα έπρεπε να έχει ακριβώς {n} κομμάτι."
+msgstr[1] "Αυτό το μέσο διαθέτει Disc ID, θα έπρεπε να έχει ακριβώς {n} κομμάτια."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
@@ -24018,11 +24018,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:44
 msgid "FreeDB"
-msgstr ""
+msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/User/ChangePassword.pm:37
 msgid "The old password is incorrect"
-msgstr ""
+msgstr "Ο παλιός κωδικός είναι λάθος"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:20
 msgid "Invalid URL format"
@@ -24046,19 +24046,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
-msgstr ""
+msgstr "Μια μέρα"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:36
 msgid "A week"
-msgstr ""
+msgstr "Μια βδομάδα"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:37
 msgid "2 weeks"
-msgstr ""
+msgstr "2 βδομάδες"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:38
 msgid "A month"
-msgstr ""
+msgstr "Ένας μήνας"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:246
 msgid "YYYY"
@@ -24087,7 +24087,7 @@ msgid ""
 "A single typically has one main song and possibly a handful of additional "
 "tracks or remixes of the main track. A single is usually named after its "
 "main song."
-msgstr ""
+msgstr "Ένα single συνήθως έχει ένα κύριο τραγούδι και πιθανώς μερικά πρόσθετα κομμάτια ή remixes του κύριου τραγουδιού. Τα single συνήθως παίρνουν το όνομά τους από το κύριο τραγούδι."
 
 #: ../lib/MusicBrainz/Server/Release.pm:81
 msgid ""
@@ -24121,7 +24121,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:87
 msgid "A release that was recorded live."
-msgstr ""
+msgstr "Μια κυκλοφορία που ηχογραφήθηκε ζωντανά."
 
 #: ../lib/MusicBrainz/Server/Release.pm:88
 msgid "A release that was (re)mixed from previously released material."
@@ -24129,7 +24129,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:89
 msgid "Any release that does not fit any of the categories above."
-msgstr ""
+msgstr "Οποιαδήποτε κυκλοφορία δεν μπορεί να καταταχτεί σε κάποια από τις παραπάνω κατηγορίες."
 
 #: ../lib/MusicBrainz/Server/Release.pm:91
 msgid ""

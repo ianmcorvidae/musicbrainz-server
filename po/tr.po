@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 12:48+0000\n"
+"PO-Revision-Date: 2012-05-01 13:47+0000\n"
 "Last-Translator: çilek <email address hidden>\n"
 "Language-Team: Turkish (http://www.transifex.net/projects/p/musicbrainz/language/tr/)\n"
 "MIME-Version: 1.0\n"
@@ -785,7 +785,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtistAlias.pm:7
 #, perl-format
 msgid "Add artist alias"
-msgstr ""
+msgstr "Artist mahlası ekle"
 
 #: ../root/cdstub/layout.tt:23
 #, perl-format
@@ -802,7 +802,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAlias.pm:14
 #, perl-format
 msgid "Add label alias"
-msgstr ""
+msgstr "Etiket mahlası ekle"
 
 #: ../root/release/edit/missing_entities.tt:62
 #, perl-format
@@ -890,7 +890,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAlias.pm:15
 #, perl-format
 msgid "Add work alias"
-msgstr ""
+msgstr "Eser mahlası eklesi"
 
 #: ../root/release/edit/tracklist.tt:434
 #, perl-format
@@ -1302,7 +1302,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:41
 #, perl-format
 msgid "Annotation"
-msgstr ""
+msgstr "Açıklama"
 
 #: ../root/annotation/diff.tt:2 ../root/artist/annotation_diff.tt:1
 #: ../root/label/annotation_diff.tt:1 ../root/recording/annotation_diff.tt:1
@@ -1373,7 +1373,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:50
 #, perl-format
 msgid "Append mediums to target release"
-msgstr ""
+msgstr "Medyaları hedef sürüme ekle"
 
 #: ../root/statistics/view_js.tt:55
 #, perl-format
@@ -1614,7 +1614,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:35
 #, perl-format
 msgid "Artist"
-msgstr ""
+msgstr "Artist"
 
 #: ../root/statistics/view_js.tt:27
 #, perl-format
@@ -3045,14 +3045,14 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/Move.pm:17
 #, perl-format
 msgid "Change release group"
-msgstr ""
+msgstr "Sürüm grubunu değiştir"
 
 #: ../root/release/sidebar.tt:68
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseQuality.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Release/ChangeQuality.pm:18
 #, perl-format
 msgid "Change release quality"
-msgstr ""
+msgstr "Sürüm kalitesini değiştir"
 
 #: ../root/edit/vote.tt:27
 #, perl-format
@@ -4776,7 +4776,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:81
 #, perl-format
 msgid "Edit Note"
-msgstr ""
+msgstr "Notu düzenle"
 
 #: ../root/account/edit_ok.tt:1 ../root/account/edit_ok.tt:3
 #: ../root/account/edit.tt:1 ../root/account/edit.tt:3
@@ -4848,7 +4848,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:22
 #, perl-format
 msgid "Edit URL"
-msgstr ""
+msgstr "URL'yi düzenle"
 
 #: ../root/user/profile/layout.tt:27
 #, perl-format
@@ -4882,7 +4882,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistAlias.pm:7
 #, perl-format
 msgid "Edit artist alias"
-msgstr ""
+msgstr "Artist mahlasını düzenle"
 
 #: ../root/artist/edit_annotation.tt:2
 #, perl-format
@@ -4899,7 +4899,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/EditAlias.pm:12
 #, perl-format
 msgid "Edit label alias"
-msgstr ""
+msgstr "Etiket mahlasını düzenle"
 
 #: ../root/label/edit_annotation.tt:2
 #, perl-format
@@ -4925,7 +4925,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
 #, perl-format
 msgid "Edit recording"
-msgstr ""
+msgstr "Ses kaydını düzenle"
 
 #: ../root/recording/edit_annotation.tt:2
 #, perl-format
@@ -4951,7 +4951,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Work/EditAlias.pm:13
 #, perl-format
 msgid "Edit work alias"
-msgstr ""
+msgstr "Eser mahlasını düzenle"
 
 #: ../root/work/edit_annotation.tt:2
 #, perl-format
@@ -4999,7 +4999,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:43
 #, perl-format
 msgid "Editor"
-msgstr ""
+msgstr "Editör"
 
 #: ../root/user/not_found.tt:1 ../root/user/not_found.tt:2
 #, perl-format
@@ -8148,7 +8148,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:40
 #, perl-format
 msgid "Label"
-msgstr ""
+msgstr "Etiket"
 
 #: ../root/statistics/view_js.tt:28
 #, perl-format
@@ -8935,7 +8935,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Medium.pm:7
 #, perl-format
 msgid "Medium"
-msgstr ""
+msgstr "Medya"
 
 #: ../root/tracklist/index.tt:28
 #, perl-format
@@ -9101,7 +9101,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
 #, perl-format
 msgid "Merge mediums and recordings"
-msgstr ""
+msgstr "Medya ve ses kayıtlarını birleştir"
 
 #: ../root/release/merge_confirm.tt:10
 #, perl-format
@@ -9127,7 +9127,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
 #, perl-format
 msgid "Merge release groups"
-msgstr ""
+msgstr "Sürüm gruplarını birleştir"
 
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
@@ -11378,7 +11378,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:38
 #, perl-format
 msgid "Recording"
-msgstr ""
+msgstr "Ses kaydı"
 
 #: ../root/recording/edit_form.tt:6
 #, perl-format
@@ -11471,7 +11471,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:66
 #, perl-format
 msgid "Recordings"
-msgstr ""
+msgstr "Ses kayıtları"
 
 #: ../root/statistics/index.tt:337
 #, perl-format
@@ -11757,7 +11757,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:37
 #, perl-format
 msgid "Release"
-msgstr ""
+msgstr "Sürüm"
 
 #: ../root/recording/index.tt:13
 #, perl-format
@@ -11792,7 +11792,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:36
 #, perl-format
 msgid "Release Group"
-msgstr ""
+msgstr "Sürüm Grubu"
 
 #: ../root/release_group/edit_form.tt:6
 #, perl-format
@@ -12305,7 +12305,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/PUID/Delete.pm:14
 #, perl-format
 msgid "Remove PUID"
-msgstr ""
+msgstr "PUID'i kaldır"
 
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 #, perl-format
@@ -12419,7 +12419,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
 #, perl-format
 msgid "Remove track"
-msgstr ""
+msgstr "İzi kaldır"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -12921,7 +12921,7 @@ msgstr ""
 #: ../root/user/contact.tt:3 ../lib/MusicBrainz/Server/Controller/User.pm:243
 #, perl-format
 msgid "Send Email"
-msgstr ""
+msgstr "Eposta gönder"
 
 #: ../root/user/contact.tt:17
 #, perl-format
@@ -13878,7 +13878,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:45
 #, perl-format
 msgid "Tag"
-msgstr ""
+msgstr "Künye"
 
 #: ../root/taglookup/index.tt:1 ../root/taglookup/index.tt:3
 #, perl-format
@@ -16323,7 +16323,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/URL.pm:7
 #, perl-format
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../root/url/index.tt:2
 #, perl-format
@@ -23326,7 +23326,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:296
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:407
 msgid "Invalid arguments"
-msgstr ""
+msgstr "Geçersiz argüman"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:310
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:413
@@ -23361,7 +23361,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/ISRC.pm:57
 msgid "This ISRC does not exist"
-msgstr ""
+msgstr "ISRC mevcut değil"
 
 #: ../lib/MusicBrainz/Server/Controller/Recording.pm:217
 msgid "This ISRC already exists for this recording"
@@ -23369,7 +23369,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:306
 msgid "This release is already in the selected release group"
-msgstr ""
+msgstr "Sürüm zaten seçtilen sürüm grubu içinde"
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:502
 msgid ""
@@ -23378,7 +23378,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Role/Annotation.pm:168
 msgid "The old and new annotation ids must be unique, positive integers."
-msgstr ""
+msgstr "Eski ve yeni açıklama kimlikleri özgün, pozitif tamsayı olmalı"
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:244
 #, perl-brace-format
@@ -23387,7 +23387,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:272
 msgid "Your message could not be sent"
-msgstr ""
+msgstr "Mesajınız gönderilemiyor"
 
 #: ../lib/MusicBrainz/Server/Controller/WS/2/DiscID.pm:87
 msgid "Invalid TOC"
@@ -23399,7 +23399,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:109
 msgid "No artist names provided"
-msgstr ""
+msgstr "Artist ismi girilmedi"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:112
 msgid "Not all tracks specify an artist"
