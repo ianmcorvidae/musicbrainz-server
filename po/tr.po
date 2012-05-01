@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 13:47+0000\n"
+"PO-Revision-Date: 2012-05-01 14:47+0000\n"
 "Last-Translator: çilek <email address hidden>\n"
 "Language-Team: Turkish (http://www.transifex.net/projects/p/musicbrainz/language/tr/)\n"
 "MIME-Version: 1.0\n"
@@ -91,12 +91,12 @@ msgstr ""
 #: ../root/user/profile.tt:28
 #, perl-format
 msgid "(<strong>unverified!</strong>)"
-msgstr ""
+msgstr "(<strong>onaylanmamış!</strong>)"
 
 #: ../root/main/400.tt:12 ../root/main/500.tt:41
 #, perl-format
 msgid "(No details about this error are available)"
-msgstr ""
+msgstr "(Bu hata ile ilgili detay bulunmuyor)"
 
 #: ../root/statistics/formats.tt:37
 #, perl-format
@@ -107,7 +107,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:319
 #, perl-format
 msgid "(add a new recording)"
-msgstr ""
+msgstr "(yeni ses kaydı ekle)"
 
 #: DB:link_attribute_type/description:528
 #, perl-format
@@ -222,7 +222,7 @@ msgstr ""
 #, perl-format
 msgid "1 vote"
 msgid_plural "{n} unanimous votes"
-msgstr[0] ""
+msgstr[0] "{n} oybirliği"
 
 #: DB:medium_format/name:30
 msgid "10\" Vinyl"
@@ -23799,7 +23799,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
-msgstr ""
+msgstr "[yok]"
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"

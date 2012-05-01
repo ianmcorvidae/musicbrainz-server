@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 13:58+0000\n"
+"PO-Revision-Date: 2012-05-01 14:13+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -1621,12 +1621,12 @@ msgstr "Καλλιτέχνης"
 #: ../root/statistics/view_js.tt:27
 #, perl-format
 msgid "Artist Countries"
-msgstr ""
+msgstr "Χώρες Καλλιτέχνη"
 
 #: ../root/edit/search_macros.tt:278
 #, perl-format
 msgid "Artist Country"
-msgstr ""
+msgstr "Χώρα Καλλιτέχνη"
 
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
@@ -4406,7 +4406,7 @@ msgstr ""
 #: ../root/cdstub/index.tt:3
 #, perl-format
 msgid "Disambiguation"
-msgstr ""
+msgstr "Αποσαφήνιση"
 
 #: ../root/artist/edit_form.tt:40 ../root/cdstub/edit.tt:57
 #: ../root/edit/details/add_artist.tt:19 ../root/edit/details/add_label.tt:20
@@ -4424,7 +4424,7 @@ msgstr ""
 #: ../root/release_group/edit_form.tt:9 ../root/work/edit_form.tt:8
 #, perl-format
 msgid "Disambiguation:"
-msgstr ""
+msgstr "Αποσαφήνιση:"
 
 #: ../root/release/discids.tt:8
 #, perl-format
@@ -6505,7 +6505,7 @@ msgid ""
 " will be prompted to {doc_addcomment|add a disambiguation comment to this "
 "artist}, which will allow users to distinguish this entry from the other "
 "artist(s) with the same name."
-msgstr ""
+msgstr "Αν ένας ή παραπάνω καλλιτέχνες με το ίδιο όνομα υπάρχουν ήδη στη βάση δεδομένων, θα σας ζητηθεί να {doc_addcomment|προσθέσετε ένα σχόλιο αποσαφήνισης σε αυτόν τον καλλιτέχνη}, το οποίο θα επιτρέπει στους χρήστες να ξεχωρίζουν αυτήν την καταχώρηση από τους υπόλοιπους καλλιτέχνες με το ίδιο όνομα."
 
 #: ../root/label/edit_form.tt:3
 #, perl-format
@@ -17574,7 +17574,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this artist from the other artists with the same name, if the "
 "final artist name is similar to an existing artist."
-msgstr ""
+msgstr "Πρέπει να προσθέσετε ένα σχόλιο αποσαφήνισης το οποίο θα επιτρέπει στους χρήστες να ξεχωρίζουν αυτόν τον καλλιτέχνη από άλλους καλλιτέχνες με το ίδιο όνομα, αν το τελικό όνομα είναι όμοιο με κάποιου υπάρχοντος καλλιτέχνη. "
 
 #: ../root/label/edit_form.tt:25
 #, perl-format
@@ -17922,7 +17922,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:34
 #, perl-format
 msgid "add a disambiguation comment"
-msgstr ""
+msgstr "προσθέστε ένα σχόλιο αποσαφήνισης"
 
 #: DB:link_attribute_type/name:1
 #, perl-format
@@ -18962,7 +18962,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:140
 #, perl-format
 msgid "disambiguation:"
-msgstr ""
+msgstr "αποσαφήνιση:"
 
 #: DB:link_type/link_phrase:88 DB:link_type/link_phrase:171
 #: DB:link_type/reverse_link_phrase:88 DB:link_type/reverse_link_phrase:171

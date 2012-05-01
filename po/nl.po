@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 13:58+0000\n"
+"PO-Revision-Date: 2012-05-01 14:25+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -7624,21 +7624,21 @@ msgid ""
 "responsible for committing music to tape, for ensuring that the sounds the "
 "musicians make are recorded in an aesthetically pleasing manner. (<a "
 "href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de opnametechnicus voor deze compositie aan. Opnametechnici zijn verantwoordelijk voor de bandopname van muziek, om er voor te zorgen dat het geluid dat de musici produceren op een esthetisch aangename manier worden opgenomen. (<a href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:98
 #, perl-format
 msgid ""
 "Indicates the recording studio where (part of) this work was recorded (<a "
 "href=\"http://musicbrainz.org/doc/Recording_Studio_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de opnamestudio aan waar (een deel van) deze compositie is opgenomen (<a href=\"http://musicbrainz.org/doc/Recording_Studio_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:260
 #, perl-format
 msgid ""
 "Indicates the recording studio where (part of) this work was recorded. (<a "
 "href=\"http://musicbrainz.org/doc/Recording_Studio_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de opnamestudio aan waar (een deel van) deze compositie is opgenomen (<a href=\"http://musicbrainz.org/doc/Recording_Studio_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:29 DB:link_type/description:133
 #, perl-format
@@ -7666,7 +7666,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:394
 #, perl-format
 msgid "Infer track durations from associated recordings"
-msgstr ""
+msgstr "Leid de duur van de nummers af van de gekoppelde opnames."
 
 #: DB:language/name:191
 msgid "Ingush"
@@ -8233,7 +8233,7 @@ msgstr ""
 #: ../root/statistics/index.tt:619
 #, perl-format
 msgid "Label-Recording:"
-msgstr ""
+msgstr "Platenmaatschappij-Opname:"
 
 #: ../root/statistics/index.tt:631
 #, perl-format
@@ -9068,7 +9068,7 @@ msgstr ""
 #: ../root/recording/merge.tt:1 ../root/recording/merge.tt:3
 #, perl-format
 msgid "Merge Recordings"
-msgstr ""
+msgstr "Voeg opnames samen"
 
 #: ../root/release_group/merge.tt:1 ../root/release_group/merge.tt:3
 #, perl-format
@@ -9121,7 +9121,7 @@ msgstr ""
 #: ../root/recording/layout.tt:42
 #, perl-format
 msgid "Merge recording"
-msgstr ""
+msgstr "Voeg opname samen"
 
 #: ../root/release/sidebar.tt:72
 #, perl-format
@@ -9747,7 +9747,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:191
 #, perl-format
 msgid "New recording"
-msgstr ""
+msgstr "Nieuwe opname"
 
 #: ../root/edit/details/historic/edit_relationship.tt:29
 #, perl-format
@@ -9882,12 +9882,12 @@ msgstr ""
 #: ../root/artist/recordings.tt:10
 #, perl-format
 msgid "No recordings found."
-msgstr ""
+msgstr "Geen opnames gevonden."
 
 #: ../root/tag/recording.tt:1
 #, perl-format
 msgid "No recordings with this tag were found."
-msgstr ""
+msgstr "Geen opnames met dit etiket gevonden."
 
 #: ../root/artist/index.tt:106
 #, perl-format
@@ -10102,7 +10102,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:378
 #, perl-format
 msgid "Now loading recording associations..."
-msgstr ""
+msgstr "Bezig met het laden van koppelingen van opnames..."
 
 #: ../root/release/edit/tracklist.tt:285 ../root/release/edit/tracklist.tt:408
 #, perl-format
@@ -10223,7 +10223,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:190
 #, perl-format
 msgid "Old recording"
-msgstr ""
+msgstr "Oude opname"
 
 #: ../root/edit/details/historic/edit_relationship.tt:6
 #, perl-format
@@ -10512,8 +10512,8 @@ msgstr ""
 #, perl-format
 msgid "PUIDs with 1 Recording"
 msgid_plural "PUIDs with {n} Recordings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "PUID's met één opname"
+msgstr[1] "PUID's met {n} opnames"
 
 #: ../root/edit/details/add_puids.tt:8
 #, perl-format
@@ -11538,7 +11538,7 @@ msgstr ""
 #: ../root/statistics/index.tt:351
 #, perl-format
 msgid "Recordings with no PUIDs:"
-msgstr ""
+msgstr "Opnames zonder PUID's"
 
 #: ../root/report/featuring_recordings.tt:1
 #: ../root/report/featuring_recordings.tt:3 ../root/report/index.tt:60
@@ -11551,7 +11551,7 @@ msgstr ""
 #: ../root/statistics/index.tt:346
 #, perl-format
 msgid "Recordings:"
-msgstr ""
+msgstr "Opnames:"
 
 #: DB:medium_format/name:10
 msgid "Reel-to-reel"
