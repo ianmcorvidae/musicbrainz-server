@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 21:59+0000\n"
+"PO-Revision-Date: 2012-05-01 22:56+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -4197,7 +4197,7 @@ msgstr ""
 #: ../root/statistics/layout.tt:12 ../root/statistics/layout.tt:24
 #, perl-format
 msgid "Database Statistics"
-msgstr ""
+msgstr "Στατιστικά βάσης δεδομένων"
 
 #: ../root/annotation/history.tt:9 ../root/artist/relationships.tt:13
 #: ../root/cdtoc/list.tt:8 ../root/collection/index.tt:14
@@ -6270,7 +6270,7 @@ msgstr "Χονγκ Κονγκ"
 msgid ""
 "Hosted by {host|Digital West}. Sponsored by: {url1|Google}, {url2|OSUOSL} "
 "and {more|others...}"
-msgstr "Φιλοξενείται από την {host|Digital West}. Χρηματοδοτείται από: {Url1|Google}, {url2|OSUOSL} και {more|άλλους...}"
+msgstr "Φιλοξενείται από την {host|Digital West}. Χρηματοδοτείται από: {url1|Google}, {url2|OSUOSL} και {more|άλλους...}"
 
 #: ../root/statistics/timeline.tt:76
 #, perl-format
@@ -9393,7 +9393,7 @@ msgid ""
 "MusicBrainz believes strongly in the privacy of its users! Any personal "
 "information you choose to provide will not be sold or shared with anyone "
 "else. For full details, please read our {doc|Privacy Policy}."
-msgstr ""
+msgstr "Το MusicBrainz πιστεύει ακράδαντα στην προστασία των προσωπικών δεδομένων των χρηστών του. Όποιες προσωπικές πληροφορίες επιλέξετε να παρέχετε δεν πρόκειται να πωληθούν ή να μοιραστούν με οποιονδήποτε άλλο. Για περισσότερες πληροφορίες, παρακαλώ διαβάστε την {doc|Πολιτική προστασίας προσωπικών δεδομένων} μας."
 
 #: ../root/cdtoc/lookup.tt:83
 #, perl-format
@@ -9403,7 +9403,7 @@ msgstr ""
 #: ../root/layout/menu.tt:130
 #, perl-format
 msgid "MusicBrainz for Android"
-msgstr ""
+msgstr "MusicBrainz για Android"
 
 #: ../root/account/register.tt:55
 #, perl-format
@@ -9842,7 +9842,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:6
 #, perl-format
 msgid "No cover image available."
-msgstr ""
+msgstr "Δεν υπάρχει διαθέσιμο εξώφυλλο"
 
 #: ../root/edit/notes.tt:29
 #, perl-format
@@ -11175,12 +11175,12 @@ msgstr ""
 #: ../root/account/preferences.tt:29 ../root/user/collections.tt:11
 #, perl-format
 msgid "Privacy"
-msgstr ""
+msgstr "Προσωπικά δεδομένα"
 
 #: ../root/layout/menu.tt:95
 #, perl-format
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Πολιτική προστασίας προσωπικών δεδομένων"
 
 #: ../root/user/collections.tt:21
 #, perl-format
@@ -11205,7 +11205,7 @@ msgstr ""
 #: ../root/layout/menu.tt:118
 #, perl-format
 msgid "Products"
-msgstr ""
+msgstr "Προϊόντα"
 
 #: ../root/user/profile/layout.tt:12
 #, perl-format
@@ -12771,7 +12771,7 @@ msgstr ""
 #: ../root/search/index.tt:3 ../root/taglookup/form.tt:13
 #, perl-format
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: ../root/layout/menu.tt:157
 #, perl-format
@@ -12896,7 +12896,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "See also your {uri|user preferences}, which includes your privacy settings."
-msgstr ""
+msgstr "Δείτε επίσης τις {uri|ρυθμίσεις σας}, οι οποίες περιλαμβάνουν τις ρυθμίσεις απορρήτου σας."
 
 #: ../root/admin/linkattributetype/index.tt:23
 #, perl-format
@@ -13625,7 +13625,7 @@ msgstr ""
 #: ../root/layout/menu.tt:80
 #, perl-format
 msgid "Sponsors"
-msgstr ""
+msgstr "Σπόνσορες"
 
 #: DB:language/name:480
 msgid "Sranan Tongo"
@@ -13658,7 +13658,7 @@ msgstr ""
 #: ../root/layout/menu.tt:104 ../root/user/profile.tt:107
 #, perl-format
 msgid "Statistics"
-msgstr ""
+msgstr "Στατιστικά"
 
 #: ../root/edit/search_macros.tt:278 ../root/elections/index.tt:10
 #: ../root/release/lookup.tt:14
@@ -18802,12 +18802,12 @@ msgstr ""
 #: DB:link_attribute_type/name:567
 #, perl-format
 msgid "cover"
-msgstr ""
+msgstr "διασκευασμένη"
 
 #: DB:link_type/link_phrase:78
 #, perl-format
 msgid "cover art"
-msgstr ""
+msgstr "εξώφυλλο"
 
 #: DB:link_type/reverse_link_phrase:78
 #, perl-format
@@ -18817,7 +18817,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:12 DB:link_type/short_link_phrase:245
 #, perl-format
 msgid "covers and versions"
-msgstr ""
+msgstr "διασκευές και εκδόσεις"
 
 #: DB:link_type/link_phrase:12 DB:link_type/link_phrase:4
 #: DB:link_type/link_phrase:245 DB:link_type/reverse_link_phrase:12
@@ -18825,7 +18825,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:4
 #, perl-format
 msgid "covers or other versions"
-msgstr ""
+msgstr "διασκευές και άλλες εκδόσεις"
 
 #: DB:link_attribute_type/description:384
 #, perl-format
@@ -19712,7 +19712,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:78
 #, perl-format
 msgid "has cover art at"
-msgstr ""
+msgstr "έχει εξώφυλλο στο"
 
 #: DB:link_type/short_link_phrase:264
 #, perl-format
@@ -19917,12 +19917,12 @@ msgstr ""
 #: DB:link_type/short_link_phrase:278
 #, perl-format
 msgid "is a {partial} {live} {instrumental} {cover} performance of"
-msgstr ""
+msgstr "is a {partial} {live} {instrumental} {cover} performance of"
 
 #: DB:link_type/short_link_phrase:15
 #, perl-format
 msgid "is a {translated} {parody} cover of"
-msgstr ""
+msgstr "είναι μια {translated} {parody} διασκευή του"
 
 #: ../root/edit/search_macros.tt:119
 #, perl-format
@@ -19997,7 +19997,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:241
 #, perl-format
 msgid "is the earliest version of {translated} {parody}"
-msgstr ""
+msgstr "είναι η πρώτη έκδοση από {translated} {parody}"
 
 #: DB:link_type/short_link_phrase:2
 #, perl-format
@@ -20232,7 +20232,7 @@ msgstr ""
 #: DB:link_type/link_phrase:241
 #, perl-format
 msgid "later {translated} {parody} versions"
-msgstr ""
+msgstr "νεότερες {translated} {parody} εκδόσεις"
 
 #: DB:link_attribute_type/name:4
 #, perl-format
@@ -20280,17 +20280,17 @@ msgstr ""
 #: DB:link_attribute_type/name:578
 #, perl-format
 msgid "live"
-msgstr ""
+msgstr "ζωντανή"
 
 #: DB:link_type/link_phrase:17
 #, perl-format
 msgid "live performance of"
-msgstr ""
+msgstr "ζωντανή εκτέλεση του"
 
 #: DB:link_type/reverse_link_phrase:17
 #, perl-format
 msgid "live performances"
-msgstr ""
+msgstr "ζωντανές εκτελέσεις"
 
 #: DB:link_type/reverse_link_phrase:213
 #, perl-format
@@ -20799,7 +20799,7 @@ msgstr ""
 #: DB:link_attribute_type/name:511
 #, perl-format
 msgid "parody"
-msgstr ""
+msgstr "παρωδία"
 
 #: DB:link_type/reverse_link_phrase:281
 #, perl-format
@@ -20809,7 +20809,7 @@ msgstr ""
 #: DB:link_attribute_type/name:579
 #, perl-format
 msgid "partial"
-msgstr ""
+msgstr "μερική"
 
 #: DB:link_type/link_phrase:281
 #, perl-format
@@ -22359,7 +22359,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "{about|More Information} &mdash; {faq|FAQs} &mdash; {contact|Contact Us}"
-msgstr "{partial} {live} {instrumental} {cover} εκτέλεση"
+msgstr "{about|Περισσότερες πληροφορίες} &mdash; {faq|FAQs} &mdash; {contact|Επικοινωνήστε μαζί μας}"
 
 #: DB:link_type/link_phrase:293 DB:link_type/link_phrase:295
 #: DB:link_type/link_phrase:297 DB:link_type/short_link_phrase:293
@@ -22728,12 +22728,12 @@ msgstr ""
 #: DB:link_type/link_phrase:169
 #, perl-format
 msgid "{additional} {translated} libretto"
-msgstr ""
+msgstr "{additional} {translated} το λιμπρέτο"
 
 #: DB:link_type/link_phrase:56 DB:link_type/link_phrase:165
 #, perl-format
 msgid "{additional} {translated} lyrics"
-msgstr ""
+msgstr "{additional} {translated} τους στίχους"
 
 #: DB:link_type/reverse_link_phrase:294 DB:link_type/reverse_link_phrase:296
 #: DB:link_type/reverse_link_phrase:298
@@ -23018,7 +23018,7 @@ msgstr ""
 #: DB:link_type/link_phrase:278
 #, perl-format
 msgid "{partial} {live} {instrumental} {cover} performance of"
-msgstr ""
+msgstr "{partial} {live} {instrumental} {cover} εκτέλεση του"
 
 #: DB:link_type/reverse_link_phrase:278
 #, perl-format
@@ -23056,17 +23056,17 @@ msgstr "Κυκλοφορίες σε {script} "
 #: DB:link_type/reverse_link_phrase:15
 #, perl-format
 msgid "{translated} {parody:parodies|covers}"
-msgstr ""
+msgstr "{translated} {parody:parodies|διασκευές}"
 
 #: DB:link_type/link_phrase:15
 #, perl-format
 msgid "{translated} {parody:parody|cover} of"
-msgstr ""
+msgstr "{translated} {parody:parody|διασκευή} του"
 
 #: DB:link_type/reverse_link_phrase:241
 #, perl-format
 msgid "{translated} {parody} version of"
-msgstr ""
+msgstr "{translated} {parody} έκδοση του"
 
 #: ../root/admin/linktype/tree.tt:34 ../root/admin/linktype/tree.tt:36
 #, perl-format
