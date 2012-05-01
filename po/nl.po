@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 19:59+0000\n"
+"PO-Revision-Date: 2012-05-01 20:53+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -66,7 +66,7 @@ msgstr "#"
 #: ../root/statistics/formats.tt:31
 #, perl-format
 msgid "% of total mediums"
-msgstr ""
+msgstr "% van totale media"
 
 #: ../root/statistics/formats.tt:29
 #, perl-format
@@ -612,12 +612,12 @@ msgstr ""
 #: ../root/layout/menu.tt:176
 #, perl-format
 msgid "Add Artist"
-msgstr ""
+msgstr "Voeg artiest toe"
 
 #: ../root/artist/add_alias.tt:1
 #, perl-format
 msgid "Add Artist Alias"
-msgstr ""
+msgstr "Voeg alias voor artiest toe"
 
 #: ../root/components/forms.tt:243 ../root/components/forms.tt:247
 #: ../root/release/edit/tracklist.tt:84 ../root/release/edit/tracklist.tt:89
@@ -714,7 +714,7 @@ msgstr ""
 #: ../root/artist/create.tt:16 ../root/artist/create.tt:18
 #, perl-format
 msgid "Add a New Artist"
-msgstr ""
+msgstr "Voeg een nieuwe artiest toe"
 
 #: ../root/collection/create.tt:1 ../root/collection/create.tt:3
 #, perl-format
@@ -765,7 +765,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:65 ../root/work/layout.tt:30
 #, perl-format
 msgid "Add annotation"
-msgstr ""
+msgstr "Voeg aantekening toe"
 
 #: ../root/scripts/text_strings.tt:42
 #, perl-format
@@ -775,7 +775,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:48
 #, perl-format
 msgid "Add another medium"
-msgstr ""
+msgstr "Voeg een ander medium toe"
 
 #: ../root/scripts/text_strings.tt:47
 #, perl-format
@@ -804,12 +804,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAlias.pm:14
 #, perl-format
 msgid "Add label alias"
-msgstr "Alias voor deze platenmaatschappij toevoegen"
+msgstr "Voeg platenmaatschappijen samen"
 
 #: ../root/release/edit/missing_entities.tt:62
 #, perl-format
 msgid "Add new artist"
-msgstr ""
+msgstr "Voeg een nieuwe artiest toe"
 
 #: ../root/release/edit/missing_entities.tt:102
 #, perl-format
@@ -849,7 +849,7 @@ msgstr ""
 #: ../root/report/duplicate_artists.tt:45
 #, perl-format
 msgid "Add selected artists for merging"
-msgstr ""
+msgstr "Voeg geselecteerde artiesten toe om samen te voegen"
 
 #: ../root/artist/recordings.tt:7 ../root/isrc/index.tt:37
 #, perl-format
@@ -1066,12 +1066,12 @@ msgstr ""
 #: ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "All Edits"
-msgstr ""
+msgstr "Alle wijzigingen"
 
 #: ../root/layout/menu.tt:39
 #, perl-format
 msgid "All My Edits"
-msgstr ""
+msgstr "Al mijn wijzigingen"
 
 #: ../root/admin/linkattributetype/instruments.tt:8
 #, perl-format
@@ -1086,12 +1086,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:55
 #, perl-format
 msgid "All edits that have been applied"
-msgstr ""
+msgstr "Alle wijzigingen die zijn doorgevoerd"
 
 #: ../root/statistics/view_js.tt:59
 #, perl-format
 msgid "All edits that have failed by being voted down"
-msgstr ""
+msgstr "Alle wijzigingen die zijn mislukt omdat ze zijn weggestemd"
 
 #: ../root/statistics/view_js.tt:57
 #, perl-format
@@ -1128,7 +1128,7 @@ msgstr ""
 #: ../root/account/preferences.tt:32
 #, perl-format
 msgid "Allow other users to see my ratings"
-msgstr ""
+msgstr "Sta andere gebruikers toe om mijn waarderingen te zien"
 
 #: ../root/account/preferences.tt:30
 #, perl-format
@@ -1179,7 +1179,7 @@ msgstr ""
 #: ../root/search/results-artist.tt:7
 #, perl-format
 msgid "Alternatively, you may {uri|add a new artist}."
-msgstr ""
+msgstr "In plaats daarvan kunt u {uri|een nieuwe artiest toevoegen}."
 
 #: ../root/search/results-label.tt:38
 #, perl-format
@@ -1343,7 +1343,7 @@ msgstr ""
 #: ../root/annotation/edit.tt:15 ../root/release/edit/information.tt:104
 #, perl-format
 msgid "Annotation:"
-msgstr ""
+msgstr "Aantekening:"
 
 #: DB:country/name:8
 msgid "Antarctica"
@@ -1461,7 +1461,7 @@ msgstr "Weet u zeker dat u de PUID <code>{puid}</code> van {recording} door {ac}
 msgid ""
 "Are you sure you want to remove the alias {alias}, which points to the "
 "artist {artist}?"
-msgstr ""
+msgstr "Weet u zeker of u de alias {alias} dat verwijst naar artiest {artist} wilt verwijderen?"
 
 #: ../root/label/delete_alias.tt:7
 #, perl-format
@@ -1643,7 +1643,7 @@ msgstr ""
 #: ../root/artist/edit_form.tt:37
 #, perl-format
 msgid "Artist Details"
-msgstr ""
+msgstr "Details over de artiest"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -1658,12 +1658,12 @@ msgstr ""
 #: ../root/artist/not_found.tt:1 ../root/artist/not_found.tt:2
 #, perl-format
 msgid "Artist Not Found"
-msgstr ""
+msgstr "Artiest niet gevonden"
 
 #: ../root/statistics/view_js.tt:155
 #, perl-format
 msgid "Artist Ratings"
-msgstr ""
+msgstr "Waarderingen van de artiest"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
@@ -1703,12 +1703,12 @@ msgstr ""
 #: ../root/components/forms.tt:207 ../root/release/edit/tracklist.tt:44
 #, perl-format
 msgid "Artist in MusicBrainz"
-msgstr ""
+msgstr "Artiest in MusicBrainz"
 
 #: ../root/artist/layout.tt:4
 #, perl-format
 msgid "Artist information"
-msgstr ""
+msgstr "Informatie over de artiest"
 
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
@@ -1856,22 +1856,22 @@ msgstr ""
 #: ../root/statistics/view_js.tt:103
 #, perl-format
 msgid "Artists with gender set to female"
-msgstr ""
+msgstr "Artiesten met het geslacht vrouw"
 
 #: ../root/statistics/view_js.tt:102
 #, perl-format
 msgid "Artists with gender set to male"
-msgstr ""
+msgstr "Artiesten met het geslacht man"
 
 #: ../root/statistics/view_js.tt:104
 #, perl-format
 msgid "Artists with gender set to other"
-msgstr ""
+msgstr "Artiesten met het geslacht overig"
 
 #: ../root/statistics/view_js.tt:101
 #, perl-format
 msgid "Artists with gender unset (non-group artists)"
-msgstr ""
+msgstr "Artiesten (geen groepen) waarbij het geslacht niet is ingesteld"
 
 #: ../root/statistics/view_js.tt:112
 #, perl-format
@@ -1881,32 +1881,32 @@ msgstr ""
 #: ../root/statistics/view_js.tt:75
 #, perl-format
 msgid "Artists with no country set"
-msgstr ""
+msgstr "Artiesten waarbij het land niet is ingesteld"
 
 #: ../root/statistics/view_js.tt:107
 #, perl-format
 msgid "Artists with type set to group"
-msgstr ""
+msgstr "Artiesten van het type groep"
 
 #: ../root/statistics/view_js.tt:108
 #, perl-format
 msgid "Artists with type set to other"
-msgstr ""
+msgstr "Artiesten met het type overig"
 
 #: ../root/statistics/view_js.tt:106
 #, perl-format
 msgid "Artists with type set to person"
-msgstr ""
+msgstr "Artiesten met het type persoon"
 
 #: ../root/statistics/view_js.tt:109
 #, perl-format
 msgid "Artists with type unset"
-msgstr ""
+msgstr "Artiesten waarbij het type niet is ingesteld"
 
 #: ../root/statistics/index.tt:17 ../root/statistics/index.tt:116
 #, perl-format
 msgid "Artists:"
-msgstr ""
+msgstr "Artiesten:"
 
 #: DB:country/name:12
 msgid "Aruba"
@@ -2049,7 +2049,7 @@ msgstr ""
 #: ../root/account/preferences.tt:49
 #, perl-format
 msgid "Automatically subscribe me to artists I create."
-msgstr ""
+msgstr "Abonneer me automatisch op artiesten die ik creëer."
 
 #: ../root/account/preferences.tt:51
 #, perl-format
@@ -2731,7 +2731,7 @@ msgstr ""
 #: ../root/cdstub/header.tt:5
 #, perl-format
 msgid "CD stub by {artist}"
-msgstr ""
+msgstr "Cd-beginsel door {artist}"
 
 #: ../root/cdstub/edit.tt:53
 #, perl-format
@@ -2746,7 +2746,7 @@ msgstr ""
 #: ../root/cdstub/layout.tt:1
 #, perl-format
 msgid "CD stub “{title}” by {artist}"
-msgstr ""
+msgstr "Cd-beginsel \"{title}\" door {artist}"
 
 #: ../root/cdstub/logged_in.tt:7
 #, perl-format
@@ -3568,12 +3568,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:134
 #, perl-format
 msgid "Count of all Mediums with Disc IDs"
-msgstr ""
+msgstr "Aantal media met Disc ID's"
 
 #: ../root/statistics/view_js.tt:140
 #, perl-format
 msgid "Count of all Mediums with {n} Disc IDs"
-msgstr ""
+msgstr "Aantal media met {n} Disc ID's"
 
 #: ../root/statistics/view_js.tt:67
 #, perl-format
@@ -3833,7 +3833,7 @@ msgstr ""
 #: ../root/statistics/countries.tt:25
 #, perl-format
 msgid "Countries"
-msgstr ""
+msgstr "Landen"
 
 #: ../root/cdtoc/list.tt:9 ../root/collection/index.tt:15
 #: ../root/edit/details/edit_release_events.tt:6
@@ -3844,7 +3844,7 @@ msgstr ""
 #: ../root/statistics/countries.tt:33 ../root/tracklist/index.tt:32
 #, perl-format
 msgid "Country"
-msgstr ""
+msgstr "Land"
 
 #: ../root/artist/edit_form.tt:43 ../root/artist/index.tt:22
 #: ../root/artist/layout.tt:37 ../root/edit/details/add_artist.tt:37
@@ -3856,7 +3856,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:12
 #, perl-format
 msgid "Country:"
-msgstr ""
+msgstr "Land:"
 
 #: ../root/release/sidebar.tt:4
 #, perl-format
@@ -4729,7 +4729,7 @@ msgstr ""
 #: ../root/label/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Annotation"
-msgstr ""
+msgstr "Wijzig aantekening"
 
 #: ../root/artist/edit.tt:17
 #, perl-format
@@ -4744,7 +4744,7 @@ msgstr ""
 #: ../root/artist/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Artist Annotation"
-msgstr ""
+msgstr "Wijzig aantekening bij een artiest"
 
 #: ../root/artist/edit_credit.tt:15 ../root/artist/edit_credit.tt:20
 #, perl-format
@@ -4979,7 +4979,7 @@ msgstr ""
 #: ../root/work/layout.tt:25
 #, perl-format
 msgid "Editing"
-msgstr ""
+msgstr "Wijzigen"
 
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
@@ -4992,7 +4992,7 @@ msgstr ""
 #: ../root/work/layout.tt:52
 #, perl-format
 msgid "Editing history"
-msgstr ""
+msgstr "Wijzigingsgeschiedenis"
 
 #: ../root/main/index.tt:19
 #, perl-format
@@ -8314,7 +8314,7 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:30
 #, perl-format
 msgid "Language"
-msgstr ""
+msgstr "Taal"
 
 #: ../root/edit/details/add_release.tt:46
 #: ../root/edit/details/edit_release.tt:38
@@ -8322,7 +8322,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:44 ../root/release/sidebar.tt:25
 #, perl-format
 msgid "Language:"
-msgstr ""
+msgstr "Taal:"
 
 #: ../root/edit/details/edit_release_language.tt:8
 #, perl-format
@@ -8332,7 +8332,7 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:25
 #, perl-format
 msgid "Languages"
-msgstr ""
+msgstr "Talen"
 
 #: ../root/statistics/languages_scripts.tt:19
 #, perl-format
@@ -8369,20 +8369,20 @@ msgstr ""
 #: ../root/layout/sidebar/sidebar-lastupdate.tt:2
 #, perl-format
 msgid "Last updated on {date}"
-msgstr ""
+msgstr "Het laatst bijgewerkt op {date}"
 
 #: ../root/artist/details.tt:15 ../root/label/details.tt:15
 #: ../root/recording/details.tt:15 ../root/release/details.tt:15
 #: ../root/release_group/details.tt:15 ../root/work/details.tt:15
 #, perl-format
 msgid "Last updated:"
-msgstr ""
+msgstr "Het laatst bijgewerkt:"
 
 #: ../root/statistics/countries.tt:27 ../root/statistics/formats.tt:20
 #: ../root/statistics/index.tt:6 ../root/statistics/languages_scripts.tt:21
 #, perl-format
 msgid "Last updated: {date}"
-msgstr ""
+msgstr "Het laatst bijgewerkt: {date}"
 
 #: DB:language/name:238 DB:script/name:28
 msgid "Latin"
@@ -8430,7 +8430,7 @@ msgstr ""
 #: ../root/tracklist/index.tt:15
 #, perl-format
 msgid "Length"
-msgstr ""
+msgstr "Lengte"
 
 #: ../root/edit/details/add_standalone_recording.tt:28
 #: ../root/edit/details/add_track_kv.tt:7
@@ -8439,7 +8439,7 @@ msgstr ""
 #: ../root/recording/edit_form.tt:10 ../root/recording/layout.tt:12
 #, perl-format
 msgid "Length:"
-msgstr ""
+msgstr "Lengte:"
 
 #: DB:script/name:57
 msgid "Lepcha"
@@ -8949,62 +8949,62 @@ msgstr "Medium"
 #: ../root/tracklist/index.tt:28
 #, perl-format
 msgid "Medium #"
-msgstr ""
+msgstr "Medium #"
 
 #: ../root/edit/details/merge_releases.tt:36
 #, perl-format
 msgid "Medium {position} is now medium {new_position}"
-msgstr ""
+msgstr "Medium {position} is nu medium {new_position}"
 
 #: ../root/edit/details/merge_releases.tt:30
 #, perl-format
 msgid "Medium {position} is now medium {new_position}: {new_name}"
-msgstr ""
+msgstr "Medium {position} is nu medium {new_position}: {new_name}"
 
 #: ../root/edit/details/merge_releases.tt:24
 #, perl-format
 msgid "Medium {position}: {name} is now medium {new_position}"
-msgstr ""
+msgstr "Medium {position}: {name} is nu medium {new_position}"
 
 #: ../root/edit/details/merge_releases.tt:19
 #, perl-format
 msgid "Medium {position}: {name} is now medium {new_position}: {new_name}"
-msgstr ""
+msgstr "Medium {position}: {name} is nu medium {new_position}: {new_name}"
 
 #: ../root/edit/details/add_disc_id.tt:4 ../root/edit/details/edit_medium.tt:4
 #: ../root/edit/details/remove_disc_id.tt:3
 #: ../root/edit/details/remove_medium.tt:3
 #, perl-format
 msgid "Medium:"
-msgstr ""
+msgstr "Medium:"
 
 #: ../root/cdtoc/set_durations.tt:10 ../root/statistics/formats.tt:30
 #: ../root/statistics/view_js.tt:43
 #, perl-format
 msgid "Mediums"
-msgstr ""
+msgstr "Media"
 
 #: ../root/statistics/view_js.tt:140
 #, perl-format
 msgid "Mediums with 1 Disc ID"
 msgid_plural "Mediums with {n} Disc IDs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Media met 1 Disc ID"
+msgstr[1] "Media met {n} Disc ID's"
 
 #: ../root/statistics/view_js.tt:134
 #, perl-format
 msgid "Mediums with Disc IDs"
-msgstr ""
+msgstr "Media met Disc ID's"
 
 #: ../root/statistics/index.tt:314
 #, perl-format
 msgid "Mediums with at least one disc ID:"
-msgstr ""
+msgstr "Media met ten minste één Disc ID:"
 
 #: ../root/statistics/index.tt:308
 #, perl-format
 msgid "Mediums with no disc IDs:"
-msgstr ""
+msgstr "Media zonder Disc ID's:"
 
 #: ../root/statistics/view_js.tt:95
 #, perl-format
@@ -9015,7 +9015,7 @@ msgstr ""
 #: ../root/statistics/index.tt:302
 #, perl-format
 msgid "Mediums:"
-msgstr ""
+msgstr "Media:"
 
 #: DB:script/name:120
 msgid "Meitei Mayek"
@@ -9727,7 +9727,7 @@ msgstr ""
 #: ../root/edit/details/edit_release_language.tt:25
 #, perl-format
 msgid "New language:"
-msgstr ""
+msgstr "Nieuwe taal:"
 
 #: ../root/edit/details/change_wikidoc.tt:17
 #, perl-format
@@ -9757,7 +9757,7 @@ msgstr ""
 #: ../root/edit/details/edit_release_language.tt:30
 #, perl-format
 msgid "New script:"
-msgstr ""
+msgstr "Nieuw schrift"
 
 #: ../root/edit/details/change_wikidoc.tt:23
 #: ../root/edit/details/change_wikidoc.tt:28
@@ -10460,7 +10460,7 @@ msgstr ""
 #: ../root/url/header.tt:1 ../root/work/header.tt:1
 #, perl-format
 msgid "Overview"
-msgstr ""
+msgstr "Overzicht"
 
 #: ../root/collection/layout.tt:6
 #, perl-format
@@ -11123,7 +11123,7 @@ msgstr ""
 #: ../root/cdtoc/lookup.tt:28
 #, perl-format
 msgid "Possible Mediums"
-msgstr ""
+msgstr "Mogelijke media"
 
 #: ../root/admin/linkattributetype/index.tt:20
 #, perl-format
@@ -11340,7 +11340,7 @@ msgstr[1] ""
 #: ../root/tracklist/index.tt:14
 #, perl-format
 msgid "Rating"
-msgstr ""
+msgstr "Waardering"
 
 #: ../root/artist/ratings.tt:1 ../root/components/ratings.tt:1
 #: ../root/label/ratings.tt:1 ../root/recording/ratings.tt:1
@@ -11349,7 +11349,7 @@ msgstr ""
 #: ../root/user/ratings.tt:22 ../root/work/ratings.tt:1
 #, perl-format
 msgid "Ratings"
-msgstr ""
+msgstr "Waarderingen"
 
 #: ../root/statistics/index.tt:72
 #, perl-format
@@ -12747,7 +12747,7 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:49
 #, perl-format
 msgid "Script"
-msgstr ""
+msgstr "Schrift"
 
 #: ../root/edit/details/add_release.tt:53
 #: ../root/edit/details/edit_release.tt:34
@@ -12755,12 +12755,12 @@ msgstr ""
 #: ../root/release/edit/information.tt:45 ../root/release/sidebar.tt:25
 #, perl-format
 msgid "Script:"
-msgstr ""
+msgstr "Schrift:"
 
 #: ../root/statistics/languages_scripts.tt:44
 #, perl-format
 msgid "Scripts"
-msgstr ""
+msgstr "Schriften"
 
 #: ../root/cdtoc/attach_filter_artist.tt:8
 #: ../root/cdtoc/attach_filter_release.tt:8 ../root/cdtoc/lookup.tt:62
@@ -16469,7 +16469,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:76 ../root/statistics/view_js.tt:77
 #, perl-format
 msgid "Unknown Country"
-msgstr ""
+msgstr "Onbekend land"
 
 #: ../root/statistics/view_js.tt:149
 #, perl-format
@@ -16560,7 +16560,7 @@ msgstr ""
 #: ../root/admin/wikidoc/edit.tt:16 ../root/admin/wikidoc/index.tt:108
 #, perl-format
 msgid "Update"
-msgstr ""
+msgstr "Bijwerken"
 
 #: ../root/admin/wikidoc/edit.tt:1 ../root/admin/wikidoc/edit.tt:3
 #, perl-format
@@ -16580,7 +16580,7 @@ msgstr ""
 #: ../root/collection/edit_form.tt:13
 #, perl-format
 msgid "Update collection"
-msgstr ""
+msgstr "Werk collectie bij"
 
 #: ../root/components/forms.tt:134 ../root/components/forms.tt:158
 #: ../root/release/edit/tracklist.tt:463
@@ -17755,7 +17755,7 @@ msgstr ""
 #: ../root/account/edit_ok.tt:6
 #, perl-format
 msgid "Your profile has been updated."
-msgstr ""
+msgstr "Uw profiel is bijgewerkt"
 
 #: ../root/search/error/invalid.tt:3
 #, perl-format
@@ -17850,7 +17850,7 @@ msgstr ""
 
 #: DB:language/name:284
 msgid "[Multiple languages]"
-msgstr ""
+msgstr "[Meerdere talen]"
 
 #: DB:script/name:160
 msgid "[Multiple scripts]"
@@ -17882,7 +17882,7 @@ msgid ""
 "with thirty-six trings, struck with two small rubber-clad dubs. It has many "
 "counter-parts in various countries, such as the \"santoor\" in India and "
 "also the \"cimbalon\" in Hungary."
-msgstr ""
+msgstr "een relatief recent geïmporteerde toevoeging aan de Vietnamese instrumenten. Een dulcimer met 36 snaren, aangeslagen met twee kleine met rubber beklede plectra. Het heeft vele tegenhangers in verschillende landen, zoals de \"santoor\" in India en ook de \"cimbalon\" in Hongarije."
 
 #: DB:link_attribute_type/description:295
 #, perl-format
@@ -20388,52 +20388,52 @@ msgstr ""
 #: DB:link_attribute_type/name:568
 #, perl-format
 msgid "medium"
-msgstr ""
+msgstr "medium"
 
 #: DB:link_attribute_type/name:570
 #, perl-format
 msgid "medium 1"
-msgstr ""
+msgstr "medium 1"
 
 #: DB:link_attribute_type/name:569
 #, perl-format
 msgid "medium 2"
-msgstr ""
+msgstr "medium 2"
 
 #: DB:link_attribute_type/name:571
 #, perl-format
 msgid "medium 3"
-msgstr ""
+msgstr "medium 3"
 
 #: DB:link_attribute_type/name:577
 #, perl-format
 msgid "medium 4"
-msgstr ""
+msgstr "medium 4"
 
 #: DB:link_attribute_type/name:576
 #, perl-format
 msgid "medium 5"
-msgstr ""
+msgstr "medium 5"
 
 #: DB:link_attribute_type/name:575
 #, perl-format
 msgid "medium 6"
-msgstr ""
+msgstr "medium 6"
 
 #: DB:link_attribute_type/name:574
 #, perl-format
 msgid "medium 7"
-msgstr ""
+msgstr "medium 7"
 
 #: DB:link_attribute_type/name:573
 #, perl-format
 msgid "medium 8"
-msgstr ""
+msgstr "medium 8"
 
 #: DB:link_attribute_type/name:572
 #, perl-format
 msgid "medium 9"
-msgstr ""
+msgstr "medium 9"
 
 #: DB:link_type/link_phrase:239 DB:link_type/link_phrase:244
 #, perl-format
@@ -23318,7 +23318,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:455
 #, perl-brace-format
 msgid "The artist name has been changed in edit #{id}."
-msgstr ""
+msgstr "De artiestennaam is veranderd in wijziging #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:498
 msgid "You cannot merge a special purpose artist into another artist"
@@ -23356,7 +23356,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:160
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:311
 msgid "The selected medium cannot have disc IDs"
-msgstr ""
+msgstr "Het geselecteerde medium kan geen Disc ID's hebben"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:188
 msgid "The provided artist id is not valid"
@@ -23438,11 +23438,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:109
 msgid "No artist names provided"
-msgstr ""
+msgstr "Geen artiestennamen verstrekt"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:112
 msgid "Not all tracks specify an artist"
-msgstr ""
+msgstr "Niet alle nummers hebben een artiest"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:115
 msgid "Not all tracks have a title"
@@ -23548,7 +23548,7 @@ msgstr "Voeg verwantschap toe"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLinkAttr.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkAttribute.pm:13
 msgid "Add relationship attribute"
-msgstr ""
+msgstr "Platenmaatschappijen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLinkType.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkType.pm:13
@@ -23580,11 +23580,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeArtistQuality.pm:10
 msgid "Change artist quality"
-msgstr ""
+msgstr "Verander de kwaliteitsscore van de artiest"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeTrackArtist.pm:12
 msgid "Change track artist"
-msgstr ""
+msgstr "Verander de artiest van het nummer"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeWikiDoc.pm:7
 msgid "Change wikidoc"
@@ -23593,21 +23593,21 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistName.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistSortname.pm:7
 msgid "Edit artist name"
-msgstr ""
+msgstr "Verander de artiestennaam"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabel.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:28
 msgid "Edit label"
-msgstr ""
+msgstr "Wijzig platenmaatschappij"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLink.pm:17
 msgid "Edit relationship (historic)"
-msgstr ""
+msgstr "Platenmaatschappijen:"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLinkAttr.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkAttribute.pm:14
 msgid "Edit relationship attribute"
-msgstr ""
+msgstr "Voeg platenmaatschappijen samen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLinkType.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkType.pm:14
@@ -23653,7 +23653,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditURL.pm:9
 msgid "Edit url"
-msgstr ""
+msgstr "Wijzig URL"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MACToSAC.pm:12
 msgid "Convert release to single artist"
@@ -23725,15 +23725,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
-msgstr ""
+msgstr "Voeg medium toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Delete.pm:18
 msgid "Remove medium"
-msgstr ""
+msgstr "Verwijder medium"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Edit.pm:33
 msgid "Edit medium"
-msgstr ""
+msgstr "Wijzig medium"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
@@ -23753,7 +23753,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Delete.pm:25
 msgid "Remove relationship"
-msgstr ""
+msgstr "platenmaatschappijen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Edit.pm:28
 msgid "Edit relationship"
@@ -23826,7 +23826,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:23
 msgid "Edit work"
-msgstr ""
+msgstr "Wijzig compositie"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
@@ -23977,7 +23977,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:88
 #, perl-brace-format
 msgid "An artist is required on track {pos}"
-msgstr ""
+msgstr "Een artiest is benodigd op nummer {pos}"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:115
 #, perl-brace-format
@@ -23995,8 +23995,8 @@ msgstr ""
 #, perl-brace-format
 msgid "This medium has a Disc ID, it should have exactly {n} track."
 msgid_plural "This medium has a Disc ID, it should have exactly {n} tracks."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Dit medium heeft een Disc ID, het zou precies {n} nummer moeten hebben."
+msgstr[1] "Dit medium heeft een Disc ID, het zou precies {n} nummers moeten hebben."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
@@ -24007,7 +24007,7 @@ msgstr ""
 msgid ""
 "This medium already has disc IDs so you may only change the format\n"
 "                       to a format that can have disc IDs"
-msgstr ""
+msgstr "Dit medium heeft al een Disc ID dus u mag alleen maar het soort medium veranderen in een soort medium dat Disc ID's kan hebben"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:222
 msgid "A release must have at least one medium."
@@ -24100,7 +24100,7 @@ msgstr ""
 msgid ""
 "A compilation is a collection of previously released tracks by one or more "
 "artists."
-msgstr ""
+msgstr "Een compilatie is een verzameling van eerder uitgebrachte nummers van één of meer artiesten."
 
 #: ../lib/MusicBrainz/Server/Release.pm:83
 msgid ""

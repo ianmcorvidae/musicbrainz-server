@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 19:55+0000\n"
+"PO-Revision-Date: 2012-05-01 20:59+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -5282,7 +5282,7 @@ msgid ""
 "is highly recommended. Not only does it make it clear where you got your "
 "information, but it can also encourage other users to vote on your edit "
 "&mdash; thus making your edit get applied faster."
-msgstr ""
+msgstr "Συνιστάται να εισαγάγετε ένα {note|σημείωμα επεξεργασίας} το οποίο θα περιγράφει πού βρήκατε τις πληροφορίες σας. Αυτό όχι μόνο ξεκαθαρίζει την πηγή των πληροφοριών σας αλλά μπορεί και να ενθαρρύνει άλλους χρήστες να ψηφίσουν τις επεξεργασίες σας και έτσι αυτές να εφαρμόζονται γρηγορότερα."
 
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
@@ -5327,8 +5327,8 @@ msgstr ""
 #, perl-format
 msgid "Error:"
 msgid_plural "Errors:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Σφάλμα:"
+msgstr[1] "Σφάλματα:"
 
 #: ../root/components/common-macros.tt:82
 #, perl-format
@@ -6270,7 +6270,7 @@ msgstr "Χονγκ Κονγκ"
 msgid ""
 "Hosted by {host|Digital West}. Sponsored by: {url1|Google}, {url2|OSUOSL} "
 "and {more|others...}"
-msgstr ""
+msgstr "Φιλοξενείται από την {host|Digital West}. Χρηματοδοτείται από: {Url1|Google}, {url2|OSUOSL} και {more|άλλους...}"
 
 #: ../root/statistics/timeline.tt:76
 #, perl-format
@@ -8482,7 +8482,7 @@ msgid ""
 "Like Wikipedia, MusicBrainz is maintained by a global community of users and"
 " we want everyone &mdash; including you &mdash; to {doc|participate and "
 "contribute}."
-msgstr ""
+msgstr "Όπως η Wikipedia, το MusicBrainz συντηρείται από μια παγκόσμια κοινότητα χρηστών και θέλουμε όλοι &mdash; και εσείς &mdash; να {doc|συμμετάσχουν και να συνεισφέρουν}."
 
 #: DB:script/name:58
 msgid "Limbu"
@@ -9655,7 +9655,7 @@ msgstr "Ολλανδία"
 
 #: DB:country/name:151
 msgid "Netherlands Antilles (historical, 1954-2010)"
-msgstr ""
+msgstr "Ολλανδικές Αντίλλες (ιστορικά, 1954-2010)"
 
 #: ../root/annotation/history.tt:7
 #, perl-format
@@ -10217,7 +10217,7 @@ msgstr ""
 #: ../root/account/change_password.tt:10
 #, perl-format
 msgid "Old password:"
-msgstr ""
+msgstr "Προηγούμενος κωδικός:"
 
 #: ../root/edit/details/edit_medium.tt:190
 #, perl-format
@@ -10278,7 +10278,7 @@ msgstr ""
 #: ../root/main/500.tt:5
 #, perl-format
 msgid "Oops, something went wrong!"
-msgstr ""
+msgstr "Ουπς, κάτι πήγε στραβά!"
 
 #: ../root/edit/open.tt:14 ../root/edit/open.tt:16
 #: ../root/statistics/view_js.tt:49 ../root/user/profile/layout.tt:19
@@ -10312,18 +10312,18 @@ msgstr ""
 
 #: DB:work_type/name:10
 msgid "Opera"
-msgstr ""
+msgstr "Όπερα"
 
 #: ../root/release/edit/recordings.tt:391
 #: ../root/release/edit/tracklist.tt:155 ../root/release/edit/tracklist.tt:185
 #, perl-format
 msgid "Options"
-msgstr ""
+msgstr "Επιλογές"
 
 #: ../root/cdtoc/lookup.tt:96
 #, perl-format
 msgid "Or..."
-msgstr ""
+msgstr "Ή..."
 
 #: DB:work_type/name:11
 msgid "Oratorio"
@@ -10469,7 +10469,7 @@ msgstr ""
 #: ../root/recording/fingerprints.tt:11
 #, perl-format
 msgid "PUID"
-msgstr ""
+msgstr "PUID"
 
 #: ../root/puid/index.tt:1 ../root/puid/index.tt:3
 #, perl-format
@@ -10511,13 +10511,13 @@ msgstr ""
 #, perl-format
 msgid "PUIDs with 1 Recording"
 msgid_plural "PUIDs with {n} Recordings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "PUIDs με 1 Ηχογράφηση"
+msgstr[1] "PUIDs με {n} Ηχογραφήσεις"
 
 #: ../root/edit/details/add_puids.tt:8
 #, perl-format
 msgid "PUIDs:"
-msgstr ""
+msgstr "PUIDs:"
 
 #: ../root/edit/details/add_release.tt:74
 #: ../root/edit/details/edit_release.tt:30
@@ -10531,17 +10531,17 @@ msgstr ""
 #: ../root/main/mirror_404.tt:3
 #, perl-format
 msgid "Page Not Found"
-msgstr ""
+msgstr "Δε Βρέθηκε η Σελίδα"
 
 #: ../root/admin/wikidoc/index.tt:84
 #, perl-format
 msgid "Page name"
-msgstr ""
+msgstr "Όνομα σελίδας"
 
 #: ../root/edit/details/change_wikidoc.tt:29
 #, perl-format
 msgid "Page removed"
-msgstr ""
+msgstr "Σελίδα καταργήθηκε"
 
 #: ../root/components/paginator.tt:30
 #, perl-format
@@ -10556,7 +10556,7 @@ msgstr ""
 #: ../root/admin/wikidoc/create.tt:8 ../root/admin/wikidoc/edit.tt:9
 #, perl-format
 msgid "Page:"
-msgstr ""
+msgstr "Σελίδα:"
 
 #: DB:script/name:89
 msgid "Pahawh Hmong"
@@ -10568,7 +10568,7 @@ msgstr ""
 
 #: DB:country/name:162
 msgid "Pakistan"
-msgstr ""
+msgstr "Πακιστάν"
 
 #: DB:country/name:163
 msgid "Palau"
@@ -10580,7 +10580,7 @@ msgstr ""
 
 #: DB:country/name:249
 msgid "Palestinian Territory"
-msgstr ""
+msgstr "Παλαιστινιακά Εδάφη"
 
 #: DB:language/name:337
 msgid "Pali"
@@ -10601,7 +10601,7 @@ msgstr ""
 
 #: DB:country/name:164
 msgid "Panama"
-msgstr ""
+msgstr "Παναμάς"
 
 #: DB:language/name:327
 msgid "Pangasinan"
@@ -10617,7 +10617,7 @@ msgstr ""
 
 #: DB:country/name:165
 msgid "Papua New Guinea"
-msgstr ""
+msgstr "Παπούα Νέα Γουινέα"
 
 #: DB:language/name:326
 msgid "Papuan languages"
@@ -10625,19 +10625,19 @@ msgstr ""
 
 #: DB:country/name:166
 msgid "Paraguay"
-msgstr ""
+msgstr "Παραγουάη"
 
 #: ../root/edit/details/edit_relationship_type.tt:50
 #, perl-format
 msgid "Parent"
-msgstr ""
+msgstr "Γονιός"
 
 #: ../root/admin/linkattributetype/form.tt:4 ../root/admin/linktype/form.tt:4
 #: ../root/edit/details/add_relationship_attribute.tt:15
 #: ../root/edit/details/edit_relationship_attribute.tt:12
 #, perl-format
 msgid "Parent:"
-msgstr ""
+msgstr "Γονιός:"
 
 #: ../root/release/edit/tracklist.tt:160
 #, perl-format
@@ -10663,7 +10663,7 @@ msgstr ""
 #: ../root/user/login.tt:24
 #, perl-format
 msgid "Password:"
-msgstr ""
+msgstr "Κωδικός πρόσβασης:"
 
 #: ../root/layout/menu.tt:83
 #, perl-format
@@ -10692,7 +10692,7 @@ msgstr ""
 
 #: DB:language/name:334
 msgid "Persian"
-msgstr ""
+msgstr "Περσικά"
 
 #: DB:language/name:333
 msgid "Persian, Old (ca.600-400 B.C.)"
@@ -10709,7 +10709,7 @@ msgstr ""
 
 #: DB:country/name:167
 msgid "Peru"
-msgstr ""
+msgstr "Περού"
 
 #: DB:script/name:56
 msgid "Phags-pa"
@@ -11368,7 +11368,7 @@ msgstr ""
 #: ../root/annotation/common.tt:11
 #, perl-format
 msgid "Read more..."
-msgstr ""
+msgstr "Διαβάστε περισσότερα..."
 
 #: ../root/admin/wikidoc/index.tt:56
 #, perl-format
@@ -16772,7 +16772,7 @@ msgstr ""
 
 #: DB:country/name:228
 msgid "Venezuela, Bolivarian Republic of"
-msgstr ""
+msgstr "Βενεζουέλας, Μπολιβαριανή Δημοκρατία της"
 
 #: DB:link_attribute_type/description:503
 #, perl-format
@@ -17853,7 +17853,7 @@ msgstr ""
 
 #: DB:script/name:160
 msgid "[Multiple scripts]"
-msgstr ""
+msgstr "[πολλαπλές γραφές]"
 
 #: DB:country/name:240
 msgid "[Worldwide]"
@@ -20264,7 +20264,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:301
 #, perl-format
 msgid "license for"
-msgstr ""
+msgstr "άδεια για"
 
 #: ../root/edit/relationship/edit.tt:37 ../root/scripts/text_strings.tt:85
 #, perl-format
@@ -20506,13 +20506,13 @@ msgstr ""
 #: ../root/admin/linktype/tree.tt:7
 #, perl-format
 msgid "more"
-msgstr ""
+msgstr "περισσότερα"
 
 #: ../root/layout/sidebar/sidebar-tags.tt:1
 #: ../root/layout/sidebar/sidebar-tags.tt:16
 #, perl-format
 msgid "more..."
-msgstr ""
+msgstr "περισσότερα..."
 
 #: DB:link_attribute_type/name:294
 #, perl-format
@@ -20764,7 +20764,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:233
 #, perl-format
 msgid "other versions"
-msgstr ""
+msgstr "άλλες εκδόσεις"
 
 #: DB:link_attribute_type/description:304 DB:link_attribute_type/name:304
 #, perl-format
@@ -20824,7 +20824,7 @@ msgstr ""
 #: DB:link_attribute_type/description:124 DB:link_attribute_type/name:124
 #, perl-format
 msgid "percussion"
-msgstr ""
+msgstr "κρουστά"
 
 #: DB:link_type/link_phrase:34 DB:link_type/link_phrase:122
 #: DB:link_type/reverse_link_phrase:34 DB:link_type/reverse_link_phrase:122
@@ -21137,7 +21137,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:262
 #, perl-format
 msgid "recording"
-msgstr ""
+msgstr "ηχογράφηση"
 
 #: DB:link_type/link_phrase:98 DB:link_type/link_phrase:260
 #: DB:link_type/reverse_link_phrase:98 DB:link_type/reverse_link_phrase:260
@@ -21498,7 +21498,7 @@ msgstr ""
 #: DB:link_attribute_type/name:596
 #, perl-format
 msgid "solo"
-msgstr ""
+msgstr "σόλο"
 
 #: DB:link_attribute_type/name:356
 #, perl-format
@@ -21579,7 +21579,7 @@ msgstr ""
 #: DB:link_attribute_type/description:69 DB:link_attribute_type/name:69
 #, perl-format
 msgid "strings"
-msgstr ""
+msgstr "έγχορδα"
 
 #: DB:link_attribute_type/description:322 DB:link_attribute_type/name:322
 #, perl-format
@@ -22359,7 +22359,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "{about|More Information} &mdash; {faq|FAQs} &mdash; {contact|Contact Us}"
-msgstr ""
+msgstr "{about|Περισσότερες πληροφορίες} &mdash; {faq|FAQs} &mdash; {contact|Επικοινωνήστε μαζί μας}"
 
 #: DB:link_type/link_phrase:293 DB:link_type/link_phrase:295
 #: DB:link_type/link_phrase:297 DB:link_type/short_link_phrase:293
@@ -22678,7 +22678,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:60 DB:link_type/reverse_link_phrase:149
 #, perl-format
 msgid "{additional} {guest} {solo} {vocal} vocals"
-msgstr ""
+msgstr "{additional} {guest} {solo} {vocal} φωνητικά"
 
 #: DB:link_type/reverse_link_phrase:282 DB:link_type/reverse_link_phrase:158
 #: DB:link_type/reverse_link_phrase:41
@@ -22782,17 +22782,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:79
 #, perl-format
 msgid "{country} artists"
-msgstr ""
+msgstr "Καλλιτέχνες από {country}"
 
 #: ../root/statistics/view_js.tt:80
 #, perl-format
 msgid "{country} labels"
-msgstr ""
+msgstr "Δισκογραφικές εταιρείες από {country}"
 
 #: ../root/statistics/view_js.tt:81
 #, perl-format
 msgid "{country} releases"
-msgstr ""
+msgstr "Κυκλοφορίες από {country}"
 
 #: ../root/user/profile.tt:79
 #, perl-format
@@ -22858,7 +22858,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:91
 #, perl-format
 msgid "{language} releases"
-msgstr ""
+msgstr "Κυκλοφορίες σε {language} "
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:23
 #, perl-format
@@ -23051,7 +23051,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:86
 #, perl-format
 msgid "{script} releases"
-msgstr ""
+msgstr "Κυκλοφορίες σε {script} "
 
 #: DB:link_type/reverse_link_phrase:15
 #, perl-format
@@ -24010,7 +24010,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:222
 msgid "A release must have at least one medium."
-msgstr ""
+msgstr "Μια κυκλοφορία πρέπει να έχει τουλάχιστον ένα μέσο."
 
 #: ../lib/MusicBrainz/Server/Form/Role/DatePeriod.pm:34
 msgid "The end date must occur on or after the begin date"
@@ -24030,15 +24030,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:79
 msgid "Daily"
-msgstr ""
+msgstr "Καθημερινά"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:80
 msgid "Weekly"
-msgstr ""
+msgstr "Εβδομαδιαία"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Never"
-msgstr ""
+msgstr "Ποτέ"
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
