@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 16:57+0000\n"
+"PO-Revision-Date: 2012-05-01 17:39+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgid ""
 " Enter your username and email below. We will send you an email with a link "
 "to reset your password. If you have forgotten your username, {link|retrieve "
 "it} first and then reset your password. "
-msgstr ""
+msgstr "Voer uw gebruikersnaam en wachtwoord hieronder in. We zullen u een e-mail sturen met een link om uw wachtwoord opnieuw in te stellen. Als u uw gebruikersnaam bent vergeten, {link|verkrijg het} dan eerst en stel dan uw wachtwoord opnieuw in."
 
 #: ../root/recording/add_isrc.tt:8
 #, perl-format
@@ -61,7 +61,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:264 ../root/release/edit/tracklist.tt:417
 #, perl-format
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: ../root/statistics/formats.tt:31
 #, perl-format
@@ -76,12 +76,12 @@ msgstr ""
 #: ../root/doc/edit_type.tt:67
 #, perl-format
 msgid "&#10004;"
-msgstr ""
+msgstr "&#10004;"
 
 #: ../root/doc/edit_type.tt:67
 #, perl-format
 msgid "&#10005;"
-msgstr ""
+msgstr "&#10005;"
 
 #: ../root/components/tag-cloud.tt:26
 #, perl-format
@@ -112,17 +112,17 @@ msgstr "(nieuwe opname toevoegen)"
 #: DB:link_attribute_type/description:528
 #, perl-format
 msgid "(bamboo) flute, also known as kena or qina"
-msgstr ""
+msgstr "(bamboe)fluit, ook bekend als kena of qina"
 
 #: ../root/edit/details/add_release_annotation.tt:17
 #, perl-format
 msgid "(click here to display annotation)"
-msgstr ""
+msgstr "(klik hier om de aantekening weer te geven)"
 
 #: ../root/user/profile.tt:20
 #, perl-format
 msgid "(hidden)"
-msgstr ""
+msgstr "(verborgen)"
 
 #: ../root/edit/details/reorder_mediums.tt:26
 #, perl-format
@@ -160,12 +160,12 @@ msgstr ""
 #: ../root/user/profile.tt:73 ../root/user/profile.tt:94
 #, perl-format
 msgid "(none)"
-msgstr ""
+msgstr "(geen)"
 
 #: ../root/elections/show.tt:121
 #, perl-format
 msgid "(private)"
-msgstr ""
+msgstr "(privé)"
 
 #: ../root/search/lib/inline-results-recording.tt:49
 #, perl-format
@@ -222,8 +222,8 @@ msgstr ""
 #, perl-format
 msgid "1 vote"
 msgid_plural "{n} unanimous votes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "één stem"
+msgstr[1] "{n} unanieme stemmen"
 
 #: DB:medium_format/name:30
 msgid "10\" Vinyl"
@@ -232,7 +232,7 @@ msgstr ""
 #: ../root/user/profile.tt:179 ../root/user/profile.tt:183
 #, perl-format
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: DB:link_attribute_type/description:529 DB:link_attribute_type/name:529
 #, perl-format
@@ -256,7 +256,7 @@ msgstr ""
 #: DB:link_attribute_type/description:414
 #, perl-format
 msgid "3-stringed fretless lute"
-msgstr ""
+msgstr "driesnarige fretloze luit"
 
 #: DB:medium_format/name:29
 msgid "7\" Vinyl"
@@ -634,24 +634,24 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:476
 #, perl-format
 msgid "Add Disc"
-msgstr ""
+msgstr "Voeg medium toe"
 
 #: ../root/recording/add_isrc.tt:1 ../root/recording/add_isrc.tt:2
 #: ../root/recording/layout.tt:34
 #, perl-format
 msgid "Add ISRC"
-msgstr ""
+msgstr "Voeg ISRC toe"
 
 #: ../root/layout/menu.tt:179 ../root/release/edit/information.tt:90
 #: ../root/release/edit/information.tt:92
 #, perl-format
 msgid "Add Label"
-msgstr ""
+msgstr "Voeg platenmaatschappij toe"
 
 #: ../root/label/add_alias.tt:1
 #, perl-format
 msgid "Add Label Alias"
-msgstr ""
+msgstr "Voeg alias voor platenmaatschappij toe"
 
 #: ../root/release_group/create.tt:16
 #, perl-format
@@ -661,12 +661,12 @@ msgstr ""
 #: ../root/edit/info.tt:13
 #, perl-format
 msgid "Add Note"
-msgstr ""
+msgstr "Voeg een notitie toe"
 
 #: ../root/admin/wikidoc/create.tt:1 ../root/admin/wikidoc/create.tt:3
 #, perl-format
 msgid "Add Page"
-msgstr ""
+msgstr "Voeg een pagina toe"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -2389,7 +2389,7 @@ msgid ""
 "Below is the error information. If you wish to file a bug report, you may do"
 " so at {bugs|our bug tracker}. The below information will help, so please be"
 " sure to include it!"
-msgstr ""
+msgstr "Hieronder staat informatie over de foutmelding. Als u een rapport voor deze bug wilt indienen, kunt u dat doen op {bugs|onze bugtracker}. De onderstaande informatie zal helpen, voeg deze daarom alstublieft toe aan uw rapport."
 
 #: DB:language/name:46
 msgid "Bemba"
@@ -2639,11 +2639,11 @@ msgstr ""
 #: ../root/layout.tt:144
 #, perl-format
 msgid "Bug Tracker"
-msgstr ""
+msgstr "Bugtracker"
 
 #: DB:language/name:61 DB:script/name:75
 msgid "Buginese"
-msgstr ""
+msgstr "Buginees"
 
 #: DB:script/name:78
 msgid "Buhid"
@@ -2754,7 +2754,7 @@ msgid ""
 "CD stubs are a feature to allow anonymous users to submit data to "
 "MusicBrainz. For more information, see {cdstub|the documentation on CD "
 "stubs}."
-msgstr ""
+msgstr "Cd-beginsels zijn een functie om anonieme gebruikers gegevens te laten toevoegen aan MusicBrainz. Kijk voor meer informatie bij {cdstub|de documentatie van cd-beginsels}."
 
 #: DB:medium_format/name:33
 msgid "CD-R"
@@ -3411,7 +3411,7 @@ msgstr ""
 #: ../root/layout/menu.tt:235
 #, perl-format
 msgid "Contact Us"
-msgstr "Neem contact met ons op"
+msgstr "Neem contact op"
 
 #: DB:link_attribute_type/description:471
 #, perl-format
@@ -4570,7 +4570,7 @@ msgstr ""
 #: ../root/layout/menu.tt:206
 #, perl-format
 msgid "Documentation"
-msgstr ""
+msgstr "Documentatie"
 
 #: DB:language/name:108
 msgid "Dogri"
@@ -5568,7 +5568,7 @@ msgstr ""
 msgid ""
 "For assistance in writing effective advanced search queries, read the "
 "{doc|syntax documentation}."
-msgstr ""
+msgstr "Voor hulp bij het schrijven van effectieve geavanceerde zoekopdrachten, leest u de {doc|syntaxdocumentatie}."
 
 #: ../root/admin/delete_user.tt:15
 #, perl-format
@@ -5637,21 +5637,21 @@ msgstr ""
 msgid ""
 "Found a broken link on our site? Please let us know by {report|reporting a "
 "bug}."
-msgstr ""
+msgstr "Heeft u een kapotte verwijzing gevonden op onze site? Laat het ons alstublieft weten door {report|een bug te rapporteren}."
 
 #: ../root/main/404.tt:24
 #, perl-format
 msgid ""
 "Found a broken link on our site? Please {report|report a bug} and include "
 "any error message that is shown above."
-msgstr ""
+msgstr "Heeft u een kapotte verwijzing gevonden op onze site? {report|Rapporteer alstublieft een bug} en voeg elke foutmelding toe die hierboven wordt weergegeven."
 
 #: ../root/main/400.tt:24
 #, perl-format
 msgid ""
 "Found a problem on our site? Please {report|report a bug} and include any "
 "error message that is shown above."
-msgstr ""
+msgstr "Heeft u een probleem gevonden op onze site? {report|Rapporteer alstublieft een bug} en voeg elke foutmelding toe die hierboven wordt weergegeven."
 
 #: ../root/release/sidebar.tt:137
 #, perl-format
@@ -6522,7 +6522,7 @@ msgstr ""
 msgid ""
 "If the problem persists, please {report|report a bug} and include any error "
 "message that is shown above."
-msgstr ""
+msgstr "Als het probleem zich blijft voordoen, {report|rapporteer dan een bug} en voeg elke foutmelding toe die hierboven wordt weergegeven."
 
 #: ../root/release/edit/information.tt:148
 #, perl-format
@@ -6603,7 +6603,7 @@ msgstr ""
 msgid ""
 "If you have any questions, please review the {faq|FAQs} or "
 "{doc|documentation} before {con|contacting us}. "
-msgstr "Als u vragen heeft, kijkt u dan a.u.b. eerst in de {faq | FAQ's} of {doc | documentatie} voordat u {con | contact met ons opneemt}."
+msgstr "Als u vragen heeft, kijkt u dan a.u.b. eerst in de {faq|FAQ's} of {doc|documentatie} voordat u {con|contact met ons opneemt}."
 
 #: ../root/artist/add_alias.tt:6 ../root/artist/edit_alias.tt:6
 #, perl-format
@@ -8592,7 +8592,7 @@ msgstr ""
 #: ../root/main/400.tt:18 ../root/main/404.tt:18
 #, perl-format
 msgid "Looking for help? Check out our {doc|documentation} or {faq|FAQ}."
-msgstr ""
+msgstr "Zoekt u hulp? Kijk bij onze {doc|documentatie} of {faq|FAQ}."
 
 #: ../root/doc/bare_error.tt:11 ../root/doc/error.tt:13
 #, perl-format
@@ -8742,7 +8742,7 @@ msgstr ""
 #: ../root/layout/menu.tt:127 ../root/main/index.tt:10
 #, perl-format
 msgid "Magic MP3 Tagger"
-msgstr ""
+msgstr "Magic MP3 Tagger"
 
 #: ../root/account/preferences.tt:37
 #, perl-format
@@ -9498,7 +9498,7 @@ msgstr ""
 #: ../root/layout/menu.tt:33
 #, perl-format
 msgid "My Tags"
-msgstr ""
+msgstr "Mijn etiketten"
 
 #: ../root/edit/search_macros.tt:278
 #, perl-format
@@ -9823,7 +9823,7 @@ msgstr ""
 #: ../root/tag/not_found.tt:4
 #, perl-format
 msgid "No MusicBrainz entities have yet been tagged with \"{tag}\"."
-msgstr ""
+msgstr "Geen objecten in MusicBrainz zijn tot nu toe geëtiketteerd met \"{tag}\"."
 
 #: ../root/statistics/view_js.tt:67
 #, perl-format
@@ -9833,12 +9833,12 @@ msgstr ""
 #: ../root/tag/artist.tt:1
 #, perl-format
 msgid "No artists with this tag were found."
-msgstr ""
+msgstr "Geen artiesten met dit etiket gevonden."
 
 #: ../root/tag/collection.tt:1
 #, perl-format
 msgid "No collections with this tag were found."
-msgstr ""
+msgstr "Geen collecties met dit etiket gevonden."
 
 #: ../root/release/sidebar.tt:6
 #, perl-format
@@ -9863,7 +9863,7 @@ msgstr ""
 #: ../root/tag/label.tt:1
 #, perl-format
 msgid "No labels with this tag were found."
-msgstr ""
+msgstr "Geen platenmaatschappijen met dit etiket gevonden."
 
 #: DB:language/name:486
 msgid "No linguistic content"
@@ -9975,7 +9975,7 @@ msgstr ""
 #: ../root/tag/work.tt:1
 #, perl-format
 msgid "No works with this tag were found."
-msgstr ""
+msgstr "Geen composities met dit etiket gevonden."
 
 #: ../root/statistics/index.tt:531
 #, perl-format
@@ -10299,7 +10299,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:350
 #, perl-format
 msgid "Open in tagger"
-msgstr ""
+msgstr "Open in de tagger"
 
 #: ../root/statistics/index.tt:453
 #, perl-format
@@ -10786,7 +10786,7 @@ msgstr ""
 msgid ""
 "Please enter tags in the text area below. Tags are comma separated, and you "
 "may wish to see the {tagsyn|tag syntax documentation} for more information"
-msgstr ""
+msgstr "Voer etiketten alstublieft in het veld hieronder in. Etiketten worden gescheiden door komma's, en u kunt de {tagsyn|etiket syntaxinformatie} raadplegen voor meer informatie."
 
 #: ../root/release/edit/information.tt:157
 #, perl-format
@@ -11364,7 +11364,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:35
 #, perl-format
 msgid "Ratings and Tags"
-msgstr ""
+msgstr "Beoordelingen en etiketten"
 
 #: ../root/annotation/common.tt:11
 #, perl-format
@@ -12455,7 +12455,7 @@ msgstr ""
 #: ../root/layout/menu.tt:247
 #, perl-format
 msgid "Report a Bug"
-msgstr ""
+msgstr "Een bug rapporteren"
 
 #: ../root/layout/menu.tt:251
 #, perl-format
@@ -13899,17 +13899,17 @@ msgstr "Etiket"
 #: ../root/taglookup/index.tt:1 ../root/taglookup/index.tt:3
 #, perl-format
 msgid "Tag Lookup"
-msgstr ""
+msgstr "Het opzoeken van etiketten"
 
 #: ../root/taglookup/results.tt:1 ../root/taglookup/results.tt:3
 #, perl-format
 msgid "Tag Lookup Results"
-msgstr ""
+msgstr "Resultaten van het opzoeken van etiketten"
 
 #: ../root/tag/not_found.tt:1 ../root/tag/not_found.tt:2
 #, perl-format
 msgid "Tag Not Used"
-msgstr ""
+msgstr "Etiket niet in gebruik"
 
 #: ../root/main/index.tt:5
 #, perl-format
@@ -22360,7 +22360,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "{about|More Information} &mdash; {faq|FAQs} &mdash; {contact|Contact Us}"
-msgstr "{about | Meer informatie} &mdash; {faq | FAQ's} &mdash; {contact | Neem contact met ons op}"
+msgstr "{about|Meer informatie} &mdash; {faq|FAQ's} &mdash; {contact|Neem contact met ons op}"
 
 #: DB:link_type/link_phrase:293 DB:link_type/link_phrase:295
 #: DB:link_type/link_phrase:297 DB:link_type/short_link_phrase:293
@@ -23275,7 +23275,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:91
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found."
-msgstr ""
+msgstr "De gebruiker met het ID '{user_id}' kon niet worden gevonden."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:134
 msgid ""
@@ -23302,7 +23302,7 @@ msgstr "Onze excuses, deze verwijzing om het paswoord opnieuw in te stellen is v
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found"
-msgstr ""
+msgstr "De gebruiker met het ID '{user_id}' kon niet worden gevonden"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:256
 msgid "There is no user with this email"
@@ -23322,12 +23322,12 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:498
 msgid "You cannot merge a special purpose artist into another artist"
-msgstr ""
+msgstr "U kunt een speciale artiest niet samenvoegen met een normale artiest."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:617
 #, perl-brace-format
 msgid "This collaboration has been split in edit #{id}."
-msgstr ""
+msgstr "Deze samenwerking is gesplitst in wijziging #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/AutoEditorElections.pm:70
 #, perl-brace-format
@@ -23382,7 +23382,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:433
 msgid "Target entity not found"
-msgstr ""
+msgstr "Doelopbject niet gevonden"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:527
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:535
@@ -23396,7 +23396,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/FreeDB.pm:37
 #, perl-brace-format
 msgid "'{id}' is not a valid FreeDB ID"
-msgstr ""
+msgstr "'{id}' is geen geldig ID van FreeDB"
 
 #: ../lib/MusicBrainz/Server/Controller/ISRC.pm:57
 msgid "This ISRC does not exist"
@@ -23806,7 +23806,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
-msgstr ""
+msgstr "Wikidocumentatie"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
@@ -23838,16 +23838,16 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
-msgstr ""
+msgstr "[geen]"
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"
-msgstr ""
+msgstr "De streepjescode moet geldig zijn"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:42
 #, perl-brace-format
 msgid "Please add an artist name for {credit}"
-msgstr ""
+msgstr "Voeg alstublieft een artiestennaam in voor {credit}"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:55
 #, perl-brace-format
@@ -23899,11 +23899,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:61
 msgid "Another medium is already in this position"
-msgstr ""
+msgstr "Er is al een ander medium op deze positie"
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:64
 msgid "Positions must be greater than 0"
-msgstr ""
+msgstr "Posities moeten groter zijn dan 0"
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
@@ -24207,7 +24207,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:73
 msgid "Add Missing Entities"
-msgstr ""
+msgstr "Voeg ontbrekende objecten toe"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:120
 msgid "Release Duplicates"

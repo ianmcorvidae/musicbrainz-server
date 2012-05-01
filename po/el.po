@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 16:59+0000\n"
+"PO-Revision-Date: 2012-05-01 17:59+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -757,7 +757,7 @@ msgstr "Προσθήκη νέας κυκλοφορίας"
 #: ../root/edit/notes.tt:39
 #, perl-format
 msgid "Add an edit note"
-msgstr "Προσθήκη ενός σημειώματος επεξεργασίας"
+msgstr ""
 
 #: ../root/artist/layout.tt:80 ../root/label/layout.tt:59
 #: ../root/recording/layout.tt:37 ../root/release_group/layout.tt:36
@@ -1009,7 +1009,7 @@ msgstr "Αλβανία"
 
 #: DB:language/name:12
 msgid "Albanian"
-msgstr ""
+msgstr "Αλβανικά"
 
 #: DB:release_group_type/name:1
 msgid "Album"
@@ -1257,7 +1257,7 @@ msgstr[1] "{n} ανώνυμοι χρήστες"
 msgid ""
 "An error occured while creating your account.  Make sure javascript and "
 "cookies are enabled in your browser."
-msgstr ""
+msgstr "Προέκυψε σφάλμα κατά τη δημιουργία του λογαριασμού σας. Σιγουρευτείτε ότι το javascript και τα cookies είναι ενεργοποιημένα στον browser σας."
 
 #: ../root/edit/index.tt:21 ../root/edit/list.tt:68
 #: ../root/release/edit/editnote.tt:27
@@ -1268,7 +1268,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:117
 #, perl-format
 msgid "An error occured: "
-msgstr ""
+msgstr "Προέκυψε ένα σφάλμα: "
 
 #: DB:link_attribute_type/description:403
 #, perl-format
@@ -1279,7 +1279,7 @@ msgstr ""
 
 #: DB:country/name:5
 msgid "Andorra"
-msgstr ""
+msgstr "Ανδόρα"
 
 #: DB:language/name:475
 msgid "Angika"
@@ -1287,11 +1287,11 @@ msgstr ""
 
 #: DB:country/name:6
 msgid "Angola"
-msgstr ""
+msgstr "Ανγκόλα"
 
 #: DB:country/name:7
 msgid "Anguilla"
-msgstr ""
+msgstr "Ανγκουίλα"
 
 #: ../root/annotation/common.tt:2 ../root/artist/annotation_revision.tt:1
 #: ../root/edit/details/historic/add_release_annotation.tt:13
@@ -1346,15 +1346,15 @@ msgstr ""
 
 #: DB:country/name:8
 msgid "Antarctica"
-msgstr ""
+msgstr "Ανταρκτική"
 
 #: DB:country/name:9
 msgid "Antigua and Barbuda"
-msgstr ""
+msgstr "Αντίγκουα και Μπαρμπούντα"
 
 #: DB:language/name:17
 msgid "Apache languages"
-msgstr ""
+msgstr "Γλώσσες Απάτσι"
 
 #: DB:link_attribute_type/description:90 DB:link_attribute_type/name:90
 #, perl-format
@@ -1394,7 +1394,7 @@ msgstr ""
 
 #: DB:language/name:18 DB:script/name:18
 msgid "Arabic"
-msgstr ""
+msgstr "Αραβικά"
 
 #: DB:language/name:20
 msgid "Aragonese"
@@ -1434,12 +1434,12 @@ msgstr ""
 msgid ""
 "Are you sure you want to delete all information about {e}? This cannot be "
 "undone!"
-msgstr ""
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε όλες τις πληροφορίες σχετικά με {e}; Αυτό δεν μπορεί να αναιρεθεί!"
 
 #: ../root/admin/delete_user.tt:19
 #, perl-format
 msgid "Are you sure you want to delete your account? This cannot be undone!"
-msgstr ""
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το λογαριασμό σας; Αυτό δεν μπορεί να αναιρεθεί!"
 
 #: ../root/elections/nominate.tt:5
 #, perl-format
@@ -1453,7 +1453,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to remove the PUID <code>{puid}</code> from "
 "{recording} by {ac}?"
-msgstr ""
+msgstr "Είστε σίγουροι ότι θέλετε να καταργήσετε το PUID <code>{puid}</code> από το {recording} από {ac};"
 
 #: ../root/artist/delete_alias.tt:7
 #, perl-format
@@ -1479,7 +1479,7 @@ msgstr ""
 #: ../root/collection/delete.tt:4
 #, perl-format
 msgid "Are you sure you want to remove the collection {collection}?"
-msgstr ""
+msgstr "Είστε σίγουροι ότι θέλετε να καταργήσετε τη συλλογή {collection};"
 
 #: ../root/cdtoc/remove.tt:5
 #, perl-format
@@ -1657,12 +1657,12 @@ msgstr ""
 #: ../root/artist/not_found.tt:1 ../root/artist/not_found.tt:2
 #, perl-format
 msgid "Artist Not Found"
-msgstr ""
+msgstr "Δε βρέθηκε ο καλλιτέχνης"
 
 #: ../root/statistics/view_js.tt:155
 #, perl-format
 msgid "Artist Ratings"
-msgstr ""
+msgstr "Βαθμολογία καλλιτέχνη"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
@@ -1687,12 +1687,12 @@ msgstr "Είδη Καλλιτέχνη και Φύλα "
 #: ../root/components/forms.tt:223
 #, perl-format
 msgid "Artist as credited"
-msgstr ""
+msgstr "Καλλιτέχνης όπως εμφανίζεται"
 
 #: ../root/release/edit/tracklist.tt:45
 #, perl-format
 msgid "Artist as credited on this track"
-msgstr ""
+msgstr "Καλλιτέχνης όπως εμφανίζεται σε αυτό το κομμάτι"
 
 #: ../root/edit/details/edit_medium.tt:212
 #, perl-format
@@ -1702,32 +1702,32 @@ msgstr ""
 #: ../root/components/forms.tt:207 ../root/release/edit/tracklist.tt:44
 #, perl-format
 msgid "Artist in MusicBrainz"
-msgstr ""
+msgstr "Καλλιτέχνης στο MusicBrainz"
 
 #: ../root/artist/layout.tt:4
 #, perl-format
 msgid "Artist information"
-msgstr ""
+msgstr "Πληροφορίες για τον καλλιτέχνη"
 
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
 msgid "Artist name:"
-msgstr ""
+msgstr "Όνομα καλλιτέχνη:"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Artist ratings"
-msgstr ""
+msgstr "Βαθμολογίες καλλιτέχνη"
 
 #: ../root/cdstub/edit.tt:67
 #, perl-format
 msgid "Artist {n}:"
-msgstr ""
+msgstr "Καλλιτέχνης {n}:"
 
 #: ../root/statistics/index.tt:571
 #, perl-format
 msgid "Artist-Artist:"
-msgstr ""
+msgstr "Καλλιτέχνης-Καλλιτέχνης"
 
 #: ../root/statistics/index.tt:577
 #, perl-format
@@ -1737,7 +1737,7 @@ msgstr "Καλλιτέχνης-Δισκογραφική εταιρεία"
 #: ../root/statistics/index.tt:583
 #, perl-format
 msgid "Artist-Recording:"
-msgstr ""
+msgstr "Καλλιτέχνης-Ηχογράφηση"
 
 #: ../root/statistics/index.tt:595
 #, perl-format
@@ -1747,12 +1747,12 @@ msgstr ""
 #: ../root/statistics/index.tt:589
 #, perl-format
 msgid "Artist-Release:"
-msgstr ""
+msgstr "Καλλιτέχνης-Κυκλοφορία"
 
 #: ../root/statistics/index.tt:601
 #, perl-format
 msgid "Artist-URL:"
-msgstr ""
+msgstr "Καλλιτέχνης-URL"
 
 #: ../root/statistics/index.tt:607
 #, perl-format
@@ -1787,7 +1787,7 @@ msgstr ""
 #: ../root/taglookup/form.tt:4
 #, perl-format
 msgid "Artist:"
-msgstr ""
+msgstr "Καλλιτέχνης:"
 
 #: ../root/artist/works.tt:18 ../root/otherlookup/results-work.tt:9
 #: ../root/release/edit/missing_entities.tt:37 ../root/report/index.tt:14
@@ -1796,7 +1796,7 @@ msgstr ""
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Artists"
-msgstr ""
+msgstr "Καλλιτέχνες"
 
 #: ../root/statistics/view_js.tt:111
 #, perl-format
@@ -1811,25 +1811,25 @@ msgstr ""
 #: ../root/browse/artist.tt:8
 #, perl-format
 msgid "Artists starting with “{index}”"
-msgstr ""
+msgstr "Καλλιτέχνες που ξεκινάνε με “{index}”"
 
 #: ../root/report/possible_collaborations.tt:1
 #: ../root/report/possible_collaborations.tt:3
 #, perl-format
 msgid "Artists that may be collaborations"
-msgstr ""
+msgstr "Καλλιτέχνες που μπορεί να είναι συνεργασίες"
 
 #: ../root/report/artists_that_may_be_groups.tt:1
 #: ../root/report/artists_that_may_be_groups.tt:3 ../root/report/index.tt:17
 #, perl-format
 msgid "Artists that may be groups"
-msgstr ""
+msgstr "Καλλιτέχνες που μπορεί να είναι συγκροτήματα"
 
 #: ../root/report/artists_that_may_be_persons.tt:1
 #: ../root/report/artists_that_may_be_persons.tt:3 ../root/report/index.tt:18
 #, perl-format
 msgid "Artists that may be persons"
-msgstr ""
+msgstr "Καλλιτέχνες που μπορεί να είναι πρόσωπα"
 
 #: ../root/report/index.tt:20
 #, perl-format
@@ -1839,7 +1839,7 @@ msgstr ""
 #: ../root/report/index.tt:21
 #, perl-format
 msgid "Artists which look like collaborations"
-msgstr ""
+msgstr "Καλλιτέχνες που μοιάζουν με συνεργασίες"
 
 #: ../root/report/collaboration_relationships.tt:1
 #: ../root/report/collaboration_relationships.tt:3
@@ -1905,11 +1905,11 @@ msgstr ""
 #: ../root/statistics/index.tt:17 ../root/statistics/index.tt:116
 #, perl-format
 msgid "Artists:"
-msgstr ""
+msgstr "Καλλιτέχνες:"
 
 #: DB:country/name:12
 msgid "Aruba"
-msgstr ""
+msgstr "Αρούμπα"
 
 #: DB:language/name:26
 msgid "Assamese"
@@ -1918,24 +1918,24 @@ msgstr ""
 #: ../root/recording/fingerprints.tt:3
 #, perl-format
 msgid "Associated AcoustIDs"
-msgstr ""
+msgstr "Συνδεδεμένα AcoustIDs"
 
 #: ../root/recording/fingerprints.tt:5
 #, perl-format
 msgid "Associated PUIDs"
-msgstr ""
+msgstr "Συνδεδεμένα PUIDs"
 
 #: ../root/puid/index.tt:5
 #, perl-format
 msgid "Associated with recordings"
-msgstr ""
+msgstr "Συνδεδεμένο με ηχογραφήσεις"
 
 #: ../root/isrc/index.tt:5
 #, perl-format
 msgid "Associated with {num} recording"
 msgid_plural "Associated with {num} recordings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Συνδεδεμένο με {num} ηχογράφηση"
+msgstr[1] "Συνδεδεμένο με {num} ηχογραφήσεις"
 
 #: DB:language/name:27
 msgid "Asturian"
@@ -1943,7 +1943,7 @@ msgstr ""
 
 #: DB:language/name:28
 msgid "Athapascan languages"
-msgstr ""
+msgstr "Αλβανικά"
 
 #: ../root/cdtoc/attach_artist_releases.tt:1
 #: ../root/cdtoc/attach_artist_releases.tt:35
@@ -2073,36 +2073,36 @@ msgstr ""
 
 #: DB:country/name:15
 msgid "Azerbaijan"
-msgstr ""
+msgstr "Αζερμπαϊτζάν"
 
 #: DB:language/name:34
 msgid "Azerbaijani"
-msgstr ""
+msgstr "Αζέρικα"
 
 #: DB:link_type/link_phrase:190
 #, perl-format
 msgid "BBC Music"
-msgstr ""
+msgstr "BBC Music"
 
 #: DB:link_type/reverse_link_phrase:190
 #, perl-format
 msgid "BBC Music page for"
-msgstr ""
+msgstr "Σελίδα του BBC Music για"
 
 #: ../root/browse/page_selector.tt:54
 #, perl-format
 msgid "Back"
-msgstr ""
+msgstr "Πίσω"
 
 #: ../root/elections/show.tt:5
 #, perl-format
 msgid "Back to elections"
-msgstr ""
+msgstr "Πίσω στις ψηφοφορίες"
 
 #: DB:link_attribute_type/description:12
 #, perl-format
 msgid "Background vocal"
-msgstr ""
+msgstr "Δεύτερα φωνητικά"
 
 #: ../root/report/bad_amazon_urls.tt:1 ../root/report/bad_amazon_urls.tt:3
 #, perl-format
@@ -2123,11 +2123,11 @@ msgstr ""
 
 #: DB:country/name:16
 msgid "Bahamas"
-msgstr ""
+msgstr "Μπαχάμες"
 
 #: DB:country/name:17
 msgid "Bahrain"
-msgstr ""
+msgstr "Μπαχρέιν"
 
 #: DB:link_attribute_type/description:444
 #, perl-format
@@ -2140,7 +2140,7 @@ msgstr ""
 
 #: DB:work_type/name:2
 msgid "Ballet"
-msgstr ""
+msgstr "Μπαλέτο"
 
 #: DB:language/name:43
 msgid "Baltic languages"
@@ -2183,7 +2183,7 @@ msgstr ""
 
 #: DB:country/name:18
 msgid "Bangladesh"
-msgstr ""
+msgstr "Μπαγκλαντές"
 
 #: DB:link_attribute_type/description:479
 #, perl-format
@@ -2203,14 +2203,14 @@ msgstr ""
 
 #: DB:country/name:19
 msgid "Barbados"
-msgstr ""
+msgstr "Μπαρμπάντος"
 
 #: ../root/cdtoc/list.tt:12 ../root/edit/details/edit_release_events.tt:9
 #: ../root/edit/details/historic/add_release.tt:79
 #: ../root/release_group/index.tt:19 ../root/release_group/releases-list.tt:28
 #, perl-format
 msgid "Barcode"
-msgstr ""
+msgstr "Barcode"
 
 #: ../root/cdstub/edit.tt:56 ../root/cdstub/layout.tt:15
 #: ../root/edit/details/add_release.tt:81
@@ -2219,17 +2219,17 @@ msgstr ""
 #: ../root/release/edit/information.tt:98 ../root/release/sidebar.tt:12
 #, perl-format
 msgid "Barcode:"
-msgstr ""
+msgstr "Barcode:"
 
 #: ../root/statistics/view_js.tt:115
 #, perl-format
 msgid "Barcodes"
-msgstr ""
+msgstr "Barcodes"
 
 #: ../root/statistics/index.tt:103
 #, perl-format
 msgid "Barcodes:"
-msgstr ""
+msgstr "Bardcodes:"
 
 #: DB:language/name:42
 msgid "Basa"
@@ -2240,7 +2240,7 @@ msgstr ""
 msgid ""
 "Based on the above CD stub, we also found the following releases in "
 "MusicBrainz that may be related:"
-msgstr ""
+msgstr "Με βάση το παραπάνω CD stub, βρήκαμε τις ακόλουθες κυκλοφορίες στο MusicBrainz οι οποίοι ίσως είναι σχετικές:"
 
 #: ../root/release/edit/duplicates.tt:13
 #, perl-format
@@ -2261,7 +2261,7 @@ msgstr ""
 
 #: DB:language/name:41
 msgid "Basque"
-msgstr ""
+msgstr "Βασκικά"
 
 #: DB:link_attribute_type/description:277
 #, perl-format
@@ -2334,7 +2334,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:70
 #, perl-format
 msgid "Began:"
-msgstr ""
+msgstr "Ξεκίνησε:"
 
 #: ../root/search/lib/inline-results-artist.tt:10
 #: ../root/search/results-label.tt:14
@@ -2368,7 +2368,7 @@ msgstr ""
 
 #: DB:country/name:20
 msgid "Belarus"
-msgstr ""
+msgstr "Λευκορωσία"
 
 #: DB:language/name:45
 msgid "Belarusian"
@@ -2376,7 +2376,7 @@ msgstr ""
 
 #: DB:country/name:21
 msgid "Belgium"
-msgstr ""
+msgstr "Βέλγιο"
 
 #: DB:country/name:22
 msgid "Belize"
@@ -2397,11 +2397,11 @@ msgstr ""
 #: DB:link_attribute_type/description:420
 #, perl-format
 msgid "Bendir, frame drum from North Africa, doesn't have jingles"
-msgstr ""
+msgstr "Μπεντίρ, τύμπανο από τη Βόρειο Αφρική, χωρίς ζίλια"
 
 #: DB:language/name:47 DB:script/name:53
 msgid "Bengali"
-msgstr ""
+msgstr "Μπενγκάλι"
 
 #: DB:country/name:23
 msgid "Benin"
@@ -2413,7 +2413,7 @@ msgstr ""
 
 #: DB:country/name:24
 msgid "Bermuda"
-msgstr ""
+msgstr "Βερμούδα"
 
 #: DB:medium_format/name:24
 msgid "Betamax"
@@ -2472,11 +2472,11 @@ msgstr ""
 #: ../root/layout/menu.tt:113
 #, perl-format
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: DB:medium_format/name:20
 msgid "Blu-ray"
-msgstr ""
+msgstr "Blu-ray"
 
 #: DB:link_attribute_type/description:504
 #, perl-format
@@ -2511,15 +2511,15 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:71
 #, perl-format
 msgid "Born:"
-msgstr ""
+msgstr "Γεννήθηκε:"
 
 #: DB:country/name:27
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "Βοσνία και Ερζεγοβίνη"
 
 #: DB:language/name:56
 msgid "Bosnian"
-msgstr ""
+msgstr "Βοσνιακά"
 
 #: ../root/admin/edit_user.tt:11
 #, perl-format
@@ -2537,7 +2537,7 @@ msgstr ""
 
 #: DB:country/name:29
 msgid "Bouvet Island"
-msgstr ""
+msgstr "Νήσος Μπουβέ"
 
 #: DB:script/name:47
 msgid "Brahmi"
@@ -2545,7 +2545,7 @@ msgstr ""
 
 #: DB:script/name:96
 msgid "Braille"
-msgstr ""
+msgstr "Μπράιγ"
 
 #: DB:language/name:57
 msgid "Braj"
@@ -2553,15 +2553,15 @@ msgstr ""
 
 #: DB:country/name:30
 msgid "Brazil"
-msgstr ""
+msgstr "Βραζιλία"
 
 #: DB:language/name:58
 msgid "Breton"
-msgstr ""
+msgstr "Μπρετόν"
 
 #: DB:country/name:31
 msgid "British Indian Ocean Territory"
-msgstr ""
+msgstr "Βρετανικό έδαφος Ινδικού Ωκεανού"
 
 #: ../root/browse/index.tt:1 ../root/browse/index.tt:3
 #: ../root/layout/menu.tt:161
@@ -2633,7 +2633,7 @@ msgstr ""
 
 #: DB:country/name:32
 msgid "Brunei Darussalam"
-msgstr ""
+msgstr "Μπρουνέι Νταρουσαλάμ"
 
 #: ../root/layout.tt:144
 #, perl-format
@@ -2650,11 +2650,11 @@ msgstr ""
 
 #: DB:country/name:33
 msgid "Bulgaria"
-msgstr ""
+msgstr "Βουλγαρία"
 
 #: DB:language/name:62
 msgid "Bulgarian"
-msgstr ""
+msgstr "Βουλγαρικά"
 
 #: DB:language/name:60
 msgid "Buriat"
@@ -2662,11 +2662,11 @@ msgstr ""
 
 #: DB:country/name:34
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Μπουρκίνα Φάσο"
 
 #: DB:language/name:63
 msgid "Burmese"
-msgstr ""
+msgstr "Βιρμανικά"
 
 #: DB:country/name:35
 msgid "Burundi"
@@ -2674,22 +2674,22 @@ msgstr ""
 
 #: DB:medium_format/name:1
 msgid "CD"
-msgstr ""
+msgstr "CD"
 
 #: ../root/release/lookup.tt:1
 #, perl-format
 msgid "CD Lookup"
-msgstr ""
+msgstr "Αναζήτηση CD"
 
 #: ../root/release/lookup.tt:2
 #, perl-format
 msgid "CD Lookup results"
-msgstr ""
+msgstr "Αποτελέσματα αναζήτησης CD"
 
 #: ../root/cdtoc/lookup.tt:82
 #, perl-format
 msgid "CD Not Found"
-msgstr ""
+msgstr "CD δε βρέθηκε"
 
 #: ../root/search/results-cdstub.tt:10
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
@@ -2700,12 +2700,12 @@ msgstr ""
 #: ../root/cdstub/error.tt:2
 #, perl-format
 msgid "CD Stub Not Found"
-msgstr ""
+msgstr "CD Stub Δε Βρέθηκε"
 
 #: ../root/cdtoc/lookup.tt:17
 #, perl-format
 msgid "CD Stub found"
-msgstr ""
+msgstr "CD Stub βρέθηκε"
 
 #: ../root/statistics/index.tt:60
 #, perl-format
@@ -2715,27 +2715,27 @@ msgstr ""
 #: ../root/cdtoc/not_found.tt:1 ../root/cdtoc/not_found.tt:2
 #, perl-format
 msgid "CD TOC Not Found"
-msgstr ""
+msgstr "CD TOC Δε Βρέθηκε"
 
 #: ../root/cdtoc/info.tt:1
 #, perl-format
 msgid "CD TOC details"
-msgstr ""
+msgstr "Λεπτομέρειες CD TOC"
 
 #: ../root/edit/details/historic/add_disc_id.tt:13
 #, perl-format
 msgid "CD TOC:"
-msgstr ""
+msgstr "CD TOC:"
 
 #: ../root/cdstub/header.tt:5
 #, perl-format
 msgid "CD stub by {artist}"
-msgstr ""
+msgstr "CD stub από {artist}"
 
 #: ../root/cdstub/edit.tt:53
 #, perl-format
 msgid "CD stub details"
-msgstr ""
+msgstr "Λεπτομέρειες CD Stub"
 
 #: ../root/release/edit/tracklist.tt:172
 #, perl-format
@@ -2757,7 +2757,7 @@ msgstr ""
 
 #: DB:medium_format/name:33
 msgid "CD-R"
-msgstr ""
+msgstr "CD-R"
 
 #: ../root/statistics/view_js.tt:119
 #, perl-format
@@ -2767,7 +2767,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:117
 #, perl-format
 msgid "CDStubs (all)"
-msgstr ""
+msgstr "CDStubs (όλα)"
 
 #: ../root/statistics/view_js.tt:118
 #, perl-format
@@ -2785,20 +2785,20 @@ msgstr ""
 
 #: DB:country/name:36
 msgid "Cambodia"
-msgstr ""
+msgstr "Καμπότζη"
 
 #: DB:country/name:37
 msgid "Cameroon"
-msgstr ""
+msgstr "Καμερούν"
 
 #: ../root/doc/edit_type.tt:65
 #, perl-format
 msgid "Can be approved"
-msgstr ""
+msgstr "Μπορεί να εγκριθεί"
 
 #: DB:country/name:38
 msgid "Canada"
-msgstr ""
+msgstr "Καναδάς"
 
 #: DB:script/name:87
 msgid "Canadian Syllabics"
@@ -2817,7 +2817,7 @@ msgstr ""
 #: ../root/work/merge.tt:19
 #, perl-format
 msgid "Cancel"
-msgstr ""
+msgstr "Ακύρωση"
 
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
@@ -2838,7 +2838,7 @@ msgstr ""
 #: ../root/elections/show.tt:97
 #, perl-format
 msgid "Cancel the election"
-msgstr ""
+msgstr "Ακύρωση ψηφοφορίας"
 
 #: ../root/statistics/view_js.tt:54
 #, perl-format
@@ -2848,7 +2848,7 @@ msgstr ""
 #: ../root/statistics/index.tt:489
 #, perl-format
 msgid "Cancelled:"
-msgstr ""
+msgstr "Ακυρώθηκε:"
 
 #: ../root/artist/delete_alias.tt:17 ../root/label/delete_alias.tt:16
 #, perl-format
@@ -2867,12 +2867,12 @@ msgstr ""
 #: ../root/elections/index.tt:9
 #, perl-format
 msgid "Candidate"
-msgstr ""
+msgstr "Υποψήφιος"
 
 #: ../root/elections/show.tt:11
 #, perl-format
 msgid "Candidate:"
-msgstr ""
+msgstr "Υποψήφιος:"
 
 #: ../root/edit/relationship/cannot_create.tt:1
 #: ../root/edit/relationship/cannot_create.tt:2
@@ -2892,11 +2892,11 @@ msgstr ""
 
 #: DB:work_type/name:3
 msgid "Cantata"
-msgstr ""
+msgstr "Καντάτα"
 
 #: DB:country/name:39
 msgid "Cape Verde"
-msgstr ""
+msgstr "Πράσινο Ακρωτήριο"
 
 #: DB:release_packaging/name:4
 msgid "Cardboard/Paper Sleeve"
@@ -2912,7 +2912,7 @@ msgstr ""
 
 #: DB:medium_format/name:8
 msgid "Cassette"
-msgstr ""
+msgstr "Κασέτα"
 
 #: ../root/release/edit/information.tt:75
 #, perl-format
@@ -2921,18 +2921,18 @@ msgstr ""
 
 #: DB:language/name:68
 msgid "Catalan"
-msgstr ""
+msgstr "Καταλανικά"
 
 #: ../root/edit/details/historic/add_release.tt:78
 #: ../root/report/cat_no_looks_like_asin.tt:15
 #, perl-format
 msgid "Catalog Number"
-msgstr ""
+msgstr "Αριθμός Καταλόγου"
 
 #: ../root/edit/details/edit_release_events.tt:8
 #, perl-format
 msgid "Catalog number"
-msgstr ""
+msgstr "Αριθμός καταλόγου"
 
 #: ../root/edit/details/add_release_label.tt:13
 #: ../root/edit/details/edit_release_label.tt:17
@@ -2940,14 +2940,14 @@ msgstr ""
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Catalog number:"
-msgstr ""
+msgstr "Αριθμός καταλόγου:"
 
 #: ../root/cdtoc/list.tt:11 ../root/collection/index.tt:17
 #: ../root/recording/index.tt:17 ../root/release_group/index.tt:18
 #: ../root/release_group/releases-list.tt:27 ../root/tracklist/index.tt:34
 #, perl-format
 msgid "Catalog#"
-msgstr ""
+msgstr "#Κατάλογου"
 
 #: DB:language/name:69
 msgid "Caucasian languages"
@@ -2955,7 +2955,7 @@ msgstr ""
 
 #: DB:country/name:40
 msgid "Cayman Islands"
-msgstr ""
+msgstr "Νησιά Καϋμάν"
 
 #: DB:language/name:70
 msgid "Cebuano"
@@ -2967,7 +2967,7 @@ msgstr ""
 
 #: DB:country/name:41
 msgid "Central African Republic"
-msgstr ""
+msgstr "Κεντροαφρικανική Δημοκρατία"
 
 #: DB:language/name:66
 msgid "Central American Indian languages"
@@ -2980,7 +2980,7 @@ msgstr ""
 
 #: DB:country/name:42
 msgid "Chad"
-msgstr ""
+msgstr "Τσαντ"
 
 #: DB:language/name:75
 msgid "Chagatai"
@@ -2997,7 +2997,7 @@ msgstr ""
 #: DB:link_attribute_type/description:245
 #, perl-format
 msgid "Chamber orchestra"
-msgstr ""
+msgstr "Ορχήστρα δωματίου"
 
 #: DB:link_attribute_type/description:330 DB:link_attribute_type/name:330
 #, perl-format
@@ -3029,7 +3029,7 @@ msgstr ""
 #: ../root/account/change_password.tt:15 ../root/layout/menu.tt:10
 #, perl-format
 msgid "Change Password"
-msgstr ""
+msgstr "Αλλαγή Κωδικού"
 
 #: ../root/edit/relationship/create.tt:48
 #: ../root/edit/relationship/create.tt:51 ../root/edit/relationship/edit.tt:76
@@ -3076,7 +3076,7 @@ msgstr ""
 #: ../root/edit/index.tt:17
 #, perl-format
 msgid "Changes"
-msgstr ""
+msgstr "Αλλαγές"
 
 #: DB:link_attribute_type/description:238 DB:link_attribute_type/name:238
 #, perl-format
@@ -3118,25 +3118,25 @@ msgstr ""
 
 #: DB:country/name:43
 msgid "Chile"
-msgstr ""
+msgstr "Χιλή"
 
 #: DB:country/name:44
 msgid "China"
-msgstr ""
+msgstr "Κίνα"
 
 #: DB:language/name:76
 msgid "Chinese"
-msgstr ""
+msgstr "Κινέζικα"
 
 #: DB:link_attribute_type/description:290
 #, perl-format
 msgid "Chinese double bass"
-msgstr ""
+msgstr "Κινέζικο κοντραμπάσο"
 
 #: DB:link_attribute_type/description:287
 #, perl-format
 msgid "Chinese viola"
-msgstr ""
+msgstr "Κινέζικη βιόλα"
 
 #: DB:link_attribute_type/description:289
 #, perl-format
@@ -3186,22 +3186,22 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:78
 #, perl-format
 msgid "Clear artist"
-msgstr ""
+msgstr "Διαγραφή καλλιτέχνη"
 
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
 msgid "Clear label"
-msgstr ""
+msgstr "Διαγραφή δισκογραφικής εταιρείας"
 
 #: ../root/scripts/text_strings.tt:80
 #, perl-format
 msgid "Clear recording"
-msgstr ""
+msgstr "Διαγραφή ηχογράφησης"
 
 #: ../root/scripts/text_strings.tt:81
 #, perl-format
 msgid "Clear release"
-msgstr ""
+msgstr "Διαγραφή κυκλοφορίας"
 
 #: ../root/scripts/text_strings.tt:82
 #, perl-format
@@ -3245,7 +3245,7 @@ msgstr ""
 
 #: DB:country/name:46
 msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgstr "Νησιά Κόκος"
 
 #: ../root/search/results-label.tt:13
 #, perl-format
@@ -3271,17 +3271,17 @@ msgstr ""
 #: ../root/layout/menu.tt:92
 #, perl-format
 msgid "Code of Conduct"
-msgstr ""
+msgstr "Κώδικας Δεοντολογίας"
 
 #: ../root/report/collaboration_relationships.tt:19
 #, perl-format
 msgid "Collaboration"
-msgstr ""
+msgstr "Συνεργασία"
 
 #: ../root/report/collaboration_relationships.tt:20
 #, perl-format
 msgid "Collaborator"
-msgstr ""
+msgstr "Συνεργάτης"
 
 #: ../root/admin/linktype/tree.tt:44
 #, perl-format
@@ -3296,12 +3296,12 @@ msgstr ""
 #: ../root/user/collections.tt:9
 #, perl-format
 msgid "Collection"
-msgstr ""
+msgstr "Συλλογή"
 
 #: ../root/collection/not_found.tt:1 ../root/collection/not_found.tt:2
 #, perl-format
 msgid "Collection Not Found"
-msgstr ""
+msgstr "Συλλογή Δε Βρέθηκε"
 
 #: ../root/collection/edit_form.tt:4
 #, perl-format
