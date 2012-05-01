@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 17:39+0000\n"
+"PO-Revision-Date: 2012-05-01 18:58+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -313,7 +313,7 @@ msgid ""
 "license. Furthermore, you give the MetaBrainz Foundation the right to "
 "license this data for commercial use. Please read our {doc|license page} for"
 " more details.</strong>"
-msgstr "<strong>Let op dat alle bijdragen die u doet aan MusicBrainz in het Publiek Domein en/of onder een by-nc-sa licentie van Creative Commons worden vrijgegeven. Daarnaast geeft u de MetaBrainz-stichting het recht om de gegevens voor commercieel gebruik in licentie te geven. Lees onze {doc | licentiepagina} voor meer details.</strong>"
+msgstr "<strong>Let op dat alle bijdragen die u doet aan MusicBrainz in het Publiek Domein en/of onder een by-nc-sa licentie van Creative Commons worden vrijgegeven. Daarnaast geeft u de MetaBrainz-stichting het recht om de gegevens voor commercieel gebruik in licentie te geven. Lees onze {doc|licentiepagina} voor meer details.</strong>"
 
 #: ../root/admin/wikidoc/index.tt:68
 #, perl-format
@@ -334,7 +334,7 @@ msgstr ""
 msgid ""
 "<strong>The ultimate source of music information</strong> by allowing anyone"
 " to contribute and releasing the {doc|data} under {doc2|open licenses}."
-msgstr ""
+msgstr "<strong>De ultieme bron van informatie over muziek</strong> door iedereen bij te laten dragen en de {doc|gegevens} vrij te geven onder {doc2|open licenties}."
 
 #: ../root/main/index.tt:43
 #, perl-format
@@ -342,7 +342,7 @@ msgid ""
 "<strong>The universal lingua franca for music</strong> by providing a "
 "reliable and unambiguous form of {doc|music identification}, enabling both "
 "people and machines to have meaningful conversations about music."
-msgstr "<strong>De universele lingua franca voor muziek</strong> door het betrouwbaar en ondubbelzinnig verstrekken van {doc | identificatie van muziek}, zodat zowel mensen en machines zinvolle gesprekken over muziek kunnen voeren."
+msgstr "<strong>De universele lingua franca voor muziek</strong> door het betrouwbaar en ondubbelzinnig verstrekken van {doc|identificatie van muziek}, zodat zowel mensen als machines zinvolle gesprekken over muziek kunnen voeren."
 
 #: ../root/components/common-macros.tt:587 ../root/recording/edit.tt:41
 #: ../root/release/edit/tracklist.tt:130
@@ -1189,7 +1189,7 @@ msgstr ""
 #: ../root/search/results-recording.tt:7
 #, perl-format
 msgid "Alternatively, you may {uri|add a new recording}."
-msgstr "U kunt ook {uri | een nieuwe opname toevoegen}."
+msgstr "U kunt ook {uri|een nieuwe opname toevoegen}."
 
 #: ../root/search/results-release_group.tt:30
 #: ../root/search/results-release-group.tt:30
@@ -2211,7 +2211,7 @@ msgstr ""
 #: ../root/release_group/index.tt:19 ../root/release_group/releases-list.tt:28
 #, perl-format
 msgid "Barcode"
-msgstr ""
+msgstr "Streepjescode"
 
 #: ../root/cdstub/edit.tt:56 ../root/cdstub/layout.tt:15
 #: ../root/edit/details/add_release.tt:81
@@ -2220,17 +2220,17 @@ msgstr ""
 #: ../root/release/edit/information.tt:98 ../root/release/sidebar.tt:12
 #, perl-format
 msgid "Barcode:"
-msgstr ""
+msgstr "Streepjescode:"
 
 #: ../root/statistics/view_js.tt:115
 #, perl-format
 msgid "Barcodes"
-msgstr ""
+msgstr "Streepjescodes"
 
 #: ../root/statistics/index.tt:103
 #, perl-format
 msgid "Barcodes:"
-msgstr ""
+msgstr "Streepjescodes:"
 
 #: DB:language/name:42
 msgid "Basa"
@@ -2312,7 +2312,7 @@ msgid ""
 "Because you provided an email address, an verification email has been sent "
 "to <code>{addr}</code>. Please check your mailbox and click on the link in "
 "the email to verify the new email address."
-msgstr ""
+msgstr "Omdat u een e-mailadres heeft verstrekt, is er een verificatie-e-mail verstuurd naar <code>{addr}</code>. Kijkt u alstublieft in uw postvak en klikt u op de link in de e-mail om uw nieuwe e-mailadres te verifiëren."
 
 #: ../root/main/index.tt:73
 #, perl-format
@@ -3251,7 +3251,7 @@ msgstr ""
 #: ../root/search/results-label.tt:13
 #, perl-format
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: DB:script/name:159
 msgid "Code for inherited script"
@@ -3272,7 +3272,7 @@ msgstr ""
 #: ../root/layout/menu.tt:92
 #, perl-format
 msgid "Code of Conduct"
-msgstr ""
+msgstr "Gedragscode"
 
 #: ../root/report/collaboration_relationships.tt:19
 #, perl-format
@@ -4304,14 +4304,14 @@ msgstr ""
 msgid ""
 "Describes the fact a person was contracted by a label as a producer. (<a "
 "href=\"http://musicbrainz.org/doc/Producer_Position_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een persoon een contract had bij een platenmaatschappij als producent. (<a href=\"http://musicbrainz.org/doc/Producer_Position_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:120
 #, perl-format
 msgid ""
 "Describes the fact a person was contracted by a label as an engineer. (<a "
 "href=\"http://musicbrainz.org/doc/Engineer_Position_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een persoon een contract had bij een platenmaatschappij als technicus. (<a href=\"http://musicbrainz.org/doc/Engineer_Position_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:115
 #, perl-format
@@ -4319,7 +4319,7 @@ msgid ""
 "Describes the fact a person was contracted by a label in a creative "
 "position. (<a "
 "href=\"http://musicbrainz.org/doc/Creative_Position_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een persoon een contract had bij een platenmaatschappij in een creatieve functie. (<a href=\"http://musicbrainz.org/doc/Creative_Position_Relationship_Type\">Details</a>)"
 
 #: ../root/doc/edit_type.tt:22
 #, perl-format
@@ -4601,7 +4601,7 @@ msgstr ""
 #: ../root/layout.tt:141
 #, perl-format
 msgid "Donate"
-msgstr ""
+msgstr "Doneer"
 
 #: ../root/account/donation.tt:1 ../root/account/donation.tt:3
 #: ../root/user/profile/layout.tt:33
@@ -6314,12 +6314,12 @@ msgstr ""
 #: ../root/release/edit/information.tt:164
 #, perl-format
 msgid "I confirm that this is the barcode as it appears on the release."
-msgstr ""
+msgstr "Ik bevestig dat dit de streepjescode is zoals deze op de release staat."
 
 #: ../root/taglookup/nag.tt:23
 #, perl-format
 msgid "I just donated! Why am I seeing this?"
-msgstr ""
+msgstr "Ik heb net gedoneerd! Waarom zie ik dit?"
 
 #: DB:link_type/link_phrase:99 DB:link_type/link_phrase:195
 #: DB:link_type/reverse_link_phrase:275
@@ -6546,7 +6546,7 @@ msgid ""
 "{cancel|how to cancel pending edits}, to cancel the pending add alias edit. "
 "Removing pending edits, rather than entering new edits helps reduce the "
 "amount of open edits in the system."
-msgstr "Als u deze alias per ongeluk hebt toegevoegd, volg dan alstublieft de instructies over {cancel | hoe wijzigingen te annuleren} om openstaande wijzigingen te annuleren. Het annuleren van openstaande wijzigingen in plaats van nieuwe wijzigingen toe te voegen helpt om het aantal openstaande wijzigingen in het systeem te verminderen."
+msgstr "Als u deze alias per ongeluk hebt toegevoegd, volg dan alstublieft de instructies over {cancel|hoe wijzigingen te annuleren} om openstaande wijzigingen te annuleren. Het annuleren van openstaande wijzigingen in plaats van nieuwe wijzigingen toe te voegen helpt om het aantal openstaande wijzigingen in het systeem te verminderen."
 
 #: ../root/account/edit.tt:7
 #, perl-format
@@ -6589,7 +6589,7 @@ msgid ""
 "We encourage people to donate $12 to make the nag screen disappear for 3 "
 "months. Or even better, sign up for a recurring donation every three months "
 "to not have to think about or see this nag again."
-msgstr ""
+msgstr "Als u <b>$4</b> doneert, krijgt u deze zeurtekst een <b>maand</b> niet te zien. We moedigen mensen aan om $12 te doneren om het zeurscherm drie maanden te laten verdwijnen. Of nog beter, meld uzelf aan voor een periodieke donatie elke drie maanden zodat u nooit meer aan dit gezeur of hoeft te denken of hoeft te zien."
 
 #: ../root/main/403.tt:8
 #, perl-format
@@ -6653,7 +6653,7 @@ msgstr ""
 msgid ""
 "If you would like to make a donation, {donate|you can do that here}. If you "
 "have donated, but you are still being nagged, please {contact|contact us}."
-msgstr "Als u een donatie wilt maken, {donate | kunt u dat hier doen}. Als u heeft gedoneerd. maar nog steeds door ons wordt lastig gevallen, neem dan {contact | contact met ons op}."
+msgstr "Als u een donatie wilt maken, {donate | kunt u dat hier doen}. Als u heeft gedoneerd. maar nog steeds door ons wordt lastig gevallen, neem dan {contact|contact met ons op}."
 
 #: ../root/report/index.tt:6
 #, perl-format
@@ -8483,7 +8483,7 @@ msgid ""
 "Like Wikipedia, MusicBrainz is maintained by a global community of users and"
 " we want everyone &mdash; including you &mdash; to {doc|participate and "
 "contribute}."
-msgstr "Net als Wikipedia wordt MusicBrainz onderhouden door een wereldwijde gemeenschap van gebruikers en we willen dat iedereen &mdash; inclusief uzelf &mdash; {doc | deelneemt en bijdraagt}."
+msgstr "Net als Wikipedia wordt MusicBrainz onderhouden door een wereldwijde gemeenschap van gebruikers en we willen dat iedereen &mdash; inclusief uzelf &mdash; {doc|deelneemt en bijdraagt}."
 
 #: DB:script/name:58
 msgid "Limbu"
@@ -13026,7 +13026,7 @@ msgid ""
 "Should be used to describe the fact an artist signed a recording contract "
 "with a label. (<a "
 "href=\"http://musicbrainz.org/doc/Recording_Contract_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Moet gebruikt worden om aan te geven dat een artiest een platencontract heeft getekend bij een platenmaatschappij. (<a href=\"http://musicbrainz.org/doc/Recording_Contract_Relationship_Type\">Details</a>)"
 
 #: ../root/release/index.tt:11
 #, perl-format
@@ -13204,7 +13204,7 @@ msgstr ""
 #: ../root/layout/menu.tt:89
 #, perl-format
 msgid "Social Contract"
-msgstr ""
+msgstr "Sociaal contract"
 
 #: DB:language/name:389
 msgid "Sogdian"
@@ -14001,7 +14001,7 @@ msgstr ""
 #: ../root/user/tags.tt:1 ../root/work/header.tt:1 ../root/work/tags.tt:1
 #, perl-format
 msgid "Tags"
-msgstr ""
+msgstr "Etiketten"
 
 #: ../root/statistics/index.tt:64
 #, perl-format
@@ -14821,7 +14821,7 @@ msgstr ""
 #: ../root/artist/tags.tt:2
 #, perl-format
 msgid "This artist has no tags."
-msgstr ""
+msgstr "Deze artiest heeft geen etiketten."
 
 #: ../root/artist/cannot_split.tt:3
 #, perl-format
@@ -14922,7 +14922,7 @@ msgstr ""
 #: ../root/collection/tags.tt:2
 #, perl-format
 msgid "This collection has no tags."
-msgstr ""
+msgstr "Deze collectie heeft geen etiketten."
 
 #: DB:link_type/description:274
 #, perl-format
@@ -15200,7 +15200,7 @@ msgstr ""
 #: ../root/label/tags.tt:2
 #, perl-format
 msgid "This label has no tags."
-msgstr ""
+msgstr "Deze platenmaatschappij heeft geen etiketten."
 
 #: DB:link_type/description:192 DB:link_type/description:218
 #, perl-format
@@ -15359,7 +15359,7 @@ msgstr ""
 #: ../root/recording/tags.tt:2
 #, perl-format
 msgid "This recording has no tags."
-msgstr ""
+msgstr "Deze opname heeft geen etiketten."
 
 #: DB:link_type/description:85
 #, perl-format
@@ -15848,7 +15848,7 @@ msgstr ""
 #: ../root/work/tags.tt:2
 #, perl-format
 msgid "This work has no tags."
-msgstr ""
+msgstr "Deze compositie heeft geen etiketten."
 
 #: DB:language/name:416 DB:script/name:55
 msgid "Tibetan"
@@ -17140,7 +17140,7 @@ msgid ""
 "We've sent you information about your MusicBrainz account. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr "We hebben u informatie gestuurd over uw MusicBrainz gebruikersaccount. Als u deze e-mail niet heeft ontvangen of nog steeds problemen heeft met aanmelden, neem dan {link | contact met ons op}."
+msgstr "We hebben u informatie gestuurd over uw MusicBrainz gebruikersaccount. Als u deze e-mail niet heeft ontvangen of nog steeds problemen heeft met aanmelden, neem dan {link|contact met ons op}."
 
 #: ../root/account/lost_password_sent.tt:5
 #, perl-format
@@ -17148,7 +17148,7 @@ msgid ""
 "We've sent you instructions on how to reset your password. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr "We hebben u instructies gestuurd om uw wachtwoord opnieuw in te stellen. Als u deze e-mail niet heeft ontvangen of nog steeds problemen heeft met aanmelden, neem dan {link | contact met ons op}."
+msgstr "We hebben u instructies gestuurd om uw wachtwoord opnieuw in te stellen. Als u deze e-mail niet heeft ontvangen of nog steeds problemen heeft met aanmelden, neem dan {link|contact met ons op}."
 
 #: ../root/account/edit.tt:14 ../root/admin/edit_user.tt:32
 #, perl-format
@@ -18783,7 +18783,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:119
 #, perl-format
 msgid "contract"
-msgstr ""
+msgstr "contract"
 
 #: DB:link_attribute_type/description:230 DB:link_attribute_type/name:230
 #, perl-format
@@ -19487,7 +19487,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:121
 #, perl-format
 msgid "had a recording contract with"
-msgstr ""
+msgstr "had een platencontract met"
 
 #: DB:link_type/short_link_phrase:120
 #, perl-format
@@ -23470,7 +23470,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:133
 msgid "Invalid barcode"
-msgstr ""
+msgstr "Ongeldige streepjescode"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:142
 msgid "There are already MusicBrainz releases with this disc ID"
@@ -23786,7 +23786,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditBarcodes.pm:17
 msgid "Edit barcodes"
-msgstr ""
+msgstr "Wijzig streepjescodes"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
@@ -23879,7 +23879,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
-msgstr ""
+msgstr "Platenmaatschappijcodes moeten tussen nul en zes getallen zijn"
 
 #: ../lib/MusicBrainz/Server/Form/Field/Length.pm:25
 msgid "Not a valid time. Must be in the format MM:SS"
@@ -23947,7 +23947,7 @@ msgstr ""
 msgid ""
 "This barcode is invalid, please check that you've correctly entered the "
 "barcode."
-msgstr ""
+msgstr "Deze streepjescode is ongeldig, controleer alstublieft of u de streepjescode goed heeft ingevoerd."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:106
 msgid ""

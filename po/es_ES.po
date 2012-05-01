@@ -9,13 +9,14 @@
 # Nicolás Tamargo <email address hidden>, 2011, 2012.
 #   <email address hidden>, 2012.
 #   Tobias Quathamer <email address hidden>, 2007.
+#   <email address hidden>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-04-26 19:00+0000\n"
-"Last-Translator: Nicolás Tamargo <email address hidden>\n"
+"PO-Revision-Date: 2012-05-01 18:56+0000\n"
+"Last-Translator: t0n3t <email address hidden>\n"
 "Language-Team: Spanish (Spain) (http://www.transifex.net/projects/p/musicbrainz/language/es_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1152,7 +1153,7 @@ msgstr "Permitir que otros usuarios vean esta colección"
 #: ../root/components/common-macros.tt:508
 #, perl-format
 msgid "Already expired"
-msgstr "Blog"
+msgstr "Ya caducado"
 
 #: DB:link_attribute_type/description:557
 #, perl-format
@@ -5424,7 +5425,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:278
 #, perl-format
 msgid "Expired"
-msgstr ""
+msgstr "Caducado"
 
 #: ../root/components/common-macros.tt:490
 #, perl-format
@@ -8638,7 +8639,7 @@ msgstr "Editores de relación"
 #: ../root/account/lost_password.tt:3
 #, perl-format
 msgid "Lost Password"
-msgstr "Los editores de relaciones son usuarios que pueden añadir o modificar tipos de relaciones en la base de datos. Si quieres proponer una nueva relación, por favor hazlo a través del {url|Consejo de estilo}. Los editores de relaciones sólo harán cambios que hayan sido aprobados por el Consejo de estilo."
+msgstr "Contraseña perdida"
 
 #: ../root/account/lost_username_sent.tt:1 ../root/account/lost_username.tt:1
 #: ../root/account/lost_username.tt:3
@@ -10232,7 +10233,7 @@ msgstr ""
 #: ../root/edit/details/historic/edit_relationship.tt:6
 #, perl-format
 msgid "Old relationships:"
-msgstr ""
+msgstr "Antiguas relaciones:"
 
 #: ../root/edit/details/historic/merge_releases.tt:3
 #, perl-format
@@ -11679,17 +11680,17 @@ msgstr "Atributos de relación"
 #: ../root/edit/relationship/edit.tt:59
 #, perl-format
 msgid "Relationship Details"
-msgstr ""
+msgstr "Detalles de relación"
 
 #: ../root/edit/search_macros.tt:278
 #, perl-format
 msgid "Relationship Type"
-msgstr ""
+msgstr "Tipo de relación"
 
 #: ../root/admin/linktype/in_use.tt:1 ../root/admin/linktype/in_use.tt:2
 #, perl-format
 msgid "Relationship Type In Use"
-msgstr ""
+msgstr "Tipo de relación en uso"
 
 #: ../root/admin/linkattributetype/index.tt:11
 #: ../root/admin/linkattributetype/instruments.tt:12
@@ -11702,7 +11703,7 @@ msgstr "Tipos de relación"
 #: ../root/admin/linkattributetype/in_use.tt:1
 #, perl-format
 msgid "Relationship attribute in use"
-msgstr ""
+msgstr "Atributo de relación en uso"
 
 #: ../root/admin/linkattributetype/in_use.tt:2
 #, perl-format
@@ -11712,12 +11713,12 @@ msgstr ""
 #: ../root/admin/edit_user.tt:8
 #, perl-format
 msgid "Relationship editor"
-msgstr ""
+msgstr "Editor de relaciones"
 
 #: ../root/user/privileged.tt:26
 #, perl-format
 msgid "Relationship editors"
-msgstr ""
+msgstr "Editores de relaciones"
 
 #: ../root/user/privileged.tt:27
 #, perl-format
@@ -11726,7 +11727,7 @@ msgid ""
 "the database. If you would like to propose a new relationship, please do so "
 "through the {url|Style Council}. Relationship editors will only make changes"
 " that have been approved by the Style Council."
-msgstr ""
+msgstr "Los editores de relaciones son usuarios que pueden añadir o modificar tipos de relaciones en la base de datos. Si quieres proponer una nueva relación, por favor hazlo a través del {url|Consejo de estilo}. Los editores de relaciones sólo harán cambios que hayan sido aprobados por el Consejo de estilo."
 
 #: ../root/edit/details/add_relationship.tt:3
 #: ../root/edit/details/edit_relationship.tt:8
@@ -23274,7 +23275,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:82
 msgid "Sorry, this email verification link has expired."
-msgstr ""
+msgstr "Lo sentimos, este enlace de verificación ha caducado."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:91
 #, perl-brace-format
@@ -23301,7 +23302,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:198
 msgid "Sorry, this password reset link has expired."
-msgstr ""
+msgstr "Lo sentimos, este enlace de cambio de contraseña ha caducado."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
@@ -24027,7 +24028,7 @@ msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/User/ChangePassword.pm:37
 msgid "The old password is incorrect"
-msgstr ""
+msgstr "La antigua contraseña no es válida"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:20
 msgid "Invalid URL format"
