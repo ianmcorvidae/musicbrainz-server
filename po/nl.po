@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 20:53+0000\n"
+"PO-Revision-Date: 2012-05-01 21:58+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -322,7 +322,7 @@ msgid ""
 " matches the page name, it will take the version number and provide whatever"
 " page is associated with it. Make sure to double check your work when "
 "updating a page!"
-msgstr ""
+msgstr "<strong>Let op:</strong>MediaWiki controleert niet of het versienummer overeenkomt met de paginanaam, het neemt het versienummer en verstrekt welke pagina daar mee geassocieerd is. Zorg er voor dat u uw werk twee keer controleert als u een pagina bijwerkt!"
 
 #: ../root/components/common-macros.tt:593
 #, perl-format
@@ -454,8 +454,8 @@ msgstr ""
 #, perl-format
 msgid "A private collection"
 msgid_plural "{n} private collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Een privécollectie"
+msgstr[1] "{n} privécollecties"
 
 #: ../root/edit/relationship/create_batch.tt:23
 #: ../root/edit/relationship/create.tt:26
@@ -704,12 +704,12 @@ msgstr ""
 #: ../root/work/create.tt:16
 #, perl-format
 msgid "Add Work"
-msgstr ""
+msgstr "Voeg compositie toe"
 
 #: ../root/work/add_alias.tt:1
 #, perl-format
 msgid "Add Work Alias"
-msgstr ""
+msgstr "Voeg een alias aan deze compositie toe"
 
 #: ../root/artist/create.tt:16 ../root/artist/create.tt:18
 #, perl-format
@@ -719,7 +719,7 @@ msgstr "Voeg een nieuwe artiest toe"
 #: ../root/collection/create.tt:1 ../root/collection/create.tt:3
 #, perl-format
 msgid "Add a New Collection"
-msgstr ""
+msgstr "Voeg een nieuwe collectie toe"
 
 #: ../root/label/create.tt:15 ../root/label/create.tt:17
 #, perl-format
@@ -865,17 +865,17 @@ msgstr ""
 #: ../root/artist/works.tt:62
 #, perl-format
 msgid "Add selected works for merging"
-msgstr ""
+msgstr "Voeg de geselecteerde composities toe om samen te voegen"
 
 #: ../root/release/sidebar.tt:125
 #, perl-format
 msgid "Add to my collection"
-msgstr ""
+msgstr "Voeg toe aan mijn collectie"
 
 #: ../root/release/sidebar.tt:127
 #, perl-format
 msgid "Add to {collection}"
-msgstr ""
+msgstr "Voeg toe aan {collection}"
 
 #: ../root/release/edit/tracklist.tt:437
 #, perl-format
@@ -886,7 +886,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Work/Create.pm:16
 #, perl-format
 msgid "Add work"
-msgstr ""
+msgstr "Voeg compositie toe"
 
 #: ../root/work/add_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAlias.pm:15
@@ -922,12 +922,12 @@ msgstr ""
 #: ../root/release/sidebar.tt:24
 #, perl-format
 msgid "Additional details"
-msgstr ""
+msgstr "Extra details"
 
 #: ../root/release/edit/information.tt:103
 #, perl-format
 msgid "Additional information"
-msgstr ""
+msgstr "Extra informatie"
 
 #: ../root/edit/details/add_isrcs.tt:3
 #, perl-format
@@ -1143,7 +1143,7 @@ msgstr "Sta andere gebruikers toe om mijn etiketten te zien"
 #: ../root/collection/edit_form.tt:6
 #, perl-format
 msgid "Allow other users to see this collection"
-msgstr ""
+msgstr "Sta andere gebruikers toe om deze collectie te zien"
 
 #: ../root/components/common-macros.tt:508
 #, perl-format
@@ -1174,17 +1174,17 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:180
 #, perl-format
 msgid "Alternatively, enter a tracklist below:"
-msgstr ""
+msgstr "U kunt ook hieronder een lijst met nummers invoeren:"
 
 #: ../root/search/results-artist.tt:7
 #, perl-format
 msgid "Alternatively, you may {uri|add a new artist}."
-msgstr "In plaats daarvan kunt u {uri|een nieuwe artiest toevoegen}."
+msgstr "U kunt ook {uri|een nieuwe artiest toevoegen}."
 
 #: ../root/search/results-label.tt:38
 #, perl-format
 msgid "Alternatively, you may {uri|add a new label}."
-msgstr ""
+msgstr "U kunt ook {uri|een nieuwe platenmaatschappij toevoegen}."
 
 #: ../root/search/results-recording.tt:7
 #, perl-format
@@ -1200,7 +1200,7 @@ msgstr ""
 #: ../root/search/results-work.tt:44
 #, perl-format
 msgid "Alternatively, you may {uri|add a new work}."
-msgstr ""
+msgstr "U kunt ook {uri|een nieuwe compositie toevoegen}."
 
 #: DB:link_attribute_type/description:311
 #, perl-format
@@ -1333,12 +1333,12 @@ msgstr ""
 #: ../root/annotation/common.tt:23
 #, perl-format
 msgid "Annotation last modified by {user} on {date}."
-msgstr ""
+msgstr "Aantekening het laatst gewijzigd door {user} op {date}."
 
 #: ../root/annotation/common.tt:42
 #, perl-format
 msgid "Annotation last modified on {date}."
-msgstr ""
+msgstr "Aantekening het laatst gewijzigd op {date}"
 
 #: ../root/annotation/edit.tt:15 ../root/release/edit/information.tt:104
 #, perl-format
@@ -1475,12 +1475,12 @@ msgstr ""
 msgid ""
 "Are you sure you want to remove the alias {alias}, which points to the work "
 "{work}?"
-msgstr ""
+msgstr "Weet u zeker dat u de alias {alias} dat verwijst naar de compositie {work} wilt verwijderen?"
 
 #: ../root/collection/delete.tt:4
 #, perl-format
 msgid "Are you sure you want to remove the collection {collection}?"
-msgstr ""
+msgstr "Weet u zeker dat u de collectie {collection} wilt verwijderen?"
 
 #: ../root/cdtoc/remove.tt:5
 #, perl-format
@@ -1718,7 +1718,7 @@ msgstr ""
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Artist ratings"
-msgstr ""
+msgstr "Artiestwaarderingen"
 
 #: ../root/cdstub/edit.tt:67
 #, perl-format
@@ -1758,7 +1758,7 @@ msgstr ""
 #: ../root/statistics/index.tt:607
 #, perl-format
 msgid "Artist-Work:"
-msgstr ""
+msgstr "Artiest-Compositie"
 
 #: ../root/cdstub/edit.tt:55 ../root/cdstub/import.tt:7
 #: ../root/cdtoc/attach_filter_artist.tt:6 ../root/cdtoc/lookup.tt:60
@@ -2351,7 +2351,7 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:123 ../root/label/edit_form.tt:53
 #, perl-format
 msgid "Begin date:"
-msgstr ""
+msgstr "Begindatum:"
 
 #: ../root/layout/menu.tt:209
 #, perl-format
@@ -2818,12 +2818,12 @@ msgstr ""
 #: ../root/work/merge.tt:19
 #, perl-format
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleer"
 
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
 msgid "Cancel Edit"
-msgstr ""
+msgstr "Annuleer wijziging"
 
 #: ../root/components/common-macros.tt:396
 #, perl-format
@@ -2834,22 +2834,22 @@ msgstr ""
 #: ../root/edit/info.tt:21
 #, perl-format
 msgid "Cancel edit"
-msgstr ""
+msgstr "Annuleer wijziging"
 
 #: ../root/elections/show.tt:97
 #, perl-format
 msgid "Cancel the election"
-msgstr ""
+msgstr "Annuleer verkiezing"
 
 #: ../root/statistics/view_js.tt:54
 #, perl-format
 msgid "Cancelled edits"
-msgstr ""
+msgstr "Geannuleerde wijzigingen"
 
 #: ../root/statistics/index.tt:489
 #, perl-format
 msgid "Cancelled:"
-msgstr ""
+msgstr "Geannuleerd:"
 
 #: ../root/artist/delete_alias.tt:17 ../root/label/delete_alias.tt:16
 #, perl-format
@@ -2863,17 +2863,17 @@ msgstr ""
 msgid ""
 "Cancelling a pending edit will take effect within an hour, while removing an"
 " work alias has to be voted on according to the voting process."
-msgstr ""
+msgstr "Een onbesliste wijziging annuleren zal binnen een uur worden toegepast, terwijl het verwijderen van een alias voor een compositie door het stemmingsproces zal moeten worden ingestemd."
 
 #: ../root/elections/index.tt:9
 #, perl-format
 msgid "Candidate"
-msgstr ""
+msgstr "Kandidaat"
 
 #: ../root/elections/show.tt:11
 #, perl-format
 msgid "Candidate:"
-msgstr ""
+msgstr "Kandidaat:"
 
 #: ../root/edit/relationship/cannot_create.tt:1
 #: ../root/edit/relationship/cannot_create.tt:2
@@ -3030,7 +3030,7 @@ msgstr ""
 #: ../root/account/change_password.tt:15 ../root/layout/menu.tt:10
 #, perl-format
 msgid "Change Password"
-msgstr ""
+msgstr "Verander wachtwoord"
 
 #: ../root/edit/relationship/create.tt:48
 #: ../root/edit/relationship/create.tt:51 ../root/edit/relationship/edit.tt:76
@@ -3297,29 +3297,29 @@ msgstr ""
 #: ../root/user/collections.tt:9
 #, perl-format
 msgid "Collection"
-msgstr ""
+msgstr "Collectie"
 
 #: ../root/collection/not_found.tt:1 ../root/collection/not_found.tt:2
 #, perl-format
 msgid "Collection Not Found"
-msgstr ""
+msgstr "Collectie niet gevonden"
 
 #: ../root/collection/edit_form.tt:4
 #, perl-format
 msgid "Collection details"
-msgstr ""
+msgstr "Details van de collectie"
 
 #: ../root/collection/layout.tt:1
 #, perl-format
 msgid "Collection “{collection}”"
-msgstr ""
+msgstr "Collectie \"{collection}\""
 
 #: ../root/release/collections.tt:1 ../root/release/collections.tt:2
 #: ../root/release/sidebar.tt:109 ../root/user/collections.tt:1
 #: ../root/user/collections.tt:3 ../root/user/profile/layout.tt:12
 #, perl-format
 msgid "Collections"
-msgstr ""
+msgstr "Collecties"
 
 #: DB:country/name:47
 msgid "Colombia"
@@ -3344,7 +3344,7 @@ msgstr ""
 msgid ""
 "Comparing revision by {user_old} on {date_old} with revision by {user_new} "
 "on {date_new}."
-msgstr ""
+msgstr "Vergelijk revisie door {user_old} op {date_old} met revisie {user_new} op {date_new}."
 
 #: DB:release_group_type/name:4
 msgid "Compilation"
@@ -3391,7 +3391,7 @@ msgstr ""
 #: ../root/account/reset_password.tt:11
 #, perl-format
 msgid "Confirm password:"
-msgstr ""
+msgstr "Bevestig wachtwoord:"
 
 #: DB:country/name:49
 msgid "Congo"
@@ -3883,7 +3883,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:136 ../root/user/collections.tt:36
 #, perl-format
 msgid "Create a new collection"
-msgstr ""
+msgstr "Creëer een nieuwe collectie"
 
 #: ../root/account/register.tt:5 ../root/account/register.tt:12
 #, perl-format
@@ -3893,7 +3893,7 @@ msgstr ""
 #: ../root/collection/edit_form.tt:11
 #, perl-format
 msgid "Create collection"
-msgstr ""
+msgstr "Creëer een collectie"
 
 #: ../root/components/common-macros.tt:451
 #, perl-format
@@ -4209,7 +4209,7 @@ msgstr ""
 #: ../root/tracklist/index.tt:31
 #, perl-format
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: ../root/artist/edit_form.tt:48 ../root/label/edit_form.tt:49
 #, perl-format
@@ -4219,21 +4219,21 @@ msgstr ""
 #: ../root/account/preferences.tt:14
 #, perl-format
 msgid "Date/time format:"
-msgstr ""
+msgstr "Formattering van datum en tijd:"
 
 #: ../root/edit/details/add_release.tt:60
 #: ../root/edit/details/edit_release.tt:25
 #: ../root/release/edit/information.tt:53 ../root/release/sidebar.tt:12
 #, perl-format
 msgid "Date:"
-msgstr ""
+msgstr "Datum:"
 
 #: ../root/artist/edit_form.tt:50 ../root/label/edit_form.tt:51
 #, perl-format
 msgid ""
 "Dates are in the format YYYY-MM-DD. Partial dates such as YYYY-MM or just "
 "YYYY are OK, or you can omit the date entirely."
-msgstr ""
+msgstr "Data zijn in het formaat JJJJ-MM-DD. Gedeeltelijke data zoals JJJJ-MM of alleen JJJJ zijn ook goed, of de datum kan helemaal worden weggelaten."
 
 #: DB:link_attribute_type/description:496
 #, perl-format
@@ -4754,7 +4754,7 @@ msgstr ""
 #: ../root/collection/edit.tt:1
 #, perl-format
 msgid "Edit Collection"
-msgstr ""
+msgstr "Wijzig collectie"
 
 #: ../root/statistics/view_js.tt:26
 #, perl-format
@@ -4862,17 +4862,17 @@ msgstr ""
 #: ../root/work/edit.tt:15
 #, perl-format
 msgid "Edit Work"
-msgstr ""
+msgstr "Wijzig compositie"
 
 #: ../root/work/edit_alias.tt:1
 #, perl-format
 msgid "Edit Work Alias"
-msgstr ""
+msgstr "Wijzig alias voor deze compositie"
 
 #: ../root/work/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Work Annotation"
-msgstr ""
+msgstr "Wijzig aantekening bij deze compositie"
 
 #: ../root/artist/layout.tt:80 ../root/label/layout.tt:59
 #: ../root/recording/layout.tt:37 ../root/release_group/layout.tt:36
@@ -4960,7 +4960,7 @@ msgstr "Alias voor deze compositie bewerken"
 #: ../root/work/edit_annotation.tt:2
 #, perl-format
 msgid "Edit work annotation"
-msgstr ""
+msgstr "Wijzig aantekening bij deze compositie"
 
 #: ../root/release/edit-links.tt:13
 #, perl-format
@@ -5229,7 +5229,7 @@ msgstr ""
 #: ../root/elections/index.tt:12
 #, perl-format
 msgid "End date"
-msgstr ""
+msgstr "Einddatum"
 
 #: ../root/artist/edit_form.tt:53 ../root/edit/details/add_artist.tt:49
 #: ../root/edit/details/add_label.tt:34 ../root/edit/details/edit_artist.tt:40
@@ -5239,7 +5239,7 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:128 ../root/label/edit_form.tt:54
 #, perl-format
 msgid "End date:"
-msgstr ""
+msgstr "Einddatum:"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:28
 #: ../root/scripts/text_strings.tt:70
@@ -5599,7 +5599,7 @@ msgstr ""
 #: ../root/user/login.tt:39
 #, perl-format
 msgid "Forgot your {link1|username} or {link2|password}?"
-msgstr ""
+msgstr "Bent u uw {link1|gebruikersnaam} of {link2|wachtwoord} vergeten?"
 
 #: ../root/cdtoc/list.tt:5 ../root/collection/index.tt:12
 #: ../root/edit/details/edit_release_events.tt:10
@@ -5657,8 +5657,8 @@ msgstr "Heeft u een probleem gevonden op onze site? {report|Rapporteer alstublie
 #, perl-format
 msgid "Found in {num} user collection"
 msgid_plural "Found in {num} user collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Gevonden in {num} collectie van een gebruiker"
+msgstr[1] "Gevonden in {num} collecties van gebruikers"
 
 #: ../root/release/lookup.tt:4
 #, perl-format
@@ -6565,7 +6565,7 @@ msgstr "Als u doorgaat met de huidige samenvoegingsstrategie, zullen de volgende
 msgid ""
 "If you do not know whether the release has a barcode or not, just leave this"
 " blank."
-msgstr ""
+msgstr "Als u niet weet of deze uitgave een streepjescode heeft, kunt u dit gewoon leeg laten."
 
 #: ../root/cdtoc/attach_filter_artist.tt:39
 #, perl-format
@@ -6734,7 +6734,7 @@ msgstr "Om deze pagina te bekijken moet u de hoofdserver gebruiken op {uri}."
 #: ../root/user/login.tt:20
 #, perl-format
 msgid "Incorrect username or password"
-msgstr ""
+msgstr "Incorrecte gebruikersnaam of wachtwoord"
 
 #: DB:country/name:99
 msgid "India"
@@ -7993,7 +7993,7 @@ msgstr "Houd me aangemeld"
 #: ../root/release/edit/tracklist.tt:460
 #, perl-format
 msgid "Keep uppercase words uppercased"
-msgstr ""
+msgstr "Houd woorden in bovenkast in bovenkast"
 
 #: DB:link_attribute_type/description:380
 #, perl-format
@@ -8634,7 +8634,7 @@ msgstr ""
 #: ../root/account/lost_password.tt:3
 #, perl-format
 msgid "Lost Password"
-msgstr ""
+msgstr "Wachtwoord verloren"
 
 #: ../root/account/lost_username_sent.tt:1 ../root/account/lost_username.tt:1
 #: ../root/account/lost_username.tt:3
@@ -9478,7 +9478,7 @@ msgstr ""
 #: ../root/layout/menu.tt:27
 #, perl-format
 msgid "My Collections"
-msgstr ""
+msgstr "Mijn collecties"
 
 #: ../root/layout/menu.tt:24
 #, perl-format
@@ -9493,7 +9493,7 @@ msgstr ""
 #: ../root/layout/menu.tt:30
 #, perl-format
 msgid "My Ratings"
-msgstr ""
+msgstr "Mijn waarderingen"
 
 #: ../root/layout/menu.tt:33
 #, perl-format
@@ -9737,7 +9737,7 @@ msgstr ""
 #: ../root/account/change_password.tt:11
 #, perl-format
 msgid "New password:"
-msgstr ""
+msgstr "Nieuw wachtwoord:"
 
 #: ../root/release/merge.tt:51
 #, perl-format
@@ -9768,7 +9768,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:35
 #, perl-format
 msgid "Next"
-msgstr ""
+msgstr "Volgende"
 
 #: ../root/release/edit/duplicates.tt:36
 #: ../root/release/edit/information.tt:110
@@ -9777,7 +9777,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:478
 #, perl-format
 msgid "Next »"
-msgstr ""
+msgstr "Volgende »"
 
 #: DB:language/name:302
 msgid "Nias"
@@ -10080,7 +10080,7 @@ msgid ""
 "Note! If you do not know the month or day of release, please leave them "
 "empty.  January 1st is not often the actual release date, please double "
 "check that you have entered the release date correctly."
-msgstr ""
+msgstr "Let op! Als u de maand of dag van uitgave niet weer, laat de velden dan leeg. 1 januari is meestal geen echte uitgavedatum, dus controleer alstublieft nogmaals dat u die datum correct heeft ingevuld."
 
 #: ../root/edit/details/set_track_lengths.tt:58
 #, perl-format
@@ -10218,7 +10218,7 @@ msgstr ""
 #: ../root/account/change_password.tt:10
 #, perl-format
 msgid "Old password:"
-msgstr ""
+msgstr "Oud wachtwoord:"
 
 #: ../root/edit/details/edit_medium.tt:190
 #, perl-format
@@ -10664,7 +10664,7 @@ msgstr ""
 #: ../root/user/login.tt:24
 #, perl-format
 msgid "Password:"
-msgstr ""
+msgstr "Wachtwoord:"
 
 #: ../root/layout/menu.tt:83
 #, perl-format
@@ -10805,7 +10805,7 @@ msgstr ""
 #: ../root/account/change_password.tt:5
 #, perl-format
 msgid "Please enter your old password below, and then your new password."
-msgstr ""
+msgstr "Voer alstublieft uw oude wachtwoord hieronder in, en daarna uw nieuwe wachtwoord."
 
 #: ../root/edit/relationship/no-start.tt:2
 #, perl-format
@@ -11145,7 +11145,7 @@ msgstr ""
 #: ../root/layout/menu.tt:13
 #, perl-format
 msgid "Preferences"
-msgstr ""
+msgstr "Voorkeuren"
 
 #: ../root/annotation/edit.tt:27 ../root/components/forms.tt:196
 #: ../root/release/edit/tracklist.tt:37
@@ -11166,7 +11166,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:36
 #, perl-format
 msgid "Previous"
-msgstr ""
+msgstr "Vorige"
 
 #: ../root/admin/linktype/form.tt:24
 #, perl-format
@@ -11191,7 +11191,7 @@ msgstr ""
 #: ../root/collection/header.tt:14
 #, perl-format
 msgid "Private collection"
-msgstr ""
+msgstr "Privécollectie"
 
 #: ../root/layout/menu.tt:101 ../root/user/privileged.tt:14
 #: ../root/user/privileged.tt:16
@@ -11331,8 +11331,8 @@ msgstr ""
 #, perl-format
 msgid "Rate: {rating} star"
 msgid_plural "Rate: {rating} stars"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Waardeer: {rating} ster"
+msgstr[1] "Waardeer: {rating} sterren"
 
 #: ../root/artist/browse_various.tt:16 ../root/artist/index.tt:66
 #: ../root/artist/recordings-list.tt:27 ../root/artist/works.tt:21
@@ -12372,7 +12372,7 @@ msgstr ""
 #: ../root/collection/delete.tt:2 ../root/collection/delete.tt:7
 #, perl-format
 msgid "Remove collection"
-msgstr ""
+msgstr "Verwijder collectie"
 
 #: ../root/release/edit/tracklist.tt:398
 #, perl-format
@@ -12382,12 +12382,12 @@ msgstr ""
 #: ../root/release/sidebar.tt:117
 #, perl-format
 msgid "Remove from my collection"
-msgstr ""
+msgstr "Verwijder uit mijn collectie"
 
 #: ../root/release/sidebar.tt:119
 #, perl-format
 msgid "Remove from {collection}"
-msgstr ""
+msgstr "Verwijder uit {collection}"
 
 #: ../root/label/layout.tt:67
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabel.pm:9
@@ -12429,7 +12429,7 @@ msgstr ""
 #: ../root/collection/layout.tt:10
 #, perl-format
 msgid "Remove this collection"
-msgstr ""
+msgstr "Verwijder deze collectie"
 
 #: ../root/release/edit/tracklist.tt:329
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
@@ -12440,7 +12440,7 @@ msgstr "Verwijder nummer"
 #: ../root/components/rating-macros.tt:1
 #, perl-format
 msgid "Remove your rating"
-msgstr ""
+msgstr "Verwijder uw waardering"
 
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
@@ -12486,7 +12486,7 @@ msgstr ""
 #: ../root/account/reset_password.tt:3 ../root/account/reset_password.tt:14
 #, perl-format
 msgid "Reset Password"
-msgstr ""
+msgstr "Stel wachtwoord opnieuw in"
 
 #: ../root/statistics/timeline.tt:74
 #, perl-format
@@ -12777,7 +12777,7 @@ msgstr "Zoeken"
 #: ../root/layout/menu.tt:157
 #, perl-format
 msgid "Search Edits"
-msgstr ""
+msgstr "Zoek wijzigingen"
 
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 #, perl-format
@@ -12805,7 +12805,7 @@ msgstr ""
 #: ../root/search/results-work.tt:1 ../root/search/results-work.tt:3
 #, perl-format
 msgid "Search Results"
-msgstr ""
+msgstr "Zoekresultaten"
 
 #: ../root/cdtoc/lookup.tt:56
 #, perl-format
@@ -12821,7 +12821,7 @@ msgstr ""
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
 #, perl-format
 msgid "Search for Edits"
-msgstr ""
+msgstr "Zoek naar wijzigingen"
 
 #: ../root/search/editor.tt:1
 #, perl-format
@@ -12831,12 +12831,12 @@ msgstr "Zoek naar een redacteur"
 #: ../root/edit/list_header.tt:8
 #, perl-format
 msgid "Search for edits"
-msgstr ""
+msgstr "Zoek naar wijzigingen"
 
 #: ../root/release/edit/recordings.tt:95
 #, perl-format
 msgid "Search for recordings"
-msgstr ""
+msgstr "Zoek naar opnames"
 
 #: ../root/search/form.tt:57
 #, perl-format
@@ -12897,7 +12897,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "See also your {uri|user preferences}, which includes your privacy settings."
-msgstr ""
+msgstr "Zie ook uw {uri|gebruikersinstellingen}, die ook uw privacyinstellingen bevatten."
 
 #: ../root/admin/linkattributetype/index.tt:23
 #, perl-format
@@ -12972,7 +12972,7 @@ msgstr ""
 #: ../root/account/reset_password.tt:5
 #, perl-format
 msgid "Set a new password for your MusicBrainz account."
-msgstr ""
+msgstr "Stel een nieuw wachtwoord in voor uw MusicBrainz gebruikersaccount."
 
 #: ../root/cdtoc/list.tt:53
 #, perl-format
@@ -13307,7 +13307,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:46
 #, perl-format
 msgid "Sorry, an error occurred during your search"
-msgstr ""
+msgstr "Excuus, tijdens het zoeken is een fout opgetreden"
 
 #: ../root/search/error/no-results.tt:3
 #, perl-format
@@ -13445,7 +13445,7 @@ msgstr ""
 #: ../root/collection/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find an collection with that MusicBrainz ID."
-msgstr ""
+msgstr "Excuus, we konden geen collectie vingen met dit MusicBrainz ID."
 
 #: ../root/edit/not_found.tt:4
 #, perl-format
@@ -13939,7 +13939,7 @@ msgstr ""
 #: ../root/collection/tag.tt:2
 #, perl-format
 msgid "Tag this collection"
-msgstr ""
+msgstr "Geeft deze collectie een etiket"
 
 #: ../root/label/layout.tt:41 ../root/label/tags.tt:3
 #, perl-format
@@ -14352,7 +14352,7 @@ msgstr ""
 #: ../root/edit/cannot_approve.tt:8
 #, perl-format
 msgid "The edit has been cancelled."
-msgstr ""
+msgstr "De wijziging is geannuleerd."
 
 #: DB:link_type/description:38 DB:link_type/description:144
 #, perl-format
@@ -15041,7 +15041,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:470
 #, perl-format
 msgid "This edit was cancelled."
-msgstr ""
+msgstr "De wijziging was geannuleerd."
 
 #: ../root/components/common-macros.tt:470
 #, perl-format
@@ -15142,7 +15142,7 @@ msgstr "Dit is een spiegelserver van MusicBrainz. Om veranderingen door te voere
 #: ../root/user/login.tt:27
 #, perl-format
 msgid "This is a development server; all passwords have been reset to \"mb\"."
-msgstr "Dit is een server voor ontwikkeling; alle paswoorden zijn teruggezet naar \"mb\"."
+msgstr "Dit is een server voor ontwikkeling; alle wachtwoorden zijn teruggezet naar \"mb\"."
 
 #: ../root/annotation/common.tt:33
 #, perl-format
@@ -15921,7 +15921,7 @@ msgstr "Titel"
 #: ../root/release/edit/information.tt:24
 #, perl-format
 msgid "Title:"
-msgstr ""
+msgstr "Titel:"
 
 #: DB:language/name:419
 msgid "Tiv"
@@ -16586,7 +16586,7 @@ msgstr "Werk collectie bij"
 #: ../root/release/edit/tracklist.tt:463
 #, perl-format
 msgid "Uppercase roman numerals"
-msgstr ""
+msgstr "Zet Romeinse cijfers in bovenkast"
 
 #: DB:language/name:444
 msgid "Urdu"
@@ -17278,7 +17278,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:159
 #, perl-format
 msgid "Work Ratings"
-msgstr ""
+msgstr "Compositiewaarderingen"
 
 #: ../root/statistics/view_js.tt:165
 #, perl-format
@@ -17298,7 +17298,7 @@ msgstr ""
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Work ratings"
-msgstr ""
+msgstr "Compositiewaarderingen"
 
 #: ../root/edit/details/edit_work.tt:23
 #, perl-format
@@ -17630,7 +17630,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:134
 #, perl-format
 msgid "You have no collections!"
-msgstr ""
+msgstr "U heeft geen collecties!"
 
 #: ../root/recording/edit.tt:42
 #, perl-format
@@ -17738,19 +17738,19 @@ msgstr ""
 msgid ""
 "Your password has been changed. Click {link|here} to continue to your user "
 "page."
-msgstr ""
+msgstr "Uw wachtwoord is veranderd. Klik {link|hier} om verder te gaan naar uw gebruikerspagina."
 
 #: ../root/account/reset_password_ok.tt:5
 #, perl-format
 msgid "Your password has been reset."
-msgstr ""
+msgstr "Uw wachtwoord is opnieuw ingesteld."
 
 #: ../root/account/preferences_ok.tt:5
 #, perl-format
 msgid ""
 "Your preferences have been saved. Click {link|here} to continue to your user"
 " page."
-msgstr ""
+msgstr "Uw instellingen zijn bewaard. Klik {link|hier} om verder te gaan naar uw gebruikerspagina."
 
 #: ../root/account/edit_ok.tt:6
 #, perl-format
@@ -17760,7 +17760,7 @@ msgstr "Uw profiel is bijgewerkt"
 #: ../root/search/error/invalid.tt:3
 #, perl-format
 msgid "Your search query was deemed invalid by our ruthless search server."
-msgstr ""
+msgstr "Uw zoekopdracht is door onze meedogenloze zoekserver ongeldig verklaard."
 
 #: ../root/account/register.tt:31
 #, perl-format
@@ -17898,7 +17898,7 @@ msgstr ""
 msgid ""
 "a variant of the \"Hmông flute\". \n"
 "flute blowers lips enclose the blowing hole with the vibrating \"free reed\" inside"
-msgstr ""
+msgstr "een variant op de Hmông-fluit.\nde lippen van de fluitist omvatten het blaasgat met het vibrerende vrije riet erin"
 
 #: DB:link_attribute_type/description:64 DB:link_attribute_type/name:64
 #, perl-format
@@ -20937,8 +20937,8 @@ msgstr[1] ""
 #, perl-format
 msgid "plus {n} other private collection"
 msgid_plural "plus {n} other private collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "plus {n} andere privécollectie"
+msgstr[1] "plus {n} andere privécollecties"
 
 #: DB:link_attribute_type/name:515
 #, perl-format
@@ -21350,7 +21350,7 @@ msgstr ""
 #: ../root/layout/sidebar/sidebar-rating.tt:5
 #, perl-format
 msgid "see all ratings"
-msgstr ""
+msgstr "bekijk alle waarderingen"
 
 #: ../root/release/header.tt:10
 #, perl-format
@@ -22810,8 +22810,8 @@ msgstr ""
 #, perl-format
 msgid "{count} private rating not listed."
 msgid_plural "{count} private ratings not listed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{count} privéwaardering niet weergegeven"
+msgstr[1] "{count} privéwaarderingen niet weergegeven"
 
 #: ../root/user/profile.tt:41
 #, perl-format
@@ -22869,7 +22869,7 @@ msgstr ""
 #: ../root/components/ratings.tt:20
 #, perl-format
 msgid "{link} has no ratings."
-msgstr ""
+msgstr "{link} heeft geen waarderingen"
 
 #: ../root/components/relationships.tt:57
 #, perl-format
@@ -22909,8 +22909,8 @@ msgstr[1] ""
 #, perl-format
 msgid "{num} collection found"
 msgid_plural "{num} collections found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} collectie gevonden"
+msgstr[1] "{num} collecties gevonden"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
@@ -23149,7 +23149,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:477
 #, perl-format
 msgid "« Previous"
-msgstr ""
+msgstr "« Vorige"
 
 #: DB:country/name:250
 msgid "Åland Islands"
@@ -23297,7 +23297,7 @@ msgstr "Één of meerdere verplichte parameters ontbreekt."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:198
 msgid "Sorry, this password reset link has expired."
-msgstr "Onze excuses, deze verwijzing om het paswoord opnieuw in te stellen is verlopen."
+msgstr "Onze excuses, deze verwijzing om het wachtwoord opnieuw in te stellen is verlopen."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
@@ -23814,15 +23814,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
-msgstr ""
+msgstr "Voeg aantekening toe aan deze compositie"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
-msgstr ""
+msgstr "Verwijder compositie"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/DeleteAlias.pm:15
 msgid "Remove work alias"
-msgstr ""
+msgstr "Verwijder alias van deze compositie"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:23
 msgid "Edit work"
@@ -23830,7 +23830,7 @@ msgstr "Wijzig compositie"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
-msgstr ""
+msgstr "Voeg composities samen"
 
 #: ../lib/MusicBrainz/Server/EditSearch/Predicate.pm:66
 msgid "This operator is not supported"
@@ -24015,7 +24015,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Role/DatePeriod.pm:34
 msgid "The end date must occur on or after the begin date"
-msgstr ""
+msgstr "De einddatum moet na de begindatum zijn"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:44
 msgid "FreeDB"
@@ -24023,7 +24023,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/ChangePassword.pm:37
 msgid "The old password is incorrect"
-msgstr ""
+msgstr "Het oude wachtwoord is incorrect"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:20
 msgid "Invalid URL format"
