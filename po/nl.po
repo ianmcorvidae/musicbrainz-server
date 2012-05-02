@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-02 10:59+0000\n"
+"PO-Revision-Date: 2012-05-02 15:29+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -837,14 +837,14 @@ msgstr "Voeg opname toe"
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 #, perl-format
 msgid "Add release"
-msgstr ""
+msgstr "Voeg uitgave toe"
 
 #: ../root/artist/layout.tt:57
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseGroup.pm:18
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Create.pm:22
 #, perl-format
 msgid "Add release group"
-msgstr ""
+msgstr "Voeg uitgavegroep toe"
 
 #: ../root/report/duplicate_artists.tt:45
 #, perl-format
@@ -6551,7 +6551,7 @@ msgstr "Als u deze alias per ongeluk hebt toegevoegd, volg dan alstublieft de in
 #: ../root/account/edit.tt:7
 #, perl-format
 msgid "If you change your email address, you will be required to verify it. "
-msgstr ""
+msgstr "Als u uw e-mailadres verandert, moet u deze verifiëren."
 
 #: ../root/release/merge.tt:89
 #, perl-format
@@ -11197,7 +11197,7 @@ msgstr "Privécollectie"
 #: ../root/user/privileged.tt:16
 #, perl-format
 msgid "Privileged User Accounts"
-msgstr "Geprivilegieerde gebruikersacounts"
+msgstr "Geprivilegieerde gebruikersaccounts"
 
 #: DB:label_type/name:3
 msgid "Production"
@@ -11913,7 +11913,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
 #, perl-format
 msgid "Release group"
-msgstr ""
+msgstr "Uitgavegroep"
 
 #: ../root/release_group/edits.tt:20 ../root/release_group/header.tt:13
 #, perl-format
@@ -12407,14 +12407,14 @@ msgstr "Verwijder opname"
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 #, perl-format
 msgid "Remove release"
-msgstr ""
+msgstr "Verwijder uitgave"
 
 #: ../root/release_group/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseGroup.pm:9
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 #, perl-format
 msgid "Remove release group"
-msgstr ""
+msgstr "Verwijder uitgavegroep"
 
 #: ../root/layout/merge-helper.tt:33
 #, perl-format
@@ -13659,7 +13659,7 @@ msgstr ""
 #: ../root/layout/menu.tt:104 ../root/user/profile.tt:107
 #, perl-format
 msgid "Statistics"
-msgstr "Satistieken"
+msgstr "Statistieken"
 
 #: ../root/edit/search_macros.tt:278 ../root/elections/index.tt:10
 #: ../root/release/lookup.tt:14
@@ -23293,7 +23293,7 @@ msgstr "Er is geen gebruiker met deze gebruikersnaam en e-mailadres"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:190
 msgid "Missing one or more required parameters."
-msgstr "Één of meerdere verplichte parameters ontbreekt."
+msgstr "Eén of meerdere verplichte parameters ontbreekt."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:198
 msgid "Sorry, this password reset link has expired."
@@ -23408,7 +23408,7 @@ msgstr "Deze opname heeft deze ISRC al"
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:306
 msgid "This release is already in the selected release group"
-msgstr ""
+msgstr "Deze uitgave is al in de geselecteerde uitgavegroep"
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:502
 msgid ""
@@ -23474,7 +23474,7 @@ msgstr "Ongeldige streepjescode"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:142
 msgid "There are already MusicBrainz releases with this disc ID"
-msgstr ""
+msgstr "Er zijn al uitgaves in MusicBrainz met deze Disc ID"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:149
 msgid "There is already a CD stub with this disc ID"
@@ -23563,11 +23563,11 @@ msgstr "Voeg PUID's toe"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:14
 msgid "Add release annotation"
-msgstr ""
+msgstr "Voeg aantekening toe aan uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseEvents.pm:11
 msgid "Add release events (historic)"
-msgstr ""
+msgstr "Voeg uitgavegebeurtenissen toe (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrack.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
@@ -23616,28 +23616,28 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseAttrs.pm:15
 msgid "Edit release attributes"
-msgstr ""
+msgstr "Wijzig uitgave-eigenschappen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEvents.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEventsOld.pm:17
 msgid "Edit release events (historic)"
-msgstr ""
+msgstr "Wijzig uitgavegebeurtenissen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupName.pm:7
 msgid "Edit release group name"
-msgstr ""
+msgstr "Wijzig de naam van de uitgavegroep"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupType.pm:9
 msgid "Edit release group type"
-msgstr ""
+msgstr "Wijzig het type van de uitgavegroep"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseLanguage.pm:13
 msgid "Edit release language"
-msgstr ""
+msgstr "Wijzig de taal van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseName.pm:10
 msgid "Edit release name"
-msgstr ""
+msgstr "Wijzig de naam van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length"
@@ -23657,7 +23657,7 @@ msgstr "Wijzig URL"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MACToSAC.pm:12
 msgid "Convert release to single artist"
-msgstr ""
+msgstr "Zet uitgave om naar één artiest"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeLabel.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
@@ -23668,7 +23668,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Release/Merge.pm:49
 msgid "Merge releases"
-msgstr ""
+msgstr "Voeg uitgaves samen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:18
@@ -23677,7 +23677,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release"
-msgstr ""
+msgstr "Verplaats uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:10
@@ -23709,15 +23709,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
-msgstr ""
+msgstr "Verwijder uitgavegebeurtenissen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases"
-msgstr ""
+msgstr "Verwijder uitgaves"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists"
-msgstr ""
+msgstr "Zet uitgave om naar meerdere artiesten"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SetTrackLengthsFromCDTOC.pm:10
 msgid "Set track lengths"
@@ -23765,19 +23765,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
-msgstr ""
+msgstr "Voeg een platenmaatschappij aan de uitgave toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/DeleteReleaseLabel.pm:16
 msgid "Remove release label"
-msgstr ""
+msgstr "Verwijder de platenmaatschappij van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
-msgstr ""
+msgstr "Wijzig uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:28
 msgid "Edit release artist"
-msgstr ""
+msgstr "Wijzig de artiest van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:140
 msgid ""
@@ -23790,15 +23790,15 @@ msgstr "Wijzig streepjescodes"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
-msgstr ""
+msgstr "Wijzig de platenmaatschappij van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
-msgstr ""
+msgstr "Voeg een aantekening toe aan de uitgavegroep"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Edit.pm:33
 msgid "Edit release group"
-msgstr ""
+msgstr "Wijzig uitgavegroep"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
@@ -23962,12 +23962,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:65
 #, perl-brace-format
 msgid "A track name is required on track {pos}"
-msgstr ""
+msgstr "Een naam is benodigd voor nummer {pos}"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:70
 #, perl-brace-format
 msgid "A position is required for \"{name}\""
-msgstr ""
+msgstr "Een positie is benodigd voor \"{name}\""
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:75
 #, perl-brace-format
@@ -23984,12 +23984,12 @@ msgstr "Een artiest is benodigd op nummer {pos}"
 msgid ""
 "The length of track {pos} cannot be changed since this release has a Disc ID"
 " attached to it."
-msgstr ""
+msgstr "De lengte van nummer {pos} kan niet worden veranderd omdat aan deze uitgave een Disc ID gekoppeld is."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:156
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:198
 msgid "A tracklist is required"
-msgstr ""
+msgstr "Een lijst van nummers is benodigd"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:165
 #, perl-brace-format
@@ -24063,15 +24063,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:246
 msgid "YYYY"
-msgstr ""
+msgstr "JJJJ"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:247
 msgid "MM"
-msgstr ""
+msgstr "MM"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:248
 msgid "DD"
-msgstr ""
+msgstr "DD"
 
 #: ../lib/MusicBrainz/Server/Release.pm:78
 msgid "(Special case)"
@@ -24081,7 +24081,7 @@ msgstr ""
 msgid ""
 "An album release primarily consists of previously unreleased material. This "
 "includes album re-issues, with or without bonus tracks."
-msgstr ""
+msgstr "Een album bestaat voornamelijk uit niet eerder uitgegeven materiaal. Dit omvat heruitgaven van albums, met of zonder bonusnummers."
 
 #: ../lib/MusicBrainz/Server/Release.pm:80
 msgid ""
@@ -24094,7 +24094,7 @@ msgstr "Een single heeft meestal één hoofdnummer en mogelijk enkele extra numm
 msgid ""
 "An EP is an Extended Play release and often contains the letters EP in the "
 "title."
-msgstr ""
+msgstr "Een EP is een \"Extended Play\" uitgave en de titel bevat vaak de letters EP."
 
 #: ../lib/MusicBrainz/Server/Release.pm:82
 msgid ""
@@ -24110,11 +24110,11 @@ msgstr "Een soundtrack is de muziek voor een film, tv-serie, toneelvoorstelling,
 
 #: ../lib/MusicBrainz/Server/Release.pm:84
 msgid "Non-music spoken word releases."
-msgstr ""
+msgstr "Gesproken uitgaves zonder muziek."
 
 #: ../lib/MusicBrainz/Server/Release.pm:85
 msgid "An interview release contains an interview with the Artist."
-msgstr ""
+msgstr "Een interviewuitgave bevat een interview met de artiest."
 
 #: ../lib/MusicBrainz/Server/Release.pm:86
 msgid "An audiobook is a book read by a narrator without music."
@@ -24122,27 +24122,27 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:87
 msgid "A release that was recorded live."
-msgstr ""
+msgstr "Een uitgave die live is opgenomen."
 
 #: ../lib/MusicBrainz/Server/Release.pm:88
 msgid "A release that was (re)mixed from previously released material."
-msgstr ""
+msgstr "Een uitgave die ge(re)mixed was van eerder uitgebracht materiaal."
 
 #: ../lib/MusicBrainz/Server/Release.pm:89
 msgid "Any release that does not fit any of the categories above."
-msgstr ""
+msgstr "Een uitgave die niet onder één van bovenstaande categorieën valt."
 
 #: ../lib/MusicBrainz/Server/Release.pm:91
 msgid ""
 "Any release officially sanctioned by the artist and/or their record company."
 " (Most releases will fit into this category.)"
-msgstr ""
+msgstr "Elke uitgave die officieel door de artiest of platenmaatschappij gesanctioneerd is. (De meeste uitgaves vallen onder deze categorie.)"
 
 #: ../lib/MusicBrainz/Server/Release.pm:92
 msgid ""
 "A giveaway release or a release intended to promote an upcoming official "
 "release. (e.g. prerelease albums or releases included with a magazine)"
-msgstr ""
+msgstr "Een uitgave die wordt weggegeven of bedoeld is om een officiële uitgave te promoten. (Bijv. prerelease uitgaves of uitgaves die zijn gebundeld met een tijdschrift.)"
 
 #: ../lib/MusicBrainz/Server/Release.pm:93
 msgid ""
