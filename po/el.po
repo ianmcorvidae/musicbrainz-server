@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-02 11:58+0000\n"
+"PO-Revision-Date: 2012-05-02 12:34+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -7725,7 +7725,7 @@ msgstr ""
 #: ../root/cdstub/error.tt:5
 #, perl-format
 msgid "Invalid Disc ID"
-msgstr ""
+msgstr "Μη έγκυρο Disc ID"
 
 #: DB:country/name:101
 msgid "Iran, Islamic Republic of"
@@ -13301,7 +13301,7 @@ msgstr ""
 #: ../root/cdstub/error.tt:19
 #, perl-format
 msgid "Sorry, <code>{discid}</code> is not a valid disc ID."
-msgstr ""
+msgstr "Λυπούμαστε, το <code>{discid}</code> δεν είναι έγκυρο disc ID."
 
 #: ../root/scripts/text_strings.tt:46
 #, perl-format
@@ -14201,29 +14201,29 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:63
 #, perl-format
 msgid "The barcode you entered is a valid EAN code."
-msgstr ""
+msgstr "Το barcode που έχετε εισάγει είναι έγκυρος κωδικός EAN."
 
 #: ../root/scripts/text_strings.tt:61
 #, perl-format
 msgid "The barcode you entered is a valid UPC code."
-msgstr ""
+msgstr "Το barcode που έχετε εισάγει δεν είναι έγκυρος κωδικός UPC."
 
 #: ../root/scripts/text_strings.tt:62
 #, perl-format
 msgid ""
 "The barcode you entered is either an invalid UPC code, or an EAN code with "
 "the check digit missing."
-msgstr ""
+msgstr "Το barcode που έχετε εισάγει είναι είτε μη έγκυρος κωδικός UPC ή ένας EAN κωδικός του οποίου λείπει το ψηφίο ελέγχου."
 
 #: ../root/scripts/text_strings.tt:64
 #, perl-format
 msgid "The barcode you entered is not a valid EAN code."
-msgstr ""
+msgstr "Το barcode που έχετε εισάγει δεν είναι έγκυρος κωδικός EAN."
 
 #: ../root/scripts/text_strings.tt:65
 #, perl-format
 msgid "The barcode you entered is not a valid UPC or EAN code."
-msgstr ""
+msgstr "Το barcode που έχετε εισάγει δεν είναι έγκυρος κωδικός UPC ή EAN."
 
 #: ../root/scripts/text_strings.tt:60
 #, perl-format
@@ -17688,7 +17688,7 @@ msgid ""
 "erroneously, since a release can have multiple valid disc IDs, and each disc"
 " ID can belong to more than one release. For more in-depth information about"
 " this topic, please see our {doc|CD Submission document}."
-msgstr ""
+msgstr "Πρέπει να είστε σίγουροι ότι αυτό το disc ID προστέθηκε σε αυτή την κυκλοφορία από λάθος, αφού μια κυκλοφορία μπορεί να έχει πολλαπλά έγκυρα disc IDs και κάθε disc ID μπορεί να ανήκει σε πάνω από μια κυκλοφορία. Για περισσότερες πληροφορίες πάνω σε αυτό το θέμα, παρακαλώ δείτε το {doc|έγγραφο υποβολής CD}."
 
 #: ../root/user/login.tt:7
 #, perl-format
@@ -17759,7 +17759,7 @@ msgstr ""
 #: ../root/search/error/invalid.tt:3
 #, perl-format
 msgid "Your search query was deemed invalid by our ruthless search server."
-msgstr ""
+msgstr "Η αναζήτησή σας κρίθηκε ως μη έγκυρη από τον ανελέητο διακομιστή μας."
 
 #: ../root/account/register.tt:31
 #, perl-format
@@ -23235,7 +23235,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
 msgid "'{id}' is not a valid MusicBrainz ID"
-msgstr ""
+msgstr "'Η {id}' δεν είναι έγκυρη MusicBrainz ID"
 
 #: ../lib/MusicBrainz/Server/Controller.pm:113
 msgid ""
@@ -23248,7 +23248,7 @@ msgstr "Ευχαριστούμε, η επεξεργασία σας έγινε δ
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:44
 msgid "The user ID is missing or is in an invalid format."
-msgstr ""
+msgstr "Η user ID λείπει ή είναι σε λάθος μορφή."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:51
 msgid "The email address is missing."
@@ -23256,7 +23256,7 @@ msgstr "Η διεύθυνση email λείπει."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:58
 msgid "The time is missing or is in an invalid format."
-msgstr ""
+msgstr "Ο χρόνος λείπει ή είναι σε λάθος μορφή."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:66
 msgid "The verification key is missing."
@@ -23265,7 +23265,7 @@ msgstr "Το κλειδί επαλήθευσης λείπει"
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:74
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:206
 msgid "The checksum is invalid, please double check your email."
-msgstr ""
+msgstr "Το checksum δεν είναι έγκυρο, παρακαλούμε ελέγξτε το email σας."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:82
 msgid "Sorry, this email verification link has expired."
@@ -23312,7 +23312,7 @@ msgid ""
 "<strong>We were unable to send a confirmation email to you.</strong><br/>Please confirm that you have entered a valid\n"
 "             address by editing your {settings|account settings}. If the problem still persists, please contact us at\n"
 "             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
-msgstr ""
+msgstr "<strong>Δεν μπορέσαμε να σας στείλουμε email επιβεβαίωσης</strong><br/>Παρακαλούμε βεβαιωθείτε ότι έχετε εισάγει μια έγκυρη\n             διεύθυνση ελέγχοντας τις {settings|ρυθμίσεις λογαριασμού} σας. Αν το πρόβλημα παραμένει, παρακαλούμε επικοινωνήστε μαζί μας στο\n             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:455
 #, perl-brace-format
@@ -23326,26 +23326,26 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:617
 #, perl-brace-format
 msgid "This collaboration has been split in edit #{id}."
-msgstr ""
+msgstr "Αυτή η συνεργασία έχει χωριστεί στην επεξεργασία #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/AutoEditorElections.pm:70
 #, perl-brace-format
 msgid "'{id}' is not a valid election ID"
-msgstr ""
+msgstr "Η '{id}' δεν είναι έγκυρη ID ψηφοφορίας"
 
 #: ../lib/MusicBrainz/Server/Controller/CDStub.pm:59
 msgid "The required TOC parameter was invalid or not present"
-msgstr ""
+msgstr "Η απαιτούμενη παράμετρος TOC δεν ήταν έγκυρη ή δεν υπήρχε"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:133
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:283
 msgid "The provided CD TOC is not valid"
-msgstr ""
+msgstr "Το παρεχόμενο CD TOC δεν είναι έγκυρο"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:145
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:297
 msgid "The provided medium id is not valid"
-msgstr ""
+msgstr "Η παρεχόμενη id μέσου δεν είναι έγκυρη"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:151
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:303
@@ -23359,7 +23359,7 @@ msgstr "Το επιλεγμένο μέσο δεν μπορεί να έχει dis
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:188
 msgid "The provided artist id is not valid"
-msgstr ""
+msgstr "Η παρεχόμενη id καλλιτέχνη δεν είναι έγκυρη"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:296
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:407
@@ -23369,7 +23369,7 @@ msgstr "Άκυρο όρισμα"
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:310
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:413
 msgid "Invalid entities"
-msgstr ""
+msgstr "Μη έγκυρη οντότητα"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:318
 msgid "A relationship requires 2 different entities"
@@ -23386,7 +23386,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:527
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:535
 msgid "Invalid type"
-msgstr ""
+msgstr "Μη έγκυρος τύπος"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:541
 msgid "Entity not found"
@@ -23469,7 +23469,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:133
 msgid "Invalid barcode"
-msgstr ""
+msgstr "Άκυρο barcode"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:142
 msgid "There are already MusicBrainz releases with this disc ID"
@@ -23601,7 +23601,7 @@ msgstr "Επεξεργασία δισκογραφικής εταιρείας"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLink.pm:17
 msgid "Edit relationship (historic)"
-msgstr ""
+msgstr "Επεξεργασία σχέσης (ιστορικό)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLinkAttr.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkAttribute.pm:14
@@ -23611,7 +23611,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLinkType.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkType.pm:14
 msgid "Edit relationship type"
-msgstr ""
+msgstr "Επεξεργασία τύπου σχέσης"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseAttrs.pm:15
 msgid "Edit release attributes"
@@ -23652,7 +23652,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditURL.pm:9
 msgid "Edit url"
-msgstr ""
+msgstr "Επεξεργασία url"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MACToSAC.pm:12
 msgid "Convert release to single artist"
@@ -23672,7 +23672,7 @@ msgstr "Συγχώνευση κυκλοφοριών"
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:18
 msgid "Move disc ID"
-msgstr ""
+msgstr "Μετακίνηση disc ID"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release"
@@ -23801,7 +23801,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
-msgstr ""
+msgstr "Αυτό το URL έχει ήδη συγχωνευτεί με κάποιο άλλο URL"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
@@ -23857,24 +23857,24 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/DiscID.pm:12
 msgid "This is not a valid disc ID"
-msgstr ""
+msgstr "Μη έγκυρο disc ID"
 
 #: ../lib/MusicBrainz/Server/Form/Field/FreeDBID.pm:12
 msgid "This is not a valid FreeDB ID"
-msgstr ""
+msgstr "Μη ένα έγκυρο FreeDB ID"
 
 #: ../lib/MusicBrainz/Server/Form/Field/GID.pm:12
 msgid "This is not a valid MBID"
-msgstr ""
+msgstr "Μη έγκυρο MBID"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid "This is not a valid ISRC"
-msgstr ""
+msgstr "Μη έγκυρο ISRC"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:12
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:16
 msgid "This is not a valid ISWC"
-msgstr ""
+msgstr "Μη έγκυρο ISWC"
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
@@ -23882,15 +23882,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/Length.pm:25
 msgid "Not a valid time. Must be in the format MM:SS"
-msgstr ""
+msgstr "Μη έγκυρος χρόνος. Πρέπει να είναι στη μορφή ΛΛ:ΔΔ"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:21
 msgid "Enter a valid url e.g. \"http://google.com/\""
-msgstr ""
+msgstr "Πληκτρολογήστε ένα έγκυρο url π.χ. \"http://google.com/\""
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
-msgstr ""
+msgstr "Το πρωτόκολλο URL πρέπει να είναι HTTP, HTTPS ή FTP"
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
@@ -24026,7 +24026,7 @@ msgstr "Ο παλιός κωδικός είναι λάθος"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:20
 msgid "Invalid URL format"
-msgstr ""
+msgstr "Μη έγκυρη μορφή URL"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:79
 msgid "Daily"
@@ -24202,7 +24202,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:52
 msgid "Release Information"
-msgstr ""
+msgstr "Πληροφορίες κυκλοφορίας"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:73
 msgid "Add Missing Entities"
