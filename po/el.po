@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 23:45+0000\n"
+"PO-Revision-Date: 2012-05-02 00:57+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -333,7 +333,7 @@ msgstr "<strong>Σημείωση</strong>:"
 msgid ""
 "<strong>The ultimate source of music information</strong> by allowing anyone"
 " to contribute and releasing the {doc|data} under {doc2|open licenses}."
-msgstr ""
+msgstr "<strong>Η απόλυτη πηγή μουσικών πληροφοριών</strong> επιτρέποντας σε οποιονδήποτε να συνεισφέρει και εκδίδοντας τα {doc|δεδομένα} με {doc2|ανοιχτές άδειες χρήσης}."
 
 #: ../root/main/index.tt:43
 #, perl-format
@@ -341,7 +341,7 @@ msgid ""
 "<strong>The universal lingua franca for music</strong> by providing a "
 "reliable and unambiguous form of {doc|music identification}, enabling both "
 "people and machines to have meaningful conversations about music."
-msgstr ""
+msgstr "<strong>Η καθολική lingua franca της μουσική</strong> παρέχοντας μια αξιόπιστη και ξεκάθαρη μορφή {doc|αναγνώρισης μουσικής}, επιτρέποντας στους ανθρώπους και τις μηχανές να έχουν ουσιαστικές συνομιλίες για τη μουσική."
 
 #: ../root/components/common-macros.tt:587 ../root/recording/edit.tt:41
 #: ../root/release/edit/tracklist.tt:130
@@ -2318,7 +2318,7 @@ msgstr ""
 msgid ""
 "Become a part of our <strong>global community</strong> and <strong>start "
 "contributing!</strong>"
-msgstr ""
+msgstr "Γίνε μέλος της <strong>παγκόσμιας κοινότητάς</strong> μας και <strong>άρχισε να συνεισφέρεις!</strong>"
 
 #: ../root/cdtoc/lookup.tt:89
 #, perl-format
@@ -2355,12 +2355,12 @@ msgstr ""
 #: ../root/layout/menu.tt:209
 #, perl-format
 msgid "Beginners Guide"
-msgstr ""
+msgstr "Οδηγός για αρχάριους"
 
 #: ../root/main/index.tt:18
 #, perl-format
 msgid "Beginners guide"
-msgstr ""
+msgstr "Οδηγός για αρχάριους"
 
 #: DB:language/name:44
 msgid "Beja"
@@ -3327,7 +3327,7 @@ msgstr ""
 #: ../root/main/index.tt:70
 #, perl-format
 msgid "Community »"
-msgstr ""
+msgstr "Κοινότητα »"
 
 #: DB:country/name:48
 msgid "Comoros"
@@ -4978,7 +4978,7 @@ msgstr ""
 #: ../root/work/layout.tt:25
 #, perl-format
 msgid "Editing"
-msgstr ""
+msgstr "Επεξεργασία"
 
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
@@ -4996,7 +4996,7 @@ msgstr "Ιστορικό επεξεργασίας"
 #: ../root/main/index.tt:19
 #, perl-format
 msgid "Editing introduction"
-msgstr ""
+msgstr "Εισαγωγή στην επεξεργασία"
 
 #: ../root/annotation/history.tt:8 ../root/edit/search_macros.tt:278
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:43
@@ -6280,7 +6280,7 @@ msgstr ""
 #: ../root/edit/list_header.tt:27
 #, perl-format
 msgid "How editing works"
-msgstr ""
+msgstr "Πώς λειτουργεί η επεξεργασία"
 
 #: ../root/taglookup/nag.tt:7
 #, perl-format
@@ -8482,7 +8482,7 @@ msgid ""
 "Like Wikipedia, MusicBrainz is maintained by a global community of users and"
 " we want everyone &mdash; including you &mdash; to {doc|participate and "
 "contribute}."
-msgstr "Όπως η Wikipedia, το MusicBrainz συντηρείται από μια παγκόσμια κοινότητα χρηστών και θέλουμε όλοι &mdash; και εσείς &mdash; να {doc|συμμετάσχουν και να συνεισφέρουν}."
+msgstr "Όπως και η Wikipedia, το MusicBrainz συντηρείται από μια παγκόσμια κοινότητα χρηστών και θέλουμε όλοι &mdash; και εσείς &mdash; να {doc|συμμετάσχουν και να συνεισφέρουν}."
 
 #: DB:script/name:58
 msgid "Limbu"
@@ -17359,7 +17359,7 @@ msgstr ""
 #: ../root/release_group/details.tt:30 ../root/work/details.tt:30
 #, perl-format
 msgid "XML:"
-msgstr ""
+msgstr "XML:"
 
 #: DB:language/name:460
 msgid "Xhosa"
@@ -20700,7 +20700,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:185
 #, perl-format
 msgid "online community page for"
-msgstr ""
+msgstr "δι"
 
 #: DB:link_type/link_phrase:221 DB:link_type/reverse_link_phrase:221
 #: DB:link_type/short_link_phrase:221
