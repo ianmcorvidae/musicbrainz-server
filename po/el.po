@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-02 00:57+0000\n"
+"PO-Revision-Date: 2012-05-02 11:58+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -9110,7 +9110,7 @@ msgstr "Συγχώνευση γλώσσας &amp; γραφής:"
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
 #, perl-format
 msgid "Merge mediums and recordings"
-msgstr ""
+msgstr "Συγχώνευση μέσων και ηχογραφήσεων"
 
 #: ../root/release/merge_confirm.tt:10
 #, perl-format
@@ -23244,7 +23244,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller.pm:114
 msgid "Thank you, your edit has been accepted and applied"
-msgstr ""
+msgstr "Ευχαριστούμε, η επεξεργασία σας έγινε δεκτή και εφαρμόστηκε."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:44
 msgid "The user ID is missing or is in an invalid format."
@@ -23260,7 +23260,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:66
 msgid "The verification key is missing."
-msgstr ""
+msgstr "Το κλειδί επαλήθευσης λείπει"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:74
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:206
@@ -23364,7 +23364,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:296
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:407
 msgid "Invalid arguments"
-msgstr ""
+msgstr "Άκυρο όρισμα"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:310
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:413
@@ -23399,7 +23399,7 @@ msgstr "'{id}' δεν είναι έγκυρη FreeDB ID"
 
 #: ../lib/MusicBrainz/Server/Controller/ISRC.pm:57
 msgid "This ISRC does not exist"
-msgstr ""
+msgstr "Αυτό το ISRC δεν υπάρχει"
 
 #: ../lib/MusicBrainz/Server/Controller/Recording.pm:217
 msgid "This ISRC already exists for this recording"
@@ -23429,7 +23429,7 @@ msgstr "Το μήνυμά σας δεν μπορούσε να σταλεί"
 
 #: ../lib/MusicBrainz/Server/Controller/WS/2/DiscID.pm:87
 msgid "Invalid TOC"
-msgstr ""
+msgstr "Άκυρο TOC"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:106
 msgid "No title provided"
