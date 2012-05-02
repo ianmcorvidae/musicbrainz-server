@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-02 09:43+0000\n"
+"PO-Revision-Date: 2012-05-02 10:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1376,7 +1376,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:50
 #, perl-format
 msgid "Append mediums to target release"
-msgstr ""
+msgstr "Voeg media toe aan de doeluitgave"
 
 #: ../root/statistics/view_js.tt:55
 #, perl-format
@@ -1525,7 +1525,7 @@ msgstr "Weet u zeker dat u de ISRC <code>{isrc}</code> van {recording} door {art
 #: ../root/label/delete.tt:8
 #, perl-format
 msgid "Are you sure you wish to remove the label {label} from MusicBrainz?"
-msgstr ""
+msgstr "Weet u zeker dat u de platenmaatschappij {label} wilt verwijderen van MusicBrainz?"
 
 #: ../root/recording/delete.tt:8
 #, perl-format
@@ -2083,27 +2083,27 @@ msgstr ""
 #: DB:link_type/link_phrase:190
 #, perl-format
 msgid "BBC Music"
-msgstr ""
+msgstr "BBC Music"
 
 #: DB:link_type/reverse_link_phrase:190
 #, perl-format
 msgid "BBC Music page for"
-msgstr ""
+msgstr "BBC Music pagina voor"
 
 #: ../root/browse/page_selector.tt:54
 #, perl-format
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 #: ../root/elections/show.tt:5
 #, perl-format
 msgid "Back to elections"
-msgstr ""
+msgstr "Terug naar verkiezingen"
 
 #: DB:link_attribute_type/description:12
 #, perl-format
 msgid "Background vocal"
-msgstr ""
+msgstr "Achtergrondvocaal"
 
 #: ../root/report/bad_amazon_urls.tt:1 ../root/report/bad_amazon_urls.tt:3
 #, perl-format
@@ -2319,7 +2319,7 @@ msgstr "Omdat u een e-mailadres heeft verstrekt, is er een verificatie-e-mail ve
 msgid ""
 "Become a part of our <strong>global community</strong> and <strong>start "
 "contributing!</strong>"
-msgstr ""
+msgstr "Wordt lid van onze <strong>wereldwijde gemeenschap</strong> en <strong>begin met bijdragen!</strong>"
 
 #: ../root/cdtoc/lookup.tt:89
 #, perl-format
@@ -2335,13 +2335,13 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:70
 #, perl-format
 msgid "Began:"
-msgstr ""
+msgstr "Begonnen:"
 
 #: ../root/search/lib/inline-results-artist.tt:10
 #: ../root/search/results-label.tt:14
 #, perl-format
 msgid "Begin"
-msgstr ""
+msgstr "Begin"
 
 #: ../root/artist/edit_form.tt:52 ../root/edit/details/add_artist.tt:43
 #: ../root/edit/details/add_label.tt:27 ../root/edit/details/edit_artist.tt:36
@@ -2418,7 +2418,7 @@ msgstr ""
 
 #: DB:medium_format/name:24
 msgid "Betamax"
-msgstr ""
+msgstr "Betamax"
 
 #: DB:language/name:49
 msgid "Bhojpuri"
@@ -2460,7 +2460,7 @@ msgstr ""
 #: DB:link_attribute_type/description:94
 #, perl-format
 msgid "Biwa, Japanese lute"
-msgstr ""
+msgstr "Biwa, Japanse luit"
 
 #: DB:language/name:64
 msgid "Blin"
@@ -2583,12 +2583,12 @@ msgstr "Blader door platenmaatschappijen"
 #: ../root/browse/release_group.tt:1 ../root/browse/release_group.tt:3
 #, perl-format
 msgid "Browse Release Groups"
-msgstr ""
+msgstr "Blader door uitgavegroepen"
 
 #: ../root/browse/release.tt:1 ../root/browse/release.tt:3
 #, perl-format
 msgid "Browse Releases"
-msgstr ""
+msgstr "Blader door uitgaven"
 
 #: ../root/browse/work.tt:1 ../root/browse/work.tt:3
 #, perl-format
@@ -2619,13 +2619,13 @@ msgstr "Blader door opnames"
 #: ../root/search/index.tt:8
 #, perl-format
 msgid "Browse release groups"
-msgstr ""
+msgstr "Blader door uitgavegroepen"
 
 #: ../root/artist/browse_various_releases.tt:2 ../root/browse/index.tt:7
 #: ../root/search/index.tt:7
 #, perl-format
 msgid "Browse releases"
-msgstr ""
+msgstr "Blader door uitgaven"
 
 #: ../root/browse/index.tt:9 ../root/search/index.tt:9
 #, perl-format
@@ -2675,7 +2675,7 @@ msgstr ""
 
 #: DB:medium_format/name:1
 msgid "CD"
-msgstr ""
+msgstr "Cd"
 
 #: ../root/release/lookup.tt:1
 #, perl-format
@@ -2690,7 +2690,7 @@ msgstr ""
 #: ../root/cdtoc/lookup.tt:82
 #, perl-format
 msgid "CD Not Found"
-msgstr ""
+msgstr "Cd niet gevonden"
 
 #: ../root/search/results-cdstub.tt:10
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
@@ -2736,12 +2736,12 @@ msgstr "Cd-beginsel door {artist}"
 #: ../root/cdstub/edit.tt:53
 #, perl-format
 msgid "CD stub details"
-msgstr ""
+msgstr "Details voor cd-beginsel"
 
 #: ../root/release/edit/tracklist.tt:172
 #, perl-format
 msgid "CD stub import"
-msgstr ""
+msgstr "Import van cd-beginsel"
 
 #: ../root/cdstub/layout.tt:1
 #, perl-format
@@ -2856,7 +2856,7 @@ msgstr "Geannuleerd:"
 msgid ""
 "Cancelling a pending edit will take effect within an hour, while removing an"
 " artist alias has to be voted on according to the voting process."
-msgstr ""
+msgstr "Een onbesliste wijziging annuleren zal binnen een uur worden toegepast, terwijl het verwijderen van een alias voor een artiest door het stemmingsproces zal moeten worden ingestemd."
 
 #: ../root/work/delete_alias.tt:16
 #, perl-format
@@ -2889,7 +2889,7 @@ msgstr "Opname kan niet worden toegevoegd"
 #: ../root/artist/special_purpose.tt:1
 #, perl-format
 msgid "Cannot edit"
-msgstr ""
+msgstr "Kan niet wijzigen"
 
 #: DB:work_type/name:3
 msgid "Cantata"
@@ -2913,12 +2913,12 @@ msgstr ""
 
 #: DB:medium_format/name:8
 msgid "Cassette"
-msgstr ""
+msgstr "Cassette"
 
 #: ../root/release/edit/information.tt:75
 #, perl-format
 msgid "Cat.No:"
-msgstr ""
+msgstr "Cat.Nr:"
 
 #: DB:language/name:68
 msgid "Catalan"
@@ -2998,7 +2998,7 @@ msgstr ""
 #: DB:link_attribute_type/description:245
 #, perl-format
 msgid "Chamber orchestra"
-msgstr ""
+msgstr "Kamerorkest"
 
 #: DB:link_attribute_type/description:330 DB:link_attribute_type/name:330
 #, perl-format
@@ -3017,7 +3017,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:325 ../root/scripts/text_strings.tt:28
 #, perl-format
 msgid "Change"
-msgstr ""
+msgstr "Verander"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -3037,7 +3037,7 @@ msgstr "Verander wachtwoord"
 #: ../root/edit/relationship/edit.tt:79
 #, perl-format
 msgid "Change direction"
-msgstr ""
+msgstr "Keer richting om"
 
 #: ../root/release/change_quality.tt:1 ../root/release/change_quality.tt:2
 #, perl-format
@@ -3049,19 +3049,19 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/Move.pm:17
 #, perl-format
 msgid "Change release group"
-msgstr ""
+msgstr "Verander de uitgavegroep"
 
 #: ../root/release/sidebar.tt:68
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseQuality.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Release/ChangeQuality.pm:18
 #, perl-format
 msgid "Change release quality"
-msgstr ""
+msgstr "Verander de kwaliteitsscore van de uitgave"
 
 #: ../root/edit/vote.tt:27
 #, perl-format
 msgid "Change vote"
-msgstr ""
+msgstr "Verander stem"
 
 #: ../root/annotation/common.tt:17 ../root/annotation/edit.tt:21
 #: ../root/edit/details/add_artist_annotation.tt:7
@@ -3077,7 +3077,7 @@ msgstr ""
 #: ../root/edit/index.tt:17
 #, perl-format
 msgid "Changes"
-msgstr ""
+msgstr "Wijzigingen"
 
 #: DB:link_attribute_type/description:238 DB:link_attribute_type/name:238
 #, perl-format
@@ -3187,32 +3187,32 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:78
 #, perl-format
 msgid "Clear artist"
-msgstr ""
+msgstr "Artiest leegmaken"
 
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
 msgid "Clear label"
-msgstr ""
+msgstr "Platenmaatschappij leegmaken"
 
 #: ../root/scripts/text_strings.tt:80
 #, perl-format
 msgid "Clear recording"
-msgstr ""
+msgstr "Opname leegmaken"
 
 #: ../root/scripts/text_strings.tt:81
 #, perl-format
 msgid "Clear release"
-msgstr ""
+msgstr "Uitgave leegmaken"
 
 #: ../root/scripts/text_strings.tt:82
 #, perl-format
 msgid "Clear release group"
-msgstr ""
+msgstr "Uitgavegroep leegmaken"
 
 #: ../root/scripts/text_strings.tt:83
 #, perl-format
 msgid "Clear work"
-msgstr ""
+msgstr "Compositie leegmaken"
 
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
@@ -3267,7 +3267,7 @@ msgstr ""
 
 #: DB:script/name:128
 msgid "Code for unwritten documents"
-msgstr ""
+msgstr "Code voor ongeschreven documenten"
 
 #: ../root/layout/menu.tt:92
 #, perl-format
@@ -3277,12 +3277,12 @@ msgstr "Gedragscode"
 #: ../root/report/collaboration_relationships.tt:19
 #, perl-format
 msgid "Collaboration"
-msgstr ""
+msgstr "Samenwerking"
 
 #: ../root/report/collaboration_relationships.tt:20
 #, perl-format
 msgid "Collaborator"
-msgstr ""
+msgstr "Samenwerker"
 
 #: ../root/admin/linktype/tree.tt:44
 #, perl-format
@@ -3578,7 +3578,7 @@ msgstr "Aantal media met {n} Disc ID's"
 #: ../root/statistics/view_js.tt:67
 #, perl-format
 msgid "Count of all No votes"
-msgstr ""
+msgstr "Totaal aantal nee-stemmen"
 
 #: ../root/statistics/view_js.tt:130 ../root/statistics/view_js.tt:131
 #, perl-format
@@ -3743,7 +3743,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:66
 #, perl-format
 msgid "Count of all Yes votes"
-msgstr ""
+msgstr "Totaal aantal ja-stemmen"
 
 #: ../root/statistics/view_js.tt:40
 #, perl-format
@@ -3788,7 +3788,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:62
 #, perl-format
 msgid "Count of all votes"
-msgstr ""
+msgstr "Totaal aantal stemmen"
 
 #: ../root/statistics/view_js.tt:42
 #, perl-format
@@ -3823,12 +3823,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:63
 #, perl-format
 msgid "Count of votes per day"
-msgstr ""
+msgstr "Totaal aantal stemmen per dag"
 
 #: ../root/statistics/view_js.tt:64
 #, perl-format
 msgid "Count of votes per week"
-msgstr ""
+msgstr "Totaal aantal stemmen per week"
 
 #: ../root/statistics/countries.tt:25
 #, perl-format
@@ -4780,7 +4780,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:81
 #, perl-format
 msgid "Edit Note"
-msgstr ""
+msgstr "Wijzig de notitie"
 
 #: ../root/account/edit_ok.tt:1 ../root/account/edit_ok.tt:3
 #: ../root/account/edit.tt:1 ../root/account/edit.tt:3
@@ -5583,7 +5583,7 @@ msgstr ""
 msgid ""
 "For instructions on how to fix them, please see the documentation about "
 "{howto|how to merge releases}."
-msgstr ""
+msgstr "Voor instructies hoe u ze kunt verbeteren, leest u de documentatie over {howto|hoe uitgaves samen te voegen}."
 
 #: ../root/edit/info.tt:55
 #, perl-format
@@ -8600,7 +8600,7 @@ msgid ""
 "Looking for help? Check out our {doc|documentation} or {faq|FAQ}. "
 "Alternatively, you may find the page you're looking for by <a "
 "href=\"{wiki}\" class=\"external\">searching for it</a> on our wiki."
-msgstr ""
+msgstr "Zoekt u hulp? Kijk in onze {doc|documentatie} of {faq|FAQ's}. U kunt ook de pagina die u zoekt vinden door <a href=\"{wiki}\" class=\"external\">ernaar te zoeken</a> op onze wiki."
 
 #: DB:link_attribute_type/description:515
 #, perl-format
@@ -9137,7 +9137,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
 #, perl-format
 msgid "Merge release groups"
-msgstr ""
+msgstr "Voeg uitgavegroepen samen"
 
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
@@ -9828,7 +9828,7 @@ msgstr "Geen objecten in MusicBrainz zijn tot nu toe geëtiketteerd met \"{tag}\
 #: ../root/statistics/view_js.tt:67
 #, perl-format
 msgid "No Votes"
-msgstr ""
+msgstr "Geen stemmen"
 
 #: ../root/tag/artist.tt:1
 #, perl-format
@@ -9858,7 +9858,7 @@ msgstr ""
 #: ../root/elections/index.tt:29
 #, perl-format
 msgid "No elections found."
-msgstr ""
+msgstr "Geen verkiezingen gevonden."
 
 #: ../root/tag/label.tt:1
 #, perl-format
@@ -10880,21 +10880,21 @@ msgstr ""
 msgid ""
 "Please review the documentation about {aliases|artist aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Leest u alstublieft de documentatie over {aliases|aliassen voor artiesten} voordat u deze wijziging indient."
 
 #: ../root/label/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|label aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Leest u alstublieft de documentatie over {aliases|aliassen voor platenmaatschappijen} voordat u deze wijziging indient."
 
 #: ../root/work/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|work aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Leest u alstublieft de documentatie over {aliases|aliassen voor composities} voordat u deze wijziging indient."
 
 #: ../root/release/move_search.tt:4
 #, perl-format
@@ -11771,7 +11771,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:37
 #, perl-format
 msgid "Release"
-msgstr ""
+msgstr "Uitgave"
 
 #: ../root/recording/index.tt:13
 #, perl-format
@@ -11806,7 +11806,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:36
 #, perl-format
 msgid "Release Group"
-msgstr ""
+msgstr "Uitgavegroep"
 
 #: ../root/release_group/edit_form.tt:6
 #, perl-format
@@ -13714,7 +13714,7 @@ msgstr ""
 #: ../root/edit/list.tt:81
 #, perl-format
 msgid "Submit votes & edit notes"
-msgstr ""
+msgstr "Breng stemmen uit en voeg notities aan wijzigingen toe"
 
 #: ../root/artist/layout.tt:121 ../root/label/layout.tt:93
 #, perl-format
@@ -14593,7 +14593,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "The tally of votes cast will only be shown when the election is complete."
-msgstr ""
+msgstr "De telling van uitgebrachte stemmen worden alleen getoond als de verkiezing is afgesloten."
 
 #: DB:link_attribute_type/description:560
 #, perl-format
@@ -14987,7 +14987,7 @@ msgstr ""
 msgid ""
 "This edit failed because it affected high quality data and did not receive "
 "any votes."
-msgstr ""
+msgstr "Deze wijziging is niet doorgevoerd omdat het gegevens van een hoge kwaliteit betrof en er geen stemmen waren."
 
 #: ../root/components/common-macros.tt:470
 #, perl-format
@@ -15000,7 +15000,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:470
 #, perl-format
 msgid "This edit failed because there were insufficient \"yes\" votes."
-msgstr ""
+msgstr "Deze wijziging is niet doorgevoerd omdat er niet genoeg ja-stemmen waren."
 
 #: ../root/components/common-macros.tt:470
 #, perl-format
@@ -15023,7 +15023,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:470
 #, perl-format
 msgid "This edit is open and awaiting votes before it can be applied."
-msgstr ""
+msgstr "Deze wijziging staat open en wacht op stemmen voordat het wordt doorgevoerd."
 
 #: ../root/edit/details/set_track_lengths.tt:59
 #, perl-format
@@ -15052,7 +15052,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Plugin/Diff.pm:110
 #, perl-format
 msgid "This entity has been removed, and cannot be displayed correctly."
-msgstr ""
+msgstr "Dit object is verwijderd en kan niet correct worden weergegeven."
 
 #: ../root/components/common-macros.tt:157
 #, perl-format
@@ -15254,7 +15254,7 @@ msgid ""
 "This link points to a site describing relevant facts about the label "
 "history. (<a "
 "href=\"http://musicbrainz.org/doc/History_Site_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Deze verwijzing wijst naar een site die relevante feiten over de geschiedenis van de platenmaatschappij beschrijft. (<a href=\"http://musicbrainz.org/doc/History_Site_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:212
 #, perl-format
@@ -15328,7 +15328,7 @@ msgstr ""
 msgid ""
 "This page has not been reviewed by our documentation team ({more_info|more "
 "info})."
-msgstr ""
+msgstr "Deze pagina is niet beoordeeld door ons documentatieteam ({more_info|meer informatie})."
 
 #: ../root/doc/page.tt:26
 #, perl-format
@@ -16146,7 +16146,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:59
 #, perl-format
 msgid "Tracklist"
-msgstr ""
+msgstr "Lijst van nummers"
 
 #: ../root/edit/details/add_medium.tt:17
 #: ../root/edit/details/remove_medium.tt:17
@@ -16344,7 +16344,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/URL.pm:7
 #, perl-format
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../root/url/index.tt:2
 #, perl-format
@@ -16628,7 +16628,7 @@ msgstr ""
 msgid ""
 "Use the following fields to enter collaborations, see the <a "
 "href=\"{url}\">Artist Credit</a> documentation for more information."
-msgstr ""
+msgstr "Gebruik de volgende velden om samenwerkingen toe te voegen, zie de <a href=\"{url}\">Artist Credit</a> documentatie voor meer informatie."
 
 #: ../root/release/edit/tracklist.tt:232
 #, perl-format
@@ -16922,47 +16922,47 @@ msgstr ""
 #: ../root/statistics/index.tt:514 ../root/statistics/view_js.tt:62
 #, perl-format
 msgid "Votes"
-msgstr ""
+msgstr "Stemmen"
 
 #: ../root/user/profile.tt:138
 #, perl-format
 msgid "Votes ({view_url|view})"
-msgstr ""
+msgstr "Stemmen ({view_url|bekijken})"
 
 #: ../root/elections/show.tt:33
 #, perl-format
 msgid "Votes against:"
-msgstr ""
+msgstr "Tegenstemmen:"
 
 #: ../root/elections/show.tt:103
 #, perl-format
 msgid "Votes cast"
-msgstr ""
+msgstr "Uitgebrachte stemmen"
 
 #: ../root/elections/show.tt:25
 #, perl-format
 msgid "Votes for/against:"
-msgstr ""
+msgstr "Stemmen voor/tegen:"
 
 #: ../root/elections/show.tt:30
 #, perl-format
 msgid "Votes for:"
-msgstr ""
+msgstr "Voorstemmen:"
 
 #: ../root/statistics/view_js.tt:63
 #, perl-format
 msgid "Votes per day"
-msgstr ""
+msgstr "Stemmen per dag"
 
 #: ../root/statistics/view_js.tt:64
 #, perl-format
 msgid "Votes per week"
-msgstr ""
+msgstr "Stemmen per week"
 
 #: ../root/statistics/index.tt:519 ../root/statistics/index.tt:542
 #, perl-format
 msgid "Votes:"
-msgstr ""
+msgstr "Stemmen:"
 
 #: DB:language/name:450
 msgid "Votic"
@@ -17400,7 +17400,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:66
 #, perl-format
 msgid "Yes Votes"
-msgstr ""
+msgstr "Ja-stemmen"
 
 #: ../root/edit/search_macros.tt:278
 #, perl-format
@@ -17456,33 +17456,33 @@ msgstr ""
 msgid ""
 "You are about to add an ISRC to {recording} by {ac}. The ISRC must be "
 "entered in standard <code>CCXXXYYNNNNNN</code> format:"
-msgstr ""
+msgstr "U staat op het punt om een ISRC toe te voegen aan {recording} door {ac}. De ISRC moet worden toegevoegd in het standaard <code>CCXXXYYNNNNNN</code> formaat:"
 
 #: ../root/artist/edit_form.tt:3
 #, perl-format
 msgid "You are about to add an artist to MusicBrainz."
-msgstr ""
+msgstr "U staat op het punt om een artiest aan MusicBrainz toe te voegen."
 
 #: ../root/cdtoc/set_durations.tt:4
 #, perl-format
 msgid ""
 "You are about to enter an edit that will change the durations of tracks to "
 "match that of the below disc ID."
-msgstr ""
+msgstr "U staat op het punt om een wijziging toe te voegen die de duur van de nummers verandert zodat ze overeenkomen met onderstaand Disc ID."
 
 #: ../root/artist/merge.tt:4
 #, perl-format
 msgid ""
 "You are about to merge the following artists into a single artist. Please "
 "select the artist which you would like other artists to be merged into:"
-msgstr ""
+msgstr "U staat op het punt om de volgende artiesten samen te voegen. Selecteer alstublieft de artiest waarin u de andere artiesten wilt samenvoegen:"
 
 #: ../root/label/merge.tt:4
 #, perl-format
 msgid ""
 "You are about to merge the following labels into a single label. Please "
 "select the label which you would like other labels to be merged into:"
-msgstr ""
+msgstr "U staat op het punt om de volgende platenmaatschappijen samen te voegen. Selecteer alstublieft de platenmaatschappij waarin u de andere platenmaatschappijen wilt samenvoegen:"
 
 #: ../root/recording/merge.tt:4
 #, perl-format
@@ -17490,7 +17490,7 @@ msgid ""
 "You are about to merge the following recordings into a single recording. "
 "Please select the recording which you would like other recordings to be "
 "merged into:"
-msgstr ""
+msgstr "U staat op het punt om de volgende opnames samen te voegen. Selecteer alstublieft de opname waarin u de andere opnames wilt samenvoegen:"
 
 #: ../root/release_group/merge.tt:4
 #, perl-format
@@ -17513,7 +17513,7 @@ msgstr ""
 msgid ""
 "You are about to merge the following works into a single work. Please select"
 " the work that you would like the other works merged into:"
-msgstr ""
+msgstr "U staat op het punt om de volgende composities samen te voegen. Selecteer alstublieft de compositie waarin u de andere composities wilt samenvoegen:"
 
 #: ../root/label/edit_form.tt:16
 #, perl-format
@@ -22838,7 +22838,7 @@ msgstr ""
 msgid ""
 "{edit} has received one or more \"no\" votes, you must leave an edit note "
 "before you can approve it."
-msgstr ""
+msgstr "{edit} heeft een of meer nee-stemmen gekregen. U moet een notitie bij deze wijziging plaatsen om hem direct te bevestigen."
 
 #: ../root/components/common-macros.tt:166
 #: ../root/components/relationships.tt:18
@@ -23270,7 +23270,7 @@ msgstr "Het controlecijfer is incorrect, controleert u uw e-mail alstublieft opn
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:82
 msgid "Sorry, this email verification link has expired."
-msgstr ""
+msgstr "Excuus, deze e-mail-verificatielink is verlopen."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:91
 #, perl-brace-format
@@ -23332,7 +23332,7 @@ msgstr "Deze samenwerking is gesplitst in wijziging #{id}."
 #: ../lib/MusicBrainz/Server/Controller/AutoEditorElections.pm:70
 #, perl-brace-format
 msgid "'{id}' is not a valid election ID"
-msgstr ""
+msgstr "'{id}' is geen geldige verkiezing ID"
 
 #: ../lib/MusicBrainz/Server/Controller/CDStub.pm:59
 msgid "The required TOC parameter was invalid or not present"
