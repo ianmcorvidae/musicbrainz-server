@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-02 13:59+0000\n"
+"PO-Revision-Date: 2012-05-02 14:25+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -1642,7 +1642,7 @@ msgstr ""
 #: ../root/artist/edit_form.tt:37
 #, perl-format
 msgid "Artist Details"
-msgstr ""
+msgstr "Λεπτομέρειες καλλιτέχνη"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -2695,7 +2695,7 @@ msgstr "CD δε βρέθηκε"
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
 #, perl-format
 msgid "CD Stub"
-msgstr ""
+msgstr "CD Stub"
 
 #: ../root/cdstub/error.tt:2
 #, perl-format
@@ -3347,7 +3347,7 @@ msgstr ""
 
 #: DB:release_group_type/name:4
 msgid "Compilation"
-msgstr ""
+msgstr "Συλλογή"
 
 #: DB:link_attribute_type/description:499
 #, perl-format
@@ -7986,7 +7986,7 @@ msgstr ""
 #: ../root/user/login.tt:31
 #, perl-format
 msgid "Keep me logged in"
-msgstr ""
+msgstr "Να με θυμάσαι"
 
 #: ../root/components/forms.tt:131 ../root/components/forms.tt:155
 #: ../root/release/edit/tracklist.tt:460
@@ -17665,7 +17665,7 @@ msgstr ""
 #: ../root/edit/index.tt:79
 #, perl-format
 msgid "You must be logged in to vote on edits"
-msgstr ""
+msgstr "Πρέπει να είστε συνδεδεμένοι για να ψηφίσετε επεξεργασίες"
 
 #: ../root/main/401.tt:9
 #, perl-format
@@ -17693,7 +17693,7 @@ msgstr "Πρέπει να είστε σίγουροι ότι αυτό το disc 
 #: ../root/user/login.tt:7
 #, perl-format
 msgid "You need to be logged in to view this page."
-msgstr ""
+msgstr "Πρέπει να είστε συνδεδεμένοι για να δείτε αυτή τη σελίδα."
 
 #: ../root/release/edit/information.tt:142
 #, perl-format
@@ -18646,7 +18646,7 @@ msgstr ""
 #: DB:link_type/link_phrase:228
 #, perl-format
 msgid "compilation of"
-msgstr ""
+msgstr "συλλογή από"
 
 #: DB:link_type/link_phrase:16 DB:link_type/link_phrase:52
 #: DB:link_type/link_phrase:159 DB:link_type/link_phrase:247
@@ -18658,7 +18658,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:237
 #, perl-format
 msgid "compilations"
-msgstr ""
+msgstr "συλλογές"
 
 #: DB:link_type/link_phrase:48 DB:link_type/link_phrase:147
 #: DB:link_type/short_link_phrase:48 DB:link_type/short_link_phrase:147
@@ -19882,7 +19882,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:228
 #, perl-format
 msgid "is a compilation of"
-msgstr ""
+msgstr "είναι μια συλλογή από"
 
 #: DB:link_type/short_link_phrase:17
 #, perl-format
@@ -20877,7 +20877,7 @@ msgstr ""
 #: DB:link_attribute_type/description:180 DB:link_attribute_type/name:180
 #, perl-format
 msgid "piano"
-msgstr ""
+msgstr "πιάνο"
 
 #: DB:link_attribute_type/description:439 DB:link_attribute_type/name:439
 #, perl-format
@@ -23269,7 +23269,7 @@ msgstr "Το checksum δεν είναι έγκυρο, παρακαλούμε ε�
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:82
 msgid "Sorry, this email verification link has expired."
-msgstr ""
+msgstr "Συγνώμη, αυτός ο σύνδεσμος επιβεβαίωσης email έχει λήξει."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:91
 #, perl-brace-format
@@ -23292,11 +23292,11 @@ msgstr "Δεν υπάρχει χρήστης με αυτό το όνομα κα�
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:190
 msgid "Missing one or more required parameters."
-msgstr ""
+msgstr "Λείπει μια ή περισσότερες από τις απαιτούμενες παραμέτρους."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:198
 msgid "Sorry, this password reset link has expired."
-msgstr ""
+msgstr "Συγνώμη, αυτός ο σύνδεσμος επαναφοράς κωδικού έχει λήξει."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
@@ -23373,7 +23373,7 @@ msgstr "Μη έγκυρη οντότητα"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:318
 msgid "A relationship requires 2 different entities"
-msgstr ""
+msgstr "Μια σχέση χρειάζεται 2 διαφορετικές οντότητες."
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:419
 msgid "Release not found"
@@ -23390,7 +23390,7 @@ msgstr "Μη έγκυρος τύπος"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:541
 msgid "Entity not found"
-msgstr ""
+msgstr "Οντότητα δε βρέθηκε."
 
 #: ../lib/MusicBrainz/Server/Controller/FreeDB.pm:37
 #, perl-brace-format
