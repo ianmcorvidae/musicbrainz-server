@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-02 08:59+0000\n"
+"PO-Revision-Date: 2012-05-02 09:43+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -593,7 +593,7 @@ msgstr "Actieve redacteuren"
 #: ../root/statistics/view_js.tt:73
 #, perl-format
 msgid "Active Users"
-msgstr ""
+msgstr "Actieve gebruikers"
 
 #: ../root/statistics/view_js.tt:72
 #, perl-format
@@ -1250,8 +1250,8 @@ msgstr ""
 #, perl-format
 msgid "An anonymous user"
 msgid_plural "{n} anonymous users"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Eén anonieme gebruiker"
+msgstr[1] "{n} anonieme gebruikers"
 
 #: ../root/account/register.tt:9
 #, perl-format
@@ -2304,7 +2304,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:35
 #, perl-format
 msgid "Be the first! {sub|Subscribe}?"
-msgstr ""
+msgstr "Wees de eerste! {sub|Abonneer}?"
 
 #: ../root/account/registered.tt:13
 #, perl-format
@@ -3227,7 +3227,7 @@ msgstr ""
 #: ../root/account/edit_ok.tt:12
 #, perl-format
 msgid "Click {link|here} to continue to your user page."
-msgstr ""
+msgstr "Klik {link|hier} om verder te gaan naar de gebruikerspagina."
 
 #: ../root/edit/details/add_puids.tt:3
 #, perl-format
@@ -4278,7 +4278,7 @@ msgstr ""
 #: ../root/admin/delete_user.tt:2 ../root/user/profile/layout.tt:39
 #, perl-format
 msgid "Delete User"
-msgstr ""
+msgstr "Verwijder gebruiker"
 
 #: ../root/admin/delete_user.tt:21
 #, perl-format
@@ -4857,7 +4857,7 @@ msgstr "Wijzig URL"
 #: ../root/user/profile/layout.tt:27
 #, perl-format
 msgid "Edit User"
-msgstr ""
+msgstr "Wijzig gebruiker"
 
 #: ../root/work/edit.tt:15
 #, perl-format
@@ -4949,7 +4949,7 @@ msgstr ""
 #: ../root/admin/edit_user.tt:40
 #, perl-format
 msgid "Edit user"
-msgstr ""
+msgstr "Wijzig gebruiker"
 
 #: ../root/work/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/EditAlias.pm:13
@@ -5064,7 +5064,7 @@ msgstr "Wijzigingen door redacteurs waarop u bent geabonneerd"
 #: ../root/edit/subscribed.tt:15 ../root/edit/subscribed.tt:17
 #, perl-format
 msgid "Edits For Your Subscribed Entities"
-msgstr ""
+msgstr "Wijzigingen van objecten waar u op bent geabonneerd"
 
 #: ../root/statistics/view_js.tt:53
 #, perl-format
@@ -5074,7 +5074,7 @@ msgstr "Wijzigingen die spoedig geannuleerd worden"
 #: ../root/layout/menu.tt:45
 #, perl-format
 msgid "Edits by Subscribed Editors"
-msgstr ""
+msgstr "Wijzigingen door redacteurs waar u op bent geabonneerd"
 
 #: ../root/user/edits.tt:16
 #, perl-format
@@ -5084,7 +5084,7 @@ msgstr ""
 #: ../root/layout/menu.tt:42
 #, perl-format
 msgid "Edits for Subscribed Entities"
-msgstr ""
+msgstr "Wijzigingen van objecten waar u op bent geabonneerd"
 
 #: ../root/label/edits.tt:17
 #, perl-format
@@ -5283,7 +5283,7 @@ msgid ""
 "is highly recommended. Not only does it make it clear where you got your "
 "information, but it can also encourage other users to vote on your edit "
 "&mdash; thus making your edit get applied faster."
-msgstr ""
+msgstr "Het toevoegen van een {note|wijzigingsnotitie} die beschrijft waar u uw informatie vandaan heeft wordt sterk aangeraden. Niet alleen maakt dit duidelijk waar u uw informatie vandaan heeft, maar het kan ook gebruikers aansporen om op uw wijziging te stemmen, waardoor wijzigingen sneller worden doorgevoerd."
 
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
@@ -6292,7 +6292,7 @@ msgid ""
 "{metabrainz_foundation}, a California based 501(c)3 tax-exempt non-profit, "
 "operates the MusicBrainz project which makes all donations <b>tax "
 "deductible</b> for US taxpayers. And its simply good karma everywhere else!"
-msgstr ""
+msgstr "Echter, we moeten nog steeds onze rekeningen betalen en het hosten van de site kost meer dan $1000 per maand. We hebben onze gebruikers nodig om de eindjes aan elkaar te knopen en hopelijk geld over te houden om meer ontwikkelingen te ondersteunen. De {metabrainz_foundation}, een in Californië gevestigde organisatie zonder winstoogmerk (501(c)3), exploiteert het project MusicBrainz, waardoor alle donaties <b>aftrekbaar zijn voor de belastingen</b> voor belastingbetalers in de VS. En het levert gewoon goede karma op voor anderen!"
 
 #: DB:language/name:176
 msgid "Hungarian"
@@ -6670,7 +6670,7 @@ msgstr ""
 msgid ""
 "If you're interested in receiving information from MusicBrainz staff or "
 "communicating with other users, {ml|please subscribe to our mailing lists}."
-msgstr ""
+msgstr "Als u geïnteresseerd bent in het ontvangen van informatie van personeel van MusicBrainz of het communiceren met anderen, {ml|abonneer dan op onze discussielijst}."
 
 #: DB:language/name:179
 msgid "Igbo"
@@ -8496,7 +8496,7 @@ msgstr ""
 #: ../root/user/profile.tt:45
 #, perl-format
 msgid "Limited User"
-msgstr ""
+msgstr "Beperkte gebruiker"
 
 #: DB:script/name:80
 msgid "Linear A"
@@ -8640,7 +8640,7 @@ msgstr "Wachtwoord verloren"
 #: ../root/account/lost_username.tt:3
 #, perl-format
 msgid "Lost Username"
-msgstr ""
+msgstr "Gebruikersnaam kwijt"
 
 #: ../root/components/common-macros.tt:457
 #, perl-format
@@ -9411,7 +9411,7 @@ msgstr "MusicBrainz voor Android"
 msgid ""
 "MusicBrainz has one account type for all users. If you represent an artist "
 "or label, please use the above form to create an account."
-msgstr ""
+msgstr "MusicBrainz heeft één type gebruikersaccount voor alle gebruikers. Als u een artiest of platenmaatschappij vertegenwoordigt, gebruik dan het bovenstaande formulier om een gebruikersaccount aan te maken."
 
 #: ../root/main/index.tt:29
 #, perl-format
@@ -9960,7 +9960,7 @@ msgstr "Geen abonnementen."
 #: ../root/user/privileged.tt:9
 #, perl-format
 msgid "No users found"
-msgstr ""
+msgstr "Geen gebruikers gevonden"
 
 #: ../root/edit/search_macros.tt:234
 #, perl-format
@@ -10024,7 +10024,7 @@ msgstr ""
 #: ../root/user/profile.tt:48
 #, perl-format
 msgid "Normal User"
-msgstr ""
+msgstr "Normale gebruiker"
 
 #: DB:language/name:308
 msgid "Norse, Old"
@@ -10262,7 +10262,7 @@ msgstr ""
 msgid ""
 "Only the user who created an edit can cancel it, either you did not create "
 "{edit} or perhaps it has already been closed."
-msgstr ""
+msgstr "Alleen de gebruiker die een wijziging heeft ingediend kan deze annuleren, u heeft {edit} niet ingediend of misschien is deze al afgesloten."
 
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
@@ -11197,7 +11197,7 @@ msgstr "Privécollectie"
 #: ../root/user/privileged.tt:16
 #, perl-format
 msgid "Privileged User Accounts"
-msgstr ""
+msgstr "Geprivilegieerde gebruikersacounts"
 
 #: DB:label_type/name:3
 msgid "Production"
@@ -12947,7 +12947,7 @@ msgstr ""
 #: ../root/account/preferences.tt:44
 #, perl-format
 msgid "Send me mails with edits to my subscriptions:"
-msgstr ""
+msgstr "Stuur mij e-mails met wijzigingen in mijn abonnementen:"
 
 #: DB:country/name:185
 msgid "Senegal"
@@ -13719,27 +13719,27 @@ msgstr ""
 #: ../root/artist/layout.tt:121 ../root/label/layout.tt:93
 #, perl-format
 msgid "Subscribe"
-msgstr ""
+msgstr "Abonneer"
 
 #: ../root/label/subscriptions.tt:25
 #, perl-format
 msgid "Subscribe to this Label."
-msgstr ""
+msgstr "Abonneer op deze platenmaatschappij."
 
 #: ../root/artist/subscribe.tt:20
 #, perl-format
 msgid "Subscribe to this artist."
-msgstr ""
+msgstr "Abonneer op deze artiest."
 
 #: ../root/artist/subscribe.tt:1 ../root/label/subscriptions.tt:1
 #, perl-format
 msgid "Subscribed Editors"
-msgstr ""
+msgstr "Geabonneerde redacteurs"
 
 #: ../root/edit/list_header.tt:15
 #, perl-format
 msgid "Subscribed editors"
-msgstr ""
+msgstr "Geabonneerde redacteurs"
 
 #: ../root/edit/list_header.tt:13
 #, perl-format
@@ -13758,7 +13758,7 @@ msgstr ""
 #: ../root/user/profile.tt:77
 #, perl-format
 msgid "Subscribers:"
-msgstr ""
+msgstr "Abonnees:"
 
 #: ../root/artist/layout.tt:115 ../root/label/layout.tt:87
 #: ../root/layout/menu.tt:16 ../root/user/profile/layout.tt:12
@@ -14278,7 +14278,7 @@ msgstr ""
 msgid ""
 "The comment field is used to help users distinguish between identically "
 "named releases."
-msgstr ""
+msgstr "Het commentaarveld wordt gebruikt door gebruikers om het verschil tussen uitgaves met dezelfde naam aan te geven."
 
 #: DB:link_attribute_type/description:601
 #, perl-format
@@ -14376,7 +14376,7 @@ msgstr ""
 #: ../root/user/privileged.tt:41
 #, perl-format
 msgid "The following {count} user accounts are bots:"
-msgstr ""
+msgstr "De volgende {count} gebruikersaccounts zijn robots:"
 
 #: ../root/user/privileged.tt:31
 #, perl-format
@@ -14635,7 +14635,7 @@ msgstr ""
 #: ../root/taglookup/nag.tt:4
 #, perl-format
 msgid "The users make MusicBrainz happen and we appreciate your help!"
-msgstr ""
+msgstr "De gebruikers zorgen dat MusicBrainz werkt en wij waarderen uw hulp!"
 
 #: ../root/watch/list.tt:4
 #, perl-format
@@ -14677,22 +14677,22 @@ msgstr ""
 #: ../root/user/subscribers.tt:23
 #, perl-format
 msgid "There are currently no users subscribed to edits that you make."
-msgstr ""
+msgstr "Er zijn momenteel geen gebruikers geabonneerd op wijzigingen die u maakt."
 
 #: ../root/user/subscribers.tt:25
 #, perl-format
 msgid "There are currently no users subscribed to edits that {user} makes."
-msgstr ""
+msgstr "Er zijn momenteel geen gebruikers geabonneerd op wijzigingen die {user} maakt."
 
 #: ../root/artist/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {artist}."
-msgstr ""
+msgstr "Er zijn momenteel geen gebruikers geabonneerd op {artist}."
 
 #: ../root/label/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {label}."
-msgstr ""
+msgstr "Er zijn momenteel geen gebruikers geabonneerd op {label}."
 
 #: ../root/cdtoc/attach_medium.tt:3
 #, perl-format
@@ -14722,7 +14722,7 @@ msgstr ""
 #: ../root/label/subscriptions.tt:11
 #, perl-format
 msgid "There are no users currently subscribed to this Label."
-msgstr ""
+msgstr "Er zijn momenteel geen redacteurs geabonneerd op deze platenmaatschappij."
 
 #: ../root/edit/relationship/cannot_create.tt:3
 #, perl-format
@@ -14735,37 +14735,37 @@ msgstr ""
 #, perl-format
 msgid "There is also one anonymous subscriber."
 msgid_plural "There are also {num} anonymous subscribers."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Er is ook één anonieme abonnee."
+msgstr[1] "Er zijn ook {num} anonieme abonnees."
 
 #: ../root/artist/subscribe.tt:15
 #, perl-format
 msgid "There is also {num} anonymous subscriber"
 msgid_plural "There are also {num} anonymous subscribers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Er is ook {num} anonieme abonnee."
+msgstr[1] "Er zijn ook {num} anonieme abonnees."
 
 #: ../root/user/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to edits that {user} makes:"
 msgid_plural ""
 "There are currently {num} users subscribed to edits that {user} makes:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Er is momenteel {num} gebruiker geabonneerd op wijzigingen die {user} maakt"
+msgstr[1] "Er zijn momenteel {num} gebruikers geabonneerd op wijzigingen die {user} maakt."
 
 #: ../root/artist/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {artist}:"
 msgid_plural "There are currently {num} users subscribed to {artist}:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Er is momenteel {num} gebruiker geabonneerd op {artist}:"
+msgstr[1] "Er zijn momenteel {num} gebruikers geabonneerd op {artist}:"
 
 #: ../root/label/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {label}:"
 msgid_plural "There are currently {num} users subscribed to {label}:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Er is momenteel {num} gebruiker geabonneerd op {label}:"
+msgstr[1] "Er zijn momenteel {num} gebruikers geabonneerd op {label}:"
 
 #: ../root/search/editor-not-found.tt:4
 #, perl-format
@@ -15149,7 +15149,7 @@ msgstr "Dit is een server voor ontwikkeling; alle wachtwoorden zijn teruggezet n
 msgid ""
 "This is an {history|old revision} of this annotation, as edited by {user} on"
 " {date}. {current|View current revision}."
-msgstr ""
+msgstr "Dit is een {history|oude revisie} van deze aantekening, zoals deze is gewijzigd door {user} op {date}. {current|Bekijk huidige revisie}."
 
 #: DB:link_type/description:217
 #, perl-format
@@ -16535,17 +16535,17 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:32
 #, perl-format
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Abonnement opzeggen"
 
 #: ../root/label/subscriptions.tt:21
 #, perl-format
 msgid "Unsubscribe from this Label."
-msgstr ""
+msgstr "Abonnement op deze platenmaatschappij opzeggen."
 
 #: ../root/artist/subscribe.tt:18
 #, perl-format
 msgid "Unsubscribe from this artist."
-msgstr ""
+msgstr "Abonnement op deze artiest opzeggen."
 
 #: ../root/admin/edit_user.tt:12
 #, perl-format
@@ -16668,23 +16668,23 @@ msgstr ""
 #, perl-format
 msgid ""
 "User accounts must be more than 2 weeks old, have a confirmed email address,"
-msgstr ""
+msgstr "Gebruikersaccounts moeten meer dan twee weken oud zijn, een geverifieerd e-mailadres hebben,"
 
 #: ../root/admin/edit_user.tt:5
 #, perl-format
 msgid "User permissions"
-msgstr ""
+msgstr "Gebruikerspermissies"
 
 #: ../root/user/profile.tt:39
 #, perl-format
 msgid "User type:"
-msgstr ""
+msgstr "Gebruikerstype:"
 
 #: ../root/account/lost_password.tt:14 ../root/account/register.tt:29
 #: ../root/user/login.tt:23
 #, perl-format
 msgid "Username:"
-msgstr ""
+msgstr "Gebruikersnaam:"
 
 #: ../root/release/merge.tt:41
 #, perl-format
@@ -17541,7 +17541,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:32
 #, perl-format
 msgid "You are currently subscribed. {unsub|Unsubscribe}?"
-msgstr ""
+msgstr "U bent momenteel geabonneerd. {unsub|Opzeggen}?"
 
 #: ../root/watch/list.tt:7
 #, perl-format
@@ -17562,7 +17562,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:38
 #, perl-format
 msgid "You are not currently subscribed. {sub|Subscribe}?"
-msgstr ""
+msgstr "U bent momenteel niet geabonneerd. {sub|Abonneren}?"
 
 #: ../root/watch/list.tt:32
 #, perl-format
@@ -17731,7 +17731,7 @@ msgstr ""
 msgid ""
 "Your email has been successfully sent! Click {link|here} to continue to "
 "{user}'s profile."
-msgstr ""
+msgstr "Uw e-mail is succesvol verzonden! Klik {link|hier} om verder te gaan naar het profiel van {user}."
 
 #: ../root/account/change_password_ok.tt:5
 #, perl-format
@@ -19964,7 +19964,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:247
 #, perl-format
 msgid "is in my subscriptions"
-msgstr ""
+msgstr "is in mijn abonnementen"
 
 #: ../root/edit/search_macros.tt:136
 #, perl-format
@@ -20930,8 +20930,8 @@ msgstr ""
 #, perl-format
 msgid "plus {n} other anonymous user"
 msgid_plural "Plus {n} other anonymous users"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "plus {n} andere anonieme gebruiker"
+msgstr[1] "Plus {n} andere anonieme gebruikers"
 
 #: ../root/release/collections.tt:14
 #, perl-format
@@ -21595,7 +21595,7 @@ msgstr ""
 #: ../root/user/profile.tt:88
 #, perl-format
 msgid "subscribe"
-msgstr ""
+msgstr "abonneren"
 
 #: DB:link_type/link_phrase:200
 #, perl-format
@@ -21998,7 +21998,7 @@ msgstr ""
 #: ../root/user/profile.tt:86
 #, perl-format
 msgid "unsubscribe"
-msgstr ""
+msgstr "abonnement opzeggen"
 
 #: ../root/components/common-macros.tt:539 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -23097,17 +23097,17 @@ msgstr "{user} heeft geen publieke collecties."
 #: ../root/user/ratings.tt:23
 #, perl-format
 msgid "{user} has not rated anything."
-msgstr ""
+msgstr "{user} heeft niets een waardering gegeven."
 
 #: ../root/user/tag.tt:22
 #, perl-format
 msgid "{user} has not tagged anything with '{tag}'."
-msgstr ""
+msgstr "{user} heeft niets het etiket '{tag}' gegeven."
 
 #: ../root/user/tags.tt:7
 #, perl-format
 msgid "{user} has not tagged anything."
-msgstr ""
+msgstr "{user} heeft niets een etiket gegeven."
 
 #: ../root/recording/edit.tt:45
 #, perl-format
@@ -23249,7 +23249,7 @@ msgstr "Bedankt, uw wijziging is geaccepteerd en toegepast"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:44
 msgid "The user ID is missing or is in an invalid format."
-msgstr ""
+msgstr "Dit gebruikers ID is in een ongeldig formaat."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:51
 msgid "The email address is missing."
@@ -24043,7 +24043,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
-msgstr ""
+msgstr "Kies alstublieft een andere gebruikersnaam, deze is al in gebruik"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
