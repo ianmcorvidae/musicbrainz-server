@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-01 06:17+0000\n"
+"PO-Revision-Date: 2012-05-02 06:50+0000\n"
 "Last-Translator: Dibou <email address hidden>\n"
 "Language-Team: French (France) (http://www.transifex.net/projects/p/musicbrainz/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -10328,7 +10328,7 @@ msgstr "Options"
 #: ../root/cdtoc/lookup.tt:96
 #, perl-format
 msgid "Or..."
-msgstr ""
+msgstr "Ou..."
 
 #: DB:work_type/name:11
 msgid "Oratorio"
@@ -13852,7 +13852,7 @@ msgstr "symboles"
 
 #: DB:work_type/name:18
 msgid "Symphonic poem"
-msgstr ""
+msgstr "Poème symphonique"
 
 #: DB:work_type/name:16
 msgid "Symphony"
@@ -16488,7 +16488,7 @@ msgstr ""
 #: ../root/statistics/formats.tt:5
 #, perl-format
 msgid "Unknown Format"
-msgstr ""
+msgstr "Format inconnu"
 
 #: ../root/statistics/view_js.tt:95
 #, perl-format
@@ -18388,7 +18388,7 @@ msgstr ""
 #: DB:link_attribute_type/name:610
 #, perl-format
 msgid "body percussion"
-msgstr ""
+msgstr "Percussion corporelle"
 
 #: DB:link_attribute_type/name:519
 #, perl-format
@@ -20769,7 +20769,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:233
 #, perl-format
 msgid "other versions"
-msgstr ""
+msgstr "Autres versions"
 
 #: DB:link_attribute_type/description:304 DB:link_attribute_type/name:304
 #, perl-format
@@ -20829,7 +20829,7 @@ msgstr ""
 #: DB:link_attribute_type/description:124 DB:link_attribute_type/name:124
 #, perl-format
 msgid "percussion"
-msgstr ""
+msgstr "Percussion"
 
 #: DB:link_type/link_phrase:34 DB:link_type/link_phrase:122
 #: DB:link_type/reverse_link_phrase:34 DB:link_type/reverse_link_phrase:122
@@ -21503,7 +21503,7 @@ msgstr ""
 #: DB:link_attribute_type/name:596
 #, perl-format
 msgid "solo"
-msgstr ""
+msgstr "solo"
 
 #: DB:link_attribute_type/name:356
 #, perl-format
@@ -21584,7 +21584,7 @@ msgstr ""
 #: DB:link_attribute_type/description:69 DB:link_attribute_type/name:69
 #, perl-format
 msgid "strings"
-msgstr ""
+msgstr "cordes"
 
 #: DB:link_attribute_type/description:322 DB:link_attribute_type/name:322
 #, perl-format
@@ -21847,7 +21847,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:262
 #, perl-format
 msgid "track"
-msgstr ""
+msgstr "piste"
 
 #: ../root/components/common-macros.tt:82
 #, perl-format
@@ -22364,7 +22364,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "{about|More Information} &mdash; {faq|FAQs} &mdash; {contact|Contact Us}"
-msgstr ""
+msgstr "{about|Plus d'Informations} &mdash; {faq|FAQs} &mdash; {contact|Nous contacter}"
 
 #: DB:link_type/link_phrase:293 DB:link_type/link_phrase:295
 #: DB:link_type/link_phrase:297 DB:link_type/short_link_phrase:293
@@ -22787,12 +22787,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:79
 #, perl-format
 msgid "{country} artists"
-msgstr ""
+msgstr "{country} artistes"
 
 #: ../root/statistics/view_js.tt:80
 #, perl-format
 msgid "{country} labels"
-msgstr ""
+msgstr "{country} labels"
 
 #: ../root/statistics/view_js.tt:81
 #, perl-format
@@ -23161,7 +23161,7 @@ msgstr "Åland, Îles"
 
 #: DB:work_type/name:20
 msgid "Étude"
-msgstr ""
+msgstr "Étude"
 
 #: DB:link_attribute_type/name:285
 #, perl-format
@@ -23306,7 +23306,7 @@ msgstr "Désolé, mais ce lien de réinitialisation de mot de passe a expiré."
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found"
-msgstr ""
+msgstr "Aucun utilisateur n'a été trouvé avec l'identifiant '{user_id}' "
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:256
 msgid "There is no user with this email"
@@ -23725,7 +23725,7 @@ msgstr "Convertir la sortie en mode multi-artistes"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SetTrackLengthsFromCDTOC.pm:10
 msgid "Set track lengths"
-msgstr ""
+msgstr "Définir la durée des pistes"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
@@ -23899,7 +23899,7 @@ msgstr "Le protocole de l'URL doit être HTTP, HTTPS ou FTP"
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
-msgstr ""
+msgstr "Selectionnez l'entité avec laquelle vous voulez fusionner les autres."
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:61
 msgid "Another medium is already in this position"
@@ -23945,7 +23945,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:63
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:86
 msgid "Frequently used"
-msgstr ""
+msgstr "Utilisé fréquemment"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:101
 msgid ""
@@ -24035,15 +24035,15 @@ msgstr "Format d'URL invalide"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:79
 msgid "Daily"
-msgstr ""
+msgstr "Quotidien"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:80
 msgid "Weekly"
-msgstr ""
+msgstr "Hebdomadaire"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Never"
-msgstr ""
+msgstr "Jamais"
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
