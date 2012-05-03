@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-03 02:15+0000\n"
+"PO-Revision-Date: 2012-05-03 12:52+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -562,7 +562,7 @@ msgstr "Λογαριασμός δημιουργήθηκε"
 #: ../root/admin/edit_user.tt:23 ../root/admin/edit_user.tt:27
 #, perl-format
 msgid "Account admin"
-msgstr ""
+msgstr "Διαχειριστής λογαριασμού"
 
 #: DB:language/name:3
 msgid "Achinese"
@@ -1132,7 +1132,7 @@ msgstr ""
 #: ../root/account/preferences.tt:30
 #, perl-format
 msgid "Allow other users to see my subscriptions"
-msgstr ""
+msgstr "Να επιτρέπεται στους άλλους χρήστες να βλέπουν τις συνδρομές μου"
 
 #: ../root/account/preferences.tt:31
 #, perl-format
@@ -1672,7 +1672,7 @@ msgstr ""
 #: ../root/user/subscriptions/artist.tt:1 ../root/user/subscriptions/menu.tt:3
 #, perl-format
 msgid "Artist Subscriptions"
-msgstr ""
+msgstr "Συνδρομές σε καλλιτέχνες"
 
 #: ../root/statistics/view_js.tt:169
 #, perl-format
@@ -2048,12 +2048,12 @@ msgstr ""
 #: ../root/account/preferences.tt:49
 #, perl-format
 msgid "Automatically subscribe me to artists I create."
-msgstr ""
+msgstr "Να εγγράφομαι αυτόματα στους καλλιτέχνες που προσθέτω."
 
 #: ../root/account/preferences.tt:51
 #, perl-format
 msgid "Automatically subscribe me to labels I create."
-msgstr ""
+msgstr "Να εγγράφομαι αυτόματα στις δισκογραφικές εταιρείες που προσθέτω."
 
 #: DB:language/name:30
 msgid "Avaric"
@@ -2303,7 +2303,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:35
 #, perl-format
 msgid "Be the first! {sub|Subscribe}?"
-msgstr ""
+msgstr "Γίνε ο πρώτος! {sub|Εγγραφή};"
 
 #: ../root/account/registered.tt:13
 #, perl-format
@@ -4595,7 +4595,7 @@ msgstr "Δομινικανή Δημοκρατία"
 #: ../root/user/login.tt:12
 #, perl-format
 msgid "Don't have an account? {uri|Create one now}!"
-msgstr "Δεν έχετε λογαριασμό; {uri|Φτιάξτε έναν τώρα}!"
+msgstr "Δεν έχετε λογαριασμό; {uri|Δημιουργήστε έναν τώρα}!"
 
 #: ../root/layout.tt:141
 #, perl-format
@@ -4786,7 +4786,7 @@ msgstr "Σημείωμα επεξεργασίας"
 #: ../root/layout/menu.tt:7
 #, perl-format
 msgid "Edit Profile"
-msgstr ""
+msgstr "Επεξεργασία προφίλ"
 
 #: ../root/recording/edit_annotation.tt:1
 #, perl-format
@@ -4922,7 +4922,7 @@ msgstr "Σημειώματα επεξεργασίας"
 #: ../root/admin/edit_user.tt:30
 #, perl-format
 msgid "Edit profile"
-msgstr ""
+msgstr "Επεξεργασία προφίλ"
 
 #: ../root/recording/edit.tt:32
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
@@ -5012,7 +5012,7 @@ msgstr ""
 #: ../root/user/subscriptions/editor.tt:1 ../root/user/subscriptions/menu.tt:5
 #, perl-format
 msgid "Editor Subscriptions"
-msgstr ""
+msgstr "Συνδρομές σε χρήστες"
 
 #: ../root/user/profile/layout.tt:1 ../root/user/profile/layout.tt:8
 #, perl-format
@@ -5574,7 +5574,7 @@ msgstr ""
 msgid ""
 "For information about the account deletion process, please read the "
 "{uri|account FAQ}."
-msgstr ""
+msgstr "Για πληροφορίες σχετικά με τη διαδικασία διαγραφής λογαριασμού, παρακαλούμε διαβάστε τις {uri|συχνές ερωτήσεις για λογαριασμούς}."
 
 #: ../root/report/part_of_set_relationships.tt:7
 #: ../root/report/separate_discs.tt:7
@@ -6633,7 +6633,7 @@ msgstr ""
 msgid ""
 "If you think this is a mistake, please contact "
 "<code>support@musicbrainz.org</code> with the name of your account."
-msgstr ""
+msgstr "Αν θεωρείτε ότι έχει συμβεί κάποιο λάθος, παρακαλούμε επικοινωνήστε μαζί μας στο <code>support@musicbrainz.org</code> με το όνομα χρήστη του λογαριασμού σας."
 
 #: ../root/tag/not_found.tt:7
 #, perl-format
@@ -6645,7 +6645,7 @@ msgstr ""
 #: ../root/account/edit.tt:23
 #, perl-format
 msgid "If you would like to delete your account, you may {uri|do so here}."
-msgstr ""
+msgstr "Αν θέλετε να διαγράψετε το λογαριασμό σας, μπορείτε να {uri|το κάνετε εδώ}."
 
 #: ../root/account/donation.tt:10
 #, perl-format
@@ -8201,7 +8201,7 @@ msgstr ""
 #: ../root/user/subscriptions/label.tt:1 ../root/user/subscriptions/menu.tt:4
 #, perl-format
 msgid "Label Subscriptions"
-msgstr ""
+msgstr "Συνδρομές σε δισκογραφικές εταιρείες"
 
 #: ../root/statistics/view_js.tt:170
 #, perl-format
@@ -9393,7 +9393,7 @@ msgid ""
 "MusicBrainz believes strongly in the privacy of its users! Any personal "
 "information you choose to provide will not be sold or shared with anyone "
 "else. For full details, please read our {doc|Privacy Policy}."
-msgstr "Το MusicBrainz πιστεύει ακράδαντα στην προστασία των προσωπικών δεδομένων των χρηστών του. Όποιες προσωπικές πληροφορίες επιλέξετε να παρέχετε δεν πρόκειται να πωληθούν ή να μοιραστούν με οποιονδήποτε άλλο. Για περισσότερες πληροφορίες, παρακαλώ διαβάστε την {doc|Πολιτική προστασίας προσωπικών δεδομένων} μας."
+msgstr "Το MusicBrainz πιστεύει ακράδαντα στην προστασία των προσωπικών δεδομένων των χρηστών του. Όποιες προσωπικές πληροφορίες επιλέξετε να παρέχετε δεν πρόκειται να πωληθούν ή να μοιραστούν με οποιονδήποτε άλλο. Για περισσότερες πληροφορίες, παρακαλώ διαβάστε την {doc|πολιτική προστασίας προσωπικών δεδομένων} μας."
 
 #: ../root/cdtoc/lookup.tt:83
 #, perl-format
@@ -9410,7 +9410,7 @@ msgstr "MusicBrainz για Android"
 msgid ""
 "MusicBrainz has one account type for all users. If you represent an artist "
 "or label, please use the above form to create an account."
-msgstr ""
+msgstr "Το MusicBrainz έχει ένα είδος λογαριασμού για όλους τους χρήστες. Αν αντιπροσωπεύετε κάποιον καλλιτέχνη ή δισκογραφική εταιρεία, παρακαλούμε χρησιμοποιήστε την παραπάνω φόρμα για να δημιουργήστε το λογαριασμό σας."
 
 #: ../root/main/index.tt:29
 #, perl-format
@@ -9954,7 +9954,7 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:38
 #, perl-format
 msgid "No subscriptions."
-msgstr ""
+msgstr "Καμία συνδρομή."
 
 #: ../root/user/privileged.tt:9
 #, perl-format
@@ -10839,7 +10839,7 @@ msgid ""
 "Please note that capitalization of the label name is taken into account when"
 " determining the need for a comment.  The two labels <em>some name</em> and "
 "<em>Some Name</em> are not the same."
-msgstr ""
+msgstr "Κρατήστε κατά νου ότι λαμβάνονται υπόψιν τα κεφαλαία γράμματα στο όνομα μιας δισκογραφικής εταιρείας για να κριθεί αν είναι απαραίτητη η χρήση σχολίου.  Οι εταιρείες <em>κάποιο όνομα</em> και <em>Κάποιο Όνομα</em> δεν θεωρούνται ίδιες."
 
 #: ../root/search/form.tt:54
 #, perl-format
@@ -10907,7 +10907,7 @@ msgstr ""
 msgid ""
 "Please review the {coc|MusicBrainz Code of Conduct} before creating an "
 "account."
-msgstr ""
+msgstr "Παρακαλούμε να διαβάσετε τον {coc|κώδικα δεοντολογίας του MusicBrainz Code of Conduct} πριν δημιουργήσετε ένα λογαριασμό."
 
 #: ../root/label/delete.tt:5
 #, perl-format
@@ -11196,7 +11196,7 @@ msgstr ""
 #: ../root/user/privileged.tt:16
 #, perl-format
 msgid "Privileged User Accounts"
-msgstr ""
+msgstr "Προνομιούχοι λογαριασμοί χρηστών"
 
 #: DB:label_type/name:3
 msgid "Production"
@@ -11210,7 +11210,7 @@ msgstr "Προϊόντα"
 #: ../root/user/profile/layout.tt:12
 #, perl-format
 msgid "Profile"
-msgstr ""
+msgstr "Προφίλ"
 
 #: DB:release_status/name:2
 msgid "Promotion"
@@ -12946,7 +12946,7 @@ msgstr ""
 #: ../root/account/preferences.tt:44
 #, perl-format
 msgid "Send me mails with edits to my subscriptions:"
-msgstr ""
+msgstr "Να μου στέλνετε μηνύματα για επεξεργασίες στις συνδρομές μου:"
 
 #: DB:country/name:185
 msgid "Senegal"
@@ -12971,7 +12971,7 @@ msgstr ""
 #: ../root/account/reset_password.tt:5
 #, perl-format
 msgid "Set a new password for your MusicBrainz account."
-msgstr ""
+msgstr "Ορίστε ένα νέο κωδικό πρόσβασης για το λογαριασμό σας στο MusicBrainz."
 
 #: ../root/cdtoc/list.tt:53
 #, perl-format
@@ -13763,7 +13763,7 @@ msgstr ""
 #: ../root/layout/menu.tt:16 ../root/user/profile/layout.tt:12
 #, perl-format
 msgid "Subscriptions"
-msgstr ""
+msgstr "Συνδρομές"
 
 #: DB:country/name:198
 msgid "Sudan"
@@ -14375,7 +14375,7 @@ msgstr ""
 #: ../root/user/privileged.tt:41
 #, perl-format
 msgid "The following {count} user accounts are bots:"
-msgstr ""
+msgstr "Οι παρακάτω {count} λογαριασμοί χρηστών είναι bots:"
 
 #: ../root/user/privileged.tt:31
 #, perl-format
@@ -15141,7 +15141,7 @@ msgstr ""
 #: ../root/user/login.tt:27
 #, perl-format
 msgid "This is a development server; all passwords have been reset to \"mb\"."
-msgstr ""
+msgstr "Αυτός είναι ένας server ανάπτυξης, όλοι οι κωδικοί είναι \"mb\"."
 
 #: ../root/annotation/common.tt:33
 #, perl-format
@@ -15312,7 +15312,7 @@ msgstr "Συνδέει έναν καλλιτέχνη με το προφίλ το
 msgid ""
 "This links an entity to the appropriate listing in the Songfacts database, a"
 " user contributed database concerned with the stories behind the songs."
-msgstr ""
+msgstr "Συνδέει μια οντότητα με την αντίστοιχη καταχώριση στη βάση δεδομένων του Songfacts, μιας βάσης δεδομένων δημιουργημένη από τους χρήστες που ασχολείται με τις ιστορίες πίσω από τα τραγούδια."
 
 #: ../root/release/merge.tt:83
 #, perl-format
@@ -16667,7 +16667,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "User accounts must be more than 2 weeks old, have a confirmed email address,"
-msgstr ""
+msgstr "Οι λογαριασμοί χρηστών πρέπει να υπάρχουν για τουλάχιστον 2 εβδομάδες και να διαθέτουν επιβεβαιωμένη διεύθυνση ηλεκτρονικού ταχυδρομείου,"
 
 #: ../root/admin/edit_user.tt:5
 #, perl-format
@@ -17139,7 +17139,7 @@ msgid ""
 "We've sent you information about your MusicBrainz account. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr ""
+msgstr "Σας έχουμε στείλει πληροφορίες σχετικά με το λογαριασμό σας στο MusicBrainz. Εάν δεν έχετε λάβει αυτό το email ή έχετε ακόμα προβλήματα κατά τη σύνδεσή σας, παρακαλώ {link|επικοινωνήστε μαζί μας}."
 
 #: ../root/account/lost_password_sent.tt:5
 #, perl-format
@@ -17660,7 +17660,7 @@ msgstr ""
 msgid ""
 "You may proceed to <a href=\"{uri}\">your user profile</a>, or maybe you "
 "want to {edit|start editing}!"
-msgstr ""
+msgstr "Μπορείτε να συνεχίσετε στο <a href=\"{uri}\">προφίλ σας</a>, ή ίσως να θέλετε να {edit|ξεκινήσετε να επεξεργάζεστε}!"
 
 #: ../root/edit/index.tt:79
 #, perl-format
@@ -17679,7 +17679,7 @@ msgstr ""
 msgid ""
 "You must provide a working email address if you wish to contribute to the "
 "database."
-msgstr ""
+msgstr "Θα πρέπει να παρέχετε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου εάν θέλετε να συνεισφέρετε στη βάση δεδομένων."
 
 #: ../root/cdtoc/remove.tt:11
 #, perl-format
@@ -17730,7 +17730,7 @@ msgstr ""
 msgid ""
 "Your email has been successfully sent! Click {link|here} to continue to "
 "{user}'s profile."
-msgstr ""
+msgstr "Το μήνυμά σας στάλθηκε επιτυχώς! Κάντε κλικ {link|εδώ} για να συνεχίσετε στο προφίλ του/της {user}."
 
 #: ../root/account/change_password_ok.tt:5
 #, perl-format
@@ -17754,7 +17754,7 @@ msgstr ""
 #: ../root/account/edit_ok.tt:6
 #, perl-format
 msgid "Your profile has been updated."
-msgstr ""
+msgstr "Το προφίλ σας ανανεώθηκε."
 
 #: ../root/search/error/invalid.tt:3
 #, perl-format
@@ -19963,7 +19963,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:247
 #, perl-format
 msgid "is in my subscriptions"
-msgstr ""
+msgstr "είναι στις συνδρομές μου"
 
 #: ../root/edit/search_macros.tt:136
 #, perl-format
@@ -21997,7 +21997,7 @@ msgstr ""
 #: ../root/user/profile.tt:86
 #, perl-format
 msgid "unsubscribe"
-msgstr ""
+msgstr "Κατάργηση συνδρομής"
 
 #: ../root/components/common-macros.tt:539 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -22400,7 +22400,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:46 DB:link_type/short_link_phrase:151
 #, perl-format
 msgid "{additional:additionally} conducted"
-msgstr ""
+msgstr "{additional:επιπλέον} διεύθυνε την ορχήστρα"
 
 #: DB:link_type/link_phrase:40 DB:link_type/link_phrase:164
 #: DB:link_type/link_phrase:300 DB:link_type/short_link_phrase:40
@@ -22556,7 +22556,7 @@ msgstr "{additional} συνθέτης"
 #: DB:link_type/reverse_link_phrase:46 DB:link_type/reverse_link_phrase:151
 #, perl-format
 msgid "{additional} conductor"
-msgstr ""
+msgstr "{additional} διευθυντής ορχήστρας"
 
 #: DB:link_type/link_phrase:63 DB:link_type/link_phrase:146
 #: DB:link_type/reverse_link_phrase:63 DB:link_type/reverse_link_phrase:146
