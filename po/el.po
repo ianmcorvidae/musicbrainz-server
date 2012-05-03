@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-03 12:52+0000\n"
+"PO-Revision-Date: 2012-05-03 13:59+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -1090,7 +1090,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:59
 #, perl-format
 msgid "All edits that have failed by being voted down"
-msgstr ""
+msgstr "Όλες οι επεξεργασίες οι οποίες απέτυχαν επειδή καταψηφίστηκαν"
 
 #: ../root/statistics/view_js.tt:57
 #, perl-format
@@ -3742,7 +3742,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:66
 #, perl-format
 msgid "Count of all Yes votes"
-msgstr ""
+msgstr "Καταμέτρηση όλων των θετικών ψήφων."
 
 #: ../root/statistics/view_js.tt:40
 #, perl-format
@@ -5053,7 +5053,7 @@ msgstr ""
 #: ../root/user/profile.tt:111
 #, perl-format
 msgid "Edits ({view_url|view})"
-msgstr ""
+msgstr "Επεξεργασίες ({view_url|προβολή})"
 
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
@@ -5451,7 +5451,7 @@ msgstr ""
 #: ../root/user/profile.tt:128
 #, perl-format
 msgid "Failed"
-msgstr ""
+msgstr "Απέτυχαν"
 
 #: ../root/statistics/index.tt:471
 #, perl-format
@@ -5481,7 +5481,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:59
 #, perl-format
 msgid "Failed edits (voted down)"
-msgstr ""
+msgstr "Αποτυχημένες επεξεργασίες (καταψηφίστηκαν)"
 
 #: DB:country/name:69
 msgid "Falkland Islands (Malvinas)"
@@ -10447,7 +10447,7 @@ msgstr ""
 #: ../root/user/profile.tt:149
 #, perl-format
 msgid "Overall"
-msgstr ""
+msgstr "Συνολικά"
 
 #: DB:work_type/name:12
 msgid "Overture"
@@ -10459,7 +10459,7 @@ msgstr ""
 #: ../root/url/header.tt:1 ../root/work/header.tt:1
 #, perl-format
 msgid "Overview"
-msgstr ""
+msgstr "Περιγραφή"
 
 #: ../root/collection/layout.tt:6
 #, perl-format
@@ -11150,17 +11150,17 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:37
 #, perl-format
 msgid "Preview"
-msgstr ""
+msgstr "Προεπισκόπηση"
 
 #: ../root/annotation/edit.tt:7
 #, perl-format
 msgid "Preview:"
-msgstr ""
+msgstr "Προεπισκόπηση:"
 
 #: ../root/scripts/text_strings.tt:32
 #, perl-format
 msgid "Preview: "
-msgstr ""
+msgstr "Προεπισκόπηση:"
 
 #: ../root/scripts/text_strings.tt:36
 #, perl-format
@@ -13513,17 +13513,17 @@ msgstr ""
 #: ../root/search/results-label.tt:11
 #, perl-format
 msgid "Sort Name"
-msgstr ""
+msgstr "Όνομα ταξινόμησης"
 
 #: ../root/release/edit/missing_entities.tt:17
 #, perl-format
 msgid "Sort Name:"
-msgstr ""
+msgstr "Όνομα ταξινόμησης:"
 
 #: ../root/report/duplicate_artists.tt:21
 #, perl-format
 msgid "Sort name"
-msgstr ""
+msgstr "Όνομα ταξινόμησης"
 
 #: ../root/artist/edit_form.tt:39 ../root/artist/layout.tt:6
 #: ../root/edit/details/add_artist.tt:14 ../root/edit/details/add_label.tt:14
@@ -13532,7 +13532,7 @@ msgstr ""
 #: ../root/label/layout.tt:6
 #, perl-format
 msgid "Sort name:"
-msgstr ""
+msgstr "Όνομα ταξινόμησης:"
 
 #: DB:language/name:310
 msgid "Sotho, Northern"
@@ -14999,7 +14999,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:470
 #, perl-format
 msgid "This edit failed because there were insufficient \"yes\" votes."
-msgstr ""
+msgstr "Η επεξεργασία απέτυχε επειδή δεν υπήρχαν αρκετές θετικές ψήφοι."
 
 #: ../root/components/common-macros.tt:470
 #, perl-format
@@ -16830,17 +16830,17 @@ msgstr ""
 #: ../root/elections/index.tt:23
 #, perl-format
 msgid "View details"
-msgstr ""
+msgstr "Προβολή πληροφοριών"
 
 #: ../root/admin/wikidoc/index.tt:110
 #, perl-format
 msgid "View on wiki"
-msgstr ""
+msgstr "Προβολή στο wiki"
 
 #: ../root/annotation/history.tt:29
 #, perl-format
 msgid "View this version"
-msgstr ""
+msgstr "Προβολή αυτής της έκδοσης"
 
 #: ../root/admin/wikidoc/index.tt:63
 #, perl-format
@@ -16890,7 +16890,7 @@ msgstr ""
 #: ../root/elections/show.tt:71
 #, perl-format
 msgid "Vote YES"
-msgstr ""
+msgstr "Ψηφίζω ΝΑΙ."
 
 #: ../root/layout/menu.tt:197
 #, perl-format
@@ -16905,12 +16905,12 @@ msgstr ""
 #: ../root/user/profile.tt:124
 #, perl-format
 msgid "Voted down"
-msgstr ""
+msgstr "Καταψηφίστηκαν"
 
 #: ../root/statistics/index.tt:465
 #, perl-format
 msgid "Voted down:"
-msgstr ""
+msgstr "Καταψηφίστηκαν:"
 
 #: ../root/elections/show.tt:108
 #, perl-format
@@ -17394,49 +17394,49 @@ msgstr ""
 #: ../root/edit/vote.tt:13 ../lib/MusicBrainz/Server/Data/Vote.pm:156
 #, perl-format
 msgid "Yes"
-msgstr ""
+msgstr "Ναι"
 
 #: ../root/statistics/view_js.tt:66
 #, perl-format
 msgid "Yes Votes"
-msgstr ""
+msgstr "Θετικοί ψήφοι"
 
 #: ../root/edit/search_macros.tt:278
 #, perl-format
 msgid "Yes vote count"
-msgstr ""
+msgstr "Καταμέτρηση θετικών ψήφων"
 
 #: ../root/elections/nominate.tt:11
 #, perl-format
 msgid "Yes, I am sure"
-msgstr ""
+msgstr "Ναι, είμαι σίγουρος"
 
 #: ../root/artist/edit_form.tt:32
 #, perl-format
 msgid ""
 "Yes, I am sure this artist is not duplicate, and I know what I am doing."
-msgstr ""
+msgstr "Ναι, είμαι σίγουρος ότι αυτός ο καλλιτέχνης δεν υπάρχει ήδη και ξέρω τι κάνω."
 
 #: ../root/label/edit_form.tt:29
 #, perl-format
 msgid ""
 "Yes, I am sure this label is not duplicate, and I know what I am doing."
-msgstr ""
+msgstr "Ναι, είμαι σίγουρος ότι αυτή η δισκογραφική εταιρεία δεν υπάρχει ήδη και ξέρω τι κάνω."
 
 #: ../root/admin/wikidoc/delete.tt:9
 #, perl-format
 msgid "Yes, I'm sure"
-msgstr ""
+msgstr "Ναι, είμαι σίγουρος"
 
 #: ../root/statistics/index.tt:525
 #, perl-format
 msgid "Yes:"
-msgstr ""
+msgstr "Ναι:"
 
 #: ../root/statistics/index.tt:507 ../root/statistics/index.tt:555
 #, perl-format
 msgid "Yesterday:"
-msgstr ""
+msgstr "Χθες:"
 
 #: DB:script/name:90
 msgid "Yi"
@@ -19655,7 +19655,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:94
 #, perl-format
 msgid "has a review page at"
-msgstr ""
+msgstr "έχει κριτική στο"
 
 #: DB:link_type/short_link_phrase:192 DB:link_type/short_link_phrase:218
 #, perl-format
@@ -21234,12 +21234,12 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:94
 #, perl-format
 msgid "review page for"
-msgstr ""
+msgstr "σελίδα κριτικής για"
 
 #: DB:link_type/link_phrase:94
 #, perl-format
 msgid "reviews"
-msgstr ""
+msgstr "κριτικές"
 
 #: DB:link_attribute_type/description:449 DB:link_attribute_type/name:449
 #, perl-format
@@ -23140,7 +23140,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:50 ../root/edit/index.tt:29
 #, perl-format
 msgid "{yes} yes : {no} no"
-msgstr ""
+msgstr "{yes} ναι : {no} όχι"
 
 #: ../root/release/edit/duplicates.tt:35 ../root/release/edit/editnote.tt:41
 #: ../root/release/edit/missing_entities.tt:119
