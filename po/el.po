@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-03 02:00+0000\n"
+"PO-Revision-Date: 2012-05-03 02:15+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -686,7 +686,7 @@ msgstr ""
 #: ../root/recording/create.tt:18
 #, perl-format
 msgid "Add Standalone Recording"
-msgstr ""
+msgstr "Προσθήκη μεμονωμένης ηχογράφησης "
 
 #: ../root/edit/relationship/create_url.tt:15
 #: ../root/edit/relationship/create_url.tt:17
@@ -757,7 +757,7 @@ msgstr "Προσθήκη νέας κυκλοφορίας"
 #: ../root/edit/notes.tt:39
 #, perl-format
 msgid "Add an edit note"
-msgstr ""
+msgstr "Προσθέστε σημείωμα επεξεργαρσίας"
 
 #: ../root/artist/layout.tt:80 ../root/label/layout.tt:59
 #: ../root/recording/layout.tt:37 ../root/release_group/layout.tt:36
@@ -1342,7 +1342,7 @@ msgstr ""
 #: ../root/annotation/edit.tt:15 ../root/release/edit/information.tt:104
 #, perl-format
 msgid "Annotation:"
-msgstr ""
+msgstr "Σχόλιο:"
 
 #: DB:country/name:8
 msgid "Antarctica"
@@ -1553,7 +1553,7 @@ msgstr ""
 
 #: DB:country/name:10
 msgid "Argentina"
-msgstr ""
+msgstr "Αργεντινή"
 
 #: DB:work_type/name:1
 msgid "Aria"
@@ -1561,16 +1561,16 @@ msgstr ""
 
 #: DB:country/name:11
 msgid "Armenia"
-msgstr ""
+msgstr "Αρμενία"
 
 #: DB:language/name:21 DB:script/name:35
 msgid "Armenian"
-msgstr ""
+msgstr "Αρμένικα"
 
 #: DB:link_attribute_type/description:480
 #, perl-format
 msgid "Armenian traditional woodwind instrument"
-msgstr ""
+msgstr "Παραδοσιακό αρμένικο πνευστό όργανο"
 
 #: DB:language/name:479
 msgid "Aromanian"
@@ -3502,7 +3502,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:115
 #, perl-format
 msgid "Count of all Barcodes"
-msgstr ""
+msgstr "Καταμέτρηση όλων των barcodes"
 
 #: ../root/statistics/view_js.tt:119
 #, perl-format
@@ -4242,7 +4242,7 @@ msgstr "Νταούλι (Davul), τούρκικο κρουστό"
 #: ../root/scripts/text_strings.tt:71
 #, perl-format
 msgid "Deceased:"
-msgstr ""
+msgstr "Πέθανε:"
 
 #: ../root/statistics/view_js.tt:148
 #, perl-format
@@ -4912,12 +4912,12 @@ msgstr ""
 #: ../root/edit/cancel.tt:19 ../root/forms/edit-note.tt:13
 #, perl-format
 msgid "Edit note:"
-msgstr ""
+msgstr "Σημείωμα επεξεργασίας:"
 
 #: ../root/edit/index.tt:85
 #, perl-format
 msgid "Edit notes"
-msgstr ""
+msgstr "Σημειώματα επεξεργασίας"
 
 #: ../root/admin/edit_user.tt:30
 #, perl-format
@@ -6564,7 +6564,7 @@ msgstr ""
 msgid ""
 "If you do not know whether the release has a barcode or not, just leave this"
 " blank."
-msgstr ""
+msgstr "Σε περίπτωση που δε γνωρίζεται αν η κυκλοφορία έχει barcode ή όχι, αφήστε το κενό. "
 
 #: ../root/cdtoc/attach_filter_artist.tt:39
 #, perl-format
@@ -8227,7 +8227,7 @@ msgstr ""
 #: ../root/statistics/index.tt:613
 #, perl-format
 msgid "Label-Label:"
-msgstr ""
+msgstr "Δισκογραφική εταιρεία-Δισκογραφική εταιρεία:"
 
 #: ../root/statistics/index.tt:619
 #, perl-format
@@ -8268,7 +8268,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:64
 #, perl-format
 msgid "Label:"
-msgstr ""
+msgstr "Εταιρεία:"
 
 #: ../root/release/edit/missing_entities.tt:77 ../root/release/sidebar.tt:41
 #: ../root/statistics/countries.tt:36 ../root/statistics/view_js.tt:46
@@ -8534,7 +8534,7 @@ msgstr "Λιθουανικά"
 
 #: DB:release_group_type/name:9
 msgid "Live"
-msgstr "Ζωντανά"
+msgstr "Ζωντανός δίσκος"
 
 #: ../root/layout/menu.tt:145
 #, perl-format
@@ -9756,7 +9756,7 @@ msgstr ""
 #: ../root/edit/details/edit_release_language.tt:30
 #, perl-format
 msgid "New script:"
-msgstr ""
+msgstr "Νέα γραφή:"
 
 #: ../root/edit/details/change_wikidoc.tt:23
 #: ../root/edit/details/change_wikidoc.tt:28
@@ -9847,7 +9847,7 @@ msgstr "Δεν υπάρχει διαθέσιμο εξώφυλλο"
 #: ../root/edit/notes.tt:29
 #, perl-format
 msgid "No edit notes have been added."
-msgstr ""
+msgstr "Δεν έχουν προστεθεί σημειώματα επεξεργασίας"
 
 #: ../root/edit/list.tt:88
 #, perl-format
@@ -10360,12 +10360,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:86
 #, perl-format
 msgid "Other"
-msgstr ""
+msgstr "Άλλο"
 
 #: ../root/statistics/index.tt:47
 #, perl-format
 msgid "Other Entities"
-msgstr ""
+msgstr "Άλλες οντότητες"
 
 #: ../root/otherlookup/results.tt:1 ../root/otherlookup/results.tt:3
 #, perl-format
@@ -10524,7 +10524,7 @@ msgstr "PUIDs:"
 #: ../root/release/edit/information.tt:59 ../root/release/sidebar.tt:25
 #, perl-format
 msgid "Packaging:"
-msgstr ""
+msgstr "Συσκευασία:"
 
 #: ../root/doc/bare_error.tt:1 ../root/doc/error.tt:1 ../root/doc/error.tt:3
 #: ../root/main/404.tt:4 ../root/main/404.tt:6 ../root/main/mirror_404.tt:1
@@ -10778,7 +10778,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:66
 #, perl-format
 msgid "Please double-check the barcode on the release."
-msgstr ""
+msgstr "Παρακαλούμε ελέγξτε το barcode σε αυτήν την κυκλοφορία."
 
 #: ../root/components/tag.tt:7
 #, perl-format
@@ -11993,7 +11993,7 @@ msgstr ""
 #: ../root/cdtoc/attach_filter_release.tt:6 ../root/cdtoc/move_search.tt:13
 #, perl-format
 msgid "Release title:"
-msgstr ""
+msgstr "Τίτλος κυκλοφορίας:"
 
 #: ../root/release/layout.tt:1
 #, perl-format
@@ -12754,7 +12754,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:45 ../root/release/sidebar.tt:25
 #, perl-format
 msgid "Script:"
-msgstr ""
+msgstr "Γραφή:"
 
 #: ../root/statistics/languages_scripts.tt:44
 #, perl-format
@@ -12912,7 +12912,7 @@ msgstr ""
 #: ../root/cdtoc/attach_medium.tt:2
 #, perl-format
 msgid "Select a disc"
-msgstr ""
+msgstr "Επιλέξτε ένα δίσκο"
 
 #: ../root/cdtoc/move_search.tt:4
 #, perl-format
@@ -15579,7 +15579,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:99
 #, perl-format
 msgid "This release does not have a barcode"
-msgstr ""
+msgstr "Αυτή η κυκλοφορία δεν έχει barcode"
 
 #: ../root/release_group/delete.tt:17
 #, perl-format
@@ -15920,7 +15920,7 @@ msgstr "Τίτλος"
 #: ../root/release/edit/information.tt:24
 #, perl-format
 msgid "Title:"
-msgstr ""
+msgstr "Τίτλος:"
 
 #: DB:language/name:419
 msgid "Tiv"
@@ -17460,7 +17460,7 @@ msgstr ""
 #: ../root/artist/edit_form.tt:3
 #, perl-format
 msgid "You are about to add an artist to MusicBrainz."
-msgstr ""
+msgstr "Πρόκειται να προσθέσετε έναν καλλιτέχνη στο MusicBrainz."
 
 #: ../root/cdtoc/set_durations.tt:4
 #, perl-format
@@ -17526,7 +17526,7 @@ msgstr ""
 msgid ""
 "You are attempting to add an artist which appears to be very similar, if not"
 " exactly the same, as these existing artists:"
-msgstr ""
+msgstr "Προσπαθείτε να προσθέσετε έναν καλλιτέχνη που φαίνεται να είναι όμοιος, αν όχι ακριβώς ίδιος, με τους παρακάτω ήδη υπάρχοντες καλλιτέχνες:"
 
 #: ../root/browse/page_selector.tt:30
 #, perl-format
