@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-03 13:59+0000\n"
+"PO-Revision-Date: 2012-05-03 14:25+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -2340,7 +2340,7 @@ msgstr "Ξεκίνησε:"
 #: ../root/search/results-label.tt:14
 #, perl-format
 msgid "Begin"
-msgstr ""
+msgstr "Αρχή"
 
 #: ../root/artist/edit_form.tt:52 ../root/edit/details/add_artist.tt:43
 #: ../root/edit/details/add_label.tt:27 ../root/edit/details/edit_artist.tt:36
@@ -2350,7 +2350,7 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:123 ../root/label/edit_form.tt:53
 #, perl-format
 msgid "Begin date:"
-msgstr ""
+msgstr "Ημερομηνία έναρξης:"
 
 #: ../root/layout/menu.tt:209
 #, perl-format
@@ -5223,12 +5223,12 @@ msgstr ""
 #: ../root/search/results-label.tt:15
 #, perl-format
 msgid "End"
-msgstr ""
+msgstr "Τέλος"
 
 #: ../root/elections/index.tt:12
 #, perl-format
 msgid "End date"
-msgstr ""
+msgstr "Τελική ημερομηνία"
 
 #: ../root/artist/edit_form.tt:53 ../root/edit/details/add_artist.tt:49
 #: ../root/edit/details/add_label.tt:34 ../root/edit/details/edit_artist.tt:40
@@ -5238,13 +5238,13 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:128 ../root/label/edit_form.tt:54
 #, perl-format
 msgid "End date:"
-msgstr ""
+msgstr "Τελική ημερομηνία:"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:28
 #: ../root/scripts/text_strings.tt:70
 #, perl-format
 msgid "Ended:"
-msgstr ""
+msgstr "Τελείωσε:"
 
 #: DB:language/name:120
 msgid "English"
@@ -10433,7 +10433,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:104
 #, perl-format
 msgid "Other-gender Artists"
-msgstr ""
+msgstr "Καλλιτέχνες άλλου φύλου"
 
 #: ../root/statistics/view_js.tt:108
 #, perl-format
@@ -12930,7 +12930,7 @@ msgstr ""
 #: ../root/user/contact.tt:20
 #, perl-format
 msgid "Send"
-msgstr ""
+msgstr "Αποστολή"
 
 #: ../root/account/lost_username.tt:14 ../root/user/contact.tt:1
 #: ../root/user/contact.tt:3 ../lib/MusicBrainz/Server/Controller/User.pm:243
@@ -12941,7 +12941,7 @@ msgstr "Αποστολή Email"
 #: ../root/user/contact.tt:17
 #, perl-format
 msgid "Send a copy to my own email address"
-msgstr ""
+msgstr "Στείλε ένα αντίγραφο και στη δική μου διεύθυνση email"
 
 #: ../root/account/preferences.tt:44
 #, perl-format
@@ -15944,7 +15944,7 @@ msgstr ""
 #: ../root/browse/release.tt:39 ../root/browse/work.tt:39
 #, perl-format
 msgid "To begin browsing, please select a letter above."
-msgstr ""
+msgstr "Για να αρχίσετε την περιήγηση, επιλέξτε ένα γράμμα παραπάνω."
 
 #: ../root/elections/show.tt:88
 #, perl-format
@@ -16518,7 +16518,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:101
 #, perl-format
 msgid "Unknown-gender Artists"
-msgstr ""
+msgstr "Καλλιτέχνες αγνώστου φύλου"
 
 #: ../root/statistics/view_js.tt:109
 #, perl-format
@@ -19332,7 +19332,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:530 ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "from {begin_date} until {end_date}"
-msgstr ""
+msgstr "από {begin_date} ως {end_date}"
 
 #: ../root/components/common-macros.tt:536 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -22767,7 +22767,7 @@ msgstr[1] ""
 #: ../root/artist/relationships.tt:36 ../root/components/relationships.tt:26
 #, perl-format
 msgid "{begindate} &ndash; {enddate}"
-msgstr ""
+msgstr "{begindate} &ndash; {enddate}"
 
 #: DB:link_type/link_phrase:1
 #, perl-format
