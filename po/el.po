@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-02 14:25+0000\n"
+"PO-Revision-Date: 2012-05-03 02:00+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -409,14 +409,14 @@ msgstr "Ένα είδος νότιο-αμερικάνικης κιθάρας"
 msgid ""
 "A descant or soprano recorder is the most common size of recorder and is "
 "often learnt by children."
-msgstr ""
+msgstr "τύμπανα, ντραμς"
 
 #: DB:link_attribute_type/description:547
 #, perl-format
 msgid ""
 "A hi-hat (or hihat) is a typical part of a drum kit, consisting of a pair of"
 " cymbals mounted on a stand."
-msgstr ""
+msgstr "ντράμσετ"
 
 #: DB:link_attribute_type/description:356
 #, perl-format
@@ -1178,7 +1178,7 @@ msgstr ""
 #: ../root/search/results-artist.tt:7
 #, perl-format
 msgid "Alternatively, you may {uri|add a new artist}."
-msgstr ""
+msgstr "Εναλλακτικά, μπορείτε να {uri|προσθέσετε ένα νέο καλλιτέχνη}."
 
 #: ../root/search/results-label.tt:38
 #, perl-format
@@ -2888,7 +2888,7 @@ msgstr ""
 #: ../root/artist/special_purpose.tt:1
 #, perl-format
 msgid "Cannot edit"
-msgstr ""
+msgstr "Δεν είναι δυνατή η επεξεργασία."
 
 #: DB:work_type/name:3
 msgid "Cantata"
@@ -4355,7 +4355,7 @@ msgstr ""
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Details"
-msgstr ""
+msgstr "Λεπτομέρειες"
 
 #: ../root/release/edit/tracklist.tt:197
 #, perl-format
@@ -4462,7 +4462,7 @@ msgstr "Disc ID:"
 #: ../root/statistics/index.tt:259 ../root/statistics/view_js.tt:120
 #, perl-format
 msgid "Disc IDs"
-msgstr "Συλλογή δε βρέθηκε"
+msgstr "Disc IDs"
 
 #: ../root/report/superfluous_data_tracks.tt:1
 #, perl-format
@@ -4895,7 +4895,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:92
 #, perl-format
 msgid "Edit by {editor}"
-msgstr ""
+msgstr "Επεξεργασία του/της {editor}"
 
 #: ../root/label/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabelAlias.pm:7
@@ -5078,7 +5078,7 @@ msgstr ""
 #: ../root/user/edits.tt:16
 #, perl-format
 msgid "Edits by {name}"
-msgstr ""
+msgstr "Επεξεργασίες του/της {name}"
 
 #: ../root/layout/menu.tt:42
 #, perl-format
@@ -8560,7 +8560,7 @@ msgstr ""
 #: ../root/user/login.tt:34
 #, perl-format
 msgid "Log In"
-msgstr ""
+msgstr "Σύνδεση"
 
 #: ../root/layout/menu.tt:19
 #, perl-format
@@ -8570,7 +8570,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:338
 #, perl-format
 msgid "Log in"
-msgstr ""
+msgstr "Σύνδεση"
 
 #: ../root/artist/layout.tt:110 ../root/label/layout.tt:83
 #: ../root/recording/layout.tt:61 ../root/release_group/layout.tt:62
@@ -8578,7 +8578,7 @@ msgstr ""
 #: ../root/work/layout.tt:54
 #, perl-format
 msgid "Log in to edit"
-msgstr ""
+msgstr "Συνδεθείτε για να επεξεργαστείτε"
 
 #: DB:language/name:197
 msgid "Lojban"
@@ -8639,7 +8639,7 @@ msgstr ""
 #: ../root/account/lost_username.tt:3
 #, perl-format
 msgid "Lost Username"
-msgstr ""
+msgstr "Χαμένο όνομα χρήστη"
 
 #: ../root/components/common-macros.tt:457
 #, perl-format
@@ -9360,7 +9360,7 @@ msgstr ""
 #: ../root/main/index.tt:78
 #, perl-format
 msgid "MusicBrainz Database »"
-msgstr ""
+msgstr "Βάση δεδομένων MusicBrainz »"
 
 #: ../root/statistics/timeline.tt:64
 #, perl-format
@@ -9731,7 +9731,7 @@ msgstr ""
 #: ../root/edit/details/change_wikidoc.tt:17
 #, perl-format
 msgid "New page"
-msgstr ""
+msgstr "Νέα σελίδα"
 
 #: ../root/account/change_password.tt:11
 #, perl-format
@@ -9776,7 +9776,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:478
 #, perl-format
 msgid "Next »"
-msgstr ""
+msgstr "Επόμενο »"
 
 #: DB:language/name:302
 msgid "Nias"
@@ -9837,7 +9837,7 @@ msgstr ""
 #: ../root/tag/collection.tt:1
 #, perl-format
 msgid "No collections with this tag were found."
-msgstr ""
+msgstr "Δε βρέθηκαν συλλογές με αυτήν την ετικέτα"
 
 #: ../root/release/sidebar.tt:6
 #, perl-format
@@ -10546,12 +10546,12 @@ msgstr "Σελίδα καταργήθηκε"
 #: ../root/components/paginator.tt:30
 #, perl-format
 msgid "Page {cur} of at least {total}"
-msgstr ""
+msgstr "Σελίδα {cur} από τουλάχιστον {total}"
 
 #: ../root/components/paginator.tt:32
 #, perl-format
 msgid "Page {cur} of {total}"
-msgstr ""
+msgstr "Σελίδα {cur} από {total}"
 
 #: ../root/admin/wikidoc/create.tt:8 ../root/admin/wikidoc/edit.tt:9
 #, perl-format
@@ -10992,7 +10992,7 @@ msgstr ""
 #: ../root/recording/fingerprints.tt:39
 #, perl-format
 msgid "Please {login_url|log in} to edit these PUIDs."
-msgstr ""
+msgstr "Παρακαλώ {login_url|συνδεθείτε} για να επεξεργαστείτε αυτά τα PUIDs."
 
 #: ../root/release/discids.tt:57
 #, perl-format
@@ -11002,7 +11002,7 @@ msgstr ""
 #: ../root/release/edit-links.tt:15
 #, perl-format
 msgid "Please {uri|log in} to edit this release"
-msgstr ""
+msgstr "Παρακαλώ {uri|συνδεθείτε} για να επεξεργαστείτε αυτή την κυκλοφορία"
 
 #: DB:language/name:339
 msgid "Pohnpeian"
@@ -11200,7 +11200,7 @@ msgstr ""
 
 #: DB:label_type/name:3
 msgid "Production"
-msgstr ""
+msgstr "Παραγωγή"
 
 #: ../root/layout/menu.tt:118
 #, perl-format
@@ -11419,7 +11419,7 @@ msgstr ""
 #: ../root/recording/edits.tt:20 ../root/recording/header.tt:16
 #, perl-format
 msgid "Recording by {artist}"
-msgstr ""
+msgstr "Ηχογράφηση από {artist}"
 
 #: ../root/recording/layout.tt:8
 #, perl-format
@@ -11434,7 +11434,7 @@ msgstr ""
 #: ../root/recording/layout.tt:1
 #, perl-format
 msgid "Recording “{name}” by {artist}"
-msgstr ""
+msgstr "Ηχογράφηση “{name}” από {artist}"
 
 #: ../root/statistics/index.tt:649
 #, perl-format
@@ -11592,22 +11592,22 @@ msgstr ""
 #: ../root/components/common-macros.tt:417
 #, perl-format
 msgid "Relate to ..."
-msgstr ""
+msgstr "Συνέδεσε με..."
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Relate to <abbr title=\"Uniform Resource Locator\">URL</abbr>"
-msgstr ""
+msgstr "Συνέδεσε με <abbr title=\"Uniform Resource Locator\">URL</abbr>"
 
 #: ../root/components/common-macros.tt:440
 #, perl-format
 msgid "Relate to recordings"
-msgstr ""
+msgstr "Συνέδεσε με ηχογραφήσεις"
 
 #: ../root/components/common-macros.tt:440
 #, perl-format
 msgid "Relate to release"
-msgstr ""
+msgstr "Συνέδεσε με κυκλοφορίες"
 
 #: ../root/release/sidebar.tt:91
 #, perl-format
@@ -11901,7 +11901,7 @@ msgstr ""
 #: ../root/release/edits.tt:20 ../root/release/header.tt:8
 #, perl-format
 msgid "Release by {artist}"
-msgstr ""
+msgstr "Κυκλοφορία από {artist}"
 
 #: ../root/release/edit/information.tt:50
 #, perl-format
@@ -11998,7 +11998,7 @@ msgstr ""
 #: ../root/release/layout.tt:1
 #, perl-format
 msgid "Release “{name}” by {artist}"
-msgstr ""
+msgstr "Κυκλοφορία “{name}” από {artist}"
 
 #: ../root/statistics/index.tt:685
 #, perl-format
@@ -12809,12 +12809,12 @@ msgstr "Αποτελέσματα αναζήτησης:"
 #: ../root/cdtoc/lookup.tt:56
 #, perl-format
 msgid "Search by artist"
-msgstr ""
+msgstr "Αναζήτηση με βάση τον καλλιτέχνη"
 
 #: ../root/cdtoc/lookup.tt:66
 #, perl-format
 msgid "Search by release"
-msgstr ""
+msgstr "Αναζήτηση με βάση την κυκλοφορία"
 
 #: ../root/edit/search_results.tt:24 ../root/edit/search_results.tt:26
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
@@ -13332,7 +13332,7 @@ msgstr ""
 #: ../root/main/404.tt:8
 #, perl-format
 msgid "Sorry, the page you're looking for does not exist."
-msgstr ""
+msgstr "Συγνώμη, η σελίδα που ψάχνετε δεν υπάρχει."
 
 #: ../root/main/mirror_404.tt:5
 #, perl-format
@@ -16256,7 +16256,7 @@ msgstr ""
 #: DB:link_attribute_type/description:305 DB:link_attribute_type/name:305
 #, perl-format
 msgid "Turkish baglama"
-msgstr ""
+msgstr "τούρκικος μπαγλαμάς"
 
 #: DB:language/name:324
 msgid "Turkish, Ottoman"
@@ -16608,7 +16608,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:396
 #, perl-format
 msgid "Use in a relationship"
-msgstr ""
+msgstr "Χρησιμοποίησε σε σχέση"
 
 #: ../root/main/index.tt:89
 #, perl-format
@@ -16683,7 +16683,7 @@ msgstr ""
 #: ../root/user/login.tt:23
 #, perl-format
 msgid "Username:"
-msgstr ""
+msgstr "Όνομα χρήστη:"
 
 #: ../root/release/merge.tt:41
 #, perl-format
@@ -17629,7 +17629,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:134
 #, perl-format
 msgid "You have no collections!"
-msgstr ""
+msgstr "Δεν έχετε συλλογές!"
 
 #: ../root/recording/edit.tt:42
 #, perl-format
@@ -17764,7 +17764,7 @@ msgstr "Η αναζήτησή σας κρίθηκε ως μη έγκυρη απ�
 #: ../root/account/register.tt:31
 #, perl-format
 msgid "Your username will be publicly visible."
-msgstr ""
+msgstr "Το όνομα χρήστη σας θα είναι ορατό δημόσια."
 
 #: DB:country/name:235
 msgid "Yugoslavia (historical, 1918-2003)"
@@ -18038,7 +18038,7 @@ msgstr ""
 #: DB:link_attribute_type/description:35 DB:link_attribute_type/name:35
 #, perl-format
 msgid "alto saxophone"
-msgstr ""
+msgstr "άλτο σαξόφωνο"
 
 #: DB:link_attribute_type/description:226 DB:link_attribute_type/name:226
 #, perl-format
@@ -18137,7 +18137,7 @@ msgstr "δεύτερα"
 #: DB:link_attribute_type/description:512 DB:link_attribute_type/name:512
 #, perl-format
 msgid "baglama"
-msgstr ""
+msgstr "μπαγλαμάς"
 
 #: DB:link_attribute_type/description:18 DB:link_attribute_type/name:18
 #, perl-format
@@ -18263,7 +18263,7 @@ msgstr ""
 #: DB:link_attribute_type/name:536
 #, perl-format
 msgid "bass saxophone"
-msgstr ""
+msgstr "μπάσο σαξόφωνο"
 
 #: DB:link_attribute_type/name:549
 #, perl-format
@@ -18415,7 +18415,7 @@ msgstr ""
 #: DB:link_attribute_type/description:95 DB:link_attribute_type/name:95
 #, perl-format
 msgid "bouzouki"
-msgstr ""
+msgstr "μπουζούκι"
 
 #: DB:link_attribute_type/description:299 DB:link_attribute_type/name:299
 #, perl-format
@@ -18466,22 +18466,22 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:253
 #, perl-format
 msgid "by"
-msgstr ""
+msgstr "από"
 
 #: ../root/statistics/index.tt:208
 #, perl-format
 msgid "by a single artist:"
-msgstr ""
+msgstr "από έναν καλλιτέχνη:"
 
 #: ../root/statistics/index.tt:202
 #, perl-format
 msgid "by various artists:"
-msgstr ""
+msgstr "από διάφορους καλλιτέχνες:"
 
 #: ../root/release/edit/recordings.tt:227
 #, perl-format
 msgid "by {artist}"
-msgstr ""
+msgstr "από {artist}"
 
 #: DB:link_attribute_type/name:413
 #, perl-format
@@ -18736,7 +18736,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:49
 #, perl-format
 msgid "contains {additional} samples by"
-msgstr ""
+msgstr "περιέχει {additional} samples από"
 
 #: DB:link_type/short_link_phrase:231
 #, perl-format
@@ -19456,7 +19456,7 @@ msgstr "κιθάρα"
 #: DB:link_attribute_type/description:75 DB:link_attribute_type/name:75
 #, perl-format
 msgid "guitars"
-msgstr ""
+msgstr "κιθάρες"
 
 #: DB:link_attribute_type/name:402
 #, perl-format
@@ -19481,7 +19481,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:117
 #, perl-format
 msgid "had a producer position at"
-msgstr ""
+msgstr "είχε θέση παραγωγού στο"
 
 #: DB:link_type/short_link_phrase:121
 #, perl-format
@@ -19531,7 +19531,7 @@ msgstr ""
 #: DB:link_attribute_type/description:66 DB:link_attribute_type/name:66
 #, perl-format
 msgid "harmonica"
-msgstr ""
+msgstr "φυσαρμόνικα"
 
 #: DB:link_attribute_type/description:178 DB:link_attribute_type/name:178
 #, perl-format
@@ -20117,7 +20117,7 @@ msgstr ""
 #: DB:link_attribute_type/description:232 DB:link_attribute_type/name:232
 #, perl-format
 msgid "keyboard"
-msgstr ""
+msgstr "πλήκτρα"
 
 #: DB:link_attribute_type/description:442 DB:link_attribute_type/name:442
 #, perl-format
@@ -20936,8 +20936,8 @@ msgstr[1] ""
 #, perl-format
 msgid "plus {n} other private collection"
 msgid_plural "plus {n} other private collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "συν {n} ακόμα ιδιωτική συλλογή"
+msgstr[1] "συν {n} ακόμα ιδιωτικές συλλογές"
 
 #: DB:link_attribute_type/name:515
 #, perl-format
@@ -20968,12 +20968,12 @@ msgstr ""
 #: DB:link_type/link_phrase:117
 #, perl-format
 msgid "producer position"
-msgstr ""
+msgstr "θέση παραγωγού"
 
 #: DB:link_type/reverse_link_phrase:117
 #, perl-format
 msgid "producers"
-msgstr ""
+msgstr "παραγωγοί"
 
 #: DB:link_type/link_phrase:59 DB:link_type/link_phrase:72
 #: DB:link_type/link_phrase:87 DB:link_type/link_phrase:160
@@ -20985,7 +20985,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:256
 #, perl-format
 msgid "production"
-msgstr ""
+msgstr "παραγωγή"
 
 #: DB:link_type/short_link_phrase:135 DB:link_type/short_link_phrase:62
 #, perl-format
@@ -21319,7 +21319,7 @@ msgstr ""
 #: DB:link_attribute_type/description:33 DB:link_attribute_type/name:33
 #, perl-format
 msgid "saxophone"
-msgstr ""
+msgstr "σαξόφωνο"
 
 #: DB:link_attribute_type/name:566
 #, perl-format
@@ -21513,7 +21513,7 @@ msgstr ""
 #: DB:link_attribute_type/description:537 DB:link_attribute_type/name:537
 #, perl-format
 msgid "sopranino saxophone"
-msgstr ""
+msgstr "σοπρανίνο σαξόφωνο"
 
 #: DB:link_attribute_type/description:10 DB:link_attribute_type/name:10
 #, perl-format
@@ -21533,7 +21533,7 @@ msgstr ""
 #: DB:link_attribute_type/description:34 DB:link_attribute_type/name:34
 #, perl-format
 msgid "soprano saxophone"
-msgstr ""
+msgstr "σοπράνο σαξόφωνο"
 
 #: DB:link_attribute_type/description:280 DB:link_attribute_type/name:280
 #, perl-format
@@ -21769,7 +21769,7 @@ msgstr ""
 #: DB:link_attribute_type/description:36 DB:link_attribute_type/name:36
 #, perl-format
 msgid "tenor saxophone"
-msgstr ""
+msgstr "τενόρο σαξόφωνο"
 
 #: DB:link_attribute_type/name:589
 #, perl-format
@@ -21927,7 +21927,7 @@ msgstr ""
 #: DB:link_attribute_type/description:47 DB:link_attribute_type/name:47
 #, perl-format
 msgid "trumpet"
-msgstr ""
+msgstr "τρομπέτα"
 
 #: DB:link_attribute_type/name:385
 #, perl-format
@@ -22645,7 +22645,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "{additional} {assistant} {associate} {co:co-}{executive:executive }producer"
-msgstr ""
+msgstr "{additional} {assistant} {associate} {co:συν-}{executive:διευθυντής }παραγωγός"
 
 #: DB:link_type/link_phrase:37 DB:link_type/link_phrase:132
 #: DB:link_type/reverse_link_phrase:37 DB:link_type/reverse_link_phrase:132
@@ -22908,8 +22908,8 @@ msgstr[1] ""
 #, perl-format
 msgid "{num} collection found"
 msgid_plural "{num} collections found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "βρέθηκε {num} συλλογή"
+msgstr[1] "βρέθηκαν {num} συλλογές"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
@@ -23081,7 +23081,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:408
 #, perl-format
 msgid "{uri|Relate to URL}"
-msgstr ""
+msgstr "{uri|Συνέδεσε με URL}"
 
 #: ../root/layout/sidebar/sidebar-affiliates.tt:10
 #, perl-format
@@ -23091,7 +23091,7 @@ msgstr ""
 #: ../root/user/collections.tt:32
 #, perl-format
 msgid "{user} has no public collections."
-msgstr ""
+msgstr "Ο χρήστης {user} δεν έχει δημόσιες συλλογές."
 
 #: ../root/user/ratings.tt:23
 #, perl-format
