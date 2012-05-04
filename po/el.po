@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-04 02:54+0000\n"
+"PO-Revision-Date: 2012-05-04 03:34+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -100,7 +100,7 @@ msgstr "(Δεν υπάρχουν διαθέσιμες λεπτομέρειες �
 #: ../root/statistics/formats.tt:37
 #, perl-format
 msgid "(Totals)"
-msgstr ""
+msgstr "(Σύνολα)"
 
 #: ../root/release/edit/recordings.tt:205
 #: ../root/release/edit/recordings.tt:319
@@ -522,12 +522,12 @@ msgstr "Σχετικά"
 #: ../root/elections/show.tt:73 ../lib/MusicBrainz/Server/Data/Vote.pm:154
 #, perl-format
 msgid "Abstain"
-msgstr ""
+msgstr "Αποχή"
 
 #: ../root/statistics/index.tt:537
 #, perl-format
 msgid "Abstain:"
-msgstr ""
+msgstr "Αποχή:"
 
 #: ../root/statistics/view_js.tt:68
 #, perl-format
@@ -675,7 +675,7 @@ msgstr ""
 #: ../root/layout/menu.tt:185 ../root/release/edit/layout.tt:4
 #, perl-format
 msgid "Add Release"
-msgstr ""
+msgstr "Προσθήκη κυκλοφορίας"
 
 #: ../root/layout/menu.tt:182
 #, perl-format
@@ -1065,7 +1065,7 @@ msgstr ""
 #: ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "All Edits"
-msgstr ""
+msgstr "Όλες οι επεξεργασίες"
 
 #: ../root/layout/menu.tt:39
 #, perl-format
@@ -1132,7 +1132,7 @@ msgstr "Να είναι ορατές στους άλλους χρήστες οι
 #: ../root/account/preferences.tt:30
 #, perl-format
 msgid "Allow other users to see my subscriptions"
-msgstr "Να επιτρέπεται στους άλλους χρήστες να βλέπουν τις συνδρομές μου"
+msgstr "Να είναι ορατές στους άλλους χρήστες να βλέπουν τις συνδρομές μου"
 
 #: ../root/account/preferences.tt:31
 #, perl-format
@@ -1834,7 +1834,7 @@ msgstr "Καλλιτέχνες που μπορεί να είναι πρόσωπ�
 #: ../root/report/index.tt:20
 #, perl-format
 msgid "Artists which have collaboration relationships"
-msgstr ""
+msgstr "Καλλιτέχνες οι οποίοι έχουν σχέσεις συνεργασίας"
 
 #: ../root/report/index.tt:21
 #, perl-format
@@ -1845,7 +1845,7 @@ msgstr "Καλλιτέχνες που μοιάζουν με συνεργασίε
 #: ../root/report/collaboration_relationships.tt:3
 #, perl-format
 msgid "Artists with Collaboration Relationships"
-msgstr ""
+msgstr "Καλλιτέχνες με σχέσεις συνεργασίας"
 
 #: ../root/statistics/view_js.tt:111
 #, perl-format
@@ -3757,7 +3757,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:48
 #, perl-format
 msgid "Count of all edits"
-msgstr ""
+msgstr "Καταμέτρηση όλων των επεξεργασιών"
 
 #: ../root/statistics/view_js.tt:46
 #, perl-format
@@ -4856,7 +4856,7 @@ msgstr "Επεξεργασία URL"
 #: ../root/user/profile/layout.tt:27
 #, perl-format
 msgid "Edit User"
-msgstr "Επεξεργασία Χρήστη"
+msgstr "Επεξεργασία χρήστη"
 
 #: ../root/work/edit.tt:15
 #, perl-format
@@ -5027,12 +5027,12 @@ msgstr ""
 #: ../root/artist/subscribe.tt:2
 #, perl-format
 msgid "Editors Subscribed to this Artist"
-msgstr ""
+msgstr "Συνδρομητές του καλλιτέχνη"
 
 #: ../root/label/subscriptions.tt:2
 #, perl-format
 msgid "Editors subscribed to this Label"
-msgstr ""
+msgstr "Συνδρομητές της δισκογραφική εταιρεία"
 
 #: ../root/statistics/index.tt:408
 #, perl-format
@@ -5058,12 +5058,12 @@ msgstr "Επεξεργασίες ({view_url|προβολή})"
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
 msgid "Edits By Your Subscribed Editors"
-msgstr ""
+msgstr "Επεξεργασίες των χρηστών στους οποίους είστε συνδρομητές"
 
 #: ../root/edit/subscribed.tt:15 ../root/edit/subscribed.tt:17
 #, perl-format
 msgid "Edits For Your Subscribed Entities"
-msgstr ""
+msgstr "Επεξεργασίες για τις συνδρομές σας"
 
 #: ../root/statistics/view_js.tt:53
 #, perl-format
@@ -5073,7 +5073,7 @@ msgstr ""
 #: ../root/layout/menu.tt:45
 #, perl-format
 msgid "Edits by Subscribed Editors"
-msgstr ""
+msgstr "Επεξεργασίες χρηστών των οποίων είστε συνδρομητής"
 
 #: ../root/user/edits.tt:16
 #, perl-format
@@ -5083,7 +5083,7 @@ msgstr "Επεξεργασίες του χρήστη {name}"
 #: ../root/layout/menu.tt:42
 #, perl-format
 msgid "Edits for Subscribed Entities"
-msgstr ""
+msgstr "Επεξεργασίες των συνδρομών σας"
 
 #: ../root/label/edits.tt:17
 #, perl-format
@@ -5838,7 +5838,7 @@ msgstr "Φύλο:"
 #: ../root/user/profile.tt:12
 #, perl-format
 msgid "General Information"
-msgstr ""
+msgstr "Γενικές πληροφορίες"
 
 #: ../root/report/artists_that_may_be_groups.tt:10
 #: ../root/report/artists_that_may_be_persons.tt:10
@@ -6550,7 +6550,7 @@ msgstr ""
 #: ../root/account/edit.tt:7
 #, perl-format
 msgid "If you change your email address, you will be required to verify it. "
-msgstr ""
+msgstr "Αν αλλάξετε τη διεύθυνση email σας θα πρέπει να την επιβεβαιώσετε. "
 
 #: ../root/release/merge.tt:89
 #, perl-format
@@ -8565,7 +8565,7 @@ msgstr "Σύνδεση"
 #: ../root/layout/menu.tt:19
 #, perl-format
 msgid "Log Out"
-msgstr ""
+msgstr "Αποσύνδεση"
 
 #: ../root/components/common-macros.tt:338
 #, perl-format
@@ -11290,12 +11290,12 @@ msgstr ""
 #: ../root/main/index.tt:15
 #, perl-format
 msgid "Quick Start »"
-msgstr ""
+msgstr "Γρήγορη εκκίνηση »"
 
 #: ../root/edit/list_header.tt:4
 #, perl-format
 msgid "Quick links:"
-msgstr ""
+msgstr "Γρήγοροι σύνδεσμοι:"
 
 #: DB:language/name:345
 msgid "Rajasthani"
@@ -11559,7 +11559,7 @@ msgstr ""
 #: ../root/account/preferences.tt:12
 #, perl-format
 msgid "Regional settings"
-msgstr ""
+msgstr "Τοπικές ρυθμίσεις"
 
 #: DB:label_type/name:6
 msgid "Reissue Production"
@@ -12465,7 +12465,7 @@ msgstr ""
 #: ../root/report/index.tt:3
 #, perl-format
 msgid "Reports"
-msgstr ""
+msgstr "Αναφορές"
 
 #: ../root/main/500.tt:27
 #, perl-format
@@ -12711,7 +12711,7 @@ msgstr ""
 #: ../root/admin/linktype/form.tt:43
 #, perl-format
 msgid "Save"
-msgstr ""
+msgstr "Αποθήκευση"
 
 #: ../root/layout.tt:146
 #, perl-format
@@ -13843,7 +13843,7 @@ msgstr ""
 
 #: DB:script/name:112
 msgid "Symbols"
-msgstr ""
+msgstr "Σύμβολα"
 
 #: DB:work_type/name:18
 msgid "Symphonic poem"
@@ -14676,12 +14676,12 @@ msgstr ""
 #: ../root/user/subscribers.tt:23
 #, perl-format
 msgid "There are currently no users subscribed to edits that you make."
-msgstr ""
+msgstr "Αυτή τη στιγμή δεν υπάρχουν συνδρομητές στις επεξεργασίες σας."
 
 #: ../root/user/subscribers.tt:25
 #, perl-format
 msgid "There are currently no users subscribed to edits that {user} makes."
-msgstr ""
+msgstr "Αυτή τη στιγμή δεν υπάρχουν συνδρομητές στις επεξεργασίες του χρήστη {user}."
 
 #: ../root/artist/subscribers.tt:22
 #, perl-format
@@ -14749,15 +14749,15 @@ msgstr[1] "Υπάρχουν ακόμα {num} ανώνυμοι συνδρομητ
 msgid "There is currently {num} user subscribed to edits that {user} makes:"
 msgid_plural ""
 "There are currently {num} users subscribed to edits that {user} makes:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Αυτή τη στιγμή υπάρχει ένας συνδρομητής στις επεξεργασίες του χρήστη {user}:"
+msgstr[1] "Αυτή τη στιγμή υπάρχουν {num} συνδρομητές στις επεξεργασίες του χρήστη {user}:"
 
 #: ../root/artist/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {artist}:"
 msgid_plural "There are currently {num} users subscribed to {artist}:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Αυτή τη στιγμή υπάρχει ένας συνδρομητής του καλλιτέχνη {artist}:"
+msgstr[1] "Αυτή τη στιγμή υπάρχουν {num} συνδρομητές του καλλιτέχνη {artist}:"
 
 #: ../root/label/subscribers.tt:4
 #, perl-format
@@ -15883,7 +15883,7 @@ msgstr ""
 #: ../root/account/preferences.tt:25
 #, perl-format
 msgid "Timezone:"
-msgstr ""
+msgstr "Ζώνη ώρας:"
 
 #: DB:language/name:410
 msgid "Timne"
@@ -16010,7 +16010,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:175
 #, perl-format
 msgid "Total"
-msgstr ""
+msgstr "Σύνολο"
 
 #: ../root/report/isrc_with_many_recordings.tt:7
 #, perl-format
@@ -16033,7 +16033,7 @@ msgstr ""
 #: ../root/cdstub/index.tt:21 ../root/cdtoc/info.tt:23
 #, perl-format
 msgid "Total length:"
-msgstr ""
+msgstr "Συνολική διάρκεια:"
 
 #: ../root/report/featuring_recordings.tt:7
 #: ../root/report/recordings_with_earliest_release_relationships.tt:7
@@ -16534,17 +16534,17 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:32
 #, perl-format
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Κατάργηση συνδρομής"
 
 #: ../root/label/subscriptions.tt:21
 #, perl-format
 msgid "Unsubscribe from this Label."
-msgstr ""
+msgstr "Κατάργηση συνδρομής από αυτή τη δισκογραφική εταιρεία."
 
 #: ../root/artist/subscribe.tt:18
 #, perl-format
 msgid "Unsubscribe from this artist."
-msgstr ""
+msgstr "Κατάργηση συνδρομής από αυτόν τον καλλιτέχνη."
 
 #: ../root/admin/edit_user.tt:12
 #, perl-format
@@ -17124,7 +17124,7 @@ msgid ""
 "We have sent you a verification email to <code>{email}</code>. Please check "
 "your mailbox and click on the link in the email to verify the new email "
 "address."
-msgstr ""
+msgstr "Σας στείλαμε μήνυμα επιβεβαίωσης στο <code>{email}</code>. Παρακαλούμε ελέγξτε τα εισερχόμενά σας και κάντε κλικ στο σύνδεσμο στο μήνυμα για να επιβεβαιώσετε τη νέα σας διεύθυνση email."
 
 #: ../root/main/500.tt:52
 #, perl-format
@@ -17157,7 +17157,7 @@ msgstr ""
 #: ../root/main/index.tt:27
 #, perl-format
 msgid "Welcome to MusicBrainz!"
-msgstr ""
+msgstr "Καλώς ήρθατε στο MusicBrainz!"
 
 #: DB:language/name:455
 msgid "Welsh"
@@ -17540,7 +17540,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:32
 #, perl-format
 msgid "You are currently subscribed. {unsub|Unsubscribe}?"
-msgstr ""
+msgstr "Είστε εγγεγραμμένος. {unsub|Κατάργηση συνδρομής};"
 
 #: ../root/watch/list.tt:7
 #, perl-format
@@ -17561,7 +17561,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:38
 #, perl-format
 msgid "You are not currently subscribed. {sub|Subscribe}?"
-msgstr ""
+msgstr "Αυτή τη στιγμή δεν είστε συνδρομητής. {sub|Εγγραφή};"
 
 #: ../root/watch/list.tt:32
 #, perl-format
@@ -19572,7 +19572,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:189 DB:link_type/short_link_phrase:215
 #, perl-format
 msgid "has a MySpace page at"
-msgstr ""
+msgstr "έχει σελίδα στο MySpace στο"
 
 #: DB:link_type/short_link_phrase:174
 #, perl-format
@@ -20774,7 +20774,7 @@ msgstr "ούτι"
 #: ../root/scripts/text_strings.tt:74
 #, perl-format
 msgid "page #{page} of #{total}"
-msgstr ""
+msgstr "σελίδα #{page} από τις #{total}"
 
 #: DB:link_attribute_type/name:30
 #, perl-format
@@ -21548,7 +21548,7 @@ msgstr ""
 #: ../root/browse/page_selector.tt:43
 #, perl-format
 msgid "space"
-msgstr ""
+msgstr "κενό"
 
 #: DB:link_attribute_type/name:561
 #, perl-format
