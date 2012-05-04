@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-04 13:59+0000\n"
+"PO-Revision-Date: 2012-05-04 14:54+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -268,7 +268,7 @@ msgstr ""
 #: ../root/admin/edit_user.tt:16
 #, perl-format
 msgid "<abbr title=\"MusicBrainz Identifier\">MBID</abbr> submitter"
-msgstr ""
+msgstr "<abbr title=\"MusicBrainz Identifier\">MBID</abbr> submitter"
 
 #: ../root/edit/info.tt:42
 #, perl-format
@@ -562,7 +562,7 @@ msgstr "Λογαριασμός δημιουργήθηκε"
 #: ../root/admin/edit_user.tt:23 ../root/admin/edit_user.tt:27
 #, perl-format
 msgid "Account admin"
-msgstr "Διαχειριστής λογαριασμού"
+msgstr "Account admin"
 
 #: DB:language/name:3
 msgid "Achinese"
@@ -869,7 +869,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:125
 #, perl-format
 msgid "Add to my collection"
-msgstr "Προσθήκη στη συλλογή μου"
+msgstr "Όλες οι επεξεργασίες μου"
 
 #: ../root/release/sidebar.tt:127
 #, perl-format
@@ -2917,7 +2917,7 @@ msgstr "Κασέτα"
 #: ../root/release/edit/information.tt:75
 #, perl-format
 msgid "Cat.No:"
-msgstr ""
+msgstr "Αρ. Καταλ.:"
 
 #: DB:language/name:68
 msgid "Catalan"
@@ -2947,7 +2947,7 @@ msgstr "Αριθμός καταλόγου:"
 #: ../root/release_group/releases-list.tt:27 ../root/tracklist/index.tt:34
 #, perl-format
 msgid "Catalog#"
-msgstr "#Κατάλογου"
+msgstr "# κατάλογου"
 
 #: DB:language/name:69
 msgid "Caucasian languages"
@@ -3410,7 +3410,7 @@ msgstr "Συγχαρητήρια, ο νέος σας λογαριασμός δη
 #: ../root/layout/menu.tt:235
 #, perl-format
 msgid "Contact Us"
-msgstr "Επικοινωνήστε μαζί μας"
+msgstr "Επικοινωνήστε"
 
 #: DB:link_attribute_type/description:471
 #, perl-format
@@ -7986,7 +7986,7 @@ msgstr ""
 #: ../root/user/login.tt:31
 #, perl-format
 msgid "Keep me logged in"
-msgstr "Να με θυμάσαι"
+msgstr "Να παραμείνω συνδεδεμένος"
 
 #: ../root/components/forms.tt:131 ../root/components/forms.tt:155
 #: ../root/release/edit/tracklist.tt:460
@@ -9767,7 +9767,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:35
 #, perl-format
 msgid "Next"
-msgstr ""
+msgstr "Επόμενο"
 
 #: ../root/release/edit/duplicates.tt:36
 #: ../root/release/edit/information.tt:110
@@ -11165,7 +11165,7 @@ msgstr "Προεπισκόπηση:"
 #: ../root/scripts/text_strings.tt:36
 #, perl-format
 msgid "Previous"
-msgstr ""
+msgstr "Προηγούμενο"
 
 #: ../root/admin/linktype/form.tt:24
 #, perl-format
@@ -16672,7 +16672,7 @@ msgstr "Οι λογαριασμοί χρηστών πρέπει να υπάρχ�
 #: ../root/admin/edit_user.tt:5
 #, perl-format
 msgid "User permissions"
-msgstr ""
+msgstr "Δικαιώματα χρήστη"
 
 #: ../root/user/profile.tt:39
 #, perl-format
@@ -19200,7 +19200,7 @@ msgstr ""
 #: DB:link_attribute_type/name:21
 #, perl-format
 msgid "english horn"
-msgstr ""
+msgstr "αγγλικό κόρνο"
 
 #: DB:link_attribute_type/description:199 DB:link_attribute_type/name:199
 #, perl-format
@@ -20952,7 +20952,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:1
 #, perl-format
 msgid "previous disc"
-msgstr ""
+msgstr "προηγούμενος δίσκος"
 
 #: DB:link_type/link_phrase:49 DB:link_type/short_link_phrase:49
 #, perl-format
@@ -22772,12 +22772,12 @@ msgstr "{begindate} &ndash; {enddate}"
 #: DB:link_type/link_phrase:1
 #, perl-format
 msgid "{bonus:bonus|next} disc"
-msgstr ""
+msgstr "{bonus:μπόνους|επόμενος} δίσκος"
 
 #: DB:link_type/short_link_phrase:1
 #, perl-format
 msgid "{bonus:may be|is} part of a set, the next disc in the set is"
-msgstr ""
+msgstr "{bonus:μπορεί να είναι|είναι} μέρος μιας σειράς, ο επόμενος δίσκος της σειράς είναι"
 
 #: ../root/statistics/view_js.tt:79
 #, perl-format
@@ -23148,7 +23148,7 @@ msgstr "{yes} ναι : {no} όχι"
 #: ../root/release/edit/tracklist.tt:477
 #, perl-format
 msgid "« Previous"
-msgstr ""
+msgstr "« Προηγούμενο"
 
 #: DB:country/name:250
 msgid "Åland Islands"
@@ -23532,7 +23532,7 @@ msgstr "Προσθήκη ISRC"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabel.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
 msgid "Add label"
-msgstr "Προσθήκη δισκογραφικής εταιρείας"
+msgstr "Προσθήκη εταιρείας"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabelAnnotation.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAnnotation.pm:12
@@ -23648,7 +23648,7 @@ msgstr "Επεξεργασία ονόματος κομματιού"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackNum.pm:11
 msgid "Edit track number"
-msgstr ""
+msgstr "Επεξεργασία αριθμού κομματιού"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditURL.pm:9
 msgid "Edit url"
