@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-04 01:07+0000\n"
+"PO-Revision-Date: 2012-05-04 02:54+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -592,7 +592,7 @@ msgstr "Ενεργοί χρήστες"
 #: ../root/statistics/view_js.tt:73
 #, perl-format
 msgid "Active Users"
-msgstr ""
+msgstr "Ενεργοί χρήστες"
 
 #: ../root/statistics/view_js.tt:72
 #, perl-format
@@ -1127,7 +1127,7 @@ msgstr ""
 #: ../root/account/preferences.tt:32
 #, perl-format
 msgid "Allow other users to see my ratings"
-msgstr ""
+msgstr "Να είναι ορατές στους άλλους χρήστες οι βαθμολογίες μου"
 
 #: ../root/account/preferences.tt:30
 #, perl-format
@@ -1142,7 +1142,7 @@ msgstr ""
 #: ../root/collection/edit_form.tt:6
 #, perl-format
 msgid "Allow other users to see this collection"
-msgstr ""
+msgstr "Να είναι ορατή αυτή η συλλογή στους άλλους χρήστες"
 
 #: ../root/components/common-macros.tt:508
 #, perl-format
@@ -1657,7 +1657,7 @@ msgstr ""
 #: ../root/artist/not_found.tt:1 ../root/artist/not_found.tt:2
 #, perl-format
 msgid "Artist Not Found"
-msgstr "Δε βρέθηκε ο καλλιτέχνης"
+msgstr "Δε βρέθηκε καλλιτέχνης"
 
 #: ../root/statistics/view_js.tt:155
 #, perl-format
@@ -2689,7 +2689,7 @@ msgstr "Αποτελέσματα αναζήτησης CD"
 #: ../root/cdtoc/lookup.tt:82
 #, perl-format
 msgid "CD Not Found"
-msgstr "CD δε βρέθηκε"
+msgstr "Δε βρέθηκε CD"
 
 #: ../root/search/results-cdstub.tt:10
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
@@ -2700,12 +2700,12 @@ msgstr "CD Stub"
 #: ../root/cdstub/error.tt:2
 #, perl-format
 msgid "CD Stub Not Found"
-msgstr "CD Stub δε βρέθηκε"
+msgstr "Δε βρέθηκε CD Stub"
 
 #: ../root/cdtoc/lookup.tt:17
 #, perl-format
 msgid "CD Stub found"
-msgstr "CD Stub βρέθηκε"
+msgstr "Βρέθηκε CD Stub"
 
 #: ../root/statistics/index.tt:60
 #, perl-format
@@ -2715,7 +2715,7 @@ msgstr ""
 #: ../root/cdtoc/not_found.tt:1 ../root/cdtoc/not_found.tt:2
 #, perl-format
 msgid "CD TOC Not Found"
-msgstr "CD TOC δε βρέθηκε"
+msgstr "Δε βρέθηκε CD TOC"
 
 #: ../root/cdtoc/info.tt:1
 #, perl-format
@@ -3301,7 +3301,7 @@ msgstr "Συλλογή"
 #: ../root/collection/not_found.tt:1 ../root/collection/not_found.tt:2
 #, perl-format
 msgid "Collection Not Found"
-msgstr "Συλλογή δε βρέθηκε"
+msgstr "Δε βρέθηκε συλλογή"
 
 #: ../root/collection/edit_form.tt:4
 #, perl-format
@@ -4569,7 +4569,7 @@ msgstr ""
 #: ../root/layout/menu.tt:206
 #, perl-format
 msgid "Documentation"
-msgstr ""
+msgstr "Τεκμηρίωση"
 
 #: DB:language/name:108
 msgid "Dogri"
@@ -4773,7 +4773,7 @@ msgstr ""
 #: ../root/edit/not_found.tt:1 ../root/edit/not_found.tt:2
 #, perl-format
 msgid "Edit Not Found"
-msgstr ""
+msgstr "Δε βρέθηκε επεξεργασία"
 
 #: ../root/forms/edit-note.tt:2
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:81
@@ -4895,7 +4895,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:92
 #, perl-format
 msgid "Edit by {editor}"
-msgstr "Επεξεργασία του/της {editor}"
+msgstr "Επεξεργασία του χρήστη {editor}"
 
 #: ../root/label/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabelAlias.pm:7
@@ -4983,7 +4983,7 @@ msgstr "Επεξεργασία"
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
 msgid "Editing FAQ"
-msgstr "Σχετικές ερωτήσεις για την επεξεργασία"
+msgstr "Συχνές ερωτήσεις για την επεξεργασία"
 
 #: ../root/artist/layout.tt:107 ../root/label/layout.tt:81
 #: ../root/recording/layout.tt:59 ../root/release_group/layout.tt:60
@@ -5007,7 +5007,7 @@ msgstr "Χρήστης"
 #: ../root/user/not_found.tt:1 ../root/user/not_found.tt:2
 #, perl-format
 msgid "Editor Not Found"
-msgstr ""
+msgstr "Δε βρέθηκε χρήστης"
 
 #: ../root/user/subscriptions/editor.tt:1 ../root/user/subscriptions/menu.tt:5
 #, perl-format
@@ -5017,7 +5017,7 @@ msgstr "Συνδρομές σε χρήστες"
 #: ../root/user/profile/layout.tt:1 ../root/user/profile/layout.tt:8
 #, perl-format
 msgid "Editor “{user}”"
-msgstr ""
+msgstr "Χρήστης “{user}”"
 
 #: ../root/statistics/index.tt:412 ../root/statistics/view_js.tt:70
 #, perl-format
@@ -5078,7 +5078,7 @@ msgstr ""
 #: ../root/user/edits.tt:16
 #, perl-format
 msgid "Edits by {name}"
-msgstr "Επεξεργασίες του/της {name}"
+msgstr "Επεξεργασίες του χρήστη {name}"
 
 #: ../root/layout/menu.tt:42
 #, perl-format
@@ -5287,7 +5287,7 @@ msgstr "Συνιστάται να εισαγάγετε ένα {note|σημείω
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
 msgid "Entity Not Found"
-msgstr ""
+msgstr "Δε βρέθηκε οντότητα"
 
 #: DB:country/name:65
 msgid "Equatorial Guinea"
@@ -5668,8 +5668,8 @@ msgstr "Βρέθηκαν περισσότερα από ένα CD που να α�
 #, perl-format
 msgid "Found {n} edit"
 msgid_plural "Found at least {n} edits"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Βρέθηκε {n} επεξεργασία"
+msgstr[1] "Βρέθηκαν τουλάχιστον {n} επεξεργασίες"
 
 #: ../root/components/with-pager.tt:5
 #, perl-format
@@ -5689,7 +5689,7 @@ msgstr[1] "Βρέθηκαν {n} αποτελέσματα για \"{q}\""
 #: ../root/label/layout.tt:14 ../root/scripts/text_strings.tt:72
 #, perl-format
 msgid "Founded:"
-msgstr ""
+msgstr "Ιδρύθηκε:"
 
 #: DB:link_attribute_type/description:313
 #, perl-format
@@ -9817,7 +9817,7 @@ msgstr ""
 #: ../root/edit/vote.tt:16 ../lib/MusicBrainz/Server/Data/Vote.pm:155
 #, perl-format
 msgid "No"
-msgstr ""
+msgstr "Όχι"
 
 #: ../root/tag/not_found.tt:4
 #, perl-format
@@ -9827,7 +9827,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:67
 #, perl-format
 msgid "No Votes"
-msgstr ""
+msgstr "Αρνητικές ψήφοι"
 
 #: ../root/tag/artist.tt:1
 #, perl-format
@@ -9911,7 +9911,7 @@ msgstr "Δες βρέθηκαν κυκλοφορίες στη συλλογή."
 #: ../root/recording/index.tt:43
 #, perl-format
 msgid "No releases found which feature this recording."
-msgstr ""
+msgstr "Δε βρέθηκαν κυκλοφορίες που να περιέχουν αυτή την ηχογράφηση."
 
 #: ../root/release_group/index.tt:78
 #, perl-format
@@ -9969,7 +9969,7 @@ msgstr "Καμία ψήφος"
 #: ../root/edit/search_macros.tt:278
 #, perl-format
 msgid "No vote count"
-msgstr ""
+msgstr "Καταμέτρηση αρνητικών ψήφων"
 
 #: ../root/tag/work.tt:1
 #, perl-format
@@ -9979,7 +9979,7 @@ msgstr ""
 #: ../root/statistics/index.tt:531
 #, perl-format
 msgid "No:"
-msgstr ""
+msgstr "Νούμερο:"
 
 #: DB:language/name:307
 msgid "Nogai"
@@ -10084,7 +10084,7 @@ msgstr "Προσοχή! Αν δεν ξέρετε το μήνα ή τη μέρα 
 #: ../root/edit/details/set_track_lengths.tt:58
 #, perl-format
 msgid "Note:"
-msgstr ""
+msgstr "Σημείωση:"
 
 #: ../root/edit/search_macros.tt:214
 #, perl-format
@@ -10135,7 +10135,7 @@ msgstr ""
 #: DB:link_attribute_type/description:22
 #, perl-format
 msgid "Oboe (soprano)"
-msgstr ""
+msgstr "Όμποε (σοπράνο)"
 
 #: DB:link_attribute_type/description:581
 #, perl-format
@@ -10844,7 +10844,7 @@ msgstr "Κρατήστε κατά νου ότι λαμβάνονται υπόψ�
 #: ../root/search/form.tt:54
 #, perl-format
 msgid "Please note:"
-msgstr ""
+msgstr "Σημειώστε:"
 
 #: ../root/release/merge_search.tt:5
 #, perl-format
@@ -11399,7 +11399,7 @@ msgstr ""
 #: ../root/recording/not_found.tt:1 ../root/recording/not_found.tt:2
 #, perl-format
 msgid "Recording Not Found"
-msgstr ""
+msgstr "Δε βρέθηκε ηχογράφηση"
 
 #: ../root/statistics/view_js.tt:157
 #, perl-format
@@ -11537,7 +11537,7 @@ msgstr ""
 #: ../root/statistics/index.tt:351
 #, perl-format
 msgid "Recordings with no PUIDs:"
-msgstr ""
+msgstr "Ηχογραφήσεις χωρίς PUIDs:"
 
 #: ../root/report/featuring_recordings.tt:1
 #: ../root/report/featuring_recordings.tt:3 ../root/report/index.tt:60
@@ -11881,7 +11881,7 @@ msgstr ""
 #: ../root/release/not_found.tt:1 ../root/release/not_found.tt:2
 #, perl-format
 msgid "Release Not Found"
-msgstr ""
+msgstr "Δε βρέθηκε κυκλοφορία"
 
 #: ../root/statistics/view_js.tt:30
 #, perl-format
@@ -13752,12 +13752,12 @@ msgstr ""
 #: ../root/user/subscribers.tt:2
 #, perl-format
 msgid "Subscribers"
-msgstr ""
+msgstr "Συνδρομητές"
 
 #: ../root/user/profile.tt:77
 #, perl-format
 msgid "Subscribers:"
-msgstr ""
+msgstr "Συνδρομητές:"
 
 #: ../root/artist/layout.tt:115 ../root/label/layout.tt:87
 #: ../root/layout/menu.tt:16 ../root/user/profile/layout.tt:12
@@ -14139,7 +14139,7 @@ msgstr ""
 #: ../root/account/verified.tt:4
 #, perl-format
 msgid "Thank you, your email address has now been verified!"
-msgstr ""
+msgstr "Ευχαριστούμε, η διεύθυνση email σας επιβεβαιώθηκε!"
 
 #: DB:link_attribute_type/description:591
 #, perl-format
@@ -14519,7 +14519,7 @@ msgstr ""
 #: ../root/edit/cannot_approve.tt:12
 #, perl-format
 msgid "The reason for this was unknown."
-msgstr ""
+msgstr "Ο λόγος για αυτό είναι άγνωστος."
 
 #: ../root/release/merge.tt:88
 #, perl-format
@@ -14634,7 +14634,7 @@ msgstr ""
 #: ../root/taglookup/nag.tt:4
 #, perl-format
 msgid "The users make MusicBrainz happen and we appreciate your help!"
-msgstr ""
+msgstr "Οι χρήστες κάνουν το MusicBrainz και εκτιμούμε τη βοήθειά σας!"
 
 #: ../root/watch/list.tt:4
 #, perl-format
@@ -14686,12 +14686,12 @@ msgstr ""
 #: ../root/artist/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {artist}."
-msgstr ""
+msgstr "Αυτή τη στιγμή δεν υπάρχουν χρήστες εγγεγραμμένοι στον/στην {artist}."
 
 #: ../root/label/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {label}."
-msgstr ""
+msgstr "Αυτή τη στιγμή δεν υπάρχουν χρήστες εγγεγραμμένοι στην {label}."
 
 #: ../root/cdtoc/attach_medium.tt:3
 #, perl-format
@@ -14707,7 +14707,7 @@ msgstr ""
 #: ../root/artist/subscribe.tt:11
 #, perl-format
 msgid "There are no editors currently subscribed to this artist."
-msgstr ""
+msgstr "Δεν υπάρχουν χρήστες εγγεγραμμένοι σε αυτόν τον καλλιτέχνη αυτή τη στιγμή."
 
 #: ../root/artist/split.tt:24
 #, perl-format
@@ -14721,7 +14721,7 @@ msgstr ""
 #: ../root/label/subscriptions.tt:11
 #, perl-format
 msgid "There are no users currently subscribed to this Label."
-msgstr ""
+msgstr "Αυτή τη στιγμή δεν υπάρχουν χρήστες εγγεγραμμένοι σε αυτήν τη δισκογραφική εταιρεία."
 
 #: ../root/edit/relationship/cannot_create.tt:3
 #, perl-format
@@ -14734,15 +14734,15 @@ msgstr ""
 #, perl-format
 msgid "There is also one anonymous subscriber."
 msgid_plural "There are also {num} anonymous subscribers."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Υπάρχει ακόμα ένας ανώνυμος συνδρομητής."
+msgstr[1] "Υπάρχουν ακόμα {num} ανώνυμοι συνδρομητές."
 
 #: ../root/artist/subscribe.tt:15
 #, perl-format
 msgid "There is also {num} anonymous subscriber"
 msgid_plural "There are also {num} anonymous subscribers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Υπάρχει ακόμα {num} ανώνυμος συνδρομητής"
+msgstr[1] "Υπάρχουν ακόμα {num} ανώνυμοι συνδρομητές"
 
 #: ../root/user/subscribers.tt:4
 #, perl-format
@@ -14769,7 +14769,7 @@ msgstr[1] ""
 #: ../root/search/editor-not-found.tt:4
 #, perl-format
 msgid "There is no editor with this name."
-msgstr ""
+msgstr "Δεν υπάρχει χρήστης με αυτό το όνομα."
 
 #: ../root/edit/cannot_approve.tt:3
 #, perl-format
@@ -14807,7 +14807,7 @@ msgstr ""
 #: ../root/artist/releases.tt:11
 #, perl-format
 msgid "This artist does not have any releases"
-msgstr ""
+msgstr "Αυτός ο καλλιτέχνης δεν έχει κυκλοφορίες."
 
 #: ../root/artist/index.tt:38
 #, perl-format
@@ -15348,12 +15348,12 @@ msgstr ""
 #: ../root/recording/fingerprints.tt:87
 #, perl-format
 msgid "This recording does not have any associated AcoustIDs"
-msgstr ""
+msgstr "Αυτή η ηχογράφηση δεν έχει συνδεδεμένα AcoustIDs"
 
 #: ../root/recording/fingerprints.tt:43
 #, perl-format
 msgid "This recording does not have any associated PUIDs"
-msgstr ""
+msgstr "Αυτή η ηχογράφηση δεν έχει συνδεδεμένα PUIDs"
 
 #: ../root/recording/tags.tt:2
 #, perl-format
@@ -16015,7 +16015,7 @@ msgstr ""
 #: ../root/report/isrc_with_many_recordings.tt:7
 #, perl-format
 msgid "Total ISRCs found: {count}"
-msgstr ""
+msgstr "Συνολικός αριθμός ISRCs που βρέθηκε: {count}"
 
 #: ../root/report/artists_that_may_be_groups.tt:9
 #: ../root/report/artists_that_may_be_persons.tt:9
@@ -16023,7 +16023,7 @@ msgstr ""
 #: ../root/report/possible_collaborations.tt:8
 #, perl-format
 msgid "Total artists found: {count}"
-msgstr ""
+msgstr "Συνολικός αριθμός καλλιτεχνών που βρέθηκε: {count}"
 
 #: ../root/report/duplicate_artists.tt:10
 #, perl-format
@@ -16039,7 +16039,7 @@ msgstr ""
 #: ../root/report/recordings_with_earliest_release_relationships.tt:7
 #, perl-format
 msgid "Total recordings found: {count}"
-msgstr ""
+msgstr "Συνολικός αριθμός ηχογραφήσεων που βρέθηκε: {count}"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:7
 #: ../root/report/empty_release_groups.tt:7
@@ -16068,7 +16068,7 @@ msgstr ""
 #: ../root/report/separate_discs.tt:9 ../root/report/some_formats_unset.tt:7
 #, perl-format
 msgid "Total releases found: {count}"
-msgstr ""
+msgstr "Συνολικός αριθμός κυκλοφοριών που βρέθηκε: {count}"
 
 #: ../root/report/superfluous_data_tracks.tt:9
 #: ../root/report/tracks_named_with_sequence.tt:9
@@ -16358,7 +16358,7 @@ msgstr ""
 #: ../root/url/not_found.tt:1 ../root/url/not_found.tt:2
 #, perl-format
 msgid "URL Not Found"
-msgstr ""
+msgstr "Δε βρέθηκε το URL"
 
 #: ../root/url/relationships.tt:1
 #, perl-format
@@ -16462,23 +16462,23 @@ msgstr ""
 #: ../root/report/artist_list.tt:13
 #, perl-format
 msgid "Unknown"
-msgstr ""
+msgstr "Άγνωστο"
 
 #: ../root/statistics/countries.tt:16 ../root/statistics/view_js.tt:75
 #: ../root/statistics/view_js.tt:76 ../root/statistics/view_js.tt:77
 #, perl-format
 msgid "Unknown Country"
-msgstr ""
+msgstr "Άγνωστη χώρα"
 
 #: ../root/statistics/view_js.tt:149
 #, perl-format
 msgid "Unknown Data Quality"
-msgstr ""
+msgstr "Άγνωστη ποιότητα δεδομένων"
 
 #: ../root/statistics/index.tt:246
 #, perl-format
 msgid "Unknown Data Quality:"
-msgstr ""
+msgstr "Άγνωστη ποιότητα δεδομένων:"
 
 #: ../root/statistics/formats.tt:5
 #, perl-format
@@ -16498,22 +16498,22 @@ msgstr ""
 #: ../root/statistics/view_js.tt:89
 #, perl-format
 msgid "Unknown Language"
-msgstr ""
+msgstr "Άγνωστη γλώσσα"
 
 #: ../root/statistics/view_js.tt:84
 #, perl-format
 msgid "Unknown Script"
-msgstr ""
+msgstr "Άγνωστη γραφή"
 
 #: ../root/statistics/languages_scripts.tt:5
 #, perl-format
 msgid "Unknown language"
-msgstr ""
+msgstr "Άγνωστη γλώσσα"
 
 #: ../root/statistics/languages_scripts.tt:8
 #, perl-format
 msgid "Unknown script"
-msgstr ""
+msgstr "Άγνωστη γραφή"
 
 #: ../root/statistics/view_js.tt:101
 #, perl-format
@@ -16523,7 +16523,7 @@ msgstr "Καλλιτέχνες αγνώστου φύλου"
 #: ../root/statistics/view_js.tt:109
 #, perl-format
 msgid "Unknown-type Artists"
-msgstr ""
+msgstr "Αγνώστου είδους καλλιτέχνες"
 
 #: ../root/recording/fingerprints.tt:73
 #, perl-format
@@ -16677,7 +16677,7 @@ msgstr ""
 #: ../root/user/profile.tt:39
 #, perl-format
 msgid "User type:"
-msgstr ""
+msgstr "Είδος χρήστη:"
 
 #: ../root/account/lost_password.tt:14 ../root/account/register.tt:29
 #: ../root/user/login.tt:23
@@ -16885,7 +16885,7 @@ msgstr ""
 #: ../root/elections/show.tt:72
 #, perl-format
 msgid "Vote NO"
-msgstr ""
+msgstr "Ψηφίστε ΟΧΙ"
 
 #: ../root/elections/show.tt:71
 #, perl-format
@@ -17672,7 +17672,7 @@ msgstr "Πρέπει να είστε συνδεδεμένοι για να ψηφ
 msgid ""
 "You must first verify your email address before being able to edit or add "
 "anything to the database."
-msgstr ""
+msgstr "Πρέπει να επιβεβαιώσετε τη διεύθυνση email σας πριν να έχετε τη δυνατότητα να επεξεργαστείτε ή να προσθέσετε οτιδήποτε στη βάση δεδομένων."
 
 #: ../root/account/register.tt:37
 #, perl-format
@@ -17713,7 +17713,7 @@ msgstr ""
 #: ../root/account/donation.tt:18
 #, perl-format
 msgid "You will not be nagged for another {days} days."
-msgstr ""
+msgstr "Δε θα ενοχληθείτε για άλλες {days} μέρες."
 
 #: DB:link_type/reverse_link_phrase:193 DB:link_type/reverse_link_phrase:225
 #, perl-format
@@ -17730,14 +17730,14 @@ msgstr ""
 msgid ""
 "Your email has been successfully sent! Click {link|here} to continue to "
 "{user}'s profile."
-msgstr "Το μήνυμά σας στάλθηκε επιτυχώς! Κάντε κλικ {link|εδώ} για να συνεχίσετε στο προφίλ του/της {user}."
+msgstr "Το μήνυμά σας στάλθηκε επιτυχώς! Κάντε κλικ {link|εδώ} για να συνεχίσετε στο προφίλ του χρήστη {user}."
 
 #: ../root/account/change_password_ok.tt:5
 #, perl-format
 msgid ""
 "Your password has been changed. Click {link|here} to continue to your user "
 "page."
-msgstr ""
+msgstr "Ο κωδικός σας άλλαξε. Κάντε κλικ {link|εδώ} για να προχωρήσετε στη σελίδα χρήστη σας."
 
 #: ../root/account/reset_password_ok.tt:5
 #, perl-format
@@ -17749,7 +17749,7 @@ msgstr ""
 msgid ""
 "Your preferences have been saved. Click {link|here} to continue to your user"
 " page."
-msgstr ""
+msgstr "Οι ρυθμίσεις σας αποθηκεύτηκαν. Κάντε κλικ {link|εδώ} για να συνεχίστε στη σελίδα χρήστη σας."
 
 #: ../root/account/edit_ok.tt:6
 #, perl-format
@@ -17841,7 +17841,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:33
 #, perl-format
 msgid "[ Unknown ]"
-msgstr ""
+msgstr "[ Άγνωστο ]"
 
 #: DB:language/name:24
 msgid "[Artificial (Other)]"
@@ -19280,17 +19280,17 @@ msgstr ""
 #: DB:link_type/link_phrase:116 DB:link_type/short_link_phrase:116
 #, perl-format
 msgid "founded"
-msgstr ""
+msgstr "ιδρύθηκε"
 
 #: DB:link_attribute_type/name:525
 #, perl-format
 msgid "founder"
-msgstr ""
+msgstr "ιδρυτής"
 
 #: DB:link_type/reverse_link_phrase:116
 #, perl-format
 msgid "founders"
-msgstr ""
+msgstr "ιδρυτές"
 
 #: DB:link_attribute_type/description:421 DB:link_attribute_type/name:421
 #, perl-format
@@ -20047,7 +20047,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:103
 #, perl-format
 msgid "is/was {additional:an additional|a} member of {founder:and founded|}"
-msgstr ""
+msgstr "είναι/ήταν {additional:πρόσθετο|} {founder:ιδρυτικό|}μέλος των "
 
 #: DB:link_attribute_type/name:605
 #, perl-format
@@ -20603,7 +20603,7 @@ msgstr ""
 #: ../root/admin/linkattributetype/common.tt:19
 #, perl-format
 msgid "none"
-msgstr ""
+msgstr "κανένα"
 
 #: DB:link_attribute_type/description:270 DB:link_attribute_type/name:270
 #, perl-format
@@ -20929,8 +20929,8 @@ msgstr ""
 #, perl-format
 msgid "plus {n} other anonymous user"
 msgid_plural "Plus {n} other anonymous users"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "συν {n} άλλος ανώνυμος χρήστης"
+msgstr[1] "συν {n} άλλοι ανώνυμοι χρήστες"
 
 #: ../root/release/collections.tt:14
 #, perl-format
@@ -21508,7 +21508,7 @@ msgstr ""
 #: DB:link_attribute_type/name:362
 #, perl-format
 msgid "sopranino recorder"
-msgstr ""
+msgstr "φλογέρα σοπρανίνο"
 
 #: DB:link_attribute_type/description:537 DB:link_attribute_type/name:537
 #, perl-format
@@ -21518,17 +21518,17 @@ msgstr "σοπρανίνο σαξόφωνο"
 #: DB:link_attribute_type/description:10 DB:link_attribute_type/name:10
 #, perl-format
 msgid "soprano"
-msgstr ""
+msgstr "σοπράνο"
 
 #: DB:link_attribute_type/description:488 DB:link_attribute_type/name:488
 #, perl-format
 msgid "soprano clarinet"
-msgstr ""
+msgstr "κλαρινέτο σοπράνο"
 
 #: DB:link_attribute_type/description:498 DB:link_attribute_type/name:498
 #, perl-format
 msgid "soprano flute"
-msgstr ""
+msgstr "φλάουτο σοπράνο"
 
 #: DB:link_attribute_type/description:34 DB:link_attribute_type/name:34
 #, perl-format
@@ -21538,7 +21538,7 @@ msgstr "σοπράνο σαξόφωνο"
 #: DB:link_attribute_type/description:280 DB:link_attribute_type/name:280
 #, perl-format
 msgid "soprano violin"
-msgstr ""
+msgstr "βιολί σοπράνο"
 
 #: DB:link_attribute_type/description:200 DB:link_attribute_type/name:200
 #, perl-format
@@ -21749,7 +21749,7 @@ msgstr ""
 #: DB:link_attribute_type/description:11 DB:link_attribute_type/name:11
 #, perl-format
 msgid "tenor"
-msgstr ""
+msgstr "τενόρο"
 
 #: DB:link_attribute_type/name:522
 #, perl-format
@@ -21836,7 +21836,7 @@ msgstr ""
 #: DB:link_attribute_type/description:328 DB:link_attribute_type/name:328
 #, perl-format
 msgid "toy piano"
-msgstr ""
+msgstr "παιδικό πιάνο"
 
 #: ../root/release/edit/recordings.tt:191
 #: ../root/release/edit/recordings.tt:262
@@ -22656,12 +22656,12 @@ msgstr ""
 #: DB:link_type/link_phrase:103
 #, perl-format
 msgid "{additional} {founder:founding} member of"
-msgstr ""
+msgstr "{additional} {founder:ιδρυτικό} μέλος των"
 
 #: DB:link_type/reverse_link_phrase:103
 #, perl-format
 msgid "{additional} {founder:founding} members"
-msgstr ""
+msgstr "{additional} {founder:ιδρυτικά} μέλη"
 
 #: DB:link_type/reverse_link_phrase:51 DB:link_type/reverse_link_phrase:156
 #, perl-format
@@ -22701,12 +22701,12 @@ msgstr ""
 #: DB:link_type/link_phrase:102
 #, perl-format
 msgid "{additional} {minor} collaborator on"
-msgstr ""
+msgstr "{additional} {minor} συνεργάτης στο"
 
 #: DB:link_type/reverse_link_phrase:102
 #, perl-format
 msgid "{additional} {minor} collaborators"
-msgstr ""
+msgstr "{additional} {minor} συνεργάτες"
 
 #: DB:link_type/link_phrase:45 DB:link_type/link_phrase:150
 #: DB:link_type/reverse_link_phrase:45 DB:link_type/reverse_link_phrase:150
@@ -22761,8 +22761,8 @@ msgstr ""
 #, perl-format
 msgid "{artist} has no releases which have only {n} track."
 msgid_plural "{artist} has no releases which have {n} tracks."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ο καλλιτέχνης {artist} δεν έχει κυκλοφορίες με μόνο {n} κομμάτι."
+msgstr[1] "Ο καλλιτέχνης {artist} δεν έχει κυκλοφορίες με {n} κομμάτια."
 
 #: ../root/artist/relationships.tt:36 ../root/components/relationships.tt:26
 #, perl-format
@@ -22901,15 +22901,15 @@ msgstr ""
 #, perl-format
 msgid "{num} artist found"
 msgid_plural "{num} artists found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Βρέθηκε {num} καλλιτέχνης"
+msgstr[1] "Βρέθηκαν {num} καλλιτέχνες"
 
 #: ../root/tag/collection.tt:1
 #, perl-format
 msgid "{num} collection found"
 msgid_plural "{num} collections found"
-msgstr[0] "βρέθηκε {num} συλλογή"
-msgstr[1] "βρέθηκαν {num} συλλογές"
+msgstr[0] "Βρέθηκε {num} συλλογή"
+msgstr[1] "Βρέθηκαν {num} συλλογές"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
@@ -22922,8 +22922,8 @@ msgstr[1] ""
 #, perl-format
 msgid "{num} label found"
 msgid_plural "{num} labels found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Βρέθηκε {num} δισκογραφική εταιρεία"
+msgstr[1] "Βρέθηκαν {num} δισκογραφικές εταιρείες"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
@@ -22936,15 +22936,15 @@ msgstr[1] ""
 #, perl-format
 msgid "{num} recording found"
 msgid_plural "{num} recordings found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Βρέθηκε {num} ηχογράφηση"
+msgstr[1] "Βρέθηκαν {num} ηχογραφήσεις"
 
 #: ../root/tag/release.tt:1
 #, perl-format
 msgid "{num} release found"
 msgid_plural "{num} releases found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Βρέθηκε {num} κυκλοφορία"
+msgstr[1] "Βρέθηκαν {num} κυκλοφορίες"
 
 #: ../root/tag/release_group.tt:1
 #, perl-format
@@ -23096,7 +23096,7 @@ msgstr "Ο χρήστης {user} δεν έχει δημόσιες συλλογέ
 #: ../root/user/ratings.tt:23
 #, perl-format
 msgid "{user} has not rated anything."
-msgstr ""
+msgstr "Ο χρήστης {user} δεν έχει βαθμολογήσει τίποτα."
 
 #: ../root/user/tag.tt:22
 #, perl-format
@@ -23274,7 +23274,7 @@ msgstr "Συγνώμη, αυτός ο σύνδεσμος επιβεβαίωση�
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:91
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found."
-msgstr ""
+msgstr "Ο χρήστης με την ID '{user_id}' δε βρέθηκε."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:134
 msgid ""
@@ -23301,7 +23301,7 @@ msgstr "Συγνώμη, αυτός ο σύνδεσμος επαναφοράς κ
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found"
-msgstr ""
+msgstr "Ο χρήστης με την ID '{user_id}' δε βρέθηκε"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:256
 msgid "There is no user with this email"
@@ -23377,7 +23377,7 @@ msgstr "Μια σχέση χρειάζεται 2 διαφορετικές οντ
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:419
 msgid "Release not found"
-msgstr "Κυκλοφορία δε βρέθηκε"
+msgstr "Δε βρέθηκε κυκλοφορία"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:433
 msgid "Target entity not found"
@@ -23390,7 +23390,7 @@ msgstr "Μη έγκυρος τύπος"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:541
 msgid "Entity not found"
-msgstr "Οντότητα δε βρέθηκε."
+msgstr "Δε βρέθηκε οντότητα"
 
 #: ../lib/MusicBrainz/Server/Controller/FreeDB.pm:37
 #, perl-brace-format
