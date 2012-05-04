@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-04 09:58+0000\n"
+"PO-Revision-Date: 2012-05-04 10:59+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -1536,7 +1536,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the relationship: {entity0} {relationship}?"
-msgstr ""
+msgstr "Είστε σίγουροι ότι θέλετε να καταργήσετε τη σχέση: {entity0} {relationship}?"
 
 #: ../root/release_group/delete.tt:5
 #, perl-format
@@ -2048,12 +2048,12 @@ msgstr ""
 #: ../root/account/preferences.tt:49
 #, perl-format
 msgid "Automatically subscribe me to artists I create."
-msgstr "Να εγγράφομαι αυτόματα στους καλλιτέχνες που προσθέτω."
+msgstr "Να παρακολουθώ αυτόματα στους καλλιτέχνες που προσθέτω."
 
 #: ../root/account/preferences.tt:51
 #, perl-format
 msgid "Automatically subscribe me to labels I create."
-msgstr "Να εγγράφομαι αυτόματα στις δισκογραφικές εταιρείες που προσθέτω."
+msgstr "Να παρακολουθώ αυτόματα στις δισκογραφικές εταιρείες που προσθέτω."
 
 #: DB:language/name:30
 msgid "Avaric"
@@ -2303,7 +2303,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:35
 #, perl-format
 msgid "Be the first! {sub|Subscribe}?"
-msgstr "Γίνε ο πρώτος! {sub|Εγγραφή};"
+msgstr "Γίνε ο πρώτος! {sub|Παρακολούθηση};"
 
 #: ../root/account/registered.tt:13
 #, perl-format
@@ -3450,7 +3450,7 @@ msgstr ""
 #: ../root/statistics/index.tt:12 ../root/statistics/view_js.tt:25
 #, perl-format
 msgid "Core Entities"
-msgstr ""
+msgstr "Βασικά στοιχεία"
 
 #: DB:link_attribute_type/description:273
 #, perl-format
@@ -5027,12 +5027,12 @@ msgstr ""
 #: ../root/artist/subscribe.tt:2
 #, perl-format
 msgid "Editors Subscribed to this Artist"
-msgstr "Συνδρομητές του καλλιτέχνη"
+msgstr "Χρήστες που παρακολουθούν τον καλλιτέχνη"
 
 #: ../root/label/subscriptions.tt:2
 #, perl-format
 msgid "Editors subscribed to this Label"
-msgstr "Συνδρομητές της δισκογραφική εταιρεία"
+msgstr "Χρήστες που παρακολουθούν τη δισκογραφική εταιρεία"
 
 #: ../root/statistics/index.tt:408
 #, perl-format
@@ -5058,12 +5058,12 @@ msgstr "Επεξεργασίες ({view_url|προβολή})"
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
 msgid "Edits By Your Subscribed Editors"
-msgstr "Επεξεργασίες των χρηστών στους οποίους είστε συνδρομητές"
+msgstr "Επεξεργασίες των χρηστών που παρακολουθείτε"
 
 #: ../root/edit/subscribed.tt:15 ../root/edit/subscribed.tt:17
 #, perl-format
 msgid "Edits For Your Subscribed Entities"
-msgstr "Επεξεργασίες για τις συνδρομές σας"
+msgstr "Επεξεργασίες για τα στοιχεία που παρακολουθείτε"
 
 #: ../root/statistics/view_js.tt:53
 #, perl-format
@@ -5073,7 +5073,7 @@ msgstr ""
 #: ../root/layout/menu.tt:45
 #, perl-format
 msgid "Edits by Subscribed Editors"
-msgstr "Επεξεργασίες χρηστών των οποίων είστε συνδρομητής"
+msgstr "Επεξεργασίες των χρηστών που παρακολουθείτε"
 
 #: ../root/user/edits.tt:16
 #, perl-format
@@ -5083,7 +5083,7 @@ msgstr "Επεξεργασίες του χρήστη {name}"
 #: ../root/layout/menu.tt:42
 #, perl-format
 msgid "Edits for Subscribed Entities"
-msgstr "Επεξεργασίες των συνδρομών σας"
+msgstr "Επεξεργασίες για τα στοιχεία που παρακολουθείτε"
 
 #: ../root/label/edits.tt:17
 #, perl-format
@@ -5287,7 +5287,7 @@ msgstr "Συνιστάται να εισαγάγετε ένα {note|σημείω
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
 msgid "Entity Not Found"
-msgstr "Δε βρέθηκε οντότητα"
+msgstr "Δε βρέθηκε στοιχείο"
 
 #: DB:country/name:65
 msgid "Equatorial Guinea"
@@ -7304,7 +7304,7 @@ msgstr ""
 #: DB:link_attribute_type/description:567
 #, perl-format
 msgid "Indicates that one entity is a cover of another entity"
-msgstr ""
+msgstr "Υποδεικνύει ότι ένα στοιχείο είναι διασκευή ενός άλλου  "
 
 #: DB:link_type/description:230
 #, perl-format
@@ -10823,7 +10823,7 @@ msgstr ""
 msgid ""
 "Please navigate to the pages of other entities you wish to merge and select "
 "the \"merge\" link."
-msgstr ""
+msgstr "Παρακαλούμε περιηγηθείτε στις σελίδες των υπολοίπων στοιχείων που επιθυμείτε να συγχωνεύσετε και επιλέξετε το σύνδεσμο \"Συγχώνευση\"."
 
 #: ../root/annotation/edit.tt:1
 #, perl-format
@@ -13392,7 +13392,7 @@ msgstr ""
 msgid ""
 "Sorry, we could not find a MusicBrainz entity with that MusicBrainz ID. You "
 "may wish to try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Συγνώμη, δεν μπορούμε να βρούμε το στοιχείο του MusicBrainz με αυτή τη Musicbrainz ID. Ίσως να θέλετε να κάνετε {search_url|αναζήτηση} για αυτό."
 
 #: ../root/url/not_found.tt:4
 #, perl-format
@@ -13718,32 +13718,32 @@ msgstr ""
 #: ../root/artist/layout.tt:121 ../root/label/layout.tt:93
 #, perl-format
 msgid "Subscribe"
-msgstr ""
+msgstr "Παρακολούθηση"
 
 #: ../root/label/subscriptions.tt:25
 #, perl-format
 msgid "Subscribe to this Label."
-msgstr ""
+msgstr "Παρακολούθηση αυτής της δισκογραφική εταιρεία."
 
 #: ../root/artist/subscribe.tt:20
 #, perl-format
 msgid "Subscribe to this artist."
-msgstr ""
+msgstr "Παρακολούθηση αυτού του καλλιτέχνη."
 
 #: ../root/artist/subscribe.tt:1 ../root/label/subscriptions.tt:1
 #, perl-format
 msgid "Subscribed Editors"
-msgstr ""
+msgstr "Χρήστες που παρακολουθώ"
 
 #: ../root/edit/list_header.tt:15
 #, perl-format
 msgid "Subscribed editors"
-msgstr ""
+msgstr "Χρήστες που παρακολουθώ"
 
 #: ../root/edit/list_header.tt:13
 #, perl-format
 msgid "Subscribed entities"
-msgstr ""
+msgstr "Στοιχεία που παρακολουθώ"
 
 #: ../root/artist/layout.tt:123 ../root/artist/subscribers.tt:1
 #: ../root/artist/subscribers.tt:2 ../root/label/layout.tt:95
@@ -13752,12 +13752,12 @@ msgstr ""
 #: ../root/user/subscribers.tt:2
 #, perl-format
 msgid "Subscribers"
-msgstr "Συνδρομητές"
+msgstr "Χρήστες που παρακολουθούν"
 
 #: ../root/user/profile.tt:77
 #, perl-format
 msgid "Subscribers:"
-msgstr "Συνδρομητές:"
+msgstr "Παρακολουθούν:"
 
 #: ../root/artist/layout.tt:115 ../root/label/layout.tt:87
 #: ../root/layout/menu.tt:16 ../root/user/profile/layout.tt:12
@@ -14676,22 +14676,22 @@ msgstr ""
 #: ../root/user/subscribers.tt:23
 #, perl-format
 msgid "There are currently no users subscribed to edits that you make."
-msgstr "Αυτή τη στιγμή δεν υπάρχουν συνδρομητές στις επεξεργασίες σας."
+msgstr "Δεν υπάρχουν χρήστες που να παρακολουθούν τις επεξεργασίες σας."
 
 #: ../root/user/subscribers.tt:25
 #, perl-format
 msgid "There are currently no users subscribed to edits that {user} makes."
-msgstr "Αυτή τη στιγμή δεν υπάρχουν συνδρομητές στις επεξεργασίες του χρήστη {user}."
+msgstr "Δεν υπάρχουν χρήστες που να παρακολουθούν στις επεξεργασίες του χρήστη {user}."
 
 #: ../root/artist/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {artist}."
-msgstr "Αυτή τη στιγμή δεν υπάρχουν χρήστες εγγεγραμμένοι στον/στην {artist}."
+msgstr "Δεν υπάρχουν χρήστες που να παρακολουθούν τον καλλιτέχνη {artist}."
 
 #: ../root/label/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {label}."
-msgstr "Αυτή τη στιγμή δεν υπάρχουν χρήστες εγγεγραμμένοι στην {label}."
+msgstr "Δεν υπάρχουν χρήστες που να παρακολουθούν την εταιρεία {label}."
 
 #: ../root/cdtoc/attach_medium.tt:3
 #, perl-format
@@ -14707,7 +14707,7 @@ msgstr ""
 #: ../root/artist/subscribe.tt:11
 #, perl-format
 msgid "There are no editors currently subscribed to this artist."
-msgstr "Δεν υπάρχουν χρήστες εγγεγραμμένοι σε αυτόν τον καλλιτέχνη αυτή τη στιγμή."
+msgstr "Δεν υπάρχουν χρήστες που να παρακολουθούν αυτόν τον καλλιτέχνη."
 
 #: ../root/artist/split.tt:24
 #, perl-format
@@ -14721,7 +14721,7 @@ msgstr ""
 #: ../root/label/subscriptions.tt:11
 #, perl-format
 msgid "There are no users currently subscribed to this Label."
-msgstr "Αυτή τη στιγμή δεν υπάρχουν χρήστες εγγεγραμμένοι σε αυτήν τη δισκογραφική εταιρεία."
+msgstr "Δεν υπάρχουν χρήστες που να παρακολουθούν αυτήν τη δισκογραφική εταιρεία."
 
 #: ../root/edit/relationship/cannot_create.tt:3
 #, perl-format
@@ -14734,37 +14734,37 @@ msgstr ""
 #, perl-format
 msgid "There is also one anonymous subscriber."
 msgid_plural "There are also {num} anonymous subscribers."
-msgstr[0] "Υπάρχει ακόμα ένας ανώνυμος συνδρομητής."
-msgstr[1] "Υπάρχουν ακόμα {num} ανώνυμοι συνδρομητές."
+msgstr[0] "Παρακολουθεί ακόμα ένας ανώνυμος χρήστης."
+msgstr[1] "Παρακολουθούν ακόμα {num} ανώνυμοι χρήστες."
 
 #: ../root/artist/subscribe.tt:15
 #, perl-format
 msgid "There is also {num} anonymous subscriber"
 msgid_plural "There are also {num} anonymous subscribers"
-msgstr[0] "Υπάρχει ακόμα {num} ανώνυμος συνδρομητής"
-msgstr[1] "Υπάρχουν ακόμα {num} ανώνυμοι συνδρομητές"
+msgstr[0] "Παρακολουθεί ακόμα {num} ανώνυμος χρήστης"
+msgstr[1] "Παρακολουθούν ακόμα {num} ανώνυμοι χρήστες"
 
 #: ../root/user/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to edits that {user} makes:"
 msgid_plural ""
 "There are currently {num} users subscribed to edits that {user} makes:"
-msgstr[0] "Αυτή τη στιγμή υπάρχει ένας συνδρομητής στις επεξεργασίες του χρήστη {user}:"
-msgstr[1] "Αυτή τη στιγμή υπάρχουν {num} συνδρομητές στις επεξεργασίες του χρήστη {user}:"
+msgstr[0] "Τις επεξεργασίες του χρήστη {user} παρακολουθεί {num} χρήστης:"
+msgstr[1] "Τις επεξεργασίες του χρήστη {user} παρακολουθούν {num} χρήστες:"
 
 #: ../root/artist/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {artist}:"
 msgid_plural "There are currently {num} users subscribed to {artist}:"
-msgstr[0] "Αυτή τη στιγμή υπάρχει ένας συνδρομητής του καλλιτέχνη {artist}:"
-msgstr[1] "Αυτή τη στιγμή υπάρχουν {num} συνδρομητές του καλλιτέχνη {artist}:"
+msgstr[0] "Τον καλλιτέχνη {artist} παρακολουθεί {num} χρήστης:"
+msgstr[1] "Τον καλλιτέχνη {artist} παρακολουθούν {num} χρήστες:"
 
 #: ../root/label/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {label}:"
 msgid_plural "There are currently {num} users subscribed to {label}:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Τη δισκογραφική εταιρεία {label} παρακολουθεί {num} χρήστης:"
+msgstr[1] "Τη δισκογραφική εταιρεία {label} παρακολουθούν {num} χρήστες:"
 
 #: ../root/search/editor-not-found.tt:4
 #, perl-format
@@ -15012,7 +15012,7 @@ msgstr ""
 msgid ""
 "This edit failed either because an entity it was modifying no longer exists,"
 " or the entity can not be modified in this manner anymore."
-msgstr ""
+msgstr "Η επεξεργασία απέτυχε είτε επειδή ένα στοιχείο το οποίο τροποποιούσε δεν υπάρχει πια, είτε επειδή το εν λόγω στοιχείο δεν μπορεί πλέον να τροποποιηθεί με αυτόν τον τρόπο."
 
 #: ../root/components/common-macros.tt:470
 #, perl-format
@@ -15051,7 +15051,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Plugin/Diff.pm:110
 #, perl-format
 msgid "This entity has been removed, and cannot be displayed correctly."
-msgstr ""
+msgstr "Αυτό το στοιχείο έχει καταργηθεί και δεν μπορεί να εμφανιστεί σωστά."
 
 #: ../root/components/common-macros.tt:157
 #, perl-format
@@ -16534,17 +16534,17 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:32
 #, perl-format
 msgid "Unsubscribe"
-msgstr "Κατάργηση συνδρομής"
+msgstr "Μη παρακολούθηση"
 
 #: ../root/label/subscriptions.tt:21
 #, perl-format
 msgid "Unsubscribe from this Label."
-msgstr "Κατάργηση συνδρομής από αυτή τη δισκογραφική εταιρεία."
+msgstr "Μη παρακολούθηση αυτής της δισκογραφική εταιρεία."
 
 #: ../root/artist/subscribe.tt:18
 #, perl-format
 msgid "Unsubscribe from this artist."
-msgstr "Κατάργηση συνδρομής από αυτόν τον καλλιτέχνη."
+msgstr "Μη παρακολούθηση αυτού του καλλιτέχνη."
 
 #: ../root/admin/edit_user.tt:12
 #, perl-format
@@ -17190,7 +17190,7 @@ msgstr "Όταν είστε έτοιμοι για να συγχωνεύσετε 
 msgid ""
 "When you have found the release that you would like to merge {recording} "
 "into, please select that entity and click <em>merge</em>."
-msgstr ""
+msgstr "Όταν βρείτε την κυκλοφορία στην οποία θέλετε να συγχωνεύσετε την ηχογράφηση {recording}, παρακαλούμε επιλέξτε το στοιχείο και πατήστε <em>συγχώνευση</em>."
 
 #: ../root/release/move_search.tt:5
 #, perl-format
@@ -17540,7 +17540,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:32
 #, perl-format
 msgid "You are currently subscribed. {unsub|Unsubscribe}?"
-msgstr "Είστε εγγεγραμμένος. {unsub|Κατάργηση συνδρομής};"
+msgstr "Αυτή τη στιγμή παρακολουθείτε αυτό το στοιχείο. {unsub|Μη παρακολούθηση};"
 
 #: ../root/watch/list.tt:7
 #, perl-format
@@ -17561,7 +17561,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:38
 #, perl-format
 msgid "You are not currently subscribed. {sub|Subscribe}?"
-msgstr "Αυτή τη στιγμή δεν είστε συνδρομητής. {sub|Εγγραφή};"
+msgstr "Αυτή τη στιγμή παρακολουθείτε αυτό το στοιχείο. {unsub|Μη παρακολούθηση};"
 
 #: ../root/watch/list.tt:32
 #, perl-format
@@ -21594,7 +21594,7 @@ msgstr ""
 #: ../root/user/profile.tt:88
 #, perl-format
 msgid "subscribe"
-msgstr ""
+msgstr "παρακολούθηση"
 
 #: DB:link_type/link_phrase:200
 #, perl-format
@@ -21997,7 +21997,7 @@ msgstr ""
 #: ../root/user/profile.tt:86
 #, perl-format
 msgid "unsubscribe"
-msgstr "Κατάργηση συνδρομής"
+msgstr "μη παρακολούθηση"
 
 #: ../root/components/common-macros.tt:539 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -22843,7 +22843,7 @@ msgstr ""
 #: ../root/components/relationships.tt:18
 #, perl-format
 msgid "{entity} by {artist}"
-msgstr ""
+msgstr "{entity} από {artist}"
 
 #: ../root/components/aliases.tt:42
 #, perl-format
@@ -23381,7 +23381,7 @@ msgstr "Δε βρέθηκε κυκλοφορία"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:433
 msgid "Target entity not found"
-msgstr ""
+msgstr "Στοιχείο-στόχος δε βρέθηκε"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:527
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:535
@@ -23390,7 +23390,7 @@ msgstr "Μη έγκυρος τύπος"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:541
 msgid "Entity not found"
-msgstr "Δε βρέθηκε οντότητα"
+msgstr "Δε βρέθηκε στοιχείο"
 
 #: ../lib/MusicBrainz/Server/Controller/FreeDB.pm:37
 #, perl-brace-format
@@ -23894,7 +23894,7 @@ msgstr "Το πρωτόκολλο URL πρέπει να είναι HTTP, HTTPS �
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
-msgstr ""
+msgstr "Παρακαλούμε επιλέξτε το στοιχείο με το οποίο θέλετε να συγχωνευθούν τα υπόλοιπα."
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:61
 msgid "Another medium is already in this position"
@@ -24206,7 +24206,7 @@ msgstr "Πληροφορίες κυκλοφορίας"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:73
 msgid "Add Missing Entities"
-msgstr ""
+msgstr "Προσθήκη στοιχείων που λείπουν"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:120
 msgid "Release Duplicates"
