@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-04 12:37+0000\n"
+"PO-Revision-Date: 2012-05-04 13:59+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -6184,7 +6184,7 @@ msgstr ""
 #: ../root/edit/list_header.tt:18
 #, perl-format
 msgid "Help:"
-msgstr ""
+msgstr "Βοήθεια:"
 
 #: DB:language/name:168
 msgid "Herero"
@@ -11295,7 +11295,7 @@ msgstr "Γρήγορη εκκίνηση »"
 #: ../root/edit/list_header.tt:4
 #, perl-format
 msgid "Quick links:"
-msgstr "Γρήγοροι σύνδεσμοι:"
+msgstr "Quick links:"
 
 #: DB:language/name:345
 msgid "Rajasthani"
@@ -23240,7 +23240,7 @@ msgstr "'Η {id}' δεν είναι έγκυρη MusicBrainz ID"
 #: ../lib/MusicBrainz/Server/Controller.pm:113
 msgid ""
 "Thank you, your edit has been entered into the edit queue for peer review."
-msgstr ""
+msgstr "Ευχαριστούμε, η επεξεργασία σας μπήκε στην ουρά επεξεργασιών για αξιολόγηση από τους υπόλοιπους χρήστες."
 
 #: ../lib/MusicBrainz/Server/Controller.pm:114
 msgid "Thank you, your edit has been accepted and applied"
@@ -23441,11 +23441,11 @@ msgstr "Δεν έχει δοθεί όνομα καλλιτέχνη"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:112
 msgid "Not all tracks specify an artist"
-msgstr ""
+msgstr "Δεν έχει οριστεί καλλιτέχνης για όλα τα κομμάτια"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:115
 msgid "Not all tracks have a title"
-msgstr ""
+msgstr "Δεν έχει οριστεί τίτλος για όλα τα κομμάτια"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:118
 msgid "Cannot add a CD stub with no tracks"
@@ -23571,7 +23571,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrack.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
 msgid "Add track"
-msgstr ""
+msgstr "Προσθήκη κομματιού"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackAnnotation.pm:7
 msgid "Add track annotation"
@@ -23583,7 +23583,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeTrackArtist.pm:12
 msgid "Change track artist"
-msgstr ""
+msgstr "Αλλαγή καλλιτέχνη κομματιού"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeWikiDoc.pm:7
 msgid "Change wikidoc"
@@ -23640,11 +23640,11 @@ msgstr "Επεξεργασία ονόματος κυκλοφορίας"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length"
-msgstr ""
+msgstr "Επεξεργασία διάρκειας"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackName.pm:20
 msgid "Edit track name"
-msgstr ""
+msgstr "Επεξεργασία ονόματος κομματιού"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackNum.pm:11
 msgid "Edit track number"
