@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-02-06 11:49-0500\n"
-"PO-Revision-Date: 2012-05-04 11:59+0000\n"
+"PO-Revision-Date: 2012-05-04 12:37+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -222,7 +222,7 @@ msgstr "0"
 msgid "1 vote"
 msgid_plural "{n} unanimous votes"
 msgstr[0] "1 ψήφος"
-msgstr[1] "{n} ομόφωνοι ψήφοι"
+msgstr[1] "{n} ομόφωνες ψήφοι"
 
 #: DB:medium_format/name:30
 msgid "10\" Vinyl"
@@ -552,7 +552,7 @@ msgstr ""
 #: ../root/user/profile.tt:116
 #, perl-format
 msgid "Accepted"
-msgstr ""
+msgstr "Έγιναν αποδεκτές"
 
 #: ../root/account/registered.tt:1 ../root/account/registered.tt:2
 #, perl-format
@@ -3822,12 +3822,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:63
 #, perl-format
 msgid "Count of votes per day"
-msgstr "Καταμέτρηση όλων των ψήφων κατά ημέρα"
+msgstr "Καταμέτρηση όλων των ψήφων ανά ημέρα"
 
 #: ../root/statistics/view_js.tt:64
 #, perl-format
 msgid "Count of votes per week"
-msgstr "Καταμέτρηση όλων των ψήφων κατά βδομάδα"
+msgstr "Καταμέτρηση όλων των ψήφων ανά βδομάδα"
 
 #: ../root/statistics/countries.tt:25
 #, perl-format
@@ -4606,7 +4606,7 @@ msgstr ""
 #: ../root/user/profile/layout.tt:33
 #, perl-format
 msgid "Donation Check"
-msgstr ""
+msgstr "Έλεγχος δωρεάς"
 
 #: ../root/release/edit/tracklist.tt:159 ../root/scripts/text_strings.tt:29
 #, perl-format
@@ -5037,7 +5037,7 @@ msgstr "Χρήστες που παρακολουθούν τη δισκογραφ
 #: ../root/statistics/index.tt:408
 #, perl-format
 msgid "Editors, Edits, and Votes"
-msgstr ""
+msgstr "Χρήστες, επεξεργασίες και ψήφοι"
 
 #: ../root/statistics/index.tt:52 ../root/statistics/index.tt:417
 #, perl-format
@@ -6291,7 +6291,7 @@ msgid ""
 "{metabrainz_foundation}, a California based 501(c)3 tax-exempt non-profit, "
 "operates the MusicBrainz project which makes all donations <b>tax "
 "deductible</b> for US taxpayers. And its simply good karma everywhere else!"
-msgstr ""
+msgstr "Ωστόσο, έχουμε ακόμα να πληρώσουμε λογαριασμούς και το κόστος της φιλοξενίας αυτής της σελίδας που συνολικά κοστίζουν πάνω από $1000/μήνα. Χρειαζόμαστε τη βοήθεια των χρηστών μας για να τα βγάλουμε πέρα και αν περισσέψουν κάποια χρήματα να χρηματοδοτήσουμε την περαιτέρω ανάπτυξη. Το {metabrainz_foundation}, ένας μη-κερδοσκοπικός 501(c)3 οργανισμός με βάση την Καλιφόρνια λειτουργεί το πρότζεκτ του MusicBrainz γεγονός που κάνει όλες τις δωρεές να <b>εκπίπτουν φορολογικά</b> για τους φορολογούμενους στις Ηνωμένες Πολιτείες. Και παντού είναι και καλό κάρμα!"
 
 #: DB:language/name:176
 msgid "Hungarian"
@@ -6588,7 +6588,7 @@ msgid ""
 "We encourage people to donate $12 to make the nag screen disappear for 3 "
 "months. Or even better, sign up for a recurring donation every three months "
 "to not have to think about or see this nag again."
-msgstr ""
+msgstr "Αν κάνετε μια δωρεά <b>$4</b> δε θα δείτε αυτό το κείμενο για ένα <b>μήνα</b>. Προτρέπουμε όσους θέλουν να κάνουν μια δωρεά $12 για να μη δουν αυτήν την υπενθύμιση για 3 μήνες. Ή ακόμα καλύτερα, να εγγραφείτε για μια επαναλαμβανόμενη τρίμηνη δωρεά και να μη ξαναδείτε ποτέ αυτή την οθόνη."
 
 #: ../root/main/403.tt:8
 #, perl-format
@@ -6652,7 +6652,7 @@ msgstr "Αν θέλετε να διαγράψετε το λογαριασμό σ
 msgid ""
 "If you would like to make a donation, {donate|you can do that here}. If you "
 "have donated, but you are still being nagged, please {contact|contact us}."
-msgstr ""
+msgstr "Αν θέλετε να κάνετε μια δωρεά, {donate|μπορείτε να το κάνετε εδώ}. Αν έχετε κάνει ήδη δωρεά αλλά βλέπετε ακόμα αυτό το μήνυμα τότε παρακαλούμε {contact|επικοινωνήστε μαζί μας}."
 
 #: ../root/report/index.tt:6
 #, perl-format
@@ -14592,7 +14592,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "The tally of votes cast will only be shown when the election is complete."
-msgstr ""
+msgstr "Το άθροισμα των ψήφων θα εμφανιστεί μόνο μόλις ολοκληρωθεί η ψηφοφορία."
 
 #: DB:link_attribute_type/description:560
 #, perl-format
@@ -17116,7 +17116,7 @@ msgid ""
 "We have not received a donation from you recently. If you have just made a "
 "PayPal donation, then we have not received a notification from PayPal yet. "
 "Please wait a few minutes and reload this page to check again."
-msgstr ""
+msgstr "Δε λάβαμε πρόσφατα δωρεά από εσάς. Αν μόλις κάνατε δωρεά μέσω PayPal, τότε δεν έχουμε λάβει ακόμα την ειδοποίηση από το PayPal. Παρακαλούμε περιμένετε μερικά λεπτά και ανανεώστε αυτή τη σελίδα για να ελέγξετε και πάλι. "
 
 #: ../root/account/edit_ok.tt:8
 #, perl-format
@@ -17399,7 +17399,7 @@ msgstr "Ναι"
 #: ../root/statistics/view_js.tt:66
 #, perl-format
 msgid "Yes Votes"
-msgstr "Θετικοί ψήφοι"
+msgstr "Θετικές ψήφοι"
 
 #: ../root/edit/search_macros.tt:278
 #, perl-format
