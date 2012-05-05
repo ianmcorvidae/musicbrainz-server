@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-05 08:20+0000\n"
+"PO-Revision-Date: 2012-05-05 14:39+0000\n"
 "Last-Translator: Dimitris <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -718,7 +718,7 @@ msgstr ""
 #: ../root/layout/menu.tt:188
 #, perl-format
 msgid "Add Various Artists Release"
-msgstr ""
+msgstr "Προσθήκη κυκλοφορίας Διαφόρων Καλλιτεχνών"
 
 #: ../root/layout/menu.tt:194 ../root/work/create.tt:15
 #: ../root/work/create.tt:16
@@ -1086,7 +1086,7 @@ msgstr "Όλες οι επεξεργασίες"
 #: ../root/layout/menu.tt:39
 #, perl-format
 msgid "All My Edits"
-msgstr ""
+msgstr "Όλες οι επεξεργασίες μου"
 
 #: ../root/release/cover_art.tt:34
 #, perl-format
@@ -3757,7 +3757,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:123
 #, perl-format
 msgid "Count of all Releases by Various Artists"
-msgstr ""
+msgstr "Καταμέτρηση όλων των κυκλοφοριών Διαφόρων Καλλιτεχνών"
 
 #: ../root/statistics/view_js.tt:122
 #, perl-format
@@ -3882,7 +3882,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:50
 #, perl-format
 msgid "Count of open edits"
-msgstr ""
+msgstr "Καταμέτρηση ανοιχτών επεξεργασιών"
 
 #: ../root/statistics/view_js.tt:64
 #, perl-format
@@ -4476,12 +4476,12 @@ msgstr ""
 #: ../root/layout/menu.tt:227
 #, perl-format
 msgid "Development"
-msgstr ""
+msgstr "Ανάπτυξη"
 
 #: ../root/layout.tt:81
 #, perl-format
 msgid "Development branch: {branch}"
-msgstr ""
+msgstr "Κλάδος ανάπτυξης: {branch}"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:28
 #, perl-format
@@ -8942,7 +8942,7 @@ msgstr "Magic MP3 Tagger"
 msgid ""
 "Mail me when one of my edits gets a \"no\" vote. (Note: the email is only "
 "sent for the first \"no\" vote, not each one)"
-msgstr ""
+msgstr "Επικοινωνήστε μαζί μου με email όταν μια επεξεργασία μου παίρνει αρνητική ψήφο. (Σημείωση: το mail στέλνεται μόνο για την πρώτη αρνητική ψήφο και όχι για κάθε μια ξεχωριστά)"
 
 #: ../root/layout/menu.tt:235
 #, perl-format
@@ -9690,7 +9690,7 @@ msgstr "Τα δεδομένα μου"
 #: ../root/layout/menu.tt:36
 #, perl-format
 msgid "My Open Edits"
-msgstr ""
+msgstr "Οι ανοιχτές επεξεργασίες μου"
 
 #: ../root/layout/menu.tt:30
 #, perl-format
@@ -10515,7 +10515,7 @@ msgstr "Ουπς, κάτι πήγε στραβά!"
 #: ../root/statistics/view_js.tt:50 ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "Open Edits"
-msgstr ""
+msgstr "Ανοιχτές επεξεργασίες"
 
 #: ../root/artist/layout.tt:105 ../root/edit/list_header.tt:11
 #: ../root/label/layout.tt:79 ../root/recording/layout.tt:57
@@ -10523,7 +10523,7 @@ msgstr ""
 #: ../root/url/layout.tt:14 ../root/work/layout.tt:50
 #, perl-format
 msgid "Open edits"
-msgstr ""
+msgstr "Ανοιχτές επεξεργασίες"
 
 #: ../root/components/common-macros.tt:375
 #: ../root/components/common-macros.tt:380
@@ -11173,7 +11173,7 @@ msgstr ""
 #: ../root/cdstub/import.tt:3
 #, perl-format
 msgid "Please search for the artist you wish to create a new release for:"
-msgstr ""
+msgstr "Παρακαλούμε αναζητήστε τον καλλιτέχνη για τον οποίο θέλετε να προσθέσετε μια νέα κυκλοφορία:"
 
 #: ../root/release/cover_art_fields.tt:8
 #, perl-format
@@ -13062,7 +13062,7 @@ msgstr "Αναζήτηση"
 #: ../root/layout/menu.tt:157
 #, perl-format
 msgid "Search Edits"
-msgstr ""
+msgstr "Αναζήτηση στις επεξεργασίες"
 
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 #, perl-format
@@ -13106,27 +13106,27 @@ msgstr "Αναζήτηση με βάση την κυκλοφορία"
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
 #, perl-format
 msgid "Search for Edits"
-msgstr ""
+msgstr "Αναζήτηση για επεξεργασίες"
 
 #: ../root/search/editor.tt:1
 #, perl-format
 msgid "Search for an Editor"
-msgstr ""
+msgstr "Αναζήτηση για χρήστη"
 
 #: ../root/cdtoc/attach_filter_artist.tt:3
 #, perl-format
 msgid "Search for an artist"
-msgstr ""
+msgstr "Αναζήτηση για καλλιτέχνη"
 
 #: ../root/edit/list_header.tt:8
 #, perl-format
 msgid "Search for edits"
-msgstr ""
+msgstr "Αναζήτηση για επεξεργασίες"
 
 #: ../root/release/edit/recordings.tt:95
 #, perl-format
 msgid "Search for recordings"
-msgstr ""
+msgstr "Αναζήτηση για ηχογράφηση"
 
 #: ../root/search/form.tt:52
 #, perl-format
@@ -13146,7 +13146,7 @@ msgstr ""
 #: ../root/search/form.tt:20
 #, perl-format
 msgid "Search method:"
-msgstr ""
+msgstr "Τρόπος αναζήτησης:"
 
 #: ../root/cdstub/layout.tt:33
 #, perl-format
@@ -13208,7 +13208,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:99
 #, perl-format
 msgid "Select a disc from the search results below and then click \"Add Disc\"."
-msgstr ""
+msgstr "Επιλέξτε δίσκο από τα αποτελέσματα αναζήτησης παρακάτω και πατήστε \"Προσθήκη δίσκου\"."
 
 #: ../root/cdtoc/move_search.tt:4
 #, perl-format
@@ -15208,7 +15208,7 @@ msgstr ""
 #: ../root/artist/releases.tt:25
 #, perl-format
 msgid "This artist only has releases by various artists."
-msgstr ""
+msgstr "Αυτός ο καλλιτέχνης διαθέτει μόνο κυκλοφορίες διαφόρων καλλιτεχνών."
 
 #: DB:link_attribute_type/description:243
 #, perl-format
@@ -15485,7 +15485,7 @@ msgstr ""
 #: ../root/layout.tt:96
 #, perl-format
 msgid "This is a MusicBrainz development server."
-msgstr ""
+msgstr "Αυτός είναι ένας server ανάπτυξης του MusicBrainz."
 
 #: ../root/layout.tt:105
 #, perl-format
@@ -15499,7 +15499,7 @@ msgstr ""
 msgid ""
 "This is a development server. Your email address is not private or secure. "
 "Proceed with caution!"
-msgstr ""
+msgstr "Αυτός είναι server ανάπτυξης. Η διεύθυνση email σας δεν είναι ούτε ιδιωτική ούτε ασφαλής. Συνεχίστε με σύνεση!"
 
 #: ../root/user/login.tt:27
 #, perl-format
@@ -17208,7 +17208,7 @@ msgstr ""
 #: ../root/cdstub/browse.tt:19 ../root/cdstub/layout.tt:25
 #, perl-format
 msgid "Various Artists"
-msgstr ""
+msgstr "Διάφοροι Καλλιτέχνες"
 
 #: DB:link_attribute_type/description:343
 #, perl-format
@@ -23622,7 +23622,7 @@ msgstr "{uri|Συνέδεσε με URL}"
 #: ../root/layout/sidebar/sidebar-affiliates.tt:10
 #, perl-format
 msgid "{uri|Search on SoundUnwound}"
-msgstr ""
+msgstr "{uri|Αναζήτηση στο SoundUnwound}"
 
 #: ../root/user/collections.tt:32
 #, perl-format
