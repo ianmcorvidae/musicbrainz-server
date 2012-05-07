@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-07 16:52+0000\n"
+"PO-Revision-Date: 2012-05-07 17:57+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1144,7 +1144,7 @@ msgstr "Sta andere gebruikers toe om mijn waarderingen te zien"
 #: ../root/account/preferences.tt:30
 #, perl-format
 msgid "Allow other users to see my subscriptions"
-msgstr "Laar andere gebruikers mijn abonnementen zien"
+msgstr "Laat andere gebruikers mijn abonnementen zien"
 
 #: ../root/account/preferences.tt:31
 #, perl-format
@@ -1229,12 +1229,12 @@ msgstr ""
 #: ../root/report/asins_with_multiple_releases.tt:3
 #, perl-format
 msgid "Amazon URLs Linked to Multiple Releases"
-msgstr ""
+msgstr "Amazon URL's die aan meerdere uitgaves zijn gelinkt"
 
 #: ../root/report/index.tt:44
 #, perl-format
 msgid "Amazon URLs linked to multiple releases"
-msgstr ""
+msgstr "Amazon URL's die aan meerdere uitgaves zijn gelinkt"
 
 #: DB:country/name:4
 msgid "American Samoa"
@@ -1386,7 +1386,7 @@ msgstr ""
 #: ../root/recording/index.tt:3 ../root/tracklist/index.tt:23
 #, perl-format
 msgid "Appears on releases"
-msgstr ""
+msgstr "Staat op uitgaves"
 
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:50
@@ -1508,7 +1508,7 @@ msgstr "Weet u zeker dat u de collectie {collection} wilt verwijderen?"
 msgid ""
 "Are you sure you want to remove the disc ID <code>{discid}</code> from the "
 "release {release} by {artist}?"
-msgstr ""
+msgstr "Weet u zeker dat u de Disc ID <code>{discid}</code> van de uitgave {release} door {artist} wilt verwijderen?"
 
 #: ../root/edit/cancel.tt:3
 #, perl-format
@@ -2003,7 +2003,7 @@ msgstr ""
 #: ../root/cdtoc/index.tt:7
 #, perl-format
 msgid "Attached to releases"
-msgstr ""
+msgstr "Bevestigd aan uitgaves"
 
 #: ../root/artist/relationships.tt:15
 #, perl-format
@@ -3088,7 +3088,7 @@ msgstr "Keer richting om"
 #: ../root/release/change_quality.tt:1 ../root/release/change_quality.tt:2
 #, perl-format
 msgid "Change release data quality"
-msgstr ""
+msgstr "Verander kwaliteitsscore van de gegeven van de uitgave"
 
 #: ../root/release/sidebar.tt:75
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseGroup.pm:10
@@ -3698,7 +3698,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:144
 #, perl-format
 msgid "Count of all Recordings with {n} Releases"
-msgstr "Aantal opnames met {n} uitgaves"
+msgstr "Totaal aantal opnames met {n} uitgaves"
 
 #: ../root/statistics/view_js.tt:177
 #, perl-format
@@ -3708,7 +3708,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:159
 #, perl-format
 msgid "Count of all Release Group Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen van uitgavegroepen"
 
 #: ../root/statistics/view_js.tt:165
 #, perl-format
@@ -3723,7 +3723,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:145
 #, perl-format
 msgid "Count of all Release Groups with {n} Releases"
-msgstr ""
+msgstr "Totaal aantal uitgavegroepen met {n} uitgaves"
 
 #: ../root/statistics/view_js.tt:173
 #, perl-format
@@ -3733,47 +3733,47 @@ msgstr ""
 #: ../root/statistics/view_js.tt:149
 #, perl-format
 msgid "Count of all Releases at Default Data Quality"
-msgstr ""
+msgstr "Totaal aantal uitgaves met een standaard kwaliteitsscore"
 
 #: ../root/statistics/view_js.tt:152
 #, perl-format
 msgid "Count of all Releases at High Data Quality"
-msgstr ""
+msgstr "Totaal aantal uitgaves met een hoge kwaliteitsscore"
 
 #: ../root/statistics/view_js.tt:153
 #, perl-format
 msgid "Count of all Releases at Low Data Quality"
-msgstr ""
+msgstr "Totaal aantal uitgaves met een lage kwaliteitsscore"
 
 #: ../root/statistics/view_js.tt:151
 #, perl-format
 msgid "Count of all Releases at Normal Data Quality"
-msgstr ""
+msgstr "Totaal aantal uitgaves met een normale kwaliteitsscore"
 
 #: ../root/statistics/view_js.tt:150
 #, perl-format
 msgid "Count of all Releases at Unknown Data Quality"
-msgstr ""
+msgstr "Totaal aantal uitgaves met een onbekende kwaliteitsscore"
 
 #: ../root/statistics/view_js.tt:123
 #, perl-format
 msgid "Count of all Releases by Various Artists"
-msgstr ""
+msgstr "Totaal aantal uitgaves door verschillende artiesten"
 
 #: ../root/statistics/view_js.tt:122
 #, perl-format
 msgid "Count of all Releases not V.A."
-msgstr ""
+msgstr "Totaal aantal uitgaves door een enkele artiest"
 
 #: ../root/statistics/view_js.tt:134
 #, perl-format
 msgid "Count of all Releases with Disc IDs"
-msgstr ""
+msgstr "Totaal aantal uitgaves met Disc ID's"
 
 #: ../root/statistics/view_js.tt:140
 #, perl-format
 msgid "Count of all Releases with {n} Disc IDs"
-msgstr ""
+msgstr "Totaal aantal uitgaves met {n} Disc ID's"
 
 #: ../root/statistics/view_js.tt:168
 #, perl-format
@@ -3883,7 +3883,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:50
 #, perl-format
 msgid "Count of open edits"
-msgstr ""
+msgstr "Totaal aantal openstaande wijzigingen"
 
 #: ../root/statistics/view_js.tt:64
 #, perl-format
@@ -4147,7 +4147,7 @@ msgstr ""
 msgid ""
 "Currently it does this by looking for releases where every track contains "
 "\"/\" or \"-\"."
-msgstr ""
+msgstr "Momenteel gebeurt dit door te zoeken naar uitgaves waarbij elk nummer een \"/\" of een \"-\" bevat."
 
 #: DB:language/name:97
 msgid "Cushitic languages"
@@ -4379,7 +4379,7 @@ msgstr "Verwijder gebruiker"
 #: ../root/admin/delete_user.tt:21
 #, perl-format
 msgid "Delete my account"
-msgstr ""
+msgstr "Verwijder mijn gebruikersaccount"
 
 #: ../root/admin/delete_user.tt:7
 #, perl-format
@@ -4609,23 +4609,23 @@ msgstr ""
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Release Groups"
-msgstr ""
+msgstr "Discogs URL's die aan meerdere uitgavegroepen zijn gekoppeld"
 
 #: ../root/report/discogs_links_with_multiple_releases.tt:1
 #: ../root/report/discogs_links_with_multiple_releases.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Releases"
-msgstr ""
+msgstr "Discogs URL's die aan meerdere uitgaves zijn gekoppeld"
 
 #: ../root/report/index.tt:31
 #, perl-format
 msgid "Discogs URLs linked to multiple release groups"
-msgstr ""
+msgstr "Discogs URL's die aan meerdere uitgavegroepen zijn gekoppeld"
 
 #: ../root/report/index.tt:45
 #, perl-format
 msgid "Discogs URLs linked to multiple releases"
-msgstr ""
+msgstr "Discogs URL's die aan meerdere uitgaves zijn gekoppeld"
 
 #: DB:link_type/reverse_link_phrase:76 DB:link_type/reverse_link_phrase:180
 #: DB:link_type/reverse_link_phrase:217 DB:link_type/reverse_link_phrase:90
@@ -4636,12 +4636,12 @@ msgstr ""
 #: ../root/report/separate_discs.tt:1 ../root/report/separate_discs.tt:3
 #, perl-format
 msgid "Discs as Separate Releases"
-msgstr ""
+msgstr "Media als afzonderlijke uitgaves"
 
 #: ../root/report/index.tt:47
 #, perl-format
 msgid "Discs entered as separate releases"
-msgstr ""
+msgstr "Media toegevoegd als afzonderlijke uitgaves"
 
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
@@ -4668,7 +4668,7 @@ msgstr ""
 #: ../root/release/edit/duplicates.tt:40
 #, perl-format
 msgid "Do not use any of the above releases as a starting point"
-msgstr ""
+msgstr "Gebruik geen van de bovenstaande uitgaves als uitgangspunt"
 
 #: DB:link_attribute_type/description:240
 #, perl-format
@@ -4944,22 +4944,22 @@ msgstr ""
 #: ../root/release/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Release Annotation"
-msgstr ""
+msgstr "Wijzig de aantekening van de uitgave"
 
 #: ../root/release_group/edit.tt:21
 #, perl-format
 msgid "Edit Release Group"
-msgstr ""
+msgstr "Wijzig de uitgavegroep"
 
 #: ../root/release_group/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Release Group Annotation"
-msgstr ""
+msgstr "Wijzig de aantekening van de uitgavegroep"
 
 #: ../root/release/edit/layout.tt:2
 #, perl-format
 msgid "Edit Release: {name}"
-msgstr ""
+msgstr "Wijzig uitgave: {naam}"
 
 #: ../root/doc/edit_types.tt:1 ../root/doc/edit_types.tt:3
 #: ../root/doc/edit_type.tt:17 ../root/edit/info.tt:59
@@ -5059,12 +5059,12 @@ msgstr ""
 #: ../root/release/edit_annotation.tt:2
 #, perl-format
 msgid "Edit release annotation"
-msgstr ""
+msgstr "Wijzig de aantekening van de uitgave"
 
 #: ../root/release_group/edit_annotation.tt:2
 #, perl-format
 msgid "Edit release group annotation"
-msgstr ""
+msgstr "Wijzig de aantekening van de uitgavegroep"
 
 #: ../root/admin/edit_user.tt:40
 #, perl-format
@@ -5333,7 +5333,7 @@ msgstr ""
 #: ../root/report/empty_release_groups.tt:3
 #, perl-format
 msgid "Empty Release Groups"
-msgstr ""
+msgstr "Lege uitgavegroepen"
 
 #: ../root/release/edit/tracklist.tt:195
 #, perl-format
@@ -6723,7 +6723,7 @@ msgid ""
 "If you don't see the artist you are looking for, you can still add a new "
 "release. This will allow you to create this artist and a release at the same"
 " time"
-msgstr ""
+msgstr "Als u de artiest die u zoekt niet kunt vinden, kunt u nog steeds een nieuwe uitgave toevoegen. Dan kunt u de artiest en de uitgave tegelijkertijd aanmaken."
 
 #: ../root/cdtoc/attach_filter_release.tt:62
 #, perl-format
@@ -6862,17 +6862,17 @@ msgstr ""
 #: ../root/freedb/show.tt:54
 #, perl-format
 msgid "Import as Multiple Artist Release"
-msgstr ""
+msgstr "Importeer als uitgave met meerdere artiesten"
 
 #: ../root/cdstub/layout.tt:21
 #, perl-format
 msgid "Import as MusicBrainz release"
-msgstr ""
+msgstr "Importeer als uitgave van MusicBrainz"
 
 #: ../root/freedb/show.tt:5
 #, perl-format
 msgid "Import as a Single Artist Release"
-msgstr ""
+msgstr "Importeer als uitgave van één artiest"
 
 #: ../root/main/mirror.tt:9
 #, perl-format
@@ -7435,7 +7435,7 @@ msgid ""
 "two albums are identical, and each of the titles corresponds in meaning. (<a"
 " "
 "href=\"http://musicbrainz.org/doc/Translation_Transliteration_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een album titels heeft die vertaald of getranslitereerd zijn van een andere uitgave. Deze verwantschap geldt niet voor een cover waarbij de tekst vertaald is (deze moet worden aangegeven met een cover-verwantschap, hoewel beide verwantschappen in sommige gevallen kunnen). Deze verwantschap moet alleen gebruikt worden wanneer het aantal, de volgorde en de audio van de nummers op twee albums identiek zijn en de titels van beide hetzelfde betekenen. (<a href=\"http://musicbrainz.org/doc/Translation_Transliteration_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:9
 #, perl-format
@@ -7758,7 +7758,7 @@ msgid ""
 "href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)<br/><br/>"
 " Note that this is <strong><em>NOT</em></strong> the record label, use the "
 "\"Label\" field in release events for record labels."
-msgstr ""
+msgstr "Geeft een uitgever van dit album aan. (<a href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)<br/><br/> Let op dat dit <strong><em>NIET</em></strong> de platenmaatschappij is, gebruik daarvoor het veld \"Platenmaatschappij\" in de uitgavegebeurtenissen."
 
 #: DB:link_type/description:32
 #, perl-format
@@ -7774,7 +7774,7 @@ msgid ""
 "href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)<br/><br/>"
 " Note that this is <strong><em>NOT</em></strong> the record label, use the "
 "\"Label\" field in release events for record labels."
-msgstr ""
+msgstr "Geeft een uitgever van deze opname aan. (<a href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)<br/><br/> Let op dat dit <strong><em>NIET</em></strong> de platenmaatschappij is, gebruik daarvoor het veld \"Platenmaatschappij\" in de uitgavegebeurtenissen."
 
 #: DB:link_type/description:127
 #, perl-format
@@ -7790,7 +7790,7 @@ msgid ""
 "href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)<br/><br/>"
 " Note that this is <strong><em>NOT</em></strong> the record label, use the "
 "\"Label\" field in release events for record labels."
-msgstr ""
+msgstr "Geeft een uitgever van deze compositie aan. (<a href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)<br/><br/> Let op dat dit <strong><em>NIET</em></strong> de platenmaatschappij is, gebruik daarvoor het veld \"Platenmaatschappij\" in de uitgavegebeurtenissen."
 
 #: DB:link_type/description:161
 #, perl-format
@@ -8020,7 +8020,7 @@ msgstr ""
 #: ../root/release/edit/layout.tt:22
 #, perl-format
 msgid "Javascript needs to be enabled to edit releases."
-msgstr ""
+msgstr "Javascript moet zijn ingeschakeld om uitgaves te wijzigen."
 
 #: ../root/recording/edit.tt:35 ../root/release_group/create.tt:18
 #: ../root/release_group/edit.tt:24 ../root/work/create.tt:18
@@ -8943,7 +8943,7 @@ msgstr "Magic MP3 Tagger"
 msgid ""
 "Mail me when one of my edits gets a \"no\" vote. (Note: the email is only "
 "sent for the first \"no\" vote, not each one)"
-msgstr ""
+msgstr "E-mail mij als één van mijn wijzigingen een tegenstem krijgt. (Notitie: de e-mail wordt alleen gestuurd na de eerste tegenstem, niet voor elke.)"
 
 #: ../root/layout/menu.tt:235
 #, perl-format
@@ -9413,7 +9413,7 @@ msgstr ""
 #: ../root/report/set_in_different_rg.tt:3
 #, perl-format
 msgid "Mismatched release groups"
-msgstr ""
+msgstr "Niet overeenkomende uitgavegroepen"
 
 #: ../root/cdstub/browse.tt:12
 #, perl-format
@@ -9522,7 +9522,7 @@ msgstr ""
 #: ../root/release/move_search.tt:1 ../root/release/move_search.tt:2
 #, perl-format
 msgid "Move release to another release group"
-msgstr ""
+msgstr "Verplaats de uitgave naar een andere uitgavegroep"
 
 #: ../root/release/edit/tracklist.tt:309
 #, perl-format
@@ -9554,7 +9554,7 @@ msgstr ""
 #: ../root/main/index.tt:2
 #, perl-format
 msgid "MusicBrainz - The Open Music Encyclopedia"
-msgstr ""
+msgstr "MusicBrainz - De open muziekencyclopedie"
 
 #: ../root/main/index.tt:5
 #, perl-format
@@ -9629,7 +9629,7 @@ msgid ""
 "MusicBrainz is operated by the {uri|MetaBrainz Foundation}, a California "
 "based 501(c)(3) tax-exempt non-profit corporation dedicated to keeping "
 "MusicBrainz {free|free and open source}."
-msgstr ""
+msgstr "MusicBrainz wordt beheerd door de {uri|MetaBrainz Stichting}, een in Californië gebaseerde en van de belasting vrijgestelde (501(c)(3)) corporatie zonder winstoogmerk die MusicBrainz {free|gratis en open bron} probeert te houden."
 
 #: ../root/artist/add_alias.tt:4 ../root/artist/edit_alias.tt:4
 #, perl-format
@@ -9661,7 +9661,7 @@ msgstr "MusicBrainz: Platenmaatschappij"
 #: ../root/layout.tt:26
 #, perl-format
 msgid "MusicBrainz: Release"
-msgstr ""
+msgstr "MusicBrainz uitgave"
 
 #: ../root/layout.tt:27
 #, perl-format
@@ -9686,12 +9686,12 @@ msgstr "Mijn collecties"
 #: ../root/layout/menu.tt:24
 #, perl-format
 msgid "My Data"
-msgstr ""
+msgstr "Mijn gegevens"
 
 #: ../root/layout/menu.tt:36
 #, perl-format
 msgid "My Open Edits"
-msgstr ""
+msgstr "Mijn openstaande wijzigingen"
 
 #: ../root/layout/menu.tt:30
 #, perl-format
@@ -9706,28 +9706,28 @@ msgstr "Mijn etiketten"
 #: ../root/edit/search_macros.tt:279
 #, perl-format
 msgid "My Vote"
-msgstr ""
+msgstr "Mijn stem"
 
 #: ../root/edit/index.tt:40
 #, perl-format
 msgid "My vote:"
-msgstr ""
+msgstr "Mijn stem:"
 
 #: ../root/edit/edit_header.tt:31 ../root/edit/edit_header.tt:36
 #: ../root/edit/edit_header.tt:41
 #, perl-format
 msgid "My vote: "
-msgstr ""
+msgstr "Mijn stem:"
 
 #: DB:link_type/link_phrase:189 DB:link_type/link_phrase:215
 #, perl-format
 msgid "MySpace"
-msgstr ""
+msgstr "MySpace"
 
 #: DB:link_type/reverse_link_phrase:189 DB:link_type/reverse_link_phrase:215
 #, perl-format
 msgid "MySpace page for"
-msgstr ""
+msgstr "MySpacepagina voor"
 
 #: DB:country/name:146 DB:script/name:64
 msgid "Myanmar"
@@ -9895,7 +9895,7 @@ msgstr ""
 #: ../root/edit/details/historic/merge_releases.tt:14
 #, perl-format
 msgid "New Release:"
-msgstr ""
+msgstr "Nieuwe uitgave:"
 
 #: ../root/edit/details/edit_release_attributes.tt:27
 #, perl-format
@@ -10113,37 +10113,37 @@ msgstr ""
 #: ../root/artist/index.tt:112
 #, perl-format
 msgid "No release groups found"
-msgstr ""
+msgstr "Geen uitgavegroepen gevonden."
 
 #: ../root/tag/release_group.tt:1
 #, perl-format
 msgid "No release groups with this tag were found."
-msgstr ""
+msgstr "Geen uitgavegroepen met dit etiket gevonden."
 
 #: ../root/artist/releases.tt:21
 #, perl-format
 msgid "No releases found"
-msgstr ""
+msgstr "Geen uitgaves gevonden."
 
 #: ../root/collection/index.tt:52
 #, perl-format
 msgid "No releases found in collection."
-msgstr ""
+msgstr "Geen uitgaves gevonden in deze collectie."
 
 #: ../root/recording/index.tt:43
 #, perl-format
 msgid "No releases found which feature this recording."
-msgstr ""
+msgstr "Geen uitgaves gevonden met deze opname."
 
 #: ../root/release_group/index.tt:78
 #, perl-format
 msgid "No releases found."
-msgstr ""
+msgstr "Geen uitgaves gevonden."
 
 #: ../root/tag/release.tt:1
 #, perl-format
 msgid "No releases with this tag were found."
-msgstr ""
+msgstr "Geen uitgaves met dit etiket gevonden."
 
 #: ../root/release/edit/tracklist.tt:114 ../root/scripts/text_strings.tt:37
 #, perl-format
@@ -10323,7 +10323,7 @@ msgstr ""
 #: ../root/account/preferences.tt:43
 #, perl-format
 msgid "Notify me by email on new releases to my watched artists"
-msgstr ""
+msgstr "Stuur mij een e-mail bij nieuwe uitgaves van artiesten die ik volg"
 
 #: ../root/release/edit/recordings.tt:378
 #, perl-format
@@ -10464,7 +10464,7 @@ msgstr ""
 #: ../root/edit/details/historic/merge_releases.tt:3
 #, perl-format
 msgid "Old releases:"
-msgstr ""
+msgstr "Oude uitgaves:"
 
 #: ../root/edit/details/change_wikidoc.tt:11
 #: ../root/edit/details/change_wikidoc.tt:16
@@ -10486,7 +10486,7 @@ msgstr ""
 msgid ""
 "Only releases with the same amount of tracks ({n}) as the release the disc "
 "ID is currently attached to are shown."
-msgstr ""
+msgstr "Alleen uitgaves met hetzelfde aantal nummers ({n}) als de uitgave waar de Disc ID aan is gekoppeld worden getoond."
 
 #: ../root/edit/cannot_cancel.tt:6
 #, perl-format
@@ -10516,7 +10516,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:50 ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "Open Edits"
-msgstr ""
+msgstr "Openstaande wijzigingen"
 
 #: ../root/artist/layout.tt:105 ../root/edit/list_header.tt:11
 #: ../root/label/layout.tt:79 ../root/recording/layout.tt:57
@@ -10524,7 +10524,7 @@ msgstr ""
 #: ../root/url/layout.tt:14 ../root/work/layout.tt:50
 #, perl-format
 msgid "Open edits"
-msgstr ""
+msgstr "Openstaande wijzigingen"
 
 #: ../root/components/common-macros.tt:375
 #: ../root/components/common-macros.tt:380
@@ -10535,12 +10535,12 @@ msgstr "Open in de tagger"
 #: ../root/statistics/index.tt:440
 #, perl-format
 msgid "Open:"
-msgstr ""
+msgstr "Openstaand:"
 
 #: ../root/edit/info.tt:34
 #, perl-format
 msgid "Opened:"
-msgstr ""
+msgstr "Geopend:"
 
 #: DB:work_type/name:10
 msgid "Opera"
@@ -10648,7 +10648,7 @@ msgstr ""
 #: ../root/artist/index.tt:62
 #, perl-format
 msgid "Other release groups"
-msgstr ""
+msgstr "Andere uitgavegroepen"
 
 #: DB:link_attribute_type/description:88
 #, perl-format
@@ -11008,7 +11008,7 @@ msgstr ""
 msgid ""
 "Please consider adding this release/CD to MusicBrainz. To add this CD, "
 "please choose one of the following two methods:"
-msgstr ""
+msgstr "Overweeg alstublieft om deze uitgave/cd toe te voegen aan MusicBrainz. Gebruik om deze cd toe te voegen één van de volgende twee methodes:"
 
 #: ../root/scripts/text_strings.tt:67
 #, perl-format
@@ -11027,7 +11027,7 @@ msgstr "Voer etiketten alstublieft in het veld hieronder in. Etiketten worden ge
 msgid ""
 "Please enter the barcode of the release you are entering, see <a "
 "href=\"{url}\">Barcode</a> for more information."
-msgstr ""
+msgstr "Voert u alstublieft de streepjescode van de uitgave die u aan het toevoegen bent in. Zie <a href=\"{url}\">Streepjescode</a> voor meer informatie."
 
 #: ../root/release/merge_search.tt:6
 #, perl-format
@@ -11250,7 +11250,7 @@ msgstr ""
 #: ../root/release/edit-links.tt:15
 #, perl-format
 msgid "Please {uri|log in} to edit this release"
-msgstr ""
+msgstr "{uri|Meld u nu aan} om deze uitgave te wijzigen"
 
 #: DB:work_type/name:21
 msgid "Poem"
@@ -11484,7 +11484,7 @@ msgstr ""
 
 #: DB:release_status/name:4
 msgid "Pseudo-Release"
-msgstr ""
+msgstr "Pseudo-uitgave"
 
 #: ../root/user/collections.tt:21
 #, perl-format
@@ -11697,12 +11697,12 @@ msgstr ""
 #: ../root/statistics/index.tt:656
 #, perl-format
 msgid "Recording-Release Group:"
-msgstr ""
+msgstr "Opname-Uitgavegroep:"
 
 #: ../root/statistics/index.tt:650
 #, perl-format
 msgid "Recording-Release:"
-msgstr ""
+msgstr "Opname-Uitgave:"
 
 #: ../root/statistics/index.tt:662
 #, perl-format
@@ -11758,8 +11758,8 @@ msgstr[1] ""
 #, perl-format
 msgid "Recordings with 1 Release"
 msgid_plural "Recordings with {n} Releases"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Opnames met één uitgave"
+msgstr[1] "Opnames met {n} uitgaves"
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:1
 #: ../root/report/recordings_with_earliest_release_relationships.tt:3
@@ -12024,7 +12024,7 @@ msgstr "Uitgave"
 #: ../root/recording/index.tt:13
 #, perl-format
 msgid "Release Artist"
-msgstr ""
+msgstr "Artiest van de uitgave"
 
 #: ../root/statistics/view_js.tt:29
 #, perl-format
@@ -12039,12 +12039,12 @@ msgstr ""
 #: ../root/recording/index.tt:14
 #, perl-format
 msgid "Release Date"
-msgstr ""
+msgstr "Datum van uitgave"
 
 #: ../root/edit/details/historic/add_release.tt:70
 #, perl-format
 msgid "Release Events:"
-msgstr ""
+msgstr "Uitgavegebeurtenissen:"
 
 #: ../root/components/common-macros.tt:456 ../root/edit/search_macros.tt:279
 #: ../root/report/release_group_list.tt:6
@@ -12063,7 +12063,7 @@ msgstr ""
 #: ../root/release_group/not_found.tt:1 ../root/release_group/not_found.tt:2
 #, perl-format
 msgid "Release Group Not Found"
-msgstr ""
+msgstr "Uitgavegroep niet gevonden"
 
 #: ../root/statistics/view_js.tt:159
 #, perl-format
@@ -12083,17 +12083,17 @@ msgstr ""
 #: ../root/statistics/index.tt:698
 #, perl-format
 msgid "Release Group-Release Group:"
-msgstr ""
+msgstr "Uitgavegroep:Uitgavegroep"
 
 #: ../root/statistics/index.tt:704
 #, perl-format
 msgid "Release Group-URL:"
-msgstr ""
+msgstr "Uitgavegroep-URL:"
 
 #: ../root/statistics/index.tt:710
 #, perl-format
 msgid "Release Group-Work:"
-msgstr ""
+msgstr "Uitgavegroep-Compositie"
 
 #: ../root/edit/details/add_release_group.tt:3
 #: ../root/edit/details/edit_release_group.tt:5
@@ -12101,25 +12101,25 @@ msgstr ""
 #: ../root/release/edit/information.tt:28
 #, perl-format
 msgid "Release Group:"
-msgstr ""
+msgstr "Uitgavegroep:"
 
 #: ../root/statistics/view_js.tt:46 ../root/tag/header.tt:1
 #: ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Release Groups"
-msgstr ""
+msgstr "Uitgavegroepen"
 
 #: ../root/statistics/view_js.tt:145
 #, perl-format
 msgid "Release Groups with 1 Release"
 msgid_plural "Release Groups with {n} Releases"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Uitgavegroepen met 1 uitgave"
+msgstr[1] "Uitgavegroepen met {n} uitgaves"
 
 #: ../root/edit/search_macros.tt:279
 #, perl-format
 msgid "Release Language"
-msgstr ""
+msgstr "Taal van de uitgave"
 
 #: ../root/statistics/view_js.tt:31
 #, perl-format
@@ -12129,7 +12129,7 @@ msgstr ""
 #: ../root/release/not_found.tt:1 ../root/release/not_found.tt:2
 #, perl-format
 msgid "Release Not Found"
-msgstr ""
+msgstr "Uitgave niet gevonden"
 
 #: ../root/statistics/view_js.tt:30
 #, perl-format
@@ -12402,8 +12402,8 @@ msgstr ""
 #, perl-format
 msgid "Releases with 1 Disc ID"
 msgid_plural "Releases with {n} Disc IDs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Uitgaves met één Disc ID"
+msgstr[1] "Uitgaves met {n} Disc ID's"
 
 #: ../root/report/index.tt:37 ../root/report/releases_with_cc_links.tt:1
 #: ../root/report/releases_with_cc_links.tt:3
@@ -12414,7 +12414,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:134
 #, perl-format
 msgid "Releases with Disc IDs"
-msgstr ""
+msgstr "Uitgaves met Disc ID's"
 
 #: ../root/statistics/view_js.tt:95
 #, perl-format
@@ -12792,7 +12792,7 @@ msgstr ""
 #: ../root/user/contact.tt:16
 #, perl-format
 msgid "Reveal my email address"
-msgstr ""
+msgstr "Toon mijn e-mailadres"
 
 #: ../root/edit/details/edit_relationship_type.tt:16
 #: ../root/relationship/linktype/form.tt:14
@@ -13240,7 +13240,7 @@ msgstr "E-mail sturen"
 #: ../root/user/contact.tt:17
 #, perl-format
 msgid "Send a copy to my own email address"
-msgstr ""
+msgstr "Stuur een kopie naar mijn e-mailadres"
 
 #: ../root/account/preferences.tt:44
 #, perl-format
@@ -20060,7 +20060,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:189 DB:link_type/short_link_phrase:215
 #, perl-format
 msgid "has a MySpace page at"
-msgstr ""
+msgstr "heeft een MySpace pagina op"
 
 #: DB:link_type/short_link_phrase:174
 #, perl-format
@@ -24762,4 +24762,4 @@ msgstr "Voeg ontbrekende objecten toe"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:120
 msgid "Release Duplicates"
-msgstr ""
+msgstr "Duplicaten van de uitgave"
