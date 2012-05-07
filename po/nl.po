@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-07 11:59+0000\n"
+"PO-Revision-Date: 2012-05-07 12:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1572,7 +1572,7 @@ msgstr ""
 msgid ""
 "Are you sure you wish to remove the release group {rg} by {artist} from "
 "MusicBrainz?"
-msgstr ""
+msgstr "Weet u zeker dat u de uitgavegroep {rg} van {artist} wilt verwijderen van MusicBrainz?"
 
 #: ../root/release/delete.tt:7
 #, perl-format
@@ -2279,7 +2279,7 @@ msgstr ""
 msgid ""
 "Based on the above CD stub, we also found the following releases in "
 "MusicBrainz that may be related:"
-msgstr ""
+msgstr "Op basis van bovenstaande cd-beginsel hebben we de volgende gerelateerde uitgaves gevonden in MusicBrainz:"
 
 #: ../root/release/edit/duplicates.tt:13
 #, perl-format
@@ -2287,7 +2287,7 @@ msgid ""
 "Based on the information you have provided, we have found the following "
 "similar release to already exist in MusicBrainz. If you wish to base your "
 "release on an existing release, select it below."
-msgstr ""
+msgstr "Op basis van de door u verstrekte informatie hebben we een soortgelijke uitgave gevonden in MusicBrainz. Als u uw uitgave wilt baseren op een bestaande uitgave, selecteer deze dan hieronder."
 
 #: DB:language/name:37
 msgid "Bashkir"
@@ -2367,7 +2367,7 @@ msgid ""
 "review entered data to create the most accurate music database on the "
 "internet. If this appeals to you, please {reg|create an account} or "
 "{login_url|login}."
-msgstr ""
+msgstr "Neem deel aan MusicBrainz door een gebruikersaccount aan te maken en {how|te lezen over ons proces} voor het toevoegen van informatie aan MusicBrainz. Kom te weten hoe we gegevens die worden toegevoegd collegiaal getoetst worden om de meest nauwkeurige gegevensbank voor muziek op het internet te creëren. Als dit u aanspreekt, {reg|creëer dan een gebruikersaccount} of {login_url|meld u aan}."
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/scripts/text_strings.tt:71
@@ -3476,7 +3476,7 @@ msgstr "Gefeliciteerd, uw nieuwe gebruikersaccount is gecreëerd en u bent nu aa
 #: ../root/layout/menu.tt:232
 #, perl-format
 msgid "Contact Us"
-msgstr "Neem contact op"
+msgstr "Contact opnemen"
 
 #: DB:link_attribute_type/description:471
 #, perl-format
@@ -3538,7 +3538,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:74
 #, perl-format
 msgid "Count of active editors (editing or voting) during the last week"
-msgstr ""
+msgstr "Aantal actieve redacteuren (wijzigen of stemmen) gedurende de afgelopen week"
 
 #: ../root/statistics/view_js.tt:69
 #, perl-format
@@ -4082,7 +4082,7 @@ msgid ""
 "credit third party reviews / articles about the release that are not bundled"
 " with the media. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Schrijf de tekst in het boekje van deze uitgave toe aan een artiest. Hoewel een boekje meestal alleen informatie over personeel en gegevens over de productie bevat, bestaat de tekst soms uit een artikel. In dit laatste geval moet deze verwijzing worden gebruikt. Deze verwijzing moet niet worden gebruikt voor recensies of artikelen over deze uitgave die niet met het medium zijn gebundeld. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:language/name:93
 msgid "Cree"
@@ -5405,7 +5405,7 @@ msgstr ""
 msgid ""
 "Enter your email address below and we will send you an email with your "
 "MusicBrainz account information."
-msgstr ""
+msgstr "Vul hieronder uw e-mailadres in en we zullen u een e-mail sturen met informatie over uw gebruikersaccount bij MusicBrainz."
 
 #: ../root/forms/edit-note.tt:5
 #, perl-format
@@ -6115,7 +6115,7 @@ msgid ""
 "MusicBrainz uses a lot of modern technology that Internet Explorer does not "
 "yet support, so we highly recommend the use of this plugin to ensure you get"
 " the most out of the website."
-msgstr ""
+msgstr "Google Chrome Frame is een invoegtoepassing die naadloos de technologie voor het open web en de snelle JavaScript-engine van Google Chrome naar Internet Explorer brengt. MusicBrainz gebruikt veel technologie die Internet Explorer nog niet ondersteunt, dus we bevelen het gebruik van deze invoegtoepassing aan om het meeste uit de website te halen."
 
 #: DB:language/name:155
 msgid "Gorontalo"
@@ -6925,14 +6925,14 @@ msgstr ""
 msgid ""
 "Indicates a chorus master directed a choir or chorus on this work. (<a "
 "href=\"http://musicbrainz.org/doc/Chorus_Master_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een koordirigent aan die voor deze compositie een koor dirigeerde. (<a href=\"http://musicbrainz.org/doc/Chorus_Master_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:53
 #, perl-format
 msgid ""
 "Indicates a chorusmaster directed a choir or chorus on this work. (<a "
 "href=\"http://musicbrainz.org/doc/Chorus_Master_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een koordirigent aan die voor deze compositie een koor dirigeerde. (<a href=\"http://musicbrainz.org/doc/Chorus_Master_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:102
 #, perl-format
@@ -6942,7 +6942,7 @@ msgid ""
 "together, but did not form a lasting group. For groups you should use the "
 "membership type. (<a "
 "href=\"http://musicbrainz.org/doc/Collaboration_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een samenwerking aan tussen twee of meerdere artiesten. Gebruik dit voor projecten, enkele albums of zelfs nummers waar de artiesten samenwerkten, zonder een lang bestaande groep te vormen. Voor groepen moet u het lidmaatschap-type gebruiken. (<a href=\"http://musicbrainz.org/doc/Collaboration_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:15
 #, perl-format
@@ -6951,21 +6951,21 @@ msgid ""
 "performed the same songs. Please take care to always point to the "
 "<strong>first</strong> version ever released! (<a "
 "href=\"http://musicbrainz.org/doc/Cover_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een cover van een album aan. Dit betekent dat een andere artiest dezelfde nummers eerder uitvoerde. Zorg er altijd voor dat u naar de <strong>eerste</strong> versie die ooit is uitgebracht verwijst! (<a href=\"http://musicbrainz.org/doc/Cover_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:172
 #, perl-format
 msgid ""
 "Indicates a homepage by a fan for an artist. (<a "
 "href=\"http://musicbrainz.org/doc/Fanpage_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een internetpagina van een fan van een artiest aan. (<a href=\"http://musicbrainz.org/doc/Fanpage_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:111
 #, perl-format
 msgid ""
 "Indicates a marriage between two persons. (<a "
 "href=\"http://musicbrainz.org/doc/Married_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een huwelijk tussen twee artiesten aan. (<a href=\"http://musicbrainz.org/doc/Married_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:103
 #, perl-format
@@ -6975,7 +6975,7 @@ msgid ""
 " time projects or cooperations of two artists on a few tracks or one album. "
 "Use the cooperation type for such cases. (<a "
 "href=\"http://musicbrainz.org/doc/Member_Of_Band_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft het lidmaatschap van een band of orkest aan. Gebruik dit voor groepen die gedurende een behoorlijke tijd bestaan en mogelijk een naam hebben. Gebruik dit niet voor korte projecten of samenwerkingen tussen twee artiesten op een aantal nummers of één album. Gebruik in deze gevallen het samenwerkings-type. (<a href=\"http://musicbrainz.org/doc/Member_Of_Band_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:25 DB:link_type/description:129
 #: DB:link_type/description:261 DB:link_type/description:162
@@ -6985,7 +6985,7 @@ msgid ""
 "Indicates a miscellaneous support role. This is usually stated in the liner "
 "notes of an album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft diverse ondersteuningsrollen aan. Dit is meestal aangegeven in het boekje bij een album. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:105
 #, perl-format
@@ -6994,7 +6994,7 @@ msgid ""
 " albums and/or at concerts. This is a person-person relationship and "
 "normally applies to well-known solo artists. (<a "
 "href=\"http://musicbrainz.org/doc/Supporting_Musician_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een muzikant aan die voor langere tijd instrumentale ondersteuning biedt of bood voor een andere artiest op albums en/of concerten. Dit is een verwijzing tussen personen en komt meestal voor bij bekende solo-artiesten. (<a href=\"http://musicbrainz.org/doc/Supporting_Musician_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:107
 #, perl-format
@@ -7003,35 +7003,35 @@ msgid ""
 " and/or at concerts. This is a person-person relationship and normally "
 "applies to well-known solo artists. (<a "
 "href=\"http://musicbrainz.org/doc/Supporting_Musician_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een muzikant aan die voor langere tijd vocale ondersteuning biedt of bood voor een andere artiest op albums en/of concerten. Dit is een verwijzing tussen personen en komt meestal voor bij bekende solo-artiesten. (<a href=\"http://musicbrainz.org/doc/Supporting_Musician_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:109
 #, perl-format
 msgid ""
 "Indicates a parent-child relationship (<a "
 "href=\"http://musicbrainz.org/doc/Parent_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een ouder-kind verwantschap aan. (<a href=\"http://musicbrainz.org/doc/Parent_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:20
 #, perl-format
 msgid ""
 "Indicates a person or agency that did photography for this album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een persoon of agentschap aan die fotografie leverde voor dit album. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:250
 #, perl-format
 msgid ""
 "Indicates a person or agency that did photography for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een persoon of agentschap aan die fotografie leverde voor deze compositie. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:18
 #, perl-format
 msgid ""
 "Indicates a person or agency that did the art direction for this album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een persoon of agentschap aan die fotografie leverde voor dit album. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:265
 #, perl-format
@@ -7054,7 +7054,7 @@ msgid ""
 "Indicates a person or agency that did the design/illustration for this "
 "album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een persoon of agentschap aan die het ontwerp of illustraties leverde voor dit album. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:248
 #, perl-format
@@ -7062,7 +7062,7 @@ msgid ""
 "Indicates a person or agency that did the design/illustration for this work."
 " (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een persoon of agentschap aan die het ontwerp of illustraties leverde voor deze compositie. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:27
 #, perl-format
@@ -7070,7 +7070,7 @@ msgid ""
 "Indicates a person or agency that did the graphic design for this album. (<a"
 " "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een persoon of agentschap aan die het grafisch ontwerp leverde voor dit album. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:249
 #, perl-format
@@ -7078,7 +7078,7 @@ msgid ""
 "Indicates a person or agency that did the graphics design support for this "
 "work. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een persoon of agentschap aan die het grafisch ontwerp leverde voor deze compositie. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:62
 #, perl-format
@@ -7086,7 +7086,7 @@ msgid ""
 "Indicates a person or agency that provided artist & repertoire support for "
 "this album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een persoon of agentschap aan die A&R verzorgde voor dit album. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:23
 #, perl-format
@@ -7094,7 +7094,7 @@ msgid ""
 "Indicates a person or agency that provided booking support for this album. "
 "(<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een persoon of agentschap aan die boekingen verzorgde voor dit album. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:22
 #, perl-format
@@ -7102,28 +7102,28 @@ msgid ""
 "Indicates a person or firm that provided legal representation for this "
 "album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een persoon of agentschap aan die juridische vertegenwoordiging verzorgde voor dit album. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:173
 #, perl-format
 msgid ""
 "Indicates a pictorial image (JPEG, GIF, PNG) of an artist. (<a "
 "href=\"http://musicbrainz.org/doc/Image_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een afbeelding (JPEG, GIF, PNG) van een artiest aan. (<a href=\"http://musicbrainz.org/doc/Image_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:110
 #, perl-format
 msgid ""
 "Indicates a sibling relationship (i.e. brother or sister). (<a "
 "href=\"http://musicbrainz.org/doc/Sibling_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een broer- of zusrelatie aan. (<a href=\"http://musicbrainz.org/doc/Sibling_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:94
 #, perl-format
 msgid ""
 "Indicates a webpage that reviews the work of an artist. (<a "
 "href=\"http://musicbrainz.org/doc/Review_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een internetpagina aan met een recensie van een compositie van een artiest. (<a href=\"http://musicbrainz.org/doc/Review_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:255
 #, perl-format
@@ -7131,14 +7131,14 @@ msgid ""
 "Indicates a webpage where you can download a single track (not just a short "
 "sample) for free. (<a "
 "href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een internetpagina aan waar een los nummer (niet een kort stukje) gratis gedownload kan worden. (<a href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:75
 #, perl-format
 msgid ""
 "Indicates a webpage where you can download an album for free. (<a "
 "href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een internetpagina aan waar een album gratis gedownload kan worden. (<a href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:177
 #, perl-format
@@ -7152,21 +7152,21 @@ msgstr ""
 msgid ""
 "Indicates a webpage where you can purchase a single track for download. (<a "
 "href=\"http://musicbrainz.org/doc/Paid_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een internetpagina aan waar een los nummer gekocht kan worden om te downloaden. (<a href=\"http://musicbrainz.org/doc/Paid_Download_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:74
 #, perl-format
 msgid ""
 "Indicates a webpage where you can purchase an album for download. (<a "
 "href=\"http://musicbrainz.org/doc/Paid_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een internetpagina aan waar een album gekocht kan worden om te downloaden. (<a href=\"http://musicbrainz.org/doc/Paid_Download_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:79
 #, perl-format
 msgid ""
 "Indicates a webpage where you can purchase an album for mail-order. (<a "
 "href=\"http://musicbrainz.org/doc/Mail_Order_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een internetpagina aan waar een album voor thuisbezorging kan worden gekocht. (href=\"http://musicbrainz.org/doc/Mail_Order_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:176
 #, perl-format
@@ -7189,14 +7189,14 @@ msgstr ""
 msgid ""
 "Indicates a webpage with a biography of an artist. (<a "
 "href=\"http://musicbrainz.org/doc/Biography_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een internetpagina aan met een biografie van een artiest. (<a href=\"http://musicbrainz.org/doc/Biography_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:184
 #, perl-format
 msgid ""
 "Indicates a webpage with a discography of an artist. (<a "
 "href=\"http://musicbrainz.org/doc/Discography_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een internetpagina aan met een discografie van een artiest. (<a href=\"http://musicbrainz.org/doc/Discography_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:65
 #, perl-format
@@ -7527,7 +7527,7 @@ msgid ""
 "performance name. Do not create links between different performance names of"
 " the same person. (<a "
 "href=\"http://musicbrainz.org/doc/Performance_Name_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat twee artiesten dezelfde persoon zijn. Let op om alleen verbindingen te maken tussen de officiële naam en de artiestennaam en niet tussen artiestennamen onderling. (<a href=\"http://musicbrainz.org/doc/Performance_Name_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:112
 #, perl-format
@@ -12740,7 +12740,7 @@ msgstr ""
 #: ../root/layout/menu.tt:244
 #, perl-format
 msgid "Report a Bug"
-msgstr "Een bug rapporteren"
+msgstr "Rapporteer een bug"
 
 #: ../root/layout/menu.tt:248
 #, perl-format
@@ -23772,7 +23772,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
 msgid "'{id}' is not a valid MusicBrainz ID"
-msgstr "'{id}' is geen geldig Musicbrainz ID"
+msgstr "'{id}' is geen geldig MusicBrainz ID"
 
 #: ../lib/MusicBrainz/Server/Controller.pm:115
 msgid ""
@@ -23817,7 +23817,7 @@ msgstr "De gebruiker met het ID '{user_id}' kon niet worden gevonden."
 msgid ""
 "We were unable to send login information to your email address.  Please try again,\n"
 "             however if you continue to experience difficulty contact us at support@musicbrainz.org."
-msgstr ""
+msgstr "Het is ons niet gelukt aanmeldinformatie naar uw e-mailadres te sturen. Probeert u het a.u.b. opnieuw,\nals u echter problemen blijft ondervinden neemt u dan contact op met ons via support@musicbrainz.org."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:157
 msgid "There is no user with this username"
