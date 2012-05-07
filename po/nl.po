@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-07 12:59+0000\n"
+"PO-Revision-Date: 2012-05-07 13:58+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -132,7 +132,7 @@ msgstr ""
 #: ../root/edit/details/add_release.tt:22
 #, perl-format
 msgid "(new release group)"
-msgstr ""
+msgstr "(nieuwe uitgavegroepen)"
 
 #: ../root/annotation/common.tt:9
 #: ../root/edit/details/add_artist_annotation.tt:10
@@ -192,12 +192,12 @@ msgstr ""
 #: ../root/release/merge.tt:63
 #, perl-format
 msgid "(was medium {position} on release {release})"
-msgstr ""
+msgstr "(was medium {position} op uitgave {release})"
 
 #: ../root/release/merge.tt:58
 #, perl-format
 msgid "(was medium {position}: {name} on release {release})"
-msgstr ""
+msgstr "(was medium {position}: {name} op uitgave {release})"
 
 #: ../root/recording/layout.tt:19
 #, perl-format
@@ -677,7 +677,7 @@ msgstr "Voeg alias voor platenmaatschappij toe"
 #: ../root/release_group/create.tt:16
 #, perl-format
 msgid "Add New Release Group"
-msgstr ""
+msgstr "Voeg nieuwe uitgavegroep toe"
 
 #: ../root/edit/info.tt:13
 #, perl-format
@@ -697,12 +697,12 @@ msgstr ""
 #: ../root/layout/menu.tt:185 ../root/release/edit/layout.tt:4
 #, perl-format
 msgid "Add Release"
-msgstr ""
+msgstr "Voeg uitgave toe"
 
 #: ../root/layout/menu.tt:182
 #, perl-format
 msgid "Add Release Group"
-msgstr ""
+msgstr "Voeg uitgavegroep toe"
 
 #: ../root/layout/menu.tt:191 ../root/recording/create.tt:16
 #: ../root/recording/create.tt:18
@@ -719,7 +719,7 @@ msgstr ""
 #: ../root/layout/menu.tt:188
 #, perl-format
 msgid "Add Various Artists Release"
-msgstr ""
+msgstr "Voeg een uitgave toe voor verschillende artiesten"
 
 #: ../root/layout/menu.tt:194 ../root/work/create.tt:15
 #: ../root/work/create.tt:16
@@ -745,12 +745,12 @@ msgstr "Voeg een nieuwe collectie toe"
 #: ../root/label/create.tt:15 ../root/label/create.tt:17
 #, perl-format
 msgid "Add a New Label"
-msgstr ""
+msgstr "Voeg een nieuwe platenmaatschappij toe"
 
 #: ../root/release_group/create.tt:23
 #, perl-format
 msgid "Add a New Release Group"
-msgstr ""
+msgstr "Voeg een nieuwe uitgavegroep toe"
 
 #: ../root/components/aliases.tt:48
 #, perl-format
@@ -774,7 +774,7 @@ msgstr "Voeg een nieuwe opname toe"
 #: ../root/cdtoc/attach_filter_release.tt:68
 #, perl-format
 msgid "Add a new release"
-msgstr ""
+msgstr "Voeg een nieuwe uitgave toe"
 
 #: ../root/edit/notes.tt:39
 #, perl-format
@@ -881,7 +881,7 @@ msgstr "Voeg geselecteerde opnames toe voor samenvoeging"
 #: ../root/release_group/index.tt:75
 #, perl-format
 msgid "Add selected releases for merging"
-msgstr ""
+msgstr "Voeg de geselecteerde uitgaves toe om samen te voegen"
 
 #: ../root/artist/works.tt:8
 #, perl-format
@@ -1559,7 +1559,7 @@ msgstr "Weet u zeker dat u de platenmaatschappij {label} wilt verwijderen van Mu
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the recording {recording} from MusicBrainz?"
-msgstr "Weet u zeker dat u de opname {recording} van Musicbrainz wilt verwijderen?"
+msgstr "Weet u zeker dat u de opname {recording} van MusicBrainz wilt verwijderen?"
 
 #: ../root/edit/relationship/delete.tt:6
 #, perl-format
@@ -2008,7 +2008,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:15
 #, perl-format
 msgid "Attributes"
-msgstr ""
+msgstr "Eigenschappen"
 
 #: ../root/edit/details/edit_relationship_type.tt:26
 #: ../root/edit/relationship/create_batch.tt:94
@@ -2016,7 +2016,7 @@ msgstr ""
 #: ../root/relationship/linktype/form.tt:30
 #, perl-format
 msgid "Attributes:"
-msgstr ""
+msgstr "Eigenschappen:"
 
 #: DB:release_group_type/name:8
 msgid "Audiobook"
@@ -3698,7 +3698,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:144
 #, perl-format
 msgid "Count of all Recordings with {n} Releases"
-msgstr ""
+msgstr "Aantal opnames met {n} uitgaves"
 
 #: ../root/statistics/view_js.tt:177
 #, perl-format
@@ -3843,12 +3843,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:46
 #, perl-format
 msgid "Count of all release groups"
-msgstr ""
+msgstr "Totale aantal uitgavegroepen"
 
 #: ../root/statistics/view_js.tt:45
 #, perl-format
 msgid "Count of all releases"
-msgstr ""
+msgstr "Totale aantal uitgaves"
 
 #: ../root/statistics/view_js.tt:63
 #, perl-format
@@ -7204,7 +7204,7 @@ msgid ""
 "Indicates an album that is a tribute to an artist - normally consisting of "
 "music being composed by the artist but performed by other artists. (<a "
 "href=\"http://musicbrainz.org/doc/Tribute_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een album aan dat een eerbetoon is aan een artiest - normaalgesproken met muziek die is gecomponeerd door een artiest maar wordt uitgevoerd door andere artiesten. (<a href=\"http://musicbrainz.org/doc/Tribute_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:263
 #, perl-format
@@ -7220,14 +7220,14 @@ msgid ""
 "another one on albums and/or at concerts. This is a artist-artist "
 "relationship and normally applies to well-known solo artists. (<a "
 "href=\"http://musicbrainz.org/doc/Supporting_Musician_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een muzikant aan die voor langere tijd instrumentale of vocale ondersteuning biedt of bood voor een andere artiest op albums en/of concerten. Dit is een verwijzing tussen personen en komt meestal voor bij bekende solo-artiesten. (<a href=\"http://musicbrainz.org/doc/Supporting_Musician_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:60 DB:link_type/description:149
 #, perl-format
 msgid ""
 "Indicates an artist performed in a particular voice on this work. (<a "
 "href=\"http://musicbrainz.org/doc/Performer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een artiest aan die een bepaalde stem uitvoerde op dit werk. (<a href=\"http://musicbrainz.org/doc/Performer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:44 DB:link_type/description:148
 #, perl-format
@@ -7235,21 +7235,21 @@ msgid ""
 "Indicates an artist that performed a particular instrument on this work. (<a"
 " "
 "href=\"http://musicbrainz.org/doc/Performer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een artiest aan die een bepaald instrument uitvoerde op dit werk. (<a href=\"http://musicbrainz.org/doc/Performer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:51 DB:link_type/description:156
 #, perl-format
 msgid ""
 "Indicates an artist that performed on this work. (<a "
 "href=\"http://musicbrainz.org/doc/Performer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een artiest aan die optreedt op dit werk. (<a href=\"http://musicbrainz.org/doc/Performer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:45 DB:link_type/description:150
 #, perl-format
 msgid ""
 "Indicates an orchestra that performed on this work. (<a "
 "href=\"http://musicbrainz.org/doc/Orchestra_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een orkest aan dat optreedt op dit werk. (<a href=\"http://musicbrainz.org/doc/Orchestra_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:241
 #, perl-format
@@ -7273,7 +7273,7 @@ msgstr ""
 msgid ""
 "Indicates that a person or agency did photography for this track. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een persoon of agentschap fotografie leverde voor dit nummer. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:137
 #, perl-format
@@ -7296,7 +7296,7 @@ msgid ""
 "Indicates that a person or agency did the design/illustration for this "
 "track. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een persoon of agentschap ontwerp of illustraties leverde voor dit nummer. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:125
 #, perl-format
@@ -7304,7 +7304,7 @@ msgid ""
 "Indicates that a person or agency did the graphic design for this track. (<a"
 " "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een persoon of agentschap grafisch ontwerp leverde voor dit nummer. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:135
 #, perl-format
@@ -7312,7 +7312,7 @@ msgid ""
 "Indicates that a person or agency provided artist & repertoire support for "
 "this track (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een persoon of agentschap A&R verzorgde voor dit nummer. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:134
 #, perl-format
@@ -7320,7 +7320,7 @@ msgid ""
 "Indicates that a person or agency provided booking support for this track "
 "(<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een persoon of agentschap boekingen verzorgde voor dit nummer. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:142
 #, perl-format
@@ -7328,7 +7328,7 @@ msgid ""
 "Indicates that a person or firm provided legal representation for this track"
 " (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een persoon of agentschap juridische vertegenwoordiging verzorgde voor dit nummer. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:244
 #, perl-format
@@ -7347,21 +7347,21 @@ msgid ""
 "group to be linked to its associated singles, EPs, and remix release groups."
 " (<a "
 "href=\"http://musicbrainz.org/doc/Single_From_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een uitgavegroep van een single of EP ten minste één nummer bevat dat afkomstig is van een uitgavegroep voor een album of soundtrack. Hiermee kan een uitgavegroep verbonden worden met bijbehorende uitgavegroepen voor singles, EP's en remixes. (<a href=\"http://musicbrainz.org/doc/Single_From_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:69
 #, perl-format
 msgid ""
 "Indicates that a track contains samples from an album. (<a "
 "href=\"http://musicbrainz.org/doc/Samples_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een nummer samples van een album bevat. (<a href=\"http://musicbrainz.org/doc/Samples_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:231
 #, perl-format
 msgid ""
 "Indicates that a track contains samples from another (or more) tracks. (<a "
 "href=\"http://musicbrainz.org/doc/Samples_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een nummer samples van één of meerdere andere nummers bevat. (<a href=\"http://musicbrainz.org/doc/Samples_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:228
 #, perl-format
@@ -7372,7 +7372,7 @@ msgid ""
 " the tracks are pitched or blended into each other, the DJ-Mix relationship "
 "type is more appropriate. (<a "
 "href=\"http://musicbrainz.org/doc/Compilation_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een nummer een compilatie is van verschillende andere nummers. Dit is van toepassing op een lang nummer dat meerdere nummers achter elkaar bevat, waarin het audiomateriaal van de originele nummers niet is veranderd. Als de nummers in elkaar zijn gemixt, is de DJ-Mix verwantschap toepasselijker. (<a href=\"http://musicbrainz.org/doc/Compilation_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:226
 #, perl-format
@@ -7410,7 +7410,7 @@ msgid ""
 " otherwise combined into a single work (usually by a third artist, the "
 "remixer). (<a href=\"http://musicbrainz.org/doc/Mash-"
 "up_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat albums met elkaar vermengd zijn op dit album. Dit betekent dat twee stukken muziek van verschillende artiesten worden samengevoegd, over elkaar heen of op een andere manier gecombineerd in een nieuwe compositie (vaak door een derde artiest, de remixer). (<a href=\"http://musicbrainz.org/doc/Mash-up_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:8
 #, perl-format
@@ -7749,7 +7749,7 @@ msgid ""
 "Indicates the producer, co-producer, executive producer or co-executive "
 "producer for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Producer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de producent, co-producent, uitvoerend producent of co-uitvoerend producent aan voor dit werk. (<a href=\"http://musicbrainz.org/doc/Producer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:66
 #, perl-format
@@ -8371,7 +8371,7 @@ msgstr ""
 #: ../root/label/not_found.tt:1 ../root/label/not_found.tt:2
 #, perl-format
 msgid "Label Not Found"
-msgstr ""
+msgstr "Platenmaatschappij niet gevonden"
 
 #: ../root/statistics/view_js.tt:157
 #, perl-format
@@ -8412,7 +8412,7 @@ msgstr ""
 #: ../root/statistics/index.tt:608
 #, perl-format
 msgid "Label-Label:"
-msgstr ""
+msgstr "Platenmaatschappij-Platenmaatschappij:"
 
 #: ../root/statistics/index.tt:614
 #, perl-format
@@ -8422,22 +8422,22 @@ msgstr "Platenmaatschappij-Opname:"
 #: ../root/statistics/index.tt:626
 #, perl-format
 msgid "Label-Release Group:"
-msgstr ""
+msgstr "Platenmaatschappij-Uitgavegroep:"
 
 #: ../root/statistics/index.tt:620
 #, perl-format
 msgid "Label-Release:"
-msgstr ""
+msgstr "Platenmaatschappij-Uitgave:"
 
 #: ../root/statistics/index.tt:632
 #, perl-format
 msgid "Label-URL:"
-msgstr ""
+msgstr "Platenmaatschappij-URL:"
 
 #: ../root/statistics/index.tt:638
 #, perl-format
 msgid "Label-Work:"
-msgstr ""
+msgstr "Platenmaatschappij-Compositie:"
 
 #: ../root/components/common-macros.tt:415
 #: ../root/edit/details/add_label_alias.tt:3
@@ -8453,14 +8453,14 @@ msgstr ""
 #: ../root/release/edit/information.tt:64
 #, perl-format
 msgid "Label:"
-msgstr ""
+msgstr "Platenmaatschappij:"
 
 #: ../root/release/edit/missing_entities.tt:83 ../root/release/sidebar.tt:47
 #: ../root/statistics/countries.tt:36 ../root/statistics/view_js.tt:47
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Labels"
-msgstr ""
+msgstr "Platenmaatschappijen"
 
 #: ../root/browse/label.tt:8
 #, perl-format
@@ -8470,12 +8470,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:77
 #, perl-format
 msgid "Labels with no country set"
-msgstr ""
+msgstr "Platenmaatschappijen zonder land"
 
 #: ../root/statistics/index.tt:35
 #, perl-format
 msgid "Labels:"
-msgstr ""
+msgstr "Platenmaatschappijen:"
 
 #: DB:language/name:234
 msgid "Ladino"
@@ -9226,7 +9226,7 @@ msgstr ""
 #: ../root/user/profile.tt:57
 #, perl-format
 msgid "Member since:"
-msgstr ""
+msgstr "Lid sinds:"
 
 #: DB:language/name:269 DB:script/name:148
 msgid "Mende"
@@ -9250,7 +9250,7 @@ msgstr ""
 #: ../root/label/merge.tt:1 ../root/label/merge.tt:3
 #, perl-format
 msgid "Merge Labels"
-msgstr ""
+msgstr "Voeg platenmaatschappijen samen"
 
 #: ../root/layout/merge-helper.tt:3
 #, perl-format
@@ -9265,14 +9265,14 @@ msgstr "Voeg opnames samen"
 #: ../root/release_group/merge.tt:1 ../root/release_group/merge.tt:3
 #, perl-format
 msgid "Merge Release Groups"
-msgstr ""
+msgstr "Voeg uitgavegroepen samen"
 
 #: ../root/release/merge_confirm.tt:1 ../root/release/merge_confirm.tt:2
 #: ../root/release/merge_search.tt:1 ../root/release/merge_search.tt:2
 #: ../root/release/merge.tt:15 ../root/release/merge.tt:17
 #, perl-format
 msgid "Merge Releases"
-msgstr ""
+msgstr "Voeg uitgaves samen"
 
 #: ../root/work/merge.tt:1 ../root/work/merge.tt:3
 #, perl-format
@@ -9292,7 +9292,7 @@ msgstr ""
 #: ../root/label/layout.tt:64
 #, perl-format
 msgid "Merge label"
-msgstr ""
+msgstr "Voeg platenmaatschappij samen"
 
 #: ../root/edit/details/historic/merge_releases.tt:30
 #, perl-format
@@ -9318,12 +9318,12 @@ msgstr "Voeg opname samen"
 #: ../root/release/sidebar.tt:78
 #, perl-format
 msgid "Merge release"
-msgstr ""
+msgstr "Voeg uitgave samen"
 
 #: ../root/release_group/layout.tt:41
 #, perl-format
 msgid "Merge release group"
-msgstr ""
+msgstr "Voeg uitgavegroep samen"
 
 #: ../root/artist/index.tt:103
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
@@ -9589,7 +9589,7 @@ msgstr ""
 #: ../root/main/index.tt:49
 #, perl-format
 msgid "MusicBrainz aims to be:"
-msgstr ""
+msgstr "MusicBrainz probeert te zijn:"
 
 #: ../root/account/register.tt:20
 #, perl-format
@@ -9621,7 +9621,7 @@ msgstr "MusicBrainz heeft één type gebruikersaccount voor alle gebruikers. Als
 msgid ""
 "MusicBrainz is an open music encyclopedia that collects music metadata and "
 "makes it available to the public."
-msgstr "Musicbrainz is een open muziekencyclopedie die metagegevens over muziek verzamelt en beschikbaar stelt aan het publiek."
+msgstr "MusicBrainz is een open muziekencyclopedie die metagegevens over muziek verzamelt en beschikbaar stelt aan het publiek."
 
 #: ../root/main/index.tt:77
 #, perl-format
@@ -9656,7 +9656,7 @@ msgstr ""
 #: ../root/layout.tt:25
 #, perl-format
 msgid "MusicBrainz: Label"
-msgstr ""
+msgstr "MusicBrainz: Platenmaatschappij"
 
 #: ../root/layout.tt:26
 #, perl-format
@@ -10054,7 +10054,7 @@ msgstr ""
 #: ../root/edit/notes.tt:29
 #, perl-format
 msgid "No edit notes have been added."
-msgstr ""
+msgstr "Geen wijzigingsopmerkingen toegevoegd."
 
 #: ../root/edit/list.tt:88
 #, perl-format
@@ -11092,21 +11092,21 @@ msgstr ""
 msgid ""
 "Please read the guideline on {doc_merging|how to merge releases} before "
 "entering this edit."
-msgstr ""
+msgstr "Leest u alstublieft de richtlijn {doc_merging|over het samenvoegen van uitgaves} voor u deze wijziging indient."
 
 #: ../root/label/edit_form.tt:2
 #, perl-format
 msgid ""
 "Please read the {doc_styleguide|Style Guidelines} then use the fields below "
 "to update the information of this label."
-msgstr ""
+msgstr "Leest u alstublieft de {doc_styleguide|stijlgids} en gebruik daarna de velden hieronder om de informatie over deze platenmaatschappij bij te werken."
 
 #: ../root/artist/edit_form.tt:4
 #, perl-format
 msgid ""
 "Please read the {doc_styleguide|Style Guidelines}, then provide the "
 "necessary information about the new artist below."
-msgstr ""
+msgstr "Leest u alstublieft de {doc_styleguide|stijlgids} en voer dan hieronder de benodigde informatie over de nieuwe artiest in."
 
 #: ../root/release_group/delete.tt:8
 #, perl-format
@@ -12215,7 +12215,7 @@ msgstr ""
 #: ../root/report/index.tt:29
 #, perl-format
 msgid "Release groups that might need to be merged"
-msgstr ""
+msgstr "Uitgavegroepen die misschien samengevoegd moeten worden"
 
 #: ../root/report/index.tt:28
 #, perl-format
@@ -12325,7 +12325,7 @@ msgstr ""
 #: ../root/report/cat_no_looks_like_asin.tt:3
 #, perl-format
 msgid "Releases With Catalog Numbers That Look Like ASINs"
-msgstr ""
+msgstr "Uitgaves met catalogusnummers die eruit zien als ASIN's."
 
 #: ../root/report/multiple_asins.tt:1 ../root/report/multiple_asins.tt:3
 #, perl-format
@@ -12587,7 +12587,7 @@ msgstr ""
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:81
 #, perl-format
 msgid "Remove Label"
-msgstr ""
+msgstr "Verwijder platenmaatschappij"
 
 #: ../root/label/delete_alias.tt:1
 #, perl-format
@@ -12673,7 +12673,7 @@ msgstr "Verwijder uit {collection}"
 #: ../lib/MusicBrainz/Server/Edit/Label/Delete.pm:12
 #, perl-format
 msgid "Remove label"
-msgstr ""
+msgstr "Verwijder platenmaatschappij"
 
 #: ../root/recording/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
@@ -13808,7 +13808,7 @@ msgstr ""
 msgid ""
 "Sorry, you must have been a member for at least 2 weeks and have 10 accepted"
 " non-auto-edits before you may add standalone recordings"
-msgstr ""
+msgstr "Excuus, u moet ten minste twee weken lid zijn en 10 geaccepteerde niet triviale wijzigingen hebben voordat u losstaande opnames kunt toevoegen"
 
 #: ../root/search/error/no-info.tt:3
 #, perl-format
@@ -14073,7 +14073,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:2
 #, perl-format
 msgid "Subscribers"
-msgstr ""
+msgstr "Abonnees"
 
 #: ../root/user/profile.tt:77
 #, perl-format
@@ -14466,7 +14466,7 @@ msgstr ""
 #: ../root/account/verified.tt:4
 #, perl-format
 msgid "Thank you, your email address has now been verified!"
-msgstr ""
+msgstr "Bedankt, uw e-mailadres is geverifieerd!"
 
 #: ../root/release/caa_darkened.tt:3 ../root/release/cover_art.tt:56
 #, perl-format
@@ -14594,7 +14594,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:145
 #, perl-format
 msgid "The catalog number you have entered looks like an Amazon ASIN."
-msgstr ""
+msgstr "Het catalogusnummer dat u heeft ingevoerd ziet er uit als een ASIN van Amazon."
 
 #: DB:link_attribute_type/description:599
 #, perl-format
@@ -14687,7 +14687,7 @@ msgstr ""
 #: ../root/edit/cannot_approve.tt:6
 #, perl-format
 msgid "The edit has already been closed."
-msgstr ""
+msgstr "Deze wijziging is al afgesloten."
 
 #: ../root/edit/cannot_approve.tt:8
 #, perl-format
@@ -15486,7 +15486,7 @@ msgstr ""
 #: ../root/layout.tt:96
 #, perl-format
 msgid "This is a MusicBrainz development server."
-msgstr "Dit is een Musicbrainz server voor ontwikkeling."
+msgstr "Dit is een MusicBrainz server voor ontwikkeling."
 
 #: ../root/layout.tt:105
 #, perl-format
@@ -17628,7 +17628,7 @@ msgstr ""
 #: ../root/main/index.tt:43
 #, perl-format
 msgid "Welcome to MusicBrainz!"
-msgstr "Welkom bij Musicbrainz!"
+msgstr "Welkom bij MusicBrainz!"
 
 #: DB:language/name:455
 msgid "Welsh"
@@ -23913,7 +23913,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:419
 msgid "Release not found"
-msgstr ""
+msgstr "Uitgave niet gevonden"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:433
 msgid "Target entity not found"
@@ -23961,7 +23961,7 @@ msgstr "De redacteur {name} heeft geen e-mailadres aan zijn of haar gebruikersac
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:272
 msgid "Your message could not be sent"
-msgstr ""
+msgstr "Uw bericht kon niet verzonden worden"
 
 #: ../lib/MusicBrainz/Server/Controller/WS/2/DiscID.pm:87
 msgid "Invalid TOC"
@@ -24197,7 +24197,7 @@ msgstr "Zet uitgave om naar één artiest"
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeLabel.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
 msgid "Merge labels"
-msgstr ""
+msgstr "Voeg platenmaatschappijen samen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeRelease.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
@@ -24227,7 +24227,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabelAlias.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Label/DeleteAlias.pm:14
 msgid "Remove label alias"
-msgstr ""
+msgstr "Verwijder alias van platenmaatschappij"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLink.pm:10
 msgid "Remove relationship (historic)"
@@ -24317,7 +24317,7 @@ msgstr "Wijzig de artiest van de uitgave"
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:140
 msgid ""
 "This edit cannot be applied, as the release being edited no longer exists."
-msgstr ""
+msgstr "Deze wijziging kan niet doorgevoerd worden omdat de uitgave die wordt gewijzigd niet meer bestaat."
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditBarcodes.pm:17
 msgid "Edit barcodes"
@@ -24337,7 +24337,7 @@ msgstr "Wijzig uitgavegroep"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
-msgstr ""
+msgstr "Deze URL is al samengevoegd met een andere URL"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
@@ -24430,7 +24430,7 @@ msgstr "Platenmaatschappijcodes moeten tussen nul en zes getallen zijn"
 
 #: ../lib/MusicBrainz/Server/Form/Field/Length.pm:25
 msgid "Not a valid time. Must be in the format MM:SS"
-msgstr ""
+msgstr "Geen geldige tijdsduur. De tijd moet de indeling MM:SS hebben"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:21
 msgid "Enter a valid url e.g. \"http://google.com/\""
@@ -24699,13 +24699,13 @@ msgstr "Een uitgave die wordt weggegeven of bedoeld is om een officiële uitgave
 msgid ""
 "An unofficial/underground release that was not sanctioned by the artist "
 "and/or the record company."
-msgstr ""
+msgstr "Een onofficiële/underground uitgave die niet door de artiest en/of de platenmaatschappij gesanctioneerd is."
 
 #: ../lib/MusicBrainz/Server/Release.pm:94
 msgid ""
 "A pseudo-release is a duplicate release for translation/transliteration "
 "purposes."
-msgstr ""
+msgstr "Een pseudo-uitgave is een kopie van een uitgave voor vertalings- of transliteratiedoeleinden."
 
 #: ../lib/MusicBrainz/Server/Release.pm:1343
 #, perl-brace-format
@@ -24715,7 +24715,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Release.pm:1347
 #, perl-brace-format
 msgid "This release already has a track {tracknum}"
-msgstr ""
+msgstr "Deze uitgave heeft al een nummer {tracknum}"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1364
 #, perl-brace-format
@@ -24725,12 +24725,12 @@ msgid ""
 msgid_plural ""
 "You can't add a track {tracknum} - this release is meant to have exactly "
 "{trackcount} tracks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "U kan het nummer {tracknum} niet toevoegen - deze uitgave moet precies {trackcount} nummer hebben"
+msgstr[1] "U kan het nummer {tracknum} niet toevoegen - deze uitgave moet precies {trackcount} nummers hebben"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1377
 msgid "This release already has all of its tracks"
-msgstr ""
+msgstr "Deze uitgave heeft al al haar nummers"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1394
 #, perl-brace-format
@@ -24745,8 +24745,8 @@ msgid ""
 msgid_plural ""
 "You can't remove track {tracknum} - this release is meant to have exactly "
 "{trackcount} tracks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "U kunt nummer {tracknum} niet verwijderen - deze uitgave moet precies {trackcount} nummer hebben"
+msgstr[1] "U kunt nummer {tracknum} niet verwijderen - deze uitgave moet precies {trackcount} nummers hebben"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1427
 msgid "None of the tracks on this album are eligible for removal"
