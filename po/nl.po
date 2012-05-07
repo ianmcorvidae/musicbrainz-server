@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-07 20:59+0000\n"
+"PO-Revision-Date: 2012-05-07 21:58+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1316,7 +1316,7 @@ msgstr "Aantekening"
 #: ../root/annotation/edit.tt:34
 #, perl-format
 msgid "Annotation Formatting"
-msgstr ""
+msgstr "Opmaak van de aantekening"
 
 #: ../root/annotation/diff.tt:2 ../root/artist/annotation_diff.tt:1
 #: ../root/label/annotation_diff.tt:1 ../root/recording/annotation_diff.tt:1
@@ -1359,7 +1359,7 @@ msgstr "Aantekening:"
 #: ../root/annotation/edit.tt:35
 #, perl-format
 msgid "Annotations support a limited set of wiki formatting options:"
-msgstr ""
+msgstr "Aantekeningen ondersteunen een gelimiteerd aantal wiki opmaakopties:"
 
 #: DB:country/name:8
 msgid "Antarctica"
@@ -2532,7 +2532,7 @@ msgstr ""
 
 #: DB:script/name:123
 msgid "Book Pahlavi"
-msgstr "Book Pahlavi"
+msgstr "Boek Pahlavi"
 
 #: DB:release_status/name:3
 msgid "Bootleg"
@@ -3239,7 +3239,7 @@ msgstr ""
 
 #: DB:language/name:481
 msgid "Classical Syriac"
-msgstr ""
+msgstr "Klassiek Syrisch"
 
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
@@ -3312,15 +3312,15 @@ msgstr "Code"
 
 #: DB:script/name:159
 msgid "Code for inherited script"
-msgstr ""
+msgstr "ode voor overgeërfd schrift"
 
 #: DB:script/name:130
 msgid "Code for uncoded script"
-msgstr ""
+msgstr "Code voor niet-gecodeerd schrift"
 
 #: DB:script/name:129
 msgid "Code for undetermined script"
-msgstr ""
+msgstr "Code voor onbepaald schrift"
 
 #: DB:script/name:128
 msgid "Code for unwritten documents"
@@ -4136,7 +4136,7 @@ msgstr ""
 
 #: DB:script/name:1
 msgid "Cuneiform, Sumero-Akkadian"
-msgstr ""
+msgstr "Spijkerschrift, Sumero-Akkadisch"
 
 #: DB:country/name:259
 msgid "Curaçao"
@@ -4314,7 +4314,7 @@ msgstr ""
 #: ../root/account/preferences.tt:14
 #, perl-format
 msgid "Date/time format:"
-msgstr "Formattering van datum en tijd:"
+msgstr "Opmaak van datum en tijd:"
 
 #: ../root/edit/details/add_release.tt:60
 #: ../root/edit/details/edit_release_label.tt:38
@@ -4329,7 +4329,7 @@ msgstr "Datum:"
 msgid ""
 "Dates are in the format YYYY-MM-DD. Partial dates such as YYYY-MM or just "
 "YYYY are OK, or you can omit the date entirely."
-msgstr "Data zijn in het formaat JJJJ-MM-DD. Gedeeltelijke data zoals JJJJ-MM of alleen JJJJ zijn ook goed, of de datum kan helemaal worden weggelaten."
+msgstr "Data hebben de indeling JJJJ-MM-DD. Gedeeltelijke data zoals JJJJ-MM of alleen JJJJ zijn ook goed, of de datum kan helemaal worden weggelaten."
 
 #: DB:link_attribute_type/description:496
 #, perl-format
@@ -4631,7 +4631,7 @@ msgstr "Discogs URL's die aan meerdere uitgaves zijn gekoppeld"
 #: DB:link_type/reverse_link_phrase:217 DB:link_type/reverse_link_phrase:90
 #, perl-format
 msgid "Discogs page for"
-msgstr ""
+msgstr "Discogspagina van"
 
 #: ../root/report/separate_discs.tt:1 ../root/report/separate_discs.tt:3
 #, perl-format
@@ -4853,7 +4853,7 @@ msgstr ""
 #: ../root/artist/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Artist Annotation"
-msgstr "Wijzig aantekening bij een artiest"
+msgstr "Wijzig de aantekening van de artiest"
 
 #: ../root/artist/edit_credit.tt:15 ../root/artist/edit_credit.tt:20
 #, perl-format
@@ -4873,7 +4873,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:26
 #, perl-format
 msgid "Edit Information"
-msgstr ""
+msgstr "Wijzig informatie"
 
 #: ../root/layout/menu.tt:58
 #, perl-format
@@ -4911,7 +4911,7 @@ msgstr ""
 #: ../root/recording/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Recording Annotation"
-msgstr "Wijzig de aantekening van deze opname"
+msgstr "Wijzig de aantekening van de opname"
 
 #: ../root/edit/relationship/create_batch.tt:10
 #: ../root/edit/relationship/edit.tt:13 ../root/edit/relationship/edit.tt:15
@@ -4992,14 +4992,14 @@ msgstr "Wijzig alias voor deze compositie"
 #: ../root/work/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Work Annotation"
-msgstr "Wijzig aantekening bij deze compositie"
+msgstr "Wijzig de aantekening van de compositie"
 
 #: ../root/artist/layout.tt:80 ../root/label/layout.tt:59
 #: ../root/recording/layout.tt:37 ../root/release_group/layout.tt:36
 #: ../root/release/sidebar.tt:71 ../root/work/layout.tt:30
 #, perl-format
 msgid "Edit annotation"
-msgstr ""
+msgstr "Wijzig aantekening"
 
 #: ../root/artist/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditAlias.pm:12
@@ -5011,7 +5011,7 @@ msgstr "Alias voor deze artiest bewerken"
 #: ../root/artist/edit_annotation.tt:2
 #, perl-format
 msgid "Edit artist annotation"
-msgstr ""
+msgstr "Wijzig de aantekening van de artiest"
 
 #: ../root/edit/edit_header.tt:92
 #, perl-format
@@ -5028,7 +5028,7 @@ msgstr "Alias voor deze platenmaatschappij bewerken"
 #: ../root/label/edit_annotation.tt:2
 #, perl-format
 msgid "Edit label annotation"
-msgstr ""
+msgstr "Wijzig de aantekening van de platenmaatschappij"
 
 #: ../root/edit/cancel.tt:19 ../root/forms/edit-note.tt:13
 #, perl-format
@@ -5054,7 +5054,7 @@ msgstr "Opname bewerken"
 #: ../root/recording/edit_annotation.tt:2
 #, perl-format
 msgid "Edit recording annotation"
-msgstr ""
+msgstr "Wijzig de aantekening van de opname"
 
 #: ../root/release/edit_annotation.tt:2
 #, perl-format
@@ -5080,7 +5080,7 @@ msgstr "Alias voor deze compositie bewerken"
 #: ../root/work/edit_annotation.tt:2
 #, perl-format
 msgid "Edit work annotation"
-msgstr "Wijzig aantekening bij deze compositie"
+msgstr "Wijzig de aantekening van de compositie"
 
 #: ../root/release/edit-links.tt:13
 #, perl-format
@@ -5209,31 +5209,31 @@ msgstr "Wijzigingen van objecten waar u op bent geabonneerd"
 #: ../root/label/edits.tt:17
 #, perl-format
 msgid "Edits for {label}"
-msgstr ""
+msgstr "Wijzigingen voor {label}"
 
 #: ../root/artist/edits.tt:16 ../root/url/edits.tt:17
 #, perl-format
 msgid "Edits for {link}"
-msgstr ""
+msgstr "Wijzigingen voor {link}"
 
 #: ../root/artist/edits.tt:14 ../root/label/edits.tt:15
 #: ../root/url/edits.tt:15
 #, perl-format
 msgid "Edits for {name}"
-msgstr ""
+msgstr "Wijzigingen voor {name}"
 
 #: ../root/release/edits.tt:17 ../root/release_group/edits.tt:17
 #: ../root/work/edits.tt:16
 #, perl-format
 msgid "Edits for “{link}”"
-msgstr ""
+msgstr "Wijzigingen voor \"{link}\""
 
 #: ../root/recording/edits.tt:15 ../root/recording/edits.tt:17
 #: ../root/release/edits.tt:15 ../root/release_group/edits.tt:15
 #: ../root/work/edits.tt:14
 #, perl-format
 msgid "Edits for “{name}”"
-msgstr ""
+msgstr "Wijzigingen voor \"{name}\""
 
 #: ../root/statistics/view_js.tt:51
 #, perl-format
@@ -5706,7 +5706,7 @@ msgstr "Voor hulp bij het schrijven van effectieve geavanceerde zoekopdrachten, 
 msgid ""
 "For information about the account deletion process, please read the "
 "{uri|account FAQ}."
-msgstr ""
+msgstr "Lees voor informatie over het verwijderen van gebruikersaccounts de {uri|gebruikersaccount FAQ}."
 
 #: ../root/report/part_of_set_relationships.tt:7
 #: ../root/report/separate_discs.tt:7
@@ -5719,7 +5719,7 @@ msgstr "Voor instructies hoe u ze kunt verbeteren, leest u de documentatie over 
 #: ../root/edit/info.tt:55
 #, perl-format
 msgid "For more information:"
-msgstr ""
+msgstr "Voor meer informatie:"
 
 #: DB:link_attribute_type/description:580
 #, perl-format
@@ -5733,7 +5733,7 @@ msgstr ""
 #: ../root/main/mirror.tt:3
 #, perl-format
 msgid "Forbidden Request"
-msgstr ""
+msgstr "Verboden verzoek"
 
 #: ../root/user/login.tt:39
 #, perl-format
@@ -5824,8 +5824,8 @@ msgstr[1] ""
 #, perl-format
 msgid "Found {n} result for \"{q}\""
 msgid_plural "Found {n} results for \"{q}\""
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{n} resultaat gevonden voor \"{q}\""
+msgstr[1] "{n} resultaten gevonden voor \"{q}\""
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/label/layout.tt:14 ../root/scripts/text_strings.tt:73
@@ -5985,7 +5985,7 @@ msgstr ""
 #: ../root/user/profile.tt:12
 #, perl-format
 msgid "General Information"
-msgstr ""
+msgstr "Algemene informatie"
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:9
 #: ../root/report/artists_that_may_be_groups.tt:10
@@ -6475,7 +6475,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:195
 #, perl-format
 msgid "IBDb page for"
-msgstr ""
+msgstr "IBDb-pagina van"
 
 #: ../root/edit/search_macros.tt:279
 #, perl-format
@@ -6495,7 +6495,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:97 DB:link_type/reverse_link_phrase:178
 #, perl-format
 msgid "IMDb page for"
-msgstr ""
+msgstr "IMDb-pagina van"
 
 #: DB:link_type/link_phrase:100 DB:link_type/link_phrase:196
 #: DB:link_type/reverse_link_phrase:276
@@ -6507,7 +6507,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:196
 #, perl-format
 msgid "IOBDb page for"
-msgstr ""
+msgstr "IOBDb-pagina van"
 
 #: ../root/artist/edit_form.tt:44 ../root/artist/layout.tt:40
 #: ../root/edit/details/add_artist.tt:56
@@ -6761,7 +6761,7 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|artist aliases} for more "
 "details."
-msgstr ""
+msgstr "Als u hier een verkeerd gespelde alias ziet, staat deze hier waarschijnlijk expres, en moet deze niet worden hernoemd of verwijderd. Lees {aa|alias voor artiesten} voor meer details."
 
 #: ../root/label/add_alias.tt:6 ../root/label/edit_alias.tt:6
 #, perl-format
@@ -6769,7 +6769,7 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|label aliases} for more "
 "details."
-msgstr ""
+msgstr "Als u hier een verkeerd gespelde alias ziet, staat deze hier waarschijnlijk expres, en moet deze niet worden hernoemd of verwijderd. Lees {aa|alias voor platenmaatschappijen} voor meer details."
 
 #: ../root/work/add_alias.tt:6 ../root/work/edit_alias.tt:6
 #, perl-format
@@ -6777,7 +6777,7 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|work aliases} for more "
 "details."
-msgstr ""
+msgstr "Als u hier een verkeerd gespelde alias ziet, staat deze hier waarschijnlijk expres, en moet deze niet worden hernoemd of verwijderd. Lees {aa|alias voor composities} voor meer details."
 
 #: ../root/main/401.tt:15
 #, perl-format
@@ -6791,7 +6791,7 @@ msgstr "Als u denkt dat dit een fout is, neem dan contact <code>support@musicbra
 msgid ""
 "If you wish to use this tag, please {url|search} for the entity first and "
 "apply the tag using the sidebar."
-msgstr ""
+msgstr "Als u dit etiket wilt gebruiken, {url|zoek} dan eerst het object en pas het etiket dan toe met de zijbalk."
 
 #: ../root/account/edit.tt:26
 #, perl-format
@@ -6813,7 +6813,7 @@ msgid ""
 "database looking for data that might require fixing, either to comply with "
 "the {style|style guidelines}, or in other cases where administrative \"clean"
 " up\" tasks are required."
-msgstr ""
+msgstr "Als u wilt deelnemen aan het"
 
 #: ../root/account/register.tt:51
 #, perl-format
@@ -7145,7 +7145,7 @@ msgstr "Geeft een internetpagina aan waar een album gratis gedownload kan worden
 msgid ""
 "Indicates a webpage where you can download an artist's work for free. (<a "
 "href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een internetpagina aan waar het werk van een artiest gratis gedownload kan worden. (<a href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:254
 #, perl-format
@@ -7860,7 +7860,7 @@ msgstr "Inscriptie Pahlavi"
 
 #: DB:script/name:124
 msgid "Inscriptional Parthian"
-msgstr "Inscriptie Pahlavi"
+msgstr "Inscriptie Parthisch"
 
 #: ../root/admin/index.tt:8 ../root/layout/menu.tt:224
 #: ../root/relationship/header.tt:2
@@ -8230,7 +8230,7 @@ msgstr ""
 
 #: DB:script/name:144
 msgid "Khudawadi"
-msgstr ""
+msgstr "Khudawadi"
 
 #: DB:script/name:102
 msgid "Khutsuri"
@@ -9102,7 +9102,7 @@ msgstr ""
 
 #: DB:script/name:111
 msgid "Mathematical notation"
-msgstr ""
+msgstr "Wiskundige notatie"
 
 #: DB:country/name:135
 msgid "Mauritania"
@@ -9386,7 +9386,7 @@ msgstr ""
 
 #: DB:script/name:41
 msgid "Miao"
-msgstr ""
+msgstr "Miao"
 
 #: DB:country/name:139
 msgid "Micronesia, Federated States of"
@@ -9904,7 +9904,7 @@ msgstr ""
 
 #: DB:script/name:67
 msgid "New Tai Lue"
-msgstr ""
+msgstr "Nieuw Tai Lue"
 
 #: ../root/edit/details/edit_medium.tt:112
 #, perl-format
@@ -10401,12 +10401,12 @@ msgstr "Ol Chiki"
 #: ../root/annotation/history.tt:6
 #, perl-format
 msgid "Old"
-msgstr ""
+msgstr "Oud"
 
 #: ../root/edit/details/edit_medium.tt:218
 #, perl-format
 msgid "Old Artist"
-msgstr ""
+msgstr "Oude artiest"
 
 #: DB:script/name:21
 msgid "Old Hungarian"
@@ -10426,7 +10426,7 @@ msgstr "Oudpermisch"
 
 #: DB:script/name:2
 msgid "Old Persian"
-msgstr ""
+msgstr "Oudperzisch"
 
 #: DB:script/name:156
 msgid "Old South Arabian"
@@ -10470,7 +10470,7 @@ msgstr "Oude uitgaves:"
 #: ../root/edit/details/change_wikidoc.tt:16
 #, perl-format
 msgid "Old version:"
-msgstr ""
+msgstr "Oude versie:"
 
 #: ../root/edit/details/edit_release_language.tt:3
 #, perl-format
@@ -10924,7 +10924,7 @@ msgstr ""
 
 #: DB:language/name:333
 msgid "Persian, Old (ca.600-400 B.C.)"
-msgstr ""
+msgstr "Perzisch, Oud (ca. 600 - 400 v.Chr.)"
 
 #: DB:artist_type/name:1
 msgid "Person"
@@ -10953,7 +10953,7 @@ msgstr ""
 
 #: DB:language/name:336 DB:script/name:9
 msgid "Phoenician"
-msgstr ""
+msgstr "Foenicisch"
 
 #: ../root/edit/details/remove_relationship_type.tt:11
 #, perl-format
@@ -11476,7 +11476,7 @@ msgstr ""
 
 #: DB:language/name:342
 msgid "Provençal, Old (to 1500)"
-msgstr ""
+msgstr "Provençaals, Oud (tot 1500)"
 
 #: DB:script/name:122
 msgid "Psalter Pahlavi"
@@ -11820,7 +11820,7 @@ msgstr ""
 
 #: DB:script/name:105
 msgid "Rejang"
-msgstr ""
+msgstr "Rejang"
 
 #: ../root/doc/edit_type.tt:58
 #, perl-format
@@ -12828,7 +12828,7 @@ msgstr ""
 
 #: DB:script/name:98
 msgid "Rongorongo"
-msgstr ""
+msgstr "Rongorongo"
 
 #: DB:language/name:352
 msgid "Rundi"
@@ -12836,7 +12836,7 @@ msgstr ""
 
 #: DB:script/name:26
 msgid "Runic"
-msgstr ""
+msgstr "Runen"
 
 #: DB:language/name:353
 msgid "Russian"
@@ -12896,11 +12896,11 @@ msgstr ""
 
 #: DB:script/name:125
 msgid "Samaritan"
-msgstr ""
+msgstr "Samaritaans"
 
 #: DB:language/name:359
 msgid "Samaritan Aramaic"
-msgstr ""
+msgstr "Samaritaans Aramees"
 
 #: DB:language/name:381
 msgid "Sami languages"
@@ -12975,7 +12975,7 @@ msgstr ""
 
 #: DB:script/name:46
 msgid "Sarati"
-msgstr ""
+msgstr "Sarati"
 
 #: DB:language/name:394
 msgid "Sardinian"
@@ -12991,7 +12991,7 @@ msgstr ""
 
 #: DB:script/name:106
 msgid "Saurashtra"
-msgstr ""
+msgstr "Saurashtra"
 
 #: ../root/account/edit.tt:24 ../root/account/preferences.tt:56
 #: ../root/relationship/linkattributetype/form.tt:21
@@ -13292,11 +13292,11 @@ msgstr ""
 
 #: DB:script/name:138
 msgid "Sharada"
-msgstr ""
+msgstr "Sharada"
 
 #: DB:script/name:40
 msgid "Shavian"
-msgstr ""
+msgstr "Shavian"
 
 #: DB:link_attribute_type/description:493
 #, perl-format
@@ -13410,7 +13410,7 @@ msgstr ""
 
 #: DB:script/name:126
 msgid "SignWriting"
-msgstr ""
+msgstr "Gebarentaal"
 
 #: DB:language/name:54
 msgid "Siksika"
@@ -13435,11 +13435,11 @@ msgstr ""
 
 #: DB:language/name:373 DB:script/name:63
 msgid "Sinhala"
-msgstr ""
+msgstr "Sinhala"
 
 #: DB:language/name:375
 msgid "Sino-Tibetan languages"
-msgstr ""
+msgstr "Chinees-Tibetaanse talen"
 
 #: DB:country/name:260
 msgid "Sint Maarten (Dutch part)"
@@ -13586,7 +13586,7 @@ msgstr ""
 
 #: DB:script/name:137
 msgid "Sora Sompeng"
-msgstr ""
+msgstr "Sora Sompeng"
 
 #: DB:language/name:456
 msgid "Sorbian languages"
@@ -13937,7 +13937,7 @@ msgstr ""
 #: DB:link_attribute_type/description:561
 #, perl-format
 msgid "Spoken vocals (speech)"
-msgstr ""
+msgstr "Gesproken vocalen (spraak)"
 
 #: DB:release_group_type/name:6
 msgid "Spokenword"
@@ -14114,7 +14114,7 @@ msgstr ""
 
 #: DB:language/name:399 DB:script/name:107
 msgid "Sundanese"
-msgstr ""
+msgstr "Sundanees"
 
 #: DB:link_attribute_type/description:459
 #, perl-format
@@ -14160,11 +14160,11 @@ msgstr ""
 
 #: DB:script/name:51
 msgid "Syloti Nagri"
-msgstr ""
+msgstr "Syloti Nagri"
 
 #: DB:script/name:112
 msgid "Symbols"
-msgstr ""
+msgstr "Symbolen"
 
 #: DB:work_type/name:18
 msgid "Symphonic poem"
@@ -14181,19 +14181,19 @@ msgstr ""
 
 #: DB:language/name:404 DB:script/name:12
 msgid "Syriac"
-msgstr ""
+msgstr "Syrisch"
 
 #: DB:script/name:13
 msgid "Syriac (Eastern variant)"
-msgstr ""
+msgstr "Syrisch (oosterse variant)"
 
 #: DB:script/name:15
 msgid "Syriac (Estrangelo variant)"
-msgstr ""
+msgstr "Syrisch (Estrangelo variant)"
 
 #: DB:script/name:14
 msgid "Syriac (Western variant)"
-msgstr ""
+msgstr "Syrisch (westerse variant)"
 
 #: DB:country/name:204
 msgid "Syrian Arab Republic"
@@ -14297,7 +14297,7 @@ msgstr "Tagalog"
 
 #: DB:script/name:79
 msgid "Tagbanwa"
-msgstr ""
+msgstr "Tagbanwa"
 
 #: ../root/cdtoc/attach_artist_releases.tt:42 ../root/cdtoc/list.tt:14
 #: ../root/components/common-macros.tt:376
@@ -14368,7 +14368,7 @@ msgstr ""
 
 #: DB:script/name:139
 msgid "Takri"
-msgstr ""
+msgstr "Takri"
 
 #: DB:language/name:423
 msgid "Tamashek"
@@ -14381,7 +14381,7 @@ msgstr ""
 
 #: DB:language/name:407 DB:script/name:61
 msgid "Tamil"
-msgstr ""
+msgstr "Tamil"
 
 #: DB:link_attribute_type/description:410
 #, perl-format
@@ -14390,7 +14390,7 @@ msgstr ""
 
 #: DB:script/name:140
 msgid "Tangut"
-msgstr ""
+msgstr "Tangut"
 
 #: DB:country/name:207
 msgid "Tanzania, United Republic of"
@@ -14412,11 +14412,11 @@ msgstr ""
 
 #: DB:language/name:409 DB:script/name:59
 msgid "Telugu"
-msgstr ""
+msgstr "Telugu"
 
 #: DB:script/name:44
 msgid "Tengwar"
-msgstr ""
+msgstr "Tengwar"
 
 #: DB:link_attribute_type/description:288
 #, perl-format
@@ -14448,15 +14448,15 @@ msgstr ""
 
 #: DB:script/name:19
 msgid "Thaana"
-msgstr ""
+msgstr "Thaana"
 
 #: DB:language/name:415 DB:script/name:65
 msgid "Thai"
-msgstr ""
+msgstr "Thais"
 
 #: DB:country/name:208
 msgid "Thailand"
-msgstr ""
+msgstr "Thailand"
 
 #: ../root/account/donation.tt:14
 #, perl-format
@@ -14515,7 +14515,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:177
 #, perl-format
 msgid "The annotation field functions like a miniature wiki."
-msgstr ""
+msgstr "Het aantekeningveld werkt als een miniatuurwiki"
 
 #: ../root/artist/special_purpose.tt:3
 #, perl-format
@@ -15429,7 +15429,7 @@ msgstr ""
 msgid ""
 "This field is not a place to store general background information about the "
 "release: that kind of information should go in the annotation field."
-msgstr ""
+msgstr "Dit veld is geen plek om algemene achtergrondinformatie over een uitgave op te slaan: dit soort informatie hoort in het annotatieveld."
 
 #: ../root/artist/edit_credit.tt:26
 #, perl-format
@@ -16277,16 +16277,16 @@ msgstr "Deze compositie heeft geen etiketten."
 
 #: DB:language/name:416 DB:script/name:55
 msgid "Tibetan"
-msgstr ""
+msgstr "Tibettaans"
 
 #: DB:link_attribute_type/description:350 DB:link_attribute_type/name:350
 #, perl-format
 msgid "Tibetan water drum"
-msgstr ""
+msgstr "Tibetaanse watertrommel"
 
 #: DB:script/name:10
 msgid "Tifinagh"
-msgstr ""
+msgstr "Tifinagh"
 
 #: DB:language/name:417
 msgid "Tigre"
@@ -16855,7 +16855,7 @@ msgstr ""
 
 #: DB:language/name:439 DB:script/name:3
 msgid "Ugaritic"
-msgstr ""
+msgstr "Ugaritisch"
 
 #: DB:language/name:440
 msgid "Uighur"
@@ -17200,7 +17200,7 @@ msgstr ""
 
 #: DB:language/name:446 DB:script/name:91
 msgid "Vai"
-msgstr ""
+msgstr "Vai"
 
 #: DB:country/name:226
 msgid "Vanuatu"
@@ -17279,12 +17279,12 @@ msgstr ""
 #: ../root/annotation/common.tt:21
 #, perl-format
 msgid "View annotation history"
-msgstr ""
+msgstr "Bekijk de geschiedenis van de aantekening"
 
 #: ../root/annotation/diff.tt:19
 #, perl-format
 msgid "View annotation history."
-msgstr ""
+msgstr "Bekijk de geschiedenis van de aantekening"
 
 #: ../root/elections/index.tt:23
 #, perl-format
@@ -17325,7 +17325,7 @@ msgstr ""
 
 #: DB:script/name:39
 msgid "Visible Speech"
-msgstr ""
+msgstr "Zichtbare spraak"
 
 #: DB:link_attribute_type/description:354
 #, perl-format
@@ -17474,7 +17474,7 @@ msgstr ""
 
 #: DB:script/name:154
 msgid "Warang Citi"
-msgstr ""
+msgstr "Warang Citi"
 
 #: DB:language/name:453
 msgid "Waray"
@@ -17716,7 +17716,7 @@ msgstr ""
 
 #: DB:script/name:141
 msgid "Woleai"
-msgstr ""
+msgstr "Woleai"
 
 #: DB:language/name:458
 msgid "Wolof"
@@ -17911,7 +17911,7 @@ msgstr ""
 
 #: DB:script/name:90
 msgid "Yi"
-msgstr ""
+msgstr "Yi"
 
 #: DB:language/name:463
 msgid "Yiddish"
@@ -21169,7 +21169,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:18
 #, perl-format
 msgid "oldest first"
-msgstr ""
+msgstr "oudste eerst"
 
 #: DB:link_attribute_type/description:352 DB:link_attribute_type/name:352
 #, perl-format
@@ -23785,7 +23785,7 @@ msgstr "Bedankt, uw wijziging is geaccepteerd en toegepast"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:44
 msgid "The user ID is missing or is in an invalid format."
-msgstr "Dit gebruikers ID is in een ongeldig formaat."
+msgstr "Dit gebruikers ID ontbreekt of heeft een ongeldige opmaak."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:51
 msgid "The email address is missing."
@@ -23793,7 +23793,7 @@ msgstr "Het e-mailadres ontbreekt."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:58
 msgid "The time is missing or is in an invalid format."
-msgstr "De tijdsduur ontbreekt of is niet correct geformatteerd."
+msgstr "De tijdsduur ontbreekt of is niet correct opgemaakt."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:66
 msgid "The verification key is missing."
@@ -23952,7 +23952,7 @@ msgstr "Deze samenvoegingsstrategie kan niet toegepast worden op de uitgaves die
 
 #: ../lib/MusicBrainz/Server/Controller/Role/Annotation.pm:168
 msgid "The old and new annotation ids must be unique, positive integers."
-msgstr ""
+msgstr "De oude en nieuwe id van de aantekening moeten unieke positieve integers zijn."
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:244
 #, perl-brace-format
@@ -24111,7 +24111,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackAnnotation.pm:7
 msgid "Add track annotation"
-msgstr ""
+msgstr "Voeg aantekening toe aan nummer"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeArtistQuality.pm:10
 msgid "Change artist quality"
@@ -24578,7 +24578,7 @@ msgstr "Het oude wachtwoord is incorrect"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:20
 msgid "Invalid URL format"
-msgstr ""
+msgstr "Ongeldige URL-opmaak"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:79
 msgid "Daily"
