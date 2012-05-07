@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-07 13:58+0000\n"
+"PO-Revision-Date: 2012-05-07 16:52+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -381,7 +381,7 @@ msgid ""
 "A CD Stub was found that matches the disc ID you provided. If the below "
 "tracklist appears correct, you may use it as a starting point as a new "
 "MusicBrainz release"
-msgstr ""
+msgstr "Er is een cd-beginsel gevonden die overeenkomt met uw Disc ID. Als de onderstaande nummerlijst correct lijkt, kunt u deze gebruiken als beginpunt voor een nieuwe uitgave in MusicBrainz."
 
 #: DB:link_attribute_type/description:600
 #, perl-format
@@ -813,7 +813,7 @@ msgstr "Alias voor deze artiest toevoegen"
 #: ../root/cdstub/layout.tt:23
 #, perl-format
 msgid "Add disc ID to an existing release"
-msgstr ""
+msgstr "Voeg een Disc ID toe aan een bestaande uitgave"
 
 #: ../root/edit/add_note.tt:4
 #, perl-format
@@ -1201,7 +1201,7 @@ msgstr "U kunt ook {uri|een nieuwe opname toevoegen}."
 #: ../root/search/results-release-group.tt:30
 #, perl-format
 msgid "Alternatively, you may {uri|add a new release group}."
-msgstr ""
+msgstr "U kunt ook {uri|een nieuwe uitgave toevoegen}."
 
 #: ../root/search/results-work.tt:46
 #, perl-format
@@ -23948,7 +23948,7 @@ msgstr "Deze uitgave is al in de geselecteerde uitgavegroep"
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:635
 msgid ""
 "This merge strategy is not applicable to the releases you have selected."
-msgstr ""
+msgstr "Deze samenvoegingsstrategie kan niet toegepast worden op de uitgaves die u heeft geselecteerd."
 
 #: ../lib/MusicBrainz/Server/Controller/Role/Annotation.pm:168
 msgid "The old and new annotation ids must be unique, positive integers."
@@ -24483,7 +24483,7 @@ msgstr ""
 msgid ""
 "You must provide an edit note when adding a release. Even just a URL or "
 "something like “CD in hand” helps!"
-msgstr ""
+msgstr "U moet een wijzigingsopmerking geven als u een uitgave toevoegt. Alleen al een URL of iets als \"cd in mijn hand\" helpt!"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:63
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:86
@@ -24500,7 +24500,7 @@ msgstr "Deze streepjescode is ongeldig, controleer alstublieft of u de streepjes
 msgid ""
 "You must select an existing release group. If you wish to move this release,\n"
 "           use the \"change release group\" action from the sidebar."
-msgstr ""
+msgstr "U moet een bestaande uitgavegroep selecteren. Als u deze uitgave wilt verplaatsen,\ngebruik dan de \"Verander uitgavegroep\" link in de zijbalk."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:60
 msgid "New tracklisting contains an empty track"
@@ -24754,7 +24754,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"
-msgstr ""
+msgstr "Informatie over de uitgave"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
