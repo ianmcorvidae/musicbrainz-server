@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-05 08:20+0000\n"
+"PO-Revision-Date: 2012-05-07 11:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -963,12 +963,12 @@ msgstr ""
 #: ../root/layout/menu.tt:51
 #, perl-format
 msgid "Admin"
-msgstr ""
+msgstr "Administrator"
 
 #: ../root/admin/index.tt:1 ../root/admin/index.tt:3
 #, perl-format
 msgid "Administration"
-msgstr ""
+msgstr "Administratie"
 
 #: ../root/admin/edit_user.tt:15
 #, perl-format
@@ -1047,7 +1047,7 @@ msgstr ""
 #: ../root/components/aliases.tt:7
 #, perl-format
 msgid "Alias"
-msgstr ""
+msgstr "Alias"
 
 #: ../root/alias/edit_form.tt:3
 #, perl-format
@@ -1069,7 +1069,7 @@ msgstr ""
 #: ../root/edit/details/remove_work_alias.tt:7
 #, perl-format
 msgid "Alias:"
-msgstr ""
+msgstr "Alias:"
 
 #: ../root/artist/aliases.tt:1 ../root/artist/header.tt:1
 #: ../root/components/aliases.tt:1 ../root/label/aliases.tt:1
@@ -1077,7 +1077,7 @@ msgstr ""
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Aliases"
-msgstr ""
+msgstr "Aliassen"
 
 #: ../root/user/profile/layout.tt:19
 #, perl-format
@@ -1128,13 +1128,13 @@ msgstr ""
 #: DB:link_type/link_phrase:285 DB:link_type/reverse_link_phrase:286
 #, perl-format
 msgid "Allmusic"
-msgstr ""
+msgstr "Allmusic"
 
 #: DB:link_type/link_phrase:286 DB:link_type/reverse_link_phrase:283
 #: DB:link_type/reverse_link_phrase:284 DB:link_type/reverse_link_phrase:285
 #, perl-format
 msgid "Allmusic page for"
-msgstr ""
+msgstr "Allmusic pagina voor"
 
 #: ../root/account/preferences.tt:32
 #, perl-format
@@ -1159,7 +1159,7 @@ msgstr "Sta andere gebruikers toe om deze collectie te zien"
 #: ../root/components/common-macros.tt:538
 #, perl-format
 msgid "Already expired"
-msgstr ""
+msgstr "Al verlopen"
 
 #: DB:link_attribute_type/description:557
 #, perl-format
@@ -1325,7 +1325,7 @@ msgstr ""
 #: ../root/work/annotation_diff.tt:1
 #, perl-format
 msgid "Annotation comparison"
-msgstr ""
+msgstr "Vergelijking tussen aantekeningen"
 
 #: ../root/artist/annotation_history.tt:9
 #: ../root/artist/annotation_history.tt:10
@@ -1339,7 +1339,7 @@ msgstr ""
 #: ../root/work/annotation_history.tt:1 ../root/work/annotation_history.tt:2
 #, perl-format
 msgid "Annotation history"
-msgstr ""
+msgstr "Geschiedenis van de aantekening"
 
 #: ../root/annotation/common.tt:15
 #, perl-format
@@ -1435,14 +1435,14 @@ msgstr ""
 msgid ""
 "Are you sure that you want to merge {release1} by {artist1} into {release2} "
 "by {artist2}?"
-msgstr ""
+msgstr "Weet u zeker dat u {release1} van {artist1} wilt samenvoegen in {release2} van {artist2}?"
 
 #: ../root/release/move_confirm.tt:4
 #, perl-format
 msgid ""
 "Are you sure that you want to move {release} by {release_artist} to the "
 "release group {group} by {artist}?"
-msgstr ""
+msgstr "Weet u zeker dat u {release} van {release_artist} wilt verplaatsen naar uitgavegroep {group} van {artist}?"
 
 #: ../root/cdtoc/attach_confirm.tt:3
 #, perl-format
@@ -1461,7 +1461,7 @@ msgstr "Weet u zeker dat u alle informatie over {e} wilt verwijderen? Dit kan ni
 #: ../root/admin/delete_user.tt:19
 #, perl-format
 msgid "Are you sure you want to delete your account? This cannot be undone!"
-msgstr ""
+msgstr "Weet u zeker dat u uw gebruikersaccount wilt verwijderen? Dit kan niet ongedaan worden gemaakt!"
 
 #: ../root/elections/nominate.tt:5
 #, perl-format
@@ -1489,7 +1489,7 @@ msgstr "Weet u zeker of u de alias {alias} dat verwijst naar artiest {artist} wi
 msgid ""
 "Are you sure you want to remove the alias {alias}, which points to the label"
 " {label}?"
-msgstr ""
+msgstr "Weet u zeker dat u de alias {alias}, dat naar de platenmaatschappij {label} verwijst, wilt verwijderen?"
 
 #: ../root/work/delete_alias.tt:7
 #, perl-format
@@ -1513,7 +1513,7 @@ msgstr ""
 #: ../root/edit/cancel.tt:3
 #, perl-format
 msgid "Are you sure you wish to cancel edit #{n}? This cannot be undone!"
-msgstr ""
+msgstr "Weet u zeker dat u wijziging #{n} wilt annuleren? Dit kan niet ongedaan worden gemaakt!"
 
 #: ../root/admin/wikidoc/delete.tt:4
 #, perl-format
@@ -1578,7 +1578,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the release {release} from MusicBrainz?"
-msgstr ""
+msgstr "Weet u zeker dat u de uitgave {release} wilt verwijderen van MusicBrainz?"
 
 #: DB:country/name:10
 msgid "Argentina"
@@ -1586,7 +1586,7 @@ msgstr ""
 
 #: DB:work_type/name:1
 msgid "Aria"
-msgstr ""
+msgstr "Aria"
 
 #: DB:country/name:11
 msgid "Armenia"
@@ -1741,7 +1741,7 @@ msgstr "Informatie over de artiest"
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
 msgid "Artist name:"
-msgstr ""
+msgstr "Artiestennaam:"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -1751,17 +1751,17 @@ msgstr "Artiestwaarderingen"
 #: ../root/cdstub/edit.tt:67
 #, perl-format
 msgid "Artist {n}:"
-msgstr ""
+msgstr "Artiest {n}:"
 
 #: ../root/statistics/index.tt:566
 #, perl-format
 msgid "Artist-Artist:"
-msgstr ""
+msgstr "Artiest-Artiest:"
 
 #: ../root/statistics/index.tt:572
 #, perl-format
 msgid "Artist-Label:"
-msgstr ""
+msgstr "Artiest-Platenmaatschappij:"
 
 #: ../root/statistics/index.tt:578
 #, perl-format
@@ -1771,17 +1771,17 @@ msgstr "Artiest-Opname:"
 #: ../root/statistics/index.tt:590
 #, perl-format
 msgid "Artist-Release Group:"
-msgstr ""
+msgstr "Artiest-Uitgavegroep:"
 
 #: ../root/statistics/index.tt:584
 #, perl-format
 msgid "Artist-Release:"
-msgstr ""
+msgstr "Artiest-Uitgave:"
 
 #: ../root/statistics/index.tt:596
 #, perl-format
 msgid "Artist-URL:"
-msgstr ""
+msgstr "Artiest-URL:"
 
 #: ../root/statistics/index.tt:602
 #, perl-format
@@ -1816,7 +1816,7 @@ msgstr "Artiest-Compositie"
 #: ../root/taglookup/form.tt:4
 #, perl-format
 msgid "Artist:"
-msgstr ""
+msgstr "Artiest:"
 
 #: ../root/artist/works-list.tt:11 ../root/otherlookup/results-work.tt:9
 #: ../root/release/edit/missing_entities.tt:37 ../root/report/index.tt:14
@@ -1826,7 +1826,7 @@ msgstr ""
 #: ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Artists"
-msgstr ""
+msgstr "Artiesten"
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:1
 #: ../root/report/artists_containing_disambiguation_comments.tt:3
@@ -1848,25 +1848,25 @@ msgstr ""
 #: ../root/browse/artist.tt:8
 #, perl-format
 msgid "Artists starting with “{index}”"
-msgstr ""
+msgstr "Artiestennamen die beginnen met \"{index}\""
 
 #: ../root/report/possible_collaborations.tt:1
 #: ../root/report/possible_collaborations.tt:3
 #, perl-format
 msgid "Artists that may be collaborations"
-msgstr ""
+msgstr "Artiesten die samenwerkingen zouden kunnen zijn"
 
 #: ../root/report/artists_that_may_be_groups.tt:1
 #: ../root/report/artists_that_may_be_groups.tt:3 ../root/report/index.tt:17
 #, perl-format
 msgid "Artists that may be groups"
-msgstr ""
+msgstr "Artiesten die groepen zouden kunnen zijn"
 
 #: ../root/report/artists_that_may_be_persons.tt:1
 #: ../root/report/artists_that_may_be_persons.tt:3 ../root/report/index.tt:18
 #, perl-format
 msgid "Artists that may be persons"
-msgstr ""
+msgstr "Artiesten die één enkel persoon zouden kunnen zijn"
 
 #: ../root/report/index.tt:20
 #, perl-format
@@ -1876,7 +1876,7 @@ msgstr ""
 #: ../root/report/index.tt:21
 #, perl-format
 msgid "Artists which look like collaborations"
-msgstr ""
+msgstr "Artiesten die samenwerkingen lijken te zijn"
 
 #: ../root/report/collaboration_relationships.tt:1
 #: ../root/report/collaboration_relationships.tt:3
@@ -2020,7 +2020,7 @@ msgstr ""
 
 #: DB:release_group_type/name:8
 msgid "Audiobook"
-msgstr ""
+msgstr "Luisterboek"
 
 #: DB:country/name:13
 msgid "Australia"
@@ -2075,7 +2075,7 @@ msgstr "Autoredacteuren zijn vertrouwde gebruikers die {url|autoredacteur} privi
 #: ../root/user/profile.tt:120
 #, perl-format
 msgid "Auto-edits"
-msgstr ""
+msgstr "Automatische wijzigingen"
 
 #: ../root/account/preferences.tt:49
 #, perl-format
@@ -2144,7 +2144,7 @@ msgstr "Achtergrondvocaal"
 #: ../root/report/bad_amazon_urls.tt:1 ../root/report/bad_amazon_urls.tt:3
 #, perl-format
 msgid "Bad Amazon URLs"
-msgstr ""
+msgstr "Slechte Amazon-URL's"
 
 #: ../root/main/400.tt:1 ../root/main/400.tt:3
 #, perl-format
@@ -2211,12 +2211,12 @@ msgstr ""
 #: DB:link_attribute_type/description:476
 #, perl-format
 msgid "Bandura, modern day Ukraininan zither"
-msgstr ""
+msgstr "Bandura, moderne Oekraïense citer"
 
 #: DB:link_attribute_type/description:475
 #, perl-format
 msgid "Bandura, ukrainian 14th century lute"
-msgstr ""
+msgstr "Bandura, Oekraïense luit uit de veertiende eeuw"
 
 #: DB:country/name:18
 msgid "Bangladesh"
@@ -2225,7 +2225,7 @@ msgstr ""
 #: DB:link_attribute_type/description:479
 #, perl-format
 msgid "Banjitar, Guitjo or Ganjo, http://en.wikipedia.org/wiki/Guitjo"
-msgstr ""
+msgstr "Banjitar, Guitjo of Ganjo, http://en.wikipedia.org/wiki/Guitjo"
 
 #: DB:link_attribute_type/description:251
 #, perl-format
@@ -2319,7 +2319,7 @@ msgstr ""
 #: DB:link_attribute_type/description:365
 #, perl-format
 msgid "Bass recorder / F-bass recorder (Bassblockflöte)"
-msgstr ""
+msgstr "Basblokfluit"
 
 #: DB:script/name:145
 msgid "Bassa Vah"
@@ -2336,7 +2336,7 @@ msgstr ""
 #: DB:link_attribute_type/name:550
 #, perl-format
 msgid "Batá drum"
-msgstr ""
+msgstr "Batátrommel"
 
 #: ../root/artist/subscribers.tt:30 ../root/label/subscribers.tt:30
 #: ../root/user/subscribers.tt:35
@@ -2489,7 +2489,7 @@ msgstr ""
 #: ../root/user/profile.tt:93
 #, perl-format
 msgid "Bio:"
-msgstr ""
+msgstr "Biografie:"
 
 #: DB:language/name:53
 msgid "Bislama"
@@ -2515,7 +2515,7 @@ msgstr ""
 
 #: DB:medium_format/name:20
 msgid "Blu-ray"
-msgstr ""
+msgstr "Blu-ray"
 
 #: DB:link_attribute_type/description:504
 #, perl-format
@@ -2536,7 +2536,7 @@ msgstr ""
 
 #: DB:release_status/name:3
 msgid "Bootleg"
-msgstr ""
+msgstr "Bootleg"
 
 #: DB:label_type/name:5
 msgid "Bootleg Production"
@@ -2550,7 +2550,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
 msgid "Born:"
-msgstr ""
+msgstr "Geboren:"
 
 #: DB:country/name:27
 msgid "Bosnia and Herzegovina"
@@ -2718,12 +2718,12 @@ msgstr "Cd"
 #: ../root/release/lookup.tt:1
 #, perl-format
 msgid "CD Lookup"
-msgstr ""
+msgstr "Cd opzoeken"
 
 #: ../root/release/lookup.tt:2
 #, perl-format
 msgid "CD Lookup results"
-msgstr ""
+msgstr "Cd opzoekresultaten"
 
 #: ../root/cdtoc/lookup.tt:82
 #, perl-format
@@ -2937,7 +2937,7 @@ msgstr "Kan niet wijzigen"
 
 #: DB:work_type/name:3
 msgid "Cantata"
-msgstr ""
+msgstr "Cantate"
 
 #: DB:country/name:39
 msgid "Cape Verde"
@@ -2945,7 +2945,7 @@ msgstr ""
 
 #: DB:release_packaging/name:4
 msgid "Cardboard/Paper Sleeve"
-msgstr ""
+msgstr "Kartonnnen / papieren hoes"
 
 #: DB:script/name:108
 msgid "Carian"
@@ -2953,7 +2953,7 @@ msgstr ""
 
 #: DB:medium_format/name:9
 msgid "Cartridge"
-msgstr ""
+msgstr "4- of 8-sporencassette"
 
 #: DB:medium_format/name:8
 msgid "Cassette"
@@ -3179,7 +3179,7 @@ msgstr ""
 #: DB:link_attribute_type/description:290
 #, perl-format
 msgid "Chinese double bass"
-msgstr ""
+msgstr "Chinese cotrabas"
 
 #: DB:link_attribute_type/description:287
 #, perl-format
@@ -3294,12 +3294,12 @@ msgstr ""
 #: ../root/edit/search_macros.tt:279
 #, perl-format
 msgid "Closed"
-msgstr ""
+msgstr "Afgesloten"
 
 #: ../root/edit/info.tt:42
 #, perl-format
 msgid "Closed:"
-msgstr ""
+msgstr "Afgesloten:"
 
 #: DB:country/name:46
 msgid "Cocos (Keeling) Islands"
@@ -3344,7 +3344,7 @@ msgstr "Samenwerker"
 #: ../root/release/edit/tracklist.tt:363
 #, perl-format
 msgid "Collapse Disc"
-msgstr ""
+msgstr "Plaat inklappen"
 
 #: ../root/relationship/linktype/tree.tt:49
 #, perl-format
@@ -3402,7 +3402,7 @@ msgstr ""
 #: ../root/annotation/history.tt:38
 #, perl-format
 msgid "Compare versions"
-msgstr ""
+msgstr "Vergelijk versies"
 
 #: ../root/annotation/diff.tt:10
 #, perl-format
@@ -3413,7 +3413,7 @@ msgstr "Vergelijk revisie door {user_old} op {date_old} met revisie {user_new} o
 
 #: DB:release_group_type/name:4
 msgid "Compilation"
-msgstr ""
+msgstr "Compilatie"
 
 #: DB:link_attribute_type/description:499
 #, perl-format
@@ -3424,7 +3424,7 @@ msgstr ""
 
 #: DB:work_type/name:4
 msgid "Concerto"
-msgstr ""
+msgstr "Concerto"
 
 #: DB:link_attribute_type/description:205
 #, perl-format
