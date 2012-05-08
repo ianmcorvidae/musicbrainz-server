@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-08 01:49+0000\n"
+"PO-Revision-Date: 2012-05-08 02:24+0000\n"
 "Last-Translator: Marco Tulio Costa <email address hidden>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.net/projects/p/musicbrainz/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -155,7 +155,7 @@ msgstr "(sem changelog)"
 #: ../root/release/add_cover_art.tt:26
 #, perl-format
 msgid "(no other cover art)"
-msgstr ""
+msgstr "(nenhuma outra capa)"
 
 #: ../root/edit/details/add_relationship_type.tt:9
 #: ../root/edit/details/historic/add_release_annotation.tt:21
@@ -655,7 +655,7 @@ msgstr ""
 #: ../root/release/cover_art.tt:49
 #, perl-format
 msgid "Add Cover Art"
-msgstr ""
+msgstr "Adicionar Capa"
 
 #: ../root/release/edit/tracklist.tt:167 ../root/release/edit/tracklist.tt:293
 #: ../root/release/edit/tracklist.tt:485
@@ -851,7 +851,7 @@ msgstr "Adionar nova gravação"
 #: ../root/edit/index.tt:86
 #, perl-format
 msgid "Add note and votes"
-msgstr ""
+msgstr "Adicionar nota e votos"
 
 #: ../root/artist/layout.tt:67
 #, perl-format
@@ -1418,7 +1418,7 @@ msgstr "Aprovar edição"
 #: ../root/statistics/index.tt:510
 #, perl-format
 msgid "Approve:"
-msgstr ""
+msgstr "Aprovação:"
 
 #: DB:language/name:18 DB:script/name:18
 msgid "Arabic"
@@ -1727,7 +1727,7 @@ msgstr "Artista como creditado nesta faixa"
 #: ../root/components/filter-form.tt:11
 #, perl-format
 msgid "Artist credit:"
-msgstr ""
+msgstr "Artistas creditados:"
 
 #: ../root/edit/details/edit_medium.tt:212
 #, perl-format
@@ -2923,7 +2923,7 @@ msgstr "Candidato:"
 #: ../root/release/cover_art.tt:55
 #, perl-format
 msgid "Cannot Add Cover Art"
-msgstr ""
+msgstr "Não Foi Possível Adicionar Capa"
 
 #: ../root/edit/relationship/cannot_create.tt:1
 #: ../root/edit/relationship/cannot_create.tt:2
@@ -3212,7 +3212,7 @@ msgstr ""
 #: ../root/release/cover_art_uploader.tt:15
 #, perl-format
 msgid "Choose file:"
-msgstr ""
+msgstr "Escolha o arquivo:"
 
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
@@ -3394,12 +3394,12 @@ msgstr "Colômbia"
 #: ../root/release/cover_art_fields.tt:10
 #, perl-format
 msgid "Comment:"
-msgstr ""
+msgstr "Comentário:"
 
 #: ../root/main/index.tt:86
 #, perl-format
 msgid "Community"
-msgstr ""
+msgstr "Comunidade"
 
 #: DB:country/name:48
 msgid "Comoros"
@@ -3946,7 +3946,7 @@ msgstr ""
 #: ../root/edit/details/macros.tt:82
 #, perl-format
 msgid "Cover art:"
-msgstr ""
+msgstr "Capa:"
 
 #: ../root/admin/wikidoc/create.tt:12
 #, perl-format
@@ -3973,7 +3973,7 @@ msgstr "Criar uma nova coleção"
 #: ../root/relationship/linkattributetype/instruments.tt:8
 #, perl-format
 msgid "Create a new instrument"
-msgstr ""
+msgstr "Criar novo instrumento"
 
 #: ../root/relationship/linkattributetype/index.tt:8
 #, perl-format
@@ -4478,7 +4478,7 @@ msgstr "Recursos de Desenvolvedor"
 #: ../root/main/index.tt:102
 #, perl-format
 msgid "Developers"
-msgstr ""
+msgstr "Desenvolvedores"
 
 #: ../root/layout/menu.tt:227
 #, perl-format
@@ -4603,7 +4603,7 @@ msgstr "Disco {num}:{title}"
 #: ../root/artist/index.tt:46
 #, perl-format
 msgid "Discography"
-msgstr ""
+msgstr "Discografia"
 
 #: DB:link_type/link_phrase:76 DB:link_type/link_phrase:180
 #: DB:link_type/link_phrase:217 DB:link_type/link_phrase:90
@@ -4874,7 +4874,7 @@ msgstr "Editar Coleção"
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
 msgid "Edit Cover Art"
-msgstr ""
+msgstr "Editar Capa"
 
 #: ../root/statistics/view_js.tt:26
 #, perl-format
@@ -4884,7 +4884,7 @@ msgstr "Editar Informação"
 #: ../root/layout/menu.tt:58
 #, perl-format
 msgid "Edit Instrument Tree"
-msgstr ""
+msgstr "Editar Árvore de Instrumentos"
 
 #: ../root/label/edit.tt:15
 #, perl-format
@@ -5393,7 +5393,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:181
 #, perl-format
 msgid "Enter a tracklist below:"
-msgstr ""
+msgstr "Digite uma faixa abaixo:"
 
 #: ../root/components/forms.tt:24 ../root/release/add_cover_art.tt:59
 #: ../root/release/edit/editnote.tt:42
@@ -5547,7 +5547,7 @@ msgstr "Expandir Disco"
 #: ../root/relationship/linktype/tree.tt:48
 #, perl-format
 msgid "Expand all descriptions"
-msgstr ""
+msgstr "Expandir todas as descrições"
 
 #: ../root/doc/edit_type.tt:55
 #, perl-format
@@ -5853,7 +5853,7 @@ msgstr "França"
 #: ../root/freedb/not_found.tt:1 ../root/freedb/not_found.tt:2
 #, perl-format
 msgid "FreeDB Entry Not Found"
-msgstr ""
+msgstr "Registro FreeDB Não Encontrado"
 
 #: ../root/layout/menu.tt:148
 #, perl-format
@@ -6901,12 +6901,12 @@ msgstr "Username ou senha incorreto"
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:50
 #, perl-format
 msgid "Indexed search"
-msgstr ""
+msgstr "Pesquisa indexada"
 
 #: ../root/search/form.tt:29
 #, perl-format
 msgid "Indexed search with {doc|advanced query syntax}"
-msgstr ""
+msgstr "Pesquisa indexada com {doc|advanced query syntax}"
 
 #: DB:country/name:99
 msgid "India"
@@ -9533,12 +9533,12 @@ msgstr "Mover release para outro grupo de release"
 #: ../root/release/edit/tracklist.tt:309
 #, perl-format
 msgid "Move track down"
-msgstr ""
+msgstr "Mover faixa para baixo"
 
 #: ../root/release/edit/tracklist.tt:312
 #, perl-format
 msgid "Move track up"
-msgstr ""
+msgstr "Mover faixa para cima"
 
 #: ../root/edit/details/move_release.tt:14
 #, perl-format
@@ -9565,7 +9565,7 @@ msgstr "MusicBrainz - A Enciclopedia Livre de Música"
 #: ../root/main/index.tt:5
 #, perl-format
 msgid "MusicBrainz Blog"
-msgstr ""
+msgstr "Blog do MusicBrainz"
 
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
@@ -9954,7 +9954,7 @@ msgstr "Nova posição:"
 #: ../root/edit/details/reorder_cover_art.tt:22
 #, perl-format
 msgid "New positions:"
-msgstr ""
+msgstr "Novas posições:"
 
 #: ../root/edit/details/edit_medium.tt:191
 #, perl-format
@@ -10055,7 +10055,7 @@ msgstr "Nenhuma coleção com esta marcação foi encontrada."
 #: ../root/release/sidebar.tt:5 ../root/release/sidebar.tt:10
 #, perl-format
 msgid "No cover art available."
-msgstr ""
+msgstr "Nenhuma capa disponível."
 
 #: ../root/edit/notes.tt:29
 #, perl-format
@@ -10075,12 +10075,12 @@ msgstr "Nenhuma eleição encontrada."
 #: ../root/release/sidebar.tt:7
 #, perl-format
 msgid "No front cover image available.<br/>{all|View all artwork}."
-msgstr ""
+msgstr "Nenhuma capa de frente disponível.<br/>{all|View all artwork}."
 
 #: ../root/relationship/linkattributetype/instruments.tt:31
 #, perl-format
 msgid "No instruments found."
-msgstr ""
+msgstr "Nenhum instrumento encontrado."
 
 #: ../root/tag/label.tt:1
 #, perl-format
@@ -10455,7 +10455,7 @@ msgstr ""
 #: ../root/edit/details/reorder_cover_art.tt:10
 #, perl-format
 msgid "Old positions:"
-msgstr ""
+msgstr "Posições antigas:"
 
 #: ../root/edit/details/edit_medium.tt:190
 #, perl-format
@@ -11260,7 +11260,7 @@ msgstr "Por favor {log_in|faça login} para editar este release"
 
 #: DB:work_type/name:21
 msgid "Poem"
-msgstr ""
+msgstr "Poema"
 
 #: DB:language/name:339
 msgid "Pohnpeian"
@@ -11549,7 +11549,7 @@ msgstr "Pergunta:"
 #: ../root/main/index.tt:30
 #, perl-format
 msgid "Quick Start"
-msgstr ""
+msgstr "Guia Rápido"
 
 #: ../root/edit/list_header.tt:4
 #, perl-format
@@ -11627,7 +11627,7 @@ msgstr "Avaliações e Marcações"
 #: ../root/main/index.tt:14
 #, perl-format
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Leia mais &raquo;"
 
 #: ../root/admin/wikidoc/index.tt:56
 #, perl-format
@@ -12578,7 +12578,7 @@ msgstr ""
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr ""
+msgstr "Remover Capa"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
@@ -12741,7 +12741,7 @@ msgstr ""
 #: ../root/release/reorder_cover_art.tt:6
 #, perl-format
 msgid "Reorder Cover Art"
-msgstr ""
+msgstr "Reordenar Capas"
 
 #: ../root/layout/menu.tt:244
 #, perl-format
@@ -13123,7 +13123,7 @@ msgstr ""
 #: ../root/cdtoc/attach_filter_artist.tt:3
 #, perl-format
 msgid "Search for an artist"
-msgstr ""
+msgstr "Pesquisar por um artista"
 
 #: ../root/edit/list_header.tt:8
 #, perl-format
@@ -13153,7 +13153,7 @@ msgstr ""
 #: ../root/search/form.tt:20
 #, perl-format
 msgid "Search method:"
-msgstr ""
+msgstr "Método de pesquisa:"
 
 #: ../root/cdstub/layout.tt:33
 #, perl-format
@@ -13340,12 +13340,12 @@ msgstr "Mostrar Créditos"
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
 msgid "Show less..."
-msgstr ""
+msgstr "Exibir menos.."
 
 #: ../root/scripts/text_strings.tt:87
 #, perl-format
 msgid "Show more..."
-msgstr ""
+msgstr "Exibir mais.."
 
 #: ../root/artist/index.tt:122
 #, perl-format
@@ -15736,7 +15736,7 @@ msgstr ""
 #: ../root/release/add_cover_art.tt:9
 #, perl-format
 msgid "This page requires JavaScript."
-msgstr ""
+msgstr "Esta página requer JavaScript."
 
 #: ../root/recording/delete.tt:17
 #, perl-format
@@ -17232,7 +17232,7 @@ msgstr ""
 
 #: DB:country/name:228
 msgid "Venezuela, Bolivarian Republic of"
-msgstr ""
+msgstr "Venezuela, República Bolivariana da"
 
 #: DB:link_attribute_type/description:503
 #, perl-format
@@ -18434,7 +18434,7 @@ msgstr ""
 #: DB:link_attribute_type/name:597
 #, perl-format
 msgid "agogô"
-msgstr ""
+msgstr "agogô"
 
 #: DB:link_attribute_type/description:540
 #, perl-format
@@ -19025,7 +19025,7 @@ msgstr ""
 #: DB:link_attribute_type/name:599
 #, perl-format
 msgid "caxixi"
-msgstr ""
+msgstr "caxixi"
 
 #: DB:link_attribute_type/description:172 DB:link_attribute_type/name:172
 #, perl-format
@@ -19394,7 +19394,7 @@ msgstr ""
 #: DB:link_attribute_type/name:602
 #, perl-format
 msgid "daegeum"
-msgstr ""
+msgstr "daegeum"
 
 #: DB:link_attribute_type/name:403
 #, perl-format
@@ -21088,7 +21088,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:17
 #, perl-format
 msgid "newest first"
-msgstr ""
+msgstr "recentes primeiro"
 
 #: DB:link_attribute_type/name:603
 #, perl-format
@@ -21175,7 +21175,7 @@ msgstr "páginas oficiais"
 #: ../root/edit/search_macros.tt:18
 #, perl-format
 msgid "oldest first"
-msgstr ""
+msgstr "antigos primeiro"
 
 #: DB:link_attribute_type/description:352 DB:link_attribute_type/name:352
 #, perl-format
@@ -21427,7 +21427,7 @@ msgstr "orgão de tubos"
 #: DB:link_attribute_type/name:609
 #, perl-format
 msgid "piri"
-msgstr ""
+msgstr "piri"
 
 #: DB:link_attribute_type/description:302 DB:link_attribute_type/name:302
 #, perl-format
@@ -21616,7 +21616,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:19
 #, perl-format
 msgid "randomly"
-msgstr ""
+msgstr "aleatoriamente"
 
 #: DB:link_attribute_type/description:211 DB:link_attribute_type/name:211
 #, perl-format
@@ -21904,7 +21904,7 @@ msgstr ""
 #: DB:link_attribute_type/name:604
 #, perl-format
 msgid "shehnai"
-msgstr ""
+msgstr "shehnai"
 
 #: DB:link_attribute_type/name:462
 #, perl-format
@@ -22582,12 +22582,12 @@ msgstr "vídeo"
 #: DB:link_type/link_phrase:303 DB:link_type/link_phrase:304
 #, perl-format
 msgid "video channel"
-msgstr ""
+msgstr "canal de vídeo"
 
 #: DB:link_type/reverse_link_phrase:303 DB:link_type/reverse_link_phrase:304
 #, perl-format
 msgid "video channel for"
-msgstr ""
+msgstr "canal de vídeo para"
 
 #: DB:link_attribute_type/name:116
 #, perl-format
@@ -22749,7 +22749,7 @@ msgstr ""
 #: DB:link_attribute_type/name:607
 #, perl-format
 msgid "wind chime"
-msgstr ""
+msgstr "sino de vento"
 
 #: DB:link_attribute_type/description:15 DB:link_attribute_type/name:15
 #, perl-format
@@ -23312,7 +23312,7 @@ msgstr ""
 #: ../root/release/collections.tt:10
 #, perl-format
 msgid "{collection} by {owner}"
-msgstr ""
+msgstr "{collection} por {owner}"
 
 #: ../root/statistics/view_js.tt:80
 #, perl-format
@@ -23556,12 +23556,12 @@ msgstr ""
 #: DB:link_type/link_phrase:278
 #, perl-format
 msgid "{partial} {live} {instrumental} {cover} recording of"
-msgstr ""
+msgstr "{partial} {live} {instrumental} {cover} gravações de"
 
 #: DB:link_type/reverse_link_phrase:278
 #, perl-format
 msgid "{partial} {live} {instrumental} {cover} recordings"
-msgstr ""
+msgstr "{partial} {live} {instrumental} {cover} gravações"
 
 #: ../root/user/profile.tt:162 ../root/user/profile.tt:166
 #, perl-format
