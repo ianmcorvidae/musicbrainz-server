@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-08 12:45+0000\n"
+"PO-Revision-Date: 2012-05-08 13:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -928,17 +928,17 @@ msgstr ""
 #: ../root/edit/details/edit_release_events.tt:16
 #, perl-format
 msgid "Added"
-msgstr ""
+msgstr "Toegevoegd"
 
 #: ../root/cdstub/browse.tt:24
 #, perl-format
 msgid "Added {add}, last modified {lastmod}"
-msgstr ""
+msgstr "Toegevoegd op {add}, het laatst gewijzigd op {lastmod}"
 
 #: ../root/cdstub/layout.tt:7
 #, perl-format
 msgid "Added:"
-msgstr ""
+msgstr "Toegevoegd:"
 
 #: ../root/release/sidebar.tt:30
 #, perl-format
@@ -3653,7 +3653,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:142
 #, perl-format
 msgid "Count of all PUIDs with {n} Recordings"
-msgstr ""
+msgstr "Totaal aantal PUID' met {n} opnames"
 
 #: ../root/statistics/view_js.tt:155
 #, perl-format
@@ -3668,7 +3668,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:158
 #, perl-format
 msgid "Count of all Recording Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen van opnames"
 
 #: ../root/statistics/view_js.tt:164
 #, perl-format
@@ -3683,17 +3683,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:137
 #, perl-format
 msgid "Count of all Recordings with ISRCs"
-msgstr ""
+msgstr "Totaal aantal opnames met ISRC's"
 
 #: ../root/statistics/view_js.tt:136
 #, perl-format
 msgid "Count of all Recordings with PUIDs"
-msgstr ""
+msgstr "Totaal aantal opnames met PUID's"
 
 #: ../root/statistics/view_js.tt:143
 #, perl-format
 msgid "Count of all Recordings with {n} PUIDs"
-msgstr ""
+msgstr "Totaal aantal opnames met {n} PUID's"
 
 #: ../root/statistics/view_js.tt:144
 #, perl-format
@@ -3838,7 +3838,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:42
 #, perl-format
 msgid "Count of all recordings"
-msgstr ""
+msgstr "Totaal aantal opnames"
 
 #: ../root/statistics/view_js.tt:46
 #, perl-format
@@ -4292,7 +4292,7 @@ msgstr ""
 #: ../root/statistics/layout.tt:12 ../root/statistics/layout.tt:24
 #, perl-format
 msgid "Database Statistics"
-msgstr ""
+msgstr "Statistieken over de gegevensbank"
 
 #: ../root/annotation/history.tt:9 ../root/artist/relationships.tt:13
 #: ../root/cdtoc/attach_artist_releases.tt:36 ../root/cdtoc/list.tt:8
@@ -5521,7 +5521,7 @@ msgstr ""
 #: ../root/statistics/timeline.tt:82
 #, perl-format
 msgid "Exact Values (items vs. day)"
-msgstr ""
+msgstr "Exacte waardes (objecten tegen dag)"
 
 #: ../root/release/edit/tracklist.tt:173
 #, perl-format
@@ -5556,19 +5556,19 @@ msgstr ""
 #: ../root/components/common-macros.tt:520
 #, perl-format
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{days}</span>"
-msgstr ""
+msgstr "Verloopt over <span class=\"tooltip\" title=\"{exactdate}\">{days}</span>"
 
 #: ../root/components/common-macros.tt:525
 #, perl-format
 msgid ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{hours}, "
 "{minutes}</span>"
-msgstr ""
+msgstr "Verloopt over <span class=\"tooltip\" title=\"{exactdate}\">{hours}, {minutes}</span>"
 
 #: ../root/components/common-macros.tt:532
 #, perl-format
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>"
-msgstr ""
+msgstr "Verloopt over <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:30
 #, perl-format
@@ -6541,12 +6541,12 @@ msgstr ""
 #: ../root/edit/details/add_isrcs.tt:8
 #, perl-format
 msgid "ISRC {isrc} to {recording}"
-msgstr ""
+msgstr "ISRC {isrc} naar {recording}"
 
 #: ../root/edit/details/add_isrcs.tt:8
 #, perl-format
 msgid "ISRC {isrc} to {recording} by {artist}"
-msgstr ""
+msgstr "ISRC {isrc} naar {recording} van {artist}"
 
 #: ../root/isrc/index.tt:1 ../root/isrc/index.tt:3
 #, perl-format
@@ -11652,12 +11652,12 @@ msgstr ""
 #: ../root/recording/not_found.tt:1 ../root/recording/not_found.tt:2
 #, perl-format
 msgid "Recording Not Found"
-msgstr ""
+msgstr "Opname niet gevonden"
 
 #: ../root/statistics/view_js.tt:158
 #, perl-format
 msgid "Recording Ratings"
-msgstr ""
+msgstr "Waarderingen van de opname"
 
 #: ../root/statistics/view_js.tt:164
 #, perl-format
@@ -11672,7 +11672,7 @@ msgstr ""
 #: ../root/recording/edits.tt:20 ../root/recording/header.tt:16
 #, perl-format
 msgid "Recording by {artist}"
-msgstr ""
+msgstr "Opname van {artist}"
 
 #: ../root/recording/layout.tt:8
 #, perl-format
@@ -11682,7 +11682,7 @@ msgstr ""
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Recording ratings"
-msgstr ""
+msgstr "Waarderingen van de opname"
 
 #: ../root/recording/layout.tt:1
 #, perl-format
@@ -11692,7 +11692,7 @@ msgstr "Opname \"{name}\" door {artist}"
 #: ../root/statistics/index.tt:644
 #, perl-format
 msgid "Recording-Recording:"
-msgstr ""
+msgstr "Opname-Opname:"
 
 #: ../root/statistics/index.tt:656
 #, perl-format
@@ -11707,12 +11707,12 @@ msgstr "Opname-Uitgave:"
 #: ../root/statistics/index.tt:662
 #, perl-format
 msgid "Recording-URL:"
-msgstr ""
+msgstr "Opname-URl:"
 
 #: ../root/statistics/index.tt:668
 #, perl-format
 msgid "Recording-Work:"
-msgstr ""
+msgstr "Opname-Compositie:"
 
 #: ../root/components/common-macros.tt:415
 #: ../root/edit/details/add_recording_annotation.tt:3
@@ -11726,7 +11726,7 @@ msgstr ""
 #: ../root/edit/details/remove_recording.tt:3
 #, perl-format
 msgid "Recording:"
-msgstr ""
+msgstr "Opname:"
 
 #: ../root/artist/header.tt:1 ../root/artist/recordings.tt:1
 #: ../root/artist/recordings.tt:4 ../root/report/index.tt:61
@@ -11740,19 +11740,19 @@ msgstr "Opnames"
 #: ../root/statistics/index.tt:330
 #, perl-format
 msgid "Recordings and PUIDs"
-msgstr ""
+msgstr "Opnames en PUID's"
 
 #: ../root/artist/browse_various_recordings.tt:5
 #, perl-format
 msgid "Recordings starting with “{index}”"
-msgstr ""
+msgstr "Opnames waarvan de naam beginnen met \"{index}\""
 
 #: ../root/statistics/view_js.tt:143
 #, perl-format
 msgid "Recordings with 1 PUID"
 msgid_plural "Recordings with {n} PUIDs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Opnames met één PUID"
+msgstr[1] "Opnames met {n} PUID's"
 
 #: ../root/statistics/view_js.tt:144
 #, perl-format
@@ -11770,17 +11770,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:137
 #, perl-format
 msgid "Recordings with ISRCs"
-msgstr ""
+msgstr "Opnames met ISRC's"
 
 #: ../root/statistics/view_js.tt:136
 #, perl-format
 msgid "Recordings with PUIDs"
-msgstr ""
+msgstr "Opnames met PUID's"
 
 #: ../root/statistics/index.tt:347
 #, perl-format
 msgid "Recordings with at least one PUID:"
-msgstr ""
+msgstr "Opnames met ten minste één PUID:"
 
 #: ../root/report/index.tt:64
 #, perl-format
@@ -11796,7 +11796,7 @@ msgstr "Opnames zonder PUID's"
 #: ../root/report/featuring_recordings.tt:3 ../root/report/index.tt:66
 #, perl-format
 msgid "Recordings with titles containing featuring artists"
-msgstr ""
+msgstr "Titels van opnames met deelnemende artiesten"
 
 #: ../root/edit/details/edit_medium.tt:184
 #: ../root/edit/relationship/create_batch.tt:46 ../root/statistics/index.tt:31
@@ -12083,7 +12083,7 @@ msgstr ""
 #: ../root/statistics/index.tt:698
 #, perl-format
 msgid "Release Group-Release Group:"
-msgstr "Uitgavegroep:Uitgavegroep"
+msgstr "Uitgavegroep-Uitgavegroep"
 
 #: ../root/statistics/index.tt:704
 #, perl-format
@@ -12609,7 +12609,7 @@ msgstr "Verwijder pagina"
 #: ../root/recording/delete.tt:2
 #, perl-format
 msgid "Remove Recording"
-msgstr ""
+msgstr "Verwijder opname"
 
 #: ../root/edit/relationship/delete.tt:1 ../root/edit/relationship/delete.tt:3
 #, perl-format
@@ -13547,7 +13547,7 @@ msgstr ""
 msgid ""
 "Some tracks were changed, please select a recording for each of these "
 "tracks."
-msgstr ""
+msgstr "Sommige nummers zijn veranderd, selecteer een opname voor elk van deze nummers."
 
 #: DB:work_type/name:5
 msgid "Sonata"
@@ -14269,7 +14269,7 @@ msgstr ""
 #: ../root/recording/layout.tt:26 ../root/recording/tags.tt:3
 #, perl-format
 msgid "Tag this recording"
-msgstr ""
+msgstr "Etiketteer deze opname"
 
 #: ../root/release/tags.tt:3
 #, perl-format
@@ -15474,7 +15474,7 @@ msgstr ""
 #: DB:link_attribute_type/description:578
 #, perl-format
 msgid "This indicates that the recording is of a live performance."
-msgstr ""
+msgstr "Dit geeft aan dat de opname van een liveoptreden is."
 
 #: DB:link_attribute_type/description:545
 #, perl-format
@@ -21647,12 +21647,12 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:98 DB:link_type/reverse_link_phrase:260
 #, perl-format
 msgid "recording studio"
-msgstr ""
+msgstr "opnamestudio"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "recordings"
-msgstr ""
+msgstr "opnames"
 
 #: DB:link_attribute_type/description:274 DB:link_attribute_type/name:274
 #, perl-format
@@ -23572,13 +23572,13 @@ msgstr ""
 #, perl-format
 msgid "{release} has been added to {num} collection:"
 msgid_plural "{release} has been added to {num} collections:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{release} is toegevoegd aan {num} collectie:"
+msgstr[1] "{release} is toegevoegd aan {num} collecties:"
 
 #: ../root/release/collections.tt:23
 #, perl-format
 msgid "{release} has not been added to any collections."
-msgstr ""
+msgstr "{release} is niet toegevoegd aan collecties."
 
 #: ../root/statistics/view_js.tt:87
 #, perl-format
