@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-08 13:59+0000\n"
+"PO-Revision-Date: 2012-05-08 14:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -719,7 +719,7 @@ msgstr ""
 #: ../root/layout/menu.tt:188
 #, perl-format
 msgid "Add Various Artists Release"
-msgstr "Voeg een uitgave toe voor verschillende artiesten"
+msgstr "Voeg een uitgave toe voor diverse artiesten"
 
 #: ../root/layout/menu.tt:194 ../root/work/create.tt:15
 #: ../root/work/create.tt:16
@@ -990,7 +990,7 @@ msgstr "Afar, Hamitisch"
 #: ../root/layout/sidebar/sidebar-affiliates.tt:7
 #, perl-format
 msgid "Affiliate links"
-msgstr ""
+msgstr "Verwijzingen naar partners"
 
 #: DB:country/name:1
 msgid "Afghanistan"
@@ -3758,7 +3758,7 @@ msgstr "Totaal aantal uitgaves met een onbekende kwaliteitsscore"
 #: ../root/statistics/view_js.tt:123
 #, perl-format
 msgid "Count of all Releases by Various Artists"
-msgstr "Totaal aantal uitgaves door verschillende artiesten"
+msgstr "Totaal aantal uitgaves door diverse artiesten"
 
 #: ../root/statistics/view_js.tt:122
 #, perl-format
@@ -3793,7 +3793,7 @@ msgstr "Totaal aantal nummers"
 #: ../root/statistics/view_js.tt:160
 #, perl-format
 msgid "Count of all Work Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen voor composities"
 
 #: ../root/statistics/view_js.tt:166
 #, perl-format
@@ -3813,7 +3813,7 @@ msgstr "Totaal aantal ja-stemmen"
 #: ../root/statistics/view_js.tt:41
 #, perl-format
 msgid "Count of all artists"
-msgstr ""
+msgstr "Totaal aantal artiesten"
 
 #: ../root/statistics/view_js.tt:71
 #, perl-format
@@ -4505,7 +4505,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:52
 #, perl-format
 msgid "Direct database search"
-msgstr "Zoek direct in de gegevensbank"
+msgstr "Direct zoeken in de gegevensbank"
 
 #: ../root/cdstub/index.tt:3
 #, perl-format
@@ -6204,7 +6204,7 @@ msgstr "Guernsey"
 #: ../root/release/edit/missing_entities.tt:20
 #, perl-format
 msgid "Guess Sort Name"
-msgstr ""
+msgstr "Gok de sorteernaam"
 
 #: ../root/components/forms.tt:130 ../root/components/forms.tt:132
 #: ../root/components/forms.tt:153 ../root/release/edit/tracklist.tt:458
@@ -6635,7 +6635,7 @@ msgstr ""
 msgid ""
 "If none of these artists match the artist you intended, you can still create"
 " a new artist."
-msgstr ""
+msgstr "Als geen van deze artiesten overeenkomt met de artiest die u bedoelt, kunt u nog steeds een nieuwe artiest aanmaken."
 
 #: ../root/release/edit/missing_entities.tt:117
 #, perl-format
@@ -9245,7 +9245,7 @@ msgstr ""
 #: ../root/artist/merge.tt:1 ../root/artist/merge.tt:3
 #, perl-format
 msgid "Merge Artists"
-msgstr ""
+msgstr "Voeg artiesten samen"
 
 #: ../root/label/merge.tt:1 ../root/label/merge.tt:3
 #, perl-format
@@ -9339,7 +9339,7 @@ msgstr ""
 #: ../root/work/layout.tt:35
 #, perl-format
 msgid "Merge work"
-msgstr ""
+msgstr "Compositie samenvoegen"
 
 #: ../root/edit/details/merge_common.tt:2
 #: ../root/edit/details/merge_recordings.tt:3
@@ -11225,7 +11225,7 @@ msgstr ""
 #: ../root/components/forms.tt:184
 #, perl-format
 msgid "Please use the Sort Name button to guess the sort name."
-msgstr ""
+msgstr "Gebruik de Gok de sorteernaam-knop om de sorteernaam te gokken."
 
 #: ../root/main/503.tt:8
 #, perl-format
@@ -12266,7 +12266,7 @@ msgstr ""
 #: ../root/statistics/index.tt:692
 #, perl-format
 msgid "Release-Work:"
-msgstr ""
+msgstr "Uitgave-Compositie:"
 
 #: ../root/statistics/formats.tt:18 ../root/statistics/formats.tt:22
 #, perl-format
@@ -12308,18 +12308,18 @@ msgstr ""
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Releases"
-msgstr ""
+msgstr "Uitgaves"
 
 #: ../root/statistics/view_js.tt:123
 #, perl-format
 msgid "Releases (VA)"
-msgstr ""
+msgstr "Uitgaves (Diverse Artiesten)"
 
 #: ../root/report/tracks_named_with_sequence.tt:1
 #: ../root/report/tracks_named_with_sequence.tt:3
 #, perl-format
 msgid "Releases Where Track Names Start With Their Track Number"
-msgstr ""
+msgstr "Uitgaves waarbij de titels van de nummers beginnen met de positie"
 
 #: ../root/report/cat_no_looks_like_asin.tt:1
 #: ../root/report/cat_no_looks_like_asin.tt:3
@@ -12330,13 +12330,13 @@ msgstr "Uitgaves met catalogusnummers die eruit zien als ASIN's."
 #: ../root/report/multiple_asins.tt:1 ../root/report/multiple_asins.tt:3
 #, perl-format
 msgid "Releases With Multiple ASINs"
-msgstr ""
+msgstr "Uitgaves met meerdere ASIN's"
 
 #: ../root/report/multiple_discogs_links.tt:1
 #: ../root/report/multiple_discogs_links.tt:3
 #, perl-format
 msgid "Releases With Multiple Discogs Links"
-msgstr ""
+msgstr "Uitgaves met meerdere Discogs-verwijzingen"
 
 #: ../root/report/some_formats_unset.tt:1
 #: ../root/report/some_formats_unset.tt:3
@@ -12360,7 +12360,7 @@ msgstr ""
 #: ../root/report/released_too_early.tt:3
 #, perl-format
 msgid "Releases released too early"
-msgstr ""
+msgstr "Uitgaves die te vroeg zijn uitgegeven"
 
 #: ../root/artist/browse_various_releases.tt:5 ../root/browse/release.tt:8
 #, perl-format
@@ -12375,12 +12375,12 @@ msgstr ""
 #: ../root/report/index.tt:42
 #, perl-format
 msgid "Releases which have multiple ASINs"
-msgstr ""
+msgstr "Uitgaves met meerdere ASIN's"
 
 #: ../root/report/index.tt:43
 #, perl-format
 msgid "Releases which have multiple Discogs links"
-msgstr ""
+msgstr "Uitgaves met meerdere Discogs-verwijzingen"
 
 #: ../root/report/index.tt:46
 #, perl-format
@@ -12390,13 +12390,13 @@ msgstr ""
 #: ../root/report/index.tt:41
 #, perl-format
 msgid "Releases which have unexpected Amazon URLs"
-msgstr ""
+msgstr "Uitgaves met onverwachte Amazon URL's"
 
 #: ../root/report/index.tt:38 ../root/report/releases_to_convert.tt:1
 #: ../root/report/releases_to_convert.tt:3
 #, perl-format
 msgid "Releases which might need converting to \"multiple artists\""
-msgstr ""
+msgstr "Uitgaves die misschien moeten worden omgezet naar \"meerdere artiesten\""
 
 #: ../root/statistics/view_js.tt:140
 #, perl-format
@@ -12424,12 +12424,12 @@ msgstr ""
 #: ../root/statistics/index.tt:274
 #, perl-format
 msgid "Releases with at least one disc ID:"
-msgstr ""
+msgstr "Uitgaves met ten minste één Disc ID:"
 
 #: ../root/report/index.tt:53
 #, perl-format
 msgid "Releases with catalog numbers that look like ASINs"
-msgstr ""
+msgstr "Uitgaves met catalogusnummers die er uitzien als ASIN's"
 
 #: ../root/report/mediums_with_sequence_issues.tt:1
 #: ../root/report/mediums_with_sequence_issues.tt:3
@@ -12445,7 +12445,7 @@ msgstr ""
 #: ../root/statistics/index.tt:268
 #, perl-format
 msgid "Releases with no disc IDs:"
-msgstr ""
+msgstr "Uitgaves zonder Disc ID's:"
 
 #: ../root/statistics/view_js.tt:90
 #, perl-format
@@ -12455,7 +12455,7 @@ msgstr "Uitgaves waarbij de taal niet is ingesteld"
 #: ../root/statistics/view_js.tt:85
 #, perl-format
 msgid "Releases with no script set"
-msgstr ""
+msgstr "Uitgaves waarbij het schrift niet is ingesteld"
 
 #: ../root/report/index.tt:57
 #, perl-format
@@ -12470,13 +12470,13 @@ msgstr ""
 #: ../root/report/index.tt:49 ../root/report/superfluous_data_tracks.tt:3
 #, perl-format
 msgid "Releases with superfluous data tracks"
-msgstr ""
+msgstr "Uitgaves met overbodige gegevensnummers"
 
 #: ../root/report/featuring_releases.tt:1
 #: ../root/report/featuring_releases.tt:3 ../root/report/index.tt:50
 #, perl-format
 msgid "Releases with titles containing featuring artists"
-msgstr ""
+msgstr "Uitgaves met deelnemende artiesten in de titel"
 
 #: ../root/report/tracks_with_sequence_issues.tt:1
 #: ../root/report/tracks_with_sequence_issues.tt:3
@@ -12501,12 +12501,12 @@ msgstr "Uitgaves zonder taal"
 #: ../root/report/releases_without_script.tt:3
 #, perl-format
 msgid "Releases without script"
-msgstr ""
+msgstr "Uitgaves zonder schrift"
 
 #: ../root/statistics/index.tt:186
 #, perl-format
 msgid "Releases, Data Quality, and Disc IDs"
-msgstr ""
+msgstr "Uitgaves, Kwaliteit van gegevens en Disc ID's"
 
 #: ../root/edit/details/convert_release_to_multiple_artists.tt:3
 #: ../root/edit/details/edit_release_attributes.tt:4
@@ -12531,7 +12531,7 @@ msgstr ""
 #: ../root/statistics/index.tt:262
 #, perl-format
 msgid "Releases:"
-msgstr ""
+msgstr "Uitgaves:"
 
 #: DB:release_group_type/name:10
 msgid "Remix"
@@ -12646,7 +12646,7 @@ msgstr "Verwijder uitgavegroep"
 #: ../root/work/delete_alias.tt:1
 #, perl-format
 msgid "Remove Work Alias"
-msgstr ""
+msgstr "Verwijder de alias van deze compositie"
 
 #: ../root/collection/delete.tt:2 ../root/collection/delete.tt:7
 #, perl-format
@@ -12703,7 +12703,7 @@ msgstr ""
 #: ../root/collection/index.tt:47
 #, perl-format
 msgid "Remove selected releases from collection"
-msgstr ""
+msgstr "Verwijder de geselecteerde uitgaves uit de collectie"
 
 #: ../root/collection/layout.tt:10
 #, perl-format
@@ -13134,7 +13134,7 @@ msgstr "Zoek naar opnames"
 msgid ""
 "Search indexes are updated every 3 hours, use the direct database search if "
 "you require up to the minute correct results."
-msgstr ""
+msgstr "De zoekindices worden elke drie uur bijgewerkt. Gebruik de directe zoekopdracht in de gegevensbank als u op de minuut kloppende resultaten nodig heeft."
 
 #: ../root/taglookup/results.tt:12
 #, perl-format
@@ -13353,7 +13353,7 @@ msgstr ""
 msgid ""
 "Showing Various Artist releases. {show_subset|Show releases by this artist "
 "instead}."
-msgstr ""
+msgstr "Laat uitgaves van Diverse Artiesten zien. {show_subset|Laat in plaats hiervan uitgaves van deze artiest zien}."
 
 #: ../root/artist/recordings.tt:23
 #, perl-format
@@ -13419,7 +13419,7 @@ msgstr "Siksika"
 #: ../root/release/edit/duplicates.tt:12
 #, perl-format
 msgid "Similar releases"
-msgstr ""
+msgstr "Gelijkende uitgaves"
 
 #: DB:language/name:387
 msgid "Sindhi"
@@ -13834,17 +13834,17 @@ msgstr ""
 #: ../root/search/results-label.tt:11
 #, perl-format
 msgid "Sort Name"
-msgstr ""
+msgstr "Sorteernaam"
 
 #: ../root/release/edit/missing_entities.tt:17
 #, perl-format
 msgid "Sort Name:"
-msgstr ""
+msgstr "Sorteernaam:"
 
 #: ../root/report/duplicate_artists.tt:21
 #, perl-format
 msgid "Sort name"
-msgstr ""
+msgstr "Sorteernaam"
 
 #: ../root/artist/edit_form.tt:39 ../root/artist/layout.tt:6
 #: ../root/edit/details/add_artist.tt:14 ../root/edit/details/add_label.tt:14
@@ -13853,7 +13853,7 @@ msgstr ""
 #: ../root/label/layout.tt:6
 #, perl-format
 msgid "Sort name:"
-msgstr ""
+msgstr "Sorteernaam:"
 
 #: DB:language/name:310
 msgid "Sotho, Northern"
@@ -15173,7 +15173,7 @@ msgstr ""
 #: ../root/artist/releases.tt:18
 #, perl-format
 msgid "This artist does not have any releases"
-msgstr ""
+msgstr "Deze artiest heeft geen uitgaves"
 
 #: ../root/artist/index.tt:38
 #, perl-format
@@ -15199,17 +15199,17 @@ msgstr ""
 #: ../root/artist/works.tt:11
 #, perl-format
 msgid "This artist is not currently associated with any works."
-msgstr ""
+msgstr "Deze artiest is momenteel niet verbonden met composities."
 
 #: ../root/artist/index.tt:116
 #, perl-format
 msgid "This artist only has release groups by various artists."
-msgstr ""
+msgstr "Deze artiest heeft alleen uitgavegroepen met diverse artiesten."
 
 #: ../root/artist/releases.tt:25
 #, perl-format
 msgid "This artist only has releases by various artists."
-msgstr ""
+msgstr "Deze artiest heeft alleen uitgaves met diverse artiesten."
 
 #: DB:link_attribute_type/description:243
 #, perl-format
@@ -15555,7 +15555,7 @@ msgstr ""
 #: ../root/label/index.tt:12
 #, perl-format
 msgid "This label does not have any releases."
-msgstr ""
+msgstr "Deze platenmaatschappij heeft geen uitgaves."
 
 #: ../root/label/tags.tt:2
 #, perl-format
@@ -16117,7 +16117,7 @@ msgstr ""
 #: ../root/report/empty_release_groups.tt:6
 #, perl-format
 msgid "This report shows release groups with no releases."
-msgstr ""
+msgstr "Dit rapport toont uitgavegroepen zonder uitgaves."
 
 #: ../root/report/set_in_different_rg.tt:6
 #, perl-format
@@ -16139,22 +16139,22 @@ msgstr "Dit rapport toont uitgaves die een onwaarschijnlijke combinatie van taal
 #: ../root/report/multiple_asins.tt:6
 #, perl-format
 msgid "This report shows releases that have more than one ASIN."
-msgstr ""
+msgstr "Dit rapport laat uitgaves zien met meer dan één ASIN."
 
 #: ../root/report/multiple_discogs_links.tt:6
 #, perl-format
 msgid "This report shows releases that have more than one Discogs link."
-msgstr ""
+msgstr "Dit rapport laat uitgaves zien met meer dan één Discogs-verwijzing."
 
 #: ../root/report/releases_without_language.tt:6
 #, perl-format
 msgid "This report shows releases that have no language set."
-msgstr ""
+msgstr "Dit rapport laat uitgaves zien waarbij de taal niet is ingesteld."
 
 #: ../root/report/releases_without_script.tt:6
 #, perl-format
 msgid "This report shows releases that have no script set."
-msgstr ""
+msgstr "Dit rapport laat uitgaves zien waarbij het schrift niet is ingesteld."
 
 #: ../root/report/releases_with_cc_links.tt:6
 #, perl-format
@@ -16179,7 +16179,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "This report shows releases which have (disc n) or (bonus disc) in the title."
-msgstr ""
+msgstr "Dit rapport laat uitgaves zien die (disc n) of (bonus disc) in de titel hebben."
 
 #: ../root/report/releases_in_caa_with_cover_art_relationships.tt:7
 #, perl-format
@@ -16192,7 +16192,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "This report shows releases which have catalog numbers that look like ASINs."
-msgstr ""
+msgstr "Dit rapport laat uitgaves zien die catalogusnummers hebben die er uitzien als ASIN's"
 
 #: ../root/report/released_too_early.tt:6
 #, perl-format
@@ -16206,7 +16206,7 @@ msgstr ""
 #: ../root/report/featuring_releases.tt:6
 #, perl-format
 msgid "This report shows releases with (feat. Artist) in the title."
-msgstr ""
+msgstr "Dit rapport laat uitgaves zien met (feat. Artiest) in de titel."
 
 #: ../root/report/bad_amazon_urls.tt:6
 #, perl-format
@@ -16498,7 +16498,7 @@ msgstr ""
 #: ../root/report/unlinked_pseudo_releases.tt:7
 #, perl-format
 msgid "Total releases found: {count}"
-msgstr ""
+msgstr "Totaal aantal uitgaves gevonden: {count}"
 
 #: ../root/report/mediums_with_sequence_issues.tt:9
 #: ../root/report/superfluous_data_tracks.tt:9
@@ -16506,7 +16506,7 @@ msgstr ""
 #: ../root/report/tracks_with_sequence_issues.tt:9
 #, perl-format
 msgid "Total releases: {count}"
-msgstr ""
+msgstr "Totaal aantal uitgaves: {count}"
 
 #: ../root/cdstub/index.tt:17 ../root/cdtoc/info.tt:19
 #, perl-format
@@ -17209,7 +17209,7 @@ msgstr "Vanuatu"
 #: ../root/cdstub/browse.tt:19 ../root/cdstub/layout.tt:25
 #, perl-format
 msgid "Various Artists"
-msgstr ""
+msgstr "Diverse Artiesten"
 
 #: DB:link_attribute_type/description:343
 #, perl-format
@@ -17486,7 +17486,7 @@ msgid ""
 "Warning! \"1990-10-25\" is the bogus date that Amazon gives to all releases "
 "for which they don't know the actual date. <b>Please use this date only if "
 "you're certain this date is correct!</b>"
-msgstr ""
+msgstr "Let op! \"25 oktober 1990\" is een nepdatum die Amazon laat zien voor alle uitgaves waarvan ze de datum niet kennen. <b>Gebruik deze datum alleen als u zeker weet dat deze klopt!</b>"
 
 #: ../root/artist/edit_form.tt:18 ../root/label/edit_form.tt:15
 #, perl-format
@@ -18058,7 +18058,7 @@ msgstr ""
 #: ../root/cdtoc/attach_artist_releases.tt:25
 #, perl-format
 msgid "You are viewing releases by {artist}."
-msgstr ""
+msgstr "U bekijkt uitgaves van {artist}."
 
 #: ../root/cdtoc/lookup.tt:98
 #, perl-format
@@ -18112,12 +18112,12 @@ msgstr "U heeft geen collecties!"
 msgid ""
 "You have used the {valink|Various Artists} special purpose artist on this "
 "recording."
-msgstr ""
+msgstr "U heeft de artiest voor specifieke doeleinden {valink|Diverse Artiesten} gebruikt op deze opname."
 
 #: ../root/release/edit/tracklist.tt:132
 #, perl-format
 msgid "You have used the {valink|Various Artists} special purpose artist on:"
-msgstr ""
+msgstr "U heeft de artiest voor specifieke doeleinden {valink|Diverse Artiesten} gebruikt op:"
 
 #: ../root/edit/cancel.tt:14
 #, perl-format
@@ -18148,14 +18148,14 @@ msgstr "U moet ingelogd zijn om de stemmen op wijzigingen"
 msgid ""
 "You must first verify your email address before being able to edit or add "
 "anything to the database."
-msgstr ""
+msgstr "U moet eerst uw e-mailadres verifiëren voordat u wijzigingen kunt aanbrengen aan de gegevensbank."
 
 #: ../root/account/register.tt:37
 #, perl-format
 msgid ""
 "You must provide a working email address if you wish to contribute to the "
 "database."
-msgstr ""
+msgstr "U moet een werkend e-mailadres verstrekken als u aan de gegevensbank wilt bijdragen."
 
 #: ../root/cdtoc/remove.tt:11
 #, perl-format
@@ -18553,7 +18553,7 @@ msgstr ""
 #: DB:link_type/link_phrase:265 DB:link_type/reverse_link_phrase:265
 #, perl-format
 msgid "art direction"
-msgstr ""
+msgstr "artistieke leiding"
 
 #: DB:link_type/link_phrase:135 DB:link_type/link_phrase:62
 #: DB:link_type/link_phrase:263 DB:link_type/reverse_link_phrase:135
@@ -18964,7 +18964,7 @@ msgstr ""
 #: ../root/statistics/index.tt:199
 #, perl-format
 msgid "by various artists:"
-msgstr ""
+msgstr "door diverse artiesten:"
 
 #: ../root/release/edit/recordings.tt:227
 #, perl-format
@@ -19328,7 +19328,7 @@ msgstr ""
 #: DB:link_type/link_phrase:264 DB:link_type/reverse_link_phrase:264
 #, perl-format
 msgid "creative direction"
-msgstr ""
+msgstr "creatieve leiding"
 
 #: DB:link_type/reverse_link_phrase:115
 #, perl-format
@@ -20725,7 +20725,7 @@ msgstr ""
 #: DB:link_type/link_phrase:238
 #, perl-format
 msgid "later releases"
-msgstr ""
+msgstr "latere uitgaves"
 
 #: DB:link_type/link_phrase:241
 #, perl-format
@@ -20774,7 +20774,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:81
 #, perl-format
 msgid "links to affiliates"
-msgstr ""
+msgstr "Verwijzingen naar partners"
 
 #: DB:link_attribute_type/name:578
 #, perl-format
@@ -21641,7 +21641,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:262
 #, perl-format
 msgid "recording"
-msgstr ""
+msgstr "opname"
 
 #: DB:link_type/link_phrase:98 DB:link_type/link_phrase:260
 #: DB:link_type/reverse_link_phrase:98 DB:link_type/reverse_link_phrase:260
@@ -21687,7 +21687,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "releases"
-msgstr ""
+msgstr "uitgaves"
 
 #: DB:link_type/link_phrase:6 DB:link_type/link_phrase:236
 #, perl-format
@@ -22707,13 +22707,13 @@ msgstr ""
 #, perl-format
 msgid "which identify 1 recording:"
 msgid_plural "which identify {num} recordings:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "die één opname identificeren:"
+msgstr[1] "die {n} opnames identificeren:"
 
 #: ../root/statistics/index.tt:390
 #, perl-format
 msgid "which identify 10+ recordings:"
-msgstr ""
+msgstr "die meer dan tien opnames identificeren:"
 
 #: DB:link_attribute_type/description:134 DB:link_attribute_type/name:134
 #, perl-format
@@ -23321,7 +23321,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:82
 #, perl-format
 msgid "{country} releases"
-msgstr ""
+msgstr "uitgaves uit {country}"
 
 #: ../root/user/profile.tt:79
 #, perl-format
@@ -23387,7 +23387,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:92
 #, perl-format
 msgid "{language} releases"
-msgstr ""
+msgstr "uitgaves in het {language}"
 
 #: ../root/components/ratings.tt:20
 #, perl-format
@@ -23419,7 +23419,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:98
 #, perl-format
 msgid "{name} releases"
-msgstr ""
+msgstr "uitgaves met de naam {name}"
 
 #: ../root/tag/artist.tt:1
 #, perl-format
@@ -23460,15 +23460,15 @@ msgstr[1] ""
 #, perl-format
 msgid "{num} recording found"
 msgid_plural "{num} recordings found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} opname gevonden"
+msgstr[1] "{num} opnames gevonden"
 
 #: ../root/tag/release.tt:1
 #, perl-format
 msgid "{num} release found"
 msgid_plural "{num} releases found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} uitgave gevonden"
+msgstr[1] "{num} uitgaves gevonden"
 
 #: ../root/cdtoc/attach_filter_release.tt:4
 #, perl-format
@@ -23583,7 +23583,7 @@ msgstr "{release} is niet toegevoegd aan collecties."
 #: ../root/statistics/view_js.tt:87
 #, perl-format
 msgid "{script} releases"
-msgstr ""
+msgstr "uitgaves met het {script} schrift"
 
 #: DB:link_type/reverse_link_phrase:15
 #, perl-format
@@ -23623,7 +23623,7 @@ msgstr ""
 #: ../root/layout/sidebar/sidebar-affiliates.tt:10
 #, perl-format
 msgid "{uri|Search on SoundUnwound}"
-msgstr ""
+msgstr "{uri|Zoek op SoundUnwound}"
 
 #: ../root/user/collections.tt:32
 #, perl-format
@@ -23650,14 +23650,14 @@ msgstr "{user} heeft niets een etiket gegeven."
 msgid ""
 "{valink|Various Artists} should not be used on recordings, make sure that "
 "the artists has been entered correctly."
-msgstr ""
+msgstr "{valink|Diverse Artiesten} moet niet gebruikt worden voor opnames. Zorg ervoor dat de artiesten juist ingevuld zijn."
 
 #: ../root/release/edit/tracklist.tt:136
 #, perl-format
 msgid ""
 "{valink|Various Artists} should not be used on tracks, make sure that the "
 "artists on these tracks have been entered correctly."
-msgstr ""
+msgstr "{valink|Diverse Artiesten} moet niet gebruikt worden voor nummers. Zorg ervoor dat de artiesten op deze nummers juist ingevuld zijn."
 
 #: DB:link_type/short_link_phrase:85 DB:link_type/short_link_phrase:268
 #, perl-format
@@ -24381,7 +24381,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:39
 msgid "Filter releases"
-msgstr ""
+msgstr "Filter uitgaves"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:53
 msgid "Filter recordings"
@@ -24558,7 +24558,7 @@ msgstr "Dit medium heeft al een Disc ID dus u mag alleen maar het soort medium v
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:222
 msgid "A release must have at least one medium."
-msgstr ""
+msgstr "Een uitgave moet ten minste één medium bevatten."
 
 #: ../lib/MusicBrainz/Server/Form/Role/DatePeriod.pm:34
 msgid "The end date must occur on or after the begin date"
