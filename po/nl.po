@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-07 22:58+0000\n"
+"PO-Revision-Date: 2012-05-07 23:23+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -3788,7 +3788,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:117
 #, perl-format
 msgid "Count of all Tracks"
-msgstr ""
+msgstr "Totaal aantal nummers"
 
 #: ../root/statistics/view_js.tt:160
 #, perl-format
@@ -3858,7 +3858,7 @@ msgstr "Totaal aantal stemmen"
 #: ../root/statistics/view_js.tt:43
 #, perl-format
 msgid "Count of all works"
-msgstr ""
+msgstr "Totaal aantal composities"
 
 #: ../root/statistics/view_js.tt:72
 #, perl-format
@@ -5669,7 +5669,7 @@ msgstr ""
 #: ../root/recording/header.tt:1
 #, perl-format
 msgid "Fingerprints"
-msgstr ""
+msgstr "Vingerafdrukken"
 
 #: DB:country/name:72
 msgid "Finland"
@@ -7569,7 +7569,7 @@ msgstr ""
 msgid ""
 "Indicates the composer for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Composer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de componist van deze compositie aan. (<a href=\"http://musicbrainz.org/doc/Composer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:264
 #, perl-format
@@ -7590,14 +7590,14 @@ msgstr ""
 msgid ""
 "Indicates the librettist for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Librettist_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de librettist van deze compositie aan. (<a href=\"http://musicbrainz.org/doc/Librettist_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:56 DB:link_type/description:165
 #, perl-format
 msgid ""
 "Indicates the lyricist for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Lyricist_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de tekstschrijver van deze compositie aan. (<a href=\"http://musicbrainz.org/doc/Lyricist_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:42 DB:link_type/description:136
 #, perl-format
@@ -7741,7 +7741,7 @@ msgstr ""
 msgid ""
 "Indicates the person who was the (additional) conductor for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Conductor_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de persoon aan die de (aanvullende) dirigent voor dit werk was. (<a href=\"http://musicbrainz.org/doc/Conductor_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:30 DB:link_type/description:141
 #, perl-format
@@ -9277,7 +9277,7 @@ msgstr "Voeg uitgaves samen"
 #: ../root/work/merge.tt:1 ../root/work/merge.tt:3
 #, perl-format
 msgid "Merge Works"
-msgstr ""
+msgstr "Composities samenvoegen"
 
 #: ../root/artist/layout.tt:90
 #, perl-format
@@ -9537,7 +9537,7 @@ msgstr ""
 #: ../root/edit/details/move_release.tt:14
 #, perl-format
 msgid "Move tracks:"
-msgstr ""
+msgstr "Verplaats nummers:"
 
 #: DB:country/name:145
 msgid "Mozambique"
@@ -11235,7 +11235,7 @@ msgstr ""
 #: ../root/components/aliases.tt:52
 #, perl-format
 msgid "Please {log_in|log in} to add or edit aliases"
-msgstr ""
+msgstr "{log_in|Meld u nu aan} om aliassen te wijzigen of toe te voegen"
 
 #: ../root/recording/fingerprints.tt:39
 #, perl-format
@@ -11870,7 +11870,7 @@ msgstr ""
 #: ../root/recording/index.tt:51 ../root/recording/relationships.tt:6
 #, perl-format
 msgid "Related works"
-msgstr ""
+msgstr "Gerelateerde composities"
 
 #: DB:link_type/description:99
 #, perl-format
@@ -13359,13 +13359,13 @@ msgstr ""
 #, perl-format
 msgid ""
 "Showing all recordings. {show_sa|Show only standalone recordings instead}."
-msgstr ""
+msgstr "Alle opnames worden weergegeven. {show_sa|Geef alleen losstaande opnames weer}."
 
 #: ../root/artist/recordings.tt:20
 #, perl-format
 msgid ""
 "Showing only standalone recordings. {show_all|Show all recordings instead}."
-msgstr ""
+msgstr "Alleen losstaande opnames worden weergegeven. {show_all|Laat alle opnames zien}."
 
 #: ../root/artist/index.tt:119
 #, perl-format
@@ -16511,7 +16511,7 @@ msgstr ""
 #: ../root/cdstub/index.tt:17 ../root/cdtoc/info.tt:19
 #, perl-format
 msgid "Total tracks:"
-msgstr ""
+msgstr "Totaal aantal nummers"
 
 #: ../root/cdtoc/info.tt:31 ../root/freedb/show.tt:11
 #: ../root/freedb/show.tt:63 ../root/search/lib/inline-results-recording.tt:15
@@ -16592,7 +16592,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:117 ../root/tracklist/index.tt:5
 #, perl-format
 msgid "Tracks"
-msgstr ""
+msgstr "Nummers"
 
 #: ../root/report/index.tt:65
 #, perl-format
@@ -16602,7 +16602,7 @@ msgstr ""
 #: ../root/edit/details/historic/add_release.tt:44
 #, perl-format
 msgid "Tracks:"
-msgstr ""
+msgstr "Nummers:"
 
 #: ../root/admin/index.tt:11 ../root/layout/menu.tt:63
 #, perl-format
@@ -17797,7 +17797,7 @@ msgstr ""
 #: ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Works"
-msgstr ""
+msgstr "Composities"
 
 #: ../root/browse/work.tt:8
 #, perl-format
@@ -17807,13 +17807,13 @@ msgstr ""
 #: ../root/statistics/index.tt:39
 #, perl-format
 msgid "Works:"
-msgstr ""
+msgstr "Composities:"
 
 #: ../root/artist/works-list.tt:10 ../root/otherlookup/results-work.tt:8
 #: ../root/search/results-work.tt:11
 #, perl-format
 msgid "Writers"
-msgstr ""
+msgstr "Auteurs"
 
 #: DB:link_attribute_type/description:562 DB:link_attribute_type/name:562
 #, perl-format
@@ -22361,7 +22361,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "tracks"
-msgstr ""
+msgstr "nummers"
 
 #: DB:link_attribute_type/name:517
 #, perl-format
@@ -22812,7 +22812,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "works"
-msgstr ""
+msgstr "composities"
 
 #: DB:link_type/short_link_phrase:24 DB:link_type/short_link_phrase:131
 #, perl-format
@@ -23075,12 +23075,12 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:55 DB:link_type/reverse_link_phrase:168
 #, perl-format
 msgid "{additional} composer"
-msgstr ""
+msgstr "{aanvullende} componist"
 
 #: DB:link_type/reverse_link_phrase:46 DB:link_type/reverse_link_phrase:151
 #, perl-format
 msgid "{additional} conductor"
-msgstr ""
+msgstr "{aanvullende} dirigent"
 
 #: DB:link_type/link_phrase:63 DB:link_type/link_phrase:146
 #: DB:link_type/reverse_link_phrase:63 DB:link_type/reverse_link_phrase:146
@@ -23242,12 +23242,12 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:169
 #, perl-format
 msgid "{additional} {translated:libretto translation|librettist}"
-msgstr ""
+msgstr "{aanvullende} {translated:librettovertaling|librettist}"
 
 #: DB:link_type/reverse_link_phrase:56 DB:link_type/reverse_link_phrase:165
 #, perl-format
 msgid "{additional} {translated:translator|lyricist}"
-msgstr ""
+msgstr "{aanvullende} {translated:vertaler|tekstschrijver}"
 
 #: DB:link_type/link_phrase:169
 #, perl-format
@@ -23285,8 +23285,8 @@ msgstr ""
 #, perl-format
 msgid "{artist} has no releases which have only {n} track."
 msgid_plural "{artist} has no releases which have {n} tracks."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{artist} heeft geen uitgaves met maar {n} nummer."
+msgstr[1] "{artist} heeft geen uitgaves met maar {n} nummers."
 
 #: ../root/artist/relationships.tt:36 ../root/components/relationships.tt:26
 #, perl-format
@@ -23377,7 +23377,7 @@ msgstr ""
 #: ../root/components/aliases.tt:42
 #, perl-format
 msgid "{entity} has no aliases."
-msgstr ""
+msgstr "{entity} heeft geen aliassen."
 
 #: ../root/edit/details/remove_medium.tt:6
 #, perl-format
@@ -23488,15 +23488,15 @@ msgstr[1] ""
 #, perl-format
 msgid "{num} work found"
 msgid_plural "{num} works found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} compositie gevonden"
+msgstr[1] "{num} composities gevonden"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
 msgid "{num} year"
 msgid_plural "{num}&nbsp;years"
 msgstr[0] "{num} jaar"
-msgstr[1] "{num}&nbsp;jaren"
+msgstr[1] "{num} jaar"
 
 #: ../root/statistics/formats.tt:9 ../root/statistics/formats.tt:11
 #: ../root/statistics/index.tt:122 ../root/statistics/index.tt:128
@@ -23981,7 +23981,7 @@ msgstr "Niet alle nummers hebben een artiest"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:115
 msgid "Not all tracks have a title"
-msgstr ""
+msgstr "Niet alle nummers hebben een titel"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:118
 msgid "Cannot add a CD stub with no tracks"
