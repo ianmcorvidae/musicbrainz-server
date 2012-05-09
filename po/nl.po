@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-09 17:25+0000\n"
+"PO-Revision-Date: 2012-05-09 18:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -127,7 +127,7 @@ msgstr ""
 #: ../root/edit/details/reorder_mediums.tt:24
 #, perl-format
 msgid "(new disc)"
-msgstr ""
+msgstr "(nieuw medium)"
 
 #: ../root/edit/details/add_release.tt:22
 #, perl-format
@@ -362,13 +362,13 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:49
 #, perl-format
 msgid "<strong>Warning</strong>: #{disc} has a discid, you cannot add tracks"
-msgstr ""
+msgstr "<strong>Let op</strong>: #{disc} heeft een disc-id, u kunt geen nummers toevoegen"
 
 #: ../root/scripts/text_strings.tt:50
 #, perl-format
 msgid ""
 "<strong>Warning</strong>: #{disc} has a discid, you cannot remove tracks"
-msgstr ""
+msgstr "<strong>Let op</strong>: #{disc} heeft een disc-id, u kunt geen nummers verwijderen"
 
 #: DB:link_attribute_type/description:550
 #, perl-format
@@ -381,7 +381,7 @@ msgid ""
 "A CD Stub was found that matches the disc ID you provided. If the below "
 "tracklist appears correct, you may use it as a starting point as a new "
 "MusicBrainz release"
-msgstr "Er is een cd-beginsel gevonden die overeenkomt met uw Disc ID. Als de onderstaande nummerlijst correct lijkt, kunt u deze gebruiken als beginpunt voor een nieuwe uitgave in MusicBrainz."
+msgstr "Er is een cd-beginsel gevonden die overeenkomt met uw disc-id. Als de onderstaande nummerlijst correct lijkt, kunt u deze gebruiken als beginpunt voor een nieuwe uitgave in MusicBrainz."
 
 #: DB:link_attribute_type/description:600
 #, perl-format
@@ -813,7 +813,7 @@ msgstr "Alias voor deze artiest toevoegen"
 #: ../root/cdstub/layout.tt:23
 #, perl-format
 msgid "Add disc ID to an existing release"
-msgstr "Voeg een Disc ID toe aan een bestaande uitgave"
+msgstr "Voeg een disc-id toe aan een bestaande uitgave"
 
 #: ../root/edit/add_note.tt:4
 #, perl-format
@@ -1508,7 +1508,7 @@ msgstr "Weet u zeker dat u de collectie {collection} wilt verwijderen?"
 msgid ""
 "Are you sure you want to remove the disc ID <code>{discid}</code> from the "
 "release {release} by {artist}?"
-msgstr "Weet u zeker dat u de Disc ID <code>{discid}</code> van de uitgave {release} door {artist} wilt verwijderen?"
+msgstr "Weet u zeker dat u de disc-id <code>{discid}</code> van de uitgave {release} door {artist} wilt verwijderen?"
 
 #: ../root/edit/cancel.tt:3
 #, perl-format
@@ -1998,7 +1998,7 @@ msgstr ""
 #: ../root/cdtoc/lookup.tt:51
 #, perl-format
 msgid "Attach Disc ID"
-msgstr ""
+msgstr "Disc-id toevoegen"
 
 #: ../root/cdtoc/index.tt:7
 #, perl-format
@@ -3274,7 +3274,7 @@ msgstr "Compositie leegmaken"
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
 msgid "Click Edit to edit the recording associations for this disc."
-msgstr "Klik wijzigen om de gekoppelde opnames voor deze plaat te wijzigen."
+msgstr "Klik wijzigen om de gekoppelde opnames voor dit medium te wijzigen."
 
 #: ../root/statistics/timeline.tt:73
 #, perl-format
@@ -3344,7 +3344,7 @@ msgstr "Samenwerker"
 #: ../root/release/edit/tracklist.tt:363
 #, perl-format
 msgid "Collapse Disc"
-msgstr "Plaat inklappen"
+msgstr "Medium inklappen"
 
 #: ../root/relationship/linktype/tree.tt:49
 #, perl-format
@@ -3588,7 +3588,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:121
 #, perl-format
 msgid "Count of all Disc IDs"
-msgstr "Totaal aantal Disc ID's"
+msgstr "Totaal aantal disc-id's"
 
 #: ../root/statistics/view_js.tt:124
 #, perl-format
@@ -3633,12 +3633,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:135
 #, perl-format
 msgid "Count of all Mediums with Disc IDs"
-msgstr "Aantal media met Disc ID's"
+msgstr "Aantal media met disc-id's"
 
 #: ../root/statistics/view_js.tt:141
 #, perl-format
 msgid "Count of all Mediums with {n} Disc IDs"
-msgstr "Aantal media met {n} Disc ID's"
+msgstr "Aantal media met {n} disc-id's"
 
 #: ../root/statistics/view_js.tt:68
 #, perl-format
@@ -3768,12 +3768,12 @@ msgstr "Totaal aantal uitgaves door een enkele artiest"
 #: ../root/statistics/view_js.tt:134
 #, perl-format
 msgid "Count of all Releases with Disc IDs"
-msgstr "Totaal aantal uitgaves met Disc ID's"
+msgstr "Totaal aantal uitgaves met disc-id's"
 
 #: ../root/statistics/view_js.tt:140
 #, perl-format
 msgid "Count of all Releases with {n} Disc IDs"
-msgstr "Totaal aantal uitgaves met {n} Disc ID's"
+msgstr "Totaal aantal uitgaves met {n} disc-id's"
 
 #: ../root/statistics/view_js.tt:168
 #, perl-format
@@ -4533,22 +4533,22 @@ msgstr ""
 #: ../root/release/discids.tt:8
 #, perl-format
 msgid "Disc ID"
-msgstr ""
+msgstr "Disc-id"
 
 #: ../root/cdstub/index.tt:10
 #, perl-format
 msgid "Disc ID information"
-msgstr ""
+msgstr "Informatie over de disc-id"
 
 #: ../root/cdtoc/index.tt:3
 #, perl-format
 msgid "Disc ID “<code>{discid}</code>”"
-msgstr ""
+msgstr "Disc-id \"<code>{discid}</code>\""
 
 #: ../root/cdtoc/index.tt:1
 #, perl-format
 msgid "Disc ID “{discid}”"
-msgstr ""
+msgstr "Disc-id \"{discid}\""
 
 #: ../root/cdtoc/info.tt:11 ../root/edit/details/add_disc_id.tt:15
 #: ../root/edit/details/historic/add_disc_id.tt:17
@@ -4560,39 +4560,39 @@ msgstr ""
 #: ../root/edit/details/set_track_lengths.tt:16 ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Disc ID:"
-msgstr ""
+msgstr "Disc-id:"
 
 #: ../root/release/discids.tt:3 ../root/release/tabs.tt:1
 #: ../root/statistics/index.tt:254 ../root/statistics/view_js.tt:121
 #, perl-format
 msgid "Disc IDs"
-msgstr "Disc ID's"
+msgstr "Disc-id's"
 
 #: ../root/report/superfluous_data_tracks.tt:1
 #, perl-format
 msgid "Disc IDs with superfluous data tracks"
-msgstr ""
+msgstr "Disc-id's met overbodige gegevensnummers"
 
 #: ../root/statistics/index.tt:93 ../root/statistics/index.tt:257
 #, perl-format
 msgid "Disc IDs:"
-msgstr "Disc ID's:"
+msgstr "Disc-id's:"
 
 #: ../root/release/edit/tracklist.tt:380
 #, perl-format
 msgid "Disc title"
-msgstr ""
+msgstr "Mediumtitel"
 
 #: ../root/release/edit/recordings.tt:251
 #: ../root/release/edit/tracklist.tt:353
 #, perl-format
 msgid "Disc {num}"
-msgstr ""
+msgstr "Medium {num}"
 
 #: ../root/release/edit/recordings.tt:245
 #, perl-format
 msgid "Disc {num}: {title}"
-msgstr ""
+msgstr "Medium {num}: {titel}"
 
 #: ../root/artist/index.tt:46
 #, perl-format
@@ -4603,7 +4603,7 @@ msgstr "Discografie"
 #: DB:link_type/link_phrase:217 DB:link_type/link_phrase:90
 #, perl-format
 msgid "Discogs"
-msgstr ""
+msgstr "Discogs"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
@@ -4738,7 +4738,7 @@ msgstr ""
 
 #: DB:medium_format/name:4
 msgid "DualDisc"
-msgstr ""
+msgstr "DualDisc"
 
 #: DB:language/name:111
 msgid "Duala"
@@ -5536,7 +5536,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:360
 #, perl-format
 msgid "Expand Disc"
-msgstr ""
+msgstr "Medium uitklappen"
 
 #: ../root/relationship/linktype/tree.tt:48
 #, perl-format
@@ -6216,7 +6216,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:384
 #, perl-format
 msgid "Guess case disc title"
-msgstr ""
+msgstr "Gok de kast van de mediumtitel"
 
 #: ../root/release/edit/tracklist.tt:332
 #, perl-format
@@ -6918,7 +6918,7 @@ msgstr "Indische talen (Indo-Arische talen)"
 #: DB:link_attribute_type/description:516
 #, perl-format
 msgid "Indicates a bonus disc"
-msgstr ""
+msgstr "Geeft een bonusmedium aan"
 
 #: DB:link_type/description:152
 #, perl-format
@@ -7910,7 +7910,7 @@ msgstr "Inupiak"
 #: ../root/cdstub/error.tt:5
 #, perl-format
 msgid "Invalid Disc ID"
-msgstr ""
+msgstr "Ongeldige disc-id"
 
 #: DB:country/name:101
 msgid "Iran, Islamic Republic of"
@@ -8533,7 +8533,7 @@ msgstr "Laos, Democratische Volksrepubliek"
 
 #: DB:medium_format/name:5
 msgid "LaserDisc"
-msgstr ""
+msgstr "LaserDisc"
 
 #: ../root/user/profile.tt:146
 #, perl-format
@@ -9398,7 +9398,7 @@ msgstr "Minangkabaus"
 
 #: DB:medium_format/name:6
 msgid "MiniDisc"
-msgstr ""
+msgstr "MiniDisc"
 
 #: DB:link_attribute_type/description:349 DB:link_attribute_type/name:349
 #, perl-format
@@ -9506,17 +9506,17 @@ msgstr ""
 #: ../root/cdtoc/move_search.tt:1 ../root/cdtoc/move_search.tt:2
 #, perl-format
 msgid "Move Disc ID"
-msgstr ""
+msgstr "Verplaats disc-id"
 
 #: ../root/release/edit/tracklist.tt:399
 #, perl-format
 msgid "Move disc down"
-msgstr ""
+msgstr "Medium omlaag verplaatsen"
 
 #: ../root/release/edit/tracklist.tt:402
 #, perl-format
 msgid "Move disc up"
-msgstr ""
+msgstr "Medium omhoog verplaatsen"
 
 #: ../root/release/move_confirm.tt:1 ../root/release/move_confirm.tt:2
 #: ../root/release/move_search.tt:1 ../root/release/move_search.tt:2
@@ -9923,7 +9923,7 @@ msgstr ""
 #: ../root/release/merge.tt:53
 #, perl-format
 msgid "New disc title:"
-msgstr ""
+msgstr "Nieuwe mediumtitel:"
 
 #: ../root/edit/details/edit_release_language.tt:25
 #, perl-format
@@ -23891,7 +23891,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:161
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:313
 msgid "The selected medium cannot have disc IDs"
-msgstr "Het geselecteerde medium kan geen Disc ID's hebben"
+msgstr "Het geselecteerde medium kan geen disc-id's hebben"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:189
 msgid "The provided artist id is not valid"
@@ -23993,7 +23993,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:124
 msgid "Missing disc ID"
-msgstr ""
+msgstr "Ontbrekende disc-id"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:127
 msgid "Disc ID does match parsed TOC"
@@ -24009,11 +24009,11 @@ msgstr "Ongeldige streepjescode"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:142
 msgid "There are already MusicBrainz releases with this disc ID"
-msgstr "Er zijn al uitgaves in MusicBrainz met deze Disc ID"
+msgstr "Er zijn al uitgaves in MusicBrainz met deze disc-id"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:149
 msgid "There is already a CD stub with this disc ID"
-msgstr "Er is al een cd-beginsel met deze Disc ID"
+msgstr "Er is al een cd-beginsel met deze disc-id"
 
 #: ../lib/MusicBrainz/Server/Data/LinkType.pm:149
 #, perl-brace-format
@@ -24058,7 +24058,7 @@ msgstr "Voeg artiesten samen"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/AddDiscID.pm:11
 msgid "Add disc ID"
-msgstr ""
+msgstr "Voeg disc-id toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddISRCs.pm:16
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddISRCs.pm:21
@@ -24208,7 +24208,7 @@ msgstr "Voeg uitgaves samen"
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:18
 msgid "Move disc ID"
-msgstr ""
+msgstr "Verplaats disc-id"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release"
@@ -24217,7 +24217,7 @@ msgstr "Verplaats uitgave"
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:10
 msgid "Remove disc ID"
-msgstr ""
+msgstr "Verwijder disc-id"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveISRC.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Recording/RemoveISRC.pm:17
@@ -24405,7 +24405,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/DiscID.pm:12
 msgid "This is not a valid disc ID"
-msgstr ""
+msgstr "Dit is geen geldig disc-id"
 
 #: ../lib/MusicBrainz/Server/Form/Field/FreeDBID.pm:12
 msgid "This is not a valid FreeDB ID"
@@ -24531,7 +24531,7 @@ msgstr "Een artiest is benodigd op nummer {pos}"
 msgid ""
 "The length of track {pos} cannot be changed since this release has a Disc ID"
 " attached to it."
-msgstr "De lengte van nummer {pos} kan niet worden veranderd omdat aan deze uitgave een Disc ID gekoppeld is."
+msgstr "De lengte van nummer {pos} kan niet worden veranderd omdat aan deze uitgave een disc-id gekoppeld is."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:156
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:198
@@ -24542,8 +24542,8 @@ msgstr "Een lijst van nummers is benodigd"
 #, perl-brace-format
 msgid "This medium has a Disc ID, it should have exactly {n} track."
 msgid_plural "This medium has a Disc ID, it should have exactly {n} tracks."
-msgstr[0] "Dit medium heeft een Disc ID, het zou precies {n} nummer moeten hebben."
-msgstr[1] "Dit medium heeft een Disc ID, het zou precies {n} nummers moeten hebben."
+msgstr[0] "Dit medium heeft een disc-id, het zou precies {n} nummer moeten hebben."
+msgstr[1] "Dit medium heeft een disc-id, het zou precies {n} nummers moeten hebben."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
@@ -24554,7 +24554,7 @@ msgstr ""
 msgid ""
 "This medium already has disc IDs so you may only change the format\n"
 "                       to a format that can have disc IDs"
-msgstr "Dit medium heeft al een Disc ID dus u mag alleen maar het soort medium veranderen in een soort medium dat Disc ID's kan hebben"
+msgstr "Dit medium heeft al een disc-id dus u mag alleen maar het soort medium veranderen in een soort medium dat disc-id's kan hebben"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:222
 msgid "A release must have at least one medium."
