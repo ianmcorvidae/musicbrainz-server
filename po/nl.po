@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-09 16:56+0000\n"
+"PO-Revision-Date: 2012-05-09 17:25+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -725,7 +725,7 @@ msgstr "Voeg een uitgave toe voor diverse artiesten"
 #: ../root/work/create.tt:16
 #, perl-format
 msgid "Add Work"
-msgstr "Voeg compositie toe"
+msgstr "Voeg een compositie toe"
 
 #: ../root/work/add_alias.tt:1
 #, perl-format
@@ -858,14 +858,14 @@ msgstr "Voeg opname toe"
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 #, perl-format
 msgid "Add release"
-msgstr "Voeg uitgave toe"
+msgstr "Voeg een uitgave toe"
 
 #: ../root/artist/layout.tt:57
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseGroup.pm:18
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Create.pm:22
 #, perl-format
 msgid "Add release group"
-msgstr "Voeg uitgavegroep toe"
+msgstr "Voeg een uitgavegroep toe"
 
 #: ../root/report/duplicate_artists.tt:45
 #, perl-format
@@ -1122,7 +1122,7 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:22
 #, perl-format
 msgid "All other available languages and scripts have 0 releases."
-msgstr "Alle andere beschikbare talen en schriften met 0 uitgaves."
+msgstr "Alle andere beschikbare talen en schriften hebben 0 uitgaves."
 
 #: DB:link_type/link_phrase:283 DB:link_type/link_phrase:284
 #: DB:link_type/link_phrase:285 DB:link_type/reverse_link_phrase:286
@@ -2177,7 +2177,7 @@ msgstr "Balinees"
 
 #: DB:work_type/name:2
 msgid "Ballet"
-msgstr ""
+msgstr "Ballet"
 
 #: DB:language/name:43
 msgid "Baltic languages"
@@ -3349,7 +3349,7 @@ msgstr "Plaat inklappen"
 #: ../root/relationship/linktype/tree.tt:49
 #, perl-format
 msgid "Collapse all descriptions"
-msgstr ""
+msgstr "Klap alle omschrijvingen in"
 
 #: ../root/user/collections.tt:9
 #, perl-format
@@ -4420,7 +4420,7 @@ msgstr "Geeft aan dat een persoon een contract had bij een platenmaatschappij in
 #: ../root/doc/edit_type.tt:22
 #, perl-format
 msgid "Description"
-msgstr ""
+msgstr "Omschrijving"
 
 #: ../root/edit/details/add_relationship_attribute.tt:7
 #: ../root/edit/details/add_relationship_type.tt:8
@@ -4435,7 +4435,7 @@ msgstr ""
 #: ../root/url/index.tt:10
 #, perl-format
 msgid "Description:"
-msgstr ""
+msgstr "Omschrijving:"
 
 #: DB:script/name:37
 msgid "Deseret"
@@ -4477,7 +4477,7 @@ msgstr "Ontwikkelaars"
 #: ../root/layout/menu.tt:227
 #, perl-format
 msgid "Development"
-msgstr ""
+msgstr "Ontwikkeling"
 
 #: ../root/layout.tt:81
 #, perl-format
@@ -5541,7 +5541,7 @@ msgstr ""
 #: ../root/relationship/linktype/tree.tt:48
 #, perl-format
 msgid "Expand all descriptions"
-msgstr ""
+msgstr "Klap alle omschrijvingen uit"
 
 #: ../root/doc/edit_type.tt:55
 #, perl-format
@@ -8511,7 +8511,7 @@ msgstr "Taal:"
 #: ../root/edit/details/edit_release_language.tt:8
 #, perl-format
 msgid "Language: {language}, script: {script}"
-msgstr ""
+msgstr "Taal: {language}, schrift: {script}"
 
 #: ../root/statistics/languages_scripts.tt:25
 #, perl-format
@@ -15500,7 +15500,7 @@ msgstr "Dit is een spiegelserver van MusicBrainz. Om veranderingen door te voere
 msgid ""
 "This is a development server. Your email address is not private or secure. "
 "Proceed with caution!"
-msgstr ""
+msgstr "Dit is een server voor ontwikkeling. Uw e-mailadres is niet privé of veilig. Ga voorzichtig te werk!"
 
 #: ../root/user/login.tt:27
 #, perl-format
@@ -16951,7 +16951,7 @@ msgstr "Onbekende taal"
 #: ../root/statistics/view_js.tt:85
 #, perl-format
 msgid "Unknown Script"
-msgstr ""
+msgstr "Onbekend schrift"
 
 #: ../root/statistics/languages_scripts.tt:5
 #, perl-format
@@ -16961,7 +16961,7 @@ msgstr "Onbekende taal"
 #: ../root/statistics/languages_scripts.tt:8
 #, perl-format
 msgid "Unknown script"
-msgstr ""
+msgstr "Onbekend schrift"
 
 #: ../root/statistics/view_js.tt:102
 #, perl-format
@@ -22728,7 +22728,7 @@ msgstr ""
 #: ../root/statistics/index.tt:417
 #, perl-format
 msgid "who edited last week:"
-msgstr "wie brachten er vorige week wijzigen aan:"
+msgstr "die vorige week wijzigen aangebracht hebben:"
 
 #: ../root/statistics/index.tt:424
 #, perl-format
@@ -24068,7 +24068,7 @@ msgstr "Voeg ISRC's toe"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabel.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
 msgid "Add label"
-msgstr "Voeg platenmaatschappij toe"
+msgstr "Voeg een platenmaatschappij toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabelAnnotation.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAnnotation.pm:12
