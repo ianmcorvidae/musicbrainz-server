@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-09 19:59+0000\n"
+"PO-Revision-Date: 2012-05-09 20:56+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -312,7 +312,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:144
 #, perl-format
 msgid "<strong>Error</strong>:"
-msgstr ""
+msgstr "<strong>Foutmelding</strong>:"
 
 #: ../root/account/register.tt:14
 #, perl-format
@@ -1645,12 +1645,12 @@ msgstr "Artiest"
 #: ../root/statistics/view_js.tt:27
 #, perl-format
 msgid "Artist Countries"
-msgstr ""
+msgstr "Nationaliteiten"
 
 #: ../root/edit/search_macros.tt:279
 #, perl-format
 msgid "Artist Country"
-msgstr ""
+msgstr "Nationaliteit"
 
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
@@ -3568,22 +3568,22 @@ msgstr ""
 #: ../root/statistics/view_js.tt:116
 #, perl-format
 msgid "Count of all Barcodes"
-msgstr ""
+msgstr "Totaal aantal streepjescodes"
 
 #: ../root/statistics/view_js.tt:120
 #, perl-format
 msgid "Count of all CDStub tracks"
-msgstr ""
+msgstr "Totaal aantal nummers van cd-beginsels"
 
 #: ../root/statistics/view_js.tt:118
 #, perl-format
 msgid "Count of all CDStubs"
-msgstr ""
+msgstr "Totaal aantal cd-beginsels"
 
 #: ../root/statistics/view_js.tt:119
 #, perl-format
 msgid "Count of all CDStubs ever submitted"
-msgstr ""
+msgstr "Totaal aantal ooit ingediende cd-beginsels"
 
 #: ../root/statistics/view_js.tt:121
 #, perl-format
@@ -3618,7 +3618,7 @@ msgstr "Totaal aantal ISWC's"
 #: ../root/statistics/view_js.tt:157
 #, perl-format
 msgid "Count of all Label Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen van platenmaatschappijen"
 
 #: ../root/statistics/view_js.tt:163
 #, perl-format
@@ -3658,7 +3658,7 @@ msgstr "Totaal aantal PUID' met {n} opnames"
 #: ../root/statistics/view_js.tt:155
 #, perl-format
 msgid "Count of all Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
@@ -3778,7 +3778,7 @@ msgstr "Totaal aantal uitgaves met {n} disc-id's"
 #: ../root/statistics/view_js.tt:168
 #, perl-format
 msgid "Count of all Tags"
-msgstr ""
+msgstr "Totaal aantal etiketten"
 
 #: ../root/statistics/view_js.tt:169
 #, perl-format
@@ -3828,12 +3828,12 @@ msgstr "Totaal aantal wijzigingen"
 #: ../root/statistics/view_js.tt:47
 #, perl-format
 msgid "Count of all labels"
-msgstr ""
+msgstr "Totaal aantal platenmaatschappijen"
 
 #: ../root/statistics/view_js.tt:44
 #, perl-format
 msgid "Count of all mediums"
-msgstr ""
+msgstr "Totaal aantal media"
 
 #: ../root/statistics/view_js.tt:42
 #, perl-format
@@ -7880,7 +7880,7 @@ msgstr "Interlingue"
 #: ../root/main/500.tt:1 ../root/main/500.tt:3
 #, perl-format
 msgid "Internal Server Error"
-msgstr ""
+msgstr "Interne serverfout"
 
 #: ../root/user/profile.tt:42
 #, perl-format
@@ -8346,12 +8346,12 @@ msgstr "Platenmaatschappij"
 #: ../root/statistics/view_js.tt:28
 #, perl-format
 msgid "Label Countries"
-msgstr ""
+msgstr "Vestigingslanden van platenmaatschappijen"
 
 #: ../root/edit/search_macros.tt:279
 #, perl-format
 msgid "Label Country"
-msgstr ""
+msgstr "Vestigingsland van de platenmaatschappij"
 
 #: ../root/label/edit_form.tt:34
 #, perl-format
@@ -8773,7 +8773,7 @@ msgstr "Aanmelden om te wijzigen"
 #: ../root/release/cover_art.tt:60
 #, perl-format
 msgid "Log in to upload cover art"
-msgstr ""
+msgstr "Meld u aan om hoesafbeeldingen te uploaden"
 
 #: DB:language/name:197
 msgid "Lojban"
@@ -9584,7 +9584,7 @@ msgstr "MusicBrainz Picard"
 #: ../root/layout/menu.tt:133
 #, perl-format
 msgid "MusicBrainz Server"
-msgstr ""
+msgstr "MusicBrainz server"
 
 #: ../root/main/index.tt:49
 #, perl-format
@@ -10191,7 +10191,7 @@ msgstr "Geen stem"
 #: ../root/edit/search_macros.tt:279
 #, perl-format
 msgid "No vote count"
-msgstr ""
+msgstr "Aantal tegenstemmen"
 
 #: ../root/tag/work.tt:1
 #, perl-format
@@ -10510,7 +10510,7 @@ msgstr ""
 #: ../root/main/500.tt:5
 #, perl-format
 msgid "Oops, something went wrong!"
-msgstr ""
+msgstr "Oeps, er is iets foutgegaan!"
 
 #: ../root/edit/open.tt:14 ../root/edit/open.tt:16
 #: ../root/statistics/view_js.tt:50 ../root/user/profile/layout.tt:19
@@ -10989,7 +10989,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Please be sure to include the stack trace and request data shown above!"
-msgstr ""
+msgstr "Vergeet niet de bovenstaande stack trace en het gegevensverzoek te vermelden!"
 
 #: ../root/release/cover_art_uploader.tt:19
 #, perl-format
@@ -11235,12 +11235,12 @@ msgstr ""
 #: ../root/components/aliases.tt:52
 #, perl-format
 msgid "Please {log_in|log in} to add or edit aliases"
-msgstr "{log_in|Meld u nu aan} om aliassen te wijzigen of toe te voegen"
+msgstr "{log_in|Meld u aan} om aliassen te wijzigen of toe te voegen"
 
 #: ../root/recording/fingerprints.tt:39
 #, perl-format
 msgid "Please {login_url|log in} to edit these PUIDs."
-msgstr "{login_url|Meld u alstublieft aan} om deze PUID's te wijzigen."
+msgstr "{login_url|Meld u aan} om deze PUID's te wijzigen."
 
 #: ../root/release/discids.tt:57
 #, perl-format
@@ -11250,7 +11250,7 @@ msgstr "{Meld u aan} om de disc-id voor deze uitgave te wijzigen"
 #: ../root/release/edit-links.tt:15
 #, perl-format
 msgid "Please {uri|log in} to edit this release"
-msgstr "{uri|Meld u nu aan} om deze uitgave te wijzigen"
+msgstr "{uri|Meld u aan} om deze uitgave te wijzigen"
 
 #: DB:work_type/name:21
 msgid "Poem"
@@ -12756,7 +12756,7 @@ msgstr "Rapporten"
 #: ../root/main/500.tt:27
 #, perl-format
 msgid "Request data:"
-msgstr ""
+msgstr "Gegevensverzoek:"
 
 #: ../root/edit/info.tt:48
 #, perl-format
@@ -13209,7 +13209,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:99
 #, perl-format
 msgid "Select a disc from the search results below and then click \"Add Disc\"."
-msgstr "Selecteer een medium uit de zoekresultaten hieronder en klik dan \"Medium toevoegen\"."
+msgstr "Selecteer een medium uit de zoekresultaten hieronder en klik dan \"Voeg medium toe\"."
 
 #: ../root/cdtoc/move_search.tt:4
 #, perl-format
@@ -13701,7 +13701,7 @@ msgstr "Onze excuses, er was een probleem met uw verzoek."
 msgid ""
 "Sorry, we could not find a FreeDB entry with that ID. You may wish to try "
 "and {search_url|search for it} instead."
-msgstr ""
+msgstr "Onze excuses, we konden geen lemma in FreeDB vinden met die id. {Ga terug} en probeer het opnieuw."
 
 #: ../root/otherlookup/not_found.tt:4
 #, perl-format
@@ -13791,24 +13791,24 @@ msgstr ""
 #: ../root/elections/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find this election."
-msgstr ""
+msgstr "Onze excuses, we konden deze verkiezing niet vinden."
 
 #: ../root/main/401.tt:5
 #, perl-format
 msgid "Sorry, you are not authorized to view this page."
-msgstr "Excuus, u heeft geen toestemming om deze pagina te zien."
+msgstr "Onze excuses, u heeft geen toestemming om deze pagina te zien."
 
 #: ../root/main/mirror.tt:5
 #, perl-format
 msgid "Sorry, you are unable to perform that action on a mirror server."
-msgstr ""
+msgstr "Onze excuses, u kunt dit niet doen op een spiegelserver."
 
 #: ../root/recording/cannot_add.tt:2
 #, perl-format
 msgid ""
 "Sorry, you must have been a member for at least 2 weeks and have 10 accepted"
 " non-auto-edits before you may add standalone recordings"
-msgstr "Excuus, u moet ten minste twee weken lid zijn en 10 geaccepteerde niet triviale wijzigingen hebben voordat u losstaande opnames kunt toevoegen"
+msgstr "Onze excuses, u moet ten minste twee weken lid zijn en 10 geaccepteerde niet triviale wijzigingen hebben voordat u losstaande opnames kunt toevoegen"
 
 #: ../root/search/error/no-info.tt:3
 #, perl-format
@@ -13817,17 +13817,17 @@ msgid ""
 " to carry out a search. If you are attempting to find something that "
 "contains nothing but punctuation characters (e.g. !!!) then you need to use "
 "the {uri|browse page}, since this search ignores punctuation characters."
-msgstr "Excuses, uw zoekopdracht (<code>{query}</code>) bevat niet genoeg informatie om te zoeken. Als u iets probeert te vinden dat alleen uit leestekens (bijv. !!!) bestaat, moet u de {uri|browse page} gebruiken, omdat deze zoekpagina leestekens negeert."
+msgstr "Onze excuses, uw zoekopdracht (<code>{query}</code>) bevat niet genoeg informatie om te zoeken. Als u iets probeert te vinden dat alleen uit leestekens (bijv. !!!) bestaat, moet u de {uri|browse page} gebruiken, omdat deze zoekpagina leestekens negeert."
 
 #: ../root/search/error/uri-too-large.tt:3
 #, perl-format
 msgid "Sorry, your query was too large."
-msgstr "Excuus, uw zoekopdracht was te groot."
+msgstr "Onze excuses, uw zoekopdracht was te groot."
 
 #: ../root/doc/bare_error.tt:5 ../root/doc/error.tt:7
 #, perl-format
 msgid "Sorry, “{id}” is not a valid documentation page."
-msgstr ""
+msgstr "Onze excuses, \"{id}\" is geen geldige documentatiepagina."
 
 #: ../root/components/forms.tt:187
 #: ../root/search/lib/inline-results-artist.tt:8
@@ -13959,7 +13959,7 @@ msgstr "Sri Lanka"
 #: ../root/main/500.tt:19
 #, perl-format
 msgid "Stack trace:"
-msgstr ""
+msgstr "Stack trace:"
 
 #: ../root/cdtoc/info.tt:32
 #, perl-format
@@ -14917,7 +14917,7 @@ msgstr ""
 msgid ""
 "The search server could not fulfill your request due to an internal error. "
 "This is usually only temporary, so please retry your search again later."
-msgstr ""
+msgstr "De zoekserver kon uw verzoek niet voldoen door een interne fout. Deze is meestal tijdelijk, dus probeert u het later opnieuw."
 
 #: ../root/layout.tt:128
 #, perl-format
@@ -16382,7 +16382,7 @@ msgstr ""
 #: ../root/elections/show.tt:88
 #, perl-format
 msgid "To find out if you can vote for this candidate, please {url|log in}."
-msgstr ""
+msgstr "{login_url|Meld u aan} om te zien of u op deze kandidaat kunt stemmen."
 
 #: ../root/watch/list.tt:36
 #, perl-format
@@ -16466,19 +16466,19 @@ msgstr ""
 #: ../root/report/recordings_with_earliest_release_relationships.tt:7
 #, perl-format
 msgid "Total recordings found: {count}"
-msgstr ""
+msgstr "Totaal aantal gevonden opnames: {count}"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:7
 #: ../root/report/empty_release_groups.tt:7
 #: ../root/report/featuring_release_groups.tt:7
 #, perl-format
 msgid "Total release groups found: {count}"
-msgstr ""
+msgstr "Totaal aantal gevonden uitgavegroepen: {count}"
 
 #: ../root/report/set_in_different_rg.tt:12
 #, perl-format
 msgid "Total release groups: {count}"
-msgstr ""
+msgstr "Totaal aantal gevonden uitgaves: {count}"
 
 #: ../root/report/asins_with_multiple_releases.tt:7
 #: ../root/report/bad_amazon_urls.tt:7
@@ -16498,7 +16498,7 @@ msgstr ""
 #: ../root/report/unlinked_pseudo_releases.tt:7
 #, perl-format
 msgid "Total releases found: {count}"
-msgstr "Totaal aantal uitgaves gevonden: {count}"
+msgstr "Totaal aantal gevonden uitgaves: {count}"
 
 #: ../root/report/mediums_with_sequence_issues.tt:9
 #: ../root/report/superfluous_data_tracks.tt:9
@@ -17514,7 +17514,7 @@ msgstr ""
 #: ../root/report/not_available.tt:6
 #, perl-format
 msgid "We are sorry, but data for this report is not available right now."
-msgstr ""
+msgstr "Onze excuses, maar voor dit rapport zijn nu geen gegevens beschikbaar."
 
 #: ../root/edit/details/macros.tt:84
 #, perl-format
@@ -17602,7 +17602,7 @@ msgstr "We hebben u een verificatie-e-mail gestuurd naar <code>{email}</code>. K
 msgid ""
 "We're terribly sorry for this problem. Please wait a few minutes and repeat "
 "your request &mdash; the problem may go away."
-msgstr ""
+msgstr "Dit probleem spijt ons enorm. Wacht een paar minuten en herhaal dan uw verzoek &mdash; het probleem kan verholpen zijn."
 
 #: ../root/account/lost_username_sent.tt:5
 #, perl-format
@@ -21863,7 +21863,7 @@ msgstr "bekijk alle waarderingen"
 #: ../root/release/header.tt:10
 #, perl-format
 msgid "see all versions of this release, {count} available"
-msgstr ""
+msgstr "Bekijk alle versies van deze uitgave, {count} beschikbaar"
 
 #: ../root/user/profile.tt:32
 #, perl-format
@@ -23316,7 +23316,7 @@ msgstr "artiesten uit {country}"
 #: ../root/statistics/view_js.tt:81
 #, perl-format
 msgid "{country} labels"
-msgstr ""
+msgstr "platenmaatschappijen uit {country}"
 
 #: ../root/statistics/view_js.tt:82
 #, perl-format
@@ -23922,7 +23922,7 @@ msgstr "Doelopbject niet gevonden"
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:527
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:535
 msgid "Invalid type"
-msgstr ""
+msgstr "Ongeldig type"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:541
 msgid "Entity not found"
@@ -24548,7 +24548,7 @@ msgstr[1] "Dit medium heeft een disc-id, het zou precies {n} nummers moeten hebb
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
 msgid "Track {pos} is missing."
-msgstr ""
+msgstr "Nummer {pos} ontbreekt."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:213
 msgid ""
