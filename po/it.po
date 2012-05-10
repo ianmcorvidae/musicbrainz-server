@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-05 08:20+0000\n"
-"Last-Translator: leofiore <email address hidden>\n"
+"PO-Revision-Date: 2012-05-10 21:19+0000\n"
+"Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -683,12 +683,12 @@ msgstr ""
 #: ../root/edit/info.tt:13
 #, perl-format
 msgid "Add Note"
-msgstr "Aggiungi Annotazione"
+msgstr "Aggiungi nota"
 
 #: ../root/admin/wikidoc/create.tt:1 ../root/admin/wikidoc/create.tt:3
 #, perl-format
 msgid "Add Page"
-msgstr "Aggiungi Pagina"
+msgstr "Aggiungi pagina"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -746,7 +746,7 @@ msgstr ""
 #: ../root/label/create.tt:15 ../root/label/create.tt:17
 #, perl-format
 msgid "Add a New Label"
-msgstr "Aggiungi una Nuova Etichetta"
+msgstr "Aggiungi una nuova etichetta"
 
 #: ../root/release_group/create.tt:23
 #, perl-format
@@ -1737,12 +1737,12 @@ msgstr ""
 #: ../root/artist/layout.tt:4
 #, perl-format
 msgid "Artist information"
-msgstr "Informazioni sull'Artista"
+msgstr "Informazioni sull'artista"
 
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
 msgid "Artist name:"
-msgstr "Nome Artista"
+msgstr "Nome artista"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -4900,7 +4900,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:80
 #, perl-format
 msgid "Edit Note"
-msgstr "Modifica Annotazione"
+msgstr "Modifica nota"
 
 #: ../root/account/edit_ok.tt:1 ../root/account/edit_ok.tt:3
 #: ../root/account/edit.tt:1 ../root/account/edit.tt:3
@@ -5124,7 +5124,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:41
 #, perl-format
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 #: ../root/user/not_found.tt:1 ../root/user/not_found.tt:2
 #, perl-format
@@ -13236,7 +13236,7 @@ msgstr ""
 #: ../root/user/contact.tt:3 ../lib/MusicBrainz/Server/Controller/User.pm:243
 #, perl-format
 msgid "Send Email"
-msgstr "Invia Email"
+msgstr "Invia email"
 
 #: ../root/user/contact.tt:17
 #, perl-format
@@ -23986,7 +23986,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:118
 msgid "Cannot add a CD stub with no tracks"
-msgstr ""
+msgstr "Impossibile aggiungere una bozza CD senza tracce"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:121
 msgid "Incomplete TOC data"
@@ -24418,12 +24418,12 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid "This is not a valid ISRC"
-msgstr ""
+msgstr "Questo non è un ISRC valido"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:12
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:16
 msgid "This is not a valid ISWC"
-msgstr ""
+msgstr "Questo non è un ISWC valido"
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
@@ -24435,7 +24435,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:21
 msgid "Enter a valid url e.g. \"http://google.com/\""
-msgstr "Inserisci un URL valido ad es. \"http://www.google.it\""
+msgstr "Inserisci un URL valido, ad es. \"http://google.com/\""
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
@@ -24549,7 +24549,7 @@ msgstr[1] "Questo supporto ha un ID Disco, dovrebbe avere esattamente {n} tracce
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
 msgid "Track {pos} is missing."
-msgstr "La traccia {pos} è mancante"
+msgstr "La traccia {pos} è mancante."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:213
 msgid ""
@@ -24595,7 +24595,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
-msgstr "Per favore scegli un altro username, questo è già preso"
+msgstr "Per favore scegli un altro username, questo è già stato preso"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
