@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-09 20:56+0000\n"
+"PO-Revision-Date: 2012-05-11 13:56+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -187,7 +187,7 @@ msgstr "(onbekend)"
 #: ../root/user/profile.tt:24
 #, perl-format
 msgid "(verified at {date})"
-msgstr ""
+msgstr "(geverifieerd op {date})"
 
 #: ../root/release/merge.tt:63
 #, perl-format
@@ -499,7 +499,7 @@ msgid ""
 "uses dripping water to create music. Although it is also known as a Japanese"
 " water zither, it is named after the sound the koto (a Japanese zither) "
 "makes and is not actually a string instrument."
-msgstr ""
+msgstr "Een suikinkutsu (Japans: 水琴窟) is een soort Japans tuinmeubel dat met druppelend water muziek maakt. Hoewel het ook bekend staat als een Japanse waterciter, is het genoemd naar het geluid dat de koto (een Japanse citer) maakt en is het geen snaarinstrument."
 
 #: DB:link_attribute_type/description:546
 #, perl-format
@@ -6531,12 +6531,12 @@ msgstr "IPI's:"
 #: ../root/report/isrc_with_many_recordings.tt:15
 #, perl-format
 msgid "ISRC"
-msgstr ""
+msgstr "ISRC"
 
 #: ../root/isrc/not_found.tt:1 ../root/isrc/not_found.tt:2
 #, perl-format
 msgid "ISRC Not Currently Used"
-msgstr ""
+msgstr "Deze ISRC is momenteel niet in gebruik"
 
 #: ../root/edit/details/add_isrcs.tt:8
 #, perl-format
@@ -6551,13 +6551,13 @@ msgstr "ISRC {isrc} naar {recording} van {artist}"
 #: ../root/isrc/index.tt:1 ../root/isrc/index.tt:3
 #, perl-format
 msgid "ISRC “{isrc}”"
-msgstr ""
+msgstr "ISRC “{isrc}”"
 
 #: ../root/edit/details/remove_isrc.tt:3 ../root/otherlookup/form.tt:3
 #: ../root/recording/add_isrc.tt:16 ../root/recording/layout.tt:16
 #, perl-format
 msgid "ISRC:"
-msgstr ""
+msgstr "ISRC:"
 
 #: ../root/artist/recordings-list.tt:26 ../root/report/index.tt:69
 #: ../root/search/lib/inline-results-recording.tt:10
@@ -10614,7 +10614,7 @@ msgstr ""
 msgid ""
 "Other flutes. If you can't find an instrument, please request it at "
 "http://wiki.musicbrainz.org/Talk:Advanced_Instrument_Tree"
-msgstr ""
+msgstr "Overige fluiten. Als u een instrument niet kan vinden, kunt u er een verzoek voor indienen op http://wiki.musicbrainz.org/Talk:Advanced_Instrument_Tree"
 
 #: ../root/statistics/index.tt:173
 #, perl-format
@@ -10626,7 +10626,7 @@ msgstr "Andere geslachten:"
 msgid ""
 "Other instruments. If you can't find an instrument, please request it at "
 "http://wiki.musicbrainz.org/Talk:Advanced_Instrument_Tree"
-msgstr ""
+msgstr "Overige instrumenten. Als u een instrument niet kan vinden, kunt u er een verzoek voor indienen op http://wiki.musicbrainz.org/Talk:Advanced_Instrument_Tree"
 
 #: ../root/search/index.tt:16
 #, perl-format
@@ -10643,7 +10643,7 @@ msgstr ""
 msgid ""
 "Other percussion. If you can't find an instrument, please request it at "
 "http://wiki.musicbrainz.org/Talk:Advanced_Instrument_Tree"
-msgstr ""
+msgstr "Overige percussie. Als u een instrument niet kan vinden, kunt u er een verzoek voor indienen op http://wiki.musicbrainz.org/Talk:Advanced_Instrument_Tree"
 
 #: ../root/artist/index.tt:62
 #, perl-format
@@ -10655,7 +10655,7 @@ msgstr "Andere uitgavegroepen"
 msgid ""
 "Other string instruments. If you can't find an instrument, please request it"
 " at http://wiki.musicbrainz.org/Talk:Advanced_Instrument_Tree"
-msgstr ""
+msgstr "Overige snaarinstrumenten. Als u een instrument niet kan vinden, kunt u er een verzoek voor indienen op http://wiki.musicbrainz.org/Talk:Advanced_Instrument_Tree"
 
 #: DB:link_attribute_type/description:461
 #, perl-format
@@ -10972,7 +10972,7 @@ msgstr ""
 #: DB:link_attribute_type/description:429
 #, perl-format
 msgid "Pipa, plucked Chinese string-instrument (Chinese lute)"
-msgstr ""
+msgstr "Pipa, Chinees tokkelinstrument (Chinese luit)."
 
 #: DB:country/name:169
 msgid "Pitcairn"
@@ -12582,7 +12582,7 @@ msgstr "Verwijder disc-id"
 #: ../root/isrc/delete.tt:1 ../root/isrc/delete.tt:3
 #, perl-format
 msgid "Remove ISRC “{isrc}”"
-msgstr ""
+msgstr "Verwijder ISRC “{isrc}”"
 
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:81
 #, perl-format
@@ -13198,7 +13198,7 @@ msgstr "Zie ook uw {uri|gebruikersinstellingen}, die ook uw privacyinstellingen 
 #: ../root/relationship/linkattributetype/index.tt:21
 #, perl-format
 msgid "See the {uri|full instrument tree}."
-msgstr ""
+msgstr "Bekijk de {uri|volledige instrumententabel}."
 
 #: ../root/cdtoc/attach_filter_artist.tt:35 ../root/cdtoc/move_search.tt:40
 #: ../root/release/edit/recordings.tt:329
@@ -13301,7 +13301,7 @@ msgstr "Shavian"
 #: DB:link_attribute_type/description:493
 #, perl-format
 msgid "Shawm, Medieval and Renaissance instrument, predecessor to the oboe"
-msgstr ""
+msgstr "Schalmei, instrument uit de de Middeleeuwen en de Renaissance, voorloper van de hobo."
 
 #: DB:link_attribute_type/description:462
 #, perl-format
@@ -14661,7 +14661,7 @@ msgid ""
 "bamboo. In Chinese, it is sometimes just called 笛 (di), but in Japanese 笛 "
 "(fue) is a more generic word referring to a whole class of flutes rather "
 "than this specific instrument."
-msgstr ""
+msgstr "De dizi (Chinees: 笛子) is een Chinese dwarsfluit die vaak gemaakt wordt van bamboe. In het Chinees wordt dit instrument soms 笛 (di) genoemd, maar in het Japans verwijst 笛 (fue) naar een hele familie fluiten in plaats van dit specifieke type."
 
 #: DB:link_attribute_type/description:594
 #, perl-format
@@ -14711,7 +14711,7 @@ msgstr ""
 msgid ""
 "The erhu (Chinese: 二胡) is a bowed Chinese instrument with two strings. Also "
 "known as a Chinese violin, erfu or nanhu."
-msgstr ""
+msgstr "De erhu (Chinees: 二胡) is een Chinees strijkinstrument met twee snaren. Ook bekend als de Chinese viool, erfu of nanhu."
 
 #: ../root/user/privileged.tt:41
 #, perl-format
@@ -15163,7 +15163,7 @@ msgstr ""
 msgid ""
 "This ISRC is not associated with any recordings. If you wish to associate it"
 " with a recording, please {search_url|search for the recording} and add it."
-msgstr ""
+msgstr "Deze ISRC is niet gekoppeld aan een opname. Als u het met een opname wilt koppelen, {search_url|zoek dan de opname} en voeg deze toe."
 
 #: ../root/artist/index.tt:109
 #, perl-format
@@ -17725,7 +17725,7 @@ msgstr "Wolof"
 #: DB:link_attribute_type/description:524
 #, perl-format
 msgid "Woodwind instrument of the late baroque and early classical era"
-msgstr ""
+msgstr "Houtblaasinstrument uit de late barok en vroeg-klassieke periode."
 
 #: ../root/artist/works-list.tt:9 ../root/components/common-macros.tt:458
 #: ../root/edit/search_macros.tt:279 ../root/work/edits.tt:19
@@ -18366,7 +18366,7 @@ msgid ""
 "with snakeskin. The bow passes between the two strings and the instrument "
 "has no frets. This instrument is also of Chinese descent but has relatives "
 "all over Asia."
-msgstr ""
+msgstr "een snaarinstrument met een kleine cilindrische kast die aan één kant bedekt is met slangenleer. De strijkstok beweegt tussen de twee snaren en het instrument heeft geen fretten. Dit instrument is ook uit China afkomstig maar heeft overal in Azië verwanten."
 
 #: DB:link_attribute_type/description:385
 #, perl-format
@@ -18460,7 +18460,7 @@ msgstr ""
 msgid ""
 "aka guzheng (古箏), gu-zheng, juzheng, ju-zheng.\n"
 "A traditional Chinese string instrument which typically has 21 strings."
-msgstr ""
+msgstr "ook bekend als guzheng (古箏), gu-zheng, juzheng, ju-zheng.\nEen traditioneel Chinees snaarinstrument met meestal 21 snaren."
 
 #: DB:link_attribute_type/description:344
 #, perl-format
@@ -18548,7 +18548,7 @@ msgstr ""
 #: DB:link_attribute_type/description:296 DB:link_attribute_type/name:296
 #, perl-format
 msgid "archaic and other bowed string-instruments"
-msgstr ""
+msgstr "archaïsche en andere strijkinstrumenten"
 
 #: DB:link_type/link_phrase:265 DB:link_type/reverse_link_phrase:265
 #, perl-format
@@ -18913,7 +18913,7 @@ msgstr ""
 #: DB:link_attribute_type/description:275 DB:link_attribute_type/name:275
 #, perl-format
 msgid "bowed string instruments"
-msgstr ""
+msgstr "strijkinstrumenten"
 
 #: DB:link_attribute_type/description:38 DB:link_attribute_type/name:38
 #, perl-format
@@ -19663,7 +19663,7 @@ msgstr ""
 #: DB:link_attribute_type/description:159 DB:link_attribute_type/name:159
 #, perl-format
 msgid "electronic instruments"
-msgstr ""
+msgstr "elektronische instrumenten"
 
 #: DB:link_attribute_type/description:539 DB:link_attribute_type/name:539
 #, perl-format
@@ -20326,12 +20326,12 @@ msgstr ""
 #: DB:link_attribute_type/name:14
 #, perl-format
 msgid "instrument"
-msgstr ""
+msgstr "instrument"
 
 #: DB:link_attribute_type/name:580
 #, perl-format
 msgid "instrumental"
-msgstr ""
+msgstr "instrumentaal"
 
 #: DB:link_type/link_phrase:112 DB:link_type/reverse_link_phrase:112
 #, perl-format
@@ -21247,7 +21247,7 @@ msgstr ""
 #: DB:link_attribute_type/name:185
 #, perl-format
 msgid "other instruments"
-msgstr ""
+msgstr "overige instrumenten"
 
 #: DB:link_attribute_type/name:221
 #, perl-format
@@ -21257,7 +21257,7 @@ msgstr ""
 #: DB:link_attribute_type/name:88
 #, perl-format
 msgid "other string instruments"
-msgstr ""
+msgstr "overige snaarinstrumenten"
 
 #: DB:link_type/link_phrase:233 DB:link_type/reverse_link_phrase:233
 #: DB:link_type/short_link_phrase:233
@@ -21426,7 +21426,7 @@ msgstr ""
 #: DB:link_attribute_type/description:302 DB:link_attribute_type/name:302
 #, perl-format
 msgid "plucked string instruments"
-msgstr ""
+msgstr "tokkelinstrumenten"
 
 #: ../root/artist/subscribers.tt:14 ../root/label/subscribers.tt:14
 #: ../root/user/subscribers.tt:14
@@ -24107,7 +24107,7 @@ msgstr "Voeg uitgavegebeurtenissen toe (historisch)"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrack.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
 msgid "Add track"
-msgstr ""
+msgstr "Voeg nummer toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackAnnotation.pm:7
 msgid "Add track annotation"
@@ -24222,7 +24222,7 @@ msgstr "Verwijder disc-id"
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveISRC.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Recording/RemoveISRC.pm:17
 msgid "Remove ISRC"
-msgstr ""
+msgstr "Verwijder ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabelAlias.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Label/DeleteAlias.pm:14
@@ -24413,7 +24413,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/GID.pm:12
 msgid "This is not a valid MBID"
-msgstr ""
+msgstr "Dit is geen geldige MBID"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid "This is not a valid ISRC"
@@ -24472,7 +24472,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:121
 msgid "This attribute is required."
-msgstr ""
+msgstr "Deze eigenschap is verplicht"
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:126
 #, perl-brace-format
@@ -24566,7 +24566,7 @@ msgstr "De einddatum moet na de begindatum zijn"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
 msgid "FreeDB"
-msgstr ""
+msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:51
 msgid "Indexed search with advanced query syntax"
@@ -24598,7 +24598,7 @@ msgstr "Kies alstublieft een andere gebruikersnaam, deze is al in gebruik"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
-msgstr ""
+msgstr "Een dag"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:36
 msgid "A week"
@@ -24610,7 +24610,7 @@ msgstr "twee weken"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:38
 msgid "A month"
-msgstr ""
+msgstr "Een maand"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:247
 msgid "YYYY"
@@ -24669,7 +24669,7 @@ msgstr "Een interviewuitgave bevat een interview met de artiest."
 
 #: ../lib/MusicBrainz/Server/Release.pm:86
 msgid "An audiobook is a book read by a narrator without music."
-msgstr ""
+msgstr "Een audioboek is een boek dat zonder muziek wordt voorgelezen."
 
 #: ../lib/MusicBrainz/Server/Release.pm:87
 msgid "A release that was recorded live."
