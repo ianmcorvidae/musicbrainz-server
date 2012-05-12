@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-12 20:58+0000\n"
+"PO-Revision-Date: 2012-05-12 21:58+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -49,7 +49,7 @@ msgstr ""
 #: ../root/recording/add_isrc.tt:11
 #, perl-format
 msgid "\"YY\" is the last two digits of the year of registration."
-msgstr ""
+msgstr "\"JJ\" zijn de laatste twee cijfers van het registratiejaar."
 
 #: ../root/cdstub/cdstub.tt:4 ../root/edit/details/add_medium.tt:48
 #: ../root/edit/details/edit_medium.tt:47
@@ -71,7 +71,7 @@ msgstr "% van totale media"
 #: ../root/statistics/formats.tt:29
 #, perl-format
 msgid "% of total releases"
-msgstr ""
+msgstr "% van het totale aantal uitgaves"
 
 #: ../root/doc/edit_type.tt:67
 #, perl-format
@@ -336,7 +336,7 @@ msgstr "<strong>Let op:</strong>MediaWiki controleert niet of het versienummer o
 #: ../root/components/common-macros.tt:623
 #, perl-format
 msgid "<strong>Note</strong>:"
-msgstr ""
+msgstr "<strong>Let op</strong>:"
 
 #: ../root/main/index.tt:54
 #, perl-format
@@ -697,7 +697,7 @@ msgstr ""
 #: ../root/layout/menu.tt:185 ../root/release/edit/layout.tt:4
 #, perl-format
 msgid "Add Release"
-msgstr "Voeg uitgave toe"
+msgstr "Voeg een uitgave toe"
 
 #: ../root/layout/menu.tt:182
 #, perl-format
@@ -779,7 +779,7 @@ msgstr "Voeg een nieuwe uitgave toe"
 #: ../root/edit/notes.tt:39
 #, perl-format
 msgid "Add an edit note"
-msgstr "Voeg een wijzigingsopmerking toe"
+msgstr "Voeg een wijzigingsnotitie toe"
 
 #: ../root/artist/layout.tt:80 ../root/label/layout.tt:59
 #: ../root/recording/layout.tt:37 ../root/release_group/layout.tt:36
@@ -818,7 +818,7 @@ msgstr "Voeg een disc-id toe aan een bestaande uitgave"
 #: ../root/edit/add_note.tt:4
 #, perl-format
 msgid "Add edit note"
-msgstr "Voeg een wijzigingsopmerking toe"
+msgstr "Voeg een wijzigingsnotitie toe"
 
 #: ../root/label/add_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabelAlias.pm:7
@@ -845,7 +845,7 @@ msgstr "Voeg nieuwe opname toe"
 #: ../root/edit/index.tt:86
 #, perl-format
 msgid "Add note and votes"
-msgstr ""
+msgstr "Voeg de notitie toe en breng de stem uit"
 
 #: ../root/artist/layout.tt:67
 #, perl-format
@@ -4309,7 +4309,7 @@ msgstr "Datum"
 #: ../root/artist/edit_form.tt:48 ../root/label/edit_form.tt:49
 #, perl-format
 msgid "Date Period"
-msgstr ""
+msgstr "Periode"
 
 #: ../root/account/preferences.tt:14
 #, perl-format
@@ -5033,12 +5033,12 @@ msgstr "Wijzig de aantekening van de platenmaatschappij"
 #: ../root/edit/cancel.tt:19 ../root/forms/edit-note.tt:13
 #, perl-format
 msgid "Edit note:"
-msgstr "Wijzigingsopmerking:"
+msgstr "Wijzigingsnotitie:"
 
 #: ../root/edit/index.tt:84
 #, perl-format
 msgid "Edit notes"
-msgstr "Wijzigingsopmerkingen"
+msgstr "Wijzigingsnotities"
 
 #: ../root/admin/edit_user.tt:30
 #, perl-format
@@ -5748,14 +5748,14 @@ msgstr "Bent u uw {link1|gebruikersnaam} of {link2|wachtwoord} vergeten?"
 #: ../root/statistics/formats.tt:27
 #, perl-format
 msgid "Format"
-msgstr ""
+msgstr "Type medium"
 
 #: ../root/edit/details/add_medium.tt:25
 #: ../root/edit/details/edit_medium.tt:33
 #: ../root/edit/details/edit_release_label.tt:56 ../root/release/sidebar.tt:18
 #, perl-format
 msgid "Format:"
-msgstr ""
+msgstr "Type medium:"
 
 #: ../root/statistics/view_js.tt:36
 #, perl-format
@@ -6696,7 +6696,7 @@ msgstr "Als u deze alias per ongeluk hebt toegevoegd, volg dan alstublieft de in
 #: ../root/cdtoc/attach_artist_releases.tt:108
 #, perl-format
 msgid "If you can't find what you're looking for, you can add a new release:"
-msgstr ""
+msgstr "Als u niet kunt vinden wat u zoekt, kunt u een nieuwe uitgave toevoegen:"
 
 #: ../root/account/edit.tt:7
 #, perl-format
@@ -7259,7 +7259,7 @@ msgid ""
 "the lyrics or music). In most cases, new versions of a song should simply be"
 " performances of the original work. (<a "
 "href=\"http://musicbrainz.org/doc/Other_Version_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een andere versie van dezelfde compositie aan. Let op: Dit moet allen gebruikt worden als aparte composities nodig zijn (bijv. wanneer er significante veranderingen in de tekst of de muziek zijn gedaan). In de meeste gevallen is een nieuwe versie van een nummer gewoon een uitvoering van de originele compositie. (<a href=\"http://musicbrainz.org/doc/Other_Version_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:252 DB:link_type/description:269
 #, perl-format
@@ -8288,7 +8288,7 @@ msgstr "Koreaans"
 #, perl-format
 msgid ""
 "Kortholt, a woodwind instrument that was popular in the Renaissance period."
-msgstr ""
+msgstr "Kortholt, een houtblaasinstrument dat in de Renaissance populair was."
 
 #: DB:language/name:225
 msgid "Kosraean"
@@ -8356,12 +8356,12 @@ msgstr "Vestigingsland van de platenmaatschappij"
 #: ../root/label/edit_form.tt:34
 #, perl-format
 msgid "Label Details"
-msgstr ""
+msgstr "Details over de platenmaatschappij"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Label IPI:"
-msgstr ""
+msgstr "IPI van de platenmaatschappij:"
 
 #: ../root/statistics/view_js.tt:126
 #, perl-format
@@ -8376,7 +8376,7 @@ msgstr "Platenmaatschappij niet gevonden"
 #: ../root/statistics/view_js.tt:157
 #, perl-format
 msgid "Label Ratings"
-msgstr ""
+msgstr "Waarderingen van de platenmaatschappij"
 
 #: ../root/statistics/view_js.tt:163
 #, perl-format
@@ -8407,7 +8407,7 @@ msgstr "Informatie over de platenmaatschappij"
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Label ratings"
-msgstr ""
+msgstr "Waarderingen van de platenmaatschappij"
 
 #: ../root/statistics/index.tt:608
 #, perl-format
@@ -8465,7 +8465,7 @@ msgstr "Platenmaatschappijen"
 #: ../root/browse/label.tt:8
 #, perl-format
 msgid "Labels starting with “{index}”"
-msgstr ""
+msgstr "Platenmaatschappijen die beginnen met \"{index}\""
 
 #: ../root/statistics/view_js.tt:77
 #, perl-format
@@ -9564,7 +9564,7 @@ msgstr ""
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
 msgid "MusicBrainz Database"
-msgstr ""
+msgstr "Gegevensbank van MusicBrainz"
 
 #: ../root/statistics/timeline.tt:63
 #, perl-format
@@ -10054,7 +10054,7 @@ msgstr ""
 #: ../root/edit/notes.tt:29
 #, perl-format
 msgid "No edit notes have been added."
-msgstr "Geen wijzigingsopmerkingen toegevoegd."
+msgstr "Geen wijzigingsnotities toegevoegd."
 
 #: ../root/edit/list.tt:88
 #, perl-format
@@ -10311,7 +10311,7 @@ msgstr "Let op! Als u de maand of dag van uitgave niet weer, laat de velden dan 
 #: ../root/edit/details/set_track_lengths.tt:58
 #, perl-format
 msgid "Note:"
-msgstr ""
+msgstr "Let op:"
 
 #: ../root/edit/search_macros.tt:215
 #, perl-format
@@ -10563,7 +10563,7 @@ msgstr ""
 
 #: DB:label_type/name:4
 msgid "Original Production"
-msgstr ""
+msgstr "Originele productie"
 
 #: DB:language/name:320 DB:script/name:54
 msgid "Oriya"
@@ -10916,7 +10916,7 @@ msgstr "Met de voeten uitgevoerde percussie, zoals <a href=\"http://nl.wikipedia
 #: ../root/release_group/details.tt:20 ../root/work/details.tt:20
 #, perl-format
 msgid "Permanent link:"
-msgstr ""
+msgstr "Permanente verwijzing:"
 
 #: DB:language/name:334
 msgid "Persian"
@@ -11020,7 +11020,7 @@ msgstr "Controleert u alstublieft de streepjescode op de release nog een keer."
 msgid ""
 "Please enter tags in the text area below. Tags are comma separated, and you "
 "may wish to see the {tagsyn|tag syntax documentation} for more information"
-msgstr "Voer etiketten alstublieft in het veld hieronder in. Etiketten worden gescheiden door komma's, en u kunt de {tagsyn|etiket syntaxinformatie} raadplegen voor meer informatie."
+msgstr "Voer etiketten alstublieft in het veld hieronder in. Etiketten worden gescheiden door komma's, en u kunt de {tagsyn|syntaxinformatie voor etiketten} raadplegen voor meer informatie."
 
 #: ../root/release/edit/information.tt:157
 #, perl-format
@@ -11080,7 +11080,7 @@ msgid ""
 "Please note that capitalization of the label name is taken into account when"
 " determining the need for a comment.  The two labels <em>some name</em> and "
 "<em>Some Name</em> are not the same."
-msgstr ""
+msgstr "Let op dat het hoofdlettergebruik in de naam van de platenmaatschappij van belang is bij het bepalen of er een notitie nodig is. De twee platenmaatschappijen <strong>Een naam</strong> en <strong>Een Naam</strong> zijn niet hetzelfde."
 
 #: ../root/search/form.tt:49
 #, perl-format
@@ -11174,7 +11174,7 @@ msgstr ""
 #: ../root/cdstub/import.tt:3
 #, perl-format
 msgid "Please search for the artist you wish to create a new release for:"
-msgstr ""
+msgstr "Zoek naar de artiest waar u een nieuwe uitgave voor wilt toevoegen:"
 
 #: ../root/release/cover_art_fields.tt:8
 #, perl-format
@@ -12034,7 +12034,7 @@ msgstr "Landen van uitgave"
 #: ../root/statistics/view_js.tt:34
 #, perl-format
 msgid "Release Data Quality"
-msgstr ""
+msgstr "Kwaliteit van de gegevens over de uitgave"
 
 #: ../root/recording/index.tt:14
 #, perl-format
@@ -12058,7 +12058,7 @@ msgstr "Uitgavegroep"
 #: ../root/release_group/edit_form.tt:6
 #, perl-format
 msgid "Release Group Details"
-msgstr ""
+msgstr "Details over de uitgavegroep"
 
 #: ../root/release_group/not_found.tt:1 ../root/release_group/not_found.tt:2
 #, perl-format
@@ -12068,7 +12068,7 @@ msgstr "Uitgavegroep niet gevonden"
 #: ../root/statistics/view_js.tt:159
 #, perl-format
 msgid "Release Group Ratings"
-msgstr ""
+msgstr "Waarderingen van de uitgavegroep"
 
 #: ../root/statistics/view_js.tt:165
 #, perl-format
@@ -12124,7 +12124,7 @@ msgstr "Taal van de uitgave"
 #: ../root/statistics/view_js.tt:31
 #, perl-format
 msgid "Release Languages"
-msgstr ""
+msgstr "Talen van de uitgave"
 
 #: ../root/release/not_found.tt:1 ../root/release/not_found.tt:2
 #, perl-format
@@ -12134,7 +12134,7 @@ msgstr "Uitgave niet gevonden"
 #: ../root/statistics/view_js.tt:30
 #, perl-format
 msgid "Release Scripts"
-msgstr ""
+msgstr "Schriften van de uitgave"
 
 #: ../root/statistics/view_js.tt:173
 #, perl-format
@@ -12144,7 +12144,7 @@ msgstr ""
 #: ../root/recording/index.tt:12
 #, perl-format
 msgid "Release Title"
-msgstr ""
+msgstr "Titel van de uitgave"
 
 #: ../root/release/edits.tt:20 ../root/release/header.tt:8
 #, perl-format
@@ -12180,7 +12180,7 @@ msgstr "Informatie over de uitgavegroep"
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Release group ratings"
-msgstr ""
+msgstr "Waarderingen van de uitgavegroep"
 
 #: ../root/release/relationships.tt:4
 #, perl-format
@@ -12210,7 +12210,7 @@ msgstr "Uitgavegroepen"
 #: ../root/artist/browse_various.tt:5 ../root/browse/release_group.tt:8
 #, perl-format
 msgid "Release groups starting with “{index}”"
-msgstr ""
+msgstr "Uitgavegroepen die beginnen met \"{index}\""
 
 #: ../root/report/index.tt:29
 #, perl-format
@@ -12241,7 +12241,7 @@ msgstr "Informatie over de uitgave"
 #: ../root/cdtoc/attach_filter_release.tt:11 ../root/cdtoc/move_search.tt:13
 #, perl-format
 msgid "Release title:"
-msgstr ""
+msgstr "Titel van de uitgave"
 
 #: ../root/release/layout.tt:1
 #, perl-format
@@ -12256,12 +12256,12 @@ msgstr "Uitgave-Uitgavegroep:"
 #: ../root/statistics/index.tt:674
 #, perl-format
 msgid "Release-Release:"
-msgstr ""
+msgstr "Uitgave-Uitgave:"
 
 #: ../root/statistics/index.tt:686
 #, perl-format
 msgid "Release-URL:"
-msgstr ""
+msgstr "Uitgave-URL:"
 
 #: ../root/statistics/index.tt:692
 #, perl-format
@@ -12294,7 +12294,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:210 ../root/taglookup/form.tt:5
 #, perl-format
 msgid "Release:"
-msgstr ""
+msgstr "Uitgave:"
 
 #: ../root/artist/browse_various_releases.tt:1
 #: ../root/artist/browse_various.tt:17 ../root/artist/header.tt:1
@@ -12365,7 +12365,7 @@ msgstr "Uitgaves die te vroeg zijn uitgegeven"
 #: ../root/artist/browse_various_releases.tt:5 ../root/browse/release.tt:8
 #, perl-format
 msgid "Releases starting with “{index}”"
-msgstr ""
+msgstr "Uitgaves die beginnen met \"{index}\""
 
 #: ../root/report/index.tt:52
 #, perl-format
@@ -12460,12 +12460,12 @@ msgstr "Uitgaves waarbij het schrift niet is ingesteld"
 #: ../root/report/index.tt:57
 #, perl-format
 msgid "Releases with non-sequential mediums"
-msgstr ""
+msgstr "Uitgaves met media die niet op volgorde zijn"
 
 #: ../root/report/index.tt:48
 #, perl-format
 msgid "Releases with non-sequential track numbers"
-msgstr ""
+msgstr "Uitgaves met nummers die niet op volgorde zijn"
 
 #: ../root/report/index.tt:49 ../root/report/superfluous_data_tracks.tt:3
 #, perl-format
@@ -12631,7 +12631,7 @@ msgstr ""
 #: ../root/release/delete.tt:2
 #, perl-format
 msgid "Remove Release"
-msgstr ""
+msgstr "Verwijder uitgave"
 
 #: ../root/release_group/delete.tt:1
 #, perl-format
@@ -13419,7 +13419,7 @@ msgstr "Siksika"
 #: ../root/release/edit/duplicates.tt:12
 #, perl-format
 msgid "Similar releases"
-msgstr "Gelijkende uitgaves"
+msgstr "Soortgelijke uitgaves"
 
 #: DB:language/name:387
 msgid "Sindhi"
@@ -14214,7 +14214,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:43
 #, perl-format
 msgid "Tag"
-msgstr "Etiket"
+msgstr "Etiket toevoegen"
 
 #: ../root/taglookup/index.tt:1 ../root/taglookup/index.tt:3
 #, perl-format
@@ -14244,12 +14244,12 @@ msgstr ""
 #: ../root/release/sidebar.tt:60
 #, perl-format
 msgid "Tag release"
-msgstr ""
+msgstr "Geef de uitgave een etiket"
 
 #: ../root/release_group/layout.tt:18
 #, perl-format
 msgid "Tag release group"
-msgstr ""
+msgstr "Geef de uitgavegroep een etiket"
 
 #: ../root/artist/layout.tt:46 ../root/artist/tags.tt:3
 #, perl-format
@@ -14264,7 +14264,7 @@ msgstr "Geeft deze collectie een etiket"
 #: ../root/label/layout.tt:41 ../root/label/tags.tt:3
 #, perl-format
 msgid "Tag this label"
-msgstr ""
+msgstr "Etiketteer deze platenmaatschappij"
 
 #: ../root/recording/layout.tt:26 ../root/recording/tags.tt:3
 #, perl-format
@@ -14274,12 +14274,12 @@ msgstr "Etiketteer deze opname"
 #: ../root/release/tags.tt:3
 #, perl-format
 msgid "Tag this release"
-msgstr ""
+msgstr "Geef deze uitgave een etiket"
 
 #: ../root/release_group/tags.tt:3
 #, perl-format
 msgid "Tag this release group"
-msgstr ""
+msgstr "Geef de uitgavegroep een etiket"
 
 #: ../root/work/layout.tt:20 ../root/work/tags.tt:3
 #, perl-format
@@ -14640,7 +14640,7 @@ msgstr ""
 msgid ""
 "The data in this edit originally came from an older version of this edit, "
 "and may not display correctly"
-msgstr ""
+msgstr "De gegevens in deze wijziging komen oorspronkelijk uit een oudere versie van deze wijziging, en worden mogelijk niet correct weergegeven."
 
 #: ../root/layout.tt:136
 #, perl-format
@@ -14652,7 +14652,7 @@ msgstr "De gegevens die u heeft ingediend verandert niets aan de al bestaande ge
 #: ../root/tag/cloud.tt:9
 #, perl-format
 msgid "The database has no tags."
-msgstr ""
+msgstr "De gegevensbank heeft geen etiketten."
 
 #: DB:link_attribute_type/description:553
 #, perl-format
@@ -15262,7 +15262,7 @@ msgstr ""
 msgid ""
 "This attribute indicates a version with the lyrics in a different language "
 "than the original."
-msgstr ""
+msgstr "Deze eigenschap geeft een versie aan met tekst in een andere taal dan het origineel."
 
 #: DB:link_attribute_type/description:525
 #, perl-format
@@ -15329,7 +15329,7 @@ msgid ""
 " the fact a label has been bought by another one, or that a label is a "
 "subdivision of another one. (<a "
 "href=\"http://musicbrainz.org/doc/Label_Ownership_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Dit beschrijft het feit dat een platenmaatschappij een dochteronderneming van een andere platenmaatschappij is of was. Dit wordt gebruikt als een platenmaatschappij door een andere wordt gekocht of als een platenmaatschappij een subdivisie van een andere is. (<a href=\"http://musicbrainz.org/doc/Label_Ownership_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:203
 #, perl-format
@@ -15967,7 +15967,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:99
 #, perl-format
 msgid "This release does not have a barcode"
-msgstr ""
+msgstr "Deze uitgave heeft geen streepjescode"
 
 #: ../root/release_group/delete.tt:17
 #, perl-format
@@ -15979,12 +15979,12 @@ msgstr ""
 #: ../root/release_group/tags.tt:2
 #, perl-format
 msgid "This release group has no tags."
-msgstr ""
+msgstr "Deze uitgavegroep heeft geen etiketten."
 
 #: ../root/release/tags.tt:2
 #, perl-format
 msgid "This release has no tags."
-msgstr ""
+msgstr "Deze uitgave heeft geen etiketten."
 
 #: ../root/report/duplicate_artists.tt:6
 #, perl-format
@@ -16005,7 +16005,7 @@ msgstr ""
 msgid ""
 "This report aims to identify releases which need converting to \"multiple "
 "artists\"."
-msgstr ""
+msgstr "Dit rapport probeert uitgaves te identificeren die moeten worden omgezet naar \"diverse artiesten\"."
 
 #: ../root/report/duplicate_artists.tt:8
 #, perl-format
@@ -16173,7 +16173,7 @@ msgstr ""
 msgid ""
 "This report shows releases where some of the medium formats are set, but "
 "others are unset."
-msgstr ""
+msgstr "Dit rapport laat uitgaves zien waar van sommige media het type is ingesteld, en van sommige media niet."
 
 #: ../root/report/separate_discs.tt:6
 #, perl-format
@@ -17023,7 +17023,7 @@ msgstr ""
 #: ../root/components/tag.tt:3
 #, perl-format
 msgid "Update Tags"
-msgstr ""
+msgstr "Werkt etiketten bij"
 
 #: ../root/artist/merge.tt:19
 #, perl-format
@@ -17453,7 +17453,7 @@ msgstr ""
 #: ../root/doc/edit_type.tt:43
 #, perl-format
 msgid "Voting period (days)"
-msgstr ""
+msgstr "Stemmingsperiode (dagen)"
 
 #: DB:link_attribute_type/description:201 DB:link_attribute_type/name:201
 #, perl-format
@@ -17540,7 +17540,7 @@ msgstr ""
 #: ../root/release/cover_art.tt:38
 #, perl-format
 msgid "We do not currently have any cover art for {release}."
-msgstr ""
+msgstr "We hebben momenteel geen hoesafbeelding van {release}."
 
 #: ../root/cdtoc/lookup.tt:78
 #, perl-format
@@ -17641,12 +17641,12 @@ msgstr "Westelijke Sahara"
 #: ../root/account/preferences.tt:39
 #, perl-format
 msgid "When I add a note to an edit, mail me all future notes for that edit."
-msgstr "Als ik een opmerking toevoeg bij een wijziging, e-mail me dan alle hiernavolgende opmerkingen bij deze wijziging."
+msgstr "Als ik een notitie toevoeg bij een wijziging, e-mail me dan alle hiernavolgende notities bij deze wijziging."
 
 #: ../root/account/preferences.tt:41
 #, perl-format
 msgid "When I vote on an edit, mail me all future notes for that edit."
-msgstr "Als ik stem op een wijziging, e-mail me dan alle hiernavolgende opmerkingen bij deze wijziging."
+msgstr "Als ik stem op een wijziging, e-mail me dan alle hiernavolgende notities bij deze wijziging."
 
 #: ../root/layout/merge-helper.tt:18
 #, perl-format
@@ -17708,7 +17708,7 @@ msgid ""
 "Wind chimes are chimes constructed from suspended tubes, rods, bells or "
 "other objects, designed to be hung outside and played by the wind. (<a "
 "href=\"http://en.wikipedia.org/wiki/Wind_chime\">Wikipedia</a>)"
-msgstr ""
+msgstr "Windgongen (wind chimes) zijn gongen die zijn gemaakt van opgehangen buizen, staven, bellen of andere objecten die buiten worden opgehangen om door de wind bespeeld te worden. (<a href=\"http://en.wikipedia.org/wiki/Wind_chime\">Wikipedia</a>)"
 
 #: DB:language/name:452
 msgid "Wolaitta"
@@ -18021,7 +18021,7 @@ msgstr ""
 #: ../root/edit/notes.tt:45
 #, perl-format
 msgid "You are not currently able to add notes to this edit. ({url|Details})"
-msgstr "U kunt momenteel geen opmerkingen toevoegen bij deze wijziging. ({url|Details})"
+msgstr "U kunt momenteel geen notities toevoegen bij deze wijziging. ({url|Details})"
 
 #: ../root/edit/index.tt:63
 #, perl-format
@@ -18124,7 +18124,7 @@ msgstr "U heeft de artiest voor specifieke doeleinden {valink|Diverse Artiesten}
 msgid ""
 "You may enter an edit note while cancelling this edit. This can be useful to"
 " point editors to another edit."
-msgstr "U kunt een opmerking toevoegen als u een wijziging annuleert. Dit kan handig zijn om redacteuren op een andere wijziging te wijzen."
+msgstr "U kunt een notitie toevoegen als u een wijziging annuleert. Dit kan handig zijn om redacteuren op een andere wijziging te wijzen."
 
 #: ../root/artist/special_purpose.tt:2
 #, perl-format
@@ -18179,7 +18179,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:122
 #, perl-format
 msgid "You selected {releasegroup}."
-msgstr ""
+msgstr "U heeft {releasegroep} geselecteerd"
 
 #: ../root/account/donation.tt:22
 #, perl-format
@@ -18428,7 +18428,7 @@ msgstr ""
 #: DB:link_attribute_type/name:597
 #, perl-format
 msgid "agogô"
-msgstr ""
+msgstr "agogô"
 
 #: DB:link_attribute_type/description:540
 #, perl-format
@@ -19413,7 +19413,7 @@ msgstr ""
 #: DB:link_type/link_phrase:248 DB:link_type/reverse_link_phrase:248
 #, perl-format
 msgid "design/illustration"
-msgstr ""
+msgstr "ontwerp/illustratie"
 
 #: DB:link_attribute_type/name:463
 #, perl-format
@@ -19593,7 +19593,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:238
 #, perl-format
 msgid "earliest release"
-msgstr ""
+msgstr "vroegste uitgave"
 
 #: DB:link_attribute_type/description:404 DB:link_attribute_type/name:404
 #, perl-format
@@ -19773,12 +19773,12 @@ msgstr "opgericht"
 #: DB:link_attribute_type/name:525
 #, perl-format
 msgid "founder"
-msgstr ""
+msgstr "oprichter"
 
 #: DB:link_type/reverse_link_phrase:116
 #, perl-format
 msgid "founders"
-msgstr ""
+msgstr "oprichters"
 
 #: DB:link_attribute_type/description:421 DB:link_attribute_type/name:421
 #, perl-format
@@ -20215,12 +20215,12 @@ msgstr ""
 #: DB:link_type/short_link_phrase:248
 #, perl-format
 msgid "has design/illustration by"
-msgstr ""
+msgstr "heeft ontwerp/illustratie door"
 
 #: DB:link_type/short_link_phrase:249
 #, perl-format
 msgid "has graphic design by"
-msgstr ""
+msgstr "heeft grafisch ontwerp door"
 
 #: DB:link_type/short_link_phrase:211
 #, perl-format
@@ -20480,7 +20480,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:238
 #, perl-format
 msgid "is the earliest release of"
-msgstr ""
+msgstr "is de vroegste uitgave van"
 
 #: DB:link_type/short_link_phrase:241
 #, perl-format
@@ -20535,7 +20535,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:103
 #, perl-format
 msgid "is/was {additional:an additional|a} member of {founder:and founded|}"
-msgstr ""
+msgstr "is/was {additional:een overig|een} lid van {founder:en richtte op|}"
 
 #: DB:link_attribute_type/name:605
 #, perl-format
@@ -21237,7 +21237,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:273
 #, perl-format
 msgid "other databases"
-msgstr ""
+msgstr "andere gegevensbanken"
 
 #: DB:link_attribute_type/name:265
 #, perl-format
@@ -21682,7 +21682,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "release groups"
-msgstr ""
+msgstr "uitgavegroepen"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -21943,12 +21943,12 @@ msgstr "broer(s) of zus(sen)"
 #: DB:link_type/reverse_link_phrase:121
 #, perl-format
 msgid "signed"
-msgstr ""
+msgstr "onder contract"
 
 #: DB:link_type/link_phrase:121
 #, perl-format
 msgid "signed by"
-msgstr ""
+msgstr "getekend door"
 
 #: DB:link_attribute_type/description:191 DB:link_attribute_type/name:191
 #, perl-format
@@ -22113,7 +22113,7 @@ msgstr "abonneren"
 #: DB:link_type/link_phrase:200
 #, perl-format
 msgid "subsidiaries"
-msgstr ""
+msgstr "dochterondernemingen"
 
 #: DB:link_attribute_type/name:192
 #, perl-format
@@ -22248,7 +22248,7 @@ msgstr ""
 #: DB:link_attribute_type/name:532
 #, perl-format
 msgid "taragot"
-msgstr ""
+msgstr "taragot"
 
 #: DB:link_attribute_type/description:167 DB:link_attribute_type/name:167
 #, perl-format
@@ -23092,13 +23092,13 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:19 DB:link_type/reverse_link_phrase:130
 #, perl-format
 msgid "{additional} design/illustration"
-msgstr ""
+msgstr "{extra} ontwerp/illustratie"
 
 #: DB:link_type/link_phrase:27 DB:link_type/link_phrase:125
 #: DB:link_type/reverse_link_phrase:27 DB:link_type/reverse_link_phrase:125
 #, perl-format
 msgid "{additional} graphic design"
-msgstr ""
+msgstr "{extra} grafisch ontwerp"
 
 #: DB:link_type/link_phrase:24 DB:link_type/link_phrase:131
 #: DB:link_type/reverse_link_phrase:24 DB:link_type/reverse_link_phrase:131
@@ -23180,12 +23180,12 @@ msgstr ""
 #: DB:link_type/link_phrase:103
 #, perl-format
 msgid "{additional} {founder:founding} member of"
-msgstr ""
+msgstr "{overige} {founder:oprichtend} lid van"
 
 #: DB:link_type/reverse_link_phrase:103
 #, perl-format
 msgid "{additional} {founder:founding} members"
-msgstr ""
+msgstr "{overige} {founder:oprichtende} leden"
 
 #: DB:link_type/reverse_link_phrase:51 DB:link_type/reverse_link_phrase:156
 #, perl-format
@@ -23382,7 +23382,7 @@ msgstr "{entity} heeft geen aliassen."
 #: ../root/edit/details/remove_medium.tt:6
 #, perl-format
 msgid "{format} {position} {name} on {release} by {artist}"
-msgstr ""
+msgstr "{format} {position} {name} op {release} van {artist}"
 
 #: ../root/statistics/view_js.tt:92
 #, perl-format
@@ -23481,8 +23481,8 @@ msgstr[1] "{num} uitgaves gevonden die aan uw zoekopdracht voldoen."
 #, perl-format
 msgid "{num} release group found"
 msgid_plural "{num} release groups found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} uitgavegroep gevonden"
+msgstr[1] "{num} uitgavegroepen gevonden"
 
 #: ../root/tag/work.tt:1
 #, perl-format
@@ -24377,7 +24377,7 @@ msgstr "[geen]"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:25
 msgid "Filter release groups"
-msgstr ""
+msgstr "Filter uitgavegroepen"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:39
 msgid "Filter releases"
@@ -24454,7 +24454,7 @@ msgstr "Posities moeten groter zijn dan 0"
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
-msgstr "U moet een opmerking toevoegen als u een losstaande opname toevoegt."
+msgstr "U moet een notitie toevoegen als u een losstaande opname toevoegt."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:13
 msgid "Link type is required"
@@ -24483,7 +24483,7 @@ msgstr ""
 msgid ""
 "You must provide an edit note when adding a release. Even just a URL or "
 "something like “CD in hand” helps!"
-msgstr "U moet een wijzigingsopmerking geven als u een uitgave toevoegt. Alleen al een URL of iets als \"cd in mijn hand\" helpt!"
+msgstr "U moet een wijzigingsnotitie geven als u een uitgave toevoegt. Alleen al een URL of iets als \"cd in mijn hand\" helpt!"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:63
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:86
