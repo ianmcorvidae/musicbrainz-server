@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-11 14:03+0000\n"
+"PO-Revision-Date: 2012-05-12 19:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -202,14 +202,14 @@ msgstr "(was medium {position}: {name} op uitgave {release})"
 #: ../root/recording/layout.tt:19
 #, perl-format
 msgid "({delete_uri|remove})"
-msgstr ""
+msgstr "({delete_uri|verwijder})"
 
 #: ../root/release/lookup.tt:31
 #, perl-format
 msgid ""
 "* Match indicates the total difference in seconds between the CD you "
 "requested and the matches we found."
-msgstr ""
+msgstr "* Geeft het totaal aantal secondes verschil aan tussen de cd die u opvroeg en de gevonden resultaten."
 
 #: ../root/statistics/view_js.tt:23
 #, perl-format
@@ -219,7 +219,7 @@ msgstr ""
 #: ../root/user/profile.tt:81
 #, perl-format
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../root/edit/info.tt:48
 #, perl-format
@@ -230,7 +230,7 @@ msgstr[1] "{n} unanieme stemmen"
 
 #: DB:medium_format/name:30
 msgid "10\" Vinyl"
-msgstr ""
+msgstr "10\" vinyl"
 
 #: ../root/statistics/formats.tt:39 ../root/statistics/formats.tt:41
 #: ../root/user/profile.tt:179 ../root/user/profile.tt:183
@@ -241,21 +241,21 @@ msgstr "100%"
 #: DB:link_attribute_type/description:529 DB:link_attribute_type/name:529
 #, perl-format
 msgid "12 string guitar"
-msgstr ""
+msgstr "twaalfsnarige gitaar"
 
 #: DB:medium_format/name:31
 msgid "12\" Vinyl"
-msgstr ""
+msgstr "12\" vinyl"
 
 #: ../root/elections/show.tt:17
 #, perl-format
 msgid "1st seconder:"
-msgstr ""
+msgstr "eerste secondant"
 
 #: ../root/elections/show.tt:20
 #, perl-format
 msgid "2nd seconder:"
-msgstr ""
+msgstr "tweede secondant"
 
 #: DB:link_attribute_type/description:414
 #, perl-format
@@ -264,7 +264,7 @@ msgstr "driesnarige fretloze luit"
 
 #: DB:medium_format/name:29
 msgid "7\" Vinyl"
-msgstr ""
+msgstr "7\" vinyl"
 
 #: DB:medium_format/name:34
 msgid "8cm CD"
@@ -306,7 +306,7 @@ msgid ""
 "<strong>Error:</strong> You are trying to browse the database using a query "
 "that is longer than 6 characters. We do not index data at this level of "
 "granularity, you may want to {uri|search the database} instead."
-msgstr ""
+msgstr "<strong>Foutmelding:</strong> U probeert door de gegevensbank te bladeren met een zoekopdracht van meer dan zes karakters. We indexeren geen gegevens met deze fijnheid, u kunt ook {uri|zoeken in de gegevensbank}."
 
 #: ../root/components/common-macros.tt:610
 #: ../root/release/edit/tracklist.tt:144
@@ -407,7 +407,7 @@ msgstr "Een bellenboom is een percussie-instrument, bestaande uit verticaal in e
 #: DB:link_attribute_type/description:565
 #, perl-format
 msgid "A chamber organ is a small pipe organ."
-msgstr ""
+msgstr "Een kamerorgel is een klein pijporgel."
 
 #: DB:link_attribute_type/description:531
 #, perl-format
@@ -419,14 +419,14 @@ msgstr "Een groep Zuid-Amerikaanse gitaren"
 msgid ""
 "A descant or soprano recorder is the most common size of recorder and is "
 "often learnt by children."
-msgstr ""
+msgstr "Een sopraanblokfluit is de meest gangbare blokfluit en wordt vaak door kinderen geleerd."
 
 #: DB:link_attribute_type/description:547
 #, perl-format
 msgid ""
 "A hi-hat (or hihat) is a typical part of a drum kit, consisting of a pair of"
 " cymbals mounted on a stand."
-msgstr ""
+msgstr "Een hi-hat (of hihat) is een typerend onderdeel van een drumstel en bestaat uit twee bekkens die op een standaard zijn gemonteerd."
 
 #: DB:link_attribute_type/description:356
 #, perl-format
@@ -518,12 +518,12 @@ msgstr ""
 #: DB:link_attribute_type/description:534
 #, perl-format
 msgid "A type of fretless zither."
-msgstr ""
+msgstr "Een soort fretloze citer."
 
 #: DB:link_type/link_phrase:77 DB:link_type/reverse_link_phrase:77
 #, perl-format
 msgid "ASIN"
-msgstr ""
+msgstr "ASIN"
 
 #: DB:language/name:2
 msgid "Abkhazian"
@@ -548,12 +548,12 @@ msgstr "Onthouding:"
 #: ../root/statistics/view_js.tt:69
 #, perl-format
 msgid "Abstentions"
-msgstr ""
+msgstr "Onthoudingen"
 
 #: ../root/doc/edit_type.tt:58
 #, perl-format
 msgid "Accept"
-msgstr ""
+msgstr "Accepteren"
 
 #: ../root/edit/index.tt:73
 #, perl-format
@@ -563,12 +563,12 @@ msgstr "Accepteer wijziging"
 #: ../root/components/common-macros.tt:494
 #, perl-format
 msgid "Accept upon expiration"
-msgstr ""
+msgstr "Accepteer na het verstrijken"
 
 #: ../root/user/profile.tt:116
 #, perl-format
 msgid "Accepted"
-msgstr ""
+msgstr "Geaccepteerd"
 
 #: ../root/account/registered.tt:1 ../root/account/registered.tt:2
 #, perl-format
@@ -801,7 +801,7 @@ msgstr "Voeg een ander medium toe"
 #: ../root/scripts/text_strings.tt:47
 #, perl-format
 msgid "Add another track"
-msgstr ""
+msgstr "Voeg nog een nummer toe"
 
 #: ../root/artist/add_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAlias.pm:14
@@ -835,7 +835,7 @@ msgstr "Voeg een nieuwe artiest toe"
 #: ../root/release/edit/missing_entities.tt:108
 #, perl-format
 msgid "Add new label"
-msgstr ""
+msgstr "Voeg een nieuwe platenmaatschappij toe"
 
 #: ../root/release/edit/recordings.tt:96
 #, perl-format
@@ -901,7 +901,7 @@ msgstr "Voeg toe aan {collection}"
 #: ../root/release/edit/tracklist.tt:446
 #, perl-format
 msgid "Add track(s)"
-msgstr ""
+msgstr "Voeg nummer(s) toe"
 
 #: ../root/artist/layout.tt:72
 #: ../lib/MusicBrainz/Server/Edit/Work/Create.pm:16
@@ -918,12 +918,12 @@ msgstr "Alias voor deze compositie toevoegen"
 #: ../root/release/edit/tracklist.tt:443
 #, perl-format
 msgid "Add {num} track(s)"
-msgstr ""
+msgstr "Voeg {num} nummer(s) toe"
 
 #: ../root/statistics/timeline.tt:74
 #, perl-format
 msgid "Add/remove lines:"
-msgstr ""
+msgstr "Regels toevoegen of verwijderen:"
 
 #: ../root/edit/details/edit_release_events.tt:16
 #, perl-format
@@ -1030,7 +1030,7 @@ msgstr "Albanees"
 
 #: DB:release_group_type/name:1
 msgid "Album"
-msgstr ""
+msgstr "Album"
 
 #: DB:language/name:13
 msgid "Aleut"
@@ -1117,7 +1117,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:57
 #, perl-format
 msgid "All edits that have hit an error"
-msgstr ""
+msgstr "Alle wijzigingen waarbij een fout is opgetreden"
 
 #: ../root/statistics/languages_scripts.tt:22
 #, perl-format
@@ -1270,12 +1270,12 @@ msgstr "Er deed zich een fout voor bij het aanmaken van uw gebruikersaccount. Zo
 #: ../root/release/edit/editnote.tt:27
 #, perl-format
 msgid "An error occured while loading this edit"
-msgstr ""
+msgstr "Er trad een fout op bij het laden van deze wijziging"
 
 #: ../root/release/edit/tracklist.tt:118
 #, perl-format
 msgid "An error occured: "
-msgstr ""
+msgstr "Er is een fout opgetreden:"
 
 #: DB:link_attribute_type/description:403
 #, perl-format
@@ -5432,7 +5432,7 @@ msgstr "Eritrea"
 #: ../root/report/not_available.tt:1 ../root/report/not_available.tt:3
 #, perl-format
 msgid "Error"
-msgstr ""
+msgstr "Fout"
 
 #: ../root/edit/cannot_approve.tt:1 ../root/edit/cannot_approve.tt:2
 #: ../root/edit/require_note.tt:1 ../root/edit/require_note.tt:2
@@ -5453,19 +5453,19 @@ msgstr ""
 #: ../root/main/400.tt:8 ../root/main/404.tt:12 ../root/main/500.tt:37
 #, perl-format
 msgid "Error message: "
-msgstr ""
+msgstr "Foutmelding"
 
 #: ../root/main/500.tt:9
 #, perl-format
 msgid "Error:"
 msgid_plural "Errors:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Foutmelding:"
+msgstr[1] "Foutmeldingen:"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "Error: Unknown Type"
-msgstr ""
+msgstr "Foutmelding: Onbekend type"
 
 #: DB:language/name:290
 msgid "Erzya"
@@ -5593,7 +5593,7 @@ msgstr ""
 #: ../root/statistics/index.tt:470
 #, perl-format
 msgid "Failed (internal error):"
-msgstr ""
+msgstr "Mislukt (interne fout):"
 
 #: ../root/statistics/index.tt:464
 #, perl-format
@@ -11220,7 +11220,7 @@ msgstr ""
 #: ../root/components/forms.tt:150
 #, perl-format
 msgid "Please use the Guess Case button to fix common style errors."
-msgstr ""
+msgstr "Gebruik de Gok kast knop om veel voorkomende stijlfouten te repareren."
 
 #: ../root/components/forms.tt:184
 #, perl-format
@@ -13068,7 +13068,7 @@ msgstr "Zoek wijzigingen"
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 #, perl-format
 msgid "Search Error"
-msgstr ""
+msgstr "Zoekfout"
 
 #: ../root/otherlookup/results-release.tt:1
 #: ../root/otherlookup/results-release.tt:3
@@ -13630,7 +13630,7 @@ msgstr "Onze excuses, maar uw zoekopdracht \"(<code>query</code>)\" kwam niet ov
 msgid ""
 "Sorry, but your query (<code>{query}</code>) could not be performed, due to "
 "an error which we are not quite able to identify."
-msgstr "Onze excuses, maar uw zoekopdracht (<code>{query}</code>) kon niet worden uitgevoerd, vanwege een fout die we niet kunnen identificeren."
+msgstr "Onze excuses, maar uw zoekopdracht (<code>{query}</code>) kon niet worden uitgevoerd vanwege een fout die we niet kunnen identificeren."
 
 #: ../root/main/rate_limited.tt:4
 #, perl-format
@@ -13708,12 +13708,12 @@ msgstr "Onze excuses, we konden geen lemma in FreeDB vinden met die id. {Ga teru
 msgid ""
 "Sorry, we could not find a MusicBrainz entity with that MusicBrainz ID. You "
 "may wish to try and {search_url|search for it} instead."
-msgstr "Onze excuses, we konden geen object in MusicBrainz vinden met die MBID. U kunt ook proberen om {search_url|ernaar te zoeken}."
+msgstr "Onze excuses, we konden geen object in MusicBrainz vinden met deze MBID. U kunt ook proberen om {search_url|ernaar te zoeken}."
 
 #: ../root/url/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find a URL with that MusicBrainz ID."
-msgstr "Onze excuses, we konden heen URL vinden met die MBID."
+msgstr "Onze excuses, we konden geen URL vinden met die MBID."
 
 #: ../root/label/not_found.tt:4
 #, perl-format
@@ -15151,7 +15151,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "There were one or more errors, please check the following fields: {fields}"
-msgstr ""
+msgstr "Er waren één of meer foutmeldingen, controleer de volgende velden: {fields}"
 
 #: ../root/cdstub/edit.tt:58
 #, perl-format
@@ -15371,7 +15371,7 @@ msgstr "Deze wijziging is niet doorgevoerd omdat er niet genoeg ja-stemmen waren
 #, perl-format
 msgid ""
 "This edit failed due to an internal error and may need to be entered again."
-msgstr ""
+msgstr "De wijziging is mislukt door een interne fout en moet misschien opnieuw ingevoerd worden."
 
 #: ../root/components/common-macros.tt:500
 #, perl-format
@@ -24256,7 +24256,7 @@ msgstr "Zet uitgave om naar meerdere artiesten"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SetTrackLengthsFromCDTOC.pm:10
 msgid "Set track lengths"
-msgstr ""
+msgstr "Stel de lengtes van de nummers in"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
