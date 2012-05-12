@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-12 19:59+0000\n"
+"PO-Revision-Date: 2012-05-12 20:58+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -433,7 +433,7 @@ msgstr "Een hi-hat (of hihat) is een typerend onderdeel van een drumstel en best
 msgid ""
 "A hollow wooden body (about 7 cm in diameter) attached to a flexible spring "
 "with a wooden ball on the other end and played with the foot"
-msgstr ""
+msgstr "Een holle houten kast (met een diameter van ongeveer 7 cm) die is vastgemaakt aan een flexibele veer met een houten bal aan het andere eind. Wordt met de voet bespeeld."
 
 #: DB:link_attribute_type/description:303
 #, perl-format
@@ -627,12 +627,12 @@ msgstr ""
 #: ../root/layout/menu.tt:176
 #, perl-format
 msgid "Add Artist"
-msgstr "Voeg artiest toe"
+msgstr "Voeg een artiest toe"
 
 #: ../root/artist/add_alias.tt:1
 #, perl-format
 msgid "Add Artist Alias"
-msgstr "Voeg alias voor artiest toe"
+msgstr "Voeg een alias voor deze artiest toe"
 
 #: ../root/components/forms.tt:250 ../root/components/forms.tt:254
 #: ../root/release/edit/tracklist.tt:84 ../root/release/edit/tracklist.tt:89
@@ -667,17 +667,17 @@ msgstr "Voeg ISRC toe"
 #: ../root/release/edit/information.tt:92
 #, perl-format
 msgid "Add Label"
-msgstr "Voeg platenmaatschappij toe"
+msgstr "Voeg een platenmaatschappij toe"
 
 #: ../root/label/add_alias.tt:1
 #, perl-format
 msgid "Add Label Alias"
-msgstr "Voeg alias voor platenmaatschappij toe"
+msgstr "Voeg een alias voor deze platenmaatschappij toe"
 
 #: ../root/release_group/create.tt:16
 #, perl-format
 msgid "Add New Release Group"
-msgstr "Voeg nieuwe uitgavegroep toe"
+msgstr "Voeg een nieuwe uitgavegroep toe"
 
 #: ../root/edit/info.tt:13
 #, perl-format
@@ -702,7 +702,7 @@ msgstr "Voeg uitgave toe"
 #: ../root/layout/menu.tt:182
 #, perl-format
 msgid "Add Release Group"
-msgstr "Voeg uitgavegroep toe"
+msgstr "Voeg een uitgavegroep toe"
 
 #: ../root/layout/menu.tt:191 ../root/recording/create.tt:16
 #: ../root/recording/create.tt:18
@@ -760,7 +760,7 @@ msgstr "Voeg een nieuwe alias toe"
 #: ../root/admin/wikidoc/index.tt:62
 #, perl-format
 msgid "Add a new entry"
-msgstr ""
+msgstr "Voeg een nieuw lemma toe"
 
 #: ../root/release/edit/recordings.tt:165
 #, perl-format
@@ -1092,7 +1092,7 @@ msgstr "Al mijn wijzigingen"
 #: ../root/release/cover_art.tt:34
 #, perl-format
 msgid "All artwork is provided by the {caa|Cover Art Archive}."
-msgstr ""
+msgstr "Alle hoesafbeeldingen worden geleverd door de {caa|Cover Art Archive}."
 
 #: ../root/statistics/view_js.tt:56
 #, perl-format
@@ -2003,7 +2003,7 @@ msgstr "Disc-id toevoegen"
 #: ../root/cdtoc/index.tt:7
 #, perl-format
 msgid "Attached to releases"
-msgstr "Bevestigd aan uitgaves"
+msgstr "Gekoppeld aan uitgaves"
 
 #: ../root/artist/relationships.tt:15
 #, perl-format
@@ -2232,7 +2232,7 @@ msgstr "Banjitar, Guitjo of Ganjo, http://en.wikipedia.org/wiki/Guitjo"
 msgid ""
 "Bansuri (or बांसुरी) is a transverse alto flute, The Venu's North Indian "
 "counterpart "
-msgstr ""
+msgstr "De Bansuri (of बांसुरी) is een altdwarsfluit, de Noord-Indiase tegenhanger van de Venu."
 
 #: DB:language/name:55
 msgid "Bantu languages"
@@ -3633,17 +3633,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:135
 #, perl-format
 msgid "Count of all Mediums with Disc IDs"
-msgstr "Aantal media met disc-id's"
+msgstr "Totaal aantal media met disc-id's"
 
 #: ../root/statistics/view_js.tt:141
 #, perl-format
 msgid "Count of all Mediums with {n} Disc IDs"
-msgstr "Aantal media met {n} disc-id's"
+msgstr "Totaal aantal media met {n} disc-id's"
 
 #: ../root/statistics/view_js.tt:68
 #, perl-format
 msgid "Count of all No votes"
-msgstr "Totaal aantal nee-stemmen"
+msgstr "Totaal aantal tegenstemmen"
 
 #: ../root/statistics/view_js.tt:131 ../root/statistics/view_js.tt:132
 #, perl-format
@@ -3808,7 +3808,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:67
 #, perl-format
 msgid "Count of all Yes votes"
-msgstr "Totaal aantal ja-stemmen"
+msgstr "Totaal aantal voorstemmen"
 
 #: ../root/statistics/view_js.tt:41
 #, perl-format
@@ -3883,17 +3883,17 @@ msgstr "Aantal wijzigingen per week"
 #: ../root/statistics/view_js.tt:50
 #, perl-format
 msgid "Count of open edits"
-msgstr "Totaal aantal openstaande wijzigingen"
+msgstr "Aantal openstaande wijzigingen"
 
 #: ../root/statistics/view_js.tt:64
 #, perl-format
 msgid "Count of votes per day"
-msgstr "Totaal aantal stemmen per dag"
+msgstr "Aantal stemmen per dag"
 
 #: ../root/statistics/view_js.tt:65
 #, perl-format
 msgid "Count of votes per week"
-msgstr "Totaal aantal stemmen per week"
+msgstr "Aantal stemmen per week"
 
 #: ../root/statistics/countries.tt:25
 #, perl-format
@@ -3935,7 +3935,7 @@ msgstr ""
 msgid ""
 "Cover Art provided by the {caa|Cover Art Archive}. Hosted by {host|Digital "
 "West}. Sponsored by: {url1|Google}, {url2|OSUOSL} and {more|others...}. "
-msgstr ""
+msgstr "Hoesafbeeldingen worden geleverd door de {caa|Cover Art Archive}. Gehost door {host|Digital West}. Gesponsord door: {url1|Google}, {url2|OSUOSL} en {more|anderen...}."
 
 #: ../root/edit/details/macros.tt:82
 #, perl-format
@@ -6490,7 +6490,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:83 DB:link_type/reverse_link_phrase:258
 #, perl-format
 msgid "IMDb entry sampled in"
-msgstr ""
+msgstr "IMDb-lemma gesampeld in"
 
 #: DB:link_type/reverse_link_phrase:97 DB:link_type/reverse_link_phrase:178
 #, perl-format
@@ -7704,7 +7704,7 @@ msgid ""
 "instrument, including the limitations of the instrument, playing techniques "
 "and idiomatic handling of the instrument (<a "
 "href=\"http://musicbrainz.org/doc/Instrumentator_Relationship_Type\">Details</a>)."
-msgstr ""
+msgstr "Geeft aan dat een persoon de instrumentatie voor een compositie verzorgde. Instrumentatie gaat over het schrijven van muziek voor een specifiek instrument, waarbij de beperkingen, speeltechnieken en de idiomatische behandeling van het instrument worden meegenomen. (<a href=\"http://musicbrainz.org/doc/Instrumentator_Relationship_Type\">Details</a>)."
 
 #: DB:link_type/description:299
 #, perl-format
@@ -8571,7 +8571,7 @@ msgstr "Het laatst bijgewerkt: {date}"
 #: ../root/main/index.tt:6
 #, perl-format
 msgid "Latest posts:"
-msgstr ""
+msgstr "Laatste berichten:"
 
 #: DB:language/name:238 DB:script/name:28
 msgid "Latin"
@@ -8817,12 +8817,12 @@ msgstr ""
 #: ../root/cdstub/browse.tt:11
 #, perl-format
 msgid "Lookup count"
-msgstr ""
+msgstr "Aantal keer opgevraagd"
 
 #: ../root/cdstub/layout.tt:11
 #, perl-format
 msgid "Lookup count:"
-msgstr ""
+msgstr "Aantal keer opgevraagd:"
 
 #: ../root/account/lost_password_sent.tt:1 ../root/account/lost_password.tt:1
 #: ../root/account/lost_password.tt:3
@@ -9240,7 +9240,7 @@ msgstr ""
 #: ../root/layout/merge-helper.tt:30 ../root/release/merge_search.tt:14
 #, perl-format
 msgid "Merge"
-msgstr ""
+msgstr "Samenvoegen"
 
 #: ../root/artist/merge.tt:1 ../root/artist/merge.tt:3
 #, perl-format
@@ -9255,7 +9255,7 @@ msgstr "Voeg platenmaatschappijen samen"
 #: ../root/layout/merge-helper.tt:3
 #, perl-format
 msgid "Merge Process"
-msgstr ""
+msgstr "Samenvoegingsproces"
 
 #: ../root/recording/merge.tt:1 ../root/recording/merge.tt:3
 #, perl-format
@@ -9287,7 +9287,7 @@ msgstr "Voeg artiest samen"
 #: ../root/edit/details/historic/merge_releases.tt:25
 #, perl-format
 msgid "Merge attributes:"
-msgstr ""
+msgstr "Voeg eigenschappen samen:"
 
 #: ../root/label/layout.tt:64
 #, perl-format
@@ -9297,7 +9297,7 @@ msgstr "Voeg platenmaatschappij samen"
 #: ../root/edit/details/historic/merge_releases.tt:30
 #, perl-format
 msgid "Merge language &amp; script:"
-msgstr ""
+msgstr "Voeg taal &amp; schrift samen:"
 
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
@@ -9334,7 +9334,7 @@ msgstr "Voeg uitgavegroepen samen"
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
 msgid "Merge strategy:"
-msgstr ""
+msgstr "Samenvoegingsstrategie:"
 
 #: ../root/work/layout.tt:35
 #, perl-format
@@ -9346,7 +9346,7 @@ msgstr "Compositie samenvoegen"
 #: ../root/edit/details/merge_works.tt:3
 #, perl-format
 msgid "Merge:"
-msgstr ""
+msgstr "Voeg samen:"
 
 #: DB:script/name:153
 msgid "Meroitic Cursive"
@@ -9418,12 +9418,12 @@ msgstr "Niet overeenkomende uitgavegroepen"
 #: ../root/cdstub/browse.tt:12
 #, perl-format
 msgid "Modify count"
-msgstr ""
+msgstr "Aantal keer gewijzigd"
 
 #: ../root/cdstub/layout.tt:13
 #, perl-format
 msgid "Modify count:"
-msgstr ""
+msgstr "Aantal keer gewijzigd:"
 
 #: DB:language/name:280
 msgid "Mohawk"
@@ -11621,7 +11621,7 @@ msgstr "Beoordelingen en etiketten"
 #: ../root/main/index.tt:14
 #, perl-format
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Lees meer &raquo;"
 
 #: ../root/admin/wikidoc/index.tt:56
 #, perl-format
@@ -12029,7 +12029,7 @@ msgstr "Artiest van de uitgave"
 #: ../root/statistics/view_js.tt:29
 #, perl-format
 msgid "Release Countries"
-msgstr ""
+msgstr "Landen van uitgave"
 
 #: ../root/statistics/view_js.tt:34
 #, perl-format
@@ -12440,7 +12440,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:78
 #, perl-format
 msgid "Releases with no country set"
-msgstr ""
+msgstr "Uitgaves waarvan het land niet is ingesteld"
 
 #: ../root/statistics/index.tt:268
 #, perl-format
@@ -13708,7 +13708,7 @@ msgstr "Onze excuses, we konden geen lemma in FreeDB vinden met die id. {Ga teru
 msgid ""
 "Sorry, we could not find a MusicBrainz entity with that MusicBrainz ID. You "
 "may wish to try and {search_url|search for it} instead."
-msgstr "Onze excuses, we konden geen object in MusicBrainz vinden met deze MBID. U kunt ook proberen om {search_url|ernaar te zoeken}."
+msgstr "Onze excuses, we konden geen object in MusicBrainz vinden met die MBID. U kunt ook proberen om {search_url|ernaar te zoeken}."
 
 #: ../root/url/not_found.tt:4
 #, perl-format
@@ -13760,7 +13760,7 @@ msgstr "Onze excuses, we konden geen artiest vinden met die MBID. U kunt ook pro
 #: ../root/collection/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find an collection with that MusicBrainz ID."
-msgstr "Excuus, we konden geen collectie vindgen met die MBID."
+msgstr "Onze excuses, we konden geen collectie vinden met die MBID."
 
 #: ../root/edit/not_found.tt:4
 #, perl-format
@@ -13786,7 +13786,7 @@ msgstr "Onze excuses, we konden geen gebruikers vinden die overeenkomen met de z
 #: ../root/cdtoc/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find the CD TOC you specified."
-msgstr ""
+msgstr "Onze excuses, we konden de door u gespecificeerde inhoudsopgave niet vinden."
 
 #: ../root/elections/not_found.tt:4
 #, perl-format
@@ -14529,7 +14529,7 @@ msgstr "De artiest die u probeert te wijzigen is een artiest voor specifieke doe
 msgid ""
 "The artwork in the sidebar is being provided by a {relationships|URL "
 "relationship}."
-msgstr ""
+msgstr "De hoesafbeelding in de zijbalk wordt geleverd door een {relationships|URL-relatie}."
 
 #: DB:link_attribute_type/description:598
 #, perl-format
@@ -14579,7 +14579,7 @@ msgid ""
 "family (not counting the subcontrabass tubax). It is similar in design to a "
 "baritone saxophone, but it is larger, with a longer loop near the "
 "mouthpiece."
-msgstr ""
+msgstr "De bassaxofoon is het op twee na grootste bestaande lid uit de saxofoonfamilie. Het ontwerp lijkt op dat van de baritonsaxofoon, maar is groter met een langere buis bij het mondstuk."
 
 #: DB:link_attribute_type/description:592
 #, perl-format
@@ -14647,7 +14647,7 @@ msgstr ""
 msgid ""
 "The data you have submitted does not make any changes to the data already "
 "present."
-msgstr ""
+msgstr "De gegevens die u heeft ingediend verandert niets aan de al bestaande gegevens."
 
 #: ../root/tag/cloud.tt:9
 #, perl-format
@@ -15068,7 +15068,7 @@ msgstr "Er zijn momenteel geen gebruikers geabonneerd op {label}."
 #: ../root/release/discids.tt:52
 #, perl-format
 msgid "There are no disc IDs attached to this release."
-msgstr "Er zijn geen disc-id's toegevoegd aan deze uitgave."
+msgstr "Er zijn geen disc-id's aan deze uitgave gekoppeld."
 
 #: ../root/artist/subscribe.tt:11
 #, perl-format
@@ -15337,7 +15337,7 @@ msgid ""
 "This describes the fact that a label is distributing (part of) another label"
 " catalog, in a country/region of the world, during a period of time. (<a "
 "href=\"http://musicbrainz.org/doc/Label_Distribution_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Dit beschrijft het feit dat een platenmaatschappij (een deel van) de catalogus van een andere platenmaatschappij distribueert, in een land of regio en over een bepaalde tijdperiode. (<a href=\"http://musicbrainz.org/doc/Label_Distribution_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:201
 #, perl-format
@@ -15543,7 +15543,7 @@ msgstr ""
 msgid ""
 "This is used to provide a logo for the label. (<a "
 "href=\"http://musicbrainz.org/doc/Logo_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Dit wordt gebruikt om een logo van een platenmaatschappij te tonen. (<a href=\"http://musicbrainz.org/doc/Logo_Relationship_Type\">Details</a>)"
 
 #: ../root/label/delete.tt:17
 #, perl-format
@@ -16017,7 +16017,7 @@ msgstr ""
 #: ../root/report/isrc_with_many_recordings.tt:6
 #, perl-format
 msgid "This report lists ISRCs that are attached to more than one recording."
-msgstr "Dit rapport geeft een lijst weer van ISRC's die zijn toegevoegd aan meer dan één opname."
+msgstr "Dit rapport geeft een lijst weer van ISRC's die aan meer dan één opname zijn gekoppeld."
 
 #: ../root/report/mediums_with_sequence_issues.tt:6
 #, perl-format
@@ -16201,7 +16201,7 @@ msgid ""
 "released too early to have disc IDs, where one of the medium formats didn't "
 "exist at the time the release was released or where a disc ID is attached to"
 " a medium whose format does not have disc IDs."
-msgstr ""
+msgstr "Dit rapport toont uitgaves die disc-id's hebben terwijl ze te vroeg zijn uitgebracht om disc-id's te kunnen hebben, waar één van de media van een type is dat nog niet bestond toen het uitkwam of waar er disc-id's zijn gekoppeld aan media waarvoor geen disc-id bestaat."
 
 #: ../root/report/featuring_releases.tt:6
 #, perl-format
@@ -16229,7 +16229,7 @@ msgstr ""
 msgid ""
 "This requires that mediums over each release have corresponding track "
 "counts."
-msgstr ""
+msgstr "Dit vereist dat media van beide uitgaves even veel nummers hebben."
 
 #: DB:link_attribute_type/description:596
 #, perl-format
@@ -16261,7 +16261,7 @@ msgstr ""
 #: ../root/release/merge_search.tt:4
 #, perl-format
 msgid "This wizard allows you to merge {release} into another release."
-msgstr ""
+msgstr "Deze assistent laat u {release} in een andere uitgave samenvoegen."
 
 #: ../root/work/index.tt:4
 #, perl-format
@@ -16455,7 +16455,7 @@ msgstr "Totaal aantal gevonden artiesten: {count}"
 #: ../root/report/duplicate_artists.tt:10
 #, perl-format
 msgid "Total duplicate groups: {count}"
-msgstr ""
+msgstr "Totaal aantal dubbele groepen: {count}"
 
 #: ../root/cdstub/index.tt:21 ../root/cdtoc/info.tt:23
 #, perl-format
@@ -16528,7 +16528,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:219
 #, perl-format
 msgid "Track count:"
-msgstr ""
+msgstr "Aantal nummers:"
 
 #: ../root/cdtoc/info.tt:27
 #, perl-format
@@ -17057,7 +17057,7 @@ msgstr "Uruguay"
 #: ../root/components/tags.tt:12
 #, perl-format
 msgid "Usage Count"
-msgstr ""
+msgstr "Aantal keren gebruikt"
 
 #: ../root/components/common-macros.tt:426
 #, perl-format
@@ -17146,7 +17146,7 @@ msgid ""
 "may specify the new order of mediums. The order does not have to be "
 "continuous, but all medium positions must be positive, and multiple mediums "
 "cannot be in the same position"
-msgstr ""
+msgstr "Door deze samenvoegingsstrategie te gebruiken worden alle media van alle uitgaves gebruikt. U kunt een nieuwe volgorde van media instellen, Deze volgorde hoeft niet continue te zijn, maar alle posities van de media moeten positief zijn, en meerdere media mogen niet dezelfde positie hebben."
 
 #: ../root/search/form.tt:54
 #, perl-format
@@ -17564,7 +17564,7 @@ msgid ""
 "We found the following artists with the same name already existing in "
 "MusicBrainz. If any of these are the artist you intended to use, please "
 "select the artist:"
-msgstr ""
+msgstr "We hebben de volgende artiesten gevonden met dezelfde naam die al in MusicBrainz staan. Als u één van deze artiesten wilt gebruiken, selecteer deze dan:"
 
 #: ../root/release/edit/missing_entities.tt:90
 #, perl-format
@@ -17572,7 +17572,7 @@ msgid ""
 "We found the following labels with the same name already existing in "
 "MusicBrainz. If any of these are the label you intended to use, please "
 "select the label:"
-msgstr ""
+msgstr "We hebben de volgende platenmaatschappijen gevonden met dezelfde naam die al in MusicBrainz staan. Als u één van deze platenmaatschappijen wilt gebruiken, selecteer deze dan:"
 
 #: ../root/search/editor.tt:5
 #, perl-format
@@ -17654,7 +17654,7 @@ msgid ""
 "When you are ready to merge these, just click the Merge button. You may "
 "still add more to this merge queue by simply browsing to the entities page "
 "and following the merge link."
-msgstr ""
+msgstr "Als u klaar bent om deze samen te voegen, klik dan op de knop Samenvoegen. U kunt ook nog meer aan deze lijst samen te voegen objecten toevoegen door naar de pagina van het object te gaan en de link samenvoegen te volgen."
 
 #: ../root/release/merge_search.tt:7
 #, perl-format
@@ -17875,7 +17875,7 @@ msgstr "Ja-stemmen"
 #: ../root/edit/search_macros.tt:279
 #, perl-format
 msgid "Yes vote count"
-msgstr ""
+msgstr "Aantal voorstemmen"
 
 #: ../root/elections/nominate.tt:11
 #, perl-format
@@ -17968,7 +17968,7 @@ msgid ""
 "You are about to merge the following release groups into a single release "
 "group. Please select the release group which you would like other release "
 "groups to be merged into:"
-msgstr ""
+msgstr "U staat op het punt om de volgende uitgavegroepen in één uitgavegroep samen te voegen. Selecteer de uitgavegroep waar u de andere uitgavegroepen in wilt samenvoegen."
 
 #: ../root/release/merge.tt:18
 #, perl-format
@@ -17976,7 +17976,7 @@ msgid ""
 "You are about to merge the following releases into a single release. Please "
 "select the release which you would like the other releases to be merged "
 "into:"
-msgstr ""
+msgstr "U staat op het punt om de volgende uitgaves in één uitgave samen te voegen. Selecteer de uitgave waar u de andere uitgaves in wilt samenvoegen."
 
 #: ../root/work/merge.tt:4
 #, perl-format
@@ -18472,7 +18472,7 @@ msgstr ""
 msgid ""
 "aka sruti box. Similar to a harmonium and used to provide a drone "
 "accompaniment."
-msgstr ""
+msgstr "ook bekend als srut-doos. Vergelijkbaar met een harmonium en wordt gebruikt om een gonzende begeleiding te creëren."
 
 #: DB:link_attribute_type/description:543
 #, perl-format
@@ -21494,22 +21494,22 @@ msgstr ""
 #: DB:link_type/short_link_phrase:135 DB:link_type/short_link_phrase:62
 #, perl-format
 msgid "provided artist & repertoire support for"
-msgstr ""
+msgstr "verzorgde A&R-ondersteuning voor"
 
 #: DB:link_type/short_link_phrase:23 DB:link_type/short_link_phrase:134
 #, perl-format
 msgid "provided booking for"
-msgstr ""
+msgstr "verzorgde boekingen voor"
 
 #: DB:link_type/short_link_phrase:22 DB:link_type/short_link_phrase:142
 #, perl-format
 msgid "provided legal representation for"
-msgstr ""
+msgstr "verzorgde juridische vertegenwoordiging voor"
 
 #: DB:link_type/short_link_phrase:61
 #, perl-format
 msgid "provided travel arrangements for"
-msgstr ""
+msgstr "verzorgde de reisorganisatie voor"
 
 #: DB:link_type/short_link_phrase:137 DB:link_type/short_link_phrase:18
 #, perl-format
@@ -21524,23 +21524,23 @@ msgstr ""
 #: DB:link_type/short_link_phrase:19 DB:link_type/short_link_phrase:130
 #, perl-format
 msgid "provided {additional} design/illustration on"
-msgstr ""
+msgstr "verzorgde {extra} ontwerp/illustratie voor"
 
 #: DB:link_type/short_link_phrase:27 DB:link_type/short_link_phrase:125
 #, perl-format
 msgid "provided {additional} graphic design on"
-msgstr ""
+msgstr "verzorgde {extra} grafisch ontwerp voor"
 
 #: DB:link_type/short_link_phrase:123 DB:link_type/short_link_phrase:20
 #, perl-format
 msgid "provided {additional} photography on"
-msgstr ""
+msgstr "verzorgde {extra} fotografie voor"
 
 #: DB:link_type/short_link_phrase:39 DB:link_type/short_link_phrase:166
 #: DB:link_type/short_link_phrase:299
 #, perl-format
 msgid "provided {additional} {instrument} instrumentation for"
-msgstr ""
+msgstr "verzorgde {extra} {instrument} instrumentatie voor"
 
 #: DB:link_attribute_type/description:111 DB:link_attribute_type/name:111
 #, perl-format
@@ -23326,13 +23326,13 @@ msgstr "uitgaves uit {country}"
 #: ../root/user/profile.tt:79
 #, perl-format
 msgid "{count} ({url|view list})"
-msgstr ""
+msgstr "{count} ({url|bekijk lijst})"
 
 #: ../root/user/profile.tt:117 ../root/user/profile.tt:121
 #: ../root/user/profile.tt:125 ../root/user/profile.tt:129
 #, perl-format
 msgid "{count} ({view_url|view})"
-msgstr ""
+msgstr "{count} ({url|bekijk lijst})"
 
 #: ../root/components/ratings.tt:16
 #, perl-format
@@ -23849,7 +23849,7 @@ msgid ""
 "<strong>We were unable to send a confirmation email to you.</strong><br/>Please confirm that you have entered a valid\n"
 "             address by editing your {settings|account settings}. If the problem still persists, please contact us at\n"
 "             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
-msgstr ""
+msgstr "<strong>We konden geen confirmatie e-mail naar u sturen.</strong>\n<br/>Controleer of u een geldig adres heeft ingevoerd door uw {settings|gebruikersinstellingen} te wijzigen. Als het probleem nog steeds bestaat, neem dan contact op met <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:472
 #, perl-brace-format
@@ -23886,7 +23886,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:152
 msgid "This CDTOC is already attached to this medium"
-msgstr ""
+msgstr "Deze inhoudsopgave is al aan dit medium gekoppeld"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:161
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:313
@@ -24001,7 +24001,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:130
 msgid "Number of submitted tracks does not match track count in TOC"
-msgstr ""
+msgstr "Het aantal ingevoerde nummers komt niet overeen met het aantal nummers in de inhoudsopgave"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:133
 msgid "Invalid barcode"
@@ -24442,7 +24442,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
-msgstr ""
+msgstr "Selecteer het object waar u de andere objecten in wilt samenvoegen."
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:61
 msgid "Another medium is already in this position"
@@ -24454,7 +24454,7 @@ msgstr "Posities moeten groter zijn dan 0"
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
-msgstr "U moet een notitie toevoegen als u een losstaande opname toevoegt."
+msgstr "U moet een opmerking toevoegen als u een losstaande opname toevoegt."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:13
 msgid "Link type is required"
