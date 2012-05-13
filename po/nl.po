@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-13 14:59+0000\n"
+"PO-Revision-Date: 2012-05-13 15:20+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -149,7 +149,7 @@ msgstr ""
 #: ../root/release/add_cover_art.tt:26
 #, perl-format
 msgid "(no other cover art)"
-msgstr ""
+msgstr "(geen andere hoesafbeeldingen)"
 
 #: ../root/edit/details/add_relationship_type.tt:9
 #: ../root/edit/details/historic/add_release_annotation.tt:21
@@ -649,7 +649,7 @@ msgstr "Voeg een cd-beginsel toe"
 #: ../root/release/cover_art.tt:49
 #, perl-format
 msgid "Add Cover Art"
-msgstr ""
+msgstr "Voeg hoesafbeelding toe"
 
 #: ../root/release/edit/tracklist.tt:167 ../root/release/edit/tracklist.tt:293
 #: ../root/release/edit/tracklist.tt:485
@@ -1848,7 +1848,7 @@ msgstr ""
 #: ../root/browse/artist.tt:8
 #, perl-format
 msgid "Artists starting with “{index}”"
-msgstr "Artiestennamen die beginnen met \"{index}\""
+msgstr "Artiesten die beginnen met \"{index}\""
 
 #: ../root/report/possible_collaborations.tt:1
 #: ../root/report/possible_collaborations.tt:3
@@ -2296,7 +2296,7 @@ msgstr "Basjkiers"
 #: ../root/statistics/index.tt:8
 #, perl-format
 msgid "Basic metadata"
-msgstr ""
+msgstr "Basisgegevens"
 
 #: DB:language/name:41
 msgid "Basque"
@@ -2749,7 +2749,7 @@ msgstr "Cd-beginsel gevonden"
 #: ../root/statistics/index.tt:56
 #, perl-format
 msgid "CD Stubs (all time / current):"
-msgstr ""
+msgstr "Cd-beginsels (altijd / nu):"
 
 #: ../root/cdtoc/not_found.tt:1 ../root/cdtoc/not_found.tt:2
 #, perl-format
@@ -2806,7 +2806,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:118
 #, perl-format
 msgid "CDStubs (all)"
-msgstr ""
+msgstr "Cd-beginsels (totaal)"
 
 #: ../root/statistics/view_js.tt:119
 #, perl-format
@@ -2917,7 +2917,7 @@ msgstr "Kandidaat:"
 #: ../root/release/cover_art.tt:55
 #, perl-format
 msgid "Cannot Add Cover Art"
-msgstr ""
+msgstr "Kan geen hoesafbeelding toevoegen"
 
 #: ../root/edit/relationship/cannot_create.tt:1
 #: ../root/edit/relationship/cannot_create.tt:2
@@ -3206,7 +3206,7 @@ msgstr "Choctaw"
 #: ../root/release/cover_art_uploader.tt:15
 #, perl-format
 msgid "Choose file:"
-msgstr ""
+msgstr "Kies een bestand:"
 
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
@@ -3928,7 +3928,7 @@ msgstr "Land:"
 #: ../root/release/cover_art.tt:3 ../root/release/tabs.tt:1
 #, perl-format
 msgid "Cover Art"
-msgstr ""
+msgstr "Hoesafbeelding(en)"
 
 #: ../root/layout.tt:170
 #, perl-format
@@ -3940,7 +3940,7 @@ msgstr "Hoesafbeeldingen geleverd door de {caa|Cover Art Archive}. Gehost door {
 #: ../root/edit/details/macros.tt:82
 #, perl-format
 msgid "Cover art:"
-msgstr ""
+msgstr "Hoesafbeelding:"
 
 #: ../root/admin/wikidoc/create.tt:12
 #, perl-format
@@ -4192,7 +4192,7 @@ msgstr "Ivoorkust"
 
 #: DB:medium_format/name:11
 msgid "DAT"
-msgstr ""
+msgstr "DAT"
 
 #: DB:medium_format/name:16
 msgid "DCC"
@@ -4868,7 +4868,7 @@ msgstr "Wijzig collectie"
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
 msgid "Edit Cover Art"
-msgstr ""
+msgstr "Wijzig hoesafbeelding"
 
 #: ../root/statistics/view_js.tt:26
 #, perl-format
@@ -7980,7 +7980,7 @@ msgstr "Italië"
 #: ../root/layout/menu.tt:124 ../root/main/index.tt:24
 #, perl-format
 msgid "Jaikoz"
-msgstr ""
+msgstr "Jaikoz"
 
 #: DB:country/name:106
 msgid "Jamaica"
@@ -9943,12 +9943,12 @@ msgstr "Nieuw wachtwoord:"
 #: ../root/release/merge.tt:51
 #, perl-format
 msgid "New position:"
-msgstr ""
+msgstr "Nieuwe positie:"
 
 #: ../root/edit/details/reorder_cover_art.tt:22
 #, perl-format
 msgid "New positions:"
-msgstr ""
+msgstr "Nieuwe posities:"
 
 #: ../root/edit/details/edit_medium.tt:191
 #, perl-format
@@ -10049,7 +10049,7 @@ msgstr "Geen collecties met dit etiket gevonden."
 #: ../root/release/sidebar.tt:5 ../root/release/sidebar.tt:10
 #, perl-format
 msgid "No cover art available."
-msgstr ""
+msgstr "Geen hoesafbeelding beschikbaar."
 
 #: ../root/edit/notes.tt:29
 #, perl-format
@@ -10069,7 +10069,7 @@ msgstr "Geen verkiezingen gevonden."
 #: ../root/release/sidebar.tt:7
 #, perl-format
 msgid "No front cover image available.<br/>{all|View all artwork}."
-msgstr ""
+msgstr "Geen afbeelding van de voorkant aanwezig.<br/>{all|Bekijk alle hoesafbeeldingen}"
 
 #: ../root/relationship/linkattributetype/instruments.tt:31
 #, perl-format
@@ -10449,7 +10449,7 @@ msgstr "Oud wachtwoord:"
 #: ../root/edit/details/reorder_cover_art.tt:10
 #, perl-format
 msgid "Old positions:"
-msgstr ""
+msgstr "Oude posities:"
 
 #: ../root/edit/details/edit_medium.tt:190
 #, perl-format
@@ -10683,7 +10683,7 @@ msgstr ""
 
 #: DB:work_type/name:12
 msgid "Overture"
-msgstr ""
+msgstr "Ouverture"
 
 #: ../root/artist/header.tt:1 ../root/cdstub/header.tt:9
 #: ../root/collection/header.tt:1 ../root/release_group/header.tt:1
@@ -11353,14 +11353,14 @@ msgstr "Portugees"
 #: ../root/cdtoc/list.tt:4
 #, perl-format
 msgid "Position"
-msgstr ""
+msgstr "Positie"
 
 #: ../root/edit/details/add_medium.tt:12
 #: ../root/edit/details/edit_cover_art.tt:13
 #: ../root/edit/details/edit_medium.tt:25
 #, perl-format
 msgid "Position:"
-msgstr ""
+msgstr "Positie:"
 
 #: ../root/artist/edit_form.tt:16
 #, perl-format
@@ -12271,7 +12271,7 @@ msgstr "Uitgave-Compositie:"
 #: ../root/statistics/formats.tt:18 ../root/statistics/formats.tt:22
 #, perl-format
 msgid "Release/Medium Formats"
-msgstr ""
+msgstr "Type uitgave/medium"
 
 #: ../root/cdtoc/lookup.tt:70 ../root/components/common-macros.tt:415
 #: ../root/edit/details/add_cover_art.tt:5
@@ -12572,7 +12572,7 @@ msgstr ""
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr ""
+msgstr "Verwijder hoesafbeelding"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
@@ -12735,7 +12735,7 @@ msgstr ""
 #: ../root/release/reorder_cover_art.tt:6
 #, perl-format
 msgid "Reorder Cover Art"
-msgstr ""
+msgstr "Wijzig de volgorde van de hoesafbeeldingen"
 
 #: ../root/layout/menu.tt:244
 #, perl-format
@@ -13372,14 +13372,14 @@ msgstr "Alleen losstaande opnames worden weergegeven. {show_all|Laat alle opname
 msgid ""
 "Showing release groups by this artist. {show_all|Show Various Artist release"
 " groups instead}."
-msgstr ""
+msgstr "Laat uitgavegroepen van deze artiest zien. {show_all|Laat in plaats hiervan uitgavegroepen van diverse artiesten zien}."
 
 #: ../root/artist/releases.tt:28
 #, perl-format
 msgid ""
 "Showing releases by this artist. {show_all|Show Various Artist releases "
 "instead}."
-msgstr "Laat uitgaves van deze artiest zien. {show_all|Laat in plaats hiervan uitgaves van verschillende artiesten zien}."
+msgstr "Laat uitgaves van deze artiest zien. {show_all|Laat in plaats hiervan uitgaves van diverse artiesten zien}."
 
 #: ../root/scripts/text_strings.tt:38
 #, perl-format
@@ -13974,7 +13974,7 @@ msgstr ""
 #: ../root/browse/page_selector.tt:57
 #, perl-format
 msgid "Start over"
-msgstr ""
+msgstr "Opnieuw beginnen"
 
 #: ../root/layout/menu.tt:104 ../root/user/profile.tt:107
 #, perl-format
@@ -14473,7 +14473,7 @@ msgstr "Bedankt, uw e-mailadres is geverifieerd!"
 msgid ""
 "The Cover Art Archive has had a take down request in the past for this "
 "release, so we are unable to allow any more uploads."
-msgstr ""
+msgstr "De Cover Art Archive heeft in het verleden het verzoek gekregen om hoesafbeeldingen voor deze uitgave te verwijderen, dus we kunnen u niet meer toestaan om deze toe te voegen."
 
 #: DB:link_attribute_type/description:591
 #, perl-format
@@ -14951,7 +14951,7 @@ msgstr ""
 #: ../root/main/503.tt:5
 #, perl-format
 msgid "The system is overloaded or you are making requests too fast."
-msgstr ""
+msgstr "Het systeem is overbelast of u doet te veel verzoeken."
 
 #: DB:link_attribute_type/description:381
 #, perl-format
@@ -16783,7 +16783,7 @@ msgstr ""
 
 #: DB:medium_format/name:28
 msgid "UMD"
-msgstr ""
+msgstr "UMD"
 
 #: ../root/report/bad_amazon_urls.tt:17
 #: ../root/report/release_group_url_list.tt:5
@@ -17246,7 +17246,7 @@ msgstr ""
 
 #: DB:medium_format/name:32
 msgid "Videotape"
-msgstr ""
+msgstr "Videoband"
 
 #: DB:link_attribute_type/description:116
 #, perl-format
@@ -18333,7 +18333,7 @@ msgstr "[Meerdere schriften]"
 
 #: DB:country/name:240
 msgid "[Worldwide]"
-msgstr ""
+msgstr "[Wereldwijd]"
 
 #: ../root/components/common-macros.tt:187
 #, perl-format
@@ -19290,17 +19290,17 @@ msgstr ""
 #: DB:link_attribute_type/name:567
 #, perl-format
 msgid "cover"
-msgstr ""
+msgstr "hoes"
 
 #: DB:link_type/link_phrase:78
 #, perl-format
 msgid "cover art"
-msgstr ""
+msgstr "hoesafbeelding"
 
 #: DB:link_type/reverse_link_phrase:78
 #, perl-format
 msgid "cover art for"
-msgstr ""
+msgstr "hoesafbeelding van"
 
 #: DB:link_type/short_link_phrase:12 DB:link_type/short_link_phrase:245
 #, perl-format
@@ -21992,7 +21992,7 @@ msgstr ""
 
 #: DB:medium_format/name:27
 msgid "slotMusic"
-msgstr ""
+msgstr "slotMusic"
 
 #: DB:link_attribute_type/description:129 DB:link_attribute_type/name:129
 #, perl-format
@@ -22062,7 +22062,7 @@ msgstr ""
 #: ../root/browse/page_selector.tt:43
 #, perl-format
 msgid "space"
-msgstr ""
+msgstr "spatie"
 
 #: DB:link_attribute_type/name:561
 #, perl-format
@@ -22148,7 +22148,7 @@ msgstr ""
 #: ../root/browse/page_selector.tt:37
 #, perl-format
 msgid "symbol"
-msgstr ""
+msgstr "symbool"
 
 #: DB:link_attribute_type/name:244
 #, perl-format
