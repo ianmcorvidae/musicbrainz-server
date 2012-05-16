@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-05 22:15+0000\n"
-"Last-Translator: Dimitris <email address hidden>\n"
+"PO-Revision-Date: 2012-05-16 17:21+0000\n"
+"Last-Translator: Christos Georgiou <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,7 +36,7 @@ msgstr ""
 msgid ""
 "\"NNNNN\" is a unique 5-digit number identifying the particular sound "
 "recording."
-msgstr ""
+msgstr "\"NNNNN\" είναι ένας μοναδικός 5ψήφιος αριθμός που ταυτοποιεί την συγκεκριμένη ηχογράφηση."
 
 #: ../root/recording/add_isrc.tt:9
 #, perl-format
@@ -48,7 +48,7 @@ msgstr ""
 #: ../root/recording/add_isrc.tt:11
 #, perl-format
 msgid "\"YY\" is the last two digits of the year of registration."
-msgstr ""
+msgstr "Το \"YY\" είναι τα τελευταία δύο ψηφία του έτους εγγραφής."
 
 #: ../root/cdstub/cdstub.tt:4 ../root/edit/details/add_medium.tt:48
 #: ../root/edit/details/edit_medium.tt:47
@@ -148,7 +148,7 @@ msgstr ""
 #: ../root/release/add_cover_art.tt:26
 #, perl-format
 msgid "(no other cover art)"
-msgstr ""
+msgstr "(κανένα άλλο εξώφυλλο)"
 
 #: ../root/edit/details/add_relationship_type.tt:9
 #: ../root/edit/details/historic/add_release_annotation.tt:21
@@ -372,7 +372,7 @@ msgstr ""
 #: DB:link_attribute_type/description:550
 #, perl-format
 msgid "A Batá drum is a double-headed drum originating from Nigeria."
-msgstr ""
+msgstr "Το τύμπανο Batá είναι ένα τύμπανο με μεμβράνη και από τις δύο πλευρές που προέρχεται από τη Νιγηρία."
 
 #: ../root/cdtoc/lookup.tt:18
 #, perl-format
@@ -411,7 +411,7 @@ msgstr ""
 #: DB:link_attribute_type/description:531
 #, perl-format
 msgid "A class of South-American guitars"
-msgstr "Ένα είδος νότιο-αμερικάνικης κιθάρας"
+msgstr "Μια κατηγορία νότιο-αμερικάνικων εγχόρδων (κιθάρα)"
 
 #: DB:link_attribute_type/description:563
 #, perl-format
@@ -557,12 +557,12 @@ msgstr ""
 #: ../root/edit/index.tt:73
 #, perl-format
 msgid "Accept edit"
-msgstr ""
+msgstr "Αποδοχή επεξεργασίας"
 
 #: ../root/components/common-macros.tt:494
 #, perl-format
 msgid "Accept upon expiration"
-msgstr ""
+msgstr "Αποδοχή με τη λήξη"
 
 #: ../root/user/profile.tt:116
 #, perl-format
@@ -602,17 +602,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:72
 #, perl-format
 msgid "Active Editors"
-msgstr "Ενεργοί χρήστες"
+msgstr "Ενεργοί Χρήστες"
 
 #: ../root/statistics/view_js.tt:74
 #, perl-format
 msgid "Active Users"
-msgstr "Ενεργοί χρήστες"
+msgstr "Ενεργοί Χρήστες"
 
 #: ../root/statistics/view_js.tt:73
 #, perl-format
 msgid "Active Voters"
-msgstr ""
+msgstr "Ενεργοί Ψηφοφόροι"
 
 #: DB:language/name:5
 msgid "Adangme"
@@ -1396,7 +1396,7 @@ msgstr "Τατζικιστάν"
 #: ../root/statistics/view_js.tt:56
 #, perl-format
 msgid "Applied edits"
-msgstr ""
+msgstr "Εφαρμοσμένες επεξεργασίες"
 
 #: ../root/statistics/index.tt:446
 #, perl-format
@@ -1406,12 +1406,12 @@ msgstr ""
 #: ../root/edit/edit_header.tt:77 ../root/edit/info.tt:17
 #, perl-format
 msgid "Approve edit"
-msgstr ""
+msgstr "Έγκριση επεξεργασίας"
 
 #: ../root/statistics/index.tt:510
 #, perl-format
 msgid "Approve:"
-msgstr ""
+msgstr "Έγκριση:"
 
 #: DB:language/name:18 DB:script/name:18
 msgid "Arabic"
@@ -1512,7 +1512,7 @@ msgstr ""
 #: ../root/edit/cancel.tt:3
 #, perl-format
 msgid "Are you sure you wish to cancel edit #{n}? This cannot be undone!"
-msgstr ""
+msgstr "Είστε σίγουροι πως θέλετε να ακυρώσετε την επεξεργασία #{n}; Δεν θα μπορείτε να ανακαλέσετε μετά!"
 
 #: ../root/admin/wikidoc/delete.tt:4
 #, perl-format
@@ -2128,7 +2128,7 @@ msgstr "Πίσω"
 #: ../root/elections/not_found.tt:5
 #, perl-format
 msgid "Back to all elections."
-msgstr ""
+msgstr "Πίσω σε όλες τις ψηφοφορίες."
 
 #: ../root/elections/show.tt:5
 #, perl-format
@@ -2148,7 +2148,7 @@ msgstr ""
 #: ../root/main/400.tt:1 ../root/main/400.tt:3
 #, perl-format
 msgid "Bad Request"
-msgstr ""
+msgstr "Λάθος Αίτημα"
 
 #: DB:link_attribute_type/description:514
 #, perl-format
@@ -2304,7 +2304,7 @@ msgstr "Βασκικά"
 #: DB:link_attribute_type/description:277
 #, perl-format
 msgid "Bass (modern, typically electrical, but not always)"
-msgstr ""
+msgstr "Μπάσο (τυπικά ηλεκτρικό, αλλά όχι πάντα)"
 
 #: DB:link_attribute_type/description:70
 #, perl-format
@@ -3343,12 +3343,12 @@ msgstr "Συνεργάτης"
 #: ../root/release/edit/tracklist.tt:363
 #, perl-format
 msgid "Collapse Disc"
-msgstr ""
+msgstr "Σύμπτυξη Δίσκου"
 
 #: ../root/relationship/linktype/tree.tt:49
 #, perl-format
 msgid "Collapse all descriptions"
-msgstr ""
+msgstr "Σύμπτυξη όλων των περιγραφών"
 
 #: ../root/user/collections.tt:9
 #, perl-format
@@ -3524,7 +3524,7 @@ msgstr ""
 
 #: DB:language/name:88
 msgid "Cornish"
-msgstr ""
+msgstr "Κορνουαλικά"
 
 #: DB:language/name:89
 msgid "Corsican"
@@ -3537,7 +3537,7 @@ msgstr "Κόστα Ρίκα"
 #: ../root/statistics/view_js.tt:74
 #, perl-format
 msgid "Count of active editors (editing or voting) during the last week"
-msgstr ""
+msgstr "Πλήθος ενεργών χρηστών (που επεξεργάζονται ή ψηφίζουν) την περασμένη εβδομάδα"
 
 #: ../root/statistics/view_js.tt:69
 #, perl-format
@@ -3567,7 +3567,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:116
 #, perl-format
 msgid "Count of all Barcodes"
-msgstr "Καταμέτρηση όλων των barcodes"
+msgstr "Πλήθος όλων των barcodes"
 
 #: ../root/statistics/view_js.tt:120
 #, perl-format
@@ -3647,7 +3647,7 @@ msgstr "Καταμέτρηση όλων των αρνητικών ψήφων"
 #: ../root/statistics/view_js.tt:131 ../root/statistics/view_js.tt:132
 #, perl-format
 msgid "Count of all PUIDs"
-msgstr ""
+msgstr "Πλήθος όλων των PUID"
 
 #: ../root/statistics/view_js.tt:142
 #, perl-format
@@ -3667,7 +3667,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:158
 #, perl-format
 msgid "Count of all Recording Ratings"
-msgstr ""
+msgstr "Πλήθος όλων των Βαθμολογιών Ηχογραφήσεων"
 
 #: ../root/statistics/view_js.tt:164
 #, perl-format
@@ -3682,12 +3682,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:137
 #, perl-format
 msgid "Count of all Recordings with ISRCs"
-msgstr ""
+msgstr "Πλήθος όλων των Ηχογραφήσεων με ISRC"
 
 #: ../root/statistics/view_js.tt:136
 #, perl-format
 msgid "Count of all Recordings with PUIDs"
-msgstr ""
+msgstr "Πλήθος όλων των Ηχογραφήσεων με PUID"
 
 #: ../root/statistics/view_js.tt:143
 #, perl-format
@@ -3702,7 +3702,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:177
 #, perl-format
 msgid "Count of all Relationships"
-msgstr ""
+msgstr "Πλήθος όλων των Συσχετίσεων"
 
 #: ../root/statistics/view_js.tt:159
 #, perl-format
@@ -3807,12 +3807,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:67
 #, perl-format
 msgid "Count of all Yes votes"
-msgstr "Καταμέτρηση όλων των θετικών ψήφων."
+msgstr "Πλήθος όλων των θετικών ψήφων"
 
 #: ../root/statistics/view_js.tt:41
 #, perl-format
 msgid "Count of all artists"
-msgstr ""
+msgstr "Πλήθος όλων των καλλιτεχνών"
 
 #: ../root/statistics/view_js.tt:71
 #, perl-format
@@ -3822,12 +3822,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:49
 #, perl-format
 msgid "Count of all edits"
-msgstr "Καταμέτρηση όλων των επεξεργασιών"
+msgstr "Πλήθος όλων των επεξεργασιών"
 
 #: ../root/statistics/view_js.tt:47
 #, perl-format
 msgid "Count of all labels"
-msgstr ""
+msgstr "Πλήθος όλων των δισκογραφικών"
 
 #: ../root/statistics/view_js.tt:44
 #, perl-format
@@ -3837,7 +3837,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:42
 #, perl-format
 msgid "Count of all recordings"
-msgstr ""
+msgstr "Πλήθος όλων των ηχογραφήσεων"
 
 #: ../root/statistics/view_js.tt:46
 #, perl-format
@@ -3852,7 +3852,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:63
 #, perl-format
 msgid "Count of all votes"
-msgstr "Καταμέτρηση όλων των ψήφων"
+msgstr "Πλήθος όλων των ψήφων"
 
 #: ../root/statistics/view_js.tt:43
 #, perl-format
@@ -3882,17 +3882,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:50
 #, perl-format
 msgid "Count of open edits"
-msgstr "Καταμέτρηση ανοιχτών επεξεργασιών"
+msgstr "Πλήθος ανοιχτών επεξεργασιών"
 
 #: ../root/statistics/view_js.tt:64
 #, perl-format
 msgid "Count of votes per day"
-msgstr "Καταμέτρηση όλων των ψήφων ανά ημέρα"
+msgstr "Πλήθος όλων των ψήφων ανά ημέρα"
 
 #: ../root/statistics/view_js.tt:65
 #, perl-format
 msgid "Count of votes per week"
-msgstr "Καταμέτρηση όλων των ψήφων ανά βδομάδα"
+msgstr "Πλήθος όλων των ψήφων ανά βδομάδα"
 
 #: ../root/statistics/countries.tt:25
 #, perl-format
@@ -3927,7 +3927,7 @@ msgstr "Χώρα:"
 #: ../root/release/cover_art.tt:3 ../root/release/tabs.tt:1
 #, perl-format
 msgid "Cover Art"
-msgstr ""
+msgstr "Εξώφυλλο"
 
 #: ../root/layout.tt:170
 #, perl-format
@@ -3939,7 +3939,7 @@ msgstr ""
 #: ../root/edit/details/macros.tt:82
 #, perl-format
 msgid "Cover art:"
-msgstr ""
+msgstr "Εξώφυλλο:"
 
 #: ../root/admin/wikidoc/create.tt:12
 #, perl-format
@@ -3956,7 +3956,7 @@ msgstr "Δημιουργία λογαριασμού"
 #: ../root/edit/relationship/create.tt:15
 #, perl-format
 msgid "Create Relationship"
-msgstr ""
+msgstr "Δημιουργία Συσχέτισης"
 
 #: ../root/release/sidebar.tt:142 ../root/user/collections.tt:36
 #, perl-format
@@ -3991,12 +3991,12 @@ msgstr "Δημιουργία συλλογής"
 #: ../root/components/common-macros.tt:481
 #, perl-format
 msgid "Create relationship"
-msgstr ""
+msgstr "Δημιουργία συσχέτισης"
 
 #: ../root/components/common-macros.tt:426
 #, perl-format
 msgid "Create relationship with {other}"
-msgstr ""
+msgstr "Συσχέτιση με {other}"
 
 #: ../root/edit/search_macros.tt:279
 #, perl-format
@@ -4110,7 +4110,7 @@ msgstr ""
 #: DB:link_attribute_type/name:591
 #, perl-format
 msgid "Cretan lyra"
-msgstr ""
+msgstr "Κρητική λύρα"
 
 #: DB:language/name:94
 msgid "Crimean Tatar"
@@ -8772,7 +8772,7 @@ msgstr "Συνδεθείτε για να επεξεργαστείτε"
 #: ../root/release/cover_art.tt:60
 #, perl-format
 msgid "Log in to upload cover art"
-msgstr ""
+msgstr "Συνδεθείτε για να αποστείλετε εξώφυλλο"
 
 #: DB:language/name:197
 msgid "Lojban"
@@ -8785,7 +8785,7 @@ msgstr ""
 #: ../root/main/400.tt:18 ../root/main/404.tt:18
 #, perl-format
 msgid "Looking for help? Check out our {doc|documentation} or {faq|FAQ}."
-msgstr ""
+msgstr "Χρειάζεστε βοήθεια; Διαβάστε την {doc|τεκμηρίωσή} μας ή το {faq|FAQ}."
 
 #: ../root/doc/bare_error.tt:11 ../root/doc/error.tt:13
 #, perl-format
@@ -8806,12 +8806,12 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:45
 #, perl-format
 msgid "Lookup"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: ../root/cdtoc/lookup.tt:1 ../root/cdtoc/lookup.tt:2
 #, perl-format
 msgid "Lookup CD"
-msgstr ""
+msgstr "Αναζήτηση CD"
 
 #: ../root/cdstub/browse.tt:11
 #, perl-format
@@ -9889,7 +9889,7 @@ msgstr ""
 #: ../root/relationship/linktype/create.tt:3
 #, perl-format
 msgid "New Relationship Type"
-msgstr ""
+msgstr "Νέος Τύπος Συσχέτισης"
 
 #: ../root/edit/details/historic/merge_releases.tt:14
 #, perl-format
@@ -9927,7 +9927,7 @@ msgstr "Νέο όνομα δίσκου:"
 #: ../root/edit/details/edit_release_language.tt:25
 #, perl-format
 msgid "New language:"
-msgstr ""
+msgstr "Νέα γλώσσα:"
 
 #: ../root/edit/details/change_wikidoc.tt:17
 #, perl-format
@@ -9942,22 +9942,22 @@ msgstr ""
 #: ../root/release/merge.tt:51
 #, perl-format
 msgid "New position:"
-msgstr ""
+msgstr "Νέα θέση:"
 
 #: ../root/edit/details/reorder_cover_art.tt:22
 #, perl-format
 msgid "New positions:"
-msgstr ""
+msgstr "Νέες θέσεις:"
 
 #: ../root/edit/details/edit_medium.tt:191
 #, perl-format
 msgid "New recording"
-msgstr ""
+msgstr "Νέα ηχογράφηση"
 
 #: ../root/edit/details/historic/edit_relationship.tt:29
 #, perl-format
 msgid "New relationships:"
-msgstr ""
+msgstr "Νέες συσχετίσεις:"
 
 #: ../root/edit/details/edit_release_language.tt:30
 #, perl-format
@@ -9968,7 +9968,7 @@ msgstr "Νέα γραφή:"
 #: ../root/edit/details/change_wikidoc.tt:28
 #, perl-format
 msgid "New version:"
-msgstr ""
+msgstr "Νέα έκδοση:"
 
 #: ../root/scripts/text_strings.tt:35
 #, perl-format
@@ -11335,11 +11335,11 @@ msgstr ""
 
 #: DB:country/name:170
 msgid "Poland"
-msgstr ""
+msgstr "Πολωνία"
 
 #: DB:language/name:338
 msgid "Polish"
-msgstr ""
+msgstr "Πολωνικά"
 
 #: DB:country/name:171
 msgid "Portugal"
@@ -11347,29 +11347,29 @@ msgstr "Πορτογαλία"
 
 #: DB:language/name:340
 msgid "Portuguese"
-msgstr ""
+msgstr "Πορτογαλικά"
 
 #: ../root/cdtoc/list.tt:4
 #, perl-format
 msgid "Position"
-msgstr ""
+msgstr "Θέση"
 
 #: ../root/edit/details/add_medium.tt:12
 #: ../root/edit/details/edit_cover_art.tt:13
 #: ../root/edit/details/edit_medium.tt:25
 #, perl-format
 msgid "Position:"
-msgstr ""
+msgstr "Θέση:"
 
 #: ../root/artist/edit_form.tt:16
 #, perl-format
 msgid "Possible Duplicate Artists"
-msgstr ""
+msgstr "Πιθανές Διπλοεγγραφές Καλλιτεχνών"
 
 #: ../root/label/edit_form.tt:13
 #, perl-format
 msgid "Possible Duplicate Labels"
-msgstr ""
+msgstr "Πιθανές Διπλοεγγραφές Δισκογραφικών"
 
 #: ../root/cdtoc/lookup.tt:28
 #, perl-format
@@ -11379,13 +11379,13 @@ msgstr ""
 #: ../root/relationship/linkattributetype/index.tt:18
 #, perl-format
 msgid "Possible values:"
-msgstr ""
+msgstr "Πιθανές τιμές:"
 
 #: ../root/report/duplicate_artists.tt:1 ../root/report/duplicate_artists.tt:3
 #: ../root/report/index.tt:19
 #, perl-format
 msgid "Possibly duplicate artists"
-msgstr ""
+msgstr "Πιθανές διπλοεγγραφές καλλιτεχνών"
 
 #: DB:language/name:341
 msgid "Prakrit languages"
@@ -11396,7 +11396,7 @@ msgstr ""
 #: ../root/layout/menu.tt:13
 #, perl-format
 msgid "Preferences"
-msgstr "Ρυθμίσεις"
+msgstr "Προτιμήσεις"
 
 #: ../root/annotation/edit.tt:27 ../root/components/forms.tt:203
 #: ../root/release/edit/tracklist.tt:37
@@ -11422,7 +11422,7 @@ msgstr "Προηγούμενο"
 #: ../root/relationship/linktype/form.tt:24
 #, perl-format
 msgid "Priority:"
-msgstr ""
+msgstr "Προτεραιότητα:"
 
 #: ../root/account/preferences.tt:29 ../root/user/collections.tt:11
 #, perl-format
@@ -11501,7 +11501,7 @@ msgstr ""
 
 #: DB:country/name:172
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Πόρτο Ρίκο"
 
 #: DB:link_type/link_phrase:174
 #, perl-format
@@ -11528,7 +11528,7 @@ msgstr "Κατάρ"
 
 #: DB:work_type/name:14
 msgid "Quartet"
-msgstr ""
+msgstr "Κουαρτέτο"
 
 #: DB:language/name:344
 msgid "Quechua"
@@ -11542,7 +11542,7 @@ msgstr ""
 #: ../root/main/index.tt:30
 #, perl-format
 msgid "Quick Start"
-msgstr ""
+msgstr "Γρήγορη εκκίνηση"
 
 #: ../root/edit/list_header.tt:4
 #, perl-format
@@ -11576,7 +11576,7 @@ msgstr ""
 #: ../root/statistics/timeline.tt:67
 #, perl-format
 msgid "Rate of Change Graph"
-msgstr ""
+msgstr "Γράφημα Ρυθμού Αλλαγής"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -11615,12 +11615,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:35
 #, perl-format
 msgid "Ratings and Tags"
-msgstr ""
+msgstr "Βαθμολογίες και Ετικέτες"
 
 #: ../root/main/index.tt:14
 #, perl-format
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Διαβάστε περισσότερα &raquo;"
 
 #: ../root/admin/wikidoc/index.tt:56
 #, perl-format
@@ -11646,7 +11646,7 @@ msgstr "Ηχογράφηση"
 #: ../root/recording/edit_form.tt:6
 #, perl-format
 msgid "Recording Details"
-msgstr ""
+msgstr "Λεπτομέρειες Ηχογράφησης"
 
 #: ../root/recording/not_found.tt:1 ../root/recording/not_found.tt:2
 #, perl-format
@@ -11656,7 +11656,7 @@ msgstr "Δε βρέθηκε ηχογράφηση"
 #: ../root/statistics/view_js.tt:158
 #, perl-format
 msgid "Recording Ratings"
-msgstr ""
+msgstr "Βαθμολογίες Ηχογράφησης"
 
 #: ../root/statistics/view_js.tt:164
 #, perl-format
@@ -11676,12 +11676,12 @@ msgstr "Ηχογράφηση από {artist}"
 #: ../root/recording/layout.tt:8
 #, perl-format
 msgid "Recording information"
-msgstr ""
+msgstr "Πληροφορίες ηχογράφησης"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Recording ratings"
-msgstr ""
+msgstr "Βαθμολογίες ηχογράφησης"
 
 #: ../root/recording/layout.tt:1
 #, perl-format
@@ -11725,7 +11725,7 @@ msgstr ""
 #: ../root/edit/details/remove_recording.tt:3
 #, perl-format
 msgid "Recording:"
-msgstr ""
+msgstr "Ηχογράφηση:"
 
 #: ../root/artist/header.tt:1 ../root/artist/recordings.tt:1
 #: ../root/artist/recordings.tt:4 ../root/report/index.tt:61
@@ -11774,12 +11774,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:136
 #, perl-format
 msgid "Recordings with PUIDs"
-msgstr ""
+msgstr "Ηχογραφήσεις με PUID"
 
 #: ../root/statistics/index.tt:347
 #, perl-format
 msgid "Recordings with at least one PUID:"
-msgstr ""
+msgstr "Ηχογραφήσεις με τουλάχιστον ένα PUID:"
 
 #: ../root/report/index.tt:64
 #, perl-format
@@ -12571,7 +12571,7 @@ msgstr ""
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr ""
+msgstr "Κατάργηση εξωφύλλου"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
@@ -12598,34 +12598,34 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/PUID/Delete.pm:14
 #, perl-format
 msgid "Remove PUID"
-msgstr "Πουέρτο Ρίκο"
+msgstr "Κατάργηση PUID"
 
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 #, perl-format
 msgid "Remove Page"
-msgstr ""
+msgstr "Κατάργηση Σελίδας"
 
 #: ../root/recording/delete.tt:2
 #, perl-format
 msgid "Remove Recording"
-msgstr ""
+msgstr "Κατάργηση Ηχογράφησης"
 
 #: ../root/edit/relationship/delete.tt:1 ../root/edit/relationship/delete.tt:3
 #, perl-format
 msgid "Remove Relationship"
-msgstr ""
+msgstr "Κατάργηση Συσχέτισης"
 
 #: ../root/relationship/linkattributetype/delete.tt:1
 #: ../root/relationship/linkattributetype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Attribute"
-msgstr ""
+msgstr "Κατάργηση Ιδιότητας Συσχέτισης"
 
 #: ../root/relationship/linktype/delete.tt:1
 #: ../root/relationship/linktype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Type"
-msgstr ""
+msgstr "Κατάργηση Τύπου Συσχέτισης"
 
 #: ../root/release/delete.tt:2
 #, perl-format
@@ -12650,22 +12650,22 @@ msgstr ""
 #: ../root/collection/delete.tt:2 ../root/collection/delete.tt:7
 #, perl-format
 msgid "Remove collection"
-msgstr ""
+msgstr "Κατάργηση συλλογής"
 
 #: ../root/release/edit/tracklist.tt:406
 #, perl-format
 msgid "Remove disc"
-msgstr ""
+msgstr "Κατάργηση δίσκου"
 
 #: ../root/release/sidebar.tt:123
 #, perl-format
 msgid "Remove from my collection"
-msgstr ""
+msgstr "Κατάργηση από τη συλλογή μου"
 
 #: ../root/release/sidebar.tt:125
 #, perl-format
 msgid "Remove from {collection}"
-msgstr ""
+msgstr "Κατάργηση από τη συλλογή {collection}"
 
 #: ../root/label/layout.tt:67
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabel.pm:9
@@ -12707,7 +12707,7 @@ msgstr ""
 #: ../root/collection/layout.tt:10
 #, perl-format
 msgid "Remove this collection"
-msgstr ""
+msgstr "Κατάργηση αυτής της συλλογής"
 
 #: ../root/release/edit/tracklist.tt:337
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
@@ -12718,7 +12718,7 @@ msgstr "Κατάργηση κομματιού"
 #: ../root/components/rating-macros.tt:1
 #, perl-format
 msgid "Remove your rating"
-msgstr ""
+msgstr "Κατάργηση της βαθμολογίας σας"
 
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
@@ -12835,7 +12835,7 @@ msgstr ""
 
 #: DB:script/name:26
 msgid "Runic"
-msgstr ""
+msgstr "Ρουνικά"
 
 #: DB:language/name:353
 msgid "Russian"
@@ -12847,7 +12847,7 @@ msgstr "Ρωσία"
 
 #: DB:country/name:177
 msgid "Rwanda"
-msgstr ""
+msgstr "Ρουάντα"
 
 #: DB:country/name:174
 msgid "Réunion"
@@ -12947,7 +12947,7 @@ msgstr ""
 
 #: DB:language/name:360
 msgid "Sanskrit"
-msgstr ""
+msgstr "Σανσκριτικά"
 
 #: DB:language/name:362
 msgid "Santali"
@@ -13018,7 +13018,7 @@ msgstr ""
 
 #: DB:language/name:365
 msgid "Scots"
-msgstr ""
+msgstr "Σκοτικά"
 
 #: DB:language/name:148
 msgid "Scottish Gaelic"
@@ -13032,7 +13032,7 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:49
 #, perl-format
 msgid "Script"
-msgstr ""
+msgstr "Γραφή"
 
 #: ../root/edit/details/add_release.tt:53
 #: ../root/edit/details/edit_release.tt:34
@@ -13045,7 +13045,7 @@ msgstr "Γραφή:"
 #: ../root/statistics/languages_scripts.tt:44
 #, perl-format
 msgid "Scripts"
-msgstr ""
+msgstr "Γραφές"
 
 #: ../root/cdtoc/attach_filter_artist.tt:10
 #: ../root/cdtoc/attach_filter_release.tt:13 ../root/cdtoc/lookup.tt:62
@@ -13067,7 +13067,7 @@ msgstr "Αναζήτηση στις επεξεργασίες"
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 #, perl-format
 msgid "Search Error"
-msgstr ""
+msgstr "Αναζήτηση Λάθους"
 
 #: ../root/otherlookup/results-release.tt:1
 #: ../root/otherlookup/results-release.tt:3
@@ -13090,7 +13090,7 @@ msgstr ""
 #: ../root/search/results-work.tt:1 ../root/search/results-work.tt:3
 #, perl-format
 msgid "Search Results"
-msgstr "Αποτελέσματα αναζήτησης:"
+msgstr "Αποτελέσματα Αναζήτησης"
 
 #: ../root/cdtoc/lookup.tt:56
 #, perl-format
@@ -19637,12 +19637,12 @@ msgstr ""
 #: DB:link_attribute_type/description:329 DB:link_attribute_type/name:329
 #, perl-format
 msgid "electric piano"
-msgstr ""
+msgstr "ηλεκτρικό πιάνο"
 
 #: DB:link_attribute_type/description:316 DB:link_attribute_type/name:316
 #, perl-format
 msgid "electric sitar"
-msgstr ""
+msgstr "ηλεκτρικό σιτάρ"
 
 #: DB:link_attribute_type/description:72 DB:link_attribute_type/name:72
 #, perl-format
@@ -19682,7 +19682,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:120
 #, perl-format
 msgid "engineers"
-msgstr ""
+msgstr "μηχανικοί ήχου"
 
 #: DB:link_attribute_type/name:21
 #, perl-format
