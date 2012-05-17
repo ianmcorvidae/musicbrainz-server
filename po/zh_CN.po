@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-17 05:00+0000\n"
+"PO-Revision-Date: 2012-05-17 05:49+0000\n"
 "Last-Translator: RedHotHeat <email address hidden>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/musicbrainz/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -520,7 +520,7 @@ msgstr ""
 #: DB:link_type/link_phrase:77 DB:link_type/reverse_link_phrase:77
 #, perl-format
 msgid "ASIN"
-msgstr ""
+msgstr "ASIN"
 
 #: DB:language/name:2
 msgid "Abkhazian"
@@ -658,13 +658,13 @@ msgstr ""
 #: ../root/recording/layout.tt:34
 #, perl-format
 msgid "Add ISRC"
-msgstr ""
+msgstr "加ISRC"
 
 #: ../root/layout/menu.tt:179 ../root/release/edit/information.tt:90
 #: ../root/release/edit/information.tt:92
 #, perl-format
 msgid "Add Label"
-msgstr ""
+msgstr "加唱片公司"
 
 #: ../root/label/add_alias.tt:1
 #, perl-format
@@ -1125,7 +1125,7 @@ msgstr ""
 #: DB:link_type/link_phrase:285 DB:link_type/reverse_link_phrase:286
 #, perl-format
 msgid "Allmusic"
-msgstr ""
+msgstr "Allmusic"
 
 #: DB:link_type/link_phrase:286 DB:link_type/reverse_link_phrase:283
 #: DB:link_type/reverse_link_phrase:284 DB:link_type/reverse_link_phrase:285
@@ -1938,7 +1938,7 @@ msgstr ""
 #: ../root/statistics/index.tt:15 ../root/statistics/index.tt:114
 #, perl-format
 msgid "Artists:"
-msgstr ""
+msgstr "艺人："
 
 #: DB:country/name:12
 msgid "Aruba"
@@ -2023,11 +2023,11 @@ msgstr "澳大利亚"
 
 #: DB:language/name:29
 msgid "Australian languages"
-msgstr "澳大利亚语言"
+msgstr ""
 
 #: DB:country/name:14
 msgid "Austria"
-msgstr ""
+msgstr "奥地利"
 
 #: DB:language/name:263
 msgid "Austronesian languages"
@@ -2109,7 +2109,7 @@ msgstr ""
 #: DB:link_type/link_phrase:190
 #, perl-format
 msgid "BBC Music"
-msgstr ""
+msgstr "BBC Music"
 
 #: DB:link_type/reverse_link_phrase:190
 #, perl-format
@@ -2243,7 +2243,7 @@ msgstr ""
 #: ../root/release_group/index.tt:19 ../root/release_group/releases-list.tt:28
 #, perl-format
 msgid "Barcode"
-msgstr ""
+msgstr "条码"
 
 #: ../root/cdstub/edit.tt:56 ../root/cdstub/layout.tt:15
 #: ../root/edit/details/add_release.tt:81
@@ -2253,17 +2253,17 @@ msgstr ""
 #: ../root/release/edit/information.tt:98 ../root/release/sidebar.tt:18
 #, perl-format
 msgid "Barcode:"
-msgstr ""
+msgstr "条码："
 
 #: ../root/statistics/view_js.tt:116
 #, perl-format
 msgid "Barcodes"
-msgstr ""
+msgstr "条码"
 
 #: ../root/statistics/index.tt:97
 #, perl-format
 msgid "Barcodes:"
-msgstr ""
+msgstr "条码："
 
 #: DB:language/name:42
 msgid "Basa"
@@ -2510,7 +2510,7 @@ msgstr ""
 
 #: DB:medium_format/name:20
 msgid "Blu-ray"
-msgstr ""
+msgstr "蓝光"
 
 #: DB:link_attribute_type/description:504
 #, perl-format
@@ -2545,7 +2545,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
 msgid "Born:"
-msgstr ""
+msgstr "出生："
 
 #: DB:country/name:27
 msgid "Bosnia and Herzegovina"
@@ -2587,7 +2587,7 @@ msgstr ""
 
 #: DB:country/name:30
 msgid "Brazil"
-msgstr ""
+msgstr "巴西"
 
 #: DB:language/name:58
 msgid "Breton"
@@ -2791,7 +2791,7 @@ msgstr ""
 
 #: DB:medium_format/name:33
 msgid "CD-R"
-msgstr ""
+msgstr "CD-R"
 
 #: ../root/statistics/view_js.tt:120
 #, perl-format
@@ -3165,11 +3165,11 @@ msgstr ""
 
 #: DB:country/name:44
 msgid "China"
-msgstr ""
+msgstr "中国"
 
 #: DB:language/name:76
 msgid "Chinese"
-msgstr ""
+msgstr "中文"
 
 #: DB:link_attribute_type/description:290
 #, perl-format
@@ -3893,7 +3893,7 @@ msgstr ""
 #: ../root/statistics/countries.tt:25
 #, perl-format
 msgid "Countries"
-msgstr ""
+msgstr "国家"
 
 #: ../root/cdtoc/attach_artist_releases.tt:37 ../root/cdtoc/list.tt:9
 #: ../root/collection/index.tt:15
@@ -3905,7 +3905,7 @@ msgstr ""
 #: ../root/statistics/countries.tt:33 ../root/tracklist/index.tt:32
 #, perl-format
 msgid "Country"
-msgstr ""
+msgstr "国家"
 
 #: ../root/artist/edit_form.tt:43 ../root/artist/index.tt:22
 #: ../root/artist/layout.tt:37 ../root/edit/details/add_artist.tt:37
@@ -3918,7 +3918,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:18
 #, perl-format
 msgid "Country:"
-msgstr ""
+msgstr "国家："
 
 #: ../root/release/cover_art.tt:3 ../root/release/tabs.tt:1
 #, perl-format
@@ -4239,11 +4239,11 @@ msgstr ""
 
 #: DB:medium_format/name:18
 msgid "DVD-Audio"
-msgstr ""
+msgstr "DVD-Audio"
 
 #: DB:medium_format/name:19
 msgid "DVD-Video"
-msgstr ""
+msgstr "DVD-Video"
 
 #: DB:language/name:99
 msgid "Dakota"
@@ -4388,7 +4388,7 @@ msgstr ""
 
 #: DB:country/name:57
 msgid "Denmark"
-msgstr ""
+msgstr "丹麦"
 
 #: DB:link_type/description:117
 #, perl-format
@@ -5631,12 +5631,12 @@ msgstr ""
 
 #: DB:gender/name:2
 msgid "Female"
-msgstr ""
+msgstr "女性"
 
 #: ../root/statistics/view_js.tt:104
 #, perl-format
 msgid "Female Artists"
-msgstr ""
+msgstr "女性艺人"
 
 #: ../root/statistics/index.tt:167
 #, perl-format
@@ -5667,11 +5667,11 @@ msgstr ""
 
 #: DB:country/name:72
 msgid "Finland"
-msgstr ""
+msgstr "芬兰"
 
 #: DB:language/name:131
 msgid "Finnish"
-msgstr ""
+msgstr "芬兰语"
 
 #: DB:language/name:132
 msgid "Finno-Ugrian languages"
@@ -5970,7 +5970,7 @@ msgstr ""
 #: ../root/edit/details/edit_artist.tt:28
 #, perl-format
 msgid "Gender:"
-msgstr ""
+msgstr "性别："
 
 #: ../root/user/profile.tt:12
 #, perl-format
@@ -6051,7 +6051,7 @@ msgstr ""
 
 #: DB:language/name:143
 msgid "Germanic languages"
-msgstr ""
+msgstr "日耳曼语族"
 
 #: DB:country/name:81
 msgid "Germany"
@@ -6269,15 +6269,15 @@ msgstr ""
 
 #: DB:script/name:92
 msgid "Han (Hanzi, Kanji, Hanja)"
-msgstr ""
+msgstr "汉字"
 
 #: DB:script/name:93
 msgid "Han (Simplified variant)"
-msgstr ""
+msgstr "汉字 （简体）"
 
 #: DB:script/name:94
 msgid "Han (Traditional variant)"
-msgstr ""
+msgstr "汉字 （繁体)"
 
 #: DB:link_attribute_type/description:398
 #, perl-format
@@ -6405,7 +6405,7 @@ msgstr ""
 
 #: DB:country/name:96
 msgid "Hong Kong"
-msgstr ""
+msgstr "香港"
 
 #: ../root/statistics/timeline.tt:75
 #, perl-format
@@ -6475,7 +6475,7 @@ msgstr ""
 #: DB:link_type/link_phrase:97 DB:link_type/link_phrase:178
 #, perl-format
 msgid "IMDb"
-msgstr ""
+msgstr "IMDb"
 
 #: DB:link_type/reverse_link_phrase:83 DB:link_type/reverse_link_phrase:258
 #, perl-format
@@ -6521,7 +6521,7 @@ msgstr ""
 #: ../root/report/isrc_with_many_recordings.tt:15
 #, perl-format
 msgid "ISRC"
-msgstr ""
+msgstr "ISRC"
 
 #: ../root/isrc/not_found.tt:1 ../root/isrc/not_found.tt:2
 #, perl-format
@@ -6547,14 +6547,14 @@ msgstr ""
 #: ../root/recording/add_isrc.tt:16 ../root/recording/layout.tt:16
 #, perl-format
 msgid "ISRC:"
-msgstr ""
+msgstr "ISRC："
 
 #: ../root/artist/recordings-list.tt:26 ../root/report/index.tt:69
 #: ../root/search/lib/inline-results-recording.tt:10
 #: ../root/statistics/view_js.tt:127
 #, perl-format
 msgid "ISRCs"
-msgstr ""
+msgstr "ISRC"
 
 #: ../root/statistics/index.tt:85
 #, perl-format
@@ -6575,19 +6575,19 @@ msgstr ""
 #: ../root/artist/works-list.tt:12 ../root/search/results-work.tt:13
 #, perl-format
 msgid "ISWC"
-msgstr ""
+msgstr "ISWC"
 
 #: ../root/edit/details/add_work.tt:23 ../root/edit/details/edit_work.tt:19
 #: ../root/otherlookup/form.tt:3 ../root/work/edit_form.tt:9
 #: ../root/work/layout.tt:14
 #, perl-format
 msgid "ISWC:"
-msgstr ""
+msgstr "ISWC："
 
 #: ../root/statistics/view_js.tt:129
 #, perl-format
 msgid "ISWCs"
-msgstr ""
+msgstr "ISWC"
 
 #: ../root/statistics/index.tt:89
 #, perl-format
@@ -6605,11 +6605,11 @@ msgstr ""
 
 #: DB:country/name:98
 msgid "Iceland"
-msgstr ""
+msgstr "冰岛"
 
 #: DB:language/name:180
 msgid "Icelandic"
-msgstr ""
+msgstr "冰岛语"
 
 #: ../root/statistics/index.tt:78
 #, perl-format
@@ -7920,7 +7920,7 @@ msgstr "爱尔兰"
 
 #: DB:language/name:149
 msgid "Irish"
-msgstr ""
+msgstr "爱尔兰语"
 
 #: DB:link_attribute_type/description:491 DB:link_attribute_type/name:491
 #, perl-format
@@ -14131,11 +14131,11 @@ msgstr ""
 
 #: DB:country/name:202
 msgid "Sweden"
-msgstr ""
+msgstr "瑞典"
 
 #: DB:language/name:403
 msgid "Swedish"
-msgstr ""
+msgstr "瑞典语"
 
 #: DB:country/name:203
 msgid "Switzerland"
@@ -14339,15 +14339,15 @@ msgstr ""
 
 #: DB:country/name:205
 msgid "Taiwan"
-msgstr ""
+msgstr "台湾"
 
 #: DB:language/name:413
 msgid "Tajik"
-msgstr ""
+msgstr "塔吉克语"
 
 #: DB:country/name:206
 msgid "Tajikistan"
-msgstr ""
+msgstr "塔吉克斯坦"
 
 #: DB:script/name:139
 msgid "Takri"
@@ -14439,7 +14439,7 @@ msgstr ""
 
 #: DB:country/name:208
 msgid "Thailand"
-msgstr ""
+msgstr "泰国"
 
 #: ../root/account/donation.tt:14
 #, perl-format
@@ -17711,7 +17711,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:37
 #, perl-format
 msgid "Work"
-msgstr ""
+msgstr "作品"
 
 #: ../root/work/edit_form.tt:6
 #, perl-format
@@ -17768,14 +17768,14 @@ msgstr ""
 #: ../root/edit/details/remove_work.tt:3
 #, perl-format
 msgid "Work:"
-msgstr ""
+msgstr "作品："
 
 #: ../root/artist/header.tt:1 ../root/artist/works.tt:2
 #: ../root/statistics/view_js.tt:43 ../root/tag/header.tt:1
 #: ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Works"
-msgstr ""
+msgstr "作品"
 
 #: ../root/browse/work.tt:8
 #, perl-format
@@ -17785,7 +17785,7 @@ msgstr ""
 #: ../root/statistics/index.tt:39
 #, perl-format
 msgid "Works:"
-msgstr ""
+msgstr "作品："
 
 #: ../root/artist/works-list.tt:10 ../root/otherlookup/results-work.tt:8
 #: ../root/search/results-work.tt:11
