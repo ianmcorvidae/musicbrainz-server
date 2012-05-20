@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-20 05:57+0000\n"
+"PO-Revision-Date: 2012-05-20 06:55+0000\n"
 "Last-Translator: RedHotHeat <email address hidden>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/musicbrainz/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -180,7 +180,7 @@ msgstr ""
 #: ../root/search/lib/inline-results-recording.tt:60
 #, perl-format
 msgid "(standalone recording)"
-msgstr ""
+msgstr "（独立录音）"
 
 #: ../root/edit/details/convert_release_to_multiple_artists.tt:11
 #: ../root/edit/details/historic/mac_to_sac.tt:8
@@ -654,7 +654,7 @@ msgstr ""
 #: ../root/release/cover_art.tt:49
 #, perl-format
 msgid "Add Cover Art"
-msgstr ""
+msgstr "加封面图像"
 
 #: ../root/release/edit/tracklist.tt:167 ../root/release/edit/tracklist.tt:293
 #: ../root/release/edit/tracklist.tt:485
@@ -713,7 +713,7 @@ msgstr ""
 #: ../root/recording/create.tt:18
 #, perl-format
 msgid "Add Standalone Recording"
-msgstr ""
+msgstr "加独立录音"
 
 #: ../root/edit/relationship/create_url.tt:15
 #: ../root/edit/relationship/create_url.tt:17
@@ -2969,18 +2969,18 @@ msgstr ""
 
 #: DB:language/name:68
 msgid "Catalan"
-msgstr ""
+msgstr "加泰罗尼亚语"
 
 #: ../root/edit/details/historic/add_release.tt:78
 #: ../root/report/cat_no_looks_like_asin.tt:15
 #, perl-format
 msgid "Catalog Number"
-msgstr ""
+msgstr "分类号吗"
 
 #: ../root/edit/details/edit_release_events.tt:8
 #, perl-format
 msgid "Catalog number"
-msgstr ""
+msgstr "分类号吗"
 
 #: ../root/edit/details/add_release_label.tt:13
 #: ../root/edit/details/edit_release_label.tt:23
@@ -2989,7 +2989,7 @@ msgstr ""
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Catalog number:"
-msgstr ""
+msgstr "分类号吗："
 
 #: ../root/cdtoc/attach_artist_releases.tt:39 ../root/cdtoc/list.tt:11
 #: ../root/collection/index.tt:17 ../root/recording/index.tt:17
@@ -2997,7 +2997,7 @@ msgstr ""
 #: ../root/tracklist/index.tt:34
 #, perl-format
 msgid "Catalog#"
-msgstr ""
+msgstr "分类号吗："
 
 #: DB:language/name:69
 msgid "Caucasian languages"
@@ -3479,7 +3479,7 @@ msgstr ""
 #: ../root/layout/menu.tt:232
 #, perl-format
 msgid "Contact Us"
-msgstr ""
+msgstr "联系我们"
 
 #: DB:link_attribute_type/description:471
 #, perl-format
@@ -3931,7 +3931,7 @@ msgstr "国家："
 #: ../root/release/cover_art.tt:3 ../root/release/tabs.tt:1
 #, perl-format
 msgid "Cover Art"
-msgstr ""
+msgstr "封面图像"
 
 #: ../root/layout.tt:170
 #, perl-format
@@ -3943,7 +3943,7 @@ msgstr ""
 #: ../root/edit/details/macros.tt:82
 #, perl-format
 msgid "Cover art:"
-msgstr ""
+msgstr "封面图像："
 
 #: ../root/admin/wikidoc/create.tt:12
 #, perl-format
@@ -4470,17 +4470,17 @@ msgstr ""
 #: ../root/layout/menu.tt:139
 #, perl-format
 msgid "Developer Resources"
-msgstr ""
+msgstr "开发者资源"
 
 #: ../root/main/index.tt:102
 #, perl-format
 msgid "Developers"
-msgstr ""
+msgstr "开发者"
 
 #: ../root/layout/menu.tt:227
 #, perl-format
 msgid "Development"
-msgstr ""
+msgstr "开发"
 
 #: ../root/layout.tt:81
 #, perl-format
@@ -4681,7 +4681,7 @@ msgstr ""
 #: ../root/layout/menu.tt:206
 #, perl-format
 msgid "Documentation"
-msgstr ""
+msgstr "说明文件"
 
 #: DB:language/name:108
 msgid "Dogri"
@@ -4871,7 +4871,7 @@ msgstr ""
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
 msgid "Edit Cover Art"
-msgstr ""
+msgstr "修改封面图像"
 
 #: ../root/statistics/view_js.tt:26
 #, perl-format
@@ -9561,7 +9561,7 @@ msgstr "MusicBrainz的博客"
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
 msgid "MusicBrainz Database"
-msgstr ""
+msgstr "MusicBrainz数据库"
 
 #: ../root/statistics/timeline.tt:63
 #, perl-format
@@ -9581,7 +9581,7 @@ msgstr "MusicBrainz Picard"
 #: ../root/layout/menu.tt:133
 #, perl-format
 msgid "MusicBrainz Server"
-msgstr ""
+msgstr "MusicBrainz服务器"
 
 #: ../root/main/index.tt:49
 #, perl-format
@@ -9604,7 +9604,7 @@ msgstr ""
 #: ../root/layout/menu.tt:130
 #, perl-format
 msgid "MusicBrainz for Android"
-msgstr "MusicBrainz为安卓"
+msgstr "MusicBrainz安卓版"
 
 #: ../root/account/register.tt:55
 #, perl-format
@@ -12563,7 +12563,7 @@ msgstr ""
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr ""
+msgstr "除封面图像"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
@@ -17809,14 +17809,14 @@ msgstr ""
 #: ../root/layout/menu.tt:142
 #, perl-format
 msgid "XML Web Service"
-msgstr ""
+msgstr "网上XML服务"
 
 #: ../root/artist/details.tt:30 ../root/label/details.tt:30
 #: ../root/recording/details.tt:30 ../root/release/details.tt:30
 #: ../root/release_group/details.tt:30 ../root/work/details.tt:30
 #, perl-format
 msgid "XML:"
-msgstr ""
+msgstr "XML："
 
 #: DB:language/name:460
 msgid "Xhosa"
@@ -19281,7 +19281,7 @@ msgstr ""
 #: DB:link_type/link_phrase:78
 #, perl-format
 msgid "cover art"
-msgstr ""
+msgstr "封面图像"
 
 #: DB:link_type/reverse_link_phrase:78
 #, perl-format
@@ -24243,7 +24243,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Create.pm:24
 msgid "Add standalone recording"
-msgstr ""
+msgstr "加独立录音"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Merge.pm:13
 msgid "Merge recordings"
@@ -24308,7 +24308,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
-msgstr ""
+msgstr "Wiki说明文件"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
