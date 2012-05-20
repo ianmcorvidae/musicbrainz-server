@@ -3,10 +3,12 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+#  <>, 2002, 2001, Inc, 2003, 2007, 2008, 2009, 2010, 2011, 2000,�s�, 2012.
 #   Alastair McKinstry <email address hidden>, 2002.
 # Alastair McKinstry <email address hidden>, 2001.
 #   Free Software Foundation, Inc., 2002, 2003, 2007, 2008.
 #   <email address hidden>, 2012.
+# Ger <email address hidden>, 2012.
 #   LI Daobing <email address hidden>, 2007, 2008, 2009, 2010, 2011.
 # LI Daobing <email address hidden>, 2007, 2008, 2009, 2010.
 #   Tobias Toedter <email address hidden>, 2007.
@@ -17,7 +19,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-20 08:06+0000\n"
+"PO-Revision-Date: 2012-05-20 09:55+0000\n"
 "Last-Translator: RedHotHeat <email address hidden>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/musicbrainz/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -139,7 +141,7 @@ msgstr "（新光盘）"
 #: ../root/edit/details/add_release.tt:22
 #, perl-format
 msgid "(new release group)"
-msgstr ""
+msgstr "（新发行团）"
 
 #: ../root/annotation/common.tt:9
 #: ../root/edit/details/add_artist_annotation.tt:10
@@ -274,7 +276,7 @@ msgstr "7寸乙烯基"
 
 #: DB:medium_format/name:34
 msgid "8cm CD"
-msgstr ""
+msgstr "8cm CD"
 
 #: ../root/relationship/linktype/tree.tt:38
 #, perl-format
@@ -755,7 +757,7 @@ msgstr "加新唱片公司"
 #: ../root/release_group/create.tt:23
 #, perl-format
 msgid "Add a New Release Group"
-msgstr ""
+msgstr "加新发行团"
 
 #: ../root/components/aliases.tt:48
 #, perl-format
@@ -870,7 +872,7 @@ msgstr "加发行版"
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Create.pm:22
 #, perl-format
 msgid "Add release group"
-msgstr ""
+msgstr "加发行团"
 
 #: ../root/report/duplicate_artists.tt:45
 #, perl-format
@@ -1057,7 +1059,7 @@ msgstr "别名"
 #: ../root/alias/edit_form.tt:3
 #, perl-format
 msgid "Alias name:"
-msgstr ""
+msgstr "别名："
 
 #: ../root/edit/details/add_artist_alias.tt:7
 #: ../root/edit/details/add_label_alias.tt:7
@@ -1670,7 +1672,7 @@ msgstr ""
 #: ../root/artist/edit_form.tt:37
 #, perl-format
 msgid "Artist Details"
-msgstr ""
+msgstr "艺人细节"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -1740,7 +1742,7 @@ msgstr ""
 #: ../root/artist/layout.tt:4
 #, perl-format
 msgid "Artist information"
-msgstr ""
+msgstr "艺人信息"
 
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
@@ -2122,7 +2124,7 @@ msgstr "BBC Music"
 #: DB:link_type/reverse_link_phrase:190
 #, perl-format
 msgid "BBC Music page for"
-msgstr ""
+msgstr "BBC Music 页为"
 
 #: ../root/browse/page_selector.tt:54
 #, perl-format
@@ -2251,7 +2253,7 @@ msgstr "巴巴多斯"
 #: ../root/release_group/index.tt:19 ../root/release_group/releases-list.tt:28
 #, perl-format
 msgid "Barcode"
-msgstr "条码"
+msgstr "条形码"
 
 #: ../root/cdstub/edit.tt:56 ../root/cdstub/layout.tt:15
 #: ../root/edit/details/add_release.tt:81
@@ -2261,17 +2263,17 @@ msgstr "条码"
 #: ../root/release/edit/information.tt:98 ../root/release/sidebar.tt:18
 #, perl-format
 msgid "Barcode:"
-msgstr "条码："
+msgstr "条形码："
 
 #: ../root/statistics/view_js.tt:116
 #, perl-format
 msgid "Barcodes"
-msgstr "条码"
+msgstr "条形码"
 
 #: ../root/statistics/index.tt:97
 #, perl-format
 msgid "Barcodes:"
-msgstr "条码："
+msgstr "条形码："
 
 #: DB:language/name:42
 msgid "Basa"
@@ -2965,7 +2967,7 @@ msgstr "磁带"
 #: ../root/release/edit/information.tt:75
 #, perl-format
 msgid "Cat.No:"
-msgstr ""
+msgstr "分类号吗："
 
 #: DB:language/name:68
 msgid "Catalan"
@@ -4634,7 +4636,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:217 DB:link_type/reverse_link_phrase:90
 #, perl-format
 msgid "Discogs page for"
-msgstr ""
+msgstr "Discogs 页为"
 
 #: ../root/report/separate_discs.tt:1 ../root/report/separate_discs.tt:3
 #, perl-format
@@ -4980,7 +4982,7 @@ msgstr "修改URL"
 #: ../root/user/profile/layout.tt:27
 #, perl-format
 msgid "Edit User"
-msgstr ""
+msgstr "修改用户"
 
 #: ../root/work/edit.tt:15
 #, perl-format
@@ -5072,7 +5074,7 @@ msgstr ""
 #: ../root/admin/edit_user.tt:40
 #, perl-format
 msgid "Edit user"
-msgstr ""
+msgstr "修改用户"
 
 #: ../root/work/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/EditAlias.pm:13
@@ -6467,13 +6469,13 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:275
 #, perl-format
 msgid "IBDb"
-msgstr ""
+msgstr "IBDb"
 
 #: DB:link_type/link_phrase:275 DB:link_type/reverse_link_phrase:99
 #: DB:link_type/reverse_link_phrase:195
 #, perl-format
 msgid "IBDb page for"
-msgstr ""
+msgstr "IBDb 页为"
 
 #: ../root/edit/search_macros.tt:279
 #, perl-format
@@ -6493,7 +6495,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:97 DB:link_type/reverse_link_phrase:178
 #, perl-format
 msgid "IMDb page for"
-msgstr ""
+msgstr "IMDb 页为"
 
 #: DB:link_type/link_phrase:100 DB:link_type/link_phrase:196
 #: DB:link_type/reverse_link_phrase:276
@@ -6514,17 +6516,17 @@ msgstr ""
 #: ../root/label/layout.tt:30
 #, perl-format
 msgid "IPI code:"
-msgstr ""
+msgstr "IPI 码："
 
 #: ../root/statistics/view_js.tt:124
 #, perl-format
 msgid "IPIs"
-msgstr ""
+msgstr "IPI"
 
 #: ../root/statistics/index.tt:101
 #, perl-format
 msgid "IPIs:"
-msgstr ""
+msgstr "IPI："
 
 #: ../root/report/isrc_with_many_recordings.tt:15
 #, perl-format
@@ -8344,27 +8346,27 @@ msgstr "唱片公司"
 #: ../root/statistics/view_js.tt:28
 #, perl-format
 msgid "Label Countries"
-msgstr ""
+msgstr "唱片公司国家"
 
 #: ../root/edit/search_macros.tt:279
 #, perl-format
 msgid "Label Country"
-msgstr ""
+msgstr "唱片公司国家"
 
 #: ../root/label/edit_form.tt:34
 #, perl-format
 msgid "Label Details"
-msgstr ""
+msgstr "唱片公司细节"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Label IPI:"
-msgstr ""
+msgstr "唱片公司 IPI："
 
 #: ../root/statistics/view_js.tt:126
 #, perl-format
 msgid "Label IPIs"
-msgstr ""
+msgstr "唱片公司 IPI"
 
 #: ../root/label/not_found.tt:1 ../root/label/not_found.tt:2
 #, perl-format
@@ -8374,7 +8376,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:157
 #, perl-format
 msgid "Label Ratings"
-msgstr ""
+msgstr "唱片公司分级"
 
 #: ../root/statistics/view_js.tt:163
 #, perl-format
@@ -8395,47 +8397,47 @@ msgstr ""
 #: ../root/label/edit_form.tt:41 ../root/label/layout.tt:33
 #, perl-format
 msgid "Label code:"
-msgstr ""
+msgstr "唱片公司码："
 
 #: ../root/label/layout.tt:4
 #, perl-format
 msgid "Label information"
-msgstr ""
+msgstr "唱片公司信息"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Label ratings"
-msgstr ""
+msgstr "唱片公司分级"
 
 #: ../root/statistics/index.tt:608
 #, perl-format
 msgid "Label-Label:"
-msgstr ""
+msgstr "唱片公司-唱片公司："
 
 #: ../root/statistics/index.tt:614
 #, perl-format
 msgid "Label-Recording:"
-msgstr ""
+msgstr "唱片公司-录音："
 
 #: ../root/statistics/index.tt:626
 #, perl-format
 msgid "Label-Release Group:"
-msgstr ""
+msgstr "唱片公司-发行团："
 
 #: ../root/statistics/index.tt:620
 #, perl-format
 msgid "Label-Release:"
-msgstr ""
+msgstr "唱片公司-发行版："
 
 #: ../root/statistics/index.tt:632
 #, perl-format
 msgid "Label-URL:"
-msgstr ""
+msgstr "唱片公司-URL："
 
 #: ../root/statistics/index.tt:638
 #, perl-format
 msgid "Label-Work:"
-msgstr ""
+msgstr "唱片公司-作品："
 
 #: ../root/components/common-macros.tt:415
 #: ../root/edit/details/add_label_alias.tt:3
@@ -8451,14 +8453,14 @@ msgstr ""
 #: ../root/release/edit/information.tt:64
 #, perl-format
 msgid "Label:"
-msgstr ""
+msgstr "唱片公司："
 
 #: ../root/release/edit/missing_entities.tt:83 ../root/release/sidebar.tt:47
 #: ../root/statistics/countries.tt:36 ../root/statistics/view_js.tt:47
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Labels"
-msgstr ""
+msgstr "唱片公司"
 
 #: ../root/browse/label.tt:8
 #, perl-format
@@ -8473,7 +8475,7 @@ msgstr ""
 #: ../root/statistics/index.tt:35
 #, perl-format
 msgid "Labels:"
-msgstr ""
+msgstr "唱片公司："
 
 #: DB:language/name:234
 msgid "Ladino"
@@ -8727,7 +8729,7 @@ msgstr ""
 #: ../root/layout/menu.tt:145
 #, perl-format
 msgid "Live Data Feed"
-msgstr ""
+msgstr "实时数据馈送"
 
 #: ../root/components/aliases.tt:14
 #, perl-format
@@ -8766,12 +8768,12 @@ msgstr "登录"
 #: ../root/work/layout.tt:54
 #, perl-format
 msgid "Log in to edit"
-msgstr ""
+msgstr "登录修改"
 
 #: ../root/release/cover_art.tt:60
 #, perl-format
 msgid "Log in to upload cover art"
-msgstr ""
+msgstr "登录上载封面图像"
 
 #: DB:language/name:197
 msgid "Lojban"
@@ -8896,7 +8898,7 @@ msgstr "吕底亚语"
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "MBID:"
-msgstr ""
+msgstr "MBID："
 
 #: DB:country/name:125
 msgid "Macao"
@@ -8987,17 +8989,17 @@ msgstr "马尔代夫"
 
 #: DB:gender/name:1
 msgid "Male"
-msgstr ""
+msgstr "男性"
 
 #: ../root/statistics/view_js.tt:103
 #, perl-format
 msgid "Male Artists"
-msgstr ""
+msgstr "男性艺人"
 
 #: ../root/statistics/index.tt:161
 #, perl-format
 msgid "Male:"
-msgstr ""
+msgstr "男性："
 
 #: DB:country/name:131
 msgid "Mali"
@@ -9166,13 +9168,13 @@ msgstr ""
 #: ../root/edit/details/remove_medium.tt:3
 #, perl-format
 msgid "Medium:"
-msgstr ""
+msgstr "媒介："
 
 #: ../root/cdtoc/set_durations.tt:10 ../root/statistics/formats.tt:30
 #: ../root/statistics/view_js.tt:44
 #, perl-format
 msgid "Mediums"
-msgstr ""
+msgstr "媒介"
 
 #: ../root/statistics/view_js.tt:141
 #, perl-format
@@ -9204,7 +9206,7 @@ msgstr ""
 #: ../root/statistics/index.tt:295
 #, perl-format
 msgid "Mediums:"
-msgstr ""
+msgstr "媒介："
 
 #: DB:script/name:120
 msgid "Meitei Mayek"
@@ -9556,12 +9558,12 @@ msgstr ""
 #: ../root/main/index.tt:5
 #, perl-format
 msgid "MusicBrainz Blog"
-msgstr "MusicBrainz的博客"
+msgstr "MusicBrainz 博客"
 
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
 msgid "MusicBrainz Database"
-msgstr "MusicBrainz数据库"
+msgstr "MusicBrainz 数据库"
 
 #: ../root/statistics/timeline.tt:63
 #, perl-format
@@ -9604,7 +9606,7 @@ msgstr ""
 #: ../root/layout/menu.tt:130
 #, perl-format
 msgid "MusicBrainz for Android"
-msgstr "MusicBrainz安卓版"
+msgstr "MusicBrainz 安卓版"
 
 #: ../root/account/register.tt:55
 #, perl-format
@@ -9774,7 +9776,7 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:16
 #, perl-format
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: ../root/artist/details.tt:5 ../root/artist/edit_form.tt:38
 #: ../root/collection/edit_form.tt:5 ../root/components/filter-form.tt:16
@@ -9808,7 +9810,7 @@ msgstr ""
 #: ../root/work/details.tt:5 ../root/work/edit_form.tt:7
 #, perl-format
 msgid "Name:"
-msgstr ""
+msgstr "名称："
 
 #: DB:country/name:147
 msgid "Namibia"
@@ -9950,7 +9952,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:191
 #, perl-format
 msgid "New recording"
-msgstr ""
+msgstr "新录音"
 
 #: ../root/edit/details/historic/edit_relationship.tt:29
 #, perl-format
@@ -9980,7 +9982,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:487
 #, perl-format
 msgid "Next »"
-msgstr ""
+msgstr "下一步 »"
 
 #: DB:language/name:302
 msgid "Nias"
@@ -10703,18 +10705,18 @@ msgstr "PUID"
 #: ../root/puid/index.tt:1 ../root/puid/index.tt:3
 #, perl-format
 msgid "PUID “{puid}”"
-msgstr ""
+msgstr "PUID {puid}"
 
 #: ../root/edit/details/remove_puid.tt:7 ../root/otherlookup/form.tt:3
 #: ../root/taglookup/form.tt:10
 #, perl-format
 msgid "PUID:"
-msgstr "PUID:"
+msgstr "PUID："
 
 #: ../root/statistics/index.tt:368 ../root/statistics/view_js.tt:131
 #, perl-format
 msgid "PUIDs"
-msgstr ""
+msgstr "PUID"
 
 #: ../root/statistics/view_js.tt:132
 #, perl-format
@@ -12046,12 +12048,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:34
 #, perl-format
 msgid "Release Group"
-msgstr ""
+msgstr "发行团"
 
 #: ../root/release_group/edit_form.tt:6
 #, perl-format
 msgid "Release Group Details"
-msgstr ""
+msgstr "发行团细节"
 
 #: ../root/release_group/not_found.tt:1 ../root/release_group/not_found.tt:2
 #, perl-format
@@ -12061,7 +12063,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:159
 #, perl-format
 msgid "Release Group Ratings"
-msgstr ""
+msgstr "发行团分级"
 
 #: ../root/statistics/view_js.tt:165
 #, perl-format
@@ -12094,13 +12096,13 @@ msgstr ""
 #: ../root/release/edit/information.tt:28
 #, perl-format
 msgid "Release Group:"
-msgstr ""
+msgstr "发行团："
 
 #: ../root/statistics/view_js.tt:46 ../root/tag/header.tt:1
 #: ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Release Groups"
-msgstr ""
+msgstr "发行团"
 
 #: ../root/statistics/view_js.tt:145
 #, perl-format
@@ -12152,7 +12154,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
 #, perl-format
 msgid "Release group"
-msgstr ""
+msgstr "发行团"
 
 #: ../root/release_group/edits.tt:20 ../root/release_group/header.tt:13
 #, perl-format
@@ -12192,12 +12194,12 @@ msgstr ""
 #: ../root/edit/details/remove_release_group.tt:3
 #, perl-format
 msgid "Release group:"
-msgstr ""
+msgstr "发行团："
 
 #: ../root/report/index.tt:25
 #, perl-format
 msgid "Release groups"
-msgstr ""
+msgstr "发行团"
 
 #: ../root/artist/browse_various.tt:5 ../root/browse/release_group.tt:8
 #, perl-format
@@ -12223,7 +12225,7 @@ msgstr ""
 #: ../root/statistics/index.tt:19
 #, perl-format
 msgid "Release groups:"
-msgstr ""
+msgstr "发行团："
 
 #: ../root/release/edit/information.tt:23 ../root/release/sidebar.tt:16
 #, perl-format
@@ -12522,7 +12524,7 @@ msgstr ""
 #: ../root/statistics/index.tt:262
 #, perl-format
 msgid "Releases:"
-msgstr ""
+msgstr "发行版："
 
 #: DB:release_group_type/name:10
 msgid "Remix"
@@ -12542,18 +12544,18 @@ msgstr ""
 #: ../root/user/collections.tt:24
 #, perl-format
 msgid "Remove"
-msgstr ""
+msgstr "除"
 
 #: ../root/artist/delete_alias.tt:2 ../root/label/delete_alias.tt:2
 #: ../root/work/delete_alias.tt:2
 #, perl-format
 msgid "Remove Alias"
-msgstr ""
+msgstr "除别名"
 
 #: ../root/artist/delete_alias.tt:1
 #, perl-format
 msgid "Remove Artist Alias"
-msgstr ""
+msgstr "除艺人别名"
 
 #: ../root/components/forms.tt:224 ../root/release/edit/tracklist.tt:73
 #, perl-format
@@ -12573,17 +12575,17 @@ msgstr ""
 #: ../root/isrc/delete.tt:1 ../root/isrc/delete.tt:3
 #, perl-format
 msgid "Remove ISRC “{isrc}”"
-msgstr ""
+msgstr "除 ISRC {isrc}"
 
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:81
 #, perl-format
 msgid "Remove Label"
-msgstr ""
+msgstr "除唱片公司"
 
 #: ../root/label/delete_alias.tt:1
 #, perl-format
 msgid "Remove Label Alias"
-msgstr ""
+msgstr "除唱片公司别名"
 
 #: ../root/recording/delete_puid.tt:1
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemovePUID.pm:10
@@ -12600,7 +12602,7 @@ msgstr ""
 #: ../root/recording/delete.tt:2
 #, perl-format
 msgid "Remove Recording"
-msgstr ""
+msgstr "除录音"
 
 #: ../root/edit/relationship/delete.tt:1 ../root/edit/relationship/delete.tt:3
 #, perl-format
@@ -12622,22 +12624,22 @@ msgstr ""
 #: ../root/release/delete.tt:2
 #, perl-format
 msgid "Remove Release"
-msgstr ""
+msgstr "除发行版"
 
 #: ../root/release_group/delete.tt:1
 #, perl-format
 msgid "Remove Release Group"
-msgstr ""
+msgstr "除发行团"
 
 #: ../root/release_group/delete.tt:2
 #, perl-format
 msgid "Remove Release Group "
-msgstr ""
+msgstr "除发行团"
 
 #: ../root/work/delete_alias.tt:1
 #, perl-format
 msgid "Remove Work Alias"
-msgstr ""
+msgstr "除作品别名"
 
 #: ../root/collection/delete.tt:2 ../root/collection/delete.tt:7
 #, perl-format
@@ -13825,17 +13827,17 @@ msgstr ""
 #: ../root/search/results-label.tt:11
 #, perl-format
 msgid "Sort Name"
-msgstr ""
+msgstr "排序名称"
 
 #: ../root/release/edit/missing_entities.tt:17
 #, perl-format
 msgid "Sort Name:"
-msgstr ""
+msgstr "排序名称："
 
 #: ../root/report/duplicate_artists.tt:21
 #, perl-format
 msgid "Sort name"
-msgstr ""
+msgstr "排序名称"
 
 #: ../root/artist/edit_form.tt:39 ../root/artist/layout.tt:6
 #: ../root/edit/details/add_artist.tt:14 ../root/edit/details/add_label.tt:14
@@ -13844,7 +13846,7 @@ msgstr ""
 #: ../root/label/layout.tt:6
 #, perl-format
 msgid "Sort name:"
-msgstr ""
+msgstr "排序名称："
 
 #: DB:language/name:310
 msgid "Sotho, Northern"
@@ -13898,7 +13900,7 @@ msgstr "西班牙"
 
 #: DB:language/name:393
 msgid "Spanish"
-msgstr ""
+msgstr "西班牙语"
 
 #: DB:link_attribute_type/description:206 DB:link_attribute_type/name:206
 #, perl-format
@@ -14205,7 +14207,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:43
 #, perl-format
 msgid "Tag"
-msgstr ""
+msgstr "标签"
 
 #: ../root/taglookup/index.tt:1 ../root/taglookup/index.tt:3
 #, perl-format
@@ -16543,7 +16545,7 @@ msgstr ""
 #: ../root/taglookup/form.tt:6
 #, perl-format
 msgid "Track number:"
-msgstr ""
+msgstr "音轨号："
 
 #: ../root/cdstub/edit.tt:64
 #, perl-format
@@ -16802,12 +16804,12 @@ msgstr ""
 #: ../root/statistics/index.tt:716
 #, perl-format
 msgid "URL-URL:"
-msgstr ""
+msgstr "URL-URL："
 
 #: ../root/statistics/index.tt:722
 #, perl-format
 msgid "URL-Work:"
-msgstr ""
+msgstr "URL-作品："
 
 #: ../root/components/common-macros.tt:415 ../root/edit/details/edit_url.tt:9
 #: ../root/edit/details/edit_url.tt:15
@@ -16815,7 +16817,7 @@ msgstr ""
 #: ../root/url/edit.tt:18 ../root/url/index.tt:5
 #, perl-format
 msgid "URL:"
-msgstr ""
+msgstr "URL："
 
 #: DB:medium_format/name:26
 msgid "USB Flash Drive"
@@ -16824,7 +16826,7 @@ msgstr ""
 #: ../root/relationship/linktype/tree.tt:15
 #, perl-format
 msgid "UUID:"
-msgstr ""
+msgstr "UUID："
 
 #: DB:language/name:438
 msgid "Udmurt"
@@ -17166,13 +17168,13 @@ msgstr "乌兹别克斯坦"
 
 #: DB:medium_format/name:22
 msgid "VCD"
-msgstr ""
+msgstr "VCD"
 
 #: DB:link_type/link_phrase:86 DB:link_type/link_phrase:191
 #: DB:link_type/link_phrase:210
 #, perl-format
 msgid "VGMdb"
-msgstr ""
+msgstr "VGMdb"
 
 #: DB:link_type/reverse_link_phrase:86 DB:link_type/reverse_link_phrase:191
 #: DB:link_type/reverse_link_phrase:210
@@ -20877,47 +20879,47 @@ msgstr ""
 #: DB:link_attribute_type/name:570
 #, perl-format
 msgid "medium 1"
-msgstr ""
+msgstr "媒介 1"
 
 #: DB:link_attribute_type/name:569
 #, perl-format
 msgid "medium 2"
-msgstr ""
+msgstr "媒介 2"
 
 #: DB:link_attribute_type/name:571
 #, perl-format
 msgid "medium 3"
-msgstr ""
+msgstr "媒介 3"
 
 #: DB:link_attribute_type/name:577
 #, perl-format
 msgid "medium 4"
-msgstr ""
+msgstr "媒介 4"
 
 #: DB:link_attribute_type/name:576
 #, perl-format
 msgid "medium 5"
-msgstr ""
+msgstr "媒介 5"
 
 #: DB:link_attribute_type/name:575
 #, perl-format
 msgid "medium 6"
-msgstr ""
+msgstr "媒介 6"
 
 #: DB:link_attribute_type/name:574
 #, perl-format
 msgid "medium 7"
-msgstr ""
+msgstr "媒介 7"
 
 #: DB:link_attribute_type/name:573
 #, perl-format
 msgid "medium 8"
-msgstr ""
+msgstr "媒介 8"
 
 #: DB:link_attribute_type/name:572
 #, perl-format
 msgid "medium 9"
-msgstr ""
+msgstr "媒介 9"
 
 #: DB:link_type/link_phrase:239 DB:link_type/link_phrase:244
 #, perl-format
@@ -24328,7 +24330,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:23
 msgid "Edit work"
-msgstr ""
+msgstr "修改作品"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
@@ -24340,7 +24342,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
-msgstr ""
+msgstr "【无】"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:25
 msgid "Filter release groups"
@@ -24380,16 +24382,16 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/GID.pm:12
 msgid "This is not a valid MBID"
-msgstr ""
+msgstr "这不是有效的MBID"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid "This is not a valid ISRC"
-msgstr ""
+msgstr "这不是有效的ISRC"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:12
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:16
 msgid "This is not a valid ISWC"
-msgstr ""
+msgstr "这不是有效的ISWC"
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
@@ -24532,7 +24534,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
 msgid "FreeDB"
-msgstr ""
+msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:51
 msgid "Indexed search with advanced query syntax"
