@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-20 09:55+0000\n"
+"PO-Revision-Date: 2012-05-20 10:54+0000\n"
 "Last-Translator: RedHotHeat <email address hidden>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/musicbrainz/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -3987,7 +3987,7 @@ msgstr ""
 #: ../root/account/register.tt:5 ../root/account/register.tt:12
 #, perl-format
 msgid "Create an Account"
-msgstr ""
+msgstr "注册账户"
 
 #: ../root/collection/edit_form.tt:11
 #, perl-format
@@ -12078,17 +12078,17 @@ msgstr ""
 #: ../root/statistics/index.tt:698
 #, perl-format
 msgid "Release Group-Release Group:"
-msgstr ""
+msgstr "发行团-发行团："
 
 #: ../root/statistics/index.tt:704
 #, perl-format
 msgid "Release Group-URL:"
-msgstr ""
+msgstr "发行团-URL："
 
 #: ../root/statistics/index.tt:710
 #, perl-format
 msgid "Release Group-Work:"
-msgstr ""
+msgstr "发行团-作品："
 
 #: ../root/edit/details/add_release_group.tt:3
 #: ../root/edit/details/edit_release_group.tt:5
@@ -12113,12 +12113,12 @@ msgstr[0] ""
 #: ../root/edit/search_macros.tt:279
 #, perl-format
 msgid "Release Language"
-msgstr ""
+msgstr "发行版语言"
 
 #: ../root/statistics/view_js.tt:31
 #, perl-format
 msgid "Release Languages"
-msgstr ""
+msgstr "发行团语言"
 
 #: ../root/release/not_found.tt:1 ../root/release/not_found.tt:2
 #, perl-format
@@ -12169,12 +12169,12 @@ msgstr ""
 #: ../root/release_group/layout.tt:8
 #, perl-format
 msgid "Release group information"
-msgstr ""
+msgstr "发行团信息"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Release group ratings"
-msgstr ""
+msgstr "发行团分级"
 
 #: ../root/release/relationships.tt:4
 #, perl-format
@@ -12230,7 +12230,7 @@ msgstr "发行团："
 #: ../root/release/edit/information.tt:23 ../root/release/sidebar.tt:16
 #, perl-format
 msgid "Release information"
-msgstr ""
+msgstr "发行版信息"
 
 #: ../root/cdtoc/attach_filter_release.tt:11 ../root/cdtoc/move_search.tt:13
 #, perl-format
@@ -12245,7 +12245,7 @@ msgstr ""
 #: ../root/statistics/index.tt:680
 #, perl-format
 msgid "Release-Release Group:"
-msgstr ""
+msgstr "发行版-发行团："
 
 #: ../root/statistics/index.tt:674
 #, perl-format
@@ -12544,18 +12544,18 @@ msgstr ""
 #: ../root/user/collections.tt:24
 #, perl-format
 msgid "Remove"
-msgstr "除"
+msgstr "删除"
 
 #: ../root/artist/delete_alias.tt:2 ../root/label/delete_alias.tt:2
 #: ../root/work/delete_alias.tt:2
 #, perl-format
 msgid "Remove Alias"
-msgstr "除别名"
+msgstr "删除别名"
 
 #: ../root/artist/delete_alias.tt:1
 #, perl-format
 msgid "Remove Artist Alias"
-msgstr "除艺人别名"
+msgstr "删除艺人别名"
 
 #: ../root/components/forms.tt:224 ../root/release/edit/tracklist.tt:73
 #, perl-format
@@ -12565,7 +12565,7 @@ msgstr ""
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr "除封面图像"
+msgstr "删除封面图像"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
@@ -12575,24 +12575,24 @@ msgstr ""
 #: ../root/isrc/delete.tt:1 ../root/isrc/delete.tt:3
 #, perl-format
 msgid "Remove ISRC “{isrc}”"
-msgstr "除 ISRC {isrc}"
+msgstr "删除 ISRC {isrc}"
 
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:81
 #, perl-format
 msgid "Remove Label"
-msgstr "除唱片公司"
+msgstr "删除唱片公司"
 
 #: ../root/label/delete_alias.tt:1
 #, perl-format
 msgid "Remove Label Alias"
-msgstr "除唱片公司别名"
+msgstr "删除唱片公司别名"
 
 #: ../root/recording/delete_puid.tt:1
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemovePUID.pm:10
 #: ../lib/MusicBrainz/Server/Edit/PUID/Delete.pm:14
 #, perl-format
 msgid "Remove PUID"
-msgstr "除PUID"
+msgstr "删除 PUID"
 
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 #, perl-format
@@ -12602,7 +12602,7 @@ msgstr ""
 #: ../root/recording/delete.tt:2
 #, perl-format
 msgid "Remove Recording"
-msgstr "除录音"
+msgstr "删除录音"
 
 #: ../root/edit/relationship/delete.tt:1 ../root/edit/relationship/delete.tt:3
 #, perl-format
@@ -12624,22 +12624,22 @@ msgstr ""
 #: ../root/release/delete.tt:2
 #, perl-format
 msgid "Remove Release"
-msgstr "除发行版"
+msgstr "删除发行版"
 
 #: ../root/release_group/delete.tt:1
 #, perl-format
 msgid "Remove Release Group"
-msgstr "除发行团"
+msgstr "删除发行团"
 
 #: ../root/release_group/delete.tt:2
 #, perl-format
 msgid "Remove Release Group "
-msgstr "除发行团"
+msgstr "删除发行团"
 
 #: ../root/work/delete_alias.tt:1
 #, perl-format
 msgid "Remove Work Alias"
-msgstr "除作品别名"
+msgstr "删除作品别名"
 
 #: ../root/collection/delete.tt:2 ../root/collection/delete.tt:7
 #, perl-format
@@ -12649,7 +12649,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:406
 #, perl-format
 msgid "Remove disc"
-msgstr ""
+msgstr "删除光盘"
 
 #: ../root/release/sidebar.tt:123
 #, perl-format
@@ -12666,27 +12666,27 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/Delete.pm:12
 #, perl-format
 msgid "Remove label"
-msgstr ""
+msgstr "删除唱片公司"
 
 #: ../root/recording/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
 #, perl-format
 msgid "Remove recording"
-msgstr ""
+msgstr "删除录音"
 
 #: ../root/release/sidebar.tt:81
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 #, perl-format
 msgid "Remove release"
-msgstr ""
+msgstr "删除发行版"
 
 #: ../root/release_group/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseGroup.pm:9
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 #, perl-format
 msgid "Remove release group"
-msgstr ""
+msgstr "删除发行团"
 
 #: ../root/layout/merge-helper.tt:33
 #, perl-format
@@ -12707,7 +12707,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
 #, perl-format
 msgid "Remove track"
-msgstr ""
+msgstr "删除音轨"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -12717,7 +12717,7 @@ msgstr ""
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
 msgid "Removed"
-msgstr ""
+msgstr "删除了"
 
 #: ../root/edit/details/merge_artists.tt:4
 #, perl-format
@@ -18326,7 +18326,7 @@ msgstr "[全球范围]"
 #: ../root/components/common-macros.tt:187
 #, perl-format
 msgid "[removed]"
-msgstr ""
+msgstr "【删除了】"
 
 #: DB:link_attribute_type/description:392
 #, perl-format
@@ -21668,12 +21668,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "release groups"
-msgstr ""
+msgstr "发行团"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "releases"
-msgstr ""
+msgstr "发行版"
 
 #: DB:link_type/link_phrase:6 DB:link_type/link_phrase:236
 #, perl-format
@@ -24002,12 +24002,12 @@ msgstr "加艺术家"
 #: ../lib/MusicBrainz/Server/Edit/Artist/Delete.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveArtist.pm:9
 msgid "Remove artist"
-msgstr ""
+msgstr "删除艺人"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/DeleteAlias.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveArtistAlias.pm:9
 msgid "Remove artist alias"
-msgstr ""
+msgstr "删除艺人别名"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Edit.pm:28
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtist.pm:9
@@ -24191,12 +24191,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveISRC.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Recording/RemoveISRC.pm:17
 msgid "Remove ISRC"
-msgstr ""
+msgstr "删除 ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabelAlias.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Label/DeleteAlias.pm:14
 msgid "Remove label alias"
-msgstr ""
+msgstr "删除唱片公司别名"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLink.pm:10
 msgid "Remove relationship (historic)"
@@ -24217,7 +24217,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases"
-msgstr ""
+msgstr "删除发行版"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists"
@@ -24273,7 +24273,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/DeleteReleaseLabel.pm:16
 msgid "Remove release label"
-msgstr ""
+msgstr "删除发行版唱片公司"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
@@ -24322,11 +24322,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
-msgstr ""
+msgstr "删除作品"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/DeleteAlias.pm:15
 msgid "Remove work alias"
-msgstr ""
+msgstr "删除作品别名"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:23
 msgid "Edit work"
@@ -24720,7 +24720,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"
-msgstr ""
+msgstr "发行版信息"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
