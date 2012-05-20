@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-17 15:56+0000\n"
+"PO-Revision-Date: 2012-05-20 03:48+0000\n"
 "Last-Translator: RedHotHeat <email address hidden>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/musicbrainz/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -660,7 +660,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:485
 #, perl-format
 msgid "Add Disc"
-msgstr ""
+msgstr "加光盘"
 
 #: ../root/recording/add_isrc.tt:1 ../root/recording/add_isrc.tt:2
 #: ../root/recording/layout.tt:34
@@ -702,7 +702,7 @@ msgstr ""
 #: ../root/layout/menu.tt:185 ../root/release/edit/layout.tt:4
 #, perl-format
 msgid "Add Release"
-msgstr ""
+msgstr "加发行"
 
 #: ../root/layout/menu.tt:182
 #, perl-format
@@ -863,7 +863,7 @@ msgstr "加录音"
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 #, perl-format
 msgid "Add release"
-msgstr ""
+msgstr "价发行"
 
 #: ../root/artist/layout.tt:57
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseGroup.pm:18
@@ -1745,7 +1745,7 @@ msgstr ""
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
 msgid "Artist name:"
-msgstr "艺术家名："
+msgstr "艺术家名称："
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -1760,17 +1760,17 @@ msgstr ""
 #: ../root/statistics/index.tt:566
 #, perl-format
 msgid "Artist-Artist:"
-msgstr ""
+msgstr "艺术家-艺术家："
 
 #: ../root/statistics/index.tt:572
 #, perl-format
 msgid "Artist-Label:"
-msgstr ""
+msgstr "艺术家-唱片公司："
 
 #: ../root/statistics/index.tt:578
 #, perl-format
 msgid "Artist-Recording:"
-msgstr ""
+msgstr "艺术家-录音："
 
 #: ../root/statistics/index.tt:590
 #, perl-format
@@ -1780,17 +1780,17 @@ msgstr ""
 #: ../root/statistics/index.tt:584
 #, perl-format
 msgid "Artist-Release:"
-msgstr ""
+msgstr "艺术家-发行："
 
 #: ../root/statistics/index.tt:596
 #, perl-format
 msgid "Artist-URL:"
-msgstr ""
+msgstr "艺术家-URL："
 
 #: ../root/statistics/index.tt:602
 #, perl-format
 msgid "Artist-Work:"
-msgstr ""
+msgstr "艺术家-作品："
 
 #: ../root/cdstub/edit.tt:55 ../root/cdstub/import.tt:7
 #: ../root/cdtoc/attach_filter_artist.tt:8 ../root/cdtoc/lookup.tt:60
@@ -2514,7 +2514,7 @@ msgstr "布列斯符号"
 #: ../root/layout/menu.tt:113
 #, perl-format
 msgid "Blog"
-msgstr ""
+msgstr "博客"
 
 #: DB:medium_format/name:20
 msgid "Blu-ray"
@@ -2864,7 +2864,7 @@ msgstr "取消"
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
 msgid "Cancel Edit"
-msgstr "取消编辑"
+msgstr "取消修改"
 
 #: ../root/components/common-macros.tt:426
 #, perl-format
@@ -2875,7 +2875,7 @@ msgstr ""
 #: ../root/edit/info.tt:21
 #, perl-format
 msgid "Cancel edit"
-msgstr "取消编辑"
+msgstr "取消修改"
 
 #: ../root/elections/show.tt:97
 #, perl-format
@@ -2885,7 +2885,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:55
 #, perl-format
 msgid "Cancelled edits"
-msgstr "取消的编辑"
+msgstr "取消的修改"
 
 #: ../root/statistics/index.tt:476
 #, perl-format
@@ -4826,7 +4826,7 @@ msgstr "厄瓜多尔"
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Edit"
-msgstr "编辑"
+msgstr "修改"
 
 #: ../root/edit/index.tt:9
 #, perl-format
@@ -4846,7 +4846,7 @@ msgstr ""
 #: ../root/artist/edit.tt:17
 #, perl-format
 msgid "Edit Artist"
-msgstr "编辑艺术家"
+msgstr "修改艺术家"
 
 #: ../root/artist/edit_alias.tt:1
 #, perl-format
@@ -4886,12 +4886,12 @@ msgstr ""
 #: ../root/label/edit.tt:15
 #, perl-format
 msgid "Edit Label"
-msgstr "编辑唱片公司"
+msgstr "修改唱片公司"
 
 #: ../root/label/edit_alias.tt:1
 #, perl-format
 msgid "Edit Label Alias"
-msgstr "编辑唱片公司别名"
+msgstr "修改唱片公司别名"
 
 #: ../root/edit/not_found.tt:1 ../root/edit/not_found.tt:2
 #, perl-format
@@ -4975,7 +4975,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:22
 #, perl-format
 msgid "Edit URL"
-msgstr ""
+msgstr "修改URL"
 
 #: ../root/user/profile/layout.tt:27
 #, perl-format
@@ -4985,12 +4985,12 @@ msgstr ""
 #: ../root/work/edit.tt:15
 #, perl-format
 msgid "Edit Work"
-msgstr "编辑作品"
+msgstr "修改作品"
 
 #: ../root/work/edit_alias.tt:1
 #, perl-format
 msgid "Edit Work Alias"
-msgstr "编辑作品别名"
+msgstr "修改作品别名"
 
 #: ../root/work/edit_annotation.tt:1
 #, perl-format
@@ -5009,7 +5009,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistAlias.pm:7
 #, perl-format
 msgid "Edit artist alias"
-msgstr "编辑艺术家别名"
+msgstr "修改艺术家别名"
 
 #: ../root/artist/edit_annotation.tt:2
 #, perl-format
@@ -5026,7 +5026,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/EditAlias.pm:12
 #, perl-format
 msgid "Edit label alias"
-msgstr "编辑唱片公司别名"
+msgstr "修改唱片公司别名"
 
 #: ../root/label/edit_annotation.tt:2
 #, perl-format
@@ -5052,7 +5052,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
 #, perl-format
 msgid "Edit recording"
-msgstr ""
+msgstr "修改录音"
 
 #: ../root/recording/edit_annotation.tt:2
 #, perl-format
@@ -5078,7 +5078,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Work/EditAlias.pm:13
 #, perl-format
 msgid "Edit work alias"
-msgstr ""
+msgstr "修改作品别名"
 
 #: ../root/work/edit_annotation.tt:2
 #, perl-format
@@ -5088,7 +5088,7 @@ msgstr ""
 #: ../root/release/edit-links.tt:13
 #, perl-format
 msgid "Edit:"
-msgstr "编辑："
+msgstr "修改："
 
 #: ../root/edit/details/edit_release_events.tt:58
 #, perl-format
@@ -5102,7 +5102,7 @@ msgstr ""
 #: ../root/work/layout.tt:25
 #, perl-format
 msgid "Editing"
-msgstr "在编辑"
+msgstr "修改"
 
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
@@ -5172,7 +5172,7 @@ msgstr "编者："
 #: ../root/user/edits.tt:15
 #, perl-format
 msgid "Edits"
-msgstr "编辑"
+msgstr "修改"
 
 #: ../root/user/profile.tt:111
 #, perl-format
@@ -8004,7 +8004,7 @@ msgstr ""
 
 #: DB:script/name:100
 msgid "Japanese syllabaries"
-msgstr ""
+msgstr "日语假名"
 
 #: DB:link_attribute_type/description:458
 #, perl-format
@@ -8748,17 +8748,17 @@ msgstr ""
 #: ../root/user/login.tt:34
 #, perl-format
 msgid "Log In"
-msgstr ""
+msgstr "登录"
 
 #: ../root/layout/menu.tt:19
 #, perl-format
 msgid "Log Out"
-msgstr ""
+msgstr "退出"
 
 #: ../root/components/common-macros.tt:368
 #, perl-format
 msgid "Log in"
-msgstr ""
+msgstr "登录"
 
 #: ../root/artist/layout.tt:110 ../root/label/layout.tt:83
 #: ../root/recording/layout.tt:61 ../root/release_group/layout.tt:62
@@ -9134,7 +9134,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Medium.pm:7
 #, perl-format
 msgid "Medium"
-msgstr ""
+msgstr "媒介"
 
 #: ../root/tracklist/index.tt:28
 #, perl-format
@@ -9556,7 +9556,7 @@ msgstr ""
 #: ../root/main/index.tt:5
 #, perl-format
 msgid "MusicBrainz Blog"
-msgstr ""
+msgstr "MusicBrainz的博客"
 
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
@@ -11637,7 +11637,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:36
 #, perl-format
 msgid "Recording"
-msgstr ""
+msgstr "录音"
 
 #: ../root/recording/edit_form.tt:6
 #, perl-format
@@ -11687,7 +11687,7 @@ msgstr ""
 #: ../root/statistics/index.tt:644
 #, perl-format
 msgid "Recording-Recording:"
-msgstr ""
+msgstr "录音-录音："
 
 #: ../root/statistics/index.tt:656
 #, perl-format
@@ -11697,17 +11697,17 @@ msgstr ""
 #: ../root/statistics/index.tt:650
 #, perl-format
 msgid "Recording-Release:"
-msgstr ""
+msgstr "录音-发行："
 
 #: ../root/statistics/index.tt:662
 #, perl-format
 msgid "Recording-URL:"
-msgstr ""
+msgstr "录音-URL："
 
 #: ../root/statistics/index.tt:668
 #, perl-format
 msgid "Recording-Work:"
-msgstr ""
+msgstr "录音-作品："
 
 #: ../root/components/common-macros.tt:415
 #: ../root/edit/details/add_recording_annotation.tt:3
@@ -11721,7 +11721,7 @@ msgstr ""
 #: ../root/edit/details/remove_recording.tt:3
 #, perl-format
 msgid "Recording:"
-msgstr ""
+msgstr "录音："
 
 #: ../root/artist/header.tt:1 ../root/artist/recordings.tt:1
 #: ../root/artist/recordings.tt:4 ../root/report/index.tt:61
@@ -11730,7 +11730,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:65
 #, perl-format
 msgid "Recordings"
-msgstr ""
+msgstr "录音"
 
 #: ../root/statistics/index.tt:330
 #, perl-format
@@ -11763,7 +11763,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:137
 #, perl-format
 msgid "Recordings with ISRCs"
-msgstr ""
+msgstr "有ISRC的录音"
 
 #: ../root/statistics/view_js.tt:136
 #, perl-format
@@ -11796,7 +11796,7 @@ msgstr ""
 #: ../root/statistics/index.tt:337
 #, perl-format
 msgid "Recordings:"
-msgstr ""
+msgstr "录音："
 
 #: DB:medium_format/name:10
 msgid "Reel-to-reel"
@@ -12012,7 +12012,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:35
 #, perl-format
 msgid "Release"
-msgstr ""
+msgstr "发行"
 
 #: ../root/recording/index.tt:13
 #, perl-format
@@ -12248,17 +12248,17 @@ msgstr ""
 #: ../root/statistics/index.tt:674
 #, perl-format
 msgid "Release-Release:"
-msgstr ""
+msgstr "发行-发行："
 
 #: ../root/statistics/index.tt:686
 #, perl-format
 msgid "Release-URL:"
-msgstr ""
+msgstr "发行-URL："
 
 #: ../root/statistics/index.tt:692
 #, perl-format
 msgid "Release-Work:"
-msgstr ""
+msgstr "发行-作品："
 
 #: ../root/statistics/formats.tt:18 ../root/statistics/formats.tt:22
 #, perl-format
@@ -12286,7 +12286,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:210 ../root/taglookup/form.tt:5
 #, perl-format
 msgid "Release:"
-msgstr ""
+msgstr "发行："
 
 #: ../root/artist/browse_various_releases.tt:1
 #: ../root/artist/browse_various.tt:17 ../root/artist/header.tt:1
@@ -12300,7 +12300,7 @@ msgstr ""
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Releases"
-msgstr ""
+msgstr "发行"
 
 #: ../root/statistics/view_js.tt:123
 #, perl-format
@@ -12590,7 +12590,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/PUID/Delete.pm:14
 #, perl-format
 msgid "Remove PUID"
-msgstr ""
+msgstr "除PUID"
 
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 #, perl-format
@@ -12847,11 +12847,11 @@ msgstr "留尼汪"
 
 #: DB:medium_format/name:3
 msgid "SACD"
-msgstr ""
+msgstr "SACD"
 
 #: DB:medium_format/name:23
 msgid "SVCD"
-msgstr ""
+msgstr "SVCD"
 
 #: DB:country/name:255
 msgid "Saint Barthélemy"
@@ -13049,7 +13049,7 @@ msgstr ""
 #: ../root/search/index.tt:3 ../root/taglookup/form.tt:13
 #, perl-format
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: ../root/layout/menu.tt:157
 #, perl-format
@@ -13082,7 +13082,7 @@ msgstr ""
 #: ../root/search/results-work.tt:1 ../root/search/results-work.tt:3
 #, perl-format
 msgid "Search Results"
-msgstr ""
+msgstr "搜索结果"
 
 #: ../root/cdtoc/lookup.tt:56
 #, perl-format
@@ -13148,7 +13148,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:110
 #, perl-format
 msgid "Search:"
-msgstr ""
+msgstr "搜索："
 
 #: ../root/release/edit/tracklist.tt:109 ../root/scripts/text_strings.tt:39
 #, perl-format
@@ -13422,7 +13422,7 @@ msgstr "新加坡"
 
 #: DB:release_group_type/name:2
 msgid "Single"
-msgstr ""
+msgstr "单曲"
 
 #: DB:language/name:373 DB:script/name:63
 msgid "Sinhala"
@@ -16777,7 +16777,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/URL.pm:7
 #, perl-format
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../root/url/index.tt:2
 #, perl-format
@@ -18551,7 +18551,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "artists"
-msgstr ""
+msgstr "艺术家"
 
 #: DB:link_attribute_type/name:526
 #, perl-format
@@ -23995,7 +23995,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/Create.pm:18
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtist.pm:7
 msgid "Add artist"
-msgstr ""
+msgstr "加艺术家"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Delete.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveArtist.pm:9
@@ -24010,7 +24010,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/Edit.pm:28
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtist.pm:9
 msgid "Edit artist"
-msgstr ""
+msgstr "修改艺术家"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
@@ -24030,12 +24030,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddISRCs.pm:16
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddISRCs.pm:21
 msgid "Add ISRCs"
-msgstr ""
+msgstr "加ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabel.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
 msgid "Add label"
-msgstr ""
+msgstr "加唱片公司"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabelAnnotation.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAnnotation.pm:12
@@ -24095,12 +24095,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistName.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistSortname.pm:7
 msgid "Edit artist name"
-msgstr ""
+msgstr "修改艺术家名称"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabel.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:28
 msgid "Edit label"
-msgstr ""
+msgstr "修改唱片公司"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLink.pm:17
 msgid "Edit relationship (historic)"
@@ -24135,11 +24135,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseLanguage.pm:13
 msgid "Edit release language"
-msgstr ""
+msgstr "改修发行语言"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseName.pm:10
 msgid "Edit release name"
-msgstr ""
+msgstr "修改发行名称"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length"
