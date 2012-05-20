@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-20 06:55+0000\n"
+"PO-Revision-Date: 2012-05-20 08:06+0000\n"
 "Last-Translator: RedHotHeat <email address hidden>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/musicbrainz/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -236,7 +236,7 @@ msgstr[0] ""
 
 #: DB:medium_format/name:30
 msgid "10\" Vinyl"
-msgstr ""
+msgstr "10寸乙烯基"
 
 #: ../root/statistics/formats.tt:39 ../root/statistics/formats.tt:41
 #: ../root/user/profile.tt:179 ../root/user/profile.tt:183
@@ -251,7 +251,7 @@ msgstr ""
 
 #: DB:medium_format/name:31
 msgid "12\" Vinyl"
-msgstr ""
+msgstr "12寸乙烯基"
 
 #: ../root/elections/show.tt:17
 #, perl-format
@@ -270,7 +270,7 @@ msgstr ""
 
 #: DB:medium_format/name:29
 msgid "7\" Vinyl"
-msgstr ""
+msgstr "7寸乙烯基"
 
 #: DB:medium_format/name:34
 msgid "8cm CD"
@@ -666,7 +666,7 @@ msgstr "加光盘"
 #: ../root/recording/layout.tt:34
 #, perl-format
 msgid "Add ISRC"
-msgstr "加ISRC"
+msgstr "加 ISRC"
 
 #: ../root/layout/menu.tt:179 ../root/release/edit/information.tt:90
 #: ../root/release/edit/information.tt:92
@@ -707,7 +707,7 @@ msgstr "加发行版"
 #: ../root/layout/menu.tt:182
 #, perl-format
 msgid "Add Release Group"
-msgstr ""
+msgstr "加发行团"
 
 #: ../root/layout/menu.tt:191 ../root/recording/create.tt:16
 #: ../root/recording/create.tt:18
@@ -1035,7 +1035,7 @@ msgstr "阿尔巴尼亚语"
 
 #: DB:release_group_type/name:1
 msgid "Album"
-msgstr ""
+msgstr "专辑"
 
 #: DB:language/name:13
 msgid "Aleut"
@@ -2721,12 +2721,12 @@ msgstr "CD"
 #: ../root/release/lookup.tt:1
 #, perl-format
 msgid "CD Lookup"
-msgstr ""
+msgstr "CD 查阅"
 
 #: ../root/release/lookup.tt:2
 #, perl-format
 msgid "CD Lookup results"
-msgstr ""
+msgstr "CD 查阅结果"
 
 #: ../root/cdtoc/lookup.tt:82
 #, perl-format
@@ -2960,7 +2960,7 @@ msgstr ""
 
 #: DB:medium_format/name:8
 msgid "Cassette"
-msgstr ""
+msgstr "磁带"
 
 #: ../root/release/edit/information.tt:75
 #, perl-format
@@ -4187,7 +4187,7 @@ msgstr "捷克"
 
 #: DB:country/name:245
 msgid "Czechoslovakia (historical, 1918-1992)"
-msgstr "捷克斯洛伐克"
+msgstr "捷克斯洛伐克 (起止,1918-1992)"
 
 #: DB:country/name:52
 msgid "Côte d'Ivoire"
@@ -4243,7 +4243,7 @@ msgstr ""
 
 #: DB:medium_format/name:2
 msgid "DVD"
-msgstr ""
+msgstr "DVD"
 
 #: DB:medium_format/name:18
 msgid "DVD-Audio"
@@ -4307,7 +4307,7 @@ msgstr ""
 #: ../root/tracklist/index.tt:31
 #, perl-format
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 #: ../root/artist/edit_form.tt:48 ../root/label/edit_form.tt:49
 #, perl-format
@@ -4325,7 +4325,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:53 ../root/release/sidebar.tt:18
 #, perl-format
 msgid "Date:"
-msgstr ""
+msgstr "日期："
 
 #: ../root/artist/edit_form.tt:50 ../root/label/edit_form.tt:51
 #, perl-format
@@ -4806,7 +4806,7 @@ msgstr ""
 
 #: DB:country/name:244
 msgid "East Germany (historical, 1949-1990)"
-msgstr ""
+msgstr "东德 (起止, 1949-1990)"
 
 #: DB:country/name:62
 msgid "Ecuador"
@@ -5662,7 +5662,7 @@ msgstr "斐济语"
 #: ../root/edit/details/remove_cover_art.tt:25 ../root/taglookup/form.tt:9
 #, perl-format
 msgid "Filename:"
-msgstr ""
+msgstr "文件名："
 
 #: DB:language/name:130
 msgid "Filipino"
@@ -8617,7 +8617,7 @@ msgstr ""
 #: ../root/tracklist/index.tt:15
 #, perl-format
 msgid "Length"
-msgstr ""
+msgstr "时长"
 
 #: ../root/edit/details/add_standalone_recording.tt:28
 #: ../root/edit/details/add_track_kv.tt:7
@@ -8626,7 +8626,7 @@ msgstr ""
 #: ../root/recording/edit_form.tt:10 ../root/recording/layout.tt:12
 #, perl-format
 msgid "Length:"
-msgstr ""
+msgstr "时长："
 
 #: DB:script/name:57
 msgid "Lepcha"
@@ -8805,22 +8805,22 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:45
 #, perl-format
 msgid "Lookup"
-msgstr ""
+msgstr "查阅"
 
 #: ../root/cdtoc/lookup.tt:1 ../root/cdtoc/lookup.tt:2
 #, perl-format
 msgid "Lookup CD"
-msgstr ""
+msgstr "查阅 CD"
 
 #: ../root/cdstub/browse.tt:11
 #, perl-format
 msgid "Lookup count"
-msgstr ""
+msgstr "查阅计数"
 
 #: ../root/cdstub/layout.tt:11
 #, perl-format
 msgid "Lookup count:"
-msgstr ""
+msgstr "查阅计数："
 
 #: ../root/account/lost_password_sent.tt:1 ../root/account/lost_password.tt:1
 #: ../root/account/lost_password.tt:3
@@ -9581,7 +9581,7 @@ msgstr "MusicBrainz Picard"
 #: ../root/layout/menu.tt:133
 #, perl-format
 msgid "MusicBrainz Server"
-msgstr "MusicBrainz服务器"
+msgstr "MusicBrainz 服务器"
 
 #: ../root/main/index.tt:49
 #, perl-format
@@ -10589,7 +10589,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:86
 #, perl-format
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 #: ../root/statistics/index.tt:45
 #, perl-format
@@ -10599,12 +10599,12 @@ msgstr ""
 #: ../root/otherlookup/results.tt:1 ../root/otherlookup/results.tt:3
 #, perl-format
 msgid "Other Lookup Results"
-msgstr ""
+msgstr "其它查阅结果"
 
 #: ../root/otherlookup/index.tt:1 ../root/otherlookup/index.tt:3
 #, perl-format
 msgid "Other Lookups"
-msgstr ""
+msgstr "其它查阅"
 
 #: DB:link_attribute_type/description:265
 #, perl-format
@@ -10628,7 +10628,7 @@ msgstr ""
 #: ../root/search/index.tt:16
 #, perl-format
 msgid "Other lookups"
-msgstr ""
+msgstr "其它查阅"
 
 #: DB:link_attribute_type/description:246
 #, perl-format
@@ -10698,7 +10698,7 @@ msgstr ""
 #: ../root/recording/fingerprints.tt:11
 #, perl-format
 msgid "PUID"
-msgstr ""
+msgstr "PUID"
 
 #: ../root/puid/index.tt:1 ../root/puid/index.tt:3
 #, perl-format
@@ -10709,7 +10709,7 @@ msgstr ""
 #: ../root/taglookup/form.tt:10
 #, perl-format
 msgid "PUID:"
-msgstr ""
+msgstr "PUID:"
 
 #: ../root/statistics/index.tt:368 ../root/statistics/view_js.tt:131
 #, perl-format
@@ -10892,7 +10892,7 @@ msgstr ""
 #: ../root/user/login.tt:24
 #, perl-format
 msgid "Password:"
-msgstr ""
+msgstr "密码："
 
 #: DB:link_attribute_type/description:610
 #, perl-format
@@ -11596,7 +11596,7 @@ msgstr ""
 #: ../root/user/ratings.tt:22 ../root/work/ratings.tt:1
 #, perl-format
 msgid "Ratings"
-msgstr ""
+msgstr "分级"
 
 #: ../root/statistics/index.tt:68
 #, perl-format
@@ -12879,7 +12879,7 @@ msgstr "圣皮埃尔和密克隆"
 
 #: DB:country/name:180
 msgid "Saint Vincent and The Grenadines"
-msgstr ""
+msgstr "圣文森特和格林纳丁斯"
 
 #: DB:language/name:358
 msgid "Salishan languages"
@@ -13248,7 +13248,7 @@ msgstr "塞尔维亚"
 
 #: DB:country/name:242
 msgid "Serbia and Montenegro (historical, 2003-2006)"
-msgstr ""
+msgstr "塞尔维亚和黑山(存在时间：2003-2006)"
 
 #: DB:language/name:363
 msgid "Serbian"
@@ -14210,12 +14210,12 @@ msgstr ""
 #: ../root/taglookup/index.tt:1 ../root/taglookup/index.tt:3
 #, perl-format
 msgid "Tag Lookup"
-msgstr ""
+msgstr "标签查阅"
 
 #: ../root/taglookup/results.tt:1 ../root/taglookup/results.tt:3
 #, perl-format
 msgid "Tag Lookup Results"
-msgstr ""
+msgstr "标签查阅结果"
 
 #: ../root/tag/not_found.tt:1 ../root/tag/not_found.tt:2
 #, perl-format
@@ -14230,7 +14230,7 @@ msgstr ""
 #: ../root/search/index.tt:14
 #, perl-format
 msgid "Tag lookup"
-msgstr ""
+msgstr "标签查阅"
 
 #: ../root/release/sidebar.tt:60
 #, perl-format
@@ -14313,7 +14313,7 @@ msgstr ""
 #: ../root/user/tags.tt:1 ../root/work/header.tt:1 ../root/work/tags.tt:1
 #, perl-format
 msgid "Tags"
-msgstr ""
+msgstr "标签"
 
 #: ../root/statistics/index.tt:60
 #, perl-format
@@ -16503,7 +16503,7 @@ msgstr ""
 #: ../root/freedb/show.tt:63 ../root/search/lib/inline-results-recording.tt:15
 #, perl-format
 msgid "Track"
-msgstr "曲目"
+msgstr "音轨"
 
 #: ../root/release/edit/tracklist.tt:152 ../root/release/edit/tracklist.tt:393
 #: ../root/release/edit/tracklist.tt:394
@@ -16548,13 +16548,13 @@ msgstr ""
 #: ../root/cdstub/edit.tt:64
 #, perl-format
 msgid "Track {n}:"
-msgstr ""
+msgstr "音轨 {n}："
 
 #: ../root/edit/details/historic/remove_track.tt:14
 #: ../root/taglookup/form.tt:7
 #, perl-format
 msgid "Track:"
-msgstr "曲目"
+msgstr "音轨"
 
 #: ../root/cdstub/edit.tt:61 ../root/cdstub/index.tt:7
 #: ../root/release/edit/recordings.tt:253 ../root/release/index.tt:4
@@ -16562,13 +16562,13 @@ msgstr "曲目"
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:58
 #, perl-format
 msgid "Tracklist"
-msgstr ""
+msgstr "音轨列表"
 
 #: ../root/edit/details/add_medium.tt:31
 #: ../root/edit/details/remove_medium.tt:17
 #, perl-format
 msgid "Tracklist:"
-msgstr ""
+msgstr "音轨列表："
 
 #: ../root/collection/index.tt:13 ../root/otherlookup/results-release.tt:9
 #: ../root/release/discids.tt:9 ../root/release_group/index.tt:14
@@ -16578,7 +16578,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:117 ../root/tracklist/index.tt:5
 #, perl-format
 msgid "Tracks"
-msgstr "曲目"
+msgstr "音轨"
 
 #: ../root/report/index.tt:65
 #, perl-format
@@ -16588,7 +16588,7 @@ msgstr ""
 #: ../root/edit/details/historic/add_release.tt:44
 #, perl-format
 msgid "Tracks:"
-msgstr "曲目："
+msgstr "音轨："
 
 #: ../root/admin/index.tt:11 ../root/layout/menu.tt:63
 #, perl-format
@@ -17123,7 +17123,7 @@ msgstr ""
 #: ../root/user/login.tt:23
 #, perl-format
 msgid "Username:"
-msgstr ""
+msgstr "用户名："
 
 #: ../root/release/merge.tt:41
 #, perl-format
@@ -17294,7 +17294,7 @@ msgstr ""
 
 #: DB:medium_format/name:7
 msgid "Vinyl"
-msgstr ""
+msgstr "乙烯基"
 
 #: DB:link_attribute_type/description:505
 #, perl-format
@@ -18319,7 +18319,7 @@ msgstr ""
 
 #: DB:country/name:240
 msgid "[Worldwide]"
-msgstr ""
+msgstr "[全球范围]"
 
 #: ../root/components/common-macros.tt:187
 #, perl-format
@@ -21211,7 +21211,7 @@ msgstr ""
 #: DB:link_attribute_type/name:246 DB:link_attribute_type/name:461
 #, perl-format
 msgid "other"
-msgstr ""
+msgstr "其它"
 
 #: DB:link_type/link_phrase:96 DB:link_type/link_phrase:82
 #: DB:link_type/link_phrase:188 DB:link_type/link_phrase:222
@@ -22340,12 +22340,12 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:262
 #, perl-format
 msgid "track"
-msgstr ""
+msgstr "音轨"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "tracks"
-msgstr ""
+msgstr "音轨"
 
 #: DB:link_attribute_type/name:517
 #, perl-format
@@ -24030,7 +24030,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddISRCs.pm:16
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddISRCs.pm:21
 msgid "Add ISRCs"
-msgstr "加ISRC"
+msgstr "加 ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabel.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
@@ -24074,7 +24074,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrack.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
 msgid "Add track"
-msgstr ""
+msgstr "加音轨"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackAnnotation.pm:7
 msgid "Add track annotation"
