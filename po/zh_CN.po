@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-20 03:48+0000\n"
+"PO-Revision-Date: 2012-05-20 04:54+0000\n"
 "Last-Translator: RedHotHeat <email address hidden>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/musicbrainz/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -632,12 +632,12 @@ msgstr ""
 #: ../root/layout/menu.tt:176
 #, perl-format
 msgid "Add Artist"
-msgstr "加艺术家"
+msgstr "加艺人"
 
 #: ../root/artist/add_alias.tt:1
 #, perl-format
 msgid "Add Artist Alias"
-msgstr "加艺术家别名"
+msgstr "加艺人别名"
 
 #: ../root/components/forms.tt:250 ../root/components/forms.tt:254
 #: ../root/release/edit/tracklist.tt:84 ../root/release/edit/tracklist.tt:89
@@ -702,7 +702,7 @@ msgstr ""
 #: ../root/layout/menu.tt:185 ../root/release/edit/layout.tt:4
 #, perl-format
 msgid "Add Release"
-msgstr "加发行"
+msgstr "加发行版"
 
 #: ../root/layout/menu.tt:182
 #, perl-format
@@ -740,7 +740,7 @@ msgstr "加作品别名"
 #: ../root/artist/create.tt:16 ../root/artist/create.tt:18
 #, perl-format
 msgid "Add a New Artist"
-msgstr "加新艺术家"
+msgstr "加新艺人"
 
 #: ../root/collection/create.tt:1 ../root/collection/create.tt:3
 #, perl-format
@@ -813,7 +813,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtistAlias.pm:7
 #, perl-format
 msgid "Add artist alias"
-msgstr "加艺术家别名"
+msgstr "加艺人别名"
 
 #: ../root/cdstub/layout.tt:23
 #, perl-format
@@ -835,7 +835,7 @@ msgstr "加唱片公司别名"
 #: ../root/release/edit/missing_entities.tt:62
 #, perl-format
 msgid "Add new artist"
-msgstr "加新艺术家"
+msgstr "加新艺人"
 
 #: ../root/release/edit/missing_entities.tt:108
 #, perl-format
@@ -863,7 +863,7 @@ msgstr "加录音"
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 #, perl-format
 msgid "Add release"
-msgstr "价发行"
+msgstr "加发行版"
 
 #: ../root/artist/layout.tt:57
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseGroup.pm:18
@@ -1644,17 +1644,17 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:33
 #, perl-format
 msgid "Artist"
-msgstr "艺术家"
+msgstr "艺人"
 
 #: ../root/statistics/view_js.tt:27
 #, perl-format
 msgid "Artist Countries"
-msgstr "艺术家国家"
+msgstr "艺人国家"
 
 #: ../root/edit/search_macros.tt:279
 #, perl-format
 msgid "Artist Country"
-msgstr "艺术家国家"
+msgstr "艺人国家"
 
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
@@ -1675,12 +1675,12 @@ msgstr ""
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Artist IPI:"
-msgstr "艺术家IPI"
+msgstr "艺人IPI"
 
 #: ../root/statistics/view_js.tt:125
 #, perl-format
 msgid "Artist IPIs"
-msgstr "艺术家艺术家IPI"
+msgstr "艺人艺人IPI"
 
 #: ../root/artist/not_found.tt:1 ../root/artist/not_found.tt:2
 #, perl-format
@@ -1745,7 +1745,7 @@ msgstr ""
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
 msgid "Artist name:"
-msgstr "艺术家名称："
+msgstr "艺人名："
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -1760,17 +1760,17 @@ msgstr ""
 #: ../root/statistics/index.tt:566
 #, perl-format
 msgid "Artist-Artist:"
-msgstr "艺术家-艺术家："
+msgstr "艺人-艺人："
 
 #: ../root/statistics/index.tt:572
 #, perl-format
 msgid "Artist-Label:"
-msgstr "艺术家-唱片公司："
+msgstr "艺人-唱片公司："
 
 #: ../root/statistics/index.tt:578
 #, perl-format
 msgid "Artist-Recording:"
-msgstr "艺术家-录音："
+msgstr "艺人-录音："
 
 #: ../root/statistics/index.tt:590
 #, perl-format
@@ -1780,17 +1780,17 @@ msgstr ""
 #: ../root/statistics/index.tt:584
 #, perl-format
 msgid "Artist-Release:"
-msgstr "艺术家-发行："
+msgstr "艺人-发行版："
 
 #: ../root/statistics/index.tt:596
 #, perl-format
 msgid "Artist-URL:"
-msgstr "艺术家-URL："
+msgstr "艺人-URL："
 
 #: ../root/statistics/index.tt:602
 #, perl-format
 msgid "Artist-Work:"
-msgstr "艺术家-作品："
+msgstr "艺人-作品："
 
 #: ../root/cdstub/edit.tt:55 ../root/cdstub/import.tt:7
 #: ../root/cdtoc/attach_filter_artist.tt:8 ../root/cdtoc/lookup.tt:60
@@ -1820,7 +1820,7 @@ msgstr "艺术家-作品："
 #: ../root/taglookup/form.tt:4
 #, perl-format
 msgid "Artist:"
-msgstr "艺术家："
+msgstr "艺人："
 
 #: ../root/artist/works-list.tt:11 ../root/otherlookup/results-work.tt:9
 #: ../root/release/edit/missing_entities.tt:37 ../root/report/index.tt:14
@@ -1830,7 +1830,7 @@ msgstr "艺术家："
 #: ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Artists"
-msgstr "艺术家"
+msgstr "艺人"
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:1
 #: ../root/report/artists_containing_disambiguation_comments.tt:3
@@ -1946,7 +1946,7 @@ msgstr ""
 #: ../root/statistics/index.tt:15 ../root/statistics/index.tt:114
 #, perl-format
 msgid "Artists:"
-msgstr "艺术家："
+msgstr "艺人："
 
 #: DB:country/name:12
 msgid "Aruba"
@@ -4846,7 +4846,7 @@ msgstr ""
 #: ../root/artist/edit.tt:17
 #, perl-format
 msgid "Edit Artist"
-msgstr "修改艺术家"
+msgstr "修改艺人"
 
 #: ../root/artist/edit_alias.tt:1
 #, perl-format
@@ -5009,7 +5009,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistAlias.pm:7
 #, perl-format
 msgid "Edit artist alias"
-msgstr "修改艺术家别名"
+msgstr "修改艺人别名"
 
 #: ../root/artist/edit_annotation.tt:2
 #, perl-format
@@ -5102,7 +5102,7 @@ msgstr ""
 #: ../root/work/layout.tt:25
 #, perl-format
 msgid "Editing"
-msgstr "修改"
+msgstr "在修改"
 
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
@@ -5644,7 +5644,7 @@ msgstr "女性"
 #: ../root/statistics/view_js.tt:104
 #, perl-format
 msgid "Female Artists"
-msgstr "女性艺术家"
+msgstr "女性艺人"
 
 #: ../root/statistics/index.tt:167
 #, perl-format
@@ -9866,7 +9866,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:219
 #, perl-format
 msgid "New Artist"
-msgstr "新艺术家"
+msgstr "新艺人"
 
 #: ../root/artist/edit_credit.tt:32 ../root/artist/split.tt:46
 #, perl-format
@@ -11697,7 +11697,7 @@ msgstr ""
 #: ../root/statistics/index.tt:650
 #, perl-format
 msgid "Recording-Release:"
-msgstr "录音-发行："
+msgstr "录音-发行版："
 
 #: ../root/statistics/index.tt:662
 #, perl-format
@@ -12012,7 +12012,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:35
 #, perl-format
 msgid "Release"
-msgstr "发行"
+msgstr "发行版"
 
 #: ../root/recording/index.tt:13
 #, perl-format
@@ -12248,17 +12248,17 @@ msgstr ""
 #: ../root/statistics/index.tt:674
 #, perl-format
 msgid "Release-Release:"
-msgstr "发行-发行："
+msgstr "发行版-发行版："
 
 #: ../root/statistics/index.tt:686
 #, perl-format
 msgid "Release-URL:"
-msgstr "发行-URL："
+msgstr "发行版-URL："
 
 #: ../root/statistics/index.tt:692
 #, perl-format
 msgid "Release-Work:"
-msgstr "发行-作品："
+msgstr "发行版-作品："
 
 #: ../root/statistics/formats.tt:18 ../root/statistics/formats.tt:22
 #, perl-format
@@ -12286,7 +12286,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:210 ../root/taglookup/form.tt:5
 #, perl-format
 msgid "Release:"
-msgstr "发行："
+msgstr "发行版："
 
 #: ../root/artist/browse_various_releases.tt:1
 #: ../root/artist/browse_various.tt:17 ../root/artist/header.tt:1
@@ -12300,7 +12300,7 @@ msgstr "发行："
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Releases"
-msgstr "发行"
+msgstr "发行版"
 
 #: ../root/statistics/view_js.tt:123
 #, perl-format
@@ -18551,7 +18551,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "artists"
-msgstr "艺术家"
+msgstr "艺人"
 
 #: DB:link_attribute_type/name:526
 #, perl-format
@@ -24135,11 +24135,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseLanguage.pm:13
 msgid "Edit release language"
-msgstr "改修发行语言"
+msgstr "改修发行版语言"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseName.pm:10
 msgid "Edit release name"
-msgstr "修改发行名称"
+msgstr "修改发行版名称"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length"
