@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-20 18:58+0000\n"
+"PO-Revision-Date: 2012-05-20 19:45+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -3068,7 +3068,7 @@ msgstr "Verander"
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Change Data Quality"
-msgstr ""
+msgstr "Verander de gegevenskwaliteit"
 
 #: ../root/account/change_password_ok.tt:1
 #: ../root/account/change_password_ok.tt:3
@@ -3088,7 +3088,7 @@ msgstr "Keer richting om"
 #: ../root/release/change_quality.tt:1 ../root/release/change_quality.tt:2
 #, perl-format
 msgid "Change release data quality"
-msgstr "Verander kwaliteitsscore van de gegeven van de uitgave"
+msgstr "Verander de gegevenskwaliteit van de uitgave"
 
 #: ../root/release/sidebar.tt:75
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseGroup.pm:10
@@ -3429,7 +3429,7 @@ msgstr "Concerto"
 #: DB:link_attribute_type/description:205
 #, perl-format
 msgid "Conch shell"
-msgstr "zeeschelp"
+msgstr "Schelp van een weekdier waarop geblazen wordt. (<a href=\"http://en.wikipedia.org/wiki/Conch_(musical_instrument)\">Wikipedia</a>)"
 
 #: ../root/edit/info.tt:51
 #, perl-format
@@ -3733,27 +3733,27 @@ msgstr ""
 #: ../root/statistics/view_js.tt:149
 #, perl-format
 msgid "Count of all Releases at Default Data Quality"
-msgstr "Totaal aantal uitgaves met een standaard kwaliteitsscore"
+msgstr "Totaal aantal uitgaves met een standaard gegevenskwaliteit"
 
 #: ../root/statistics/view_js.tt:152
 #, perl-format
 msgid "Count of all Releases at High Data Quality"
-msgstr "Totaal aantal uitgaves met een hoge kwaliteitsscore"
+msgstr "Totaal aantal uitgaves met een hoge gegevenskwaliteit"
 
 #: ../root/statistics/view_js.tt:153
 #, perl-format
 msgid "Count of all Releases at Low Data Quality"
-msgstr "Totaal aantal uitgaves met een lage kwaliteitsscore"
+msgstr "Totaal aantal uitgaves met een lage gegevenskwaliteit"
 
 #: ../root/statistics/view_js.tt:151
 #, perl-format
 msgid "Count of all Releases at Normal Data Quality"
-msgstr "Totaal aantal uitgaves met een normale kwaliteitsscore"
+msgstr "Totaal aantal uitgaves met een normale gegevenskwaliteit"
 
 #: ../root/statistics/view_js.tt:150
 #, perl-format
 msgid "Count of all Releases at Unknown Data Quality"
-msgstr "Totaal aantal uitgaves met een onbekende kwaliteitsscore"
+msgstr "Totaal aantal uitgaves met een onbekende gegevenskwaliteit"
 
 #: ../root/statistics/view_js.tt:123
 #, perl-format
@@ -4278,7 +4278,7 @@ msgstr "Gegevenslicenties"
 #: ../root/doc/edit_type.tt:35 ../root/statistics/index.tt:212
 #, perl-format
 msgid "Data Quality"
-msgstr ""
+msgstr "Gegevenskwaliteit"
 
 #: ../root/edit/details/change_artist_quality.tt:7
 #: ../root/edit/details/change_release_quality.tt:7
@@ -4287,7 +4287,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:31
 #, perl-format
 msgid "Data Quality:"
-msgstr ""
+msgstr "Gegevenskwaliteit:"
 
 #: ../root/statistics/layout.tt:12 ../root/statistics/layout.tt:24
 #, perl-format
@@ -4344,12 +4344,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:149
 #, perl-format
 msgid "Default Data Quality"
-msgstr ""
+msgstr "Standaard gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:227
 #, perl-format
 msgid "Default Data Quality:"
-msgstr ""
+msgstr "Standaard gegevenskwaliteit:"
 
 #: ../root/label/layout.tt:22
 #, perl-format
@@ -4725,7 +4725,7 @@ msgstr ""
 #: DB:link_attribute_type/description:71
 #, perl-format
 msgid "Double bass (Contrabass, Acoustic upright bass, wood bass)"
-msgstr ""
+msgstr "Ook wel doublebass, staande bas of kortweg bas, genoemd, is het laagstklinkend muziekinstrument van de strijkinstrumenten. (<a href=\"http://nl.wikipedia.org/wiki/Contrabas\">Wikipedia</a>)"
 
 #: DB:language/name:109
 msgid "Dravidian languages"
@@ -5293,7 +5293,7 @@ msgstr "Elbasan"
 #: ../root/elections/not_found.tt:1 ../root/elections/not_found.tt:2
 #, perl-format
 msgid "Election Not Found"
-msgstr ""
+msgstr "Verkiezing niet gevonden"
 
 #: ../root/account/preferences.tt:36
 #, perl-format
@@ -6355,12 +6355,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:152
 #, perl-format
 msgid "High Data Quality"
-msgstr ""
+msgstr "Hoge gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:221
 #, perl-format
 msgid "High Data Quality:"
-msgstr ""
+msgstr "Hoge gegevenskwaliteit:"
 
 #: DB:language/name:169
 msgid "Hiligaynon"
@@ -6837,7 +6837,7 @@ msgstr "Iloco (Ilokano)"
 #: ../root/components/common-macros.tt:80
 #, perl-format
 msgid "Image not available yet, please try again in a few minutes."
-msgstr ""
+msgstr "De afbeelding is nog niet beschikbaar, probeer het over een paar minuten opnieuw."
 
 #: DB:script/name:113
 msgid "Imperial Aramaic"
@@ -7562,7 +7562,7 @@ msgid ""
 "Indicates the composer for this work, i.e. the person who wrote the music "
 "(not necessarily the lyrics) of this work. (<a "
 "href=\"http://musicbrainz.org/doc/Composer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de componist van deze compositie aan, d.w.z. de persoon die de muziek (maar niet ook altijd de tekst) van deze compositie heeft geschreven. (<a href=\"http://musicbrainz.org/doc/Composer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:55
 #, perl-format
@@ -8844,12 +8844,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:153
 #, perl-format
 msgid "Low Data Quality"
-msgstr ""
+msgstr "Lage gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:247
 #, perl-format
 msgid "Low Data Quality:"
-msgstr ""
+msgstr "Lage gegevenskwaliteit:"
 
 #: DB:language/name:245
 msgid "Lozi"
@@ -8961,7 +8961,7 @@ msgstr "Makasar"
 #: ../root/taglookup/nag.tt:22
 #, perl-format
 msgid "Make a donation now!"
-msgstr ""
+msgstr "Doneer nu!"
 
 #: DB:language/name:275
 msgid "Malagasy"
@@ -10024,7 +10024,7 @@ msgstr "Niuees"
 #: ../root/edit/vote.tt:16 ../lib/MusicBrainz/Server/Data/Vote.pm:154
 #, perl-format
 msgid "No"
-msgstr ""
+msgstr "Tegen"
 
 #: ../root/tag/not_found.tt:4
 #, perl-format
@@ -10083,7 +10083,7 @@ msgstr "Geen platenmaatschappijen met dit etiket gevonden."
 
 #: DB:language/name:486
 msgid "No linguistic content"
-msgstr ""
+msgstr "Geen taal"
 
 #: ../root/release/lookup.tt:33
 #, perl-format
@@ -10148,19 +10148,19 @@ msgstr "Geen uitgaves met dit etiket gevonden."
 #: ../root/release/edit/tracklist.tt:114 ../root/scripts/text_strings.tt:37
 #, perl-format
 msgid "No results"
-msgstr ""
+msgstr "Geen resultaten"
 
 #: ../root/otherlookup/results.tt:10 ../root/search/results-annotation.tt:28
 #: ../root/search/results-cdstub.tt:28 ../root/search/results-freedb.tt:34
 #: ../root/search/results-tag.tt:24
 #, perl-format
 msgid "No results found"
-msgstr ""
+msgstr "Geen resultaten gevonden"
 
 #: ../root/components/search.tt:43
 #, perl-format
 msgid "No results found."
-msgstr ""
+msgstr "Geen resultaten gevonden."
 
 #: ../root/search/lib/inline-results-artist.tt:31
 #: ../root/search/lib/inline-results-recording.tt:73
@@ -10206,7 +10206,7 @@ msgstr ""
 #: ../root/statistics/index.tt:522
 #, perl-format
 msgid "No:"
-msgstr ""
+msgstr "Tegen:"
 
 #: DB:language/name:307
 msgid "Nogai"
@@ -10226,26 +10226,26 @@ msgstr "Artiesten die geen groep zijn:"
 #: DB:release_packaging/name:7
 #, perl-format
 msgid "None"
-msgstr ""
+msgstr "Geen"
 
 #: DB:country/name:158
 msgid "Norfolk Island"
-msgstr ""
+msgstr "Norfolkeiland"
 
 #: ../root/components/common-macros.tt:487
 #, perl-format
 msgid "Normal"
-msgstr ""
+msgstr "Normaal"
 
 #: ../root/statistics/view_js.tt:151
 #, perl-format
 msgid "Normal Data Quality"
-msgstr ""
+msgstr "Normale gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:234
 #, perl-format
 msgid "Normal Data Quality:"
-msgstr ""
+msgstr "Normale gegevenskwaliteit:"
 
 #: ../root/user/profile.tt:48
 #, perl-format
@@ -10254,7 +10254,7 @@ msgstr "Normale gebruiker"
 
 #: DB:language/name:308
 msgid "Norse, Old"
-msgstr "Noors, Oud"
+msgstr "Oudnoors"
 
 #: DB:language/name:292
 msgid "North American Indian languages"
@@ -10298,7 +10298,7 @@ msgstr "Nynorsk"
 #: ../root/scripts/text_strings.tt:76
 #, perl-format
 msgid "Not found? Try again with direct search."
-msgstr ""
+msgstr "Niet gevonden? Probeer direct in de gegevensbank te zoeken."
 
 #: ../root/release/edit/information.tt:133
 #, perl-format
@@ -12034,7 +12034,7 @@ msgstr "Landen van uitgave"
 #: ../root/statistics/view_js.tt:34
 #, perl-format
 msgid "Release Data Quality"
-msgstr "Kwaliteit van de gegevens over de uitgave"
+msgstr "Gegevenskwaliteit van de uitgave"
 
 #: ../root/recording/index.tt:14
 #, perl-format
@@ -12506,7 +12506,7 @@ msgstr "Uitgaves zonder schrift"
 #: ../root/statistics/index.tt:186
 #, perl-format
 msgid "Releases, Data Quality, and Disc IDs"
-msgstr "Uitgaves, Kwaliteit van gegevens en disc-id's"
+msgstr "Uitgaves, gegevenskwaliteit en disc-id's"
 
 #: ../root/edit/details/convert_release_to_multiple_artists.tt:3
 #: ../root/edit/details/edit_release_attributes.tt:4
@@ -14004,7 +14004,7 @@ msgstr ""
 #: DB:link_attribute_type/name:543
 #, perl-format
 msgid "Stroh violin"
-msgstr ""
+msgstr "violofoon"
 
 #: ../root/layout/menu.tt:212
 #, perl-format
@@ -15365,7 +15365,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:500
 #, perl-format
 msgid "This edit failed because there were insufficient \"yes\" votes."
-msgstr "Deze wijziging is niet doorgevoerd omdat er niet genoeg ja-stemmen waren."
+msgstr "Deze wijziging is niet doorgevoerd omdat er niet genoeg voorstemmen waren."
 
 #: ../root/components/common-macros.tt:500
 #, perl-format
@@ -15741,12 +15741,12 @@ msgstr ""
 #: ../root/recording/fingerprints.tt:87
 #, perl-format
 msgid "This recording does not have any associated AcoustIDs"
-msgstr ""
+msgstr "Deze opname heeft geen gekoppelde AcoustID's"
 
 #: ../root/recording/fingerprints.tt:43
 #, perl-format
 msgid "This recording does not have any associated PUIDs"
-msgstr ""
+msgstr "Deze opname heeft geen gekoppelde PUID's"
 
 #: ../root/recording/tags.tt:2
 #, perl-format
@@ -16806,7 +16806,7 @@ msgstr "Informatie over de URL"
 #: ../root/url/not_found.tt:1 ../root/url/not_found.tt:2
 #, perl-format
 msgid "URL Not Found"
-msgstr ""
+msgstr "URL niet gevonden"
 
 #: ../root/url/relationships.tt:1
 #, perl-format
@@ -16910,7 +16910,7 @@ msgstr "Kleine afgelegen eilanden van de Verenigde Staten"
 #: ../root/report/artist_list.tt:13
 #, perl-format
 msgid "Unknown"
-msgstr ""
+msgstr "Onbekend"
 
 #: ../root/statistics/countries.tt:16 ../root/statistics/view_js.tt:76
 #: ../root/statistics/view_js.tt:77 ../root/statistics/view_js.tt:78
@@ -16921,12 +16921,12 @@ msgstr "Onbekend land"
 #: ../root/statistics/view_js.tt:150
 #, perl-format
 msgid "Unknown Data Quality"
-msgstr ""
+msgstr "Onbekende gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:241
 #, perl-format
 msgid "Unknown Data Quality:"
-msgstr ""
+msgstr "Onbekende gegevenskwaliteit:"
 
 #: ../root/statistics/formats.tt:5
 #, perl-format
@@ -17313,7 +17313,7 @@ msgstr ""
 #: DB:link_attribute_type/description:505
 #, perl-format
 msgid "Violone, The largest/deepest member of the Viol family"
-msgstr ""
+msgstr "Voorloper van de cello. (<a href=\"http://en.wikipedia.org/wiki/Violone\">Wikipedia</a>)"
 
 #: DB:country/name:230
 msgid "Virgin Islands, British"
@@ -17865,12 +17865,12 @@ msgstr "Jemen"
 #: ../root/edit/vote.tt:13 ../lib/MusicBrainz/Server/Data/Vote.pm:155
 #, perl-format
 msgid "Yes"
-msgstr ""
+msgstr "Voor"
 
 #: ../root/statistics/view_js.tt:67
 #, perl-format
 msgid "Yes Votes"
-msgstr "Ja-stemmen"
+msgstr "Voorstemmen"
 
 #: ../root/edit/search_macros.tt:279
 #, perl-format
@@ -17902,7 +17902,7 @@ msgstr ""
 #: ../root/statistics/index.tt:516
 #, perl-format
 msgid "Yes:"
-msgstr "Ja:"
+msgstr "Voor:"
 
 #: ../root/statistics/index.tt:494 ../root/statistics/index.tt:546
 #, perl-format
@@ -18317,7 +18317,7 @@ msgstr "De zurna (Turkije, Armenië), zurla (Balkan) of zirne (Koerdistan) is ee
 #: ../root/scripts/text_strings.tt:33
 #, perl-format
 msgid "[ Unknown ]"
-msgstr ""
+msgstr "[Onbekend]"
 
 #: DB:language/name:24
 msgid "[Artificial (Other)]"
@@ -18479,7 +18479,7 @@ msgstr "ook bekend als sruti-doos. Vergelijkbaar met een harmonium en wordt gebr
 msgid ""
 "aka violin-trumpet, trumpet-violin, horn-violin, violinophone.\n"
 "A violin with a metal resonator and horn rather than a wooden body."
-msgstr ""
+msgstr "Ook wel strohviool, trompetviool of schaatsviool. Een viool met een hoorn in plaats van een houten klankkast. (<a href=\"http://nl.wikipedia.org/wiki/Violofoon\">Wikipedia</a>)"
 
 #: DB:link_attribute_type/description:324
 #, perl-format
@@ -19029,7 +19029,7 @@ msgstr ""
 #: DB:link_attribute_type/description:84 DB:link_attribute_type/name:84
 #, perl-format
 msgid "cello"
-msgstr ""
+msgstr "cello"
 
 #: DB:link_attribute_type/name:412
 #, perl-format
@@ -19189,7 +19189,7 @@ msgstr "concertina"
 #: DB:link_attribute_type/name:205
 #, perl-format
 msgid "conch"
-msgstr "Schelp van een weekdier waarop geblazen wordt. (<a href=\"http://en.wikipedia.org/wiki/Conch_(musical_instrument)\">Wikipedia</a>)"
+msgstr "zeeschelp"
 
 #: DB:link_attribute_type/description:127 DB:link_attribute_type/name:127
 #, perl-format
@@ -19532,7 +19532,7 @@ msgstr ""
 #: DB:link_attribute_type/name:71
 #, perl-format
 msgid "double bass (contrabass, acoustic upright bass)"
-msgstr ""
+msgstr "contrabas"
 
 #: DB:link_attribute_type/description:17 DB:link_attribute_type/name:17
 #, perl-format
@@ -19618,7 +19618,7 @@ msgstr ""
 #: DB:link_attribute_type/description:278 DB:link_attribute_type/name:278
 #, perl-format
 msgid "electric cello"
-msgstr ""
+msgstr "elektrische cello"
 
 #: DB:link_attribute_type/description:78 DB:link_attribute_type/name:78
 #, perl-format
@@ -19648,12 +19648,12 @@ msgstr ""
 #: DB:link_attribute_type/description:72 DB:link_attribute_type/name:72
 #, perl-format
 msgid "electric upright bass"
-msgstr ""
+msgstr "elektrische contrabas"
 
 #: DB:link_attribute_type/description:282 DB:link_attribute_type/name:282
 #, perl-format
 msgid "electric violin"
-msgstr ""
+msgstr "elektrische viool"
 
 #: DB:link_attribute_type/description:487 DB:link_attribute_type/name:487
 #, perl-format
@@ -21102,7 +21102,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/common.tt:19
 #, perl-format
 msgid "none"
-msgstr ""
+msgstr "geen"
 
 #: DB:link_attribute_type/description:270 DB:link_attribute_type/name:270
 #, perl-format
@@ -21205,7 +21205,7 @@ msgstr "online gemeenschapspagina van"
 #: DB:link_type/short_link_phrase:221
 #, perl-format
 msgid "online data"
-msgstr ""
+msgstr "online gegevens"
 
 #: DB:link_attribute_type/description:57 DB:link_attribute_type/name:57
 #, perl-format
@@ -21381,7 +21381,7 @@ msgstr ""
 #: DB:link_attribute_type/description:180 DB:link_attribute_type/name:180
 #, perl-format
 msgid "piano"
-msgstr ""
+msgstr "piano"
 
 #: DB:link_attribute_type/description:439 DB:link_attribute_type/name:439
 #, perl-format
@@ -22591,12 +22591,12 @@ msgstr ""
 #: DB:link_attribute_type/description:87 DB:link_attribute_type/name:87
 #, perl-format
 msgid "viola"
-msgstr ""
+msgstr "altviool"
 
 #: DB:link_attribute_type/description:119 DB:link_attribute_type/name:119
 #, perl-format
 msgid "viola d'amore"
-msgstr ""
+msgstr "viola d'amore"
 
 #: DB:link_attribute_type/description:118 DB:link_attribute_type/name:118
 #, perl-format
@@ -22611,17 +22611,17 @@ msgstr ""
 #: DB:link_attribute_type/description:86 DB:link_attribute_type/name:86
 #, perl-format
 msgid "violin"
-msgstr ""
+msgstr "viool"
 
 #: DB:link_attribute_type/description:82 DB:link_attribute_type/name:82
 #, perl-format
 msgid "violins"
-msgstr ""
+msgstr "violen"
 
 #: DB:link_attribute_type/name:505
 #, perl-format
 msgid "violone"
-msgstr ""
+msgstr "violone"
 
 #: DB:link_attribute_type/description:120 DB:link_attribute_type/name:120
 #, perl-format
@@ -22778,12 +22778,12 @@ msgstr ""
 #: ../root/statistics/index.tt:179
 #, perl-format
 msgid "with no gender set:"
-msgstr "Waarbij het geslacht niet is ingesteld:"
+msgstr "Waarvan het geslacht niet is ingesteld:"
 
 #: ../root/statistics/index.tt:138
 #, perl-format
 msgid "with no type set:"
-msgstr ""
+msgstr "Waarvan het type niet is ingesteld:"
 
 #: ../root/statistics/index.tt:354
 #, perl-format
@@ -23677,7 +23677,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:50 ../root/edit/index.tt:33
 #, perl-format
 msgid "{yes} yes : {no} no"
-msgstr "{yes} ja : {no} nee"
+msgstr "{yes} voor : {no} tegen"
 
 #: ../root/release/edit/duplicates.tt:46 ../root/release/edit/editnote.tt:41
 #: ../root/release/edit/missing_entities.tt:131
