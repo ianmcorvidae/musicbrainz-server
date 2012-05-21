@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-04 10:52-0400\n"
-"PO-Revision-Date: 2012-05-21 10:46+0000\n"
+"PO-Revision-Date: 2012-05-21 16:45+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1548,7 +1548,7 @@ msgstr "Weet u zeker dat u de ISRC <code>{isrc}</code> van {recording} door {art
 msgid ""
 "Are you sure you wish to remove the below cover art from {release} by "
 "{artist}?"
-msgstr ""
+msgstr "Weet u zeker dat u de onderstaande hoesafbeelding van {release} van {artist} wilt verwijderen?"
 
 #: ../root/label/delete.tt:8
 #, perl-format
@@ -1666,7 +1666,7 @@ msgstr ""
 #: ../root/artist/edit_form.tt:37
 #, perl-format
 msgid "Artist Details"
-msgstr "Details over de artiest"
+msgstr "Details van de artiest"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -4458,7 +4458,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:198
 #, perl-format
 msgid "Detect track durations"
-msgstr ""
+msgstr "Detecteer de duur van de nummers"
 
 #: DB:script/name:50
 msgid "Devanagari"
@@ -4655,7 +4655,7 @@ msgstr "Opgeheven:"
 
 #: DB:label_type/name:1
 msgid "Distributor"
-msgstr ""
+msgstr "Distributeur"
 
 #: DB:language/name:107
 msgid "Divehi"
@@ -4720,7 +4720,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:160 ../root/scripts/text_strings.tt:29
 #, perl-format
 msgid "Done"
-msgstr ""
+msgstr "Gereed"
 
 #: DB:link_attribute_type/description:71
 #, perl-format
@@ -4766,7 +4766,7 @@ msgstr "Duployan stenografie"
 #: ../root/taglookup/form.tt:8
 #, perl-format
 msgid "Duration:"
-msgstr ""
+msgstr "Duur:"
 
 #: DB:language/name:113
 msgid "Dutch"
@@ -4899,7 +4899,7 @@ msgstr "Wijziging niet gevonden"
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:80
 #, perl-format
 msgid "Edit Note"
-msgstr "Wijzig de notitie"
+msgstr "Wijzigingsnotitie"
 
 #: ../root/account/edit_ok.tt:1 ../root/account/edit_ok.tt:3
 #: ../root/account/edit.tt:1 ../root/account/edit.tt:3
@@ -5338,7 +5338,7 @@ msgstr "Lege uitgavegroepen"
 #: ../root/release/edit/tracklist.tt:195
 #, perl-format
 msgid "Enable vinyl track numbers"
-msgstr ""
+msgstr "Schakel nummering voor vinyl in"
 
 #: ../root/components/forms.tt:13
 #, perl-format
@@ -5508,7 +5508,7 @@ msgstr ""
 #: ../root/forms/edit-note.tt:9
 #, perl-format
 msgid "Even just providing a URL or two is helpful!"
-msgstr "Alleen al één of twee URL's toevoegen helpt al!"
+msgstr "Alleen al één of twee URL's toevoegen helpt!"
 
 #: DB:language/name:124
 msgid "Ewe"
@@ -6211,17 +6211,17 @@ msgstr "Gok de sorteernaam"
 #: ../root/release/edit/tracklist.tt:476
 #, perl-format
 msgid "Guess case"
-msgstr ""
+msgstr "Gok hoofdlettergebruik"
 
 #: ../root/release/edit/tracklist.tt:384
 #, perl-format
 msgid "Guess case disc title"
-msgstr "Gok de kast van de mediumtitel"
+msgstr "Gok het hoofdlettergebruik van de mediumtitel"
 
 #: ../root/release/edit/tracklist.tt:332
 #, perl-format
 msgid "Guess case track"
-msgstr ""
+msgstr "Gok het hoofdlettergebruik in de nummers"
 
 #: DB:country/name:90
 msgid "Guinea"
@@ -6397,7 +6397,7 @@ msgstr "Hmong"
 
 #: DB:label_type/name:2
 msgid "Holding"
-msgstr ""
+msgstr "Holding"
 
 #: DB:link_attribute_type/description:337
 #, perl-format
@@ -6660,7 +6660,7 @@ msgid ""
 "will be prompted to add a {doc_comment|disambiguation comment to this label}"
 " that will allow users to distinguish this entry from the other label(s) "
 "with the same name."
-msgstr "Als één of meer platenmaatschappijen met dezelfde naam in de gegevensbank staan, wordt u gevraagd om {doc_addcomment|een opmerking ter verduidelijking aan de platenmaatschappij toe te voegen}. Hiermee kunnen gebruikers het verschil zien tussen dit lemma en die van andere platenmaatschappijen met dezelfde naam."
+msgstr "Als één of meer platenmaatschappijen met dezelfde naam in de gegevensbank staan, wordt u gevraagd om {doc_comment|een opmerking ter verduidelijking aan de platenmaatschappij toe te voegen}. Hiermee kunnen gebruikers het verschil zien tussen dit lemma en die van andere platenmaatschappijen met dezelfde naam."
 
 #: ../root/main/500.tt:55
 #, perl-format
@@ -7765,7 +7765,7 @@ msgstr "Geeft een uitgever van dit album aan. (<a href=\"http://musicbrainz.org/
 msgid ""
 "Indicates the publisher of this album. (<a "
 "href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de uitgever van dit album aan. (<a href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:206
 #, perl-format
@@ -7781,7 +7781,7 @@ msgstr "Geeft een uitgever van deze opname aan. (<a href=\"http://musicbrainz.or
 msgid ""
 "Indicates the publisher of this track. (<a "
 "href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de uitgever van dit nummer aan. (<a href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:208
 #, perl-format
@@ -7797,7 +7797,7 @@ msgstr "Geeft een uitgever van deze compositie aan. (<a href=\"http://musicbrain
 msgid ""
 "Indicates the publisher of this work. (<a "
 "href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de uitgever van deze compositie aan. (<a href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:36 DB:link_type/description:128
 #, perl-format
@@ -8356,7 +8356,7 @@ msgstr "Vestigingsland van de platenmaatschappij"
 #: ../root/label/edit_form.tt:34
 #, perl-format
 msgid "Label Details"
-msgstr "Details over de platenmaatschappij"
+msgstr "Details van de platenmaatschappij"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -8397,7 +8397,7 @@ msgstr ""
 #: ../root/label/edit_form.tt:41 ../root/label/layout.tt:33
 #, perl-format
 msgid "Label code:"
-msgstr ""
+msgstr "Platenmaatschappij-code"
 
 #: ../root/label/layout.tt:4
 #, perl-format
@@ -9501,7 +9501,7 @@ msgstr ""
 #: ../root/release/move_search.tt:12
 #, perl-format
 msgid "Move"
-msgstr ""
+msgstr "Verplaats"
 
 #: ../root/cdtoc/move_search.tt:1 ../root/cdtoc/move_search.tt:2
 #, perl-format
@@ -9527,12 +9527,12 @@ msgstr "Verplaats de uitgave naar een andere uitgavegroep"
 #: ../root/release/edit/tracklist.tt:309
 #, perl-format
 msgid "Move track down"
-msgstr ""
+msgstr "Nummer naar beneden verplaatsen"
 
 #: ../root/release/edit/tracklist.tt:312
 #, perl-format
 msgid "Move track up"
-msgstr ""
+msgstr "Nummer omhoog verplaatsen"
 
 #: ../root/edit/details/move_release.tt:14
 #, perl-format
@@ -10375,11 +10375,11 @@ msgstr "Occitaans"
 
 #: DB:release_status/name:1
 msgid "Official"
-msgstr ""
+msgstr "Officieel"
 
 #: DB:language/name:19
 msgid "Official Aramaic (700-300 BCE)"
-msgstr "Officiëel Aramees (700 - 300 V. Chr)"
+msgstr "Officieel Aramees (700 - 300 V. Chr)"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:12
 #, perl-format
@@ -10756,7 +10756,7 @@ msgstr "PUID's:"
 #: ../root/release/edit/information.tt:59 ../root/release/sidebar.tt:31
 #, perl-format
 msgid "Packaging:"
-msgstr ""
+msgstr "Verpakking:"
 
 #: ../root/doc/bare_error.tt:1 ../root/doc/error.tt:1 ../root/doc/error.tt:3
 #: ../root/main/404.tt:4 ../root/main/404.tt:6 ../root/main/mirror_404.tt:1
@@ -10875,12 +10875,12 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:161
 #, perl-format
 msgid "Parse Tracks"
-msgstr ""
+msgstr "Vul nummers in"
 
 #: ../root/release/edit/tracklist.tt:189
 #, perl-format
 msgid "Parse track artists"
-msgstr ""
+msgstr "Vul de artiesten van de nummers in"
 
 #: ../root/report/part_of_set_relationships.tt:1
 #: ../root/report/part_of_set_relationships.tt:3
@@ -11220,7 +11220,7 @@ msgstr ""
 #: ../root/components/forms.tt:150
 #, perl-format
 msgid "Please use the Guess Case button to fix common style errors."
-msgstr "Gebruik de Gok kast knop om veel voorkomende stijlfouten te repareren."
+msgstr "Gebruik de knop Gok hoofdlettergebruik om veel voorkomende stijlfouten te repareren."
 
 #: ../root/components/forms.tt:184
 #, perl-format
@@ -11403,17 +11403,17 @@ msgstr "Voorkeuren"
 #: ../root/release/edit/tracklist.tt:37
 #, perl-format
 msgid "Preview"
-msgstr ""
+msgstr "Voorbeeld"
 
 #: ../root/annotation/edit.tt:7
 #, perl-format
 msgid "Preview:"
-msgstr ""
+msgstr "Voorbeeld:"
 
 #: ../root/scripts/text_strings.tt:32
 #, perl-format
 msgid "Preview: "
-msgstr ""
+msgstr "Voorbeeld:"
 
 #: ../root/scripts/text_strings.tt:36
 #, perl-format
@@ -11453,7 +11453,7 @@ msgstr "Geprivilegieerde gebruikersaccounts"
 
 #: DB:label_type/name:3
 msgid "Production"
-msgstr ""
+msgstr "Productie"
 
 #: ../root/layout/menu.tt:118
 #, perl-format
@@ -11467,7 +11467,7 @@ msgstr ""
 
 #: DB:release_status/name:2
 msgid "Promotion"
-msgstr ""
+msgstr "Promotie"
 
 #: ../root/elections/show.tt:14
 #, perl-format
@@ -11498,7 +11498,7 @@ msgstr ""
 
 #: DB:label_type/name:7
 msgid "Publisher"
-msgstr ""
+msgstr "Uitgever"
 
 #: DB:country/name:172
 msgid "Puerto Rico"
@@ -11816,7 +11816,7 @@ msgstr ""
 
 #: DB:label_type/name:6
 msgid "Reissue Production"
-msgstr ""
+msgstr "Heruitgaveproductie"
 
 #: DB:script/name:105
 msgid "Rejang"
@@ -12058,7 +12058,7 @@ msgstr "Uitgavegroep"
 #: ../root/release_group/edit_form.tt:6
 #, perl-format
 msgid "Release Group Details"
-msgstr "Details over de uitgavegroep"
+msgstr "Details van de uitgavegroep"
 
 #: ../root/release_group/not_found.tt:1 ../root/release_group/not_found.tt:2
 #, perl-format
@@ -12551,7 +12551,7 @@ msgstr ""
 #: ../root/user/collections.tt:24
 #, perl-format
 msgid "Remove"
-msgstr ""
+msgstr "Verwijder"
 
 #: ../root/artist/delete_alias.tt:2 ../root/label/delete_alias.tt:2
 #: ../root/work/delete_alias.tt:2
@@ -12724,7 +12724,7 @@ msgstr "Verwijder uw waardering"
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
 msgid "Removed"
-msgstr ""
+msgstr "Verwijderd"
 
 #: ../root/edit/details/merge_artists.tt:4
 #, perl-format
@@ -13280,7 +13280,7 @@ msgstr "Stel een nieuw wachtwoord in voor uw MusicBrainz gebruikersaccount."
 #: ../root/cdtoc/list.tt:53
 #, perl-format
 msgid "Set track durations"
-msgstr ""
+msgstr "Vul de duur van de nummers in"
 
 #: DB:country/name:186
 msgid "Seychelles"
@@ -16523,7 +16523,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:394
 #, perl-format
 msgid "Track Parser"
-msgstr ""
+msgstr "Automatisch vullen"
 
 #: ../root/release/edit/tracklist.tt:219
 #, perl-format
@@ -16549,7 +16549,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:192
 #, perl-format
 msgid "Track names start with a number"
-msgstr ""
+msgstr "Titels van nummers beginnen met een getal"
 
 #: ../root/edit/details/edit_track_number.tt:13
 #: ../root/edit/details/historic/add_track_kv.tt:26
@@ -17308,7 +17308,7 @@ msgstr ""
 
 #: DB:medium_format/name:7
 msgid "Vinyl"
-msgstr ""
+msgstr "Vinyl"
 
 #: DB:link_attribute_type/description:505
 #, perl-format
@@ -17738,7 +17738,7 @@ msgstr "Compositie"
 #: ../root/work/edit_form.tt:6
 #, perl-format
 msgid "Work Details"
-msgstr "Details over de compositie"
+msgstr "Details van de compositie"
 
 #: ../root/work/not_found.tt:1 ../root/work/not_found.tt:2
 #, perl-format
@@ -18338,7 +18338,7 @@ msgstr "[Wereldwijd]"
 #: ../root/components/common-macros.tt:187
 #, perl-format
 msgid "[removed]"
-msgstr ""
+msgstr "[verwijderd]"
 
 #: DB:link_attribute_type/description:392
 #, perl-format
@@ -19487,7 +19487,7 @@ msgstr "distributeur van"
 #: DB:link_type/reverse_link_phrase:203
 #, perl-format
 msgid "distributors"
-msgstr ""
+msgstr "distributeurs"
 
 #: DB:link_attribute_type/name:290
 #, perl-format
@@ -20174,18 +20174,18 @@ msgstr ""
 #: DB:link_type/short_link_phrase:225 DB:link_type/short_link_phrase:193
 #, perl-format
 msgid "has an official YouTube channel at"
-msgstr ""
+msgstr "heeft een officieel Youtube-kanaal op"
 
 #: DB:link_type/short_link_phrase:287 DB:link_type/short_link_phrase:183
 #: DB:link_type/short_link_phrase:219
 #, perl-format
 msgid "has an official homepage at"
-msgstr ""
+msgstr "heeft een officiële thuispagina op"
 
 #: DB:link_type/short_link_phrase:303 DB:link_type/short_link_phrase:304
 #, perl-format
 msgid "has an official video channel at"
-msgstr ""
+msgstr "heeft een officieel videokanaal op"
 
 #: DB:link_type/short_link_phrase:185
 #, perl-format
@@ -21164,7 +21164,7 @@ msgstr "officiële thuispagina"
 #: DB:link_type/link_phrase:219
 #, perl-format
 msgid "official homepages"
-msgstr ""
+msgstr "officiële thuispagina's"
 
 #: ../root/edit/search_macros.tt:18
 #, perl-format
@@ -21489,7 +21489,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:256
 #, perl-format
 msgid "production"
-msgstr ""
+msgstr "productie"
 
 #: DB:link_type/short_link_phrase:135 DB:link_type/short_link_phrase:62
 #, perl-format
@@ -21570,7 +21570,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:269 DB:link_type/reverse_link_phrase:161
 #, perl-format
 msgid "publisher"
-msgstr ""
+msgstr "uitgever"
 
 #: DB:link_type/link_phrase:74 DB:link_type/link_phrase:254
 #, perl-format
@@ -24488,7 +24488,7 @@ msgstr "U moet een wijzigingsnotitie geven als u een uitgave toevoegt. Alleen al
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:63
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:86
 msgid "Frequently used"
-msgstr ""
+msgstr "Vaak gebruikt"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:101
 msgid ""
