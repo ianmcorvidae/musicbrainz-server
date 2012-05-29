@@ -1,10 +1,11 @@
 # 
 # Translators:
+# Mihkel Tõnnov <email address hidden>, 2008, 2009, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-05-24 18:54+0000\n"
+"PO-Revision-Date: 2012-05-29 22:23+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.net/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -394,7 +395,7 @@ msgstr ""
 #: DB:statistic_event/title:2007-10-17 ../root/statistics/view_js.tt:169
 #, perl-format
 msgid "Tags"
-msgstr ""
+msgstr "Sildid"
 
 #: DB:statistic_event/description:2007-06-28
 msgid ""
@@ -451,7 +452,7 @@ msgstr ""
 #: ../root/statistics/formats.tt:39 ../root/statistics/formats.tt:41
 #, perl-format
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: ../root/statistics/index.tt:528
 #, perl-format
@@ -1132,12 +1133,12 @@ msgstr ""
 #: ../root/statistics/countries.tt:33
 #, perl-format
 msgid "Country"
-msgstr ""
+msgstr "Riik"
 
 #: ../root/statistics/coverart.tt:4 ../root/statistics/view_js.tt:37
 #, perl-format
 msgid "Cover Art"
-msgstr ""
+msgstr "Kaanepilt"
 
 #: ../root/statistics/index.tt:212
 #, perl-format
@@ -1162,12 +1163,12 @@ msgstr ""
 #: ../root/statistics/index.tt:254 ../root/statistics/view_js.tt:122
 #, perl-format
 msgid "Disc IDs"
-msgstr ""
+msgstr "Plaadi-ID-d"
 
 #: ../root/statistics/index.tt:93 ../root/statistics/index.tt:257
 #, perl-format
 msgid "Disc IDs:"
-msgstr ""
+msgstr "Plaadi-ID-d:"
 
 #: ../root/statistics/timeline.tt:72
 #, perl-format
@@ -1282,7 +1283,7 @@ msgstr ""
 #: ../root/statistics/formats.tt:27
 #, perl-format
 msgid "Format"
-msgstr ""
+msgstr "Vorming"
 
 #: ../root/statistics/view_js.tt:36
 #, perl-format
@@ -1312,42 +1313,42 @@ msgstr ""
 #: ../root/statistics/view_js.tt:125
 #, perl-format
 msgid "IPIs"
-msgstr ""
+msgstr "IPI-d"
 
 #: ../root/statistics/index.tt:101
 #, perl-format
 msgid "IPIs:"
-msgstr ""
+msgstr "IPI-d:"
 
 #: ../root/statistics/view_js.tt:128
 #, perl-format
 msgid "ISRCs"
-msgstr ""
+msgstr "ISRC-d"
 
 #: ../root/statistics/index.tt:85
 #, perl-format
 msgid "ISRCs (all / unique):"
-msgstr ""
+msgstr "ISRC-d (kokku / unikaalseid):"
 
 #: ../root/statistics/view_js.tt:129
 #, perl-format
 msgid "ISRCs (all)"
-msgstr ""
+msgstr "ISRC-d (kõik)"
 
 #: ../root/statistics/view_js.tt:130
 #, perl-format
 msgid "ISWCs"
-msgstr ""
+msgstr "ISWC-d"
 
 #: ../root/statistics/index.tt:89
 #, perl-format
 msgid "ISWCs (all / unique):"
-msgstr ""
+msgstr "ISWC-d (kokku / unikaalseid):"
 
 #: ../root/statistics/view_js.tt:131
 #, perl-format
 msgid "ISWCs (all)"
-msgstr ""
+msgstr "ISWC-d (kõik)"
 
 #: ../root/statistics/index.tt:78
 #, perl-format
@@ -1412,7 +1413,7 @@ msgstr ""
 #: ../root/statistics/countries.tt:36 ../root/statistics/view_js.tt:48
 #, perl-format
 msgid "Labels"
-msgstr ""
+msgstr "Plaadifirmad"
 
 #: ../root/statistics/view_js.tt:78
 #, perl-format
@@ -1422,22 +1423,22 @@ msgstr ""
 #: ../root/statistics/index.tt:35
 #, perl-format
 msgid "Labels:"
-msgstr ""
+msgstr "Plaadifirmad"
 
 #: ../root/statistics/languages_scripts.tt:40
 #, perl-format
 msgid "Language"
-msgstr ""
+msgstr "Keel"
 
 #: ../root/statistics/languages_scripts.tt:35
 #, perl-format
 msgid "Languages"
-msgstr ""
+msgstr "Keeled"
 
 #: ../root/statistics/languages_scripts.tt:29
 #, perl-format
 msgid "Languages and Scripts"
-msgstr ""
+msgstr "Keeled ja kirjad"
 
 #: ../root/statistics/index.tt:487 ../root/statistics/index.tt:539
 #, perl-format
@@ -1449,7 +1450,7 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:31
 #, perl-format
 msgid "Last updated: {date}"
-msgstr ""
+msgstr "Viimati uuendatud: {date}"
 
 #: ../root/statistics/timeline.tt:59
 #, perl-format
@@ -1546,7 +1547,7 @@ msgstr ""
 #: ../root/statistics/index.tt:522
 #, perl-format
 msgid "No:"
-msgstr ""
+msgstr "Ei:"
 
 #: ../root/statistics/index.tt:155
 #, perl-format
@@ -1576,7 +1577,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:39
 #, perl-format
 msgid "Other"
-msgstr ""
+msgstr "Muu"
 
 #: ../root/statistics/index.tt:45
 #, perl-format
@@ -1601,17 +1602,17 @@ msgstr ""
 #: ../root/statistics/index.tt:1
 #, perl-format
 msgid "Overview"
-msgstr ""
+msgstr "Ülevaade"
 
 #: ../root/statistics/index.tt:368 ../root/statistics/view_js.tt:132
 #, perl-format
 msgid "PUIDs"
-msgstr ""
+msgstr "PUID-d"
 
 #: ../root/statistics/view_js.tt:133
 #, perl-format
 msgid "PUIDs (IDs)"
-msgstr ""
+msgstr "PUID-d (ID-d)"
 
 #: ../root/statistics/index.tt:81
 #, perl-format
@@ -1681,7 +1682,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:156
 #, perl-format
 msgid "Ratings"
-msgstr ""
+msgstr "Hinnangud"
 
 #: ../root/statistics/index.tt:68
 #, perl-format
@@ -1741,7 +1742,7 @@ msgstr ""
 #: ../root/statistics/index.tt:334 ../root/statistics/view_js.tt:43
 #, perl-format
 msgid "Recordings"
-msgstr ""
+msgstr "Lindistused"
 
 #: ../root/statistics/index.tt:330
 #, perl-format
@@ -1985,12 +1986,12 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:61
 #, perl-format
 msgid "Script"
-msgstr ""
+msgstr "Kirjasüsteem"
 
 #: ../root/statistics/languages_scripts.tt:56
 #, perl-format
 msgid "Scripts"
-msgstr ""
+msgstr "Kirjasüsteemid"
 
 #: ../root/statistics/index.tt:60
 #, perl-format
@@ -2037,7 +2038,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:78 ../root/statistics/view_js.tt:79
 #, perl-format
 msgid "Unknown Country"
-msgstr ""
+msgstr "Riik teadmata"
 
 #: ../root/statistics/view_js.tt:151
 #, perl-format
@@ -2157,12 +2158,12 @@ msgstr ""
 #: ../root/statistics/index.tt:516
 #, perl-format
 msgid "Yes:"
-msgstr ""
+msgstr "Jah:"
 
 #: ../root/statistics/index.tt:494 ../root/statistics/index.tt:546
 #, perl-format
 msgid "Yesterday:"
-msgstr ""
+msgstr "Eile:"
 
 #: ../root/statistics/timeline.tt:72
 #, perl-format
@@ -2357,7 +2358,7 @@ msgstr ""
 #: ../root/statistics/index.tt:724 ../root/statistics/index.tt:730
 #, perl-format
 msgid "{n}%"
-msgstr ""
+msgstr "{n} %"
 
 #: ../root/statistics/view_js.tt:88
 #, perl-format
