@@ -1,10 +1,12 @@
 # 
 # Translators:
+# Maurits Meulenbelt <email address hidden>, 2012.
+# Nikolai Prokoschenko <email address hidden>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-05-24 18:54+0000\n"
+"PO-Revision-Date: 2012-05-29 21:49+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -394,7 +396,7 @@ msgstr ""
 #: DB:statistic_event/title:2007-10-17 ../root/statistics/view_js.tt:169
 #, perl-format
 msgid "Tags"
-msgstr ""
+msgstr "Etiketten"
 
 #: DB:statistic_event/description:2007-06-28
 msgid ""
@@ -436,12 +438,12 @@ msgstr ""
 #: ../root/statistics/formats.tt:31
 #, perl-format
 msgid "% of total mediums"
-msgstr ""
+msgstr "% van totale media"
 
 #: ../root/statistics/formats.tt:29
 #, perl-format
 msgid "% of total releases"
-msgstr ""
+msgstr "% van het totale aantal uitgaves"
 
 #: ../root/statistics/view_js.tt:23
 #, perl-format
@@ -451,47 +453,47 @@ msgstr ""
 #: ../root/statistics/formats.tt:39 ../root/statistics/formats.tt:41
 #, perl-format
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: ../root/statistics/index.tt:528
 #, perl-format
 msgid "Abstain:"
-msgstr ""
+msgstr "Onthouding:"
 
 #: ../root/statistics/view_js.tt:70
 #, perl-format
 msgid "Abstentions"
-msgstr ""
+msgstr "Onthoudingen"
 
 #: ../root/statistics/view_js.tt:73
 #, perl-format
 msgid "Active Editors"
-msgstr ""
+msgstr "Actieve redacteuren"
 
 #: ../root/statistics/view_js.tt:75
 #, perl-format
 msgid "Active Users"
-msgstr ""
+msgstr "Actieve gebruikers"
 
 #: ../root/statistics/view_js.tt:74
 #, perl-format
 msgid "Active Voters"
-msgstr ""
+msgstr "Actieve stemmers"
 
 #: ../root/statistics/timeline.tt:74
 #, perl-format
 msgid "Add/remove lines:"
-msgstr ""
+msgstr "Regels toevoegen of verwijderen:"
 
 #: ../root/statistics/view_js.tt:57
 #, perl-format
 msgid "All edits that have been applied"
-msgstr ""
+msgstr "Alle wijzigingen die zijn doorgevoerd"
 
 #: ../root/statistics/view_js.tt:61
 #, perl-format
 msgid "All edits that have failed by being voted down"
-msgstr ""
+msgstr "Alle wijzigingen die zijn mislukt omdat ze zijn weggestemd"
 
 #: ../root/statistics/view_js.tt:59
 #, perl-format
@@ -506,7 +508,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:58
 #, perl-format
 msgid "All edits that have hit an error"
-msgstr ""
+msgstr "Alle wijzigingen waarbij een fout is opgetreden"
 
 #: ../root/statistics/languages_scripts.tt:32
 #, perl-format
@@ -516,7 +518,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:57
 #, perl-format
 msgid "Applied edits"
-msgstr ""
+msgstr "Toegepaste wijzigingen"
 
 #: ../root/statistics/index.tt:446
 #, perl-format
@@ -531,7 +533,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:27
 #, perl-format
 msgid "Artist Countries"
-msgstr ""
+msgstr "Nationaliteiten"
 
 #: ../root/statistics/view_js.tt:116
 #, perl-format
@@ -546,7 +548,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:157
 #, perl-format
 msgid "Artist Ratings"
-msgstr ""
+msgstr "Waarderingen van de artiest"
 
 #: ../root/statistics/view_js.tt:163
 #, perl-format
@@ -561,48 +563,48 @@ msgstr ""
 #: ../root/statistics/view_js.tt:32
 #, perl-format
 msgid "Artist Types and Genders"
-msgstr ""
+msgstr "Types artiesten en geslachten"
 
 #: ../root/statistics/index.tt:566
 #, perl-format
 msgid "Artist-Artist:"
-msgstr ""
+msgstr "Artiest-Artiest:"
 
 #: ../root/statistics/index.tt:572
 #, perl-format
 msgid "Artist-Label:"
-msgstr ""
+msgstr "Artiest-Platenmaatschappij:"
 
 #: ../root/statistics/index.tt:578
 #, perl-format
 msgid "Artist-Recording:"
-msgstr ""
+msgstr "Artiest-Opname:"
 
 #: ../root/statistics/index.tt:590
 #, perl-format
 msgid "Artist-Release Group:"
-msgstr ""
+msgstr "Artiest-Uitgavegroep:"
 
 #: ../root/statistics/index.tt:584
 #, perl-format
 msgid "Artist-Release:"
-msgstr ""
+msgstr "Artiest-Uitgave:"
 
 #: ../root/statistics/index.tt:596
 #, perl-format
 msgid "Artist-URL:"
-msgstr ""
+msgstr "Artiest-URL:"
 
 #: ../root/statistics/index.tt:602
 #, perl-format
 msgid "Artist-Work:"
-msgstr ""
+msgstr "Artiest-Compositie"
 
 #: ../root/statistics/countries.tt:34 ../root/statistics/index.tt:107
 #: ../root/statistics/index.tt:111 ../root/statistics/view_js.tt:42
 #, perl-format
 msgid "Artists"
-msgstr ""
+msgstr "Artiesten"
 
 #: ../root/statistics/view_js.tt:113
 #, perl-format
@@ -622,22 +624,22 @@ msgstr ""
 #: ../root/statistics/view_js.tt:105
 #, perl-format
 msgid "Artists with gender set to female"
-msgstr ""
+msgstr "Artiesten met het geslacht vrouw"
 
 #: ../root/statistics/view_js.tt:104
 #, perl-format
 msgid "Artists with gender set to male"
-msgstr ""
+msgstr "Artiesten met het geslacht man"
 
 #: ../root/statistics/view_js.tt:106
 #, perl-format
 msgid "Artists with gender set to other"
-msgstr ""
+msgstr "Artiesten met het geslacht overig"
 
 #: ../root/statistics/view_js.tt:103
 #, perl-format
 msgid "Artists with gender unset (non-group artists)"
-msgstr ""
+msgstr "Artiesten (geen groepen) waarbij het geslacht niet is ingesteld"
 
 #: ../root/statistics/view_js.tt:114
 #, perl-format
@@ -647,47 +649,47 @@ msgstr ""
 #: ../root/statistics/view_js.tt:77
 #, perl-format
 msgid "Artists with no country set"
-msgstr ""
+msgstr "Artiesten waarbij het land niet is ingesteld"
 
 #: ../root/statistics/view_js.tt:109
 #, perl-format
 msgid "Artists with type set to group"
-msgstr ""
+msgstr "Artiesten van het type groep"
 
 #: ../root/statistics/view_js.tt:110
 #, perl-format
 msgid "Artists with type set to other"
-msgstr ""
+msgstr "Artiesten met het type overig"
 
 #: ../root/statistics/view_js.tt:108
 #, perl-format
 msgid "Artists with type set to person"
-msgstr ""
+msgstr "Artiesten met het type persoon"
 
 #: ../root/statistics/view_js.tt:111
 #, perl-format
 msgid "Artists with type unset"
-msgstr ""
+msgstr "Artiesten waarbij het type niet is ingesteld"
 
 #: ../root/statistics/index.tt:15 ../root/statistics/index.tt:114
 #, perl-format
 msgid "Artists:"
-msgstr ""
+msgstr "Artiesten:"
 
 #: ../root/statistics/view_js.tt:117
 #, perl-format
 msgid "Barcodes"
-msgstr ""
+msgstr "Streepjescodes"
 
 #: ../root/statistics/index.tt:97
 #, perl-format
 msgid "Barcodes:"
-msgstr ""
+msgstr "Streepjescodes:"
 
 #: ../root/statistics/index.tt:8
 #, perl-format
 msgid "Basic metadata"
-msgstr ""
+msgstr "Basisgegevens"
 
 #: ../root/statistics/coverart.tt:11
 #, perl-format
@@ -717,7 +719,7 @@ msgstr ""
 #: ../root/statistics/index.tt:56
 #, perl-format
 msgid "CD Stubs (all time / current):"
-msgstr ""
+msgstr "Cd-beginsels (altijd / nu):"
 
 #: ../root/statistics/view_js.tt:121
 #, perl-format
@@ -727,7 +729,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:119
 #, perl-format
 msgid "CDStubs (all)"
-msgstr ""
+msgstr "Cd-beginsels (totaal)"
 
 #: ../root/statistics/view_js.tt:120
 #, perl-format
@@ -737,37 +739,37 @@ msgstr ""
 #: ../root/statistics/view_js.tt:56
 #, perl-format
 msgid "Cancelled edits"
-msgstr ""
+msgstr "Geannuleerde wijzigingen"
 
 #: ../root/statistics/index.tt:476
 #, perl-format
 msgid "Cancelled:"
-msgstr ""
+msgstr "Geannuleerd:"
 
 #: ../root/statistics/timeline.tt:74
 #, perl-format
 msgid "Check boxes above"
-msgstr ""
+msgstr "Bovenstaande selectievakjes"
 
 #: ../root/statistics/timeline.tt:73
 #, perl-format
 msgid "Click to deselect"
-msgstr ""
+msgstr "Klik ergens in de grafiek"
 
 #: ../root/statistics/timeline.tt:70
 #, perl-format
 msgid "Controls"
-msgstr ""
+msgstr "Bediening"
 
 #: ../root/statistics/index.tt:12 ../root/statistics/view_js.tt:25
 #, perl-format
 msgid "Core Entities"
-msgstr ""
+msgstr "Kernobjecten"
 
 #: ../root/statistics/view_js.tt:75
 #, perl-format
 msgid "Count of active editors (editing or voting) during the last week"
-msgstr ""
+msgstr "Aantal actieve redacteuren (wijzigen of stemmen) gedurende de afgelopen week"
 
 #: ../root/statistics/view_js.tt:70
 #, perl-format
@@ -782,7 +784,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:157
 #, perl-format
 msgid "Count of all Artist Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen van artiesten"
 
 #: ../root/statistics/view_js.tt:163
 #, perl-format
@@ -797,57 +799,57 @@ msgstr ""
 #: ../root/statistics/view_js.tt:117
 #, perl-format
 msgid "Count of all Barcodes"
-msgstr ""
+msgstr "Totaal aantal streepjescodes"
 
 #: ../root/statistics/view_js.tt:121
 #, perl-format
 msgid "Count of all CDStub tracks"
-msgstr ""
+msgstr "Totaal aantal nummers van cd-beginsels"
 
 #: ../root/statistics/view_js.tt:119
 #, perl-format
 msgid "Count of all CDStubs"
-msgstr ""
+msgstr "Totaal aantal cd-beginsels"
 
 #: ../root/statistics/view_js.tt:120
 #, perl-format
 msgid "Count of all CDStubs ever submitted"
-msgstr ""
+msgstr "Totaal aantal ooit ingediende cd-beginsels"
 
 #: ../root/statistics/view_js.tt:122
 #, perl-format
 msgid "Count of all Disc IDs"
-msgstr ""
+msgstr "Totaal aantal disc-id's"
 
 #: ../root/statistics/view_js.tt:125
 #, perl-format
 msgid "Count of all IPIs"
-msgstr ""
+msgstr "Totaal aantal IPI's"
 
 #: ../root/statistics/view_js.tt:126
 #, perl-format
 msgid "Count of all IPIs for Artists"
-msgstr ""
+msgstr "Totaal aantal IPI's van artiesten"
 
 #: ../root/statistics/view_js.tt:127
 #, perl-format
 msgid "Count of all IPIs for Labels"
-msgstr ""
+msgstr "Totaal aantal IPI's van platenmaatschappijen"
 
 #: ../root/statistics/view_js.tt:128 ../root/statistics/view_js.tt:129
 #, perl-format
 msgid "Count of all ISRCs"
-msgstr ""
+msgstr "Totaal aantal ISRC's"
 
 #: ../root/statistics/view_js.tt:130 ../root/statistics/view_js.tt:131
 #, perl-format
 msgid "Count of all ISWCs"
-msgstr ""
+msgstr "Totaal aantal ISWC's"
 
 #: ../root/statistics/view_js.tt:158
 #, perl-format
 msgid "Count of all Label Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen van platenmaatschappijen"
 
 #: ../root/statistics/view_js.tt:164
 #, perl-format
@@ -862,32 +864,32 @@ msgstr ""
 #: ../root/statistics/view_js.tt:136
 #, perl-format
 msgid "Count of all Mediums with Disc IDs"
-msgstr ""
+msgstr "Totaal aantal media met disc-id's"
 
 #: ../root/statistics/view_js.tt:142
 #, perl-format
 msgid "Count of all Mediums with {n} Disc IDs"
-msgstr ""
+msgstr "Totaal aantal media met {n} disc-id's"
 
 #: ../root/statistics/view_js.tt:69
 #, perl-format
 msgid "Count of all No votes"
-msgstr ""
+msgstr "Totaal aantal tegenstemmen"
 
 #: ../root/statistics/view_js.tt:132 ../root/statistics/view_js.tt:133
 #, perl-format
 msgid "Count of all PUIDs"
-msgstr ""
+msgstr "Totaal aantal PUID's"
 
 #: ../root/statistics/view_js.tt:143
 #, perl-format
 msgid "Count of all PUIDs with {n} Recordings"
-msgstr ""
+msgstr "Totaal aantal PUID' met {n} opnames"
 
 #: ../root/statistics/view_js.tt:156
 #, perl-format
 msgid "Count of all Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen"
 
 #: ../root/statistics/view_js.tt:162
 #, perl-format
@@ -897,7 +899,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:159
 #, perl-format
 msgid "Count of all Recording Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen van opnames"
 
 #: ../root/statistics/view_js.tt:165
 #, perl-format
@@ -912,22 +914,22 @@ msgstr ""
 #: ../root/statistics/view_js.tt:138
 #, perl-format
 msgid "Count of all Recordings with ISRCs"
-msgstr ""
+msgstr "Totaal aantal opnames met ISRC's"
 
 #: ../root/statistics/view_js.tt:137
 #, perl-format
 msgid "Count of all Recordings with PUIDs"
-msgstr ""
+msgstr "Totaal aantal opnames met PUID's"
 
 #: ../root/statistics/view_js.tt:144
 #, perl-format
 msgid "Count of all Recordings with {n} PUIDs"
-msgstr ""
+msgstr "Totaal aantal opnames met {n} PUID's"
 
 #: ../root/statistics/view_js.tt:145
 #, perl-format
 msgid "Count of all Recordings with {n} Releases"
-msgstr ""
+msgstr "Totaal aantal opnames met {n} uitgaves"
 
 #: ../root/statistics/view_js.tt:178
 #, perl-format
@@ -937,7 +939,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:160
 #, perl-format
 msgid "Count of all Release Group Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen van uitgavegroepen"
 
 #: ../root/statistics/view_js.tt:166
 #, perl-format
@@ -952,7 +954,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:146
 #, perl-format
 msgid "Count of all Release Groups with {n} Releases"
-msgstr ""
+msgstr "Totaal aantal uitgavegroepen met {n} uitgaves"
 
 #: ../root/statistics/view_js.tt:174
 #, perl-format
@@ -962,52 +964,52 @@ msgstr ""
 #: ../root/statistics/view_js.tt:150
 #, perl-format
 msgid "Count of all Releases at Default Data Quality"
-msgstr ""
+msgstr "Totaal aantal uitgaves met een standaard gegevenskwaliteit"
 
 #: ../root/statistics/view_js.tt:153
 #, perl-format
 msgid "Count of all Releases at High Data Quality"
-msgstr ""
+msgstr "Totaal aantal uitgaves met een hoge gegevenskwaliteit"
 
 #: ../root/statistics/view_js.tt:154
 #, perl-format
 msgid "Count of all Releases at Low Data Quality"
-msgstr ""
+msgstr "Totaal aantal uitgaves met een lage gegevenskwaliteit"
 
 #: ../root/statistics/view_js.tt:152
 #, perl-format
 msgid "Count of all Releases at Normal Data Quality"
-msgstr ""
+msgstr "Totaal aantal uitgaves met een normale gegevenskwaliteit"
 
 #: ../root/statistics/view_js.tt:151
 #, perl-format
 msgid "Count of all Releases at Unknown Data Quality"
-msgstr ""
+msgstr "Totaal aantal uitgaves met een onbekende gegevenskwaliteit"
 
 #: ../root/statistics/view_js.tt:124
 #, perl-format
 msgid "Count of all Releases by Various Artists"
-msgstr ""
+msgstr "Totaal aantal uitgaves door diverse artiesten"
 
 #: ../root/statistics/view_js.tt:123
 #, perl-format
 msgid "Count of all Releases not V.A."
-msgstr ""
+msgstr "Totaal aantal uitgaves door een enkele artiest"
 
 #: ../root/statistics/view_js.tt:135
 #, perl-format
 msgid "Count of all Releases with Disc IDs"
-msgstr ""
+msgstr "Totaal aantal uitgaves met disc-id's"
 
 #: ../root/statistics/view_js.tt:141
 #, perl-format
 msgid "Count of all Releases with {n} Disc IDs"
-msgstr ""
+msgstr "Totaal aantal uitgaves met {n} disc-id's"
 
 #: ../root/statistics/view_js.tt:169
 #, perl-format
 msgid "Count of all Tags"
-msgstr ""
+msgstr "Totaal aantal etiketten"
 
 #: ../root/statistics/view_js.tt:170
 #, perl-format
@@ -1017,12 +1019,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:118
 #, perl-format
 msgid "Count of all Tracks"
-msgstr ""
+msgstr "Totaal aantal nummers"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
 msgid "Count of all Work Ratings"
-msgstr ""
+msgstr "Totaal aantal waarderingen voor composities"
 
 #: ../root/statistics/view_js.tt:167
 #, perl-format
@@ -1037,187 +1039,187 @@ msgstr ""
 #: ../root/statistics/view_js.tt:68
 #, perl-format
 msgid "Count of all Yes votes"
-msgstr ""
+msgstr "Totaal aantal voorstemmen"
 
 #: ../root/statistics/view_js.tt:42
 #, perl-format
 msgid "Count of all artists"
-msgstr ""
+msgstr "Totaal aantal artiesten"
 
 #: ../root/statistics/view_js.tt:72
 #, perl-format
 msgid "Count of all editors"
-msgstr ""
+msgstr "Totaal aantal redacteurs"
 
 #: ../root/statistics/view_js.tt:50
 #, perl-format
 msgid "Count of all edits"
-msgstr ""
+msgstr "Totaal aantal wijzigingen"
 
 #: ../root/statistics/view_js.tt:48
 #, perl-format
 msgid "Count of all labels"
-msgstr ""
+msgstr "Totaal aantal platenmaatschappijen"
 
 #: ../root/statistics/view_js.tt:45
 #, perl-format
 msgid "Count of all mediums"
-msgstr ""
+msgstr "Totaal aantal media"
 
 #: ../root/statistics/view_js.tt:43
 #, perl-format
 msgid "Count of all recordings"
-msgstr ""
+msgstr "Totaal aantal opnames"
 
 #: ../root/statistics/view_js.tt:47
 #, perl-format
 msgid "Count of all release groups"
-msgstr ""
+msgstr "Totale aantal uitgavegroepen"
 
 #: ../root/statistics/view_js.tt:46
 #, perl-format
 msgid "Count of all releases"
-msgstr ""
+msgstr "Totale aantal uitgaves"
 
 #: ../root/statistics/view_js.tt:64
 #, perl-format
 msgid "Count of all votes"
-msgstr ""
+msgstr "Totaal aantal stemmen"
 
 #: ../root/statistics/view_js.tt:44
 #, perl-format
 msgid "Count of all works"
-msgstr ""
+msgstr "Totaal aantal composities"
 
 #: ../root/statistics/view_js.tt:73
 #, perl-format
 msgid "Count of editors who have submitted edits during the last week"
-msgstr ""
+msgstr "Aantal redacteurs die afgelopen week wijzigingen hebben ingediend"
 
 #: ../root/statistics/view_js.tt:74
 #, perl-format
 msgid "Count of editors who have voted on during the last week"
-msgstr ""
+msgstr "Aantal redacteurs die afgelopen week hebben gestemd"
 
 #: ../root/statistics/view_js.tt:52
 #, perl-format
 msgid "Count of edits per day"
-msgstr ""
+msgstr "Aantal wijzigingen per dag"
 
 #: ../root/statistics/view_js.tt:53
 #, perl-format
 msgid "Count of edits per week"
-msgstr ""
+msgstr "Aantal wijzigingen per week"
 
 #: ../root/statistics/view_js.tt:51
 #, perl-format
 msgid "Count of open edits"
-msgstr ""
+msgstr "Aantal openstaande wijzigingen"
 
 #: ../root/statistics/view_js.tt:65
 #, perl-format
 msgid "Count of votes per day"
-msgstr ""
+msgstr "Aantal stemmen per dag"
 
 #: ../root/statistics/view_js.tt:66
 #, perl-format
 msgid "Count of votes per week"
-msgstr ""
+msgstr "Aantal stemmen per week"
 
 #: ../root/statistics/countries.tt:25
 #, perl-format
 msgid "Countries"
-msgstr ""
+msgstr "Landen"
 
 #: ../root/statistics/countries.tt:33
 #, perl-format
 msgid "Country"
-msgstr ""
+msgstr "Land"
 
 #: ../root/statistics/coverart.tt:4 ../root/statistics/view_js.tt:37
 #, perl-format
 msgid "Cover Art"
-msgstr ""
+msgstr "Hoesafbeelding(en)"
 
 #: ../root/statistics/index.tt:212
 #, perl-format
 msgid "Data Quality"
-msgstr ""
+msgstr "Gegevenskwaliteit"
 
 #: ../root/statistics/layout.tt:13 ../root/statistics/layout.tt:25
 #, perl-format
 msgid "Database Statistics"
-msgstr ""
+msgstr "Statistieken over de gegevensbank"
 
 #: ../root/statistics/view_js.tt:150
 #, perl-format
 msgid "Default Data Quality"
-msgstr ""
+msgstr "Standaard gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:227
 #, perl-format
 msgid "Default Data Quality:"
-msgstr ""
+msgstr "Standaard gegevenskwaliteit:"
 
 #: ../root/statistics/index.tt:254 ../root/statistics/view_js.tt:122
 #, perl-format
 msgid "Disc IDs"
-msgstr ""
+msgstr "Disc-id's"
 
 #: ../root/statistics/index.tt:93 ../root/statistics/index.tt:257
 #, perl-format
 msgid "Disc IDs:"
-msgstr ""
+msgstr "Disc-id's:"
 
 #: ../root/statistics/timeline.tt:72
 #, perl-format
 msgid "Draw a rectangle on either graph"
-msgstr ""
+msgstr "Trek een rechthoek op een grafiek"
 
 #: ../root/statistics/view_js.tt:26
 #, perl-format
 msgid "Edit Information"
-msgstr ""
+msgstr "Wijzig informatie"
 
 #: ../root/statistics/index.tt:401 ../root/statistics/view_js.tt:72
 #, perl-format
 msgid "Editors"
-msgstr ""
+msgstr "Redacteurs"
 
 #: ../root/statistics/index.tt:397
 #, perl-format
 msgid "Editors, Edits, and Votes"
-msgstr ""
+msgstr "Redacteurs, wijzigingen en stemmen"
 
 #: ../root/statistics/index.tt:48 ../root/statistics/index.tt:404
 #, perl-format
 msgid "Editors:"
-msgstr ""
+msgstr "Redacteurs:"
 
 #: ../root/statistics/index.tt:431 ../root/statistics/view_js.tt:50
 #, perl-format
 msgid "Edits"
-msgstr ""
+msgstr "Wijzigingen"
 
 #: ../root/statistics/view_js.tt:55
 #, perl-format
 msgid "Edits about to be cancelled"
-msgstr ""
+msgstr "Wijzigingen die spoedig geannuleerd worden"
 
 #: ../root/statistics/view_js.tt:52
 #, perl-format
 msgid "Edits per day"
-msgstr ""
+msgstr "Wijzigingen per dag"
 
 #: ../root/statistics/view_js.tt:53
 #, perl-format
 msgid "Edits per week"
-msgstr ""
+msgstr "Wijzigingen per week"
 
 #: ../root/statistics/index.tt:434 ../root/statistics/index.tt:481
 #, perl-format
 msgid "Edits:"
-msgstr ""
+msgstr "Wijzigingen:"
 
 #: ../root/statistics/view_js.tt:58
 #, perl-format
@@ -1237,7 +1239,7 @@ msgstr ""
 #: ../root/statistics/timeline.tt:82
 #, perl-format
 msgid "Exact Values (items vs. day)"
-msgstr ""
+msgstr "Exacte waardes (objecten uitgezet tegen de datum)"
 
 #: ../root/statistics/index.tt:458
 #, perl-format
@@ -1247,7 +1249,7 @@ msgstr ""
 #: ../root/statistics/index.tt:470
 #, perl-format
 msgid "Failed (internal error):"
-msgstr ""
+msgstr "Mislukt (interne fout):"
 
 #: ../root/statistics/index.tt:464
 #, perl-format
@@ -1272,17 +1274,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:105
 #, perl-format
 msgid "Female Artists"
-msgstr ""
+msgstr "Vrouwelijke artiesten"
 
 #: ../root/statistics/index.tt:167
 #, perl-format
 msgid "Female:"
-msgstr ""
+msgstr "Vrouw:"
 
 #: ../root/statistics/formats.tt:27
 #, perl-format
 msgid "Format"
-msgstr ""
+msgstr "Type medium"
 
 #: ../root/statistics/view_js.tt:36
 #, perl-format
@@ -1292,82 +1294,82 @@ msgstr ""
 #: ../root/statistics/view_js.tt:109
 #, perl-format
 msgid "Groups"
-msgstr ""
+msgstr "Groepen"
 
 #: ../root/statistics/view_js.tt:153
 #, perl-format
 msgid "High Data Quality"
-msgstr ""
+msgstr "Hoge gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:221
 #, perl-format
 msgid "High Data Quality:"
-msgstr ""
+msgstr "Hoge gegevenskwaliteit:"
 
 #: ../root/statistics/timeline.tt:75
 #, perl-format
 msgid "Hover and click on vertical lines"
-msgstr ""
+msgstr "Beweeg over de verticale lijnen en klik er op"
 
 #: ../root/statistics/view_js.tt:125
 #, perl-format
 msgid "IPIs"
-msgstr ""
+msgstr "IPI's"
 
 #: ../root/statistics/index.tt:101
 #, perl-format
 msgid "IPIs:"
-msgstr ""
+msgstr "IPI's:"
 
 #: ../root/statistics/view_js.tt:128
 #, perl-format
 msgid "ISRCs"
-msgstr ""
+msgstr "ISRC's"
 
 #: ../root/statistics/index.tt:85
 #, perl-format
 msgid "ISRCs (all / unique):"
-msgstr ""
+msgstr "ISRC's (totaal / uniek):"
 
 #: ../root/statistics/view_js.tt:129
 #, perl-format
 msgid "ISRCs (all)"
-msgstr ""
+msgstr "ISRC's (totaal)"
 
 #: ../root/statistics/view_js.tt:130
 #, perl-format
 msgid "ISWCs"
-msgstr ""
+msgstr "ISWC's"
 
 #: ../root/statistics/index.tt:89
 #, perl-format
 msgid "ISWCs (all / unique):"
-msgstr ""
+msgstr "ISWC's (totaal / uniek):"
 
 #: ../root/statistics/view_js.tt:131
 #, perl-format
 msgid "ISWCs (all)"
-msgstr ""
+msgstr "ISWC's (totaal)"
 
 #: ../root/statistics/index.tt:78
 #, perl-format
 msgid "Identifiers"
-msgstr ""
+msgstr "Identificatoren"
 
 #: ../root/statistics/view_js.tt:28
 #, perl-format
 msgid "Label Countries"
-msgstr ""
+msgstr "Vestigingslanden van platenmaatschappijen"
 
 #: ../root/statistics/view_js.tt:127
 #, perl-format
 msgid "Label IPIs"
-msgstr ""
+msgstr "IPI's van platenmaatschappijen"
 
 #: ../root/statistics/view_js.tt:158
 #, perl-format
 msgid "Label Ratings"
-msgstr ""
+msgstr "Waarderingen van de platenmaatschappij"
 
 #: ../root/statistics/view_js.tt:164
 #, perl-format
@@ -1382,126 +1384,126 @@ msgstr ""
 #: ../root/statistics/index.tt:608
 #, perl-format
 msgid "Label-Label:"
-msgstr ""
+msgstr "Platenmaatschappij-Platenmaatschappij:"
 
 #: ../root/statistics/index.tt:614
 #, perl-format
 msgid "Label-Recording:"
-msgstr ""
+msgstr "Platenmaatschappij-Opname:"
 
 #: ../root/statistics/index.tt:626
 #, perl-format
 msgid "Label-Release Group:"
-msgstr ""
+msgstr "Platenmaatschappij-Uitgavegroep:"
 
 #: ../root/statistics/index.tt:620
 #, perl-format
 msgid "Label-Release:"
-msgstr ""
+msgstr "Platenmaatschappij-Uitgave:"
 
 #: ../root/statistics/index.tt:632
 #, perl-format
 msgid "Label-URL:"
-msgstr ""
+msgstr "Platenmaatschappij-URL:"
 
 #: ../root/statistics/index.tt:638
 #, perl-format
 msgid "Label-Work:"
-msgstr ""
+msgstr "Platenmaatschappij-Compositie:"
 
 #: ../root/statistics/countries.tt:36 ../root/statistics/view_js.tt:48
 #, perl-format
 msgid "Labels"
-msgstr ""
+msgstr "Platenmaatschappijen"
 
 #: ../root/statistics/view_js.tt:78
 #, perl-format
 msgid "Labels with no country set"
-msgstr ""
+msgstr "Platenmaatschappijen zonder land"
 
 #: ../root/statistics/index.tt:35
 #, perl-format
 msgid "Labels:"
-msgstr ""
+msgstr "Platenmaatschappijen:"
 
 #: ../root/statistics/languages_scripts.tt:40
 #, perl-format
 msgid "Language"
-msgstr ""
+msgstr "Taal"
 
 #: ../root/statistics/languages_scripts.tt:35
 #, perl-format
 msgid "Languages"
-msgstr ""
+msgstr "Talen"
 
 #: ../root/statistics/languages_scripts.tt:29
 #, perl-format
 msgid "Languages and Scripts"
-msgstr ""
+msgstr "Talen en schriften"
 
 #: ../root/statistics/index.tt:487 ../root/statistics/index.tt:539
 #, perl-format
 msgid "Last Week:"
-msgstr ""
+msgstr "Vorige week:"
 
 #: ../root/statistics/countries.tt:27 ../root/statistics/coverart.tt:9
 #: ../root/statistics/formats.tt:20 ../root/statistics/index.tt:6
 #: ../root/statistics/languages_scripts.tt:31
 #, perl-format
 msgid "Last updated: {date}"
-msgstr ""
+msgstr "Het laatst bijgewerkt: {date}"
 
 #: ../root/statistics/timeline.tt:59
 #, perl-format
 msgid "Legend"
-msgstr ""
+msgstr "Legenda"
 
 #: ../root/statistics/view_js.tt:154
 #, perl-format
 msgid "Low Data Quality"
-msgstr ""
+msgstr "Lage gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:247
 #, perl-format
 msgid "Low Data Quality:"
-msgstr ""
+msgstr "Lage gegevenskwaliteit:"
 
 #: ../root/statistics/view_js.tt:104
 #, perl-format
 msgid "Male Artists"
-msgstr ""
+msgstr "Mannelijke artiesten"
 
 #: ../root/statistics/index.tt:161
 #, perl-format
 msgid "Male:"
-msgstr ""
+msgstr "Man:"
 
 #: ../root/statistics/formats.tt:30 ../root/statistics/view_js.tt:45
 #, perl-format
 msgid "Mediums"
-msgstr ""
+msgstr "Media"
 
 #: ../root/statistics/view_js.tt:142
 #, perl-format
 msgid "Mediums with 1 Disc ID"
 msgid_plural "Mediums with {n} Disc IDs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Media met 1 disc-id"
+msgstr[1] "Media met {n} disc-id's"
 
 #: ../root/statistics/view_js.tt:136
 #, perl-format
 msgid "Mediums with Disc IDs"
-msgstr ""
+msgstr "Media met disc-id's"
 
 #: ../root/statistics/index.tt:307
 #, perl-format
 msgid "Mediums with at least one disc ID:"
-msgstr ""
+msgstr "Media met ten minste één disc-id:"
 
 #: ../root/statistics/index.tt:301
 #, perl-format
 msgid "Mediums with no disc IDs:"
-msgstr ""
+msgstr "Media zonder disc-id's:"
 
 #: ../root/statistics/view_js.tt:97
 #, perl-format
@@ -1511,22 +1513,22 @@ msgstr ""
 #: ../root/statistics/index.tt:27 ../root/statistics/index.tt:295
 #, perl-format
 msgid "Mediums:"
-msgstr ""
+msgstr "Media:"
 
 #: ../root/statistics/timeline.tt:63
 #, perl-format
 msgid "MusicBrainz Events"
-msgstr ""
+msgstr "Gebeurtenissen op MusicBrainz"
 
 #: ../root/statistics/timeline.tt:75
 #, perl-format
 msgid "MusicBrainz Events:"
-msgstr ""
+msgstr "Gebeurtenissen op MusicBrainz:"
 
 #: ../root/statistics/view_js.tt:69
 #, perl-format
 msgid "No Votes"
-msgstr ""
+msgstr "Geen stemmen"
 
 #: ../root/statistics/coverart.tt:73
 #, perl-format
@@ -1546,47 +1548,47 @@ msgstr ""
 #: ../root/statistics/index.tt:522
 #, perl-format
 msgid "No:"
-msgstr ""
+msgstr "Tegen:"
 
 #: ../root/statistics/index.tt:155
 #, perl-format
 msgid "Non-group artists:"
-msgstr ""
+msgstr "Artiesten die geen groep zijn:"
 
 #: ../root/statistics/view_js.tt:152
 #, perl-format
 msgid "Normal Data Quality"
-msgstr ""
+msgstr "Normale gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:234
 #, perl-format
 msgid "Normal Data Quality:"
-msgstr ""
+msgstr "Normale gegevenskwaliteit:"
 
 #: ../root/statistics/view_js.tt:51
 #, perl-format
 msgid "Open Edits"
-msgstr ""
+msgstr "Openstaande wijzigingen"
 
 #: ../root/statistics/index.tt:440
 #, perl-format
 msgid "Open:"
-msgstr ""
+msgstr "Openstaand:"
 
 #: ../root/statistics/view_js.tt:39
 #, perl-format
 msgid "Other"
-msgstr ""
+msgstr "Overig"
 
 #: ../root/statistics/index.tt:45
 #, perl-format
 msgid "Other Entities"
-msgstr ""
+msgstr "Andere objecten"
 
 #: ../root/statistics/index.tt:173
 #, perl-format
 msgid "Other gender:"
-msgstr ""
+msgstr "Andere geslachten:"
 
 #: ../root/statistics/view_js.tt:106
 #, perl-format
@@ -1601,12 +1603,12 @@ msgstr ""
 #: ../root/statistics/index.tt:1
 #, perl-format
 msgid "Overview"
-msgstr ""
+msgstr "Overzicht"
 
 #: ../root/statistics/index.tt:368 ../root/statistics/view_js.tt:132
 #, perl-format
 msgid "PUIDs"
-msgstr ""
+msgstr "PUID's"
 
 #: ../root/statistics/view_js.tt:133
 #, perl-format
@@ -1616,7 +1618,7 @@ msgstr ""
 #: ../root/statistics/index.tt:81
 #, perl-format
 msgid "PUIDs (all / unique):"
-msgstr ""
+msgstr "PUID's (totaal / uniek):"
 
 #: ../root/statistics/index.tt:376
 #, perl-format
@@ -1626,14 +1628,14 @@ msgstr ""
 #: ../root/statistics/index.tt:371
 #, perl-format
 msgid "PUIDs (on recordings):"
-msgstr ""
+msgstr "PUID's (op opnames):"
 
 #: ../root/statistics/view_js.tt:143
 #, perl-format
 msgid "PUIDs with 1 Recording"
 msgid_plural "PUIDs with {n} Recordings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "PUID's met één opname"
+msgstr[1] "PUID's met {n} opnames"
 
 #: ../root/statistics/coverart.tt:101
 #, perl-format
@@ -1643,7 +1645,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:108
 #, perl-format
 msgid "Persons"
-msgstr ""
+msgstr "Personen"
 
 #: ../root/statistics/view_js.tt:185
 #, perl-format
@@ -1666,22 +1668,22 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:60
 #, perl-format
 msgid "Rank"
-msgstr ""
+msgstr "Rang"
 
 #: ../root/statistics/timeline.tt:84
 #, perl-format
 msgid "Rate of Change (average items/day vs. day)"
-msgstr ""
+msgstr "Veranderingssnelheid (gemiddeld aantal objecten per dag uitgezet tegen de datum)"
 
 #: ../root/statistics/timeline.tt:67
 #, perl-format
 msgid "Rate of Change Graph"
-msgstr ""
+msgstr "Veranderingssnelheidsgrafiek"
 
 #: ../root/statistics/view_js.tt:156
 #, perl-format
 msgid "Ratings"
-msgstr ""
+msgstr "Waarderingen"
 
 #: ../root/statistics/index.tt:68
 #, perl-format
@@ -1696,12 +1698,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:35
 #, perl-format
 msgid "Ratings and Tags"
-msgstr ""
+msgstr "Beoordelingen en etiketten"
 
 #: ../root/statistics/view_js.tt:159
 #, perl-format
 msgid "Recording Ratings"
-msgstr ""
+msgstr "Waarderingen van de opname"
 
 #: ../root/statistics/view_js.tt:165
 #, perl-format
@@ -1716,76 +1718,76 @@ msgstr ""
 #: ../root/statistics/index.tt:644
 #, perl-format
 msgid "Recording-Recording:"
-msgstr ""
+msgstr "Opname-Opname:"
 
 #: ../root/statistics/index.tt:656
 #, perl-format
 msgid "Recording-Release Group:"
-msgstr ""
+msgstr "Opname-Uitgavegroep:"
 
 #: ../root/statistics/index.tt:650
 #, perl-format
 msgid "Recording-Release:"
-msgstr ""
+msgstr "Opname-Uitgave:"
 
 #: ../root/statistics/index.tt:662
 #, perl-format
 msgid "Recording-URL:"
-msgstr ""
+msgstr "Opname-URl:"
 
 #: ../root/statistics/index.tt:668
 #, perl-format
 msgid "Recording-Work:"
-msgstr ""
+msgstr "Opname-Compositie:"
 
 #: ../root/statistics/index.tt:334 ../root/statistics/view_js.tt:43
 #, perl-format
 msgid "Recordings"
-msgstr ""
+msgstr "Opnames"
 
 #: ../root/statistics/index.tt:330
 #, perl-format
 msgid "Recordings and PUIDs"
-msgstr ""
+msgstr "Opnames en PUID's"
 
 #: ../root/statistics/view_js.tt:144
 #, perl-format
 msgid "Recordings with 1 PUID"
 msgid_plural "Recordings with {n} PUIDs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Opnames met één PUID"
+msgstr[1] "Opnames met {n} PUID's"
 
 #: ../root/statistics/view_js.tt:145
 #, perl-format
 msgid "Recordings with 1 Release"
 msgid_plural "Recordings with {n} Releases"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Opnames met één uitgave"
+msgstr[1] "Opnames met {n} uitgaves"
 
 #: ../root/statistics/view_js.tt:138
 #, perl-format
 msgid "Recordings with ISRCs"
-msgstr ""
+msgstr "Opnames met ISRC's"
 
 #: ../root/statistics/view_js.tt:137
 #, perl-format
 msgid "Recordings with PUIDs"
-msgstr ""
+msgstr "Opnames met PUID's"
 
 #: ../root/statistics/index.tt:347
 #, perl-format
 msgid "Recordings with at least one PUID:"
-msgstr ""
+msgstr "Opnames met ten minste één PUID:"
 
 #: ../root/statistics/index.tt:342
 #, perl-format
 msgid "Recordings with no PUIDs:"
-msgstr ""
+msgstr "Opnames zonder PUID's"
 
 #: ../root/statistics/index.tt:31 ../root/statistics/index.tt:337
 #, perl-format
 msgid "Recordings:"
-msgstr ""
+msgstr "Opnames:"
 
 #: ../root/statistics/index.tt:553 ../root/statistics/index.tt:557
 #: ../root/statistics/view_js.tt:33 ../root/statistics/view_js.tt:178
@@ -1801,17 +1803,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:29
 #, perl-format
 msgid "Release Countries"
-msgstr ""
+msgstr "Landen van uitgave"
 
 #: ../root/statistics/view_js.tt:34
 #, perl-format
 msgid "Release Data Quality"
-msgstr ""
+msgstr "Gegevenskwaliteit van de uitgave"
 
 #: ../root/statistics/view_js.tt:160
 #, perl-format
 msgid "Release Group Ratings"
-msgstr ""
+msgstr "Waarderingen van de uitgavegroep"
 
 #: ../root/statistics/view_js.tt:166
 #, perl-format
@@ -1826,39 +1828,39 @@ msgstr ""
 #: ../root/statistics/index.tt:698
 #, perl-format
 msgid "Release Group-Release Group:"
-msgstr ""
+msgstr "Uitgavegroep-Uitgavegroep"
 
 #: ../root/statistics/index.tt:704
 #, perl-format
 msgid "Release Group-URL:"
-msgstr ""
+msgstr "Uitgavegroep-URL:"
 
 #: ../root/statistics/index.tt:710
 #, perl-format
 msgid "Release Group-Work:"
-msgstr ""
+msgstr "Uitgavegroep-Compositie"
 
 #: ../root/statistics/view_js.tt:47
 #, perl-format
 msgid "Release Groups"
-msgstr ""
+msgstr "Uitgavegroepen"
 
 #: ../root/statistics/view_js.tt:146
 #, perl-format
 msgid "Release Groups with 1 Release"
 msgid_plural "Release Groups with {n} Releases"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Uitgavegroepen met 1 uitgave"
+msgstr[1] "Uitgavegroepen met {n} uitgaves"
 
 #: ../root/statistics/view_js.tt:31
 #, perl-format
 msgid "Release Languages"
-msgstr ""
+msgstr "Talen van de uitgave"
 
 #: ../root/statistics/view_js.tt:30
 #, perl-format
 msgid "Release Scripts"
-msgstr ""
+msgstr "Schriften van de uitgave"
 
 #: ../root/statistics/view_js.tt:174
 #, perl-format
@@ -1868,32 +1870,32 @@ msgstr ""
 #: ../root/statistics/index.tt:19
 #, perl-format
 msgid "Release groups:"
-msgstr ""
+msgstr "Uitgavegroepen:"
 
 #: ../root/statistics/index.tt:680
 #, perl-format
 msgid "Release-Release Group:"
-msgstr ""
+msgstr "Uitgave-Uitgavegroep:"
 
 #: ../root/statistics/index.tt:674
 #, perl-format
 msgid "Release-Release:"
-msgstr ""
+msgstr "Uitgave-Uitgave:"
 
 #: ../root/statistics/index.tt:686
 #, perl-format
 msgid "Release-URL:"
-msgstr ""
+msgstr "Uitgave-URL:"
 
 #: ../root/statistics/index.tt:692
 #, perl-format
 msgid "Release-Work:"
-msgstr ""
+msgstr "Uitgave-Compositie:"
 
 #: ../root/statistics/formats.tt:18 ../root/statistics/formats.tt:22
 #, perl-format
 msgid "Release/Medium Formats"
-msgstr ""
+msgstr "Type uitgave/medium"
 
 #: ../root/statistics/countries.tt:35 ../root/statistics/coverart.tt:27
 #: ../root/statistics/formats.tt:28 ../root/statistics/index.tt:190
@@ -1901,12 +1903,12 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:62 ../root/statistics/view_js.tt:46
 #, perl-format
 msgid "Releases"
-msgstr ""
+msgstr "Uitgaves"
 
 #: ../root/statistics/view_js.tt:124
 #, perl-format
 msgid "Releases (VA)"
-msgstr ""
+msgstr "Uitgaves (Diverse Artiesten)"
 
 #: ../root/statistics/view_js.tt:123
 #, perl-format
@@ -1917,8 +1919,8 @@ msgstr ""
 #, perl-format
 msgid "Releases with 1 Disc ID"
 msgid_plural "Releases with {n} Disc IDs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Uitgaves met één disc-id"
+msgstr[1] "Uitgaves met {n} disc-id's"
 
 #: ../root/statistics/view_js.tt:186
 #, perl-format
@@ -1928,7 +1930,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:135
 #, perl-format
 msgid "Releases with Disc IDs"
-msgstr ""
+msgstr "Uitgaves met disc-id's"
 
 #: ../root/statistics/view_js.tt:96
 #, perl-format
@@ -1938,7 +1940,7 @@ msgstr ""
 #: ../root/statistics/index.tt:274
 #, perl-format
 msgid "Releases with at least one disc ID:"
-msgstr ""
+msgstr "Uitgaves met ten minste één disc-id:"
 
 #: ../root/statistics/coverart.tt:15 ../root/statistics/coverart.tt:34
 #: ../root/statistics/coverart.tt:50 ../root/statistics/coverart.tt:66
@@ -1949,48 +1951,48 @@ msgstr ""
 #: ../root/statistics/view_js.tt:79
 #, perl-format
 msgid "Releases with no country set"
-msgstr ""
+msgstr "Uitgaves waarvan het land niet is ingesteld"
 
 #: ../root/statistics/index.tt:268
 #, perl-format
 msgid "Releases with no disc IDs:"
-msgstr ""
+msgstr "Uitgaves zonder disc-id's:"
 
 #: ../root/statistics/view_js.tt:91
 #, perl-format
 msgid "Releases with no language set"
-msgstr ""
+msgstr "Uitgaves waarbij de taal niet is ingesteld"
 
 #: ../root/statistics/view_js.tt:86
 #, perl-format
 msgid "Releases with no script set"
-msgstr ""
+msgstr "Uitgaves waarbij het schrift niet is ingesteld"
 
 #: ../root/statistics/index.tt:186
 #, perl-format
 msgid "Releases, Data Quality, and Disc IDs"
-msgstr ""
+msgstr "Uitgaves, gegevenskwaliteit en disc-id's"
 
 #: ../root/statistics/index.tt:23 ../root/statistics/index.tt:193
 #: ../root/statistics/index.tt:215 ../root/statistics/index.tt:262
 #, perl-format
 msgid "Releases:"
-msgstr ""
+msgstr "Uitgaves:"
 
 #: ../root/statistics/timeline.tt:73
 #, perl-format
 msgid "Reset:"
-msgstr ""
+msgstr "Originele grootte:"
 
 #: ../root/statistics/languages_scripts.tt:61
 #, perl-format
 msgid "Script"
-msgstr ""
+msgstr "Schrift"
 
 #: ../root/statistics/languages_scripts.tt:56
 #, perl-format
 msgid "Scripts"
-msgstr ""
+msgstr "Schriften"
 
 #: ../root/statistics/index.tt:60
 #, perl-format
@@ -2005,23 +2007,23 @@ msgstr ""
 #: ../root/statistics/timeline.tt:81
 #, perl-format
 msgid "Timeline Graph"
-msgstr ""
+msgstr "Tijdslijngrafiek"
 
 #: ../root/statistics/view_js.tt:55
 #, perl-format
 msgid "To-be-cancelled edits"
-msgstr ""
+msgstr "Wijzigingen die geannuleerd gaan worden"
 
 #: ../root/statistics/countries.tt:37 ../root/statistics/formats.tt:37
 #: ../root/statistics/languages_scripts.tt:43
 #, perl-format
 msgid "Total"
-msgstr ""
+msgstr "Totaal"
 
 #: ../root/statistics/view_js.tt:118
 #, perl-format
 msgid "Tracks"
-msgstr ""
+msgstr "Nummers"
 
 #: ../root/statistics/index.tt:716
 #, perl-format
@@ -2031,28 +2033,28 @@ msgstr ""
 #: ../root/statistics/index.tt:722
 #, perl-format
 msgid "URL-Work:"
-msgstr ""
+msgstr "URL-Compositie:"
 
 #: ../root/statistics/countries.tt:16 ../root/statistics/view_js.tt:77
 #: ../root/statistics/view_js.tt:78 ../root/statistics/view_js.tt:79
 #, perl-format
 msgid "Unknown Country"
-msgstr ""
+msgstr "Onbekend land"
 
 #: ../root/statistics/view_js.tt:151
 #, perl-format
 msgid "Unknown Data Quality"
-msgstr ""
+msgstr "Onbekende gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:241
 #, perl-format
 msgid "Unknown Data Quality:"
-msgstr ""
+msgstr "Onbekende gegevenskwaliteit:"
 
 #: ../root/statistics/formats.tt:5
 #, perl-format
 msgid "Unknown Format"
-msgstr ""
+msgstr "Onbekend mediatype"
 
 #: ../root/statistics/view_js.tt:97
 #, perl-format
@@ -2067,32 +2069,32 @@ msgstr ""
 #: ../root/statistics/view_js.tt:91
 #, perl-format
 msgid "Unknown Language"
-msgstr ""
+msgstr "Onbekende taal"
 
 #: ../root/statistics/view_js.tt:86
 #, perl-format
 msgid "Unknown Script"
-msgstr ""
+msgstr "Onbekend schrift"
 
 #: ../root/statistics/languages_scripts.tt:5
 #, perl-format
 msgid "Unknown language"
-msgstr ""
+msgstr "Onbekende taal"
 
 #: ../root/statistics/languages_scripts.tt:12
 #, perl-format
 msgid "Unknown script"
-msgstr ""
+msgstr "Onbekend schrift"
 
 #: ../root/statistics/view_js.tt:103
 #, perl-format
 msgid "Unknown-gender Artists"
-msgstr ""
+msgstr "Artiesten met onbekend geslacht"
 
 #: ../root/statistics/view_js.tt:111
 #, perl-format
 msgid "Unknown-type Artists"
-msgstr ""
+msgstr "Artiesten van een onbekend type"
 
 #: ../root/statistics/index.tt:452
 #, perl-format
@@ -2102,27 +2104,27 @@ msgstr ""
 #: ../root/statistics/index.tt:501 ../root/statistics/view_js.tt:64
 #, perl-format
 msgid "Votes"
-msgstr ""
+msgstr "Stemmen"
 
 #: ../root/statistics/view_js.tt:65
 #, perl-format
 msgid "Votes per day"
-msgstr ""
+msgstr "Stemmen per dag"
 
 #: ../root/statistics/view_js.tt:66
 #, perl-format
 msgid "Votes per week"
-msgstr ""
+msgstr "Stemmen per week"
 
 #: ../root/statistics/index.tt:504 ../root/statistics/index.tt:533
 #, perl-format
 msgid "Votes:"
-msgstr ""
+msgstr "Stemmen:"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
 msgid "Work Ratings"
-msgstr ""
+msgstr "Compositiewaarderingen"
 
 #: ../root/statistics/view_js.tt:167
 #, perl-format
@@ -2137,52 +2139,52 @@ msgstr ""
 #: ../root/statistics/index.tt:728
 #, perl-format
 msgid "Work-Work:"
-msgstr ""
+msgstr "Compositie-Compositie:"
 
 #: ../root/statistics/languages_scripts.tt:42 ../root/statistics/view_js.tt:44
 #, perl-format
 msgid "Works"
-msgstr ""
+msgstr "Composities"
 
 #: ../root/statistics/index.tt:39
 #, perl-format
 msgid "Works:"
-msgstr ""
+msgstr "Composities:"
 
 #: ../root/statistics/view_js.tt:68
 #, perl-format
 msgid "Yes Votes"
-msgstr ""
+msgstr "Voorstemmen"
 
 #: ../root/statistics/index.tt:516
 #, perl-format
 msgid "Yes:"
-msgstr ""
+msgstr "Voor:"
 
 #: ../root/statistics/index.tt:494 ../root/statistics/index.tt:546
 #, perl-format
 msgid "Yesterday:"
-msgstr ""
+msgstr "Gisteren:"
 
 #: ../root/statistics/timeline.tt:72
 #, perl-format
 msgid "Zoom:"
-msgstr ""
+msgstr "Vergroten:"
 
 #: ../root/statistics/index.tt:410
 #, perl-format
 msgid "active last week:"
-msgstr ""
+msgstr "vorige week actief"
 
 #: ../root/statistics/index.tt:205
 #, perl-format
 msgid "by a single artist:"
-msgstr ""
+msgstr "door één artiest:"
 
 #: ../root/statistics/index.tt:199
 #, perl-format
 msgid "by various artists:"
-msgstr ""
+msgstr "door diverse artiesten:"
 
 #: ../root/statistics/view_js.tt:182
 #, perl-format
@@ -2197,44 +2199,44 @@ msgstr ""
 #: ../root/statistics/index.tt:132
 #, perl-format
 msgid "of type Other:"
-msgstr ""
+msgstr "van het type overig:"
 
 #: ../root/statistics/index.tt:120
 #, perl-format
 msgid "of type Person:"
-msgstr ""
+msgstr "met het type persoon:"
 
 #: ../root/statistics/index.tt:383
 #, perl-format
 msgid "which identify 1 recording:"
 msgid_plural "which identify {num} recordings:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "die één opname identificeren:"
+msgstr[1] "die {num} opnames identificeren:"
 
 #: ../root/statistics/index.tt:390
 #, perl-format
 msgid "which identify 10+ recordings:"
-msgstr ""
+msgstr "die meer dan tien opnames identificeren:"
 
 #: ../root/statistics/index.tt:417
 #, perl-format
 msgid "who edited last week:"
-msgstr ""
+msgstr "die vorige week wijzigen aangebracht hebben:"
 
 #: ../root/statistics/index.tt:424
 #, perl-format
 msgid "who voted last week:"
-msgstr ""
+msgstr "die vorige week gestemd hebben:"
 
 #: ../root/statistics/index.tt:361
 #, perl-format
 msgid "with 10 or more PUIDs:"
-msgstr ""
+msgstr "met tien of meer PUID's"
 
 #: ../root/statistics/index.tt:290 ../root/statistics/index.tt:323
 #, perl-format
 msgid "with 10 or more disc IDs:"
-msgstr ""
+msgstr "met tien of meer disc-id's:"
 
 #: ../root/statistics/coverart.tt:118
 #, perl-format
@@ -2254,26 +2256,26 @@ msgstr ""
 #: ../root/statistics/index.tt:179
 #, perl-format
 msgid "with no gender set:"
-msgstr ""
+msgstr "Waarvan het geslacht niet is ingesteld:"
 
 #: ../root/statistics/index.tt:138
 #, perl-format
 msgid "with no type set:"
-msgstr ""
+msgstr "Waarvan het type niet is ingesteld:"
 
 #: ../root/statistics/index.tt:354
 #, perl-format
 msgid "with {num} PUID:"
 msgid_plural "with {num} PUIDs:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "met {num} PUID:"
+msgstr[1] "met {num} PUID's:"
 
 #: ../root/statistics/index.tt:282 ../root/statistics/index.tt:315
 #, perl-format
 msgid "with {num} disc ID:"
 msgid_plural "with {num} disc IDs:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "met {num} disc-id:"
+msgstr[1] "met {num} disc-id's:"
 
 #: ../root/statistics/coverart.tt:111
 #, perl-format
@@ -2285,22 +2287,22 @@ msgstr[1] ""
 #: ../root/statistics/view_js.tt:81
 #, perl-format
 msgid "{country} artists"
-msgstr ""
+msgstr "artiesten uit {country}"
 
 #: ../root/statistics/view_js.tt:82
 #, perl-format
 msgid "{country} labels"
-msgstr ""
+msgstr "platenmaatschappijen uit {country}"
 
 #: ../root/statistics/view_js.tt:83
 #, perl-format
 msgid "{country} releases"
-msgstr ""
+msgstr "uitgaves uit {country}"
 
 #: ../root/statistics/view_js.tt:93
 #, perl-format
 msgid "{language} releases"
-msgstr ""
+msgstr "uitgaves in het {language}"
 
 #: ../root/statistics/view_js.tt:100
 #, perl-format
@@ -2310,7 +2312,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:99
 #, perl-format
 msgid "{name} releases"
-msgstr ""
+msgstr "uitgaves met de naam {name}"
 
 #: ../root/statistics/coverart.tt:17 ../root/statistics/coverart.tt:43
 #: ../root/statistics/coverart.tt:59 ../root/statistics/coverart.tt:75
@@ -2362,4 +2364,4 @@ msgstr ""
 #: ../root/statistics/view_js.tt:88
 #, perl-format
 msgid "{script} releases"
-msgstr ""
+msgstr "uitgaves met het {script} schrift"
