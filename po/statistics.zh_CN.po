@@ -1,10 +1,21 @@
 # 
 # Translators:
+#  <>, 2002, 2001, Inc, 2003, 2007, 2008, 2009, 2010, 2011, 2000,�s�, 2012.
+#   Alastair McKinstry <email address hidden>, 2002.
+# Alastair McKinstry <email address hidden>, 2001.
+#   Free Software Foundation, Inc., 2002, 2003, 2007, 2008.
+#   <email address hidden>, 2012.
+# Ger <email address hidden>, 2012.
+#   LI Daobing <email address hidden>, 2007, 2008, 2009, 2010, 2011.
+# LI Daobing <email address hidden>, 2007, 2008, 2009, 2010.
+#   Tobias Toedter <email address hidden>, 2007.
+#   - Wang Jian <email address hidden>, 2000.
+# YunQiang Su <email address hidden>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-05-24 18:54+0000\n"
+"PO-Revision-Date: 2012-05-29 23:03+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/musicbrainz/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -394,7 +405,7 @@ msgstr ""
 #: DB:statistic_event/title:2007-10-17 ../root/statistics/view_js.tt:169
 #, perl-format
 msgid "Tags"
-msgstr ""
+msgstr "标签"
 
 #: DB:statistic_event/description:2007-06-28
 msgid ""
@@ -451,7 +462,7 @@ msgstr ""
 #: ../root/statistics/formats.tt:39 ../root/statistics/formats.tt:41
 #, perl-format
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: ../root/statistics/index.tt:528
 #, perl-format
@@ -531,7 +542,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:27
 #, perl-format
 msgid "Artist Countries"
-msgstr ""
+msgstr "艺人国家"
 
 #: ../root/statistics/view_js.tt:116
 #, perl-format
@@ -541,12 +552,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:126
 #, perl-format
 msgid "Artist IPIs"
-msgstr ""
+msgstr "艺人艺人IPI"
 
 #: ../root/statistics/view_js.tt:157
 #, perl-format
 msgid "Artist Ratings"
-msgstr ""
+msgstr "艺人分级"
 
 #: ../root/statistics/view_js.tt:163
 #, perl-format
@@ -566,43 +577,43 @@ msgstr ""
 #: ../root/statistics/index.tt:566
 #, perl-format
 msgid "Artist-Artist:"
-msgstr ""
+msgstr "艺人-艺人："
 
 #: ../root/statistics/index.tt:572
 #, perl-format
 msgid "Artist-Label:"
-msgstr ""
+msgstr "艺人-唱片公司："
 
 #: ../root/statistics/index.tt:578
 #, perl-format
 msgid "Artist-Recording:"
-msgstr ""
+msgstr "艺人-录音："
 
 #: ../root/statistics/index.tt:590
 #, perl-format
 msgid "Artist-Release Group:"
-msgstr ""
+msgstr "艺人-发行团"
 
 #: ../root/statistics/index.tt:584
 #, perl-format
 msgid "Artist-Release:"
-msgstr ""
+msgstr "艺人-发行版："
 
 #: ../root/statistics/index.tt:596
 #, perl-format
 msgid "Artist-URL:"
-msgstr ""
+msgstr "艺人-URL："
 
 #: ../root/statistics/index.tt:602
 #, perl-format
 msgid "Artist-Work:"
-msgstr ""
+msgstr "艺人-作品："
 
 #: ../root/statistics/countries.tt:34 ../root/statistics/index.tt:107
 #: ../root/statistics/index.tt:111 ../root/statistics/view_js.tt:42
 #, perl-format
 msgid "Artists"
-msgstr ""
+msgstr "艺人"
 
 #: ../root/statistics/view_js.tt:113
 #, perl-format
@@ -672,17 +683,17 @@ msgstr ""
 #: ../root/statistics/index.tt:15 ../root/statistics/index.tt:114
 #, perl-format
 msgid "Artists:"
-msgstr ""
+msgstr "艺人："
 
 #: ../root/statistics/view_js.tt:117
 #, perl-format
 msgid "Barcodes"
-msgstr ""
+msgstr "条形码"
 
 #: ../root/statistics/index.tt:97
 #, perl-format
 msgid "Barcodes:"
-msgstr ""
+msgstr "条形码："
 
 #: ../root/statistics/index.tt:8
 #, perl-format
@@ -737,12 +748,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:56
 #, perl-format
 msgid "Cancelled edits"
-msgstr ""
+msgstr "取消的修改"
 
 #: ../root/statistics/index.tt:476
 #, perl-format
 msgid "Cancelled:"
-msgstr ""
+msgstr "取消的："
 
 #: ../root/statistics/timeline.tt:74
 #, perl-format
@@ -1127,17 +1138,17 @@ msgstr ""
 #: ../root/statistics/countries.tt:25
 #, perl-format
 msgid "Countries"
-msgstr ""
+msgstr "国家"
 
 #: ../root/statistics/countries.tt:33
 #, perl-format
 msgid "Country"
-msgstr ""
+msgstr "国家"
 
 #: ../root/statistics/coverart.tt:4 ../root/statistics/view_js.tt:37
 #, perl-format
 msgid "Cover Art"
-msgstr ""
+msgstr "封面图像"
 
 #: ../root/statistics/index.tt:212
 #, perl-format
@@ -1182,7 +1193,7 @@ msgstr ""
 #: ../root/statistics/index.tt:401 ../root/statistics/view_js.tt:72
 #, perl-format
 msgid "Editors"
-msgstr ""
+msgstr "编者"
 
 #: ../root/statistics/index.tt:397
 #, perl-format
@@ -1192,12 +1203,12 @@ msgstr ""
 #: ../root/statistics/index.tt:48 ../root/statistics/index.tt:404
 #, perl-format
 msgid "Editors:"
-msgstr ""
+msgstr "编者："
 
 #: ../root/statistics/index.tt:431 ../root/statistics/view_js.tt:50
 #, perl-format
 msgid "Edits"
-msgstr ""
+msgstr "修改"
 
 #: ../root/statistics/view_js.tt:55
 #, perl-format
@@ -1217,7 +1228,7 @@ msgstr ""
 #: ../root/statistics/index.tt:434 ../root/statistics/index.tt:481
 #, perl-format
 msgid "Edits:"
-msgstr ""
+msgstr "修改："
 
 #: ../root/statistics/view_js.tt:58
 #, perl-format
@@ -1272,7 +1283,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:105
 #, perl-format
 msgid "Female Artists"
-msgstr ""
+msgstr "女性艺人"
 
 #: ../root/statistics/index.tt:167
 #, perl-format
@@ -1312,17 +1323,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:125
 #, perl-format
 msgid "IPIs"
-msgstr ""
+msgstr "IPI"
 
 #: ../root/statistics/index.tt:101
 #, perl-format
 msgid "IPIs:"
-msgstr ""
+msgstr "IPI："
 
 #: ../root/statistics/view_js.tt:128
 #, perl-format
 msgid "ISRCs"
-msgstr ""
+msgstr "ISRC"
 
 #: ../root/statistics/index.tt:85
 #, perl-format
@@ -1337,7 +1348,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:130
 #, perl-format
 msgid "ISWCs"
-msgstr ""
+msgstr "ISWC"
 
 #: ../root/statistics/index.tt:89
 #, perl-format
@@ -1357,17 +1368,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:28
 #, perl-format
 msgid "Label Countries"
-msgstr ""
+msgstr "唱片公司国家"
 
 #: ../root/statistics/view_js.tt:127
 #, perl-format
 msgid "Label IPIs"
-msgstr ""
+msgstr "唱片公司 IPI"
 
 #: ../root/statistics/view_js.tt:158
 #, perl-format
 msgid "Label Ratings"
-msgstr ""
+msgstr "唱片公司分级"
 
 #: ../root/statistics/view_js.tt:164
 #, perl-format
@@ -1382,37 +1393,37 @@ msgstr ""
 #: ../root/statistics/index.tt:608
 #, perl-format
 msgid "Label-Label:"
-msgstr ""
+msgstr "唱片公司-唱片公司："
 
 #: ../root/statistics/index.tt:614
 #, perl-format
 msgid "Label-Recording:"
-msgstr ""
+msgstr "唱片公司-录音："
 
 #: ../root/statistics/index.tt:626
 #, perl-format
 msgid "Label-Release Group:"
-msgstr ""
+msgstr "唱片公司-发行团："
 
 #: ../root/statistics/index.tt:620
 #, perl-format
 msgid "Label-Release:"
-msgstr ""
+msgstr "唱片公司-发行版："
 
 #: ../root/statistics/index.tt:632
 #, perl-format
 msgid "Label-URL:"
-msgstr ""
+msgstr "唱片公司-URL："
 
 #: ../root/statistics/index.tt:638
 #, perl-format
 msgid "Label-Work:"
-msgstr ""
+msgstr "唱片公司-作品："
 
 #: ../root/statistics/countries.tt:36 ../root/statistics/view_js.tt:48
 #, perl-format
 msgid "Labels"
-msgstr ""
+msgstr "唱片公司"
 
 #: ../root/statistics/view_js.tt:78
 #, perl-format
@@ -1422,7 +1433,7 @@ msgstr ""
 #: ../root/statistics/index.tt:35
 #, perl-format
 msgid "Labels:"
-msgstr ""
+msgstr "唱片公司："
 
 #: ../root/statistics/languages_scripts.tt:40
 #, perl-format
@@ -1469,17 +1480,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:104
 #, perl-format
 msgid "Male Artists"
-msgstr ""
+msgstr "男性艺人"
 
 #: ../root/statistics/index.tt:161
 #, perl-format
 msgid "Male:"
-msgstr ""
+msgstr "男性："
 
 #: ../root/statistics/formats.tt:30 ../root/statistics/view_js.tt:45
 #, perl-format
 msgid "Mediums"
-msgstr ""
+msgstr "媒介"
 
 #: ../root/statistics/view_js.tt:142
 #, perl-format
@@ -1510,7 +1521,7 @@ msgstr ""
 #: ../root/statistics/index.tt:27 ../root/statistics/index.tt:295
 #, perl-format
 msgid "Mediums:"
-msgstr ""
+msgstr "媒介："
 
 #: ../root/statistics/timeline.tt:63
 #, perl-format
@@ -1575,7 +1586,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:39
 #, perl-format
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 #: ../root/statistics/index.tt:45
 #, perl-format
@@ -1605,7 +1616,7 @@ msgstr ""
 #: ../root/statistics/index.tt:368 ../root/statistics/view_js.tt:132
 #, perl-format
 msgid "PUIDs"
-msgstr ""
+msgstr "PUID"
 
 #: ../root/statistics/view_js.tt:133
 #, perl-format
@@ -1679,7 +1690,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:156
 #, perl-format
 msgid "Ratings"
-msgstr ""
+msgstr "分级"
 
 #: ../root/statistics/index.tt:68
 #, perl-format
@@ -1714,7 +1725,7 @@ msgstr ""
 #: ../root/statistics/index.tt:644
 #, perl-format
 msgid "Recording-Recording:"
-msgstr ""
+msgstr "录音-录音："
 
 #: ../root/statistics/index.tt:656
 #, perl-format
@@ -1724,22 +1735,22 @@ msgstr ""
 #: ../root/statistics/index.tt:650
 #, perl-format
 msgid "Recording-Release:"
-msgstr ""
+msgstr "录音-发行版："
 
 #: ../root/statistics/index.tt:662
 #, perl-format
 msgid "Recording-URL:"
-msgstr ""
+msgstr "录音-URL："
 
 #: ../root/statistics/index.tt:668
 #, perl-format
 msgid "Recording-Work:"
-msgstr ""
+msgstr "录音-作品："
 
 #: ../root/statistics/index.tt:334 ../root/statistics/view_js.tt:43
 #, perl-format
 msgid "Recordings"
-msgstr ""
+msgstr "录音"
 
 #: ../root/statistics/index.tt:330
 #, perl-format
@@ -1761,7 +1772,7 @@ msgstr[0] ""
 #: ../root/statistics/view_js.tt:138
 #, perl-format
 msgid "Recordings with ISRCs"
-msgstr ""
+msgstr "有ISRC的录音"
 
 #: ../root/statistics/view_js.tt:137
 #, perl-format
@@ -1781,7 +1792,7 @@ msgstr ""
 #: ../root/statistics/index.tt:31 ../root/statistics/index.tt:337
 #, perl-format
 msgid "Recordings:"
-msgstr ""
+msgstr "录音："
 
 #: ../root/statistics/index.tt:553 ../root/statistics/index.tt:557
 #: ../root/statistics/view_js.tt:33 ../root/statistics/view_js.tt:178
@@ -1807,7 +1818,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:160
 #, perl-format
 msgid "Release Group Ratings"
-msgstr ""
+msgstr "发行团分级"
 
 #: ../root/statistics/view_js.tt:166
 #, perl-format
@@ -1822,22 +1833,22 @@ msgstr ""
 #: ../root/statistics/index.tt:698
 #, perl-format
 msgid "Release Group-Release Group:"
-msgstr ""
+msgstr "发行团-发行团："
 
 #: ../root/statistics/index.tt:704
 #, perl-format
 msgid "Release Group-URL:"
-msgstr ""
+msgstr "发行团-URL："
 
 #: ../root/statistics/index.tt:710
 #, perl-format
 msgid "Release Group-Work:"
-msgstr ""
+msgstr "发行团-作品："
 
 #: ../root/statistics/view_js.tt:47
 #, perl-format
 msgid "Release Groups"
-msgstr ""
+msgstr "发行团"
 
 #: ../root/statistics/view_js.tt:146
 #, perl-format
@@ -1848,7 +1859,7 @@ msgstr[0] ""
 #: ../root/statistics/view_js.tt:31
 #, perl-format
 msgid "Release Languages"
-msgstr ""
+msgstr "发行团语言"
 
 #: ../root/statistics/view_js.tt:30
 #, perl-format
@@ -1863,27 +1874,27 @@ msgstr ""
 #: ../root/statistics/index.tt:19
 #, perl-format
 msgid "Release groups:"
-msgstr ""
+msgstr "发行团："
 
 #: ../root/statistics/index.tt:680
 #, perl-format
 msgid "Release-Release Group:"
-msgstr ""
+msgstr "发行版-发行团："
 
 #: ../root/statistics/index.tt:674
 #, perl-format
 msgid "Release-Release:"
-msgstr ""
+msgstr "发行版-发行版："
 
 #: ../root/statistics/index.tt:686
 #, perl-format
 msgid "Release-URL:"
-msgstr ""
+msgstr "发行版-URL："
 
 #: ../root/statistics/index.tt:692
 #, perl-format
 msgid "Release-Work:"
-msgstr ""
+msgstr "发行版-作品："
 
 #: ../root/statistics/formats.tt:18 ../root/statistics/formats.tt:22
 #, perl-format
@@ -1896,7 +1907,7 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:62 ../root/statistics/view_js.tt:46
 #, perl-format
 msgid "Releases"
-msgstr ""
+msgstr "发行版"
 
 #: ../root/statistics/view_js.tt:124
 #, perl-format
@@ -1969,7 +1980,7 @@ msgstr ""
 #: ../root/statistics/index.tt:215 ../root/statistics/index.tt:262
 #, perl-format
 msgid "Releases:"
-msgstr ""
+msgstr "发行版："
 
 #: ../root/statistics/timeline.tt:73
 #, perl-format
@@ -2015,23 +2026,23 @@ msgstr ""
 #: ../root/statistics/view_js.tt:118
 #, perl-format
 msgid "Tracks"
-msgstr ""
+msgstr "音轨"
 
 #: ../root/statistics/index.tt:716
 #, perl-format
 msgid "URL-URL:"
-msgstr ""
+msgstr "URL-URL："
 
 #: ../root/statistics/index.tt:722
 #, perl-format
 msgid "URL-Work:"
-msgstr ""
+msgstr "URL-作品："
 
 #: ../root/statistics/countries.tt:16 ../root/statistics/view_js.tt:77
 #: ../root/statistics/view_js.tt:78 ../root/statistics/view_js.tt:79
 #, perl-format
 msgid "Unknown Country"
-msgstr ""
+msgstr "未知国家"
 
 #: ../root/statistics/view_js.tt:151
 #, perl-format
@@ -2136,12 +2147,12 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:42 ../root/statistics/view_js.tt:44
 #, perl-format
 msgid "Works"
-msgstr ""
+msgstr "作品"
 
 #: ../root/statistics/index.tt:39
 #, perl-format
 msgid "Works:"
-msgstr ""
+msgstr "作品："
 
 #: ../root/statistics/view_js.tt:68
 #, perl-format

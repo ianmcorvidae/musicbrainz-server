@@ -1,10 +1,21 @@
 # 
 # Translators:
+#  <>, 2002, 2001, Inc, 2003, 2007, 2008, 2009, 2010, 2011, 2000,�s�, 2012.
+#   Alastair McKinstry <email address hidden>, 2002.
+# Alastair McKinstry <email address hidden>, 2001.
+#   Free Software Foundation, Inc., 2002, 2003, 2007, 2008.
+#   <email address hidden>, 2012.
+# Ger <email address hidden>, 2012.
+#   LI Daobing <email address hidden>, 2007, 2008, 2009, 2010, 2011.
+# LI Daobing <email address hidden>, 2007, 2008, 2009, 2010.
+#   Tobias Toedter <email address hidden>, 2007.
+#   - Wang Jian <email address hidden>, 2000.
+# YunQiang Su <email address hidden>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-05-24 18:50+0000\n"
+"PO-Revision-Date: 2012-05-29 23:02+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/musicbrainz/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -15,12 +26,12 @@ msgstr ""
 
 #: DB:link_type/link_phrase:77 DB:link_type/reverse_link_phrase:77
 msgid "ASIN"
-msgstr ""
+msgstr "ASIN"
 
 #: DB:link_type/link_phrase:283 DB:link_type/link_phrase:284
 #: DB:link_type/link_phrase:285 DB:link_type/reverse_link_phrase:286
 msgid "Allmusic"
-msgstr ""
+msgstr "Allmusic"
 
 #: DB:link_type/link_phrase:286 DB:link_type/reverse_link_phrase:283
 #: DB:link_type/reverse_link_phrase:284 DB:link_type/reverse_link_phrase:285
@@ -29,11 +40,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:190
 msgid "BBC Music"
-msgstr ""
+msgstr "BBC Music"
 
 #: DB:link_type/reverse_link_phrase:190
 msgid "BBC Music page for"
-msgstr ""
+msgstr "BBC Music 页为"
 
 #: DB:link_attribute_type/description:12
 msgid "Background vocal"
@@ -168,7 +179,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:76 DB:link_type/reverse_link_phrase:180
 #: DB:link_type/reverse_link_phrase:217 DB:link_type/reverse_link_phrase:90
 msgid "Discogs page for"
-msgstr ""
+msgstr "Discogs 页为"
 
 #: DB:link_attribute_type/name:545
 msgid "EP"
@@ -184,16 +195,16 @@ msgstr ""
 #: DB:link_type/link_phrase:99 DB:link_type/link_phrase:195
 #: DB:link_type/reverse_link_phrase:275
 msgid "IBDb"
-msgstr ""
+msgstr "IBDb"
 
 #: DB:link_type/link_phrase:275 DB:link_type/reverse_link_phrase:99
 #: DB:link_type/reverse_link_phrase:195
 msgid "IBDb page for"
-msgstr ""
+msgstr "IBDb 页为"
 
 #: DB:link_type/link_phrase:97 DB:link_type/link_phrase:178
 msgid "IMDb"
-msgstr ""
+msgstr "IMDb"
 
 #: DB:link_type/reverse_link_phrase:83 DB:link_type/reverse_link_phrase:258
 msgid "IMDb entry sampled in"
@@ -201,7 +212,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:97 DB:link_type/reverse_link_phrase:178
 msgid "IMDb page for"
-msgstr ""
+msgstr "IMDb 页为"
 
 #: DB:link_type/link_phrase:100 DB:link_type/link_phrase:196
 #: DB:link_type/reverse_link_phrase:276
@@ -1740,7 +1751,7 @@ msgstr ""
 #: DB:link_type/link_phrase:86 DB:link_type/link_phrase:191
 #: DB:link_type/link_phrase:210
 msgid "VGMdb"
-msgstr ""
+msgstr "VGMdb"
 
 #: DB:link_type/reverse_link_phrase:86 DB:link_type/reverse_link_phrase:191
 #: DB:link_type/reverse_link_phrase:210
@@ -1991,7 +2002,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:78
 msgid "cover art"
-msgstr ""
+msgstr "封面图像"
 
 #: DB:link_type/reverse_link_phrase:78
 msgid "cover art for"
@@ -2590,39 +2601,39 @@ msgstr ""
 
 #: DB:link_attribute_type/name:570
 msgid "medium 1"
-msgstr ""
+msgstr "媒介 1"
 
 #: DB:link_attribute_type/name:569
 msgid "medium 2"
-msgstr ""
+msgstr "媒介 2"
 
 #: DB:link_attribute_type/name:571
 msgid "medium 3"
-msgstr ""
+msgstr "媒介 3"
 
 #: DB:link_attribute_type/name:577
 msgid "medium 4"
-msgstr ""
+msgstr "媒介 4"
 
 #: DB:link_attribute_type/name:576
 msgid "medium 5"
-msgstr ""
+msgstr "媒介 5"
 
 #: DB:link_attribute_type/name:575
 msgid "medium 6"
-msgstr ""
+msgstr "媒介 6"
 
 #: DB:link_attribute_type/name:574
 msgid "medium 7"
-msgstr ""
+msgstr "媒介 7"
 
 #: DB:link_attribute_type/name:573
 msgid "medium 8"
-msgstr ""
+msgstr "媒介 8"
 
 #: DB:link_attribute_type/name:572
 msgid "medium 9"
-msgstr ""
+msgstr "媒介 9"
 
 #: DB:link_type/link_phrase:239 DB:link_type/link_phrase:244
 msgid "medley of"
@@ -2710,7 +2721,7 @@ msgstr ""
 
 #: DB:link_attribute_type/name:246 DB:link_attribute_type/name:461
 msgid "other"
-msgstr ""
+msgstr "其它"
 
 #: DB:link_type/link_phrase:96 DB:link_type/link_phrase:82
 #: DB:link_type/link_phrase:188 DB:link_type/link_phrase:222

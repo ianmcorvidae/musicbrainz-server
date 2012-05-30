@@ -1,10 +1,21 @@
 # 
 # Translators:
+#  <>, 2002, 2001, Inc, 2003, 2007, 2008, 2009, 2010, 2011, 2000,�s�, 2012.
+#   Alastair McKinstry <email address hidden>, 2002.
+# Alastair McKinstry <email address hidden>, 2001.
+#   Free Software Foundation, Inc., 2002, 2003, 2007, 2008.
+#   <email address hidden>, 2012.
+# Ger <email address hidden>, 2012.
+#   LI Daobing <email address hidden>, 2007, 2008, 2009, 2010, 2011.
+# LI Daobing <email address hidden>, 2007, 2008, 2009, 2010.
+#   Tobias Toedter <email address hidden>, 2007.
+#   - Wang Jian <email address hidden>, 2000.
+# YunQiang Su <email address hidden>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-05-29 16:41+0000\n"
+"PO-Revision-Date: 2012-05-29 23:02+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
 "Language-Team: Chinese (China) (http://www.transifex.net/projects/p/musicbrainz/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -16,27 +27,27 @@ msgstr ""
 #: DB:medium_format/name:30
 msgctxt "medium_format"
 msgid "10\" Vinyl"
-msgstr ""
+msgstr "10寸乙烯基"
 
 #: DB:medium_format/name:31
 msgctxt "medium_format"
 msgid "12\" Vinyl"
-msgstr ""
+msgstr "12寸乙烯基"
 
 #: DB:medium_format/name:29
 msgctxt "medium_format"
 msgid "7\" Vinyl"
-msgstr ""
+msgstr "7寸乙烯基"
 
 #: DB:medium_format/name:34
 msgctxt "medium_format"
 msgid "8cm CD"
-msgstr ""
+msgstr "8cm CD"
 
 #: DB:release_group_primary_type/name:1
 msgctxt "release_group_primary_type"
 msgid "Album"
-msgstr ""
+msgstr "专辑"
 
 #: DB:work_type/name:1
 msgctxt "work_type"
@@ -61,7 +72,7 @@ msgstr ""
 #: DB:medium_format/name:20
 msgctxt "medium_format"
 msgid "Blu-ray"
-msgstr ""
+msgstr "蓝光"
 
 #: DB:release_status/name:3
 msgctxt "release_status"
@@ -76,12 +87,12 @@ msgstr ""
 #: DB:medium_format/name:1
 msgctxt "medium_format"
 msgid "CD"
-msgstr ""
+msgstr "CD"
 
 #: DB:medium_format/name:33
 msgctxt "medium_format"
 msgid "CD-R"
-msgstr ""
+msgstr "CD-R"
 
 #: DB:work_type/name:3
 msgctxt "work_type"
@@ -101,7 +112,7 @@ msgstr ""
 #: DB:medium_format/name:8
 msgctxt "medium_format"
 msgid "Cassette"
-msgstr ""
+msgstr "磁带"
 
 #: DB:release_group_secondary_type/name:1
 msgctxt "release_group_secondary_type"
@@ -131,17 +142,17 @@ msgstr ""
 #: DB:medium_format/name:2
 msgctxt "medium_format"
 msgid "DVD"
-msgstr ""
+msgstr "DVD"
 
 #: DB:medium_format/name:18
 msgctxt "medium_format"
 msgid "DVD-Audio"
-msgstr ""
+msgstr "DVD-Audio"
 
 #: DB:medium_format/name:19
 msgctxt "medium_format"
 msgid "DVD-Video"
-msgstr ""
+msgstr "DVD-Video"
 
 #: DB:release_packaging/name:3
 msgctxt "release_packaging"
@@ -171,7 +182,7 @@ msgstr ""
 #: DB:gender/name:2
 msgctxt "gender"
 msgid "Female"
-msgstr ""
+msgstr "女性"
 
 #: DB:artist_type/name:2
 msgctxt "artist_type"
@@ -226,7 +237,7 @@ msgstr ""
 #: DB:gender/name:1
 msgctxt "gender"
 msgid "Male"
-msgstr ""
+msgstr "男性"
 
 #: DB:work_type/name:8
 msgctxt "work_type"
@@ -251,7 +262,7 @@ msgstr ""
 #: DB:release_packaging/name:7
 msgctxt "release_packaging"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: DB:release_status/name:1
 msgctxt "release_status"
@@ -276,27 +287,27 @@ msgstr ""
 #: DB:artist_type/name:3
 msgctxt "artist_type"
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 #: DB:release_group_primary_type/name:11
 msgctxt "release_group_primary_type"
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 #: DB:medium_format/name:13
 msgctxt "medium_format"
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 #: DB:release_packaging/name:5
 msgctxt "release_packaging"
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 #: DB:gender/name:3
 msgctxt "gender"
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 #: DB:work_type/name:12
 msgctxt "work_type"
@@ -366,17 +377,17 @@ msgstr ""
 #: DB:medium_format/name:3
 msgctxt "medium_format"
 msgid "SACD"
-msgstr ""
+msgstr "SACD"
 
 #: DB:medium_format/name:23
 msgctxt "medium_format"
 msgid "SVCD"
-msgstr ""
+msgstr "SVCD"
 
 #: DB:release_group_primary_type/name:2
 msgctxt "release_group_primary_type"
 msgid "Single"
-msgstr ""
+msgstr "单曲"
 
 #: DB:release_packaging/name:2
 msgctxt "release_packaging"
@@ -436,12 +447,12 @@ msgstr ""
 #: DB:medium_format/name:22
 msgctxt "medium_format"
 msgid "VCD"
-msgstr ""
+msgstr "VCD"
 
 #: DB:medium_format/name:21
 msgctxt "medium_format"
 msgid "VHS"
-msgstr ""
+msgstr "VHS"
 
 #: DB:medium_format/name:32
 msgctxt "medium_format"
@@ -451,7 +462,7 @@ msgstr ""
 #: DB:medium_format/name:7
 msgctxt "medium_format"
 msgid "Vinyl"
-msgstr ""
+msgstr "乙烯基"
 
 #: DB:medium_format/name:14
 msgctxt "medium_format"
