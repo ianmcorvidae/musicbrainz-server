@@ -6,7 +6,7 @@
 #   <email address hidden>, 2012.
 # Benjamin <email address hidden>, 2011.
 # Benjamin Sonntag <email address hidden>, 2011, 2012.
-# Benjamin Sonntag <email address hidden>, 2011.
+# Benjamin Sonntag <email address hidden>, 2011, 2012.
 # Dibou  <email address hidden>, 2012.
 # murdos <email address hidden>, 2011.
 msgid ""
@@ -14,8 +14,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-29 23:18+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-05-30 18:19+0000\n"
+"Last-Translator: Benjamin Sonntag <email address hidden>\n"
 "Language-Team: French (France) (http://www.transifex.net/projects/p/musicbrainz/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,7 +39,7 @@ msgstr " Saisissez votre nom d'utilisateur et votre adresse e-mail ci-dessous. N
 #: ../root/work/add_iswc.tt:8
 #, perl-format
 msgid "\"C\" is a single check digit."
-msgstr ""
+msgstr "\"C\" est un chiffre de contrôle, unique."
 
 #: ../root/recording/add_isrc.tt:8
 #, perl-format
@@ -49,7 +49,7 @@ msgstr "\"CC\" doit être utilisé pour le code à 2 caractères du pays d'enreg
 #: ../root/work/add_iswc.tt:7
 #, perl-format
 msgid "\"DDD\" is a nine digit work identifier."
-msgstr ""
+msgstr "\"DDDD\" est l'identifiant à 9 chiffres d'un travail"
 
 #: ../root/recording/add_isrc.tt:12
 #, perl-format
@@ -95,12 +95,12 @@ msgstr "✕"
 #: ../root/relationship/linktype/tree.tt:38
 #, perl-format
 msgid "&lt; Back to all relationship types"
-msgstr ""
+msgstr "&lt; Retour à la liste des types de relation"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:29
 #, perl-format
 msgid "&ndash; {enddate}"
-msgstr ""
+msgstr "&ndash; {enddate}"
 
 #: ../root/components/tag-cloud.tt:26
 #, perl-format
@@ -110,7 +110,7 @@ msgstr "'{tag}' a été utilisé {num} fois"
 #: ../root/components/aliases.tt:38
 #, perl-format
 msgid "(<span class=\"comment\">primary</span>)"
-msgstr ""
+msgstr "(<span class=\"comment\">primaire</span>)"
 
 #: ../root/user/profile.tt:28
 #, perl-format
@@ -136,7 +136,7 @@ msgstr "(cliquer ici pour afficher l'annotation)"
 #: ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "(ended)"
-msgstr ""
+msgstr "(terminé)"
 
 #: ../root/user/profile.tt:20
 #, perl-format
@@ -173,7 +173,7 @@ msgstr "(pas de log de changement)"
 #: ../root/release/add_cover_art.tt:26
 #, perl-format
 msgid "(no other cover art)"
-msgstr ""
+msgstr "(aucune autre jaquette)"
 
 #: ../root/edit/details/add_relationship_type.tt:9
 #: ../root/edit/details/historic/add_release_annotation.tt:21
@@ -220,7 +220,7 @@ msgstr "(était le média {position} de la sortie {release})"
 #: ../root/release/merge.tt:58
 #, perl-format
 msgid "(was medium {position}: {name} on release {release})"
-msgstr "(était le média {position}: {nom} de la sortie {release})"
+msgstr "(était le média {position} : {nom} de la sortie {release})"
 
 #: ../root/recording/layout.tt:19 ../root/work/layout.tt:21
 #, perl-format
@@ -480,7 +480,7 @@ msgstr "Ajouter un modèle de CD"
 #: ../root/release/cover_art.tt:49
 #, perl-format
 msgid "Add Cover Art"
-msgstr ""
+msgstr "Ajouter une jaquette"
 
 #: ../root/release/edit/tracklist.tt:167 ../root/release/edit/tracklist.tt:293
 #: ../root/release/edit/tracklist.tt:492
@@ -592,7 +592,7 @@ msgstr "Ajouter un nouveau groupe de sorties"
 #: ../root/account/edit.tt:44
 #, perl-format
 msgid "Add a language"
-msgstr ""
+msgstr "Ajouter une langue"
 
 #: ../root/components/aliases.tt:63
 #, perl-format
@@ -655,7 +655,7 @@ msgstr "Ajouter un alias d'artiste"
 #: ../root/relationship/linkattributetype/common.tt:24
 #, perl-format
 msgid "Add child"
-msgstr ""
+msgstr "Ajouter un fils"
 
 #: ../root/cdstub/layout.tt:23
 #, perl-format
@@ -692,7 +692,7 @@ msgstr "Ajouter un nouvel enregistrement"
 #: ../root/edit/index.tt:86
 #, perl-format
 msgid "Add note and votes"
-msgstr ""
+msgstr "Ajouter une note et des votes"
 
 #: ../root/artist/layout.tt:74
 #, perl-format
@@ -765,7 +765,7 @@ msgstr "Ajouter un alias d'œuvre"
 #: ../root/components/forms.tt:114
 #, perl-format
 msgid "Add {item}"
-msgstr ""
+msgstr "Ajouter {item}"
 
 #: ../root/release/edit/tracklist.tt:451
 #, perl-format
@@ -820,7 +820,7 @@ msgstr "Administration"
 #: ../root/admin/edit_user.tt:15
 #, perl-format
 msgid "Administration flags"
-msgstr ""
+msgstr "Attributs d'administration"
 
 #: ../root/layout/sidebar/sidebar-affiliates.tt:7
 #, perl-format
@@ -830,7 +830,7 @@ msgstr "Liens d'affiliation"
 #: ../root/user/profile.tt:57
 #, perl-format
 msgid "Age:"
-msgstr ""
+msgstr "Âge :"
 
 #: ../root/components/aliases.tt:6
 #, perl-format
@@ -910,7 +910,7 @@ msgstr "Déjà expiré"
 #: ../root/release/edit/recordings.tt:358
 #, perl-format
 msgid "Also update the recording with track changes"
-msgstr ""
+msgstr "Met aussi à jour les enregistrements en même temps que les pistes"
 
 #: ../root/search/results-artist.tt:7
 #, perl-format
@@ -991,7 +991,7 @@ msgstr "Annotation"
 #: ../root/annotation/edit.tt:34
 #, perl-format
 msgid "Annotation Formatting"
-msgstr ""
+msgstr "Format des annotations"
 
 #: ../root/annotation/diff.tt:2 ../root/artist/annotation_diff.tt:1
 #: ../root/label/annotation_diff.tt:1 ../root/recording/annotation_diff.tt:1
@@ -1034,7 +1034,7 @@ msgstr "Annotation :"
 #: ../root/annotation/edit.tt:35
 #, perl-format
 msgid "Annotations support a limited set of wiki formatting options:"
-msgstr ""
+msgstr "Vous pouvez utilisez une syntaxe wiki limitée dans les annotations :"
 
 #: ../root/artist/relationships.tt:9
 #, perl-format
@@ -1055,7 +1055,7 @@ msgstr "Ajouter ces médias à la release cible"
 #: ../root/edit/search_macros.tt:235
 #, perl-format
 msgid "Approve"
-msgstr ""
+msgstr "Approuve"
 
 #: ../root/edit/edit_header.tt:77 ../root/edit/info.tt:17
 #, perl-format
@@ -1081,7 +1081,7 @@ msgstr "Êtes-vous sûr de vouloir déplacer {release} par {release_artist} dans
 msgid ""
 "Are you sure that you wish to attach the disc ID <code>{discid}</code> to "
 "{format} {pos} of {release} by {artist}?"
-msgstr ""
+msgstr "Voulez-vous vraiment rattacher le disc ID <code>{discid}</code> à {format} {pos} de la sortie {release} par {artiste} ?"
 
 #: ../root/admin/delete_user.tt:4
 #, perl-format
@@ -1186,7 +1186,7 @@ msgstr ""
 msgid ""
 "Are you sure you wish to remove the below cover art from {release} by "
 "{artist}?"
-msgstr ""
+msgstr "Voulez-vous vraiment enlever la jaquette ci-dessous de la sortie {release} par {artist} ?"
 
 #: ../root/label/delete.tt:8
 #, perl-format
@@ -1380,7 +1380,7 @@ msgstr "Artistes"
 #: ../root/report/index.tt:22
 #, perl-format
 msgid "Artists containing disambiguation comments in their name"
-msgstr ""
+msgstr "Artistes contenant des commentaires de désambiguation dans leur nom"
 
 #: ../root/browse/artist.tt:8
 #, perl-format
@@ -1391,7 +1391,7 @@ msgstr "Artistes commençant par \"{index}\""
 #: ../root/report/possible_collaborations.tt:3
 #, perl-format
 msgid "Artists that may be collaborations"
-msgstr ""
+msgstr "Artistes qui sont peut-être des collaborations"
 
 #: ../root/report/artists_that_may_be_groups.tt:1
 #: ../root/report/artists_that_may_be_groups.tt:3 ../root/report/index.tt:17
@@ -1413,7 +1413,7 @@ msgstr "Artistes ayant travaillé ensemble"
 #: ../root/report/index.tt:21
 #, perl-format
 msgid "Artists which look like collaborations"
-msgstr ""
+msgstr "Artistes qui ressemblent à des collaborations"
 
 #: ../root/report/collaboration_relationships.tt:1
 #: ../root/report/collaboration_relationships.tt:3
@@ -1447,8 +1447,8 @@ msgstr[1] "Associé avec {num} enregistrements"
 #, perl-format
 msgid "Associated with {num} work"
 msgid_plural "Associated with {num} works"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Associé à {num} travail"
+msgstr[1] "Associé à {num} travaux"
 
 #: ../root/cdtoc/attach_artist_releases.tt:22
 #: ../root/cdtoc/attach_artist_releases.tt:23
@@ -1544,12 +1544,12 @@ msgstr "Retour"
 #: ../root/elections/not_found.tt:5
 #, perl-format
 msgid "Back to all elections."
-msgstr ""
+msgstr "Revenir à la liste de toutes les élections."
 
 #: ../root/elections/show.tt:5
 #, perl-format
 msgid "Back to elections"
-msgstr "Retourner aux élections"
+msgstr "Revenir à la liste des élections"
 
 #: ../root/report/bad_amazon_urls.tt:1 ../root/report/bad_amazon_urls.tt:3
 #, perl-format
@@ -1641,7 +1641,7 @@ msgstr "Commence par"
 #: ../root/components/aliases.tt:8
 #, perl-format
 msgid "Begin Date"
-msgstr ""
+msgstr "Date de début"
 
 #: ../root/alias/edit_form.tt:21 ../root/artist/edit_form.tt:52
 #: ../root/edit/details/add_artist_alias.tt:36
@@ -1691,7 +1691,7 @@ msgstr "Bio :"
 #: ../root/account/edit.tt:21
 #, perl-format
 msgid "Birth date:"
-msgstr ""
+msgstr "Date de naissance :"
 
 #: ../root/layout/menu.tt:113
 #, perl-format
@@ -1930,7 +1930,7 @@ msgstr "Candidat :"
 #: ../root/release/cover_art.tt:55
 #, perl-format
 msgid "Cannot Add Cover Art"
-msgstr ""
+msgstr "Impossible d'ajouter une jaquette"
 
 #: ../root/edit/relationship/cannot_create.tt:1
 #: ../root/edit/relationship/cannot_create.tt:2
@@ -2060,12 +2060,12 @@ msgstr "Ordre des fils :"
 #: ../root/release/cover_art_uploader.tt:15
 #, perl-format
 msgid "Choose file:"
-msgstr ""
+msgstr "Choisir un fichier :"
 
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
 msgid "Choose one or more cover art types for this image"
-msgstr ""
+msgstr "Choisir un ou plusieurs types de jaquette pour cette image"
 
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
@@ -2150,7 +2150,7 @@ msgstr "Fermer le disque"
 #: ../root/relationship/linktype/tree.tt:49
 #, perl-format
 msgid "Collapse all descriptions"
-msgstr ""
+msgstr "Fermer toutes les descriptions"
 
 #: ../root/user/collections.tt:9
 #, perl-format
@@ -2185,12 +2185,12 @@ msgstr "Collections"
 #: ../root/release/cover_art_fields.tt:10
 #, perl-format
 msgid "Comment:"
-msgstr ""
+msgstr "Commentaire :"
 
 #: ../root/main/index.tt:86
 #, perl-format
 msgid "Community"
-msgstr ""
+msgstr "Communauté"
 
 #: ../root/annotation/history.tt:38
 #, perl-format
@@ -2295,12 +2295,12 @@ msgstr "Jaquette"
 msgid ""
 "Cover Art provided by the {caa|Cover Art Archive}. Hosted by {host|Digital "
 "West}. Sponsored by: {url1|Google}, {url2|OSUOSL} and {more|others...}. "
-msgstr ""
+msgstr "Les jaquettes sont fournies par {caa|Cover Art Archive}. Hébergé par {host|Digital West}. Sponsorisé par : {url1|Google}, {url2|OSUOSL} et {more|d'autres...}. "
 
 #: ../root/edit/details/macros.tt:86
 #, perl-format
 msgid "Cover art:"
-msgstr ""
+msgstr "Jaquette :"
 
 #: ../root/admin/wikidoc/create.tt:12
 #, perl-format
@@ -2327,17 +2327,17 @@ msgstr "Créer une nouvelle collection"
 #: ../root/relationship/linkattributetype/instruments.tt:8
 #, perl-format
 msgid "Create a new instrument"
-msgstr ""
+msgstr "Créer un nouvel instrument"
 
 #: ../root/relationship/linkattributetype/index.tt:8
 #, perl-format
 msgid "Create a new relationship attribute"
-msgstr ""
+msgstr "Créer un nouvel attribut de relation"
 
 #: ../root/relationship/linktype/tree.tt:43
 #, perl-format
 msgid "Create a new {type0}-{type1} relationship"
-msgstr ""
+msgstr "Créer une nouvelle relation {type0}-{type1}"
 
 #: ../root/account/register.tt:5 ../root/account/register.tt:12
 #, perl-format
@@ -2513,7 +2513,7 @@ msgstr "Ressources pour développeurs"
 #: ../root/main/index.tt:102
 #, perl-format
 msgid "Developers"
-msgstr ""
+msgstr "Développeurs"
 
 #: ../root/layout/menu.tt:227
 #, perl-format
@@ -2523,7 +2523,7 @@ msgstr "Développement"
 #: ../root/layout.tt:81
 #, perl-format
 msgid "Development branch: {branch}"
-msgstr ""
+msgstr "Branche de développement : {branch}"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #, perl-format
@@ -2539,7 +2539,7 @@ msgstr "Recherche directe dans la base de données"
 #: ../root/cdstub/index.tt:3
 #, perl-format
 msgid "Disambiguation"
-msgstr ""
+msgstr "Désambiguation"
 
 #: ../root/artist/edit_form.tt:40 ../root/cdstub/edit.tt:57
 #: ../root/edit/details/add_artist.tt:19 ../root/edit/details/add_label.tt:20
@@ -2557,7 +2557,7 @@ msgstr ""
 #: ../root/release_group/edit_form.tt:9 ../root/work/edit_form.tt:8
 #, perl-format
 msgid "Disambiguation:"
-msgstr ""
+msgstr "Désambiguation :"
 
 #: ../root/release/discids.tt:8
 #, perl-format
@@ -2572,7 +2572,7 @@ msgstr "ID d'information du disque"
 #: ../root/cdtoc/index.tt:3
 #, perl-format
 msgid "Disc ID “<code>{discid}</code>”"
-msgstr ""
+msgstr "ID de disque \"<code>{discid}</code>\""
 
 #: ../root/cdtoc/index.tt:1
 #, perl-format
@@ -2599,7 +2599,7 @@ msgstr "IDs de disque"
 #: ../root/report/superfluous_data_tracks.tt:1
 #, perl-format
 msgid "Disc IDs with superfluous data tracks"
-msgstr ""
+msgstr "ID de disque avec des pistes de données superflues"
 
 #: ../root/release/edit/tracklist.tt:381
 #, perl-format
@@ -2620,7 +2620,7 @@ msgstr "Disque {num} : {titre}"
 #: ../root/artist/index.tt:46
 #, perl-format
 msgid "Discography"
-msgstr ""
+msgstr "Discographie"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
@@ -2637,12 +2637,12 @@ msgstr "URL Discogs liée à plusieurs sorties"
 #: ../root/report/index.tt:31
 #, perl-format
 msgid "Discogs URLs linked to multiple release groups"
-msgstr ""
+msgstr "URL Discogs liée à plusieurs groupes de sorties"
 
 #: ../root/report/index.tt:45
 #, perl-format
 msgid "Discogs URLs linked to multiple releases"
-msgstr ""
+msgstr "URL Discogs liée à plusieurs sorties"
 
 #: ../root/report/separate_discs.tt:1 ../root/report/separate_discs.tt:3
 #, perl-format
@@ -2674,7 +2674,7 @@ msgstr "Documentation"
 #: ../root/search/results-doc.tt:1 ../root/search/results-doc.tt:3
 #, perl-format
 msgid "Documentation Search"
-msgstr ""
+msgstr "Recherche dans la documentation"
 
 #: ../root/user/login.tt:12
 #, perl-format
