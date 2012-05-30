@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-30 10:41+0000\n"
+"PO-Revision-Date: 2012-05-30 17:00+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -132,7 +132,7 @@ msgstr "(klik hier om de aantekening weer te geven)"
 #: ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "(ended)"
-msgstr ""
+msgstr "(beëindigd)"
 
 #: ../root/user/profile.tt:20
 #, perl-format
@@ -286,7 +286,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:64
 #, perl-format
 msgid "<strong>Closed:</strong> {date}"
-msgstr ""
+msgstr "<strong>Gesloten:</strong> {date}"
 
 #: ../root/browse/page_selector.tt:24
 #, perl-format
@@ -345,7 +345,7 @@ msgstr "<strong>De universele lingua franca voor muziek</strong> door het betrou
 #: ../root/release/edit/tracklist.tt:131
 #, perl-format
 msgid "<strong>Warning</strong>:"
-msgstr ""
+msgstr "<strong>Waarschuwing</strong>:"
 
 #: ../root/scripts/text_strings.tt:49
 #, perl-format
@@ -494,7 +494,7 @@ msgstr "Voeg ISRC toe"
 #: ../root/work/layout.tt:37
 #, perl-format
 msgid "Add ISWC"
-msgstr ""
+msgstr "Voeg een ISWC toe"
 
 #: ../root/layout/menu.tt:179 ../root/release/edit/information.tt:91
 #: ../root/release/edit/information.tt:93
@@ -588,7 +588,7 @@ msgstr "Voeg een nieuwe uitgavegroep toe"
 #: ../root/account/edit.tt:44
 #, perl-format
 msgid "Add a language"
-msgstr ""
+msgstr "Voeg een taal toe"
 
 #: ../root/components/aliases.tt:63
 #, perl-format
@@ -1056,7 +1056,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:77 ../root/edit/info.tt:17
 #, perl-format
 msgid "Approve edit"
-msgstr ""
+msgstr "Bevestig de wijziging direct"
 
 #: ../root/release/merge_confirm.tt:4
 #, perl-format
@@ -1404,7 +1404,7 @@ msgstr "Artiesten die één enkel persoon zouden kunnen zijn"
 #: ../root/report/index.tt:20
 #, perl-format
 msgid "Artists which have collaboration relationships"
-msgstr ""
+msgstr "Artiesten met samenwerkingsverwantschappen"
 
 #: ../root/report/index.tt:21
 #, perl-format
@@ -1415,7 +1415,7 @@ msgstr "Artiesten die samenwerkingen lijken te zijn"
 #: ../root/report/collaboration_relationships.tt:3
 #, perl-format
 msgid "Artists with Collaboration Relationships"
-msgstr ""
+msgstr "Artiesten met samenwerkingsverwantschappen"
 
 #: ../root/recording/fingerprints.tt:3
 #, perl-format
@@ -1540,7 +1540,7 @@ msgstr "Terug"
 #: ../root/elections/not_found.tt:5
 #, perl-format
 msgid "Back to all elections."
-msgstr ""
+msgstr "Terug naar alle verkiezingen"
 
 #: ../root/elections/show.tt:5
 #, perl-format
@@ -1637,7 +1637,7 @@ msgstr "Begin"
 #: ../root/components/aliases.tt:8
 #, perl-format
 msgid "Begin Date"
-msgstr ""
+msgstr "Begindatum"
 
 #: ../root/alias/edit_form.tt:21 ../root/artist/edit_form.tt:52
 #: ../root/edit/details/add_artist_alias.tt:36
@@ -1687,7 +1687,7 @@ msgstr "Biografie:"
 #: ../root/account/edit.tt:21
 #, perl-format
 msgid "Birth date:"
-msgstr ""
+msgstr "Geboortedatum:"
 
 #: ../root/layout/menu.tt:113
 #, perl-format
@@ -2181,7 +2181,7 @@ msgstr "Collecties"
 #: ../root/release/cover_art_fields.tt:10
 #, perl-format
 msgid "Comment:"
-msgstr ""
+msgstr "Opmerking:"
 
 #: ../root/main/index.tt:86
 #, perl-format
@@ -2242,7 +2242,7 @@ msgstr "Contact opnemen"
 #: ../root/components/forms.tt:223
 #, perl-format
 msgid "Copy"
-msgstr ""
+msgstr "Kopiëren"
 
 #: ../root/release/edit/missing_entities.tt:21
 #, perl-format
@@ -2301,7 +2301,7 @@ msgstr "Hoesafbeelding:"
 #: ../root/admin/wikidoc/create.tt:12
 #, perl-format
 msgid "Create"
-msgstr ""
+msgstr "Aanmaken"
 
 #: ../root/account/register.tt:41 ../root/layout/menu.tt:71
 #, perl-format
@@ -2313,7 +2313,7 @@ msgstr "Gebruikersaccount aanmaken"
 #: ../root/edit/relationship/create.tt:15
 #, perl-format
 msgid "Create Relationship"
-msgstr ""
+msgstr "Voeg een verwantschap toe"
 
 #: ../root/release/sidebar.tt:141 ../root/user/collections.tt:36
 #, perl-format
@@ -2348,7 +2348,7 @@ msgstr "Creëer een collectie"
 #: ../root/components/common-macros.tt:499
 #, perl-format
 msgid "Create relationship"
-msgstr ""
+msgstr "Voeg een verwantschap toe"
 
 #: ../root/components/common-macros.tt:444
 #, perl-format
@@ -2358,7 +2358,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Created"
-msgstr ""
+msgstr "Aangemaakt"
 
 #: ../root/report/releases_to_convert.tt:8
 #, perl-format
@@ -2429,12 +2429,12 @@ msgstr "Data hebben de indeling JJJJ-MM-DD. Gedeeltelijke data zoals JJJJ-MM of 
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
 msgid "Deceased:"
-msgstr ""
+msgstr "Overleden:"
 
 #: ../root/label/layout.tt:22 ../root/label/layout.tt:29
 #, perl-format
 msgid "Defunct:"
-msgstr ""
+msgstr "Opgeheven:"
 
 #: ../root/edit/search_macros.tt:104
 #, perl-format
@@ -2524,7 +2524,7 @@ msgstr ""
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #, perl-format
 msgid "Died:"
-msgstr ""
+msgstr "Overleden:"
 
 #: ../root/search/form.tt:35 ../root/search/form.tt:40
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:56
@@ -2696,7 +2696,7 @@ msgstr "Gereed"
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicaat"
 
 #: ../root/taglookup/form.tt:8
 #, perl-format
@@ -3118,7 +3118,7 @@ msgstr "Verkiezing niet gevonden"
 #: ../root/account/preferences.tt:37
 #, perl-format
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: ../root/account/verify_email_error.tt:1
 #: ../root/account/verify_email_error.tt:3
@@ -3134,20 +3134,20 @@ msgstr ""
 #: ../root/user/email_sent.tt:1 ../root/user/email_sent.tt:3
 #, perl-format
 msgid "Email Sent"
-msgstr ""
+msgstr "E-mail verstuurd"
 
 #: ../root/account/lost_password_sent.tt:3
 #: ../root/account/lost_username_sent.tt:3
 #, perl-format
 msgid "Email Sent!"
-msgstr ""
+msgstr "E-mail verstuurd!"
 
 #: ../root/account/edit.tt:16 ../root/account/lost_password.tt:15
 #: ../root/account/lost_username.tt:11 ../root/account/register.tt:35
 #: ../root/admin/edit_user.tt:31 ../root/user/profile.tt:15
 #, perl-format
 msgid "Email:"
-msgstr ""
+msgstr "E-mail:"
 
 #: ../root/report/empty_release_groups.tt:1
 #: ../root/report/empty_release_groups.tt:3
@@ -3174,7 +3174,7 @@ msgstr "Einde"
 #: ../root/components/aliases.tt:9
 #, perl-format
 msgid "End Date"
-msgstr ""
+msgstr "Einddatum"
 
 #: ../root/elections/index.tt:12
 #, perl-format
@@ -3293,7 +3293,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:249
 #, perl-format
 msgid "Expand"
-msgstr ""
+msgstr "Uitklappen"
 
 #: ../root/release/edit/tracklist.tt:361
 #, perl-format
@@ -3345,12 +3345,12 @@ msgstr ""
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:36
 #, perl-format
 msgid "FAQs"
-msgstr ""
+msgstr "FAQ's"
 
 #: ../root/user/profile.tt:156
 #, perl-format
 msgid "Failed"
-msgstr ""
+msgstr "Mislukt"
 
 #: ../root/edit/details/remove_cover_art.tt:25 ../root/taglookup/form.tt:9
 #, perl-format
@@ -3471,8 +3471,8 @@ msgstr[1] "Ten minste {n} wijzigingen gevonden"
 #, perl-format
 msgid "Found {n} result"
 msgid_plural "Found {n} results"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{n} resultaat gevonden"
+msgstr[1] "{n} resultaten gevonden"
 
 #: ../root/components/with-pager.tt:7
 #, perl-format
@@ -3583,7 +3583,7 @@ msgstr ""
 #: ../root/main/frame.tt:12
 #, perl-format
 msgid "Get Google Chrome Frame"
-msgstr ""
+msgstr "Verkrijg Google Chrome Frame"
 
 #: ../root/admin/wikidoc/index.tt:76
 #, perl-format
@@ -3593,7 +3593,7 @@ msgstr ""
 #: ../root/main/frame.tt:3
 #, perl-format
 msgid "Google Chrome Frame"
-msgstr ""
+msgstr "Google Chrome Frame"
 
 #: ../root/main/frame.tt:5
 #, perl-format
@@ -4067,7 +4067,7 @@ msgstr ""
 #: ../root/layout/menu.tt:124 ../root/main/index.tt:24
 #, perl-format
 msgid "Jaikoz Tagger"
-msgstr ""
+msgstr "Jaikoz Tagger"
 
 #: ../root/release/edit/layout.tt:22
 #, perl-format
@@ -4213,12 +4213,12 @@ msgstr "Taal: {language}, schrift: {script}"
 #: ../root/account/edit.tt:33
 #, perl-format
 msgid "Languages Known:"
-msgstr ""
+msgstr "Bekende talen:"
 
 #: ../root/user/profile.tt:116
 #, perl-format
 msgid "Languages:"
-msgstr ""
+msgstr "Talen:"
 
 #: ../root/user/profile.tt:174
 #, perl-format
@@ -4360,12 +4360,12 @@ msgstr "Zoekt u hulp? Kijk bij onze {doc|documentatie} of {faq|FAQ}."
 #: ../root/scripts/text_strings.tt:45
 #, perl-format
 msgid "Lookup"
-msgstr ""
+msgstr "Opzoeken"
 
 #: ../root/cdtoc/lookup.tt:1 ../root/cdtoc/lookup.tt:2
 #, perl-format
 msgid "Lookup CD"
-msgstr ""
+msgstr "Cd opzoeken"
 
 #: ../root/cdstub/browse.tt:11
 #, perl-format
@@ -4392,17 +4392,17 @@ msgstr "Gebruikersnaam kwijt"
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "Low"
-msgstr ""
+msgstr "Laag"
 
 #: ../root/work/edit_form.tt:10 ../root/work/layout.tt:11
 #, perl-format
 msgid "Lyrics Language:"
-msgstr ""
+msgstr "Taal van de tekst:"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "MBID:"
-msgstr ""
+msgstr "MBID:"
 
 #: ../root/layout/menu.tt:127 ../root/main/index.tt:25
 #, perl-format
@@ -4434,12 +4434,12 @@ msgstr ""
 #: ../root/release/lookup.tt:8
 #, perl-format
 msgid "Match"
-msgstr ""
+msgstr "Overeenkomst"
 
 #: ../root/cdtoc/lookup.tt:4 ../root/cdtoc/lookup.tt:77
 #, perl-format
 msgid "Matching CDs"
-msgstr ""
+msgstr "Overeenkomende cd's"
 
 #: ../root/cdtoc/lookup.tt:37 ../root/components/common-macros.tt:678
 #: ../root/search/lib/inline-results-recording.tt:16
@@ -4609,7 +4609,7 @@ msgstr "Voeg samen:"
 #: ../root/user/contact.tt:11
 #, perl-format
 msgid "Message:"
-msgstr ""
+msgstr "Bericht:"
 
 #: ../root/report/set_in_different_rg.tt:1
 #: ../root/report/set_in_different_rg.tt:3
@@ -4820,7 +4820,7 @@ msgstr "Mijn stem:"
 #: ../root/edit/edit_header.tt:37
 #, perl-format
 msgid "N/A"
-msgstr ""
+msgstr "Geen"
 
 #: ../root/artist/aliases.tt:13 ../root/artist/recordings-list.tt:22
 #: ../root/components/results-generic.tt:5
@@ -4875,7 +4875,7 @@ msgstr "Naam:"
 #: ../root/annotation/history.tt:7
 #, perl-format
 msgid "New"
-msgstr ""
+msgstr "Nieuw"
 
 #: ../root/edit/details/edit_medium.tt:227
 #, perl-format
@@ -4917,7 +4917,7 @@ msgstr ""
 #: ../root/edit/details/edit_release_attributes.tt:22
 #, perl-format
 msgid "New Type:"
-msgstr ""
+msgstr "Nieuw type:"
 
 #: ../root/release/merge.tt:53
 #, perl-format
@@ -4957,7 +4957,7 @@ msgstr "Nieuwe opname"
 #: ../root/edit/details/historic/edit_relationship.tt:29
 #, perl-format
 msgid "New relationships:"
-msgstr ""
+msgstr "Nieuwe verwantschappen:"
 
 #: ../root/edit/details/edit_release_language.tt:30
 #, perl-format
@@ -4968,7 +4968,7 @@ msgstr "Nieuw schrift"
 #: ../root/edit/details/change_wikidoc.tt:28
 #, perl-format
 msgid "New version:"
-msgstr ""
+msgstr "Nieuwe versie:"
 
 #: ../root/scripts/text_strings.tt:35
 #, perl-format
@@ -5273,7 +5273,7 @@ msgstr "Oude opname"
 #: ../root/edit/details/historic/edit_relationship.tt:6
 #, perl-format
 msgid "Old relationships:"
-msgstr ""
+msgstr "Oude verwantschappen:"
 
 #: ../root/edit/details/historic/merge_releases.tt:3
 #, perl-format
@@ -5289,7 +5289,7 @@ msgstr "Oude versie:"
 #: ../root/edit/details/edit_release_language.tt:3
 #, perl-format
 msgid "Old:"
-msgstr ""
+msgstr "Oud:"
 
 #: ../root/cdtoc/move_search.tt:5
 #, perl-format
@@ -5351,7 +5351,7 @@ msgstr "Geopend:"
 #: ../root/release/edit/tracklist.tt:156 ../root/release/edit/tracklist.tt:186
 #, perl-format
 msgid "Options"
-msgstr ""
+msgstr "Opties"
 
 #: ../root/cdtoc/lookup.tt:96
 #, perl-format
@@ -5393,23 +5393,23 @@ msgstr "Overzicht"
 #: ../root/collection/layout.tt:6
 #, perl-format
 msgid "Owner:"
-msgstr ""
+msgstr "Eigenaar:"
 
 #: ../root/recording/fingerprints.tt:11
 #, perl-format
 msgid "PUID"
-msgstr ""
+msgstr "PUID"
 
 #: ../root/puid/index.tt:1 ../root/puid/index.tt:3
 #, perl-format
 msgid "PUID “{puid}”"
-msgstr ""
+msgstr "PUID “{puid}”"
 
 #: ../root/edit/details/remove_puid.tt:7 ../root/otherlookup/form.tt:3
 #: ../root/taglookup/form.tt:10
 #, perl-format
 msgid "PUID:"
-msgstr ""
+msgstr "PUID:"
 
 #: ../root/edit/details/add_puids.tt:8
 #, perl-format
@@ -6175,7 +6175,7 @@ msgstr ""
 #: ../root/edit/details/remove_relationship.tt:3
 #, perl-format
 msgid "Relationship:"
-msgstr ""
+msgstr "Verwantschap:"
 
 #: ../root/artist/header.tt:1 ../root/artist/relationships.tt:1
 #: ../root/artist/relationships.tt:4 ../root/label/header.tt:1
@@ -6191,13 +6191,13 @@ msgstr ""
 #: ../root/work/relationships.tt:1 ../root/work/relationships.tt:3
 #, perl-format
 msgid "Relationships"
-msgstr ""
+msgstr "Verwantschappen"
 
 #: ../root/edit/details/historic/add_relationship.tt:3
 #: ../root/edit/details/remove_relationship_(historic).tt:3
 #, perl-format
 msgid "Relationships:"
-msgstr ""
+msgstr "Verwantschappen:"
 
 #: ../root/cdtoc/attach_artist_releases.tt:34
 #: ../root/cdtoc/attach_filter_release.tt:46 ../root/cdtoc/lookup.tt:36
@@ -6285,7 +6285,7 @@ msgstr "Uitgave van {artist}"
 #: ../root/release/edit/information.tt:51
 #, perl-format
 msgid "Release event"
-msgstr ""
+msgstr "Uitgavegebeurtenis"
 
 #: ../root/report/release_group_url_list.tt:6
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
@@ -7163,7 +7163,7 @@ msgstr "Soortgelijke uitgaves"
 #: ../root/main/rate_limited.tt:1 ../root/main/rate_limited.tt:3
 #, perl-format
 msgid "Slow Down!"
-msgstr ""
+msgstr "Ga langzamer!"
 
 #: ../root/scripts/text_strings.tt:77
 #, perl-format
@@ -7483,7 +7483,7 @@ msgstr "Splits in aparte artiesten"
 #: ../root/layout/menu.tt:80
 #, perl-format
 msgid "Sponsors"
-msgstr ""
+msgstr "Sponsors"
 
 #: ../root/main/500.tt:19
 #, perl-format
@@ -7493,12 +7493,12 @@ msgstr "Stack trace:"
 #: ../root/cdtoc/info.tt:32
 #, perl-format
 msgid "Start"
-msgstr ""
+msgstr "Begin"
 
 #: ../root/elections/index.tt:11
 #, perl-format
 msgid "Start date"
-msgstr ""
+msgstr "Begindatum"
 
 #: ../root/browse/page_selector.tt:57
 #, perl-format
@@ -7514,7 +7514,7 @@ msgstr "Statistieken"
 #: ../root/release/lookup.tt:14
 #, perl-format
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../root/edit/details/add_release.tt:39
 #: ../root/edit/details/edit_release.tt:46
@@ -7523,7 +7523,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:44 ../root/release/sidebar.tt:30
 #, perl-format
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: ../root/watch/list.tt:28
 #, perl-format
@@ -7543,12 +7543,12 @@ msgstr "Stijlgids"
 #: ../root/user/contact.tt:8
 #, perl-format
 msgid "Subject:"
-msgstr ""
+msgstr "Onderwerp:"
 
 #: ../root/cdstub/edit.tt:72
 #, perl-format
 msgid "Submit"
-msgstr ""
+msgstr "Indienen"
 
 #: ../root/cdtoc/lookup.tt:104
 #, perl-format
@@ -7618,12 +7618,12 @@ msgstr ""
 #: ../root/edit/details/add_release_annotation.tt:30
 #, perl-format
 msgid "Summary:"
-msgstr ""
+msgstr "Samenvatting:"
 
 #: ../root/main/503.tt:1 ../root/main/503.tt:3
 #, perl-format
 msgid "System Busy"
-msgstr ""
+msgstr "Systeem bezig"
 
 #: ../root/collection/tag.tt:1 ../root/components/tags.tt:11
 #: ../root/layout/sidebar/sidebar-tags.tt:36
@@ -7750,7 +7750,7 @@ msgstr ""
 #: ../root/edit/details/add_release_annotation.tt:13
 #, perl-format
 msgid "Text:"
-msgstr ""
+msgstr "Tekst:"
 
 #: ../root/account/donation.tt:14
 #, perl-format
@@ -7772,7 +7772,7 @@ msgstr "De Cover Art Archive heeft in het verleden het verzoek gekregen om hoesa
 #: ../root/user/profile.tt:77
 #, perl-format
 msgid "The Dawn of the Project"
-msgstr ""
+msgstr "De start van het project"
 
 #: ../root/release/edit/information.tt:178
 #, perl-format
@@ -8137,7 +8137,7 @@ msgstr "Deze artiest heeft geen uitgaves"
 #: ../root/artist/edit_form.tt:54 ../root/scripts/text_strings.tt:71
 #, perl-format
 msgid "This artist has ended."
-msgstr ""
+msgstr "Deze artiest is beëindigd."
 
 #: ../root/artist/index.tt:38
 #, perl-format
@@ -8216,7 +8216,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit has been successfully applied."
-msgstr ""
+msgstr "Deze wijziging is met succes doorgevoerd."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
@@ -8283,7 +8283,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
 msgid "This group has dissolved."
-msgstr ""
+msgstr "Deze groep is uit elkaar."
 
 #: ../root/layout.tt:96
 #, perl-format
@@ -8336,7 +8336,7 @@ msgstr "Deze platenmaatschappij heeft geen uitgaves."
 #: ../root/label/edit_form.tt:55
 #, perl-format
 msgid "This label has ended."
-msgstr ""
+msgstr "Deze platenmaatschappij is opgeheven."
 
 #: ../root/label/tags.tt:2
 #, perl-format
@@ -8388,7 +8388,7 @@ msgstr "Deze pagina heeft Javascript nodig."
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
 msgid "This person is deceased."
-msgstr ""
+msgstr "Deze persoon is overleden."
 
 #: ../root/recording/delete.tt:17
 #, perl-format
@@ -8416,7 +8416,7 @@ msgstr "Deze opname heeft geen etiketten."
 #: ../root/edit/relationship/edit.tt:139
 #, perl-format
 msgid "This relationship has ended."
-msgstr ""
+msgstr "Deze verwantschap is beëindigd."
 
 #: ../root/release/edit/information.tt:100
 #, perl-format
@@ -8539,7 +8539,7 @@ msgstr ""
 #: ../root/report/asins_with_multiple_releases.tt:6
 #, perl-format
 msgid "This report shows Amazon URLs which are linked to multiple releases."
-msgstr ""
+msgstr "Dit rapport toont "
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:6
 #, perl-format
@@ -8782,7 +8782,7 @@ msgstr ""
 #: ../root/edit/details/move_disc_id.tt:19
 #, perl-format
 msgid "To:"
-msgstr ""
+msgstr "Naar:"
 
 #: ../root/cdstub/browse.tt:1 ../root/cdstub/browse.tt:4
 #: ../root/layout/menu.tt:167
@@ -9010,7 +9010,7 @@ msgstr "Twitter"
 #: ../root/search/results-release-group.tt:12
 #, perl-format
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: ../root/alias/edit_form.tt:13 ../root/artist/edit_form.tt:41
 #: ../root/artist/index.tt:4 ../root/artist/layout.tt:9
@@ -9040,7 +9040,7 @@ msgstr ""
 #: ../root/work/edit_form.tt:9 ../root/work/layout.tt:14
 #, perl-format
 msgid "Type:"
-msgstr ""
+msgstr "Type:"
 
 #: ../root/edit/details/edit_release_attributes.tt:13
 #, perl-format
@@ -9081,7 +9081,7 @@ msgstr "URL niet gevonden"
 #: ../root/url/relationships.tt:1
 #, perl-format
 msgid "URL Relationships"
-msgstr ""
+msgstr "URL-verwantschappen"
 
 #: ../root/components/common-macros.tt:433 ../root/edit/details/edit_url.tt:9
 #: ../root/edit/details/edit_url.tt:15
@@ -9089,12 +9089,12 @@ msgstr ""
 #: ../root/url/edit.tt:18 ../root/url/index.tt:5
 #, perl-format
 msgid "URL:"
-msgstr ""
+msgstr "URL:"
 
 #: ../root/relationship/linktype/tree.tt:15
 #, perl-format
 msgid "UUID:"
-msgstr ""
+msgstr "UUID:"
 
 #: ../root/main/401.tt:1 ../root/main/401.tt:3
 #, perl-format
@@ -9177,7 +9177,7 @@ msgstr "Zet Romeinse cijfers in bovenkast"
 #: ../root/url/edits.tt:19
 #, perl-format
 msgid "Url"
-msgstr ""
+msgstr "URL"
 
 #: ../root/components/tags.tt:12
 #, perl-format
@@ -9187,7 +9187,7 @@ msgstr "Aantal keren gebruikt"
 #: ../root/components/common-macros.tt:444
 #, perl-format
 msgid "Use in a relationship"
-msgstr ""
+msgstr "Gebruik in een verwantschap"
 
 #: ../root/main/index.tt:105
 #, perl-format
@@ -9279,12 +9279,12 @@ msgstr "Diverse Artiesten"
 #: ../root/annotation/history.tt:10
 #, perl-format
 msgid "Version History"
-msgstr ""
+msgstr "Versiegeschiedenis"
 
 #: ../root/admin/wikidoc/create.tt:9 ../root/admin/wikidoc/edit.tt:13
 #, perl-format
 msgid "Version:"
-msgstr ""
+msgstr "Versie:"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:24
 #, perl-format
@@ -9309,17 +9309,17 @@ msgstr ""
 #: ../root/admin/wikidoc/index.tt:110
 #, perl-format
 msgid "View on wiki"
-msgstr ""
+msgstr "Bekijk op de wiki"
 
 #: ../root/annotation/history.tt:29
 #, perl-format
 msgid "View this version"
-msgstr ""
+msgstr "Bekijk deze versie"
 
 #: ../root/admin/wikidoc/index.tt:63
 #, perl-format
 msgid "View transclusion history"
-msgstr ""
+msgstr "Bekijk de transclusiegeschiedenis"
 
 #: ../root/elections/show.tt:109
 #, perl-format
@@ -9344,7 +9344,7 @@ msgstr "Stem op wijzigingen"
 #: ../root/edit/index.tt:31
 #, perl-format
 msgid "Vote tally:"
-msgstr ""
+msgstr "Telling:"
 
 #: ../root/user/profile.tt:152
 #, perl-format
@@ -9399,7 +9399,7 @@ msgstr ""
 #: ../root/elections/show.tt:85
 #, perl-format
 msgid "Voting is closed."
-msgstr ""
+msgstr "Het stemmen is gesloten."
 
 #: ../root/elections/show.tt:83
 #, perl-format
@@ -9426,7 +9426,7 @@ msgstr "Let op! \"25 oktober 1990\" is een nepdatum die Amazon laat zien voor al
 #: ../root/artist/edit_form.tt:18 ../root/label/edit_form.tt:15
 #, perl-format
 msgid "Warning:"
-msgstr ""
+msgstr "Waarschuwing:"
 
 #: ../root/watch/list.tt:1 ../root/watch/list.tt:2
 #, perl-format
@@ -9552,7 +9552,7 @@ msgstr "We hebben u instructies gestuurd om uw wachtwoord opnieuw in te stellen.
 #: ../root/account/edit.tt:17 ../root/admin/edit_user.tt:32
 #, perl-format
 msgid "Website:"
-msgstr ""
+msgstr "Website:"
 
 #: ../root/main/index.tt:43
 #, perl-format
@@ -9717,7 +9717,7 @@ msgstr "Aantal voorstemmen"
 #: ../root/elections/nominate.tt:11
 #, perl-format
 msgid "Yes, I am sure"
-msgstr ""
+msgstr "Ja, ik weet het zeker"
 
 #: ../root/artist/edit_form.tt:32
 #, perl-format
@@ -9734,7 +9734,7 @@ msgstr ""
 #: ../root/admin/wikidoc/delete.tt:9
 #, perl-format
 msgid "Yes, I'm sure"
-msgstr ""
+msgstr "Ja, ik weet het zeker"
 
 #: ../root/recording/add_isrc.tt:3
 #, perl-format
@@ -10069,7 +10069,7 @@ msgstr "[verwijderd]"
 #: ../root/search/results-label.tt:30
 #, perl-format
 msgid "[unknown]"
-msgstr ""
+msgstr "[onbekend]"
 
 #: ../root/scripts/text_strings.tt:34
 #, perl-format
@@ -10079,12 +10079,12 @@ msgstr "Voeg een opmerking ter verduidelijking toe"
 #: ../root/edit/search_macros.tt:153
 #, perl-format
 msgid "after"
-msgstr ""
+msgstr "na"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
 msgid "aged {num}"
-msgstr ""
+msgstr "leeftijd {num}"
 
 #: ../root/release/edit/recordings.tt:43 ../root/release/edit/recordings.tt:50
 #: ../root/release/edit/recordings.tt:82
@@ -10106,7 +10106,7 @@ msgstr "voor"
 #: ../root/edit/search_macros.tt:153
 #, perl-format
 msgid "between"
-msgstr ""
+msgstr "tussen"
 
 #: ../root/release/edit/recordings.tt:81
 #: ../root/release/edit/recordings.tt:214
@@ -10116,7 +10116,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:255
 #, perl-format
 msgid "by"
-msgstr ""
+msgstr "door"
 
 #: ../root/release/edit/recordings.tt:227
 #, perl-format
@@ -10142,7 +10142,7 @@ msgstr "redacteurs"
 #: ../root/components/common-macros.tt:591
 #, perl-format
 msgid "ended"
-msgstr ""
+msgstr "beëindigd"
 
 #: ../root/components/common-macros.tt:578 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10152,7 +10152,7 @@ msgstr "van {begin_date} tot {end_date}"
 #: ../root/components/common-macros.tt:584 ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "from {date} to ????"
-msgstr ""
+msgstr "van {date} tot ????"
 
 #: ../root/components/common-macros.tt:586 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10162,7 +10162,7 @@ msgstr ""
 #: ../root/search/results-freedb.tt:27
 #, perl-format
 msgid "import"
-msgstr ""
+msgstr "import"
 
 #: ../root/components/common-macros.tt:575 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10182,22 +10182,22 @@ msgstr ""
 #: ../root/edit/search_macros.tt:264
 #, perl-format
 msgid "is"
-msgstr ""
+msgstr "is"
 
 #: ../root/edit/search_macros.tt:119
 #, perl-format
 msgid "is after"
-msgstr ""
+msgstr "is na"
 
 #: ../root/edit/search_macros.tt:119
 #, perl-format
 msgid "is before"
-msgstr ""
+msgstr "is voor"
 
 #: ../root/edit/search_macros.tt:119 ../root/edit/search_macros.tt:136
 #, perl-format
 msgid "is between"
-msgstr ""
+msgstr "is tussen"
 
 #: ../root/edit/search_macros.tt:249
 #, perl-format
@@ -10207,12 +10207,12 @@ msgstr "is in mijn abonnementen"
 #: ../root/edit/search_macros.tt:136
 #, perl-format
 msgid "is less than"
-msgstr ""
+msgstr "is minder dan"
 
 #: ../root/edit/search_macros.tt:136
 #, perl-format
 msgid "is more than"
-msgstr ""
+msgstr "is meer dan"
 
 #: ../root/edit/search_macros.tt:119 ../root/edit/search_macros.tt:136
 #: ../root/edit/search_macros.tt:153 ../root/edit/search_macros.tt:170
@@ -10221,7 +10221,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:264
 #, perl-format
 msgid "is not"
-msgstr ""
+msgstr "is niet"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -10267,12 +10267,12 @@ msgstr "oudste eerst"
 #: ../root/edit/search_macros.tt:153
 #, perl-format
 msgid "on"
-msgstr ""
+msgstr "op"
 
 #: ../root/components/common-macros.tt:573 ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "on {date}"
-msgstr ""
+msgstr "op {date}"
 
 #: ../root/scripts/text_strings.tt:75
 #, perl-format
@@ -10328,7 +10328,7 @@ msgstr ""
 #: ../root/layout.tt:73
 #, perl-format
 msgid "search"
-msgstr ""
+msgstr "zoeken"
 
 #: ../root/layout/sidebar/sidebar-rating.tt:5
 #, perl-format
@@ -10384,7 +10384,7 @@ msgstr "abonnement opzeggen"
 #: ../root/components/common-macros.tt:589 ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "until {date}"
-msgstr ""
+msgstr "tot {date}"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -10423,12 +10423,12 @@ msgstr[1] "{artist} heeft geen uitgaves met maar {n} nummers."
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:34
 #, perl-format
 msgid "{begindate} &ndash;"
-msgstr ""
+msgstr "{begindate} &ndash;"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:32
 #, perl-format
 msgid "{begindate} &ndash; ????"
-msgstr ""
+msgstr "{begindate} &ndash; ????"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:27
 #, perl-format
@@ -10651,7 +10651,7 @@ msgstr "{uri|Zoek op SoundUnwound}"
 #: ../root/user/profile/layout.tt:8
 #, perl-format
 msgid "{user}"
-msgstr ""
+msgstr "{user}"
 
 #: ../root/user/collections.tt:32
 #, perl-format
@@ -11334,7 +11334,7 @@ msgstr "[geen]"
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:116
 #, perl-brace-format
 msgid "{b} and {a}"
-msgstr ""
+msgstr "{b} en {a}"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:25
 msgid "Filter release groups"
@@ -11399,7 +11399,7 @@ msgstr "Geen geldige tijdsduur. De tijd moet de indeling MM:SS hebben"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:21
 msgid "Enter a valid url e.g. \"http://google.com/\""
-msgstr ""
+msgstr "Voer een geldige URL in, bijv. \"http://google.nl/\""
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
@@ -11433,7 +11433,7 @@ msgstr "Dit verwantschapstype word gebruikt om verwantschappen te groeperen. Sel
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:95
 msgid "This relationship type is deprecated."
-msgstr ""
+msgstr "Deze verwantschap is verouderd."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:115
 msgid "This attribute is not supported for the selected relationship type."
@@ -11546,19 +11546,19 @@ msgstr "Ongeldige URL-opmaak"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
-msgstr ""
+msgstr "Basis"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:62
 msgid "Intermediate"
-msgstr ""
+msgstr "Gemiddeld"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:63
 msgid "Advanced"
-msgstr ""
+msgstr "Gevorderd"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:64
 msgid "Native"
-msgstr ""
+msgstr "Moedertaal"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:73
 msgid "You must supply a complete birth date for us to display your age."
