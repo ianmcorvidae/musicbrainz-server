@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-30 18:19+0000\n"
+"PO-Revision-Date: 2012-05-31 07:32+0000\n"
 "Last-Translator: Benjamin Sonntag <email address hidden>\n"
 "Language-Team: French (France) (http://www.transifex.net/projects/p/musicbrainz/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -2778,7 +2778,7 @@ msgstr ""
 #: ../root/layout/menu.tt:58
 #, perl-format
 msgid "Edit Instrument Tree"
-msgstr ""
+msgstr "Modifier l'arbre des instruments"
 
 #: ../root/label/edit.tt:15
 #, perl-format
@@ -3117,7 +3117,7 @@ msgstr "Modifications de \"{name}\""
 #: ../root/elections/not_found.tt:1 ../root/elections/not_found.tt:2
 #, perl-format
 msgid "Election Not Found"
-msgstr ""
+msgstr "Élection non trouvée"
 
 #: ../root/account/preferences.tt:37
 #, perl-format
@@ -3178,7 +3178,7 @@ msgstr "Fin"
 #: ../root/components/aliases.tt:9
 #, perl-format
 msgid "End Date"
-msgstr ""
+msgstr "Date de fin"
 
 #: ../root/elections/index.tt:12
 #, perl-format
@@ -3217,7 +3217,7 @@ msgstr "Terminé le : "
 #: ../root/release/edit/tracklist.tt:181
 #, perl-format
 msgid "Enter a tracklist below:"
-msgstr ""
+msgstr "Entrez une liste de pistes ci-dessous :"
 
 #: ../root/components/forms.tt:24 ../root/release/add_cover_art.tt:59
 #: ../root/release/edit/editnote.tt:42
@@ -3307,7 +3307,7 @@ msgstr "Étendre le disque"
 #: ../root/relationship/linktype/tree.tt:48
 #, perl-format
 msgid "Expand all descriptions"
-msgstr ""
+msgstr "Étendre toutes les descriptions "
 
 #: ../root/doc/edit_type.tt:55
 #, perl-format
@@ -3317,7 +3317,7 @@ msgstr "Expirer l'action"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Expired"
-msgstr ""
+msgstr "Expiré"
 
 #: ../root/components/common-macros.tt:538
 #, perl-format
@@ -3344,7 +3344,7 @@ msgstr "Liens externes"
 #: ../root/release/edit/information.tt:43
 #, perl-format
 msgid "Extra Types:"
-msgstr ""
+msgstr "Types supplémentaires :"
 
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:36
 #, perl-format
@@ -3456,8 +3456,8 @@ msgstr "Vous avez trouvé un problème sur notre site ? Dites-le nous en {report
 #, perl-format
 msgid "Found in {num} user collection"
 msgid_plural "Found in {num} user collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Trouvé dans {num} collection utilisateurs"
+msgstr[1] "Trouvé dans {num} collections utilisateurs"
 
 #: ../root/release/lookup.tt:4
 #, perl-format
@@ -3494,7 +3494,7 @@ msgstr "Fondé le :"
 #: ../root/freedb/not_found.tt:1 ../root/freedb/not_found.tt:2
 #, perl-format
 msgid "FreeDB Entry Not Found"
-msgstr ""
+msgstr "Entrée FreeDB non trouvé"
 
 #: ../root/layout/menu.tt:148
 #, perl-format
@@ -3836,7 +3836,7 @@ msgstr "Si vous avez ajouté un alias par erreur, suivez les instructions sur {c
 #: ../root/cdtoc/attach_artist_releases.tt:63
 #, perl-format
 msgid "If you can't find what you're looking for, you can add a new release:"
-msgstr ""
+msgstr "Si vous ne trouvez pas ce que vous cherchez, vous pouvez créer une nouvelle sortie :"
 
 #: ../root/account/edit.tt:7
 #, perl-format
@@ -3870,7 +3870,7 @@ msgstr "Si vous ne voyez pas l'artiste que vous cherchez, vous pouvez créer une
 msgid ""
 "If you don't see the release you are looking for, you can still add a new "
 "one, using this CD TOC:"
-msgstr ""
+msgstr "Si vous ne voyez pas la sortie que vous cherchez, vous pouvez en créer une nouvelle, en utilisant cet Index de CD :"
 
 #: ../root/taglookup/nag.tt:16
 #, perl-format
@@ -3931,7 +3931,7 @@ msgstr "Si vous pensez que cela est une erreur, merci de contacter <code>support
 msgid ""
 "If you wish to use this tag, please {url|search} for the entity first and "
 "apply the tag using the sidebar."
-msgstr ""
+msgstr "Si vous souhaitez utiliser ce tag, merci de commencer par {url|rechercher} l'entité, puis appliquer le tag en utilisant la barre latérale."
 
 #: ../root/account/edit.tt:83
 #, perl-format
@@ -3965,7 +3965,7 @@ msgstr "Si vous souhaitez recevoir des informations (en anglais) de l'équipe de
 #: ../root/components/common-macros.tt:80
 #, perl-format
 msgid "Image not available yet, please try again in a few minutes."
-msgstr ""
+msgstr "Image pas encore disponible, merci de réessayer dans quelques minutes."
 
 #: ../root/freedb/show.tt:45 ../root/freedb/show.tt:103
 #, perl-format
@@ -4019,17 +4019,17 @@ msgstr "Nom d'utilisateur ou mot de passe incorrect"
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:54
 #, perl-format
 msgid "Indexed search"
-msgstr ""
+msgstr "Recherche dans l'index"
 
 #: ../root/search/form.tt:29
 #, perl-format
 msgid "Indexed search with {doc|advanced query syntax}"
-msgstr ""
+msgstr "Recherche dans l'index avec {doc|la syntaxe de recherche avancée}"
 
 #: ../root/release/edit/recordings.tt:394
 #, perl-format
 msgid "Infer track durations from associated recordings"
-msgstr ""
+msgstr "Recopier la durée des enregistrements dans les pistes"
 
 #: ../root/admin/index.tt:8 ../root/layout/menu.tt:224
 #: ../root/relationship/header.tt:2
@@ -4087,7 +4087,7 @@ msgstr "Vous devez autoriser javascript pour modifier le champ artiste sur cette
 #: ../root/artist/edit_credit.tt:17 ../root/artist/split.tt:17
 #, perl-format
 msgid "Javascript needs to be enabled."
-msgstr ""
+msgstr "Javascript doit être activé."
 
 #: ../root/components/forms.tt:272 ../root/release/edit/tracklist.tt:46
 #: ../root/scripts/text_strings.tt:26
@@ -4128,7 +4128,7 @@ msgstr "Label"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Label Country"
-msgstr ""
+msgstr "Pays du Label"
 
 #: ../root/label/edit_form.tt:34
 #, perl-format
@@ -4159,7 +4159,7 @@ msgstr "Code du label :"
 #: ../root/label/layout.tt:4
 #, perl-format
 msgid "Label information"
-msgstr ""
+msgstr "Informations du Label"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -4217,12 +4217,12 @@ msgstr "Langue : {language}, script : {script}"
 #: ../root/account/edit.tt:33
 #, perl-format
 msgid "Languages Known:"
-msgstr ""
+msgstr "Langage connu :"
 
 #: ../root/user/profile.tt:116
 #, perl-format
 msgid "Languages:"
-msgstr ""
+msgstr "Langues : "
 
 #: ../root/user/profile.tt:174
 #, perl-format
@@ -4249,7 +4249,7 @@ msgstr "Date de dernière modification :"
 #: ../root/main/index.tt:6
 #, perl-format
 msgid "Latest posts:"
-msgstr ""
+msgstr "Derniers billets :"
 
 #: ../root/artist/recordings-list.tt:28 ../root/cdstub/cdstub.tt:9
 #: ../root/cdtoc/info.tt:33 ../root/edit/details/edit_medium.tt:50
@@ -4277,7 +4277,7 @@ msgstr "Longueur :"
 #: ../root/edit/relationship/create_url.tt:56
 #, perl-format
 msgid "License:"
-msgstr ""
+msgstr "Licence :"
 
 #: ../root/main/index.tt:65
 #, perl-format
@@ -4285,17 +4285,17 @@ msgid ""
 "Like Wikipedia, MusicBrainz is maintained by a global community of users and"
 " we want everyone &mdash; including you &mdash; to {doc|participate and "
 "contribute}."
-msgstr ""
+msgstr "Comme Wikipedia, MusicBrainz est maintenu par une communauté mondiales d'utilisateur, et nous souhaitons que tout le monde &mdash; vous y compris &mdash; {doc|participe et contribue}."
 
 #: ../root/user/profile.tt:45
 #, perl-format
 msgid "Limited User"
-msgstr ""
+msgstr "Utilisateur limité"
 
 #: ../root/recording/fingerprints.tt:73
 #, perl-format
 msgid "Link"
-msgstr ""
+msgstr "Lien"
 
 #: ../root/edit/details/add_relationship_type.tt:13
 #: ../root/edit/details/edit_relationship_type.tt:12
@@ -4348,12 +4348,12 @@ msgstr "Se connecter"
 #: ../root/work/layout.tt:64
 #, perl-format
 msgid "Log in to edit"
-msgstr ""
+msgstr "Connectez-vous pour modifier"
 
 #: ../root/release/cover_art.tt:60
 #, perl-format
 msgid "Log in to upload cover art"
-msgstr ""
+msgstr "Connectez-vous pour envoyer une jaquette"
 
 #: ../root/doc/bare_error.tt:11 ../root/doc/error.tt:17 ../root/main/400.tt:18
 #: ../root/main/404.tt:18
@@ -4396,12 +4396,12 @@ msgstr "J'ai perdu mon nom d'utilisateur"
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "Low"
-msgstr ""
+msgstr "Bas"
 
 #: ../root/work/edit_form.tt:10 ../root/work/layout.tt:11
 #, perl-format
 msgid "Lyrics Language:"
-msgstr ""
+msgstr "Langue des paroles :"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -4460,22 +4460,22 @@ msgstr "Medium No"
 #: ../root/edit/details/merge_releases.tt:36
 #, perl-format
 msgid "Medium {position} is now medium {new_position}"
-msgstr ""
+msgstr "La position {position} du média est maintenant {new_position}"
 
 #: ../root/edit/details/merge_releases.tt:30
 #, perl-format
 msgid "Medium {position} is now medium {new_position}: {new_name}"
-msgstr ""
+msgstr "La position {position} du média est maintenant {new_position} : {new_name}"
 
 #: ../root/edit/details/merge_releases.tt:24
 #, perl-format
 msgid "Medium {position}: {name} is now medium {new_position}"
-msgstr ""
+msgstr "La position {position} du média {name} est maintenant {new_position}"
 
 #: ../root/edit/details/merge_releases.tt:19
 #, perl-format
 msgid "Medium {position}: {name} is now medium {new_position}: {new_name}"
-msgstr ""
+msgstr "La position {position} du média {name} est maintenant {new_position} : {new_name}"
 
 #: ../root/edit/details/add_disc_id.tt:4 ../root/edit/details/edit_medium.tt:4
 #: ../root/edit/details/remove_disc_id.tt:3
@@ -4544,7 +4544,7 @@ msgstr "Fusionner des oeuvres"
 #: ../root/artist/layout.tt:97
 #, perl-format
 msgid "Merge artist"
-msgstr ""
+msgstr "Fusionner l'artiste"
 
 #: ../root/edit/details/historic/merge_releases.tt:25
 #, perl-format
@@ -4554,7 +4554,7 @@ msgstr "Fusionner des attributs : "
 #: ../root/label/layout.tt:69
 #, perl-format
 msgid "Merge label"
-msgstr ""
+msgstr "Fusionner le label"
 
 #: ../root/edit/details/historic/merge_releases.tt:30
 #, perl-format
@@ -4575,17 +4575,17 @@ msgstr "Fusionner des méthodes :"
 #: ../root/recording/layout.tt:42
 #, perl-format
 msgid "Merge recording"
-msgstr ""
+msgstr "Fusionner l'enregistrement"
 
 #: ../root/release/sidebar.tt:77
 #, perl-format
 msgid "Merge release"
-msgstr ""
+msgstr "Fusionner la sortie"
 
 #: ../root/release_group/layout.tt:41
 #, perl-format
 msgid "Merge release group"
-msgstr ""
+msgstr "Fusionner le groupe de sortie"
 
 #: ../root/artist/index.tt:106
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
@@ -4601,7 +4601,7 @@ msgstr "Fusionner des stratégies : "
 #: ../root/work/layout.tt:45
 #, perl-format
 msgid "Merge work"
-msgstr ""
+msgstr "Fusionner le travail"
 
 #: ../root/edit/details/merge_common.tt:2
 #: ../root/edit/details/merge_recordings.tt:3
@@ -4619,7 +4619,7 @@ msgstr "Message : "
 #: ../root/report/set_in_different_rg.tt:3
 #, perl-format
 msgid "Mismatched release groups"
-msgstr ""
+msgstr "Les groupes de sortie ne correspondent pas"
 
 #: ../root/cdstub/browse.tt:12
 #, perl-format
@@ -4661,12 +4661,12 @@ msgstr "Déplacer la sortie dans un autre groupe de sorties"
 #: ../root/release/edit/tracklist.tt:310
 #, perl-format
 msgid "Move track down"
-msgstr ""
+msgstr "Déplacer la piste vers le bas"
 
 #: ../root/release/edit/tracklist.tt:313
 #, perl-format
 msgid "Move track up"
-msgstr ""
+msgstr "Déplacer la piste vers le haut"
 
 #: ../root/edit/details/move_release.tt:14
 #, perl-format
@@ -4681,7 +4681,7 @@ msgstr "MusicBrainz - L'Encyclopédie musicale ouverte"
 #: ../root/main/index.tt:5
 #, perl-format
 msgid "MusicBrainz Blog"
-msgstr ""
+msgstr "Blog MusicBrainz"
 
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
@@ -4714,12 +4714,12 @@ msgstr "MusicBrainz croit fermement au respect de la vie privée de ses utilisat
 #: ../root/cdtoc/lookup.tt:83
 #, perl-format
 msgid "MusicBrainz does not have any CDs with the TOC:"
-msgstr ""
+msgstr "MusicBrainz n'a aucun CD avec l'index :"
 
 #: ../root/layout/menu.tt:130
 #, perl-format
 msgid "MusicBrainz for Android"
-msgstr ""
+msgstr "MusicBrainz pour Android"
 
 #: ../root/account/register.tt:55
 #, perl-format
@@ -4733,7 +4733,7 @@ msgstr "MusicBrainz n'a qu'un seul type de compte pour tout le monde. Si vous re
 msgid ""
 "MusicBrainz is an open music encyclopedia that collects music metadata and "
 "makes it available to the public."
-msgstr ""
+msgstr "MusicBrainz est une encyclopédie musicale ouverte, qui collecte les métadonnées musicales et les rends disponible au public."
 
 #: ../root/main/index.tt:77
 #, perl-format
@@ -4808,12 +4808,12 @@ msgstr "Mes Tags"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "My Vote"
-msgstr ""
+msgstr "Mon vote"
 
 #: ../root/edit/index.tt:40
 #, perl-format
 msgid "My vote:"
-msgstr ""
+msgstr "Mon vote :"
 
 #: ../root/edit/edit_header.tt:31 ../root/edit/edit_header.tt:36
 #: ../root/edit/edit_header.tt:41
@@ -4884,7 +4884,7 @@ msgstr "Nouveau"
 #: ../root/edit/details/edit_medium.tt:227
 #, perl-format
 msgid "New Artist"
-msgstr ""
+msgstr "Nouvel artiste"
 
 #: ../root/artist/edit_credit.tt:32 ../root/artist/split.tt:46
 #, perl-format
@@ -4926,7 +4926,7 @@ msgstr "Nouveau type : "
 #: ../root/release/merge.tt:53
 #, perl-format
 msgid "New disc title:"
-msgstr ""
+msgstr "Nouveau titre de disque :"
 
 #: ../root/edit/details/edit_release_language.tt:25
 #, perl-format
@@ -4946,17 +4946,17 @@ msgstr "Nouveau mot de passe : "
 #: ../root/release/merge.tt:51
 #, perl-format
 msgid "New position:"
-msgstr ""
+msgstr "Nouvelle position :"
 
 #: ../root/edit/details/reorder_cover_art.tt:22
 #, perl-format
 msgid "New positions:"
-msgstr ""
+msgstr "Nouvelle positions : "
 
 #: ../root/edit/details/edit_medium.tt:199
 #, perl-format
 msgid "New recording"
-msgstr ""
+msgstr "Nouvel enregistrement"
 
 #: ../root/edit/details/historic/edit_relationship.tt:29
 #, perl-format
