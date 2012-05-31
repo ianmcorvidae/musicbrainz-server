@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-30 22:59+0000\n"
+"PO-Revision-Date: 2012-05-30 23:25+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Spain) (http://www.transifex.net/projects/p/musicbrainz/language/es_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -4912,7 +4912,7 @@ msgstr "Nueva publicación:"
 #: ../root/edit/details/edit_release_attributes.tt:27
 #, perl-format
 msgid "New Status:"
-msgstr "Nuevo estado:"
+msgstr "Nuevo estatus:"
 
 #: ../root/edit/details/edit_medium.tt:116
 #, perl-format
@@ -6719,27 +6719,27 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/Delete.pm:12
 #, perl-format
 msgid "Remove label"
-msgstr ""
+msgstr "Eliminar discográfica"
 
 #: ../root/recording/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
 #, perl-format
 msgid "Remove recording"
-msgstr ""
+msgstr "Eliminar grabación"
 
 #: ../root/release/sidebar.tt:80
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 #, perl-format
 msgid "Remove release"
-msgstr ""
+msgstr "Eliminar publicación"
 
 #: ../root/release_group/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseGroup.pm:9
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 #, perl-format
 msgid "Remove release group"
-msgstr ""
+msgstr "Eliminar grupo de publicaciones"
 
 #: ../root/layout/merge-helper.tt:33
 #, perl-format
@@ -10902,7 +10902,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/User.pm:244
 #, perl-brace-format
 msgid "The editor {name} has no email address attached to their account."
-msgstr ""
+msgstr "El editor {name} no tiene una dirección de correo asociada a su cuenta."
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:272
 msgid "Your message could not be sent"
@@ -11021,12 +11021,12 @@ msgstr "Adjuntar ISRCs"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabel.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
 msgid "Add label"
-msgstr ""
+msgstr "Añadir discográfica"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabelAnnotation.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAnnotation.pm:12
 msgid "Add label annotation"
-msgstr ""
+msgstr "Añadir anotación de discográfica"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLink.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Create.pm:22
@@ -11046,16 +11046,16 @@ msgstr "Añadir tipo de relación"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddPUIDs.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddPUIDs.pm:13
 msgid "Add PUIDs"
-msgstr ""
+msgstr "Añadir PUIDs"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:14
 msgid "Add release annotation"
-msgstr ""
+msgstr "Añadir anotación de publicación"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseEvents.pm:11
 msgid "Add release events (historic)"
-msgstr ""
+msgstr "Añadir eventos de publicación (histórico)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrack.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
@@ -11109,7 +11109,7 @@ msgstr "Modificar atributos de publicación"
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEvents.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEventsOld.pm:17
 msgid "Edit release events (historic)"
-msgstr ""
+msgstr "Modificar eventos de publicación (histórico)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupName.pm:7
 msgid "Edit release group name"
@@ -11180,16 +11180,16 @@ msgstr "Eliminar ISRC"
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabelAlias.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Label/DeleteAlias.pm:14
 msgid "Remove label alias"
-msgstr ""
+msgstr "Eliminar alias de la discográfica"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLink.pm:10
 msgid "Remove relationship (historic)"
-msgstr ""
+msgstr "Eliminar relación (histórico)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLinkAttribute.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkAttribute.pm:13
 msgid "Remove relationship attribute"
-msgstr ""
+msgstr "Eliminar atributo de relación"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLinkType.pm:9
 msgid "Remove link type"
@@ -11197,11 +11197,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
-msgstr ""
+msgstr "Eliminar eventos de publicación (histórico)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases"
-msgstr ""
+msgstr "Eliminar publicaciones"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists"
@@ -11225,11 +11225,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
-msgstr ""
+msgstr "Añadir anotación de grabación"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Create.pm:24
 msgid "Add standalone recording"
-msgstr ""
+msgstr "Añadir grabación independiente"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Merge.pm:13
 msgid "Merge recordings"
@@ -11424,7 +11424,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
-msgstr ""
+msgstr "Debes incluir una nota para añadir una grabación independiente"
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:13
 msgid "Link type is required"
@@ -11500,7 +11500,7 @@ msgstr ""
 msgid ""
 "The length of track {pos} cannot be changed since this release has a Disc ID"
 " attached to it."
-msgstr ""
+msgstr "No se puede modificar la duración de la pista {pos}, ya que esta publicación tiene una ID de disco."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:156
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:198
@@ -11517,7 +11517,7 @@ msgstr[1] ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
 msgid "Track {pos} is missing."
-msgstr ""
+msgstr "Falta la pista {pos}."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:213
 msgid ""
@@ -11531,7 +11531,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Role/DatePeriod.pm:42
 msgid "The end date must occur on or after the begin date"
-msgstr ""
+msgstr "La fecha de fin no puede ser anterior a la de inicio"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
 msgid "FreeDB"
@@ -11547,7 +11547,7 @@ msgstr "La antigua contraseña no es válida"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:22
 msgid "Invalid URL format"
-msgstr ""
+msgstr "Formato de URL no válido"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
@@ -11583,7 +11583,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
-msgstr ""
+msgstr "Este nombre de usuario ya está en uso, escoge otro"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
@@ -11724,8 +11724,8 @@ msgid ""
 msgid_plural ""
 "You can't add a track {tracknum} - this release is meant to have exactly "
 "{trackcount} tracks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "No puedes añadir una pista {tracknum}, ya que esta publicación debe tener exactamente {trackcount} pista"
+msgstr[1] "No puedes añadir una pista {tracknum}, ya que esta publicación debe tener exactamente {trackcount} pistas"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1377
 msgid "This release already has all of its tracks"
