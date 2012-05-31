@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-31 11:58+0000\n"
+"PO-Revision-Date: 2012-05-31 12:58+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:38
 #, perl-format
 msgid " &ndash; ????"
-msgstr ""
+msgstr " &ndash; ????"
 
 #: ../root/account/lost_password.tt:7
 #, perl-format
@@ -234,7 +234,7 @@ msgstr "* Geeft het totaal aantal secondes verschil aan tussen de cd die u opvro
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:115
 #, perl-format
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: ../root/user/profile.tt:97
 #, perl-format
@@ -826,7 +826,7 @@ msgstr "Verwijzingen naar partners"
 #: ../root/user/profile.tt:57
 #, perl-format
 msgid "Age:"
-msgstr ""
+msgstr "Leeftijd:"
 
 #: ../root/components/aliases.tt:6
 #, perl-format
@@ -1051,12 +1051,12 @@ msgstr "Voeg media toe aan de doeluitgave"
 #: ../root/edit/search_macros.tt:235
 #, perl-format
 msgid "Approve"
-msgstr ""
+msgstr "Goedkeuren"
 
 #: ../root/edit/edit_header.tt:77 ../root/edit/info.tt:17
 #, perl-format
 msgid "Approve edit"
-msgstr "Bevestig de wijziging direct"
+msgstr "Direct goedkeuren"
 
 #: ../root/release/merge_confirm.tt:4
 #, perl-format
@@ -1515,7 +1515,7 @@ msgid ""
 "privileges. These privileges allow them to make select edits that are "
 "automatically approved without going through the normal voting process, as "
 "well as the ability to instantly approve other users' edits."
-msgstr "Autoredacteuren zijn vertrouwde gebruikers die {url|autoredacteur} privileges hebben gekregen. Deze privileges laat hen een select aantal wijzigingen maken die automatisch worden doorgevoerd zonder door de normale stemmingsprocedure te gaan. Ook geeft dit hen de mogelijkheid om wijzigingen van andere gebruikers direct te bevestigen."
+msgstr "Autoredacteurs zijn vertrouwde gebruikers die {url|autoredacteur} privileges hebben gekregen. Deze privileges laat hen een select aantal wijzigingen maken die automatisch worden doorgevoerd zonder door de normale stemmingsprocedure te gaan. Ook geeft dit hen de mogelijkheid om wijzigingen van andere gebruikers direct goed te keuren."
 
 #: ../root/user/profile.tt:148
 #, perl-format
@@ -1860,7 +1860,7 @@ msgstr "Cd-beginsels zijn een functie om anonieme gebruikers gegevens te laten t
 #: ../root/doc/edit_type.tt:65
 #, perl-format
 msgid "Can be approved"
-msgstr ""
+msgstr "Kan goedgekeurd worden"
 
 #: ../root/artist/merge.tt:22 ../root/components/common-macros.tt:498
 #: ../root/components/filter-form.tt:23 ../root/elections/nominate.tt:10
@@ -2061,7 +2061,7 @@ msgstr "Kies een bestand:"
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
 msgid "Choose one or more cover art types for this image"
-msgstr ""
+msgstr "Kies één of meer types hoesafbeelding voor deze afbeelding"
 
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
@@ -2291,7 +2291,7 @@ msgstr "Hoesafbeelding(en)"
 msgid ""
 "Cover Art provided by the {caa|Cover Art Archive}. Hosted by {host|Digital "
 "West}. Sponsored by: {url1|Google}, {url2|OSUOSL} and {more|others...}. "
-msgstr "Hoesafbeeldingen geleverd door de {caa|Cover Art Archive}. Gehost door {host|Digital West}. Gesponsord door: {url1|Google}, {url2|OSUOSL} en {more|anderen...}."
+msgstr "Hoesafbeeldingen geleverd door de {caa|Cover Art Archive}. Gehost door {host|Digital West}. Gesponsord door: {url1|Google}, {url2|OSUOSL} en {more|anderen…}."
 
 #: ../root/edit/details/macros.tt:86
 #, perl-format
@@ -2353,7 +2353,7 @@ msgstr "Voeg een verwantschap toe"
 #: ../root/components/common-macros.tt:444
 #, perl-format
 msgid "Create relationship with {other}"
-msgstr ""
+msgstr "Creëer een verwantschap met {other}"
 
 #: ../root/edit/search_macros.tt:280
 #, perl-format
@@ -2813,29 +2813,29 @@ msgstr "Wijzig de aantekening van de opname"
 #: ../root/edit/relationship/edit.tt:13 ../root/edit/relationship/edit.tt:15
 #, perl-format
 msgid "Edit Relationship"
-msgstr ""
+msgstr "Wijzig de verwantschap"
 
 #: ../root/relationship/linkattributetype/edit.tt:1
 #: ../root/relationship/linkattributetype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Attribute"
-msgstr ""
+msgstr "Wijzig de verwantschapseigenschap"
 
 #: ../root/admin/index.tt:7
 #, perl-format
 msgid "Edit Relationship Attributes"
-msgstr ""
+msgstr "Wijzig de verwantschapseigenschappen"
 
 #: ../root/relationship/linktype/edit.tt:1
 #: ../root/relationship/linktype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Type"
-msgstr ""
+msgstr "Wijzig het verwantschapstype"
 
 #: ../root/admin/index.tt:6 ../root/layout/menu.tt:55
 #, perl-format
 msgid "Edit Relationship Types"
-msgstr ""
+msgstr "Wijzig de verwantschapstypes"
 
 #: ../root/release/edit_annotation.tt:1
 #, perl-format
@@ -3124,12 +3124,12 @@ msgstr "E-mail"
 #: ../root/account/verify_email_error.tt:3
 #, perl-format
 msgid "Email Address Verification"
-msgstr ""
+msgstr "Verificatie van het e-mailadres"
 
 #: ../root/account/verified.tt:1 ../root/account/verified.tt:3
 #, perl-format
 msgid "Email Address Verified"
-msgstr ""
+msgstr "E-mailadres geverifieerd"
 
 #: ../root/user/email_sent.tt:1 ../root/user/email_sent.tt:3
 #, perl-format
@@ -3256,7 +3256,7 @@ msgstr "Fout"
 #: ../root/edit/require_note.tt:1 ../root/edit/require_note.tt:2
 #, perl-format
 msgid "Error Approving Edit"
-msgstr ""
+msgstr "Fout bij het goedkeuren van de wijziging"
 
 #: ../root/edit/cannot_cancel.tt:1 ../root/edit/cannot_cancel.tt:2
 #, perl-format
@@ -3288,7 +3288,7 @@ msgstr "Alleen al één of twee URL's toevoegen helpt!"
 #: ../root/release/edit/tracklist.tt:173
 #, perl-format
 msgid "Existing tracklist"
-msgstr ""
+msgstr "Bestaande nummerlijst"
 
 #: ../root/release/edit/tracklist.tt:249
 #, perl-format
@@ -3308,12 +3308,12 @@ msgstr "Klap alle omschrijvingen uit"
 #: ../root/doc/edit_type.tt:55
 #, perl-format
 msgid "Expire action"
-msgstr ""
+msgstr "Actie bij het verlopen"
 
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Expired"
-msgstr ""
+msgstr "Verlopen"
 
 #: ../root/components/common-macros.tt:538
 #, perl-format
@@ -3425,7 +3425,7 @@ msgstr "Forum"
 #: ../root/relationship/linktype/tree.tt:12
 #, perl-format
 msgid "Forward link phrase:"
-msgstr ""
+msgstr "Bewoording van de voorwaartse link:"
 
 #: ../root/doc/bare_error.tt:17 ../root/doc/error.tt:23
 #, perl-format
@@ -3500,17 +3500,17 @@ msgstr ""
 #: ../root/search/results-freedb.tt:13
 #, perl-format
 msgid "FreeDB ID"
-msgstr ""
+msgstr "FreeDB-id"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "FreeDB ID:"
-msgstr ""
+msgstr "FreeDB-id:"
 
 #: ../root/release/edit/tracklist.tt:175
 #, perl-format
 msgid "FreeDB import"
-msgstr ""
+msgstr "Import vanuit FreeDB"
 
 #: ../root/cdtoc/info.tt:15
 #, perl-format
@@ -3521,7 +3521,7 @@ msgstr "FreeDB:"
 #: ../root/edit/details/move_disc_id.tt:8
 #, perl-format
 msgid "From:"
-msgstr ""
+msgstr "Van:"
 
 #: ../root/cdstub/index.tt:30 ../root/cdtoc/info.tt:5
 #, perl-format
@@ -3578,7 +3578,7 @@ msgstr "Algemene informatie"
 #: ../root/report/unlinked_pseudo_releases.tt:8
 #, perl-format
 msgid "Generated on {date}"
-msgstr ""
+msgstr "Aangemaakt op {date}"
 
 #: ../root/main/frame.tt:12
 #, perl-format
@@ -3630,7 +3630,7 @@ msgstr "Gok het hoofdlettergebruik in de nummers"
 #: ../root/edit/list_header.tt:18
 #, perl-format
 msgid "Help:"
-msgstr ""
+msgstr "Help:"
 
 #: ../root/release/index.tt:12
 #, perl-format
@@ -3681,12 +3681,12 @@ msgstr "Ik heb net gedoneerd! Waarom zie ik dit?"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "ID"
-msgstr ""
+msgstr "id"
 
 #: ../root/artist/edit_form.tt:44 ../root/label/edit_form.tt:45
 #, perl-format
 msgid "IPI code"
-msgstr ""
+msgstr "IPI-code"
 
 #: ../root/artist/layout.tt:47 ../root/edit/details/add_artist.tt:61
 #: ../root/edit/details/add_label.tt:68 ../root/edit/details/edit_artist.tt:49
@@ -3699,7 +3699,7 @@ msgstr ""
 #: ../root/edit/details/edit_label.tt:56 ../root/label/edit_form.tt:45
 #, perl-format
 msgid "IPI codes:"
-msgstr ""
+msgstr "IPI-codes:"
 
 #: ../root/report/isrc_with_many_recordings.tt:15
 #, perl-format
@@ -3747,7 +3747,7 @@ msgstr "ISRC's met meerdere opnames"
 #: ../root/artist/works-list.tt:12 ../root/search/results-work.tt:13
 #, perl-format
 msgid "ISWC"
-msgstr ""
+msgstr "ISWC"
 
 #: ../root/edit/details/add_iswcs.tt:8
 #, perl-format
@@ -3764,7 +3764,7 @@ msgstr ""
 #: ../root/work/add_iswc.tt:12 ../root/work/layout.tt:18
 #, perl-format
 msgid "ISWC:"
-msgstr ""
+msgstr "ISWC:"
 
 #: ../root/release/edit/missing_entities.tt:71
 #, perl-format
@@ -3966,18 +3966,18 @@ msgstr "De afbeelding is nog niet beschikbaar, probeer het over een paar minuten
 #: ../root/freedb/show.tt:45 ../root/freedb/show.tt:103
 #, perl-format
 msgid "Import"
-msgstr ""
+msgstr "Importeren"
 
 #: ../root/cdstub/import.tt:1 ../root/cdstub/import.tt:2
 #: ../root/cdtoc/lookup.tt:24
 #, perl-format
 msgid "Import CD Stub"
-msgstr ""
+msgstr "Importeer een cd-beginsel"
 
 #: ../root/cdstub/import.tt:41
 #, perl-format
 msgid "Import CD stub"
-msgstr ""
+msgstr "Importeer een cd-beginsel"
 
 #: ../root/freedb/show.tt:54
 #, perl-format
@@ -4050,7 +4050,7 @@ msgstr ""
 #: ../root/edit/details/merge_works.tt:10
 #, perl-format
 msgid "Into:"
-msgstr ""
+msgstr "Naar:"
 
 #: ../root/cdstub/error.tt:5
 #, perl-format
@@ -4089,7 +4089,7 @@ msgstr "Javascript moet zijn ingeschakeld."
 #: ../root/scripts/text_strings.tt:26
 #, perl-format
 msgid "Join phrase"
-msgstr ""
+msgstr "Koppelzin"
 
 #: ../root/relationship/linkattributetype/instruments.tt:12
 #, perl-format
@@ -4223,7 +4223,7 @@ msgstr "Talen:"
 #: ../root/user/profile.tt:174
 #, perl-format
 msgid "Last 28 days"
-msgstr ""
+msgstr "Afgelopen 28 dagen"
 
 #: ../root/cdstub/layout.tt:9
 #, perl-format
@@ -4891,13 +4891,13 @@ msgstr ""
 #: ../root/relationship/linkattributetype/create.tt:3
 #, perl-format
 msgid "New Relationship Attribute"
-msgstr ""
+msgstr "Nieuwe verwantschapseigenschap"
 
 #: ../root/relationship/linktype/create.tt:1
 #: ../root/relationship/linktype/create.tt:3
 #, perl-format
 msgid "New Relationship Type"
-msgstr ""
+msgstr "Nieuw verwantschapstype"
 
 #: ../root/edit/details/historic/merge_releases.tt:14
 #, perl-format
@@ -4907,12 +4907,12 @@ msgstr "Nieuwe uitgave:"
 #: ../root/edit/details/edit_release_attributes.tt:27
 #, perl-format
 msgid "New Status:"
-msgstr ""
+msgstr "Nieuwe status:"
 
 #: ../root/edit/details/edit_medium.tt:116
 #, perl-format
 msgid "New Tracklist:"
-msgstr ""
+msgstr "Nieuwe nummerlijst"
 
 #: ../root/edit/details/edit_release_attributes.tt:22
 #, perl-format
@@ -5065,7 +5065,7 @@ msgstr "Geen overeenkomstige cd's gevonden met TOC {toc}."
 #: ../root/admin/edit_user.tt:13
 #, perl-format
 msgid "No nag"
-msgstr ""
+msgstr "Niet lastigvallen"
 
 #: ../root/artist/recordings.tt:16
 #, perl-format
@@ -5228,12 +5228,12 @@ msgstr "Stuur mij een e-mail bij nieuwe uitgaves van artiesten die ik volg"
 #: ../root/release/edit/recordings.tt:378
 #, perl-format
 msgid "Now loading recording associations..."
-msgstr "Bezig met het laden van koppelingen van opnames..."
+msgstr "Bezig met het laden van koppelingen van opnames…"
 
 #: ../root/release/edit/tracklist.tt:286 ../root/release/edit/tracklist.tt:417
 #, perl-format
 msgid "Now loading tracklist..."
-msgstr ""
+msgstr "Nummerlijst aan het laden…"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:12
 #, perl-format
@@ -5308,7 +5308,7 @@ msgstr "Alleen de gebruiker die een wijziging heeft ingediend kan deze annuleren
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
 msgid "Only {doc|auto-editors} can approve an edit."
-msgstr "Alleen {doc|autoredacteuren} kunnen een wijziging direct bevestigen."
+msgstr "Alleen {doc|autoredacteuren} kunnen een wijziging direct goedkeuren."
 
 #: ../root/edit/search_macros.tt:84
 #, perl-format
@@ -5356,7 +5356,7 @@ msgstr "Opties"
 #: ../root/cdtoc/lookup.tt:96
 #, perl-format
 msgid "Or..."
-msgstr ""
+msgstr "Of…"
 
 #: ../root/otherlookup/results.tt:1 ../root/otherlookup/results.tt:3
 #, perl-format
@@ -5520,7 +5520,7 @@ msgstr "Vergeet niet de bovenstaande stack trace en het gegevensverzoek te verme
 msgid ""
 "Please choose a valid image. Currently the Cover Art Archive only supports "
 "JPEG files."
-msgstr ""
+msgstr "Kies alstublieft een geldige afbeelding. De Cover Art Archive ondersteunt nu alleen JPEG-bestanden."
 
 #: ../root/scripts/text_strings.tt:44
 #, perl-format
@@ -5705,7 +5705,7 @@ msgstr "Zoek naar de artiest waar u een nieuwe uitgave voor wilt toevoegen:"
 msgid ""
 "Please see the <a href=\"{doc}\" target=\"_blank\">Cover Art Types</a> "
 "documentation for a description of these types."
-msgstr ""
+msgstr "Lees de <a href=\"{doc}\" target=\"_blank\">documentatie over hoesafbeeldingstypes </a> voor een beschrijving van deze types."
 
 #: ../root/scripts/text_strings.tt:41
 #, perl-format
@@ -5865,7 +5865,7 @@ msgstr ""
 #: ../root/relationship/linktype/form.tt:24
 #, perl-format
 msgid "Priority:"
-msgstr ""
+msgstr "Prioriteit:"
 
 #: ../root/account/preferences.tt:29 ../root/user/collections.tt:11
 #, perl-format
@@ -5880,7 +5880,7 @@ msgstr "Privacybeleid"
 #: ../root/user/collections.tt:21
 #, perl-format
 msgid "Private"
-msgstr ""
+msgstr "Privé"
 
 #: ../root/collection/header.tt:14
 #, perl-format
@@ -5901,12 +5901,12 @@ msgstr "Producten"
 #: ../root/user/profile/layout.tt:12
 #, perl-format
 msgid "Profile"
-msgstr ""
+msgstr "Profiel"
 
 #: ../root/elections/show.tt:14
 #, perl-format
 msgid "Proposer:"
-msgstr ""
+msgstr "Indiener:"
 
 #: ../root/user/collections.tt:21
 #, perl-format
@@ -6061,7 +6061,7 @@ msgstr "Opnames:"
 #: ../root/account/preferences.tt:12
 #, perl-format
 msgid "Regional settings"
-msgstr ""
+msgstr "Regionale instellingen"
 
 #: ../root/doc/edit_type.tt:58
 #, perl-format
@@ -6081,7 +6081,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:465
 #, perl-format
 msgid "Relate to ..."
-msgstr ""
+msgstr "Relateren aan…"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -6126,7 +6126,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Relationship Type"
-msgstr ""
+msgstr "Verwantschapstype"
 
 #: ../root/relationship/linktype/in_use.tt:1
 #: ../root/relationship/linktype/in_use.tt:3
@@ -6167,7 +6167,7 @@ msgid ""
 "the database. If you would like to propose a new relationship, please do so "
 "through the {url|Style Council}. Relationship editors will only make changes"
 " that have been approved by the Style Council."
-msgstr ""
+msgstr "Verwantschapsredacteurs zijn gebruikers die verwantschapstypes in de gegevensbank kunnen toevoegen of wijzigen. Als u een nieuwe verwantschap wilt voorstellen, moet dat via de {url|Stijlraad}. Verwantschapsredacteuren zullen alleen veranderingen doorvoeren die door de Stijlraad zijn goedgekeurd."
 
 #: ../root/edit/details/add_relationship.tt:3
 #: ../root/edit/details/edit_relationship.tt:8
@@ -6442,7 +6442,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Releases in the Cover Art Archive that still have cover art relationships"
-msgstr ""
+msgstr "Uitgaves in de Cover Art Archive die nog steeds verwantschappen hebben voor hoesafbeeldingen."
 
 #: ../root/report/index.tt:51 ../root/report/released_too_early.tt:1
 #: ../root/report/released_too_early.tt:3
@@ -6655,19 +6655,19 @@ msgstr "Verwijder opname"
 #: ../root/edit/relationship/delete.tt:1 ../root/edit/relationship/delete.tt:3
 #, perl-format
 msgid "Remove Relationship"
-msgstr ""
+msgstr "Verwijder verwantschap"
 
 #: ../root/relationship/linkattributetype/delete.tt:1
 #: ../root/relationship/linkattributetype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Attribute"
-msgstr ""
+msgstr "Verwijder verwantschapseigenschap"
 
 #: ../root/relationship/linktype/delete.tt:1
 #: ../root/relationship/linktype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Type"
-msgstr ""
+msgstr "Verwijder verwantschapstype"
 
 #: ../root/release/delete.tt:2
 #, perl-format
@@ -6739,7 +6739,7 @@ msgstr "Verwijder uitgavegroep"
 #: ../root/layout/merge-helper.tt:33
 #, perl-format
 msgid "Remove selected entities"
-msgstr ""
+msgstr "Verwijder de geselecteerde objecten"
 
 #: ../root/collection/index.tt:47
 #, perl-format
@@ -6828,7 +6828,7 @@ msgstr "Resultaten per pagina:"
 #: ../root/components/search.tt:19
 #, perl-format
 msgid "Results:"
-msgstr ""
+msgstr "Resultaten:"
 
 #: ../root/user/contact.tt:16
 #, perl-format
@@ -6847,7 +6847,7 @@ msgstr ""
 #: ../root/relationship/linktype/form.tt:43
 #, perl-format
 msgid "Save"
-msgstr ""
+msgstr "Opslaan"
 
 #: ../root/layout.tt:166
 #, perl-format
@@ -6864,7 +6864,7 @@ msgstr "Meuk"
 #: ../root/search/results-work.tt:9
 #, perl-format
 msgid "Score"
-msgstr ""
+msgstr "Relevantie"
 
 #: ../root/edit/details/add_release.tt:53
 #: ../root/edit/details/edit_release.tt:34
@@ -6922,12 +6922,12 @@ msgstr "Zoekresultaten"
 #: ../root/cdtoc/lookup.tt:56
 #, perl-format
 msgid "Search by artist"
-msgstr ""
+msgstr "Zoek naar artiesten"
 
 #: ../root/cdtoc/lookup.tt:66
 #, perl-format
 msgid "Search by release"
-msgstr ""
+msgstr "Zoek naar uitgaves"
 
 #: ../root/edit/search_results.tt:24 ../root/edit/search_results.tt:26
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
@@ -6983,7 +6983,7 @@ msgstr "Zoek in de gegevensbank naar deze cd"
 #: ../root/components/common-macros.tt:694
 #, perl-format
 msgid "Search the documentation..."
-msgstr ""
+msgstr "Doorzoek de documentatie…"
 
 #: ../root/release/edit/recordings.tt:110
 #, perl-format
@@ -6993,7 +6993,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:109 ../root/scripts/text_strings.tt:39
 #, perl-format
 msgid "Searching..."
-msgstr ""
+msgstr "Zoeken…"
 
 #: ../root/elections/show.tt:61
 #, perl-format
@@ -7010,12 +7010,12 @@ msgstr ""
 #: ../root/cdtoc/info.tt:38 ../root/cdtoc/info.tt:40 ../root/cdtoc/info.tt:42
 #, perl-format
 msgid "Sectors"
-msgstr ""
+msgstr "Sectoren"
 
 #: ../root/tag/index.tt:20
 #, perl-format
 msgid "See all {num} {entity}"
-msgstr ""
+msgstr "Bekijk alle {num} {entity}"
 
 #: ../root/account/edit.tt:6
 #, perl-format
@@ -7032,7 +7032,7 @@ msgstr "Bekijk de {uri|volledige instrumententabel}."
 #: ../root/release/edit/recordings.tt:329
 #, perl-format
 msgid "Select"
-msgstr ""
+msgstr "Selecteren"
 
 #: ../root/release/edit/tracklist.tt:99
 #, perl-format
@@ -7086,7 +7086,7 @@ msgstr "Vul de duur van de nummers in"
 #: ../root/relationship/linktype/form.tt:15
 #, perl-format
 msgid "Short link phrase:"
-msgstr ""
+msgstr "Korte koppelzin:"
 
 #: ../root/release/index.tt:11
 #, perl-format
@@ -7096,12 +7096,12 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
 msgid "Show less..."
-msgstr "Laat minder zien..."
+msgstr "Laat minder zien…"
 
 #: ../root/scripts/text_strings.tt:87
 #, perl-format
 msgid "Show more..."
-msgstr "Laat meer zien..."
+msgstr "Laat meer zien…"
 
 #: ../root/account/preferences.tt:33
 #, perl-format
@@ -7588,7 +7588,7 @@ msgstr "Geabonneerde redacteurs"
 #: ../root/edit/list_header.tt:13
 #, perl-format
 msgid "Subscribed entities"
-msgstr ""
+msgstr "Geabonneerde objecten"
 
 #: ../root/artist/layout.tt:130 ../root/artist/subscribers.tt:1
 #: ../root/artist/subscribers.tt:2 ../root/label/layout.tt:100
@@ -7994,7 +7994,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:25
 #, perl-format
 msgid "Their vote: "
-msgstr ""
+msgstr "Hun stem:"
 
 #: ../root/cdtoc/lookup.tt:11
 #, perl-format
@@ -8099,12 +8099,12 @@ msgstr "Er is geen redacteur met deze naam."
 #: ../root/edit/cannot_approve.tt:3
 #, perl-format
 msgid "There was a problem approving {edit}."
-msgstr ""
+msgstr "Er was een probleem bij het goedkeuren van {edit}."
 
 #: ../root/edit/cannot_cancel.tt:3
 #, perl-format
 msgid "There was a problem cancelling {edit}."
-msgstr ""
+msgstr "Er was een probleem bij het annuleren van {edit}."
 
 #: ../root/release/edit/layout.tt:37
 #, perl-format
@@ -8278,7 +8278,7 @@ msgid ""
 "This form allows you to split {artist} into separate artists. When the edit "
 "is accepted, existing artist credits will be updated, and collaboration "
 "relationships will be removed"
-msgstr ""
+msgstr "Dit formulier laat u {artist} splitsen in afzonderlijke artiesten. Als de wijziging wordt doorgevoerd, worden bestaande artiesttoewijzingen bijgewerkt en samenwerkingsverwantschappen verwijderd."
 
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
@@ -8326,7 +8326,7 @@ msgstr ""
 msgid ""
 "This label cannot be removed because there are still releases, recordings "
 "and/or relationships attributed to it."
-msgstr ""
+msgstr "Deze platenmaatschappij kan niet worden verwijderd omdat er nog steeds uitgaves, opnames en/of verwantschappen aan verbonden zijn."
 
 #: ../root/label/index.tt:12
 #, perl-format
@@ -8373,12 +8373,12 @@ msgstr "Deze pagina is niet beoordeeld door ons documentatieteam ({more_info|mee
 #: ../root/doc/page.tt:31
 #, perl-format
 msgid "This page is {doc|transcluded} from revision {version} of {title}."
-msgstr ""
+msgstr "Deze pagina is {doc|getranscludeerd} van revisie {version} van {title}."
 
 #: ../root/doc/page.tt:41
 #, perl-format
 msgid "This page is {doc|transcluded} from {title}."
-msgstr ""
+msgstr "Deze pagina is {doc|getranscludeerd} van {title}."
 
 #: ../root/release/add_cover_art.tt:9
 #, perl-format
@@ -8394,7 +8394,7 @@ msgstr "Deze persoon is overleden."
 #, perl-format
 msgid ""
 "This recording cannot be removed because it is still on use in tracklists."
-msgstr ""
+msgstr "Deze opname kan niet worden verwijderd omdat hij nog steeds wordt gebruikt in nummerlijsten."
 
 #: ../root/recording/fingerprints.tt:87
 #, perl-format
@@ -8640,7 +8640,7 @@ msgstr "Dit rapport laat uitgaves zien die (disc n) of (bonus disc) in de titel 
 msgid ""
 "This report shows releases which have artwork in the Cover Ar Archive, but "
 "still have a cover art relationship (pointing to a URL)."
-msgstr ""
+msgstr "Dit rapport laat uitgaves zien die hoesafbeeldingen in de Cover Art Archive hebben, maar nog steeds verwantschappen voor hoesafbeeldingen hebben die naar een URL verwijzen."
 
 #: ../root/report/cat_no_looks_like_asin.tt:6
 #, perl-format
@@ -8869,7 +8869,7 @@ msgstr "Totaal aantal nummers"
 #: ../root/freedb/show.tt:63 ../root/search/lib/inline-results-recording.tt:15
 #, perl-format
 msgid "Track"
-msgstr ""
+msgstr "Nummer"
 
 #: ../root/release/edit/tracklist.tt:152 ../root/release/edit/tracklist.tt:394
 #: ../root/release/edit/tracklist.tt:395
@@ -8896,7 +8896,7 @@ msgstr ""
 #: ../root/edit/details/set_track_lengths.tt:34
 #, perl-format
 msgid "Track lengths:"
-msgstr ""
+msgstr "Nummerlengte"
 
 #: ../root/release/edit/tracklist.tt:192
 #, perl-format
@@ -8914,13 +8914,13 @@ msgstr ""
 #: ../root/cdstub/edit.tt:64
 #, perl-format
 msgid "Track {n}:"
-msgstr ""
+msgstr "Nummer {n}:"
 
 #: ../root/edit/details/historic/remove_track.tt:14
 #: ../root/taglookup/form.tt:7
 #, perl-format
 msgid "Track:"
-msgstr ""
+msgstr "Nummer:"
 
 #: ../root/cdstub/edit.tt:61 ../root/cdstub/index.tt:7
 #: ../root/release/edit/recordings.tt:253 ../root/release/index.tt:4
@@ -8934,7 +8934,7 @@ msgstr "Lijst van nummers"
 #: ../root/edit/details/remove_medium.tt:17
 #, perl-format
 msgid "Tracklist:"
-msgstr ""
+msgstr "Nummerlijst:"
 
 #: ../root/collection/index.tt:13 ../root/otherlookup/results-release.tt:9
 #: ../root/release/discids.tt:9 ../root/release_group/index.tt:14
@@ -8949,7 +8949,7 @@ msgstr "Nummers"
 #: ../root/report/index.tt:65
 #, perl-format
 msgid "Tracks whose names include their sequence numbers"
-msgstr ""
+msgstr "Nummers met de positie in de titel"
 
 #: ../root/edit/details/historic/add_release.tt:44
 #, perl-format
@@ -8959,34 +8959,34 @@ msgstr "Nummers:"
 #: ../root/admin/index.tt:11 ../root/layout/menu.tt:63
 #, perl-format
 msgid "Transclude WikiDocs"
-msgstr ""
+msgstr "Transcludeer WikiDocs"
 
 #: ../root/admin/wikidoc/index.tt:85
 #, perl-format
 msgid "Transcluded version"
-msgstr ""
+msgstr "Getranscludeerde versie"
 
 #: ../root/admin/wikidoc/index.tt:52 ../root/admin/wikidoc/index.tt:54
 #, perl-format
 msgid "Transclusion Table"
-msgstr ""
+msgstr "Transclusietabel"
 
 #: ../root/admin/edit_user.tt:7
 #, perl-format
 msgid "Transclusion editor"
-msgstr ""
+msgstr "Transclusieredacteur"
 
 #: ../root/user/privileged.tt:34
 #, perl-format
 msgid "Transclusion editors"
-msgstr ""
+msgstr "Transclusieredacteurs"
 
 #: ../root/user/privileged.tt:35
 #, perl-format
 msgid ""
 "Transclusion editors are users who add and maintain entries in the "
 "{uri|WikiDocs} transclusion table."
-msgstr ""
+msgstr "Transclusieredacteurs zijn gebruikers die lemma's in de transclusietabel van {uri|WikiDocs} toevoegen en onderhouden."
 
 #: ../root/report/index.tt:54
 #, perl-format
@@ -9045,7 +9045,7 @@ msgstr "Type:"
 #: ../root/edit/details/edit_release_attributes.tt:13
 #, perl-format
 msgid "Type: {type}, status: {status}"
-msgstr ""
+msgstr "Type: {type}, status: {status}"
 
 #: ../root/edit/details/add_cover_art.tt:18
 #: ../root/edit/details/edit_cover_art.tt:9
@@ -9053,7 +9053,7 @@ msgstr ""
 #: ../root/edit/details/remove_relationship_type.tt:3
 #, perl-format
 msgid "Types:"
-msgstr ""
+msgstr "Types:"
 
 #: ../root/report/bad_amazon_urls.tt:17
 #: ../root/report/release_group_url_list.tt:5
@@ -9066,7 +9066,7 @@ msgstr "URL"
 #: ../root/url/index.tt:2
 #, perl-format
 msgid "URL Details"
-msgstr ""
+msgstr "Details van de URL"
 
 #: ../root/url/index.tt:1
 #, perl-format
@@ -9151,7 +9151,7 @@ msgstr "Bijwerken"
 #: ../root/admin/wikidoc/edit.tt:1 ../root/admin/wikidoc/edit.tt:3
 #, perl-format
 msgid "Update Page"
-msgstr ""
+msgstr "Pagina bijwerken"
 
 #: ../root/components/tag.tt:3
 #, perl-format
@@ -9199,7 +9199,7 @@ msgstr "Gebruik onze <strong>XML webdienst</strong> of <strong>ontwikkelingsbibl
 #: ../root/release/edit/recordings.tt:94
 #, perl-format
 msgid "Use suggested recording"
-msgstr ""
+msgstr "Gebruik de gesuggereerde opname"
 
 #: ../root/components/forms.tt:235
 #, perl-format
@@ -9221,17 +9221,17 @@ msgstr "Gebruik de volgende velden om een lemma in FreeDB te zoeken."
 #: ../root/release/edit/tracklist.tt:205
 #, perl-format
 msgid "Use the following fields to search for an existing tracklist."
-msgstr ""
+msgstr "Gebruik de volgende velden om naar een bestaande nummerlijst te zoeken."
 
 #: ../root/admin/wikidoc/index.tt:78
 #, perl-format
 msgid "Use this button to fetch page versions from the wiki."
-msgstr ""
+msgstr "Gebruik deze knop om paginaversies van de wiki op te halen."
 
 #: ../root/search/form.tt:39
 #, perl-format
 msgid "Use {doc|advanced query syntax}"
-msgstr ""
+msgstr "Gebruik de {doc|geavanceerde zoeksyntaxis)"
 
 #: ../root/user/profile.tt:45
 #, perl-format
@@ -9269,7 +9269,7 @@ msgstr "Door deze samenvoegingsstrategie te gebruiken worden alle media van alle
 msgid ""
 "Using {doc|advanced query syntax} while performing a direct database search "
 "will result in inaccurate results."
-msgstr ""
+msgstr "Het gebruik van {doc|geavanceerde zoeksyntaxis} tijdens het direct zoeken in de gegevensbank leidt tot onnauwkeurige resultaten."
 
 #: ../root/cdstub/browse.tt:19 ../root/cdstub/layout.tt:25
 #, perl-format
@@ -9304,7 +9304,7 @@ msgstr "Bekijk de geschiedenis van de aantekening"
 #: ../root/elections/index.tt:23
 #, perl-format
 msgid "View details"
-msgstr ""
+msgstr "Bekijk de details"
 
 #: ../root/admin/wikidoc/index.tt:110
 #, perl-format
@@ -9349,7 +9349,7 @@ msgstr "Telling:"
 #: ../root/user/profile.tt:152
 #, perl-format
 msgid "Voted down"
-msgstr ""
+msgstr "Weggestemd"
 
 #: ../root/elections/show.tt:108
 #, perl-format
@@ -9389,12 +9389,12 @@ msgstr "Voorstemmen:"
 #: ../root/elections/show.tt:55
 #, perl-format
 msgid "Voting"
-msgstr ""
+msgstr "Stemmen"
 
 #: ../root/edit/info.tt:57 ../root/edit/list_header.tt:21
 #, perl-format
 msgid "Voting FAQ"
-msgstr ""
+msgstr "Stem-FAQ"
 
 #: ../root/elections/show.tt:85
 #, perl-format
@@ -9443,7 +9443,7 @@ msgstr "Onze excuses, maar voor dit rapport zijn nu geen gegevens beschikbaar."
 msgid ""
 "We are unable to display history for cover art. For a current listing of "
 "cover art, please see the {coverart|releases cover art page}."
-msgstr ""
+msgstr "We kunnen geen geschiedenis van de hoesafbeeldingen tonen. Kijk voor een lijst met huidige hoesafbeeldingen op de {coverart|hoesafbeeldingen tab op de uitgavepagina}."
 
 #: ../root/release/edit/missing_entities.tt:74
 #, perl-format
@@ -9604,7 +9604,7 @@ msgstr "Wiki-versie"
 #: ../root/edit/details/change_wikidoc.tt:4
 #, perl-format
 msgid "WikiDoc:"
-msgstr ""
+msgstr "WikiDoc:"
 
 #: ../root/artist/works-list.tt:9 ../root/components/common-macros.tt:476
 #: ../root/edit/search_macros.tt:280 ../root/work/edits.tt:19
@@ -10236,13 +10236,13 @@ msgstr ""
 #: ../root/relationship/linktype/tree.tt:7
 #, perl-format
 msgid "more"
-msgstr ""
+msgstr "meer"
 
 #: ../root/layout/sidebar/sidebar-tags.tt:1
 #: ../root/layout/sidebar/sidebar-tags.tt:16
 #, perl-format
 msgid "more..."
-msgstr ""
+msgstr "meer…"
 
 #: ../root/edit/search_macros.tt:17
 #, perl-format
@@ -10369,7 +10369,7 @@ msgstr "symbool"
 #: ../root/release/edit/recordings.tt:262
 #, perl-format
 msgid "track"
-msgstr ""
+msgstr "nummer"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -10483,7 +10483,7 @@ msgstr ""
 msgid ""
 "{edit} has received one or more \"no\" votes, you must leave an edit note "
 "before you can approve it."
-msgstr "{edit} heeft een of meer nee-stemmen gekregen. U moet een notitie bij deze wijziging plaatsen om hem direct te bevestigen."
+msgstr "{edit} heeft één of meer tegenstemmen gekregen. U moet een notitie bij deze wijziging plaatsen om hem direct goed te keuren."
 
 #: ../root/components/common-macros.tt:196
 #: ../root/components/relationships.tt:18
@@ -10813,7 +10813,7 @@ msgstr "De ingevoerde TOC is niet geldig"
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:146
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:307
 msgid "The provided medium id is not valid"
-msgstr ""
+msgstr "De ingevoerde medium-id is niet geldig"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:152
 msgid "This CDTOC is already attached to this medium"
@@ -10826,7 +10826,7 @@ msgstr "Het geselecteerde medium kan geen disc-id's hebben"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:189
 msgid "The provided artist id is not valid"
-msgstr ""
+msgstr "De ingevoerde artiest-id is niet geldig"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:302
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:414
@@ -10870,7 +10870,7 @@ msgstr "Deze ISRC bestaat niet"
 
 #: ../lib/MusicBrainz/Server/Controller/ISWC.pm:55
 msgid "This ISWC does not exist"
-msgstr ""
+msgstr "Deze ISWC bestaat niet"
 
 #: ../lib/MusicBrainz/Server/Controller/Recording.pm:217
 msgid "This ISRC already exists for this recording"
@@ -11071,7 +11071,7 @@ msgstr "Verander de artiest van het nummer"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeWikiDoc.pm:7
 msgid "Change wikidoc"
-msgstr ""
+msgstr "WikiDoc veranderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistName.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistSortname.pm:7
@@ -11188,7 +11188,7 @@ msgstr "Verwijder verwantschapseigenschap"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLinkType.pm:9
 msgid "Remove link type"
-msgstr ""
+msgstr "Verwijder linktype"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
@@ -11301,7 +11301,7 @@ msgstr "Voeg aantekening toe aan deze compositie"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddISWCs.pm:22
 msgid "Add ISWCs"
-msgstr ""
+msgstr "Voeg ISWC's toe"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
@@ -11321,11 +11321,11 @@ msgstr "Voeg composities samen"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/RemoveISWC.pm:16
 msgid "Remove ISWC"
-msgstr ""
+msgstr "Verwijder ISWC"
 
 #: ../lib/MusicBrainz/Server/EditSearch/Predicate.pm:66
 msgid "This operator is not supported"
-msgstr ""
+msgstr "Deze operator wordt niet ondersteund"
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
@@ -11374,7 +11374,7 @@ msgstr "Dit is geen geldig disc-id"
 
 #: ../lib/MusicBrainz/Server/Form/Field/FreeDBID.pm:12
 msgid "This is not a valid FreeDB ID"
-msgstr ""
+msgstr "Dit is geen geldige FreeDB-id"
 
 #: ../lib/MusicBrainz/Server/Form/Field/GID.pm:12
 msgid "This is not a valid MBID"
@@ -11423,7 +11423,7 @@ msgstr "U moet een notitie toevoegen als u een losstaande opname toevoegt."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:13
 msgid "Link type is required"
-msgstr ""
+msgstr "Linktype is vereist."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:88
 msgid ""
@@ -11446,7 +11446,7 @@ msgstr "Deze eigenschap is verplicht"
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:131
 #, perl-brace-format
 msgid "This attribute can only be specified {max} times. You specified {n}."
-msgstr ""
+msgstr "Deze eigenschap kan maar {max} keer gespecificeerd worden. U specificeerde het {n} keer."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/EditNote.pm:27
 msgid ""
@@ -11574,7 +11574,7 @@ msgstr "Wekelijks"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:83
 msgid "Never"
-msgstr ""
+msgstr "Nooit"
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
