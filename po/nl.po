@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-31 12:58+0000\n"
+"PO-Revision-Date: 2012-05-31 13:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1148,21 +1148,21 @@ msgstr "Weet u zeker dat u wijziging #{n} wilt annuleren? Dit kan niet ongedaan 
 msgid ""
 "Are you sure you wish to remove <strong>{page}</strong> from the "
 "transclusion table?"
-msgstr ""
+msgstr "Weet u zeker dat u <strong>{page}</strong> van de transclusietabel wilt verwijderen?"
 
 #: ../root/relationship/linkattributetype/delete.tt:6
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the <strong>{link_attr_type}</strong> "
 "relationship attribute?"
-msgstr ""
+msgstr "Weet u zeker dat u de <strong>{link_attr_type}</strong> verwantschapseigenschap wilt verwijderen?"
 
 #: ../root/relationship/linktype/delete.tt:6
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the <strong>{link_type}</strong> "
 "relationship type?"
-msgstr ""
+msgstr "Weet u zeker dat u het <strong>{link_type}</strong> verwantschapstype wilt verwijderen?"
 
 #: ../root/isrc/delete.tt:5
 #, perl-format
@@ -1275,7 +1275,7 @@ msgstr "Details van de artiest"
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Artist IPI:"
-msgstr ""
+msgstr "Artiest-IPI:"
 
 #: ../root/artist/not_found.tt:1 ../root/artist/not_found.tt:2
 #, perl-format
@@ -1885,7 +1885,7 @@ msgstr "Annuleer wijziging"
 #: ../root/components/common-macros.tt:444
 #, perl-format
 msgid "Cancel creating relationship with {name}"
-msgstr ""
+msgstr "Annuleer het maken van een verwantschap met {name}"
 
 #: ../root/edit/cancel.tt:24 ../root/edit/edit_header.tt:81
 #: ../root/edit/info.tt:21
@@ -1932,7 +1932,7 @@ msgstr "Kan geen hoesafbeelding toevoegen"
 #: ../root/edit/relationship/cannot_create.tt:2
 #, perl-format
 msgid "Cannot Create Relationship"
-msgstr ""
+msgstr "Kan geen verwantschap creëren"
 
 #: ../root/recording/cannot_add.tt:1
 #, perl-format
@@ -2106,7 +2106,7 @@ msgstr "Klik {link|hier} om verder te gaan naar de gebruikerspagina."
 #: ../root/edit/details/add_puids.tt:3
 #, perl-format
 msgid "Client:"
-msgstr ""
+msgstr "Client:"
 
 #: ../root/edit/search_macros.tt:280
 #, perl-format
@@ -2203,7 +2203,7 @@ msgstr "Vergelijk revisie door {user_old} op {date_old} met revisie {user_new} o
 #: ../root/edit/info.tt:51
 #, perl-format
 msgid "Conditions:"
-msgstr ""
+msgstr "Voorwaarden:"
 
 #: ../root/artist/edit_form.tt:29
 #, perl-format
@@ -3640,7 +3640,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "High"
-msgstr ""
+msgstr "Hoog"
 
 #: ../root/doc/edit_types.tt:20 ../lib/MusicBrainz/Server/Edit/Historic.pm:12
 #, perl-format
@@ -3693,7 +3693,7 @@ msgstr "IPI-code"
 #: ../root/edit/details/edit_label.tt:52 ../root/label/layout.tt:35
 #, perl-format
 msgid "IPI code:"
-msgstr ""
+msgstr "IPI-code:"
 
 #: ../root/artist/edit_form.tt:44 ../root/edit/details/edit_artist.tt:53
 #: ../root/edit/details/edit_label.tt:56 ../root/label/edit_form.tt:45
@@ -3778,7 +3778,7 @@ msgstr "Als geen van deze artiesten overeenkomt met de artiest die u bedoelt, ku
 msgid ""
 "If none of these labels match the label you intended, you can still create a"
 " new label."
-msgstr ""
+msgstr "Als geen van deze platenmaatschappijen overeenkomen met degene die u bedoelde, kunt u een nieuwe platenmaatschappij toevoegen."
 
 #: ../root/artist/edit_form.tt:5
 #, perl-format
@@ -4042,7 +4042,7 @@ msgstr "Interne serverfout"
 #: ../root/user/profile.tt:42
 #, perl-format
 msgid "Internal/Bot"
-msgstr ""
+msgstr "Intern/Robot"
 
 #: ../root/edit/details/merge_common.tt:17
 #: ../root/edit/details/merge_recordings.tt:10
@@ -4062,7 +4062,7 @@ msgstr "Ongeldige disc-id"
 msgid ""
 "It looks like you're using Internet Explorer.<br/>To get the most out of "
 "this website we highly recommend the use of {uri|Google Chrome Frame}."
-msgstr ""
+msgstr "Het lijkt er op dat u Internet Explorer gebruikt.</br>Om het meeste uit deze site te halen raden we aan om {uri|Google Chrome Frame} te gebruiken."
 
 #: ../root/layout/menu.tt:124 ../root/main/index.tt:24
 #, perl-format
@@ -4094,7 +4094,7 @@ msgstr "Koppelzin"
 #: ../root/relationship/linkattributetype/instruments.tt:12
 #, perl-format
 msgid "Jump to:"
-msgstr ""
+msgstr "Spring naar:"
 
 #: ../root/user/login.tt:31
 #, perl-format
@@ -4429,7 +4429,7 @@ msgstr "Doneer nu!"
 #: ../root/release/edit/tracklist.tt:172
 #, perl-format
 msgid "Manual entry"
-msgstr ""
+msgstr "Handmatige invoer"
 
 #: ../root/release/lookup.tt:8
 #, perl-format
@@ -5253,7 +5253,7 @@ msgstr "Oude artiest"
 #: ../root/edit/details/edit_medium.tt:42
 #, perl-format
 msgid "Old Tracklist:"
-msgstr ""
+msgstr "Oude nummerlijst:"
 
 #: ../root/account/change_password.tt:10
 #, perl-format
@@ -5381,7 +5381,7 @@ msgstr "Andere uitgavegroepen"
 #: ../root/user/profile.tt:177
 #, perl-format
 msgid "Overall"
-msgstr ""
+msgstr "Algemeen"
 
 #: ../root/artist/header.tt:1 ../root/cdstub/header.tt:9
 #: ../root/collection/header.tt:1 ../root/release_group/header.tt:1
@@ -5570,7 +5570,7 @@ msgstr "Voer alstublieft uw oude wachtwoord hieronder in, en daarna uw nieuwe wa
 msgid ""
 "Please first navigate to the page of the artist who you wish to relate  to "
 "recordings on this release and select \"use in relationship\""
-msgstr "Navigeer eerst naar de pagina van de artiest die u wilt relateren aan opnames op deze uitgave en selecteer „Gebruik in een verwantschap“"
+msgstr "Navigeer eerst naar de pagina van de artiest die u wilt relateren aan opnames op deze uitgave en selecteer „Gebruik in een verwantschap“."
 
 #: ../root/freedb/show.tt:48 ../root/freedb/show.tt:106
 #, perl-format
@@ -5705,12 +5705,12 @@ msgstr "Zoek naar de artiest waar u een nieuwe uitgave voor wilt toevoegen:"
 msgid ""
 "Please see the <a href=\"{doc}\" target=\"_blank\">Cover Art Types</a> "
 "documentation for a description of these types."
-msgstr "Lees de <a href=\"{doc}\" target=\"_blank\">documentatie over hoesafbeeldingstypes </a> voor een beschrijving van deze types."
+msgstr "Lees de <a href=\"{doc}\" target=\"_blank\">documentatie over hoesafbeeldingstypes</a> voor een beschrijving van deze types."
 
 #: ../root/scripts/text_strings.tt:41
 #, perl-format
 msgid "Please select a relationship type."
-msgstr ""
+msgstr "Selecteer een verwantschapstype"
 
 #: ../root/scripts/text_strings.tt:40
 #, perl-format
@@ -5739,7 +5739,7 @@ msgstr "Selecteer een medium waar u deze TOC aan wilt toevoegen."
 #: ../root/main/rate_limited.tt:6
 #, perl-format
 msgid "Please slow down and then try again"
-msgstr ""
+msgstr "Werk alstublieft wat langzamer en probeer het dan opnieuw"
 
 #: ../root/components/forms.tt:185
 #, perl-format
@@ -5754,7 +5754,7 @@ msgstr "Gebruik de Gok de sorteernaam-knop om de sorteernaam te gokken."
 #: ../root/main/503.tt:8
 #, perl-format
 msgid "Please wait a few minutes and repeat your request."
-msgstr ""
+msgstr "Wacht alstublieft een paar minuten en herhaal dan uw verzoek."
 
 #: ../root/components/aliases.tt:67
 #, perl-format
@@ -5791,12 +5791,12 @@ msgstr "Positie:"
 #: ../root/artist/edit_form.tt:16
 #, perl-format
 msgid "Possible Duplicate Artists"
-msgstr ""
+msgstr "Mogelijke dubbele artiesten"
 
 #: ../root/label/edit_form.tt:13
 #, perl-format
 msgid "Possible Duplicate Labels"
-msgstr ""
+msgstr "Mogelijke dubbele platenmaatschappijen"
 
 #: ../root/cdtoc/lookup.tt:28
 #, perl-format
@@ -5967,7 +5967,7 @@ msgstr "Lees meer &raquo;"
 msgid ""
 "Read the {doc|WikiDocs} documentation for an overview of how transclusion "
 "works."
-msgstr ""
+msgstr "Lees de documentatie over {doc|WikiDocs} voor een overzicht over hoe transclusie werkt."
 
 #: ../root/components/common-macros.tt:473 ../root/edit/search_macros.tt:280
 #: ../root/report/isrc_with_many_recordings.tt:17
@@ -5981,7 +5981,7 @@ msgstr "Opname"
 #: ../root/recording/edit_form.tt:6
 #, perl-format
 msgid "Recording Details"
-msgstr ""
+msgstr "Opnamedetails"
 
 #: ../root/recording/not_found.tt:1 ../root/recording/not_found.tt:2
 #, perl-format
@@ -6039,7 +6039,7 @@ msgstr "Opnames waarvan de naam beginnen met „{index}“"
 #: ../root/report/recordings_with_earliest_release_relationships.tt:3
 #, perl-format
 msgid "Recordings with Earliest Release Relationships"
-msgstr ""
+msgstr "Opnames met eerste uitgaveverwantschappen."
 
 #: ../root/report/index.tt:64
 #, perl-format
@@ -6148,17 +6148,17 @@ msgstr ""
 #: ../root/relationship/linkattributetype/in_use.tt:2
 #, perl-format
 msgid "Relationship attribute still in use"
-msgstr ""
+msgstr "Verwantschapseigenschap nog in gebruik"
 
 #: ../root/admin/edit_user.tt:8
 #, perl-format
 msgid "Relationship editor"
-msgstr ""
+msgstr "Verwantschapsredacteur"
 
 #: ../root/user/privileged.tt:26
 #, perl-format
 msgid "Relationship editors"
-msgstr ""
+msgstr "Verwantschapsredacteuren"
 
 #: ../root/user/privileged.tt:27
 #, perl-format
@@ -6316,7 +6316,7 @@ msgstr "Waarderingen van de uitgavegroep"
 #: ../root/release/relationships.tt:4
 #, perl-format
 msgid "Release group relationships"
-msgstr ""
+msgstr "Verwantschappen van de uitgavegroep"
 
 #: ../root/release_group/layout.tt:1
 #, perl-format
@@ -6435,7 +6435,7 @@ msgstr "Uitgaves met meerdere Discogs-verwijzingen"
 #: ../root/report/some_formats_unset.tt:3
 #, perl-format
 msgid "Releases With Some Formats Unset"
-msgstr ""
+msgstr "Uitgaves waarbij sommige mediumtypes ontbreken."
 
 #: ../root/report/index.tt:56
 #: ../root/report/releases_in_caa_with_cover_art_relationships.tt:1
@@ -6458,7 +6458,7 @@ msgstr "Uitgaves die beginnen met „{index}“"
 #: ../root/report/index.tt:52
 #, perl-format
 msgid "Releases where some (but not all) mediums have no format set"
-msgstr ""
+msgstr "Uitgaves waarbij sommige (maar niet alle) media geen type zijn ingesteld."
 
 #: ../root/report/index.tt:42
 #, perl-format
@@ -6988,7 +6988,7 @@ msgstr "Doorzoek de documentatie…"
 #: ../root/release/edit/recordings.tt:110
 #, perl-format
 msgid "Search:"
-msgstr ""
+msgstr "Zoeken:"
 
 #: ../root/release/edit/tracklist.tt:109 ../root/scripts/text_strings.tt:39
 #, perl-format
@@ -6998,7 +6998,7 @@ msgstr "Zoeken…"
 #: ../root/elections/show.tt:61
 #, perl-format
 msgid "Second this candidate"
-msgstr ""
+msgstr "Secondeer deze kandidaat"
 
 #: ../root/edit/details/add_release_group.tt:35
 #: ../root/edit/details/edit_release_group.tt:23
@@ -7269,21 +7269,21 @@ msgstr "Onze excuses, er zijn geen opnames die beginnen met „{index}“. {Ga t
 msgid ""
 "Sorry, there are no release groups starting with “{index}”. Please {pre|go "
 "back} and try again."
-msgstr "Onze excuses, er zijn geen uitgavegroepen die beginnen met \"{index}\". {Ga terug} en probeer het opnieuw."
+msgstr "Onze excuses, er zijn geen uitgavegroepen die beginnen met „{index}“. {Ga terug} en probeer het opnieuw."
 
 #: ../root/artist/browse_various_releases.tt:15 ../root/browse/release.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no releases starting with “{index}”. Please {pre|go back} "
 "and try again."
-msgstr "Onze excuses, er zijn geen uitgaves die beginnen met \"{index}\". {Ga terug} en probeer het opnieuw."
+msgstr "Onze excuses, er zijn geen uitgaves die beginnen met „{index}“. {Ga terug} en probeer het opnieuw."
 
 #: ../root/browse/work.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no works starting with “{index}”. Please {pre|go back} and "
 "try again."
-msgstr "Onze excuses, er zijn geen compositie die beginnen met \"{index}\". {Ga terug} en probeer het opnieuw."
+msgstr "Onze excuses, er zijn geen compositie die beginnen met „{index}“. {Ga terug} en probeer het opnieuw."
 
 #: ../root/main/400.tt:5
 #, perl-format
@@ -7427,7 +7427,7 @@ msgstr "Onze excuses, uw zoekopdracht was te groot."
 #: ../root/doc/bare_error.tt:5 ../root/doc/error.tt:11
 #, perl-format
 msgid "Sorry, “{id}” is not a valid documentation page."
-msgstr "Onze excuses, \"{id}\" is geen geldige documentatiepagina."
+msgstr "Onze excuses, „{id}“ is geen geldige documentatiepagina."
 
 #: ../root/components/forms.tt:222
 #: ../root/search/lib/inline-results-artist.tt:8
@@ -7885,12 +7885,12 @@ msgstr "De volgende {count} gebruikersaccounts zijn robots:"
 #: ../root/user/privileged.tt:31
 #, perl-format
 msgid "The following {count} users are relationship editors:"
-msgstr ""
+msgstr "De volgende {count} gebruikers zijn verwantschapsredacteurs:"
 
 #: ../root/user/privileged.tt:37
 #, perl-format
 msgid "The following {count} users are transclusion editors:"
-msgstr ""
+msgstr "De volgende {count} gebruikers zijn transclusieredacteurs:"
 
 #: ../root/user/privileged.tt:23
 #, perl-format
@@ -7922,7 +7922,7 @@ msgid ""
 "into the strict structural data schema of MusicBrainz (be it due to "
 "technical limitations that may be addressed later, or because the "
 "information in itself has to be free-text)."
-msgstr ""
+msgstr "Het doel van dit veld is om informatie toe te voegen die normaalgesproken niet in de strikte structuur van gegevens in MusicBrainz past, zowel door technische beperkingen die later misschien opgelost worden, of omdat de informatie zelf geen vaste formattering heeft."
 
 #: ../root/edit/cannot_approve.tt:12
 #, perl-format
@@ -7934,7 +7934,7 @@ msgstr "De reden hiervoor is onbekend."
 msgid ""
 "The recording artists do not match! Perhaps you meant to use the \"append "
 "mediums\" merge strategy?"
-msgstr ""
+msgstr "De artiesten van de opnames komen niet overeen! Misschien wilde u de „media toevoegen“ samenvoegingsstrategie gebruiken?"
 
 #: ../root/relationship/linktype/in_use.tt:4
 #, perl-format
@@ -7972,14 +7972,14 @@ msgid ""
 "The tracklist found looks like it may have different artists on some tracks."
 " If the below display looks correct, you should import this releases as a "
 "multiple release"
-msgstr ""
+msgstr "De gevonden nummerlijst ziet er uit alsof sommige nummers andere artiesten hebben. Als de onderstaande informatie correct is, moet u deze uitgave importeren als een uitgave van diverse artiesten"
 
 #: ../root/cdtoc/set_durations.tt:12
 #, perl-format
 msgid ""
 "The tracklist you are altering is currently in use by the following "
 "releases:"
-msgstr ""
+msgstr "De nummerlijst die u wijzigt is momenteel in gebruik bij de volgende uitgaves:"
 
 #: ../root/taglookup/nag.tt:4
 #, perl-format
@@ -7989,7 +7989,7 @@ msgstr "De gebruikers zorgen dat MusicBrainz werkt en wij waarderen uw hulp!"
 #: ../root/watch/list.tt:4
 #, perl-format
 msgid "The watch artist feature is currently not active."
-msgstr ""
+msgstr "De mogelijkheid om artiesten te volgen is nu niet actief."
 
 #: ../root/edit/edit_header.tt:25
 #, perl-format
@@ -8053,7 +8053,7 @@ msgstr "Er zijn momenteel geen redacteurs geabonneerd op deze platenmaatschappij
 msgid ""
 "There are not currently any relationship types available between {types0} "
 "and {types1}."
-msgstr ""
+msgstr "Er zijn momenteel geen verwantschapstypes beschikbaar tussen {types0} en {ypes1}."
 
 #: ../root/label/subscriptions.tt:16
 #, perl-format
@@ -8115,7 +8115,7 @@ msgstr "Er waren één of meer foutmeldingen, controleer de volgende velden: {fi
 #: ../root/cdstub/edit.tt:58
 #, perl-format
 msgid "This CD has tracks from more than one artist (e.g. a compilation CD)"
-msgstr ""
+msgstr "Deze cd heeft nummers van meer dan één artiest (bijv. een compilatie-cd)"
 
 #: ../root/isrc/not_found.tt:4
 #, perl-format
@@ -8145,7 +8145,7 @@ msgid ""
 "This artist has no relationships, recordings, releases or release groups, "
 "and will be removed automatically in the next few days. If this is not "
 "intended, please add more data to this artist."
-msgstr ""
+msgstr "Deze artiest heeft geen verwantschappen, opnames, uitgaves of uitgavegroepen en zal in de komende paar dagen worden verwijderd. Als dit niet de bedoeling is, voeg dan meer gegevens toe aan deze artiest."
 
 #: ../root/artist/tags.tt:2
 #, perl-format
@@ -8158,7 +8158,7 @@ msgid ""
 "This artist has relationships other than collaboration relationships, and "
 "cannot be split until these are removed. {relationships|View all "
 "relationships}."
-msgstr ""
+msgstr "Deze artiest heeft andere verwantschappen behalve de samenwerkingsverwantschap, en kan niet worden gesplitst tot deze zijn verwijderd. {relationships|Bekijk alle verwantschappen}."
 
 #: ../root/artist/works.tt:11
 #, perl-format
@@ -8307,7 +8307,7 @@ msgstr "Dit is een server voor ontwikkeling. Uw e-mailadres is niet privé of ve
 #: ../root/user/login.tt:27
 #, perl-format
 msgid "This is a development server; all passwords have been reset to \"mb\"."
-msgstr "Dit is een server voor ontwikkeling; alle wachtwoorden zijn teruggezet naar \"mb\"."
+msgstr "Dit is een server voor ontwikkeling; alle wachtwoorden zijn teruggezet naar „mb“."
 
 #: ../root/annotation/common.tt:25
 #, perl-format
@@ -8452,14 +8452,14 @@ msgstr "Dit rapport probeert artiesten te identificeren met sterk gelijkende nam
 msgid ""
 "This report aims to identify releases where track names include their own "
 "track number, e.g. \"1) Some Name\" (instead of just \"Some Name\")."
-msgstr ""
+msgstr "Dit rapport probeert uitgaves te identificeren waarbij de titels van de nummers de positie ervan bevatten (bijv. „1) Een naam“ in plaats van gewoon „Een naam“)."
 
 #: ../root/report/releases_to_convert.tt:7
 #, perl-format
 msgid ""
 "This report aims to identify releases which need converting to \"multiple "
 "artists\"."
-msgstr "Dit rapport probeert uitgaves te identificeren die moeten worden omgezet naar \"diverse artiesten\"."
+msgstr "Dit rapport probeert uitgaves te identificeren die moeten worden omgezet naar „diverse artiesten“."
 
 #: ../root/report/duplicate_artists.tt:8
 #, perl-format
@@ -8494,14 +8494,14 @@ msgstr "Dit rapport laat alle uitgaves zien waar de nummerposities niet continu 
 msgid ""
 "This report lists artists that are <em>unknown</em> or <em>group</em>, but "
 "may be <em>person</em>, based on all relationships except \"collaboration\"."
-msgstr ""
+msgstr "Dit rapport laat artiesten zien die in MusicBrainz als <em>onbekend</em> of <em>groep</em> staan, maar <em>persoon</em> zouden kunnen zijn, gebaseerd op alle verwantschappen behalve „samenwerking“."
 
 #: ../root/report/artists_that_may_be_groups.tt:6
 #, perl-format
 msgid ""
 "This report lists artists that are <em>unknown</em> or <em>person</em>, but "
 "may be <em>group</em>, based on band \"is member of\" relationships."
-msgstr ""
+msgstr "Dit rapport laat artiesten zien die in MusicBrainz als <em>onbekend</em> of <em>persoon</em> staan, maar <em>groep</em> zouden kunnen zijn, gebaseerd op „is lid van“ verwantschappen."
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:6
 #, perl-format
@@ -8516,7 +8516,7 @@ msgid ""
 "This report lists artists which have \"&\" in their names but no member or "
 "collaboration relationships, and might need to be turned into artist "
 "credits."
-msgstr ""
+msgstr "Dit rapport laat artiesten zien die „&“ in de naam hebben, maar geen lid- of samenwerkingsverwantschap hebben, en misschien gesplitst moeten worden."
 
 #: ../root/report/collaboration_relationships.tt:4
 #, perl-format
@@ -8710,7 +8710,7 @@ msgstr "Deze compositie heeft geen etiketten."
 #: ../root/cdtoc/info.tt:37 ../root/cdtoc/info.tt:39 ../root/cdtoc/info.tt:41
 #, perl-format
 msgid "Time"
-msgstr ""
+msgstr "Lengte"
 
 #: ../root/layout/menu.tt:107
 #, perl-format
@@ -8890,7 +8890,7 @@ msgstr ""
 #: ../root/edit/details/edit_track_length.tt:13
 #, perl-format
 msgid "Track length:"
-msgstr ""
+msgstr "Nummerlengte:"
 
 #: ../root/edit/details/set_track_lengths_from_discid.tt:20
 #: ../root/edit/details/set_track_lengths.tt:34
@@ -8909,7 +8909,7 @@ msgstr "Titels van nummers beginnen met een getal"
 #: ../root/taglookup/form.tt:6
 #, perl-format
 msgid "Track number:"
-msgstr ""
+msgstr "Nummerpositie:"
 
 #: ../root/cdstub/edit.tt:64
 #, perl-format
@@ -9109,7 +9109,7 @@ msgstr "Onbekend"
 #: ../root/recording/fingerprints.tt:73
 #, perl-format
 msgid "Unlink"
-msgstr ""
+msgstr "Loskoppelen"
 
 #: ../root/report/unlinked_pseudo_releases.tt:1
 #: ../root/report/unlinked_pseudo_releases.tt:3
@@ -9408,7 +9408,7 @@ msgid ""
 " second their nomination. If you do not support this candidate, please note "
 "that you cannot cast a \"No\" vote (or abstain) until two seconders have "
 "been found."
-msgstr ""
+msgstr "Stemmen is nog niet geopend. Als u deze kandidaat wilt ondersteunen, kunt u zijn nominatie seconderen. Als u deze kandidaat niet wilt ondersteunen, houd er dan rekening mee dat u niet tegen of onthouding kunt stemmen tot er twee secondanten zijn gevonden."
 
 #: ../root/doc/edit_type.tt:43
 #, perl-format
@@ -9421,7 +9421,7 @@ msgid ""
 "Warning! \"1990-10-25\" is the bogus date that Amazon gives to all releases "
 "for which they don't know the actual date. <b>Please use this date only if "
 "you're certain this date is correct!</b>"
-msgstr "Let op! \"25 oktober 1990\" is een nepdatum die Amazon laat zien voor alle uitgaves waarvan ze de datum niet kennen. <b>Gebruik deze datum alleen als u zeker weet dat deze klopt!</b>"
+msgstr "Let op! „25 oktober 1990“ is een nepdatum die Amazon laat zien voor alle uitgaves waarvan ze de datum niet kennen. <b>Gebruik deze datum alleen als u zeker weet dat deze klopt!</b>"
 
 #: ../root/artist/edit_form.tt:18 ../root/label/edit_form.tt:15
 #, perl-format
@@ -9723,13 +9723,13 @@ msgstr "Ja, ik weet het zeker"
 #, perl-format
 msgid ""
 "Yes, I am sure this artist is not duplicate, and I know what I am doing."
-msgstr ""
+msgstr "Ja, ik weet zeker dat deze artiest geen duplicaat is, en ik weet wat ik doe."
 
 #: ../root/label/edit_form.tt:29
 #, perl-format
 msgid ""
 "Yes, I am sure this label is not duplicate, and I know what I am doing."
-msgstr ""
+msgstr "Ja, ik weet zeker dat deze platenmaatschappij geen duplicaat is, en ik weet wat ik doe."
 
 #: ../root/admin/wikidoc/delete.tt:9
 #, perl-format
@@ -9812,14 +9812,14 @@ msgstr "U staat op het punt om de volgende composities samen te voegen. Selectee
 msgid ""
 "You are attempting to add a label which appears to be very similar, if not "
 "exactly the same, as these existing labels:"
-msgstr ""
+msgstr "U probeert een platenmaatschappij toe te voegen die erg lijkt op, en misschien wel hetzelfde is als deze bestaande platenmaatschappijen:"
 
 #: ../root/artist/edit_form.tt:19
 #, perl-format
 msgid ""
 "You are attempting to add an artist which appears to be very similar, if not"
 " exactly the same, as these existing artists:"
-msgstr ""
+msgstr "U probeert een artiest toe te voegen die erg lijkt op, en misschien wel hetzelfde is als deze bestaande artiesten:"
 
 #: ../root/browse/page_selector.tt:30
 #, perl-format
@@ -9827,7 +9827,7 @@ msgid ""
 "You are browsing the database using a query that is 6 characters long. We do"
 " not index data past this level of granularity, you may want to {uri|search "
 "the database} instead."
-msgstr ""
+msgstr "U bladert door de gegevensbank met een zoekopdracht van zes karakters. We indexeren geen gegevens voorbij deze fijnheidsgraad, wellicht kunt u beter {uri|in de gegevensbank zoeken}."
 
 #: ../root/artist/subscribers.tt:27 ../root/label/subscribers.tt:27
 #: ../root/user/subscribers.tt:32
@@ -9838,7 +9838,7 @@ msgstr "U bent momenteel geabonneerd. {unsub|Opzeggen}?"
 #: ../root/watch/list.tt:7
 #, perl-format
 msgid "You are currently watching the following artists for new releases."
-msgstr ""
+msgstr "U volgt nu de volgende artiesten voor nieuwe uitgaves."
 
 #: ../root/edit/notes.tt:45
 #, perl-format
@@ -9859,7 +9859,7 @@ msgstr "U bent momenteel niet geabonneerd. {sub|Abonneren}?"
 #: ../root/watch/list.tt:32
 #, perl-format
 msgid "You are not currently watching any artists for new releases."
-msgstr ""
+msgstr "U volgt nu geen artiesten voor nieuwe uitgaves."
 
 #: ../root/artist/edit_form.tt:28
 #, perl-format
@@ -9905,7 +9905,7 @@ msgstr "U kunt geen cd-beginsel beginnen als u bent aangemeld bij MusicBrainz. G
 msgid ""
 "You cannot remove the relationship attribute \"{type}\" as it is still in "
 "use by other relationships."
-msgstr ""
+msgstr "U kunt de verwantschapseigenschap „{type}“ niet verwijderen, omdat het nog steeds wordt gebruikt door andere verwantschappen."
 
 #: ../root/elections/show.tt:79
 #, perl-format
@@ -9922,7 +9922,7 @@ msgstr ""
 #: ../root/layout/merge-helper.tt:4
 #, perl-format
 msgid "You currently have the following entities selected for merging:"
-msgstr ""
+msgstr "U heeft nu de volgende objecten geselecteerd om samen te voegen:"
 
 #: ../root/release/sidebar.tt:139
 #, perl-format
@@ -9958,7 +9958,7 @@ msgstr "U mag een artiest voor specifieke doeleinden niet wijzigen"
 msgid ""
 "You may proceed to <a href=\"{uri}\">your user profile</a>, or maybe you "
 "want to {edit|start editing}!"
-msgstr "Een dag"
+msgstr "U kunt verder gaan naar <a href=\"uri\">uw gebruikersprofiel</a>, of misschien wilt u {edit|beginnen met wijzigen}!"
 
 #: ../root/edit/index.tt:79
 #, perl-format
@@ -9996,7 +9996,7 @@ msgstr "akoestische gitaar"
 #: ../root/release/edit/information.tt:143
 #, perl-format
 msgid "You selected {label}."
-msgstr ""
+msgstr "U heeft {label} geselecteerd."
 
 #: ../root/release/edit/information.tt:123
 #, perl-format
@@ -10516,7 +10516,7 @@ msgstr ""
 #: ../root/release_group/details.tt:9 ../root/work/details.tt:9
 #, perl-format
 msgid "{mbid|<abbr title=\"MusicBrainz Identifier\">MBID</abbr>}:"
-msgstr ""
+msgstr "{mbid|<abbr title=\"MusicBrainz Identificator\">MBID</abbr>}:"
 
 #: ../root/tag/entity-list.tt:10
 #, perl-format
