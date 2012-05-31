@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-31 14:46+0000\n"
+"PO-Revision-Date: 2012-05-31 20:04+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -761,7 +761,7 @@ msgstr "Alias voor deze compositie toevoegen"
 #: ../root/components/forms.tt:114
 #, perl-format
 msgid "Add {item}"
-msgstr ""
+msgstr "Voeg {item} toe"
 
 #: ../root/release/edit/tracklist.tt:451
 #, perl-format
@@ -3757,7 +3757,7 @@ msgstr ""
 #: ../root/iswc/index.tt:1 ../root/iswc/index.tt:3
 #, perl-format
 msgid "ISWC “{iswc}”"
-msgstr ""
+msgstr "ISWC „{iswc}“"
 
 #: ../root/edit/details/add_work.tt:23 ../root/edit/details/edit_work.tt:19
 #: ../root/edit/details/remove_iswc.tt:3 ../root/otherlookup/form.tt:3
@@ -5581,7 +5581,7 @@ msgstr "Meld u aan om dit medium van FreeDB te importeren"
 #: ../root/release/edit/missing_entities.tt:113
 #, perl-format
 msgid "Please make a selection"
-msgstr ""
+msgstr "Maak een selectie"
 
 #: ../root/layout/merge-helper.tt:24
 #, perl-format
@@ -6623,7 +6623,7 @@ msgstr "Verwijder ISRC “{isrc}”"
 #: ../root/iswc/delete.tt:1 ../root/iswc/delete.tt:3
 #, perl-format
 msgid "Remove ISWC “{iswc}”"
-msgstr ""
+msgstr "Verwijder ISWC „{iswc}“"
 
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:82
 #, perl-format
@@ -7106,7 +7106,7 @@ msgstr "Laat meer zien…"
 #: ../root/account/preferences.tt:33
 #, perl-format
 msgid "Show my Gravatar"
-msgstr ""
+msgstr "Laat mijn Gravatar zien"
 
 #: ../root/artist/index.tt:125
 #, perl-format
@@ -9524,7 +9524,7 @@ msgstr "We hebben u een verificatie-e-mail gestuurd naar <code>{email}</code>. K
 msgid ""
 "We will use your birth date to display your age in years on your profile "
 "page."
-msgstr ""
+msgstr "We zullen uw geboortedatum gebruiken om uw leeftijd op uw profielpagina te tonen."
 
 #: ../root/main/500.tt:52
 #, perl-format
@@ -10226,7 +10226,7 @@ msgstr "is niet"
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "labels"
-msgstr ""
+msgstr "platenmaatschappijen"
 
 #: ../root/edit/relationship/edit.tt:37 ../root/scripts/text_strings.tt:86
 #, perl-format
@@ -10247,7 +10247,7 @@ msgstr "meer…"
 #: ../root/edit/search_macros.tt:17
 #, perl-format
 msgid "newest first"
-msgstr ""
+msgstr "nieuwste eerst"
 
 #: ../root/user/profile.tt:51
 #, perl-format
@@ -10297,7 +10297,7 @@ msgstr[1] "plus {n} andere privécollecties"
 #: ../root/edit/search_macros.tt:19
 #, perl-format
 msgid "randomly"
-msgstr ""
+msgstr "willekeurig"
 
 #: ../root/release/edit/recordings.tt:191
 #: ../root/release/edit/recordings.tt:262
@@ -10348,7 +10348,7 @@ msgstr "e-mail versturen"
 #: ../root/cdtoc/attach_list.tt:35
 #, perl-format
 msgid "show tracklist"
-msgstr ""
+msgstr "toon nummerlijst"
 
 #: ../root/browse/page_selector.tt:43
 #, perl-format
@@ -10438,7 +10438,7 @@ msgstr "{begindate} &ndash; {enddate}"
 #: ../root/release/collections.tt:10
 #, perl-format
 msgid "{collection} by {owner}"
-msgstr ""
+msgstr "{collection} van {owner}"
 
 #: ../root/user/profile.tt:95
 #, perl-format
@@ -11346,7 +11346,7 @@ msgstr "Filter uitgaves"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:53
 msgid "Filter recordings"
-msgstr ""
+msgstr "Filter opnames"
 
 #: ../lib/MusicBrainz/Server/Form/Alias.pm:82
 msgid "This alias can only be a primary alias if a locale is selected"

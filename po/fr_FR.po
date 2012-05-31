@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-31 07:32+0000\n"
+"PO-Revision-Date: 2012-05-31 20:21+0000\n"
 "Last-Translator: Benjamin Sonntag <email address hidden>\n"
 "Language-Team: French (France) (http://www.transifex.net/projects/p/musicbrainz/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -5014,22 +5014,22 @@ msgstr "Non"
 #: ../root/tag/not_found.tt:4
 #, perl-format
 msgid "No MusicBrainz entities have yet been tagged with \"{tag}\"."
-msgstr ""
+msgstr "Aucune entité de MusicBrainz n'a pour l'instant l'attribut \"{tag}\"."
 
 #: ../root/tag/artist.tt:1
 #, perl-format
 msgid "No artists with this tag were found."
-msgstr ""
+msgstr "Aucun artiste de trouvé avec cet attribut."
 
 #: ../root/tag/collection.tt:1
 #, perl-format
 msgid "No collections with this tag were found."
-msgstr ""
+msgstr "Aucune collection de trouvée avec cet attribut."
 
 #: ../root/release/sidebar.tt:5 ../root/release/sidebar.tt:11
 #, perl-format
 msgid "No cover art available."
-msgstr ""
+msgstr "Aucune jaquette disponible."
 
 #: ../root/edit/notes.tt:29
 #, perl-format
@@ -5044,7 +5044,7 @@ msgstr "Aucune modification n'a été trouvée selon vos critères. Merci de {se
 #: ../root/elections/index.tt:29
 #, perl-format
 msgid "No elections found."
-msgstr ""
+msgstr "Aucune élection de trouvée."
 
 #: ../root/release/sidebar.tt:7
 #, perl-format
@@ -5054,12 +5054,12 @@ msgstr ""
 #: ../root/relationship/linkattributetype/instruments.tt:31
 #, perl-format
 msgid "No instruments found."
-msgstr ""
+msgstr "Aucun instrument trouvé."
 
 #: ../root/tag/label.tt:1
 #, perl-format
 msgid "No labels with this tag were found."
-msgstr ""
+msgstr "Aucun label de trouvé avec cet attribut."
 
 #: ../root/release/lookup.tt:33
 #, perl-format
@@ -5079,12 +5079,12 @@ msgstr "Aucun enregistrement trouvé."
 #: ../root/tag/recording.tt:1
 #, perl-format
 msgid "No recordings with this tag were found."
-msgstr ""
+msgstr "Aucun enregistrement de trouvé avec cet attribut."
 
 #: ../root/relationship/linkattributetype/index.tt:32
 #, perl-format
 msgid "No relationship attributes found."
-msgstr ""
+msgstr "Aucun attribut de relation de trouvé."
 
 #: ../root/artist/index.tt:115
 #, perl-format
@@ -5094,7 +5094,7 @@ msgstr "Aucun groupe de sortie trouvé"
 #: ../root/tag/release_group.tt:1
 #, perl-format
 msgid "No release groups with this tag were found."
-msgstr ""
+msgstr "Aucun groupe de sortie de trouvé avec cet attribut."
 
 #: ../root/artist/releases.tt:21
 #, perl-format
@@ -5119,7 +5119,7 @@ msgstr "Aucune sortie trouvée."
 #: ../root/tag/release.tt:1
 #, perl-format
 msgid "No releases with this tag were found."
-msgstr ""
+msgstr "Aucune sortie de trouvée avec cet attribut."
 
 #: ../root/release/edit/tracklist.tt:114 ../root/scripts/text_strings.tt:37
 #, perl-format
@@ -5136,7 +5136,7 @@ msgstr "Aucun résultat de trouvé"
 #: ../root/components/search.tt:43
 #, perl-format
 msgid "No results found."
-msgstr ""
+msgstr "Aucun résultat."
 
 #: ../root/search/lib/inline-results-artist.tt:37
 #: ../root/search/lib/inline-results-recording.tt:73
@@ -5162,27 +5162,27 @@ msgstr "Aucun utilisateur trouvé."
 #: ../root/edit/search_macros.tt:235
 #, perl-format
 msgid "No vote"
-msgstr ""
+msgstr "Aucun vote"
 
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "No vote count"
-msgstr ""
+msgstr "Zéro vote"
 
 #: ../root/tag/work.tt:1
 #, perl-format
 msgid "No works with this tag were found."
-msgstr ""
+msgstr "Aucun travail de trouvé avec cet attribut."
 
 #: ../root/relationship/linktype/tree.tt:58
 #, perl-format
 msgid "No {type0}-{type1} relationship types found."
-msgstr ""
+msgstr "Aucune relation de type {type0}-{type1}."
 
 #: ../root/elections/nominate.tt:1 ../root/elections/nominate.tt:3
 #, perl-format
 msgid "Nominate a candidate for auto-editor"
-msgstr ""
+msgstr "Nominer un candidat être l'auto-éditeur"
 
 #: ../root/edit/edit_header.tt:42 ../root/edit/vote.tt:23
 #, perl-format
@@ -5192,7 +5192,7 @@ msgstr "Rien"
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: ../root/user/profile.tt:48
 #, perl-format
@@ -5215,14 +5215,14 @@ msgstr "Attention ! Si vous ne savez pas le mois ou le jour de la sortie, ne pr�
 #: ../root/edit/details/set_track_lengths.tt:58
 #, perl-format
 msgid "Note:"
-msgstr ""
+msgstr "Note :"
 
 #: ../root/edit/search_macros.tt:215
 #, perl-format
 msgid ""
 "Note: this currently only searches edits that add or edit relationships, "
 "created after 2011-05-16"
-msgstr ""
+msgstr "Note : cela ne cherche que les modifications ou ajout de relations créées après le 16/05/2011"
 
 #: ../root/account/preferences.tt:44
 #, perl-format
@@ -5252,7 +5252,7 @@ msgstr "Ancien"
 #: ../root/edit/details/edit_medium.tt:226
 #, perl-format
 msgid "Old Artist"
-msgstr ""
+msgstr "Ancien artiste"
 
 #: ../root/edit/details/edit_medium.tt:42
 #, perl-format
@@ -5267,12 +5267,12 @@ msgstr "Ancien mot de passe :"
 #: ../root/edit/details/reorder_cover_art.tt:10
 #, perl-format
 msgid "Old positions:"
-msgstr ""
+msgstr "Ancienne position :"
 
 #: ../root/edit/details/edit_medium.tt:198
 #, perl-format
 msgid "Old recording"
-msgstr ""
+msgstr "Ancien enregistrement"
 
 #: ../root/edit/details/historic/edit_relationship.tt:6
 #, perl-format
@@ -5319,7 +5319,7 @@ msgstr "Seuls les {doc|robots} peuvent approuver une modification."
 msgid ""
 "Oops! It seems your search parameters are not correct, please double check "
 "your input!"
-msgstr ""
+msgstr "Oops ! Il semble que vos paramètres de recherche sont incorrects, merci de revérifier votre saisie !"
 
 #: ../root/main/500.tt:5
 #, perl-format
@@ -5447,7 +5447,7 @@ msgstr "Page supprimée"
 #: ../root/components/paginator.tt:30
 #, perl-format
 msgid "Page {cur} of at least {total}"
-msgstr ""
+msgstr "Page {cur} sur au moins {total}"
 
 #: ../root/components/paginator.tt:32
 #, perl-format
@@ -5517,14 +5517,14 @@ msgstr "Merci de <a href=\"{uri}\">Mettre à jour votre profil</a> quand vous au
 #, perl-format
 msgid ""
 "Please be sure to include the stack trace and request data shown above!"
-msgstr ""
+msgstr "N'oubliez-pas d'inclure la trace de la pile et les données de requêtes affichées ci-dessus !"
 
 #: ../root/release/cover_art_uploader.tt:19
 #, perl-format
 msgid ""
 "Please choose a valid image. Currently the Cover Art Archive only supports "
 "JPEG files."
-msgstr ""
+msgstr "Merci de choisir une image valide. À ce jour, le Cover Art Archive ne sait gérer quels fichiers JPEG."
 
 #: ../root/scripts/text_strings.tt:44
 #, perl-format
