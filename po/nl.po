@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-30 17:01+0000\n"
+"PO-Revision-Date: 2012-05-31 11:58+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -35,36 +35,36 @@ msgstr "Voer uw gebruikersnaam en wachtwoord hieronder in. We zullen u een e-mai
 #: ../root/work/add_iswc.tt:8
 #, perl-format
 msgid "\"C\" is a single check digit."
-msgstr ""
+msgstr "„C“ is een enkel controlegetal."
 
 #: ../root/recording/add_isrc.tt:8
 #, perl-format
 msgid "\"CC\" is the appropriate for the registrant two-character country code."
-msgstr ""
+msgstr "„CC“ is bestemd voor de landcode van twee karakters van de registrator."
 
 #: ../root/work/add_iswc.tt:7
 #, perl-format
 msgid "\"DDD\" is a nine digit work identifier."
-msgstr ""
+msgstr "„DDD“ is een 9-cijferig identificatienummer voor een compositie."
 
 #: ../root/recording/add_isrc.tt:12
 #, perl-format
 msgid ""
 "\"NNNNN\" is a unique 5-digit number identifying the particular sound "
 "recording."
-msgstr "\"NNNNN\" is een uniek 5-cijferig getal dat een afzonderlijke geluidsopname identificeert."
+msgstr "„NNNNN“ is een uniek 5-cijferig getal dat een afzonderlijke geluidsopname identificeert."
 
 #: ../root/recording/add_isrc.tt:9
 #, perl-format
 msgid ""
 "\"XXX\" is a three character alphanumeric registrant code, uniquely "
 "identifying the organisation which registered the code."
-msgstr ""
+msgstr "„XXX“ is een alfanumerieke registratiecode van drie karakters die de organisatie die de code registreerde identificeert."
 
 #: ../root/recording/add_isrc.tt:11
 #, perl-format
 msgid "\"YY\" is the last two digits of the year of registration."
-msgstr "\"JJ\" zijn de laatste twee cijfers van het registratiejaar."
+msgstr "„JJ“ zijn de laatste twee cijfers van het registratiejaar."
 
 #: ../root/cdstub/cdstub.tt:4 ../root/edit/details/add_medium.tt:48
 #: ../root/edit/details/edit_medium.tt:47
@@ -106,12 +106,12 @@ msgstr "'{tag}' is {num} keer gebruikt"
 #: ../root/components/aliases.tt:38
 #, perl-format
 msgid "(<span class=\"comment\">primary</span>)"
-msgstr ""
+msgstr "(<span class=\"comment\">primair</span>)"
 
 #: ../root/user/profile.tt:28
 #, perl-format
 msgid "(<strong>unverified!</strong>)"
-msgstr ""
+msgstr "(<strong>ongeverifieerd!</strong>)"
 
 #: ../root/main/400.tt:12 ../root/main/500.tt:41
 #, perl-format
@@ -142,7 +142,7 @@ msgstr "(verborgen)"
 #: ../root/edit/details/reorder_mediums.tt:26
 #, perl-format
 msgid "(moved from position <span class=\"old\">{old}</span>)"
-msgstr ""
+msgstr "(verplaatst vanaf positie <span class=\"old\">{old}</span>)"
 
 #: ../root/edit/details/reorder_mediums.tt:24
 #, perl-format
@@ -266,12 +266,12 @@ msgstr "tweede secondant"
 #: ../root/admin/edit_user.tt:16
 #, perl-format
 msgid "<abbr title=\"MusicBrainz Identifier\">MBID</abbr> submitter"
-msgstr ""
+msgstr "<abbr title=\"MusicBrainz Identificator\">MBID</abbr> submitter"
 
 #: ../root/edit/info.tt:42
 #, perl-format
 msgid "<em>Cancelling</em>"
-msgstr ""
+msgstr "<em>Wordt geannuleerd</em>"
 
 #: ../root/annotation/history.tt:31
 #, perl-format
@@ -281,7 +281,7 @@ msgstr "<em>geen veranderingslogboek opgegeven</em>"
 #: ../root/edit/edit_header.tt:62
 #, perl-format
 msgid "<strong>Closed:</strong> <em>Cancelling</em>"
-msgstr ""
+msgstr "<strong>Gesloten:</strong> <em>Wordt geannuleerd</em>"
 
 #: ../root/edit/edit_header.tt:64
 #, perl-format
@@ -449,7 +449,7 @@ msgstr "Acties"
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Add <abbr title=\"Creative Commons\">CC</abbr> License"
-msgstr "Voeg <abbr title=\"Creative Commons\">CC</abbr> licentie toe"
+msgstr "Voeg een <abbr title=\"Creative Commons\">CC</abbr> licentie toe"
 
 #: ../root/layout/menu.tt:176
 #, perl-format
@@ -651,7 +651,7 @@ msgstr "Alias voor deze artiest toevoegen"
 #: ../root/relationship/linkattributetype/common.tt:24
 #, perl-format
 msgid "Add child"
-msgstr ""
+msgstr "Voeg een deel toe"
 
 #: ../root/cdstub/layout.tt:23
 #, perl-format
@@ -801,7 +801,7 @@ msgstr "Toevoegingen:"
 #: ../root/admin/edit_user.tt:1
 #, perl-format
 msgid "Adjust User Account Flags"
-msgstr ""
+msgstr "Rechten voor gebruikersaccounts aanpassen"
 
 #: ../root/layout/menu.tt:51
 #, perl-format
@@ -1199,7 +1199,7 @@ msgstr "Weet u zeker dat u de opname {recording} van MusicBrainz wilt verwijdere
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the relationship: {entity0} {relationship}?"
-msgstr ""
+msgstr "Weet u zeker of u de verwantschap {entity0} {relationship} wilt verwijderen?"
 
 #: ../root/release_group/delete.tt:5
 #, perl-format
@@ -1381,7 +1381,7 @@ msgstr "Artiesten met een opmerking ter verduidelijking in de naam"
 #: ../root/browse/artist.tt:8
 #, perl-format
 msgid "Artists starting with “{index}”"
-msgstr "Artiesten die beginnen met \"{index}\""
+msgstr "Artiesten die beginnen met „{index}“"
 
 #: ../root/report/possible_collaborations.tt:1
 #: ../root/report/possible_collaborations.tt:3
@@ -1457,7 +1457,7 @@ msgstr[1] ""
 #: ../root/cdtoc/attach_filter_release.tt:68
 #, perl-format
 msgid "Attach CD TOC"
-msgstr ""
+msgstr "Voeg TOC van de CD toe."
 
 #: ../root/cdtoc/lookup.tt:51
 #, perl-format
@@ -1555,7 +1555,7 @@ msgstr "Slechte Amazon-URL's"
 #: ../root/main/400.tt:1 ../root/main/400.tt:3
 #, perl-format
 msgid "Bad Request"
-msgstr ""
+msgstr "Verkeerd verzoek"
 
 #: ../root/cdtoc/attach_artist_releases.tt:39
 #: ../root/cdtoc/attach_filter_release.tt:52 ../root/cdtoc/list.tt:12
@@ -1817,17 +1817,17 @@ msgstr "Cd-beginsel gevonden"
 #: ../root/cdtoc/not_found.tt:1 ../root/cdtoc/not_found.tt:2
 #, perl-format
 msgid "CD TOC Not Found"
-msgstr ""
+msgstr "TOC niet gevonden"
 
 #: ../root/cdtoc/info.tt:1
 #, perl-format
 msgid "CD TOC details"
-msgstr ""
+msgstr "Details over de TOC"
 
 #: ../root/edit/details/historic/add_disc_id.tt:13
 #, perl-format
 msgid "CD TOC:"
-msgstr ""
+msgstr "TOC:"
 
 #: ../root/cdstub/header.tt:5
 #, perl-format
@@ -1847,7 +1847,7 @@ msgstr "Import van cd-beginsel"
 #: ../root/cdstub/layout.tt:1
 #, perl-format
 msgid "CD stub “{title}” by {artist}"
-msgstr "Cd-beginsel \"{title}\" door {artist}"
+msgstr "Cd-beginsel „{title}“ door {artist}"
 
 #: ../root/cdstub/logged_in.tt:7
 #, perl-format
@@ -2051,7 +2051,7 @@ msgstr "Wijzigingen"
 #: ../root/relationship/linktype/tree.tt:10
 #, perl-format
 msgid "Child order:"
-msgstr ""
+msgstr "Volgorde van delen:"
 
 #: ../root/release/cover_art_uploader.tt:15
 #, perl-format
@@ -2166,7 +2166,7 @@ msgstr "Details van de collectie"
 #: ../root/collection/layout.tt:1
 #, perl-format
 msgid "Collection “{collection}”"
-msgstr "Collectie \"{collection}\""
+msgstr "Collectie „{collection}“"
 
 #: ../root/release/collections.tt:1 ../root/release/collections.tt:2
 #: ../root/release/sidebar.tt:114 ../root/user/collections.tt:1
@@ -2365,7 +2365,7 @@ msgstr "Aangemaakt"
 msgid ""
 "Currently it does this by looking for releases where every track contains "
 "\"/\" or \"-\"."
-msgstr "Momenteel gebeurt dit door te zoeken naar uitgaves waarbij elk nummer een \"/\" of een \"-\" bevat."
+msgstr "Momenteel gebeurt dit door te zoeken naar uitgaves waarbij elk nummer een „/“ of een „-“ bevat."
 
 #: ../root/layout/menu.tt:86
 #, perl-format
@@ -2439,7 +2439,7 @@ msgstr "Opgeheven:"
 #: ../root/edit/search_macros.tt:104
 #, perl-format
 msgid "Delete"
-msgstr ""
+msgstr "Verwijderen"
 
 #: ../root/admin/delete_user.tt:3 ../root/admin/delete_user.tt:13
 #: ../root/admin/delete_user.tt:14
@@ -2460,7 +2460,7 @@ msgstr "Verwijder mijn gebruikersaccount"
 #: ../root/admin/delete_user.tt:8
 #, perl-format
 msgid "Delete {e}"
-msgstr ""
+msgstr "Verwijder {e}"
 
 #: ../root/doc/edit_type.tt:22
 #, perl-format
@@ -2494,7 +2494,7 @@ msgstr "Omschrijving:"
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 #: ../root/release/edit/tracklist.tt:198
 #, perl-format
@@ -2504,7 +2504,7 @@ msgstr "Detecteer de duur van de nummers"
 #: ../root/layout/menu.tt:139
 #, perl-format
 msgid "Developer Resources"
-msgstr ""
+msgstr "Hulpmiddelen voor ontwikkelaars"
 
 #: ../root/main/index.tt:102
 #, perl-format
@@ -2568,12 +2568,12 @@ msgstr "Informatie over de disc-id"
 #: ../root/cdtoc/index.tt:3
 #, perl-format
 msgid "Disc ID “<code>{discid}</code>”"
-msgstr "Disc-id \"<code>{discid}</code>\""
+msgstr "Disc-id „<code>{discid}</code>“"
 
 #: ../root/cdtoc/index.tt:1
 #, perl-format
 msgid "Disc ID “{discid}”"
-msgstr "Disc-id \"{discid}\""
+msgstr "Disc-id „{discid}“"
 
 #: ../root/cdtoc/info.tt:11 ../root/edit/details/add_disc_id.tt:15
 #: ../root/edit/details/historic/add_disc_id.tt:17
@@ -2686,7 +2686,7 @@ msgstr "Doneer"
 #: ../root/user/profile/layout.tt:33
 #, perl-format
 msgid "Donation Check"
-msgstr ""
+msgstr "Donatiecontrole"
 
 #: ../root/release/edit/tracklist.tt:160 ../root/scripts/text_strings.tt:29
 #, perl-format
@@ -3034,7 +3034,7 @@ msgstr "Abonnementen op redacteurs"
 #: ../root/user/profile/layout.tt:1
 #, perl-format
 msgid "Editor “{user}”"
-msgstr "Redacteur \"{user}\""
+msgstr "Redacteur „{user}“"
 
 #: ../root/artist/subscribe.tt:2
 #, perl-format
@@ -3101,14 +3101,14 @@ msgstr "Wijzigingen voor {name}"
 #: ../root/work/edits.tt:16
 #, perl-format
 msgid "Edits for “{link}”"
-msgstr "Wijzigingen voor \"{link}\""
+msgstr "Wijzigingen voor „{link}“"
 
 #: ../root/recording/edits.tt:15 ../root/recording/edits.tt:17
 #: ../root/release/edits.tt:15 ../root/release_group/edits.tt:15
 #: ../root/work/edits.tt:14
 #, perl-format
 msgid "Edits for “{name}”"
-msgstr "Wijzigingen voor \"{name}\""
+msgstr "Wijzigingen voor „{name}“"
 
 #: ../root/elections/not_found.tt:1 ../root/elections/not_found.tt:2
 #, perl-format
@@ -3458,7 +3458,7 @@ msgstr[1] "Gevonden in {num} collecties van gebruikers"
 #: ../root/release/lookup.tt:4
 #, perl-format
 msgid "Found more than one match for the CD with TOC {toc}: "
-msgstr ""
+msgstr "Meer dan één overeenkomst gevonden voor de cd met TOC {toc}:"
 
 #: ../root/edit/list.tt:37 ../root/edit/list.tt:41
 #, perl-format
@@ -3478,8 +3478,8 @@ msgstr[1] "{n} resultaten gevonden"
 #, perl-format
 msgid "Found {n} result for \"{q}\""
 msgid_plural "Found {n} results for \"{q}\""
-msgstr[0] "{n} resultaat gevonden voor \"{q}\""
-msgstr[1] "{n} resultaten gevonden voor \"{q}\""
+msgstr[0] "{n} resultaat gevonden voor „{q}“"
+msgstr[1] "{n} resultaten gevonden voor „{q}“"
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/label/layout.tt:14 ../root/scripts/text_strings.tt:73
@@ -3526,7 +3526,7 @@ msgstr ""
 #: ../root/cdstub/index.tt:30 ../root/cdtoc/info.tt:5
 #, perl-format
 msgid "Full TOC:"
-msgstr ""
+msgstr "Volledige TOC:"
 
 #: ../root/account/edit.tt:18 ../root/artist/edit_form.tt:42
 #: ../root/artist/index.tt:5 ../root/artist/layout.tt:12
@@ -3810,14 +3810,14 @@ msgstr "Als het probleem zich blijft voordoen, {report|rapporteer dan een bug} e
 msgid ""
 "If this is an Amazon ASIN, please do not enter it in the catalog number "
 "field, but add it as a URL relationship later."
-msgstr ""
+msgstr "Als dit een Amazon ASIN is, voer dit dan niet in als catalogusnummer, maar voeg later een URL-verwantschap toe."
 
 #: ../root/release/edit/recordings.tt:107
 #, perl-format
 msgid ""
 "If we do not have a recording for this track in the database yet, please "
 "select \"Add a new recording\" below."
-msgstr "Als we nog geen opname van dit nummer in de gegevensbank hebben, selecteer dan hieronder \"Voeg een nieuwe opname toe\"."
+msgstr "Als we nog geen opname van dit nummer in de gegevensbank hebben, selecteer dan hieronder „Voeg een nieuwe opname toe.“"
 
 #: ../root/artist/delete_alias.tt:11 ../root/label/delete_alias.tt:10
 #: ../root/work/delete_alias.tt:10
@@ -3866,7 +3866,7 @@ msgstr "Als u de artiest die u zoekt niet kunt vinden, kunt u nog steeds een nie
 msgid ""
 "If you don't see the release you are looking for, you can still add a new "
 "one, using this CD TOC:"
-msgstr ""
+msgstr "Als u de uitgave die u zoekt niet kunt vinden, kunt u een nieuwe toevoegen met deze TOC:"
 
 #: ../root/taglookup/nag.tt:16
 #, perl-format
@@ -3882,7 +3882,7 @@ msgstr "Als u <b>$4</b> doneert, krijgt u deze zeurtekst een <b>maand</b> niet t
 msgid ""
 "If you followed a link on our site to get here, please {report|report a bug}"
 " and the URL of the page that sent you here."
-msgstr ""
+msgstr "Als u een koppeling op onze site heeft gevolgd om hier te komen, {report|rapporteer dan een bug} met de URL van de pagina die u hier heeft heengestuurd."
 
 #: ../root/account/register.tt:45
 #, perl-format
@@ -4187,7 +4187,7 @@ msgstr "Platenmaatschappijen"
 #: ../root/browse/label.tt:8
 #, perl-format
 msgid "Labels starting with “{index}”"
-msgstr "Platenmaatschappijen die beginnen met \"{index}\""
+msgstr "Platenmaatschappijen die beginnen met „{index}“"
 
 #: ../root/artist/works-list.tt:14 ../root/otherlookup/results-release.tt:11
 #: ../root/search/lib/inline-results-release.tt:13
@@ -4710,7 +4710,7 @@ msgstr "MusicBrainz gelooft sterk in de privacy van haar gebruikers! Alle persoo
 #: ../root/cdtoc/lookup.tt:83
 #, perl-format
 msgid "MusicBrainz does not have any CDs with the TOC:"
-msgstr ""
+msgstr "MusicBrainz heeft geen cd's met de TOC:"
 
 #: ../root/layout/menu.tt:130
 #, perl-format
@@ -5010,7 +5010,7 @@ msgstr "Tegen"
 #: ../root/tag/not_found.tt:4
 #, perl-format
 msgid "No MusicBrainz entities have yet been tagged with \"{tag}\"."
-msgstr "Geen objecten in MusicBrainz zijn tot nu toe geëtiketteerd met \"{tag}\"."
+msgstr "Geen objecten in MusicBrainz zijn tot nu toe geëtiketteerd met „{tag}“."
 
 #: ../root/tag/artist.tt:1
 #, perl-format
@@ -5035,7 +5035,7 @@ msgstr "Geen wijzigingsnotities toegevoegd."
 #: ../root/edit/list.tt:88
 #, perl-format
 msgid "No edits were found matching your query. Please {search|try again}."
-msgstr ""
+msgstr "Er zijn geen wijzigingen gevonden die overeen komen met uw zoekopdracht. {search|Probeer het opnieuw.}"
 
 #: ../root/elections/index.tt:29
 #, perl-format
@@ -5060,7 +5060,7 @@ msgstr "Geen platenmaatschappijen met dit etiket gevonden."
 #: ../root/release/lookup.tt:33
 #, perl-format
 msgid "No matching CDs were found for TOC {toc}."
-msgstr ""
+msgstr "Geen overeenkomstige cd's gevonden met TOC {toc}."
 
 #: ../root/admin/edit_user.tt:13
 #, perl-format
@@ -5315,7 +5315,7 @@ msgstr "Alleen {doc|autoredacteuren} kunnen een wijziging direct bevestigen."
 msgid ""
 "Oops! It seems your search parameters are not correct, please double check "
 "your input!"
-msgstr ""
+msgstr "Oeps! Het lijkt er op dat uw zoekparameters niet correct waren, controleer uw invoer nog eens!"
 
 #: ../root/main/500.tt:5
 #, perl-format
@@ -5507,7 +5507,7 @@ msgstr ""
 msgid ""
 "Please <a href=\"{uri}\">update your profile</a> when you get time, to let "
 "other editors know a bit more about you."
-msgstr ""
+msgstr "<a href=\"{uri}\">Werk a.u.b. uw profiel bij</a> als u de tijd heeft, zodat andere redacteurs meer over u te weten komen."
 
 #: ../root/main/500.tt:60
 #, perl-format
@@ -5525,7 +5525,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:44
 #, perl-format
 msgid "Please click lookup to search"
-msgstr ""
+msgstr "Klik opzoeken om te zoeken"
 
 #: ../root/cdtoc/lookup.tt:85
 #, perl-format
@@ -5570,7 +5570,7 @@ msgstr "Voer alstublieft uw oude wachtwoord hieronder in, en daarna uw nieuwe wa
 msgid ""
 "Please first navigate to the page of the artist who you wish to relate  to "
 "recordings on this release and select \"use in relationship\""
-msgstr ""
+msgstr "Navigeer eerst naar de pagina van de artiest die u wilt relateren aan opnames op deze uitgave en selecteer „Gebruik in een verwantschap“"
 
 #: ../root/freedb/show.tt:48 ../root/freedb/show.tt:106
 #, perl-format
@@ -5588,7 +5588,7 @@ msgstr ""
 msgid ""
 "Please navigate to the pages of other entities you wish to merge and select "
 "the \"merge\" link."
-msgstr ""
+msgstr "Navigeer eerst naar de pagina's van de andere objecten die u wilt samenvoegen en selecteer de „Samenvoegen“-link."
 
 #: ../root/annotation/edit.tt:1
 #, perl-format
@@ -5734,7 +5734,7 @@ msgstr ""
 #: ../root/cdtoc/attach_artist_releases.tt:26
 #, perl-format
 msgid "Please select the medium you wish to attach this CD TOC to."
-msgstr ""
+msgstr "Selecteer een medium waar u deze TOC aan wilt toevoegen."
 
 #: ../root/main/rate_limited.tt:6
 #, perl-format
@@ -6006,7 +6006,7 @@ msgstr "Waarderingen van de opname"
 #: ../root/recording/layout.tt:1
 #, perl-format
 msgid "Recording “{name}” by {artist}"
-msgstr "Opname \"{name}\" door {artist}"
+msgstr "Opname „{name}“ door {artist}"
 
 #: ../root/components/common-macros.tt:433
 #: ../root/edit/details/add_recording_annotation.tt:3
@@ -6033,7 +6033,7 @@ msgstr "Opnames"
 #: ../root/artist/browse_various_recordings.tt:5
 #, perl-format
 msgid "Recordings starting with “{index}”"
-msgstr "Opnames waarvan de naam beginnen met \"{index}\""
+msgstr "Opnames waarvan de naam beginnen met „{index}“"
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:1
 #: ../root/report/recordings_with_earliest_release_relationships.tt:3
@@ -6086,7 +6086,7 @@ msgstr ""
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Relate to <abbr title=\"Uniform Resource Locator\">URL</abbr>"
-msgstr ""
+msgstr "Relateer aan <abbr title=\"Uniform Resource Locator\">URL</abbr>"
 
 #: ../root/components/common-macros.tt:488
 #, perl-format
@@ -6321,7 +6321,7 @@ msgstr ""
 #: ../root/release_group/layout.tt:1
 #, perl-format
 msgid "Release group “{name}” by {artist}"
-msgstr "Uitgavegroep \"{name}\" van {artist}"
+msgstr "Uitgavegroep „{name}“ van {artist}"
 
 #: ../root/components/common-macros.tt:433
 #: ../root/edit/details/add_release_group_annotation.tt:3
@@ -6341,7 +6341,7 @@ msgstr "Uitgavegroepen"
 #: ../root/artist/browse_various.tt:5 ../root/browse/release_group.tt:8
 #, perl-format
 msgid "Release groups starting with “{index}”"
-msgstr "Uitgavegroepen die beginnen met \"{index}\""
+msgstr "Uitgavegroepen die beginnen met „{index}“"
 
 #: ../root/report/index.tt:29
 #, perl-format
@@ -6372,7 +6372,7 @@ msgstr "Titel van de uitgave"
 #: ../root/release/layout.tt:1
 #, perl-format
 msgid "Release “{name}” by {artist}"
-msgstr "Uitgave \"{name}\" van {artist}"
+msgstr "Uitgave „{name}“ van {artist}"
 
 #: ../root/cdtoc/lookup.tt:70 ../root/components/common-macros.tt:433
 #: ../root/edit/details/add_cover_art.tt:5
@@ -6453,7 +6453,7 @@ msgstr "Uitgaves die te vroeg zijn uitgegeven"
 #: ../root/artist/browse_various_releases.tt:5 ../root/browse/release.tt:8
 #, perl-format
 msgid "Releases starting with “{index}”"
-msgstr "Uitgaves die beginnen met \"{index}\""
+msgstr "Uitgaves die beginnen met „{index}“"
 
 #: ../root/report/index.tt:52
 #, perl-format
@@ -6484,7 +6484,7 @@ msgstr "Uitgaves met onverwachte Amazon URL's"
 #: ../root/report/releases_to_convert.tt:3
 #, perl-format
 msgid "Releases which might need converting to \"multiple artists\""
-msgstr "Uitgaves die misschien moeten worden omgezet naar \"meerdere artiesten\""
+msgstr "Uitgaves die misschien moeten worden omgezet naar „diverse artiesten“"
 
 #: ../root/report/index.tt:37 ../root/report/releases_with_cc_links.tt:1
 #: ../root/report/releases_with_cc_links.tt:3
@@ -6968,7 +6968,7 @@ msgid ""
 "Search indexes are updated every 3 hours. If you just added the content "
 "you're looking for and you can't find it here, go to {url|the search page} "
 "and select the \"direct database search\" option."
-msgstr "De zoekindices worden elke drie uur bijgewerkt. Als u de informatie die u zoekt net heeft toegevoegd en niet hier kan vinden, ga dan naar {url|de zoekpagina} en selecteer de optie \"zoek direct in de gegevensbank\"."
+msgstr "De zoekindices worden elke drie uur bijgewerkt. Als u de informatie die u zoekt net heeft toegevoegd en niet hier kan vinden, ga dan naar {url|de zoekpagina} en selecteer de optie „zoek direct in de gegevensbank“."
 
 #: ../root/search/form.tt:20
 #, perl-format
@@ -7037,7 +7037,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:99
 #, perl-format
 msgid "Select a disc from the search results below and then click \"Add Disc\"."
-msgstr "Selecteer een medium uit de zoekresultaten hieronder en klik dan \"Voeg medium toe\"."
+msgstr "Selecteer een medium uit de zoekresultaten hieronder en klik dan „Voeg medium toe“."
 
 #: ../root/cdtoc/move_search.tt:4
 #, perl-format
@@ -7217,7 +7217,7 @@ msgid ""
 "Sorry, but your query \"(<code>query</code>)\" did not match any {type}. "
 "Please check you used the correct spelling.  Sometimes searching for fewer "
 "or different words may also help."
-msgstr "Onze excuses, maar uw zoekopdracht \"(<code>query</code>)\" kwam niet overeen met een {type}. Controleer of u de juiste spelling heeft gebruikt. Soms helpt het om met minder of andere woorden te zoeken."
+msgstr "Onze excuses, maar uw zoekopdracht „(<code>query</code>)“ kwam niet overeen met een {type}. Controleer of u de juiste spelling heeft gebruikt. Soms helpt het om met minder of andere woorden te zoeken."
 
 #: ../root/search/error/general.tt:3
 #, perl-format
@@ -7248,21 +7248,21 @@ msgstr "Onze excuses, de pagina die u zoekt is niet beschikbaar op een spiegelse
 msgid ""
 "Sorry, there are no artists starting with “{index}”. Please {pre|go back} "
 "and try again."
-msgstr "Onze excuses, er zijn geen artiesten die beginnen met \"{index}\". {Ga terug} en probeer het opnieuw."
+msgstr "Onze excuses, er zijn geen artiesten die beginnen met „{index}“. {Ga terug} en probeer het opnieuw."
 
 #: ../root/browse/label.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no labels starting with “{index}”. Please {pre|go back} and"
 " try again."
-msgstr "Onze excuses, er zijn geen platenmaatschappijen die beginnen met \"{index}\". {Ga terug} en probeer het opnieuw."
+msgstr "Onze excuses, er zijn geen platenmaatschappijen die beginnen met „{index}“. {Ga terug} en probeer het opnieuw."
 
 #: ../root/artist/browse_various_recordings.tt:15
 #, perl-format
 msgid ""
 "Sorry, there are no recordings starting with “{index}”. Please {pre|go back}"
 " and try again."
-msgstr "Onze excuses, er zijn geen opnames die beginnen met \"{index}\". {Ga terug} en probeer het opnieuw."
+msgstr "Onze excuses, er zijn geen opnames die beginnen met „{index}“. {Ga terug} en probeer het opnieuw."
 
 #: ../root/artist/browse_various.tt:36 ../root/browse/release_group.tt:34
 #, perl-format
@@ -7386,7 +7386,7 @@ msgstr "Onze excuses, we konden geen gebruikers vinden die overeenkomen met de z
 #: ../root/cdtoc/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find the CD TOC you specified."
-msgstr "Onze excuses, we konden de door u gespecificeerde inhoudsopgave niet vinden."
+msgstr "Onze excuses, we konden de door u gespecificeerde TOC niet vinden."
 
 #: ../root/elections/not_found.tt:4
 #, perl-format
@@ -7941,7 +7941,7 @@ msgstr ""
 msgid ""
 "The relationship type \"{type}\" can not be deleted because it is is still "
 "in use."
-msgstr ""
+msgstr "Het verwantschap type „{type}“ kan niet worden verwijderd omdat het nog steeds in gebruik is."
 
 #: ../root/search/error/internal-error.tt:3
 #, perl-format
@@ -8479,7 +8479,7 @@ msgid ""
 "This report lists all releases where the mediums are not continuous (e.g. "
 "there is no \"medium 2\"), or with duplicated mediums (e.g. there are two "
 "\"medium 4\"s)."
-msgstr ""
+msgstr "Dit rapport laat alle uitgaves zien waar de media niet continu zijn (bijv. als er geen „medium 2“ is), of met dubbele media (bijv. als er twee „media 4“ zijn)."
 
 #: ../root/report/tracks_with_sequence_issues.tt:6
 #, perl-format
@@ -8487,7 +8487,7 @@ msgid ""
 "This report lists all releases where the track numbers are not continuous "
 "(e.g. there is no \"track 2\"), or with duplicated track numbers (e.g. there"
 " are two \"track 4\"s)."
-msgstr ""
+msgstr "Dit rapport laat alle uitgaves zien waar de nummerposities niet continu zijn (bijv. als er geen „nummer 2“ is) of met dubbele nummerposities (bijv. als er twee „nummers 4“ zijn)."
 
 #: ../root/report/artists_that_may_be_persons.tt:6
 #, perl-format
@@ -10636,7 +10636,7 @@ msgstr ""
 #: ../root/work/layout.tt:1
 #, perl-format
 msgid "{type} “{work}”"
-msgstr "{type} \"{work}\""
+msgstr "{type} „{work}“"
 
 #: ../root/components/common-macros.tt:456
 #, perl-format
@@ -10803,12 +10803,12 @@ msgstr "'{id}' is geen geldige verkiezing ID"
 
 #: ../lib/MusicBrainz/Server/Controller/CDStub.pm:59
 msgid "The required TOC parameter was invalid or not present"
-msgstr ""
+msgstr "De benodigde TOC-parameter was ongeldig of niet aanwezig"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:133
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:293
 msgid "The provided CD TOC is not valid"
-msgstr ""
+msgstr "De ingevoerde TOC is niet geldig"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:146
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:307
@@ -10817,7 +10817,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:152
 msgid "This CDTOC is already attached to this medium"
-msgstr "Deze inhoudsopgave is al aan dit medium gekoppeld"
+msgstr "Deze TOC is al aan dit medium gekoppeld"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:161
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:315
@@ -10831,7 +10831,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:302
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:414
 msgid "Invalid arguments"
-msgstr ""
+msgstr "Ongeldige argumenten"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:316
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:420
@@ -10905,7 +10905,7 @@ msgstr "Uw bericht kon niet verzonden worden"
 
 #: ../lib/MusicBrainz/Server/Controller/WS/2/DiscID.pm:87
 msgid "Invalid TOC"
-msgstr ""
+msgstr "Ongeldige TOC"
 
 #: ../lib/MusicBrainz/Server/Controller/Work.pm:109
 msgid "This ISWC already exists for this work"
@@ -10933,7 +10933,7 @@ msgstr "Er kan geen cd-beginsel zonder nummers worden gecreëerd"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:121
 msgid "Incomplete TOC data"
-msgstr ""
+msgstr "Incomplete TOC-gegevens"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:124
 msgid "Missing disc ID"
@@ -10941,11 +10941,11 @@ msgstr "Ontbrekende disc-id"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:127
 msgid "Disc ID does match parsed TOC"
-msgstr ""
+msgstr "De Disc ID komt niet overeen met de TOC"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:130
 msgid "Number of submitted tracks does not match track count in TOC"
-msgstr "Het aantal ingevoerde nummers komt niet overeen met het aantal nummers in de inhoudsopgave"
+msgstr "Het aantal ingevoerde nummers komt niet overeen met het aantal nummers in de TOC"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:133
 msgid "Invalid barcode"
@@ -11293,7 +11293,7 @@ msgstr "Wikidocumentatie"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
-msgstr ""
+msgstr "WikiDoc veranderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
@@ -11366,7 +11366,7 @@ msgstr "Voeg alstublieft een artiestennaam in voor {credit}"
 msgid ""
 "Artist \"{artist}\" is unlinked, please select an existing artist.\n"
 "                       You may need to add a new artist to MusicBrainz first."
-msgstr ""
+msgstr "De artiest „{artist}“ is niet gekoppeld, selecteer een bestaande artiest. Misschien moet u eerst een nieuwe artiest aan MusicBrainz toevoegen."
 
 #: ../lib/MusicBrainz/Server/Form/Field/DiscID.pm:12
 msgid "This is not a valid disc ID"
@@ -11399,11 +11399,11 @@ msgstr "Geen geldige tijdsduur. De tijd moet de indeling MM:SS hebben"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:21
 msgid "Enter a valid url e.g. \"http://google.com/\""
-msgstr "Voer een geldige URL in, bijv. \"http://google.nl/\""
+msgstr "Voer een geldige URL in, bijv. „http://google.nl/“"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
-msgstr ""
+msgstr "Het protocol van de URL moet HTTP, HTTPS of FTP zijn."
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
@@ -11452,7 +11452,7 @@ msgstr ""
 msgid ""
 "You must provide an edit note when adding a release. Even just a URL or "
 "something like “CD in hand” helps!"
-msgstr "U moet een wijzigingsnotitie geven als u een uitgave toevoegt. Alleen al een URL of iets als \"cd in mijn hand\" helpt!"
+msgstr "U moet een wijzigingsnotitie geven als u een uitgave toevoegt. Alleen al een URL of iets als „cd in mijn hand“ helpt!"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:62
 msgid ""
@@ -11464,11 +11464,11 @@ msgstr "Deze streepjescode is ongeldig, controleer alstublieft of u de streepjes
 msgid ""
 "You must select an existing release group. If you wish to move this release,\n"
 "           use the \"change release group\" action from the sidebar."
-msgstr "U moet een bestaande uitgavegroep selecteren. Als u deze uitgave wilt verplaatsen,\ngebruik dan de \"Verander uitgavegroep\" link in de zijbalk."
+msgstr "U moet een bestaande uitgavegroep selecteren. Als u deze uitgave wilt verplaatsen,\ngebruik dan de „Verander uitgavegroep“ link in de zijbalk."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:60
 msgid "New tracklisting contains an empty track"
-msgstr ""
+msgstr "De nieuwe nummerlijst bevat een leeg nummer"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:65
 #, perl-brace-format
@@ -11478,12 +11478,12 @@ msgstr "Een naam is benodigd voor nummer {pos}"
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:70
 #, perl-brace-format
 msgid "A position is required for \"{name}\""
-msgstr "Een positie is benodigd voor \"{name}\""
+msgstr "Een positie is benodigd voor „{name}“"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:75
 #, perl-brace-format
 msgid "\"{name1}\" and \"{name2}\" have the same position"
-msgstr "\"{name1}\" en \"{name2}\" hebben dezelfde positie"
+msgstr "„{name1}“ en „{name2}“ hebben dezelfde positie"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:88
 #, perl-brace-format
@@ -11639,7 +11639,7 @@ msgstr "Een single heeft meestal één hoofdnummer en mogelijk enkele extra numm
 msgid ""
 "An EP is an Extended Play release and often contains the letters EP in the "
 "title."
-msgstr "Een EP is een \"Extended Play\" uitgave en de titel bevat vaak de letters EP."
+msgstr "Een EP is een „Extended Play“ uitgave en de titel bevat vaak de letters EP."
 
 #: ../lib/MusicBrainz/Server/Release.pm:82
 msgid ""
