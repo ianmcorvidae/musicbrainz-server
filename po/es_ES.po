@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-30 23:25+0000\n"
+"PO-Revision-Date: 2012-06-01 18:31+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Spain) (http://www.transifex.net/projects/p/musicbrainz/language/es_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -10747,7 +10747,7 @@ msgstr "Lo sentimos, este enlace de verificación ha caducado."
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:91
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found."
-msgstr ""
+msgstr "No se pudo encontrar el usuario con la ID '{user_id}'."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:134
 msgid ""
@@ -10774,7 +10774,7 @@ msgstr "Lo sentimos, este enlace de cambio de contraseña ha caducado."
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found"
-msgstr ""
+msgstr "No se pudo encontrar el usuario con la ID '{user_id}'"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:256
 msgid "There is no user with this email"
@@ -10799,7 +10799,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:637
 #, perl-brace-format
 msgid "This collaboration has been split in edit #{id}."
-msgstr ""
+msgstr "Esta colaboración ha sido separada con la modificación #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/AutoEditorElections.pm:70
 #, perl-brace-format
@@ -10831,7 +10831,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:189
 msgid "The provided artist id is not valid"
-msgstr ""
+msgstr "La ID de artista indicada no es válida"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:302
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:414
@@ -10853,7 +10853,7 @@ msgstr "No se encuentra la publicación"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:440
 msgid "Target entity not found"
-msgstr ""
+msgstr "No se encontró la entidad de destino"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:535
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:543
@@ -10918,11 +10918,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:106
 msgid "No title provided"
-msgstr ""
+msgstr "No se ha indicado el título"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:109
 msgid "No artist names provided"
-msgstr ""
+msgstr "No se ha indicado ningún artista"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:112
 msgid "Not all tracks specify an artist"
@@ -10934,7 +10934,7 @@ msgstr "No todas las pistas tienen título."
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:118
 msgid "Cannot add a CD stub with no tracks"
-msgstr ""
+msgstr "No es posible añadir un esbozo de CD sin pistas"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:121
 msgid "Incomplete TOC data"
@@ -11734,7 +11734,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Release.pm:1394
 #, perl-brace-format
 msgid "There is no track {tracknum} on this album"
-msgstr ""
+msgstr "No hay ninguna pista {tracknum} en esta publicación"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1410
 #, perl-brace-format
@@ -11744,12 +11744,12 @@ msgid ""
 msgid_plural ""
 "You can't remove track {tracknum} - this release is meant to have exactly "
 "{trackcount} tracks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "No puedes eliminar la pista {tracknum}: esta publicación tiene que tener exactamente {trackcount} pista"
+msgstr[1] "No puedes eliminar la pista {tracknum}: esta publicación tiene que tener exactamente {trackcount} pistas"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1427
 msgid "None of the tracks on this album are eligible for removal"
-msgstr ""
+msgstr "No se puede eliminar ninguna de las pistas de esta publicación"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"
@@ -11757,7 +11757,7 @@ msgstr "Información de la publicación"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
-msgstr ""
+msgstr "Añadir entidades"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:120
 msgid "Release Duplicates"
