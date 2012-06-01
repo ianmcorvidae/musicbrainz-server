@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-31 20:21+0000\n"
+"PO-Revision-Date: 2012-06-01 07:15+0000\n"
 "Last-Translator: Benjamin Sonntag <email address hidden>\n"
 "Language-Team: French (France) (http://www.transifex.net/projects/p/musicbrainz/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -5536,7 +5536,7 @@ msgstr "Cliquez sur recherche pour effectuer une recherche"
 msgid ""
 "Please consider adding this release/CD to MusicBrainz. To add this CD, "
 "please choose one of the following two methods:"
-msgstr ""
+msgstr "Merci d'ajouter ce CD, cette sortie, à MusicBrainz. Pour ajouter ce CD, merci d'utiliser l'une des deux méthodes ci-dessous :"
 
 #: ../root/scripts/text_strings.tt:67
 #, perl-format
@@ -5574,7 +5574,7 @@ msgstr "Merci d'entrer votre ancien mot de passe ci-dessous, puis votre nouveau 
 msgid ""
 "Please first navigate to the page of the artist who you wish to relate  to "
 "recordings on this release and select \"use in relationship\""
-msgstr ""
+msgstr "Rendez-vous d'abord sur la page de l'artiste que vous souhaitez inclure dans la relation avec l'enregistrement de cette sortie, et choisissez \"utiliser dans une relation\""
 
 #: ../root/freedb/show.tt:48 ../root/freedb/show.tt:106
 #, perl-format
@@ -5585,7 +5585,7 @@ msgstr "Veuillez vous connecter pour importer ce disque FreeDB"
 #: ../root/release/edit/missing_entities.tt:113
 #, perl-format
 msgid "Please make a selection"
-msgstr ""
+msgstr "Merci d'effectuer un choix"
 
 #: ../root/layout/merge-helper.tt:24
 #, perl-format
@@ -5608,7 +5608,7 @@ msgid ""
 "Please note that capitalization of the label name is taken into account when"
 " determining the need for a comment.  The two labels <em>some name</em> and "
 "<em>Some Name</em> are not the same."
-msgstr ""
+msgstr "Notez que la casse (majuscule/minuscule) du label est prise en compte pour savoir si un commentaire est requis. Les labels <em>un exemple</em> et <em>Un Exemple</em> ne sont pas identiques."
 
 #: ../root/search/form.tt:49
 #, perl-format
@@ -5709,7 +5709,7 @@ msgstr "Merci de chercher l'artiste pour lequel vous souhaitez créer une nouvel
 msgid ""
 "Please see the <a href=\"{doc}\" target=\"_blank\">Cover Art Types</a> "
 "documentation for a description of these types."
-msgstr ""
+msgstr "Consultez la documentation sur les <a href=\"{doc}\" target=\"_blank\">Types de Jaquettes</a> pour une description complète de ces types."
 
 #: ../root/scripts/text_strings.tt:41
 #, perl-format
@@ -5726,7 +5726,7 @@ msgstr "Choisissez un sous-type pour le type de relation actuel. Le sous-type de
 #: ../root/edit/relationship/create_batch.tt:87
 #, perl-format
 msgid "Please select at least 1 recording to relate {entity} to."
-msgstr ""
+msgstr "Merci de choisir au moins 1 enregistrement pour le mettre en relation avec {entity}."
 
 #: ../root/artist/edit_form.tt:61
 #, perl-format
@@ -5738,12 +5738,12 @@ msgstr ""
 #: ../root/cdtoc/attach_artist_releases.tt:26
 #, perl-format
 msgid "Please select the medium you wish to attach this CD TOC to."
-msgstr ""
+msgstr "Merci de choisir le media que vous souhaitez attacher à cet Index de CD."
 
 #: ../root/main/rate_limited.tt:6
 #, perl-format
 msgid "Please slow down and then try again"
-msgstr ""
+msgstr "Réessayez, en allant moins vite"
 
 #: ../root/components/forms.tt:185
 #, perl-format
@@ -5758,7 +5758,7 @@ msgstr "Utilisez le bouton \"nom de tri\" pour deviner le nom à utiliser pour l
 #: ../root/main/503.tt:8
 #, perl-format
 msgid "Please wait a few minutes and repeat your request."
-msgstr ""
+msgstr "Merci de réessayer dans quelques minutes."
 
 #: ../root/components/aliases.tt:67
 #, perl-format
@@ -5816,7 +5816,7 @@ msgstr "Valeurs possibles :"
 #: ../root/report/index.tt:19
 #, perl-format
 msgid "Possibly duplicate artists"
-msgstr ""
+msgstr "Artiste probablement en doublon"
 
 #: ../root/account/preferences_ok.tt:1 ../root/account/preferences_ok.tt:3
 #: ../root/account/preferences.tt:2 ../root/account/preferences.tt:4
@@ -5851,7 +5851,7 @@ msgstr "Précédent"
 #: ../root/release_group/edit_form.tt:10
 #, perl-format
 msgid "Primary Type:"
-msgstr ""
+msgstr "Type primaire :"
 
 #: ../root/edit/details/add_artist_alias.tt:24
 #: ../root/edit/details/add_label_alias.tt:24
@@ -5910,7 +5910,7 @@ msgstr "Profil"
 #: ../root/elections/show.tt:14
 #, perl-format
 msgid "Proposer:"
-msgstr ""
+msgstr "Proposer :"
 
 #: ../root/user/collections.tt:21
 #, perl-format
@@ -5920,7 +5920,7 @@ msgstr "Public"
 #: ../root/collection/header.tt:14
 #, perl-format
 msgid "Public collection by {owner}"
-msgstr ""
+msgstr "Collection publique de {owner}"
 
 #: ../root/components/search.tt:9 ../root/search/form.tt:4
 #, perl-format
@@ -5930,7 +5930,7 @@ msgstr "Requête :"
 #: ../root/main/index.tt:30
 #, perl-format
 msgid "Quick Start"
-msgstr ""
+msgstr "Démarrage rapide"
 
 #: ../root/edit/list_header.tt:4
 #, perl-format
@@ -5964,14 +5964,14 @@ msgstr "Notes"
 #: ../root/main/index.tt:14
 #, perl-format
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Lire la suite &raquo;"
 
 #: ../root/admin/wikidoc/index.tt:56
 #, perl-format
 msgid ""
 "Read the {doc|WikiDocs} documentation for an overview of how transclusion "
 "works."
-msgstr ""
+msgstr "Lisez la {doc|documentation WikiDocs} pour comprendre comment fonctionne la transclusion."
 
 #: ../root/components/common-macros.tt:473 ../root/edit/search_macros.tt:280
 #: ../root/report/isrc_with_many_recordings.tt:17
@@ -6000,7 +6000,7 @@ msgstr "Enregistrement par {artist}"
 #: ../root/recording/layout.tt:8
 #, perl-format
 msgid "Recording information"
-msgstr ""
+msgstr "Informations d'enregistrement"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -6054,7 +6054,7 @@ msgstr "Enregistrements avec la plus récente relation avec la sortie"
 #: ../root/report/featuring_recordings.tt:3 ../root/report/index.tt:66
 #, perl-format
 msgid "Recordings with titles containing featuring artists"
-msgstr ""
+msgstr "Enregistrements avec un titre contenant des artistes invités"
 
 #: ../root/edit/details/edit_medium.tt:192
 #: ../root/edit/relationship/create_batch.tt:46
@@ -6095,17 +6095,17 @@ msgstr "Associé à une <abbr title=\"Uniform Resource Locator\">URL</abbr>"
 #: ../root/components/common-macros.tt:488
 #, perl-format
 msgid "Relate to recordings"
-msgstr ""
+msgstr "Associé à des enregistrements "
 
 #: ../root/components/common-macros.tt:488
 #, perl-format
 msgid "Relate to release"
-msgstr ""
+msgstr "Associé à une sortie"
 
 #: ../root/release/sidebar.tt:96
 #, perl-format
 msgid "Relate {what} to recordings"
-msgstr ""
+msgstr "Associer {what} à des enregistrements"
 
 #: ../root/recording/index.tt:51 ../root/recording/relationships.tt:6
 #, perl-format
@@ -6130,13 +6130,13 @@ msgstr "Détails de la relation"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Relationship Type"
-msgstr ""
+msgstr "Type de relation"
 
 #: ../root/relationship/linktype/in_use.tt:1
 #: ../root/relationship/linktype/in_use.tt:3
 #, perl-format
 msgid "Relationship Type In Use"
-msgstr ""
+msgstr "Type de relation actuellement utilisé"
 
 #: ../root/layout/menu.tt:221 ../root/relationship/header.tt:2
 #: ../root/relationship/linktype/index.tt:1
@@ -6269,7 +6269,7 @@ msgstr "Groupe de sorties :"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Release Language"
-msgstr ""
+msgstr "Langue de la sortie"
 
 #: ../root/release/not_found.tt:1 ../root/release/not_found.tt:2
 #, perl-format
@@ -6305,12 +6305,12 @@ msgstr "Groupe de sorties par {artist}"
 #: ../root/layout/sidebar/sidebar-favicons.tt:39
 #, perl-format
 msgid "Release group external links"
-msgstr ""
+msgstr "Lien externe du groupe de sortie"
 
 #: ../root/release_group/layout.tt:8
 #, perl-format
 msgid "Release group information"
-msgstr ""
+msgstr "Information du groupe de sortie"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -6320,7 +6320,7 @@ msgstr "Note du groupe de sorties"
 #: ../root/release/relationships.tt:4
 #, perl-format
 msgid "Release group relationships"
-msgstr ""
+msgstr "Relation du groupe de sortie"
 
 #: ../root/release_group/layout.tt:1
 #, perl-format
@@ -6350,7 +6350,7 @@ msgstr "Groupes de sorties commençant par \"{index}\""
 #: ../root/report/index.tt:29
 #, perl-format
 msgid "Release groups that might need to be merged"
-msgstr ""
+msgstr "Groupe de sortie qu'il ne faut pas fusionner"
 
 #: ../root/report/index.tt:28
 #, perl-format
@@ -6361,7 +6361,7 @@ msgstr "Groupe de sorties ne contenant aucune sortie"
 #: ../root/report/featuring_release_groups.tt:3 ../root/report/index.tt:30
 #, perl-format
 msgid "Release groups with titles containing featuring artists"
-msgstr ""
+msgstr "Groupe de sortie avec un nom contenant des artistes invités"
 
 #: ../root/release/edit/information.tt:23 ../root/release/sidebar.tt:15
 #, perl-format
@@ -6416,7 +6416,7 @@ msgstr "Sorties"
 #: ../root/report/tracks_named_with_sequence.tt:3
 #, perl-format
 msgid "Releases Where Track Names Start With Their Track Number"
-msgstr ""
+msgstr "Sorties pour lesquelles des noms de pistes commencent par leur numéro de piste"
 
 #: ../root/report/cat_no_looks_like_asin.tt:1
 #: ../root/report/cat_no_looks_like_asin.tt:3
@@ -6439,20 +6439,20 @@ msgstr "Sorties avec des liens Discogs multiples"
 #: ../root/report/some_formats_unset.tt:3
 #, perl-format
 msgid "Releases With Some Formats Unset"
-msgstr ""
+msgstr "Sortie avec un format non précisé"
 
 #: ../root/report/index.tt:56
 #: ../root/report/releases_in_caa_with_cover_art_relationships.tt:1
 #, perl-format
 msgid ""
 "Releases in the Cover Art Archive that still have cover art relationships"
-msgstr ""
+msgstr "Sorties présentes dans la Cover Art Archive qui ont encore une jaquette en relation"
 
 #: ../root/report/index.tt:51 ../root/report/released_too_early.tt:1
 #: ../root/report/released_too_early.tt:3
 #, perl-format
 msgid "Releases released too early"
-msgstr ""
+msgstr "Sorties sorties trop tôt"
 
 #: ../root/artist/browse_various_releases.tt:5 ../root/browse/release.tt:8
 #, perl-format
@@ -6462,7 +6462,7 @@ msgstr "Sortie commençant par \"{index}\""
 #: ../root/report/index.tt:52
 #, perl-format
 msgid "Releases where some (but not all) mediums have no format set"
-msgstr ""
+msgstr "Sortie dont certains (mais pas tous) médias n'ont pas de format de précisé"
 
 #: ../root/report/index.tt:42
 #, perl-format
@@ -6494,7 +6494,7 @@ msgstr "Sorties qui devraient être converties en \"artistes multiples\""
 #: ../root/report/releases_with_cc_links.tt:3
 #, perl-format
 msgid "Releases with Creative Commons Download relationships"
-msgstr ""
+msgstr "Sorties avec une relation de téléchargement en Créative Commons"
 
 #: ../root/report/index.tt:53
 #, perl-format
@@ -6505,53 +6505,53 @@ msgstr ""
 #: ../root/report/mediums_with_sequence_issues.tt:3
 #, perl-format
 msgid "Releases with medium number issues"
-msgstr ""
+msgstr "Sorties avec un problème de numéro de média"
 
 #: ../root/report/index.tt:57
 #, perl-format
 msgid "Releases with non-sequential mediums"
-msgstr ""
+msgstr "Sortie avec des médias non séquentiels"
 
 #: ../root/report/index.tt:48
 #, perl-format
 msgid "Releases with non-sequential track numbers"
-msgstr ""
+msgstr "Sortie avec des pistes non séquentielles"
 
 #: ../root/report/index.tt:49 ../root/report/superfluous_data_tracks.tt:3
 #, perl-format
 msgid "Releases with superfluous data tracks"
-msgstr ""
+msgstr "Sortie avec des pistes de données superflues"
 
 #: ../root/report/featuring_releases.tt:1
 #: ../root/report/featuring_releases.tt:3 ../root/report/index.tt:50
 #, perl-format
 msgid "Releases with titles containing featuring artists"
-msgstr ""
+msgstr "Sorties ayant des titres contenant un nom d'artiste invité"
 
 #: ../root/report/tracks_with_sequence_issues.tt:1
 #: ../root/report/tracks_with_sequence_issues.tt:3
 #, perl-format
 msgid "Releases with track number issues"
-msgstr ""
+msgstr "Sortie avec un problème de numéro de piste"
 
 #: ../root/report/index.tt:58
 #: ../root/report/releases_with_unlikely_language_script.tt:1
 #: ../root/report/releases_with_unlikely_language_script.tt:3
 #, perl-format
 msgid "Releases with unlikely language/script pairs"
-msgstr ""
+msgstr "Sortie avec des paires langue/encodage improbable"
 
 #: ../root/report/index.tt:39 ../root/report/releases_without_language.tt:1
 #: ../root/report/releases_without_language.tt:3
 #, perl-format
 msgid "Releases without language"
-msgstr ""
+msgstr "Sortie sans langue"
 
 #: ../root/report/index.tt:40 ../root/report/releases_without_script.tt:1
 #: ../root/report/releases_without_script.tt:3
 #, perl-format
 msgid "Releases without script"
-msgstr ""
+msgstr "Sortie sans encodage"
 
 #: ../root/edit/details/convert_release_to_multiple_artists.tt:3
 #: ../root/edit/details/edit_release_attributes.tt:4
@@ -6612,7 +6612,7 @@ msgstr "Supprimer le crédit de l'artiste"
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr ""
+msgstr "Enlever la Jaquette"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
@@ -6627,7 +6627,7 @@ msgstr "Supprimer l'ISRC “{isrc}”"
 #: ../root/iswc/delete.tt:1 ../root/iswc/delete.tt:3
 #, perl-format
 msgid "Remove ISWC “{iswc}”"
-msgstr ""
+msgstr "Enlever l'ISWC \"{iswc}\""
 
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:82
 #, perl-format
@@ -6706,12 +6706,12 @@ msgstr "Supprimer le disque"
 #: ../root/release/sidebar.tt:122
 #, perl-format
 msgid "Remove from my collection"
-msgstr ""
+msgstr "Supprimer de ma collection"
 
 #: ../root/release/sidebar.tt:124
 #, perl-format
 msgid "Remove from {collection}"
-msgstr ""
+msgstr "Supprimer de {collection}"
 
 #: ../root/label/layout.tt:72
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabel.pm:9
@@ -6769,7 +6769,7 @@ msgstr "Supprimer votre notation"
 #: ../root/components/forms.tt:108 ../root/components/forms.tt:109
 #, perl-format
 msgid "Remove {item}"
-msgstr ""
+msgstr "Supprimer {item}"
 
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
@@ -6785,7 +6785,7 @@ msgstr ""
 #: ../root/release/reorder_cover_art.tt:6
 #, perl-format
 msgid "Reorder Cover Art"
-msgstr ""
+msgstr "Réordonner les jaquettes"
 
 #: ../root/layout/menu.tt:244
 #, perl-format
@@ -6806,7 +6806,7 @@ msgstr "Rapports"
 #: ../root/main/500.tt:27
 #, perl-format
 msgid "Request data:"
-msgstr ""
+msgstr "Requête de données :"
 
 #: ../root/edit/info.tt:48
 #, perl-format
