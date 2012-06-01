@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-05-31 20:04+0000\n"
+"PO-Revision-Date: 2012-06-01 11:22+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -96,7 +96,7 @@ msgstr "&lt; Terug naar alle verwantschapstypes"
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:29
 #, perl-format
 msgid "&ndash; {enddate}"
-msgstr ""
+msgstr "&ndash; {enddate}"
 
 #: ../root/components/tag-cloud.tt:26
 #, perl-format
@@ -1077,7 +1077,7 @@ msgstr "Weet u zeker dat u {release} van {release_artist} wilt verplaatsen naar 
 msgid ""
 "Are you sure that you wish to attach the disc ID <code>{discid}</code> to "
 "{format} {pos} of {release} by {artist}?"
-msgstr ""
+msgstr "Weet u zeker dat u de disc-id <code>{discid}</code> aan {format} {pos} van {release} van {artist} wilt toevoegen?"
 
 #: ../root/admin/delete_user.tt:4
 #, perl-format
@@ -1175,7 +1175,7 @@ msgstr "Weet u zeker dat u de ISRC <code>{isrc}</code> van {recording} door {art
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the ISWC <code>{iswc}</code> from {work}?"
-msgstr ""
+msgstr "Weet u zeker dat u de ISWC <code>{iswc}</code> van {work} wilt verwijderen?"
 
 #: ../root/release/remove_cover_art.tt:4
 #, perl-format
@@ -1295,7 +1295,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:45
 #, perl-format
 msgid "Artist as credited on this track"
-msgstr ""
+msgstr "Artiesten zoals ze op dit nummer genoemd worden"
 
 #: ../root/components/filter-form.tt:11
 #, perl-format
@@ -1443,8 +1443,8 @@ msgstr[1] "Gekoppeld aan {num} opnames"
 #, perl-format
 msgid "Associated with {num} work"
 msgid_plural "Associated with {num} works"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Geassocieerd met {num} compositie"
+msgstr[1] "Geassocieerd met {num} composities"
 
 #: ../root/cdtoc/attach_artist_releases.tt:22
 #: ../root/cdtoc/attach_artist_releases.tt:23
@@ -2333,7 +2333,7 @@ msgstr "Creëer een nieuwe verwantschapseigenschap"
 #: ../root/relationship/linktype/tree.tt:43
 #, perl-format
 msgid "Create a new {type0}-{type1} relationship"
-msgstr ""
+msgstr "Creëer een nieuwe {type0}-{type1} verwantschap"
 
 #: ../root/account/register.tt:5 ../root/account/register.tt:12
 #, perl-format
@@ -3213,7 +3213,7 @@ msgstr "Beëindigd:"
 #: ../root/release/edit/tracklist.tt:181
 #, perl-format
 msgid "Enter a tracklist below:"
-msgstr ""
+msgstr "Vul hieronder de nummerlijst in:"
 
 #: ../root/components/forms.tt:24 ../root/release/add_cover_art.tt:59
 #: ../root/release/edit/editnote.tt:42
@@ -3588,7 +3588,7 @@ msgstr "Verkrijg Google Chrome Frame"
 #: ../root/admin/wikidoc/index.tt:76
 #, perl-format
 msgid "Get wiki versions"
-msgstr ""
+msgstr "Verkrijg versies van de wiki"
 
 #: ../root/main/frame.tt:3
 #, perl-format
@@ -3752,7 +3752,7 @@ msgstr "ISWC"
 #: ../root/edit/details/add_iswcs.tt:8
 #, perl-format
 msgid "ISWC {iswc} to {work}"
-msgstr ""
+msgstr "ISWC {iswc} naar {work}"
 
 #: ../root/iswc/index.tt:1 ../root/iswc/index.tt:3
 #, perl-format
@@ -5916,7 +5916,7 @@ msgstr "Publiek"
 #: ../root/collection/header.tt:14
 #, perl-format
 msgid "Public collection by {owner}"
-msgstr ""
+msgstr "Publieke collectie van {owner}"
 
 #: ../root/components/search.tt:9 ../root/search/form.tt:4
 #, perl-format
@@ -6076,7 +6076,7 @@ msgstr "Verwerp wijziging"
 #: ../root/components/common-macros.tt:512
 #, perl-format
 msgid "Reject upon expiration"
-msgstr ""
+msgstr "Verwerpen na de vervaltijd"
 
 #: ../root/components/common-macros.tt:465
 #, perl-format
@@ -6091,17 +6091,17 @@ msgstr "Relateer aan <abbr title=\"Uniform Resource Locator\">URL</abbr>"
 #: ../root/components/common-macros.tt:488
 #, perl-format
 msgid "Relate to recordings"
-msgstr ""
+msgstr "Relateer aan opnames"
 
 #: ../root/components/common-macros.tt:488
 #, perl-format
 msgid "Relate to release"
-msgstr ""
+msgstr "Relateer aan uitgave"
 
 #: ../root/release/sidebar.tt:96
 #, perl-format
 msgid "Relate {what} to recordings"
-msgstr ""
+msgstr "Relateer {what} aan opnames"
 
 #: ../root/recording/index.tt:51 ../root/recording/relationships.tt:6
 #, perl-format
@@ -6501,7 +6501,7 @@ msgstr "Uitgaves met catalogusnummers die er uitzien als ASIN's"
 #: ../root/report/mediums_with_sequence_issues.tt:3
 #, perl-format
 msgid "Releases with medium number issues"
-msgstr ""
+msgstr "Uitgaves met problemen bij de mediumposities"
 
 #: ../root/report/index.tt:57
 #, perl-format
@@ -6528,7 +6528,7 @@ msgstr "Uitgaves met deelnemende artiesten in de titel"
 #: ../root/report/tracks_with_sequence_issues.tt:3
 #, perl-format
 msgid "Releases with track number issues"
-msgstr ""
+msgstr "Uitgaves met problemen bij de nummerposities"
 
 #: ../root/report/index.tt:58
 #: ../root/report/releases_with_unlikely_language_script.tt:1
@@ -6765,7 +6765,7 @@ msgstr "Verwijder uw waardering"
 #: ../root/components/forms.tt:108 ../root/components/forms.tt:109
 #, perl-format
 msgid "Remove {item}"
-msgstr ""
+msgstr "Verwijder {item}"
 
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
@@ -7044,7 +7044,7 @@ msgstr "Selecteer een medium uit de zoekresultaten hieronder en klik dan „Voeg
 msgid ""
 "Select a release to which the disc ID <code>{discid}</code>. should be moved"
 " to."
-msgstr ""
+msgstr "Selecteer een uitgave waarnaar de disc-id <code>{discid}</code> naar moet worden verplaatst."
 
 #: ../root/user/contact.tt:20
 #, perl-format
@@ -7070,7 +7070,7 @@ msgstr "Stuur mij e-mails met wijzigingen in mijn abonnementen:"
 #: ../root/cdtoc/set_durations.tt:1 ../root/cdtoc/set_durations.tt:2
 #, perl-format
 msgid "Set Tracklist Durations"
-msgstr ""
+msgstr "Stel de duur van de nummers in"
 
 #: ../root/account/reset_password.tt:5
 #, perl-format
@@ -7613,7 +7613,7 @@ msgstr "Abonnementen"
 #: ../root/release/edit/recordings.tt:77
 #, perl-format
 msgid "Suggested recording:"
-msgstr ""
+msgstr "Gesuggereerde opname:"
 
 #: ../root/edit/details/add_release_annotation.tt:30
 #, perl-format
@@ -7735,7 +7735,7 @@ msgstr "Etiketten"
 #: ../root/layout/menu.tt:83
 #, perl-format
 msgid "Team"
-msgstr ""
+msgstr "Team"
 
 #: ../root/admin/edit_user.tt:10
 #, perl-format
@@ -8748,7 +8748,7 @@ msgstr "Titel:"
 msgid ""
 "To aid in testing, the following features have been made available on "
 "testing servers:"
-msgstr ""
+msgstr "Om het testen te vergemakkelijken zijn de volgende mogelijkheden beschikbaar gemaakt op testservers:"
 
 #: ../root/artist/browse_various_recordings.tt:20
 #: ../root/artist/browse_various_releases.tt:20
@@ -8757,7 +8757,7 @@ msgstr ""
 #: ../root/browse/release.tt:39 ../root/browse/work.tt:39
 #, perl-format
 msgid "To begin browsing, please select a letter above."
-msgstr ""
+msgstr "Selecteer een bovenstaande letter om te beginnen met bladeren."
 
 #: ../root/release/edit/tracklist.tt:168
 #, perl-format
@@ -9099,7 +9099,7 @@ msgstr "UUID:"
 #: ../root/main/401.tt:1 ../root/main/401.tt:3
 #, perl-format
 msgid "Unauthorized Request"
-msgstr ""
+msgstr "Ongeautoriseerde aanvraag"
 
 #: ../root/report/artist_list.tt:13
 #, perl-format
@@ -9136,7 +9136,7 @@ msgstr "Abonnement op deze artiest opzeggen."
 #: ../root/admin/edit_user.tt:12
 #, perl-format
 msgid "Untrusted"
-msgstr ""
+msgstr "Niet vertrouwd"
 
 #: ../root/search/form.tt:13
 #, perl-format
@@ -9431,7 +9431,7 @@ msgstr "Waarschuwing:"
 #: ../root/watch/list.tt:1 ../root/watch/list.tt:2
 #, perl-format
 msgid "Watched Artists"
-msgstr ""
+msgstr "Gevolgde artiesten"
 
 #: ../root/report/not_available.tt:6
 #, perl-format
@@ -9450,14 +9450,14 @@ msgstr "We kunnen geen geschiedenis van de hoesafbeeldingen tonen. Kijk voor een
 msgid ""
 "We couldn't find an artist with the name you entered. If you wish to create "
 "a new artist, please fill in the fields below:"
-msgstr ""
+msgstr "We konden geen artiest vinden met de naam die u invoerde. Als u een nieuwe artiest wilt creëren, vult u onderstaande velden in:"
 
 #: ../root/release/edit/missing_entities.tt:120
 #, perl-format
 msgid ""
 "We couldn't find an label with the name you entered. If you wish to create a"
 " new label, please fill in the fields below:"
-msgstr ""
+msgstr "We konden geen platenmaatschappij vinden met de naam die u invoerde. Als u een nieuwe platenmaatschappij wilt creëren, vult u onderstaande velden in:"
 
 #: ../root/release/cover_art.tt:38
 #, perl-format
@@ -9660,7 +9660,7 @@ msgstr "Composities"
 #: ../root/browse/work.tt:8
 #, perl-format
 msgid "Works starting with “{index}”"
-msgstr ""
+msgstr "Composities die beginnen met „{indox}“"
 
 #: ../root/artist/works-list.tt:10 ../root/iswc/index.tt:17
 #: ../root/otherlookup/results-work.tt:8 ../root/search/results-work.tt:11
@@ -9748,7 +9748,7 @@ msgstr "U staat op het punt om een ISRC toe te voegen aan {recording} door {ac}.
 msgid ""
 "You are about to add an ISWC to {work}. The ISWC must be entered in standard"
 " <code>T-DDD.DDD.DDD-C</code> format:"
-msgstr ""
+msgstr "U staat op het punt om een ISWC aan {work} toe te voegen. De ISWC moet in standaard formaat <code>T-DDD.DDD.DDD-C</code> worden ingevoerd:"
 
 #: ../root/artist/edit_form.tt:3
 #, perl-format
@@ -9917,7 +9917,7 @@ msgstr "U kunt niet op deze kandidaat stemmen omdat u geen autoredacteur bent."
 #, perl-format
 msgid ""
 "You cannot vote for this candidate, because you proposed / seconded them."
-msgstr ""
+msgstr "U kunt niet voor deze kandidaat stemmen omdat u hem heeft voorgesteld of gesecondeerd."
 
 #: ../root/layout/merge-helper.tt:4
 #, perl-format
@@ -10157,7 +10157,7 @@ msgstr "van {date} tot ????"
 #: ../root/components/common-macros.tt:586 ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "from {date} to present"
-msgstr ""
+msgstr "vanaf {date} tot nu"
 
 #: ../root/search/results-freedb.tt:27
 #, perl-format
@@ -10167,13 +10167,13 @@ msgstr "import"
 #: ../root/components/common-macros.tt:575 ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "in {date}"
-msgstr ""
+msgstr "in {date}"
 
 #: ../root/components/common-macros.tt:286
 #: ../root/components/rdfa-macros.tt:698 ../root/components/rdfa-macros.tt:711
 #, perl-format
 msgid "info"
-msgstr ""
+msgstr "info"
 
 #: ../root/edit/search_macros.tt:119 ../root/edit/search_macros.tt:136
 #: ../root/edit/search_macros.tt:170 ../root/edit/search_macros.tt:182
@@ -10252,7 +10252,7 @@ msgstr "nieuwste eerst"
 #: ../root/user/profile.tt:51
 #, perl-format
 msgid "nominate for auto-editor"
-msgstr ""
+msgstr "nomineer als autoredacteur"
 
 #: ../root/relationship/linkattributetype/common.tt:19
 #, perl-format
@@ -10461,7 +10461,7 @@ msgstr[1] "{count} privéwaarderingen niet weergegeven"
 #: ../root/user/profile.tt:41
 #, perl-format
 msgid "{doc|Auto-Editor}"
-msgstr ""
+msgstr "{doc|Autoredacteur}"
 
 #: ../root/cdstub/index.tt:13
 #, perl-format
@@ -10476,7 +10476,7 @@ msgstr "{doc|Verwantschapsredacteur}"
 #: ../root/user/profile.tt:44
 #, perl-format
 msgid "{doc|Transclusion Editor}"
-msgstr ""
+msgstr "{doc|Transclusieredacteur}"
 
 #: ../root/edit/require_note.tt:4
 #, perl-format
@@ -10521,7 +10521,7 @@ msgstr "{mbid|<abbr title=\"MusicBrainz Identificator\">MBID</abbr>}:"
 #: ../root/tag/entity-list.tt:10
 #, perl-format
 msgid "{name} by {artist}"
-msgstr ""
+msgstr "{name} door {artist}"
 
 #: ../root/tag/artist.tt:1
 #, perl-format
@@ -10541,22 +10541,22 @@ msgstr[1] "{num} collecties gevonden"
 #, perl-format
 msgid "{num} day"
 msgid_plural "{num}&nbsp;days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} dag"
+msgstr[1] "{num}&nbsp;dagen"
 
 #: ../root/tag/label.tt:1
 #, perl-format
 msgid "{num} label found"
 msgid_plural "{num} labels found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} platenmaatschappij gevonden"
+msgstr[1] "{num} platenmaatschappijen gevonden"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
 msgid "{num} month"
 msgid_plural "{num}&nbsp;months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} maand"
+msgstr[1] "{num}&nbsp;maanden"
 
 #: ../root/tag/recording.tt:1
 #, perl-format
@@ -10603,7 +10603,7 @@ msgstr[1] "{num} jaar"
 #: ../root/user/profile.tt:190 ../root/user/profile.tt:194
 #, perl-format
 msgid "{percentage}%"
-msgstr ""
+msgstr "{percentage}%"
 
 #: ../root/cdtoc/move_search.tt:31 ../root/cdtoc/set_durations.tt:16
 #: ../root/release/merge_search.tt:11 ../root/release/move_search.tt:9
@@ -10909,7 +10909,7 @@ msgstr "Ongeldige TOC"
 
 #: ../lib/MusicBrainz/Server/Controller/Work.pm:109
 msgid "This ISWC already exists for this work"
-msgstr ""
+msgstr "Deze ISWC bestaat al voor deze compositie"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:106
 msgid "No title provided"
@@ -11350,7 +11350,7 @@ msgstr "Filter opnames"
 
 #: ../lib/MusicBrainz/Server/Form/Alias.pm:82
 msgid "This alias can only be a primary alias if a locale is selected"
-msgstr ""
+msgstr "Deze alias kan alleen primair zijn als er een plaats is geselecteerd"
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"
@@ -11562,7 +11562,7 @@ msgstr "Moedertaal"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:73
 msgid "You must supply a complete birth date for us to display your age."
-msgstr ""
+msgstr "U moet een volledige geboortedatum opgeven om uw leeftijd te kunnen tonen."
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Daily"
