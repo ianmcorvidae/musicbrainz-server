@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-02 00:59+0000\n"
+"PO-Revision-Date: 2012-06-02 01:22+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Spain) (http://www.transifex.net/projects/p/musicbrainz/language/es_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -1089,19 +1089,19 @@ msgstr ""
 msgid ""
 "Are you sure you want to delete all information about {e}? This cannot be "
 "undone!"
-msgstr ""
+msgstr "¿Seguro que quieres eliminar toda la información sobre {e}? Esta acción no se puede cancelar más tarde."
 
 #: ../root/admin/delete_user.tt:20
 #, perl-format
 msgid "Are you sure you want to delete your account? This cannot be undone!"
-msgstr ""
+msgstr "¿Seguro que quieres eliminar tu cuenta? Esta acción no se puede cancelar más tarde."
 
 #: ../root/elections/nominate.tt:5
 #, perl-format
 msgid ""
 "Are you sure you want to nominate the editor {editor} for auto-editor "
 "status?"
-msgstr ""
+msgstr "¿Seguro que quieres nominar al editor {editor} para el estatus de autoeditor?"
 
 #: ../root/recording/delete_puid.tt:2
 #, perl-format
@@ -1115,21 +1115,21 @@ msgstr "¿Seguro que quieres eliminar la PUID <code>{puid}</code> de {recording}
 msgid ""
 "Are you sure you want to remove the alias {alias}, which points to the "
 "artist {artist}?"
-msgstr ""
+msgstr "¿Seguro que quieres eliminar el alias {alias}, asociado al artista {artist}?"
 
 #: ../root/label/delete_alias.tt:7
 #, perl-format
 msgid ""
 "Are you sure you want to remove the alias {alias}, which points to the label"
 " {label}?"
-msgstr ""
+msgstr "¿Seguro que quieres eliminar el alias {alias}, asociado a la discográfica {label}?"
 
 #: ../root/work/delete_alias.tt:7
 #, perl-format
 msgid ""
 "Are you sure you want to remove the alias {alias}, which points to the work "
 "{work}?"
-msgstr ""
+msgstr "¿Seguro que quieres eliminar el alias {alias}, asociado a la obra {work}?"
 
 #: ../root/collection/delete.tt:4
 #, perl-format
@@ -1146,7 +1146,7 @@ msgstr "¿Seguro que quieres eliminar la ID de disco <code>{discid}</code> de la
 #: ../root/edit/cancel.tt:3
 #, perl-format
 msgid "Are you sure you wish to cancel edit #{n}? This cannot be undone!"
-msgstr ""
+msgstr "¿Seguro que quieres cancelar la modificación #{n}? ¡No podrás recuperarla más tarde!"
 
 #: ../root/admin/wikidoc/delete.tt:4
 #, perl-format
@@ -1259,7 +1259,7 @@ msgstr "Artista"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Artist Country"
-msgstr ""
+msgstr "País del artista"
 
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
@@ -1280,7 +1280,7 @@ msgstr "Detalles del artista"
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Artist IPI:"
-msgstr ""
+msgstr "IPI del artista:"
 
 #: ../root/artist/not_found.tt:1 ../root/artist/not_found.tt:2
 #, perl-format
@@ -1320,7 +1320,7 @@ msgstr "Artista en MusicBrainz"
 #: ../root/artist/layout.tt:4
 #, perl-format
 msgid "Artist information"
-msgstr ""
+msgstr "Información del artista"
 
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
@@ -1392,7 +1392,7 @@ msgstr "Artistas que empiezan por “{index}”"
 #: ../root/report/possible_collaborations.tt:3
 #, perl-format
 msgid "Artists that may be collaborations"
-msgstr ""
+msgstr "Artistas que podrían ser colaboraciones"
 
 #: ../root/report/artists_that_may_be_groups.tt:1
 #: ../root/report/artists_that_may_be_groups.tt:3 ../root/report/index.tt:17
@@ -1414,7 +1414,7 @@ msgstr "Artistas que tienen relaciones de colaboración"
 #: ../root/report/index.tt:21
 #, perl-format
 msgid "Artists which look like collaborations"
-msgstr ""
+msgstr "Artistas que parecen colaboraciones"
 
 #: ../root/report/collaboration_relationships.tt:1
 #: ../root/report/collaboration_relationships.tt:3
@@ -1425,7 +1425,7 @@ msgstr "Artistas con relaciones de colaboración"
 #: ../root/recording/fingerprints.tt:3
 #, perl-format
 msgid "Associated AcoustIDs"
-msgstr ""
+msgstr "AcoustIDs asociadas"
 
 #: ../root/recording/fingerprints.tt:5
 #, perl-format
@@ -1477,7 +1477,7 @@ msgstr "Asociado a estas publicaciones:"
 #: ../root/artist/relationships.tt:15
 #, perl-format
 msgid "Attributes"
-msgstr ""
+msgstr "Atributos"
 
 #: ../root/edit/details/edit_relationship_type.tt:26
 #: ../root/edit/relationship/create_batch.tt:94
@@ -1496,17 +1496,17 @@ msgstr "Autoeditor"
 #: ../root/layout/menu.tt:98
 #, perl-format
 msgid "Auto-editor Elections"
-msgstr ""
+msgstr "Elecciones a autoeditor"
 
 #: ../root/elections/show.tt:1 ../root/elections/show.tt:3
 #, perl-format
 msgid "Auto-editor election #{no}"
-msgstr ""
+msgstr "Elección a autoeditor #{no}"
 
 #: ../root/elections/index.tt:1 ../root/elections/index.tt:3
 #, perl-format
 msgid "Auto-editor elections"
-msgstr ""
+msgstr "Elecciones a autoeditor"
 
 #: ../root/user/privileged.tt:18
 #, perl-format
@@ -1530,12 +1530,12 @@ msgstr ""
 #: ../root/account/preferences.tt:50
 #, perl-format
 msgid "Automatically subscribe me to artists I create."
-msgstr ""
+msgstr "Quiero ser suscrito automáticamente a los artistas que cree."
 
 #: ../root/account/preferences.tt:52
 #, perl-format
 msgid "Automatically subscribe me to labels I create."
-msgstr ""
+msgstr "Quiero ser suscrito automáticamente a las discográficas que cree."
 
 #: ../root/browse/page_selector.tt:54
 #, perl-format
@@ -1550,7 +1550,7 @@ msgstr ""
 #: ../root/elections/show.tt:5
 #, perl-format
 msgid "Back to elections"
-msgstr ""
+msgstr "Volver a las elecciones"
 
 #: ../root/report/bad_amazon_urls.tt:1 ../root/report/bad_amazon_urls.tt:3
 #, perl-format
@@ -1615,7 +1615,7 @@ msgstr "Como has proporcionado una dirección de correo electrónico, se te ha e
 msgid ""
 "Become a part of our <strong>global community</strong> and <strong>start "
 "contributing!</strong>"
-msgstr ""
+msgstr "¡Únete a nuestra <strong>comunidad global</strong> y <strong>empieza a contribuir!</strong>"
 
 #: ../root/cdtoc/lookup.tt:89
 #, perl-format
@@ -1801,7 +1801,7 @@ msgstr "Resultados de la búsqueda de CD"
 #: ../root/cdtoc/lookup.tt:82
 #, perl-format
 msgid "CD Not Found"
-msgstr ""
+msgstr "CD no encontrado"
 
 #: ../root/search/results-cdstub.tt:10
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:40
@@ -1817,7 +1817,7 @@ msgstr "No se ha encontrado un esbozo"
 #: ../root/cdtoc/lookup.tt:17
 #, perl-format
 msgid "CD Stub found"
-msgstr ""
+msgstr "Encontrado esbozo de CD"
 
 #: ../root/cdtoc/not_found.tt:1 ../root/cdtoc/not_found.tt:2
 #, perl-format
@@ -1847,7 +1847,7 @@ msgstr "Detalles del esbozo de CD"
 #: ../root/release/edit/tracklist.tt:174
 #, perl-format
 msgid "CD stub import"
-msgstr ""
+msgstr "Importar esbozo de CD"
 
 #: ../root/cdstub/layout.tt:1
 #, perl-format
@@ -1860,7 +1860,7 @@ msgid ""
 "CD stubs are a feature to allow anonymous users to submit data to "
 "MusicBrainz. For more information, see {cdstub|the documentation on CD "
 "stubs}."
-msgstr ""
+msgstr "Los esbozos de CD son una opción que permite a un usuario anónimo enviar datos a MusicBrainz. Para saber más, consulta {cdstub|la documentación sobre esbozos de CD}."
 
 #: ../root/doc/edit_type.tt:65
 #, perl-format
@@ -1885,7 +1885,7 @@ msgstr "Cancelar"
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
 msgid "Cancel Edit"
-msgstr ""
+msgstr "Cancelar modificación"
 
 #: ../root/components/common-macros.tt:444
 #, perl-format
@@ -1901,7 +1901,7 @@ msgstr "Cancelar modificación"
 #: ../root/elections/show.tt:97
 #, perl-format
 msgid "Cancel the election"
-msgstr ""
+msgstr "Cancelar la elección"
 
 #: ../root/artist/delete_alias.tt:17 ../root/label/delete_alias.tt:16
 #, perl-format
@@ -1920,12 +1920,12 @@ msgstr "Cancelar una modificación pendiente llevará una hora, mientras que eli
 #: ../root/elections/index.tt:9
 #, perl-format
 msgid "Candidate"
-msgstr ""
+msgstr "Candidato"
 
 #: ../root/elections/show.tt:11
 #, perl-format
 msgid "Candidate:"
-msgstr ""
+msgstr "Candidato:"
 
 #: ../root/release/caa_darkened.tt:1 ../root/release/caa_darkened.tt:2
 #: ../root/release/cover_art.tt:55
@@ -1952,7 +1952,7 @@ msgstr "No se puede editar"
 #: ../root/release/edit/information.tt:76
 #, perl-format
 msgid "Cat.No:"
-msgstr ""
+msgstr "Núm. de cat.:"
 
 #: ../root/edit/details/historic/add_release.tt:78
 #: ../root/report/cat_no_looks_like_asin.tt:15
@@ -2131,7 +2131,7 @@ msgstr "Código"
 #: ../root/layout/menu.tt:92
 #, perl-format
 msgid "Code of Conduct"
-msgstr ""
+msgstr "Código de conducta"
 
 #: ../root/report/collaboration_relationships.tt:19
 #, perl-format
@@ -2161,12 +2161,12 @@ msgstr "Colección"
 #: ../root/collection/not_found.tt:1 ../root/collection/not_found.tt:2
 #, perl-format
 msgid "Collection Not Found"
-msgstr ""
+msgstr "Colección no encontrada"
 
 #: ../root/collection/edit_form.tt:4
 #, perl-format
 msgid "Collection details"
-msgstr ""
+msgstr "Detalles de colección"
 
 #: ../root/collection/layout.tt:1
 #, perl-format
@@ -2242,7 +2242,7 @@ msgstr "¡Felicidades, tu nueva cuenta ha sido creada y estás conectado a Music
 #: ../root/layout/menu.tt:232
 #, perl-format
 msgid "Contact Us"
-msgstr ""
+msgstr "Contacto"
 
 #: ../root/components/forms.tt:223
 #, perl-format
@@ -2252,12 +2252,12 @@ msgstr "Copiar"
 #: ../root/release/edit/missing_entities.tt:21
 #, perl-format
 msgid "Copy Name"
-msgstr ""
+msgstr "Copiar nombre"
 
 #: ../root/release/edit/recordings.tt:398
 #, perl-format
 msgid "Copy all track changes to associated recordings."
-msgstr ""
+msgstr "Copiar todos los cambios en las pistas a las grabaciones asociadas."
 
 #: ../root/cdtoc/attach_artist_releases.tt:36
 #: ../root/cdtoc/attach_filter_release.tt:49 ../root/cdtoc/list.tt:9
@@ -2363,7 +2363,7 @@ msgstr "Crear relación con {other}"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Created"
-msgstr ""
+msgstr "Creada"
 
 #: ../root/report/releases_to_convert.tt:8
 #, perl-format
@@ -2439,33 +2439,33 @@ msgstr "Muerte:"
 #: ../root/label/layout.tt:22 ../root/label/layout.tt:29
 #, perl-format
 msgid "Defunct:"
-msgstr ""
+msgstr "Desaparecida:"
 
 #: ../root/edit/search_macros.tt:104
 #, perl-format
 msgid "Delete"
-msgstr ""
+msgstr "Eliminar"
 
 #: ../root/admin/delete_user.tt:3 ../root/admin/delete_user.tt:13
 #: ../root/admin/delete_user.tt:14
 #, perl-format
 msgid "Delete Account"
-msgstr ""
+msgstr "Eliminar cuenta"
 
 #: ../root/admin/delete_user.tt:2 ../root/user/profile/layout.tt:39
 #, perl-format
 msgid "Delete User"
-msgstr ""
+msgstr "Eliminar usuario"
 
 #: ../root/admin/delete_user.tt:23
 #, perl-format
 msgid "Delete my account"
-msgstr ""
+msgstr "Eliminar mi cuenta"
 
 #: ../root/admin/delete_user.tt:8
 #, perl-format
 msgid "Delete {e}"
-msgstr ""
+msgstr "Eliminar {e}"
 
 #: ../root/doc/edit_type.tt:22
 #, perl-format
@@ -2529,7 +2529,7 @@ msgstr ""
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #, perl-format
 msgid "Died:"
-msgstr ""
+msgstr "Muerte:"
 
 #: ../root/search/form.tt:35 ../root/search/form.tt:40
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:56
@@ -2540,7 +2540,7 @@ msgstr "Búsqueda directa en la base de datos"
 #: ../root/cdstub/index.tt:3
 #, perl-format
 msgid "Disambiguation"
-msgstr ""
+msgstr "Disambiguación"
 
 #: ../root/artist/edit_form.tt:40 ../root/cdstub/edit.tt:57
 #: ../root/edit/details/add_artist.tt:19 ../root/edit/details/add_label.tt:20
@@ -2558,7 +2558,7 @@ msgstr ""
 #: ../root/release_group/edit_form.tt:9 ../root/work/edit_form.tt:8
 #, perl-format
 msgid "Disambiguation:"
-msgstr ""
+msgstr "Disambiguación:"
 
 #: ../root/release/discids.tt:8
 #, perl-format
@@ -2605,7 +2605,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:381
 #, perl-format
 msgid "Disc title"
-msgstr ""
+msgstr "Título del disco"
 
 #: ../root/release/edit/recordings.tt:251
 #: ../root/release/edit/tracklist.tt:354
@@ -2627,23 +2627,23 @@ msgstr ""
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Release Groups"
-msgstr ""
+msgstr "URLs de Discogs asociadas a más de un grupo de publicaciones"
 
 #: ../root/report/discogs_links_with_multiple_releases.tt:1
 #: ../root/report/discogs_links_with_multiple_releases.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Releases"
-msgstr ""
+msgstr "URLs de Discogs asociadas a más de una publicación"
 
 #: ../root/report/index.tt:31
 #, perl-format
 msgid "Discogs URLs linked to multiple release groups"
-msgstr ""
+msgstr "URLs de Discogs asociadas a más de un grupo de publicaciones"
 
 #: ../root/report/index.tt:45
 #, perl-format
 msgid "Discogs URLs linked to multiple releases"
-msgstr ""
+msgstr "URLs de Discogs asociadas a más de una publicación"
 
 #: ../root/report/separate_discs.tt:1 ../root/report/separate_discs.tt:3
 #, perl-format
@@ -2659,7 +2659,7 @@ msgstr "Discos introducidos como publicaciones independientes"
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
 msgid "Dissolved:"
-msgstr ""
+msgstr "Separación:"
 
 #: ../root/release/edit/duplicates.tt:40
 #, perl-format
@@ -3365,7 +3365,7 @@ msgstr "Nombre de archivo:"
 #: ../root/recording/header.tt:1
 #, perl-format
 msgid "Fingerprints"
-msgstr ""
+msgstr "Huellas digitales"
 
 #: ../root/search/error/wrapper.tt:5
 #, perl-format
@@ -3387,7 +3387,7 @@ msgstr ""
 msgid ""
 "For instructions on how to fix them, please see the documentation about "
 "{howto|how to merge releases}."
-msgstr ""
+msgstr "Para saber cómo arreglarlas, puedes leer la documentación sobre {howto|cómo fusionar publicaciones}."
 
 #: ../root/edit/info.tt:55
 #, perl-format
@@ -3457,8 +3457,8 @@ msgstr ""
 #, perl-format
 msgid "Found in {num} user collection"
 msgid_plural "Found in {num} user collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "En {num} colección"
+msgstr[1] "En {num} colecciones"
 
 #: ../root/release/lookup.tt:4
 #, perl-format
@@ -3598,7 +3598,7 @@ msgstr ""
 #: ../root/main/frame.tt:3
 #, perl-format
 msgid "Google Chrome Frame"
-msgstr ""
+msgstr "Google Chrome Frame"
 
 #: ../root/main/frame.tt:5
 #, perl-format
@@ -3640,12 +3640,12 @@ msgstr "Ayuda:"
 #: ../root/release/index.tt:12
 #, perl-format
 msgid "Hide Credits"
-msgstr ""
+msgstr "Ocultar créditos"
 
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "High"
-msgstr ""
+msgstr "Alta"
 
 #: ../root/doc/edit_types.tt:20 ../lib/MusicBrainz/Server/Edit/Historic.pm:12
 #, perl-format
@@ -3676,7 +3676,7 @@ msgstr "Sin embargo, aún tenemos que pagar los gastos, y alojar la página cues
 #: ../root/release/edit/information.tt:165
 #, perl-format
 msgid "I confirm that this is the barcode as it appears on the release."
-msgstr ""
+msgstr "Este es el código de barras tal y como aparece en la publicación."
 
 #: ../root/taglookup/nag.tt:23
 #, perl-format
@@ -3686,7 +3686,7 @@ msgstr "¡Acabo de donar! ¿Por qué veo esto?"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ../root/artist/edit_form.tt:44 ../root/label/edit_form.tt:45
 #, perl-format
@@ -3856,7 +3856,7 @@ msgstr ""
 msgid ""
 "If you do not know whether the release has a barcode or not, just leave this"
 " blank."
-msgstr ""
+msgstr "Si no sabes si la publicación tiene un código de barras o no, deja esto en blanco."
 
 #: ../root/cdtoc/attach_filter_artist.tt:41
 #, perl-format
@@ -3925,7 +3925,7 @@ msgstr "Si ves un alias mal escrito, lo más probable es que esté aquí a prop�
 msgid ""
 "If you think this is a mistake, please contact "
 "<code>support@musicbrainz.org</code> with the name of your account."
-msgstr ""
+msgstr "Si crees que es un error, contacta con <code>support@musicbrainz.org</code> indicando el nombre de tu cuenta."
 
 #: ../root/tag/not_found.tt:7
 #, perl-format
@@ -3937,7 +3937,7 @@ msgstr ""
 #: ../root/account/edit.tt:83
 #, perl-format
 msgid "If you would like to delete your account, you may {uri|do so here}."
-msgstr ""
+msgstr "Si quieres eliminar tu cuenta, {uri|puedes hacerlo aquí}."
 
 #: ../root/account/donation.tt:10
 #, perl-format
@@ -3982,7 +3982,7 @@ msgstr "Importar esbozo de CD"
 #: ../root/cdstub/import.tt:41
 #, perl-format
 msgid "Import CD stub"
-msgstr ""
+msgstr "Importar esbozo de CD"
 
 #: ../root/freedb/show.tt:54
 #, perl-format
@@ -4088,7 +4088,7 @@ msgstr "Javascript debe estar activado para editar el campo Artista en esta pág
 #: ../root/artist/edit_credit.tt:17 ../root/artist/split.tt:17
 #, perl-format
 msgid "Javascript needs to be enabled."
-msgstr ""
+msgstr "Javascript debe estar activado."
 
 #: ../root/components/forms.tt:272 ../root/release/edit/tracklist.tt:46
 #: ../root/scripts/text_strings.tt:26
@@ -4129,7 +4129,7 @@ msgstr "Discográfica"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Label Country"
-msgstr ""
+msgstr "País de la discográfica"
 
 #: ../root/label/edit_form.tt:34
 #, perl-format
@@ -4139,7 +4139,7 @@ msgstr "Detalles de la discográfica"
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Label IPI:"
-msgstr ""
+msgstr "IPI de la discográfica:"
 
 #: ../root/label/not_found.tt:1 ../root/label/not_found.tt:2
 #, perl-format
@@ -4160,7 +4160,7 @@ msgstr "Código de la discográfica:"
 #: ../root/label/layout.tt:4
 #, perl-format
 msgid "Label information"
-msgstr ""
+msgstr "Información de la discográfica"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -4278,7 +4278,7 @@ msgstr "Duración:"
 #: ../root/edit/relationship/create_url.tt:56
 #, perl-format
 msgid "License:"
-msgstr ""
+msgstr "Licencia:"
 
 #: ../root/main/index.tt:65
 #, perl-format
@@ -4291,7 +4291,7 @@ msgstr ""
 #: ../root/user/profile.tt:45
 #, perl-format
 msgid "Limited User"
-msgstr ""
+msgstr "Usuario limitado"
 
 #: ../root/recording/fingerprints.tt:73
 #, perl-format
@@ -4397,7 +4397,7 @@ msgstr "Relación:"
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "Low"
-msgstr ""
+msgstr "Baja"
 
 #: ../root/work/edit_form.tt:10 ../root/work/layout.tt:11
 #, perl-format
@@ -5273,7 +5273,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:198
 #, perl-format
 msgid "Old recording"
-msgstr ""
+msgstr "Grabación antigua"
 
 #: ../root/edit/details/historic/edit_relationship.tt:6
 #, perl-format
@@ -5283,7 +5283,7 @@ msgstr "Antiguas relaciones:"
 #: ../root/edit/details/historic/merge_releases.tt:3
 #, perl-format
 msgid "Old releases:"
-msgstr ""
+msgstr "Publicaciones antiguas:"
 
 #: ../root/edit/details/change_wikidoc.tt:11
 #: ../root/edit/details/change_wikidoc.tt:16
@@ -5356,7 +5356,7 @@ msgstr "Abiertas:"
 #: ../root/release/edit/tracklist.tt:156 ../root/release/edit/tracklist.tt:186
 #, perl-format
 msgid "Options"
-msgstr ""
+msgstr "Opciones"
 
 #: ../root/cdtoc/lookup.tt:96
 #, perl-format
@@ -5443,12 +5443,12 @@ msgstr "Nombre de la página"
 #: ../root/edit/details/change_wikidoc.tt:29
 #, perl-format
 msgid "Page removed"
-msgstr ""
+msgstr "Página eliminada"
 
 #: ../root/components/paginator.tt:30
 #, perl-format
 msgid "Page {cur} of at least {total}"
-msgstr ""
+msgstr "Página {cur} de al menos {total}"
 
 #: ../root/components/paginator.tt:32
 #, perl-format
@@ -5727,7 +5727,7 @@ msgstr ""
 #: ../root/edit/relationship/create_batch.tt:87
 #, perl-format
 msgid "Please select at least 1 recording to relate {entity} to."
-msgstr ""
+msgstr "Selecciona al menos una grabación para crear una relación con {entity}."
 
 #: ../root/artist/edit_form.tt:61
 #, perl-format
@@ -5744,7 +5744,7 @@ msgstr ""
 #: ../root/main/rate_limited.tt:6
 #, perl-format
 msgid "Please slow down and then try again"
-msgstr ""
+msgstr "Por favor, vuelve a intentarlo con un poco más de calma"
 
 #: ../root/components/forms.tt:185
 #, perl-format
@@ -5759,7 +5759,7 @@ msgstr ""
 #: ../root/main/503.tt:8
 #, perl-format
 msgid "Please wait a few minutes and repeat your request."
-msgstr ""
+msgstr "Por favor, espera unos minutos y vuelve a intentarlo."
 
 #: ../root/components/aliases.tt:67
 #, perl-format
@@ -5885,12 +5885,12 @@ msgstr ""
 #: ../root/user/collections.tt:21
 #, perl-format
 msgid "Private"
-msgstr ""
+msgstr "Privada"
 
 #: ../root/collection/header.tt:14
 #, perl-format
 msgid "Private collection"
-msgstr ""
+msgstr "Colección privada"
 
 #: ../root/layout/menu.tt:101 ../root/user/privileged.tt:14
 #: ../root/user/privileged.tt:16
@@ -5911,7 +5911,7 @@ msgstr "Perfil"
 #: ../root/elections/show.tt:14
 #, perl-format
 msgid "Proposer:"
-msgstr ""
+msgstr "Nominado por:"
 
 #: ../root/user/collections.tt:21
 #, perl-format
@@ -6001,7 +6001,7 @@ msgstr "Grabación de {artist}"
 #: ../root/recording/layout.tt:8
 #, perl-format
 msgid "Recording information"
-msgstr ""
+msgstr "Información de la grabación"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -6055,7 +6055,7 @@ msgstr "Grabaciones con la relación \"primera publicación\""
 #: ../root/report/featuring_recordings.tt:3 ../root/report/index.tt:66
 #, perl-format
 msgid "Recordings with titles containing featuring artists"
-msgstr ""
+msgstr "Grabaciones que contienen \"feat.\" en el título"
 
 #: ../root/edit/details/edit_medium.tt:192
 #: ../root/edit/relationship/create_batch.tt:46
@@ -6091,22 +6091,22 @@ msgstr "Relacionar con…"
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Relate to <abbr title=\"Uniform Resource Locator\">URL</abbr>"
-msgstr ""
+msgstr "Relacionar con <abbr title=\"Uniform Resource Locator\">URL</abbr>"
 
 #: ../root/components/common-macros.tt:488
 #, perl-format
 msgid "Relate to recordings"
-msgstr ""
+msgstr "Relacionar con grabaciones"
 
 #: ../root/components/common-macros.tt:488
 #, perl-format
 msgid "Relate to release"
-msgstr ""
+msgstr "Relacionar con publicación"
 
 #: ../root/release/sidebar.tt:96
 #, perl-format
 msgid "Relate {what} to recordings"
-msgstr ""
+msgstr "Relacionar {what} con grabaciones"
 
 #: ../root/recording/index.tt:51 ../root/recording/relationships.tt:6
 #, perl-format
@@ -6252,7 +6252,7 @@ msgstr "Detalles del grupo de publicaciones"
 #: ../root/release_group/not_found.tt:1 ../root/release_group/not_found.tt:2
 #, perl-format
 msgid "Release Group Not Found"
-msgstr ""
+msgstr "No se encontró el grupo de publicaciones"
 
 #: ../root/edit/details/add_release_group.tt:3
 #: ../root/edit/details/edit_release_group.tt:5
@@ -6270,7 +6270,7 @@ msgstr "Grupos de publicaciones"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Release Language"
-msgstr ""
+msgstr "Idioma de la publicación"
 
 #: ../root/release/not_found.tt:1 ../root/release/not_found.tt:2
 #, perl-format
