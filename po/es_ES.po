@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-02 01:22+0000\n"
+"PO-Revision-Date: 2012-06-02 22:45+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Spain) (http://www.transifex.net/projects/p/musicbrainz/language/es_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -3340,7 +3340,7 @@ msgstr "Expira en <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>
 #: ../root/layout/sidebar/sidebar-favicons.tt:30
 #, perl-format
 msgid "External links"
-msgstr ""
+msgstr "Enlaces externos"
 
 #: ../root/release/edit/information.tt:43
 #, perl-format
@@ -8421,7 +8421,7 @@ msgstr "Esta grabación no tiene etiquetas."
 #: ../root/edit/relationship/edit.tt:139
 #, perl-format
 msgid "This relationship has ended."
-msgstr ""
+msgstr "Esta relación ha finalizado."
 
 #: ../root/release/edit/information.tt:100
 #, perl-format
@@ -9529,7 +9529,7 @@ msgstr "Hemos enviado un correo de verificación a <code>{email}</code>. Comprue
 msgid ""
 "We will use your birth date to display your age in years on your profile "
 "page."
-msgstr ""
+msgstr "Usaremos tu fecha de nacimiento para indicar tu edad (en años) en tu perfil."
 
 #: ../root/main/500.tt:52
 #, perl-format
@@ -9753,7 +9753,7 @@ msgstr "Vas a asociar un ISRC a {recording} de {ac}. El ISRC debe introducirse c
 msgid ""
 "You are about to add an ISWC to {work}. The ISWC must be entered in standard"
 " <code>T-DDD.DDD.DDD-C</code> format:"
-msgstr ""
+msgstr "Vas a añadir un ISWC a {work}. Los ISWC deben ser añadidos siguiendo el formato estándar <code>T-DDD.DDD.DDD-C</code>:"
 
 #: ../root/artist/edit_form.tt:3
 #, perl-format
@@ -10157,7 +10157,7 @@ msgstr "desde {begin_date} hasta {end_date}"
 #: ../root/components/common-macros.tt:584 ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "from {date} to ????"
-msgstr ""
+msgstr "de {date} a ????"
 
 #: ../root/components/common-macros.tt:586 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10333,7 +10333,7 @@ msgstr ""
 #: ../root/layout.tt:73
 #, perl-format
 msgid "search"
-msgstr ""
+msgstr "búsqueda"
 
 #: ../root/layout/sidebar/sidebar-rating.tt:5
 #, perl-format
@@ -10428,12 +10428,12 @@ msgstr[1] "{artist} no tiene publicaciones con {n} pistas."
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:34
 #, perl-format
 msgid "{begindate} &ndash;"
-msgstr ""
+msgstr "{begindate} &ndash;"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:32
 #, perl-format
 msgid "{begindate} &ndash; ????"
-msgstr ""
+msgstr "{begindate} &ndash; ????"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:27
 #, perl-format
@@ -10656,7 +10656,7 @@ msgstr ""
 #: ../root/user/profile/layout.tt:8
 #, perl-format
 msgid "{user}"
-msgstr ""
+msgstr "{user}"
 
 #: ../root/user/collections.tt:32
 #, perl-format
@@ -10875,7 +10875,7 @@ msgstr "Este ISRC no existe"
 
 #: ../lib/MusicBrainz/Server/Controller/ISWC.pm:55
 msgid "This ISWC does not exist"
-msgstr ""
+msgstr "Este ISWC no existe."
 
 #: ../lib/MusicBrainz/Server/Controller/Recording.pm:217
 msgid "This ISRC already exists for this recording"
@@ -11306,7 +11306,7 @@ msgstr "Añadir anotación a la obra"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddISWCs.pm:22
 msgid "Add ISWCs"
-msgstr ""
+msgstr "Añadir ISWC"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
@@ -11326,7 +11326,7 @@ msgstr "Fusionar obras"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/RemoveISWC.pm:16
 msgid "Remove ISWC"
-msgstr ""
+msgstr "Eliminar ISWC"
 
 #: ../lib/MusicBrainz/Server/EditSearch/Predicate.pm:66
 msgid "This operator is not supported"
@@ -11339,7 +11339,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:116
 #, perl-brace-format
 msgid "{b} and {a}"
-msgstr ""
+msgstr "{b} y {a}"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:25
 msgid "Filter release groups"
@@ -11551,23 +11551,23 @@ msgstr "Formato de URL no válido"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
-msgstr ""
+msgstr "Básico"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:62
 msgid "Intermediate"
-msgstr ""
+msgstr "Intermedio"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:63
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzado"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:64
 msgid "Native"
-msgstr ""
+msgstr "Nativo"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:73
 msgid "You must supply a complete birth date for us to display your age."
-msgstr ""
+msgstr "Debes proporcionar una fecha de nacimiento completa si quieres que podamos indicar tu edad."
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Daily"
