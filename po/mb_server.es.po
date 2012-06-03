@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 17:45+0000\n"
+"PO-Revision-Date: 2012-06-03 18:33+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -3277,8 +3277,8 @@ msgstr "Mensaje de error:"
 #, perl-format
 msgid "Error:"
 msgid_plural "Errors:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Error:"
+msgstr[1] "Errores:"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -5361,7 +5361,7 @@ msgstr "Opciones"
 #: ../root/cdtoc/lookup.tt:96
 #, perl-format
 msgid "Or..."
-msgstr ""
+msgstr "O..."
 
 #: ../root/otherlookup/results.tt:1 ../root/otherlookup/results.tt:3
 #, perl-format
@@ -5817,7 +5817,7 @@ msgstr "Valores posibles:"
 #: ../root/report/index.tt:19
 #, perl-format
 msgid "Possibly duplicate artists"
-msgstr ""
+msgstr "Artistas que podrían ser duplicados"
 
 #: ../root/account/preferences_ok.tt:1 ../root/account/preferences_ok.tt:3
 #: ../root/account/preferences.tt:2 ../root/account/preferences.tt:4
@@ -9436,7 +9436,7 @@ msgstr "Advertencia:"
 #: ../root/watch/list.tt:1 ../root/watch/list.tt:2
 #, perl-format
 msgid "Watched Artists"
-msgstr ""
+msgstr "Artistas seguidos"
 
 #: ../root/report/not_available.tt:6
 #, perl-format
@@ -9632,7 +9632,7 @@ msgstr "Obra no encontrada"
 #: ../root/work/layout.tt:9
 #, perl-format
 msgid "Work information"
-msgstr ""
+msgstr "Información de obra"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -9642,7 +9642,7 @@ msgstr "Valoraciones de la obra"
 #: ../root/edit/details/edit_work.tt:23
 #, perl-format
 msgid "Work type:"
-msgstr ""
+msgstr "Tipo de obra:"
 
 #: ../root/components/common-macros.tt:433
 #: ../root/edit/details/add_work_alias.tt:3
@@ -9671,12 +9671,12 @@ msgstr "Obras que empiezan por \"{index}\""
 #: ../root/otherlookup/results-work.tt:8 ../root/search/results-work.tt:11
 #, perl-format
 msgid "Writers"
-msgstr ""
+msgstr "Autores"
 
 #: ../root/layout/menu.tt:142
 #, perl-format
 msgid "XML Web Service"
-msgstr ""
+msgstr "Servicio web XML"
 
 #: ../root/artist/details.tt:30 ../root/label/details.tt:30
 #: ../root/recording/details.tt:30 ../root/release/details.tt:30
@@ -10137,12 +10137,12 @@ msgstr "créditos"
 #: ../root/release/edit/recordings.tt:140
 #, perl-format
 msgid "disambiguation:"
-msgstr ""
+msgstr "disambiguación:"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "editors"
-msgstr ""
+msgstr "editores"
 
 #: ../root/components/common-macros.tt:591
 #, perl-format
@@ -10167,7 +10167,7 @@ msgstr "desde {date} a la actualidad"
 #: ../root/search/results-freedb.tt:27
 #, perl-format
 msgid "import"
-msgstr ""
+msgstr "importar"
 
 #: ../root/components/common-macros.tt:575 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10187,37 +10187,37 @@ msgstr "info"
 #: ../root/edit/search_macros.tt:264
 #, perl-format
 msgid "is"
-msgstr ""
+msgstr "es"
 
 #: ../root/edit/search_macros.tt:119
 #, perl-format
 msgid "is after"
-msgstr ""
+msgstr "mayor que"
 
 #: ../root/edit/search_macros.tt:119
 #, perl-format
 msgid "is before"
-msgstr ""
+msgstr "menor que"
 
 #: ../root/edit/search_macros.tt:119 ../root/edit/search_macros.tt:136
 #, perl-format
 msgid "is between"
-msgstr ""
+msgstr "entre"
 
 #: ../root/edit/search_macros.tt:249
 #, perl-format
 msgid "is in my subscriptions"
-msgstr ""
+msgstr "está en mis suscripciones"
 
 #: ../root/edit/search_macros.tt:136
 #, perl-format
 msgid "is less than"
-msgstr ""
+msgstr "menor que"
 
 #: ../root/edit/search_macros.tt:136
 #, perl-format
 msgid "is more than"
-msgstr ""
+msgstr "mayor que"
 
 #: ../root/edit/search_macros.tt:119 ../root/edit/search_macros.tt:136
 #: ../root/edit/search_macros.tt:153 ../root/edit/search_macros.tt:170
@@ -10226,7 +10226,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:264
 #, perl-format
 msgid "is not"
-msgstr ""
+msgstr "no es"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -10257,12 +10257,12 @@ msgstr ""
 #: ../root/user/profile.tt:51
 #, perl-format
 msgid "nominate for auto-editor"
-msgstr ""
+msgstr "nominar para autoeditor"
 
 #: ../root/relationship/linkattributetype/common.tt:19
 #, perl-format
 msgid "none"
-msgstr ""
+msgstr "ninguno"
 
 #: ../root/edit/search_macros.tt:18
 #, perl-format
@@ -10272,7 +10272,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:153
 #, perl-format
 msgid "on"
-msgstr ""
+msgstr "el"
 
 #: ../root/components/common-macros.tt:573 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10296,8 +10296,8 @@ msgstr[1] "más {n} usuarios anónimos"
 #, perl-format
 msgid "plus {n} other private collection"
 msgid_plural "plus {n} other private collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "y {n} colección privada más"
+msgstr[1] "y {n} colecciones privadas más"
 
 #: ../root/edit/search_macros.tt:19
 #, perl-format
@@ -10313,12 +10313,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "recordings"
-msgstr ""
+msgstr "grabaciones"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "release groups"
-msgstr ""
+msgstr "grupos de publicaciones"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -10338,12 +10338,12 @@ msgstr "búsqueda"
 #: ../root/layout/sidebar/sidebar-rating.tt:5
 #, perl-format
 msgid "see all ratings"
-msgstr ""
+msgstr "ver todas las valoraciones"
 
 #: ../root/release/header.tt:10
 #, perl-format
 msgid "see all versions of this release, {count} available"
-msgstr ""
+msgstr "ver todas las versiones de la publicación, disponibles {count}"
 
 #: ../root/user/profile.tt:32
 #, perl-format
@@ -10384,7 +10384,7 @@ msgstr "pistas"
 #: ../root/user/profile.tt:102
 #, perl-format
 msgid "unsubscribe"
-msgstr ""
+msgstr "desuscribirse"
 
 #: ../root/components/common-macros.tt:589 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10394,7 +10394,7 @@ msgstr "hasta {date}"
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "works"
-msgstr ""
+msgstr "obras"
 
 #: ../root/main/index.tt:70
 #, perl-format
@@ -10406,17 +10406,17 @@ msgstr ""
 #: ../root/otherlookup/results-work.tt:20 ../root/search/results-work.tt:26
 #, perl-format
 msgid "{artist} ({roles})"
-msgstr ""
+msgstr "{artist} ({roles})"
 
 #: ../root/cdtoc/lookup.tt:20
 #, perl-format
 msgid "{artist} - {name}"
-msgstr ""
+msgstr "{artist} - {name}"
 
 #: ../root/components/common-macros.tt:156
 #, perl-format
 msgid "{artist} as {name}"
-msgstr ""
+msgstr "{artist} como {name}"
 
 #: ../root/cdtoc/attach_artist_releases.tt:59
 #, perl-format
@@ -10461,12 +10461,12 @@ msgstr "{count} ({view_url|ver})"
 msgid "{count} private rating not listed."
 msgid_plural "{count} private ratings not listed."
 msgstr[0] "{count} valoración privada no indicada."
-msgstr[1] ""
+msgstr[1] "{count} valoraciones privadas no indicada."
 
 #: ../root/user/profile.tt:41
 #, perl-format
 msgid "{doc|Auto-Editor}"
-msgstr ""
+msgstr "{doc|Autoeditor}"
 
 #: ../root/cdstub/index.tt:13
 #, perl-format
@@ -10476,7 +10476,7 @@ msgstr "{doc|ID de disco}:"
 #: ../root/user/profile.tt:43
 #, perl-format
 msgid "{doc|Relationship Editor}"
-msgstr ""
+msgstr "{doc|Editor de relaciones}"
 
 #: ../root/user/profile.tt:44
 #, perl-format
@@ -10532,50 +10532,50 @@ msgstr "{name} de {artist}"
 #, perl-format
 msgid "{num} artist found"
 msgid_plural "{num} artists found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Encontrado {num} artista"
+msgstr[1] "Encontrados {num} artistas"
 
 #: ../root/tag/collection.tt:1
 #, perl-format
 msgid "{num} collection found"
 msgid_plural "{num} collections found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Encontrada {num} colección"
+msgstr[1] "Encontradas {num} colecciones"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
 msgid "{num} day"
 msgid_plural "{num}&nbsp;days"
 msgstr[0] "{num} día"
-msgstr[1] ""
+msgstr[1] "{num}&nbsp;días"
 
 #: ../root/tag/label.tt:1
 #, perl-format
 msgid "{num} label found"
 msgid_plural "{num} labels found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Encontrada {num} discográfica"
+msgstr[1] "Encontradas {num} discográficas"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
 msgid "{num} month"
 msgid_plural "{num}&nbsp;months"
 msgstr[0] "{num} mes"
-msgstr[1] ""
+msgstr[1] "{num}&nbsp;meses"
 
 #: ../root/tag/recording.tt:1
 #, perl-format
 msgid "{num} recording found"
 msgid_plural "{num} recordings found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Encontrada {num} grabación"
+msgstr[1] "Encontradas {num} grabaciones"
 
 #: ../root/tag/release.tt:1
 #, perl-format
 msgid "{num} release found"
 msgid_plural "{num} releases found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Encontrada {num} publicación"
+msgstr[1] "Encontradas {num} publicaciones"
 
 #: ../root/cdtoc/attach_filter_release.tt:25
 #, perl-format
@@ -10588,22 +10588,22 @@ msgstr[1] ""
 #, perl-format
 msgid "{num} release group found"
 msgid_plural "{num} release groups found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Encontrado {num} grupo de publicaciones"
+msgstr[1] "Encontrados {num} grupos de publicaciones"
 
 #: ../root/tag/work.tt:1
 #, perl-format
 msgid "{num} work found"
 msgid_plural "{num} works found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Encontrada {num} obra"
+msgstr[1] "Encontradas {num} obras"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
 msgid "{num} year"
 msgid_plural "{num}&nbsp;years"
 msgstr[0] "{num} año"
-msgstr[1] ""
+msgstr[1] "{num}&nbsp;años"
 
 #: ../root/user/profile.tt:190 ../root/user/profile.tt:194
 #, perl-format
@@ -10620,13 +10620,13 @@ msgstr "{release} de {artist}"
 #, perl-format
 msgid "{release} has been added to {num} collection:"
 msgid_plural "{release} has been added to {num} collections:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{release} añadida a {num} colección:"
+msgstr[1] "{release} añadida a {num} colecciones:"
 
 #: ../root/release/collections.tt:23
 #, perl-format
 msgid "{release} has not been added to any collections."
-msgstr ""
+msgstr "{release} no ha sido añadida a ninguna colección:"
 
 #: ../root/relationship/linktype/tree.tt:34
 #, perl-format
@@ -10651,7 +10651,7 @@ msgstr "{uri|Relacionar con una URL}"
 #: ../root/layout/sidebar/sidebar-affiliates.tt:10
 #, perl-format
 msgid "{uri|Search on SoundUnwound}"
-msgstr ""
+msgstr "{uri|Buscar en SoundUnwound}"
 
 #: ../root/user/profile/layout.tt:8
 #, perl-format
@@ -10671,7 +10671,7 @@ msgstr "{user} aún no ha valorado nada."
 #: ../root/user/tag.tt:22
 #, perl-format
 msgid "{user} has not tagged anything with '{tag}'."
-msgstr ""
+msgstr "{user} no ha etiquetado nada con '{tag}'."
 
 #: ../root/user/tags.tt:7
 #, perl-format
@@ -10683,14 +10683,14 @@ msgstr "{user} aún no ha etiquetado nada."
 msgid ""
 "{valink|Various Artists} should not be used on recordings, make sure that "
 "the artists has been entered correctly."
-msgstr ""
+msgstr "No se debe usar el artista {valink|Various Artists} en grabaciones. Asegúrate de que has introducido los artistas correctamente."
 
 #: ../root/release/edit/tracklist.tt:136
 #, perl-format
 msgid ""
 "{valink|Various Artists} should not be used on tracks, make sure that the "
 "artists on these tracks have been entered correctly."
-msgstr ""
+msgstr "No se debe usar el artista {valink|Various Artists} en pistas. Asegúrate de que has introducido los artistas correctamente."
 
 #: ../root/edit/edit_header.tt:50 ../root/edit/index.tt:33
 #, perl-format
@@ -11412,7 +11412,7 @@ msgstr "El protocolo de las URL debe ser HTTP, HTTPS o FTP"
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
-msgstr ""
+msgstr "Elige la entidad con la que quieres fusionar el resto."
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:61
 msgid "Another medium is already in this position"
@@ -11527,7 +11527,7 @@ msgstr "Este medio ya tiene IDs de disco, así que solo se puede cambiar el form
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:222
 msgid "A release must have at least one medium."
-msgstr ""
+msgstr "Una publicación debe tener al menos un medio."
 
 #: ../lib/MusicBrainz/Server/Form/Role/DatePeriod.pm:42
 msgid "The end date must occur on or after the begin date"
