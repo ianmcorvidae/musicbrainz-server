@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-02 03:06+0000\n"
-"Last-Translator: navap <email address hidden>\n"
+"PO-Revision-Date: 2012-06-03 01:37+0000\n"
+"Last-Translator: kepstin <email address hidden>\n"
 "Language-Team: English (Canada) (http://www.transifex.net/projects/p/musicbrainz/language/en_CA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -750,7 +750,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Work/Create.pm:16
 #, perl-format
 msgid "Add work"
-msgstr ""
+msgstr "Add work"
 
 #: ../root/work/add_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAlias.pm:15
@@ -6291,7 +6291,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
 #, perl-format
 msgid "Release group"
-msgstr ""
+msgstr "Release group"
 
 #: ../root/release_group/edits.tt:20 ../root/release_group/header.tt:13
 #, perl-format
@@ -6714,27 +6714,27 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/Delete.pm:12
 #, perl-format
 msgid "Remove label"
-msgstr ""
+msgstr "Remove label"
 
 #: ../root/recording/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
 #, perl-format
 msgid "Remove recording"
-msgstr ""
+msgstr "Remove recording"
 
 #: ../root/release/sidebar.tt:80
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 #, perl-format
 msgid "Remove release"
-msgstr ""
+msgstr "Remove release"
 
 #: ../root/release_group/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseGroup.pm:9
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 #, perl-format
 msgid "Remove release group"
-msgstr ""
+msgstr "Remove release group"
 
 #: ../root/layout/merge-helper.tt:33
 #, perl-format
@@ -10742,7 +10742,7 @@ msgstr "Sorry, this email verification link has expired."
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:91
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found."
-msgstr ""
+msgstr "The user with ID “{user_id}” could not be found."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:134
 msgid ""
@@ -10769,7 +10769,7 @@ msgstr "Sorry, this password reset link has expired."
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found"
-msgstr ""
+msgstr "The user with ID “{user_id}” could not be found"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:256
 msgid "There is no user with this email"
@@ -10780,30 +10780,30 @@ msgid ""
 "<strong>We were unable to send a confirmation email to you.</strong><br/>Please confirm that you have entered a valid\n"
 "             address by editing your {settings|account settings}. If the problem still persists, please contact us at\n"
 "             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
-msgstr ""
+msgstr "<strong>We were unable to send a confirmation email to you.</strong><br/>\nPlease confirm that you have entered a valid address by editing your {settings|account settings}. If the problem still persists, please contact us at <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:475
 #, perl-brace-format
 msgid "The artist name has been changed in edit #{id}."
-msgstr ""
+msgstr "The artist name has been changed in edit #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:518
 msgid "You cannot merge a special purpose artist into another artist"
-msgstr ""
+msgstr "You cannot merge a special purpose artist into another artist"
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:637
 #, perl-brace-format
 msgid "This collaboration has been split in edit #{id}."
-msgstr ""
+msgstr "This collaboration has been split in edit #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/AutoEditorElections.pm:70
 #, perl-brace-format
 msgid "'{id}' is not a valid election ID"
-msgstr ""
+msgstr "“{id}” is not a valid election ID"
 
 #: ../lib/MusicBrainz/Server/Controller/CDStub.pm:59
 msgid "The required TOC parameter was invalid or not present"
-msgstr ""
+msgstr "The required TOC parameter was invalid or not present"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:133
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:293
@@ -10813,20 +10813,20 @@ msgstr "The provided CD TOC is not valid"
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:146
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:307
 msgid "The provided medium id is not valid"
-msgstr ""
+msgstr "The provided medium ID is not valid"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:152
 msgid "This CDTOC is already attached to this medium"
-msgstr ""
+msgstr "This CDTOC is already attached to this medium"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:161
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:315
 msgid "The selected medium cannot have disc IDs"
-msgstr ""
+msgstr "The selected medium cannot have disc IDs"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:189
 msgid "The provided artist id is not valid"
-msgstr ""
+msgstr "The provided artist ID is not valid"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:302
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:414
@@ -10844,11 +10844,11 @@ msgstr "A relationship requires 2 different entities"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:426
 msgid "Release not found"
-msgstr ""
+msgstr "Release not found"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:440
 msgid "Target entity not found"
-msgstr ""
+msgstr "Target entity not found"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:535
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:543
@@ -10862,7 +10862,7 @@ msgstr "Entity not found"
 #: ../lib/MusicBrainz/Server/Controller/FreeDB.pm:37
 #, perl-brace-format
 msgid "'{id}' is not a valid FreeDB ID"
-msgstr ""
+msgstr "“{id}” is not a valid FreeDB ID"
 
 #: ../lib/MusicBrainz/Server/Controller/ISRC.pm:57
 msgid "This ISRC does not exist"
@@ -10874,7 +10874,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Recording.pm:217
 msgid "This ISRC already exists for this recording"
-msgstr ""
+msgstr "The recording already has this ISRC."
 
 #: ../lib/MusicBrainz/Server/Controller/Relationship/LinkType.pm:48
 #, perl-brace-format
@@ -10888,16 +10888,16 @@ msgstr "This release is already in the selected release group"
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:635
 msgid ""
 "This merge strategy is not applicable to the releases you have selected."
-msgstr ""
+msgstr "This merge strategy is not applicable to the releases you have selected."
 
 #: ../lib/MusicBrainz/Server/Controller/Role/Annotation.pm:168
 msgid "The old and new annotation ids must be unique, positive integers."
-msgstr ""
+msgstr "The old and new annotation ids must be unique, positive integers."
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:244
 #, perl-brace-format
 msgid "The editor {name} has no email address attached to their account."
-msgstr ""
+msgstr "The editor {name} has no email address attached to their account."
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:272
 msgid "Your message could not be sent"
@@ -10945,7 +10945,7 @@ msgstr "Disc ID does match parsed TOC"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:130
 msgid "Number of submitted tracks does not match track count in TOC"
-msgstr ""
+msgstr "Number of submitted tracks does not match track count in TOC"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:133
 msgid "Invalid barcode"
@@ -10962,7 +10962,7 @@ msgstr "There is already a CD stub with this disc ID"
 #: ../lib/MusicBrainz/Server/Data/LinkType.pm:149
 #, perl-brace-format
 msgid "{t0}-{t1} relationships"
-msgstr ""
+msgstr "{t0}-{t1} relationships"
 
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:174
 msgid "Total"
@@ -10995,7 +10995,7 @@ msgstr "Edit artist"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
-msgstr ""
+msgstr "Edit artist credit"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Merge.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeArtist.pm:8
@@ -11071,7 +11071,7 @@ msgstr "Change track artist"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeWikiDoc.pm:7
 msgid "Change wikidoc"
-msgstr ""
+msgstr "Change wikidoc"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistName.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistSortname.pm:7
@@ -11099,205 +11099,205 @@ msgstr "Edit relationship type"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseAttrs.pm:15
 msgid "Edit release attributes"
-msgstr ""
+msgstr "Edit release attributes"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEvents.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEventsOld.pm:17
 msgid "Edit release events (historic)"
-msgstr ""
+msgstr "Edit release events (historic)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupName.pm:7
 msgid "Edit release group name"
-msgstr ""
+msgstr "Edit release group name"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupType.pm:9
 msgid "Edit release group type"
-msgstr ""
+msgstr "Edit release group type"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseLanguage.pm:13
 msgid "Edit release language"
-msgstr ""
+msgstr "Edit release language"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseName.pm:10
 msgid "Edit release name"
-msgstr ""
+msgstr "Edit release name"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length"
-msgstr ""
+msgstr "Edit track length"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackName.pm:20
 msgid "Edit track name"
-msgstr ""
+msgstr "Edit track name"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackNum.pm:11
 msgid "Edit track number"
-msgstr ""
+msgstr "Edit track number"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditURL.pm:9
 msgid "Edit url"
-msgstr ""
+msgstr "Edit url"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MACToSAC.pm:12
 msgid "Convert release to single artist"
-msgstr ""
+msgstr "Convert release to single artist"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeLabel.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
 msgid "Merge labels"
-msgstr ""
+msgstr "Merge labels"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeRelease.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Release/Merge.pm:49
 msgid "Merge releases"
-msgstr ""
+msgstr "Merge releases"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:18
 msgid "Move disc ID"
-msgstr ""
+msgstr "Move disc ID"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release"
-msgstr ""
+msgstr "Move release"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:10
 msgid "Remove disc ID"
-msgstr ""
+msgstr "Remove disc ID"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveISRC.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Recording/RemoveISRC.pm:17
 msgid "Remove ISRC"
-msgstr ""
+msgstr "Remove ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabelAlias.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Label/DeleteAlias.pm:14
 msgid "Remove label alias"
-msgstr ""
+msgstr "Remove label alias"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLink.pm:10
 msgid "Remove relationship (historic)"
-msgstr ""
+msgstr "Remove relationship (historic)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLinkAttribute.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkAttribute.pm:13
 msgid "Remove relationship attribute"
-msgstr ""
+msgstr "Remove relationship attribute"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLinkType.pm:9
 msgid "Remove link type"
-msgstr ""
+msgstr "Remove link type"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
-msgstr ""
+msgstr "Remove release events (historic)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases"
-msgstr ""
+msgstr "Remove releases"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists"
-msgstr ""
+msgstr "Convert release to multiple artists"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SetTrackLengthsFromCDTOC.pm:10
 msgid "Set track lengths"
-msgstr ""
+msgstr "Set track lengths"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
-msgstr ""
+msgstr "Add medium"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Delete.pm:18
 msgid "Remove medium"
-msgstr ""
+msgstr "Remove medium"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Edit.pm:39
 msgid "Edit medium"
-msgstr ""
+msgstr "Edit medium"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
-msgstr ""
+msgstr "Add recording annotation"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Create.pm:24
 msgid "Add standalone recording"
-msgstr ""
+msgstr "Add standalone recording"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Merge.pm:13
 msgid "Merge recordings"
-msgstr ""
+msgstr "Merge recordings"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship.pm:7
 msgid "Relationship"
-msgstr ""
+msgstr "Relationship"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Delete.pm:25
 msgid "Remove relationship"
-msgstr ""
+msgstr "Remove relationship"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Edit.pm:28
 msgid "Edit relationship"
-msgstr ""
+msgstr "Edit relationship"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkType.pm:13
 msgid "Remove relationship type"
-msgstr ""
+msgstr "Remove relationship type"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
-msgstr ""
+msgstr "Add release label"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/DeleteReleaseLabel.pm:16
 msgid "Remove release label"
-msgstr ""
+msgstr "Remove release label"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
-msgstr ""
+msgstr "Edit release"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:28
 msgid "Edit release artist"
-msgstr ""
+msgstr "Edit release artist"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:140
 msgid ""
 "This edit cannot be applied, as the release being edited no longer exists."
-msgstr ""
+msgstr "This edit cannot be applied, as the release being edited no longer exists."
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditBarcodes.pm:17
 msgid "Edit barcodes"
-msgstr ""
+msgstr "Edit barcodes"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
-msgstr ""
+msgstr "Edit release label"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
-msgstr ""
+msgstr "Add release group annotation"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Edit.pm:34
 msgid "Edit release group"
-msgstr ""
+msgstr "Edit release group"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
-msgstr ""
+msgstr "This URL has already been merged into another URL"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
-msgstr ""
+msgstr "Wiki documentation"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
-msgstr ""
+msgstr "Change WikiDoc"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
-msgstr ""
+msgstr "Add work annotation"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddISWCs.pm:22
 msgid "Add ISWCs"
@@ -11305,19 +11305,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
-msgstr ""
+msgstr "Remove work"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/DeleteAlias.pm:15
 msgid "Remove work alias"
-msgstr ""
+msgstr "Remove work alias"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:25
 msgid "Edit work"
-msgstr ""
+msgstr "Edit work"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
-msgstr ""
+msgstr "Merge works"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/RemoveISWC.pm:16
 msgid "Remove ISWC"
@@ -11325,11 +11325,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/EditSearch/Predicate.pm:66
 msgid "This operator is not supported"
-msgstr ""
+msgstr "This operator is not supported"
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
-msgstr ""
+msgstr "[none]"
 
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:116
 #, perl-brace-format
@@ -11354,40 +11354,40 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"
-msgstr ""
+msgstr "Must be a valid barcode"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:42
 #, perl-brace-format
 msgid "Please add an artist name for {credit}"
-msgstr ""
+msgstr "Please add an artist name for {credit}"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:55
 #, perl-brace-format
 msgid ""
 "Artist \"{artist}\" is unlinked, please select an existing artist.\n"
 "                       You may need to add a new artist to MusicBrainz first."
-msgstr ""
+msgstr "Artist “{artist}” is unlinked, please select an existing artist. You may need to add a new artist to MusicBrainz first."
 
 #: ../lib/MusicBrainz/Server/Form/Field/DiscID.pm:12
 msgid "This is not a valid disc ID"
-msgstr ""
+msgstr "This is not a valid disc ID"
 
 #: ../lib/MusicBrainz/Server/Form/Field/FreeDBID.pm:12
 msgid "This is not a valid FreeDB ID"
-msgstr ""
+msgstr "This is not a valid FreeDB ID"
 
 #: ../lib/MusicBrainz/Server/Form/Field/GID.pm:12
 msgid "This is not a valid MBID"
-msgstr ""
+msgstr "This is not a valid MBID"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid "This is not a valid ISRC"
-msgstr ""
+msgstr "This is not a valid ISRC"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:12
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:16
 msgid "This is not a valid ISWC"
-msgstr ""
+msgstr "This is not a valid ISWC"
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
@@ -11395,15 +11395,15 @@ msgstr "Label codes must be at least 1 digit, and at most 5 digits"
 
 #: ../lib/MusicBrainz/Server/Form/Field/Length.pm:25
 msgid "Not a valid time. Must be in the format MM:SS"
-msgstr ""
+msgstr "Not a valid time. Must be in the format MM:SS"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:21
 msgid "Enter a valid url e.g. \"http://google.com/\""
-msgstr ""
+msgstr "Enter a valid ur,l e.g. “http://google.com/”"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
-msgstr ""
+msgstr "URL protocol must be HTTP, HTTPS or FTP"
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
@@ -11411,25 +11411,25 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:61
 msgid "Another medium is already in this position"
-msgstr ""
+msgstr "Another medium is already in this position"
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:64
 msgid "Positions must be greater than 0"
-msgstr ""
+msgstr "Medium position must be greater than 0"
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
-msgstr ""
+msgstr "You must provide an edit note when adding a standalone recording."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:13
 msgid "Link type is required"
-msgstr ""
+msgstr "Link type is required"
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:88
 msgid ""
 "This relationship type is used to group other relationships. Please select a"
 " subtype of the currently selected relationship type."
-msgstr ""
+msgstr "This relationship type is used to group other relationships. Please select a subtype of the currently selected relationship type."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:95
 msgid "This relationship type is deprecated."
@@ -11437,22 +11437,22 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:115
 msgid "This attribute is not supported for the selected relationship type."
-msgstr ""
+msgstr "This attribute is not supported for the selected relationship type."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:126
 msgid "This attribute is required."
-msgstr ""
+msgstr "This attribute is required."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:131
 #, perl-brace-format
 msgid "This attribute can only be specified {max} times. You specified {n}."
-msgstr ""
+msgstr "This attribute can only be specified {max} times. You specified {n}."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/EditNote.pm:27
 msgid ""
 "You must provide an edit note when adding a release. Even just a URL or "
 "something like “CD in hand” helps!"
-msgstr ""
+msgstr "You must provide an edit note when adding a release. Even just a URL or something like “CD in hand” helps!"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:62
 msgid ""
@@ -11468,57 +11468,57 @@ msgstr "You must select an existing release group. If you wish to move this rele
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:60
 msgid "New tracklisting contains an empty track"
-msgstr ""
+msgstr "New tracklisting contains an empty track"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:65
 #, perl-brace-format
 msgid "A track name is required on track {pos}"
-msgstr ""
+msgstr "A track name is required on track {pos}"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:70
 #, perl-brace-format
 msgid "A position is required for \"{name}\""
-msgstr ""
+msgstr "A position is required for “{name}”"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:75
 #, perl-brace-format
 msgid "\"{name1}\" and \"{name2}\" have the same position"
-msgstr ""
+msgstr "“{name1}” and “{name2}” have the same position"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:88
 #, perl-brace-format
 msgid "An artist is required on track {pos}"
-msgstr ""
+msgstr "An artist is required on track {pos}"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:115
 #, perl-brace-format
 msgid ""
 "The length of track {pos} cannot be changed since this release has a Disc ID"
 " attached to it."
-msgstr ""
+msgstr "The length of track {pos} cannot be changed since this release has a Disc ID attached to it."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:156
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:198
 msgid "A tracklist is required"
-msgstr ""
+msgstr "A tracklist is required"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:165
 #, perl-brace-format
 msgid "This medium has a Disc ID, it should have exactly {n} track."
 msgid_plural "This medium has a Disc ID, it should have exactly {n} tracks."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "This medium has a Disc ID, it should have exactly {n} track."
+msgstr[1] "This medium has a Disc ID, it should have exactly {n} tracks."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
 msgid "Track {pos} is missing."
-msgstr ""
+msgstr "Track {pos} is missing."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:213
 msgid ""
 "This medium already has disc IDs so you may only change the format\n"
 "                       to a format that can have disc IDs"
-msgstr ""
+msgstr "This medium already has disc IDs, so you may only change the format to a format that can have disc IDs"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:222
 msgid "A release must have at least one medium."
@@ -11526,11 +11526,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Role/DatePeriod.pm:42
 msgid "The end date must occur on or after the begin date"
-msgstr ""
+msgstr "The end date must occur on or after the begin date"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
 msgid "FreeDB"
-msgstr ""
+msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:55
 msgid "Indexed search with advanced query syntax"
@@ -11538,11 +11538,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/ChangePassword.pm:37
 msgid "The old password is incorrect"
-msgstr ""
+msgstr "The old password is incorrect"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:22
 msgid "Invalid URL format"
-msgstr ""
+msgstr "Invalid URL format"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
@@ -11578,23 +11578,23 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
-msgstr ""
+msgstr "Please choose another username, this one is already taken"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
-msgstr ""
+msgstr "A day"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:36
 msgid "A week"
-msgstr ""
+msgstr "A week"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:37
 msgid "2 weeks"
-msgstr ""
+msgstr "2 weeks"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:38
 msgid "A month"
-msgstr ""
+msgstr "A month"
 
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:155
@@ -11608,108 +11608,108 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:247
 msgid "YYYY"
-msgstr ""
+msgstr "YYYY"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:248
 msgid "MM"
-msgstr ""
+msgstr "MM"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:249
 msgid "DD"
-msgstr ""
+msgstr "DD"
 
 #: ../lib/MusicBrainz/Server/Release.pm:78
 msgid "(Special case)"
-msgstr ""
+msgstr "(Special case)"
 
 #: ../lib/MusicBrainz/Server/Release.pm:79
 msgid ""
 "An album release primarily consists of previously unreleased material. This "
 "includes album re-issues, with or without bonus tracks."
-msgstr ""
+msgstr "An album release primarily consists of previously unreleased material. This includes album re-issues, with or without bonus tracks."
 
 #: ../lib/MusicBrainz/Server/Release.pm:80
 msgid ""
 "A single typically has one main song and possibly a handful of additional "
 "tracks or remixes of the main track. A single is usually named after its "
 "main song."
-msgstr ""
+msgstr "A single typically has one main song and possibly a handful of additional tracks or remixes of the main track. A single is usually named after its main song."
 
 #: ../lib/MusicBrainz/Server/Release.pm:81
 msgid ""
 "An EP is an Extended Play release and often contains the letters EP in the "
 "title."
-msgstr ""
+msgstr "An EP is an Extended Play release and often contains the letters EP in the title."
 
 #: ../lib/MusicBrainz/Server/Release.pm:82
 msgid ""
 "A compilation is a collection of previously released tracks by one or more "
 "artists."
-msgstr ""
+msgstr "A compilation is a collection of previously released tracks by one or more artists."
 
 #: ../lib/MusicBrainz/Server/Release.pm:83
 msgid ""
 "A soundtrack is the musical score to a movie, TV series, stage show, "
 "computer game etc."
-msgstr ""
+msgstr "A soundtrack is the musical score to a movie, TV series, stage show, computer game, etc."
 
 #: ../lib/MusicBrainz/Server/Release.pm:84
 msgid "Non-music spoken word releases."
-msgstr ""
+msgstr "Non-music spoken word releases."
 
 #: ../lib/MusicBrainz/Server/Release.pm:85
 msgid "An interview release contains an interview with the Artist."
-msgstr ""
+msgstr "An interview release contains an interview with the Artist."
 
 #: ../lib/MusicBrainz/Server/Release.pm:86
 msgid "An audiobook is a book read by a narrator without music."
-msgstr ""
+msgstr "An audiobook is a book read by a narrator without music."
 
 #: ../lib/MusicBrainz/Server/Release.pm:87
 msgid "A release that was recorded live."
-msgstr ""
+msgstr "A release that was recorded live."
 
 #: ../lib/MusicBrainz/Server/Release.pm:88
 msgid "A release that was (re)mixed from previously released material."
-msgstr ""
+msgstr "A release that was (re)mixed from previously released material."
 
 #: ../lib/MusicBrainz/Server/Release.pm:89
 msgid "Any release that does not fit any of the categories above."
-msgstr ""
+msgstr "Any release that does not fit any of the categories above."
 
 #: ../lib/MusicBrainz/Server/Release.pm:91
 msgid ""
 "Any release officially sanctioned by the artist and/or their record company."
 " (Most releases will fit into this category.)"
-msgstr ""
+msgstr "Any release officially sanctioned by the artist and/or their record company. (Most releases will fit into this category.)"
 
 #: ../lib/MusicBrainz/Server/Release.pm:92
 msgid ""
 "A giveaway release or a release intended to promote an upcoming official "
 "release. (e.g. prerelease albums or releases included with a magazine)"
-msgstr ""
+msgstr "A giveaway release or a release intended to promote an upcoming official release. (e.g. prerelease albums or releases included with a magazine.)"
 
 #: ../lib/MusicBrainz/Server/Release.pm:93
 msgid ""
 "An unofficial/underground release that was not sanctioned by the artist "
 "and/or the record company."
-msgstr ""
+msgstr "An unofficial/underground release that was not sanctioned by the artist and/or the record company."
 
 #: ../lib/MusicBrainz/Server/Release.pm:94
 msgid ""
 "A pseudo-release is a duplicate release for translation/transliteration "
 "purposes."
-msgstr ""
+msgstr "A pseudo-release is a duplicate release for translation/transliteration purposes."
 
 #: ../lib/MusicBrainz/Server/Release.pm:1343
 #, perl-brace-format
 msgid "{tracknum} is not a valid track number"
-msgstr ""
+msgstr "{tracknum} is not a valid track number"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1347
 #, perl-brace-format
 msgid "This release already has a track {tracknum}"
-msgstr ""
+msgstr "This release already has a track {tracknum}"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1364
 #, perl-brace-format
@@ -11719,17 +11719,17 @@ msgid ""
 msgid_plural ""
 "You can't add a track {tracknum} - this release is meant to have exactly "
 "{trackcount} tracks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "You can’t add a track {tracknum} – this release is meant to have exactly {trackcount} track"
+msgstr[1] "You can’t add a track {tracknum} – this release is meant to have exactly {trackcount} tracks"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1377
 msgid "This release already has all of its tracks"
-msgstr ""
+msgstr "This release already has all of its tracks"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1394
 #, perl-brace-format
 msgid "There is no track {tracknum} on this album"
-msgstr ""
+msgstr "There is no track {tracknum} on this release"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1410
 #, perl-brace-format
@@ -11739,21 +11739,21 @@ msgid ""
 msgid_plural ""
 "You can't remove track {tracknum} - this release is meant to have exactly "
 "{trackcount} tracks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "You can’t remove track {tracknum} – this release is meant to have exactly {trackcount} track"
+msgstr[1] "You can’t remove track {tracknum} – this release is meant to have exactly {trackcount} tracks"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1427
 msgid "None of the tracks on this album are eligible for removal"
-msgstr ""
+msgstr "None of the tracks on this album are eligible for removal"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"
-msgstr ""
+msgstr "Release Information"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
-msgstr ""
+msgstr "Add Missing Entities"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:120
 msgid "Release Duplicates"
-msgstr ""
+msgstr "Release Duplicates"

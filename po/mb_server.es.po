@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 00:53+0000\n"
+"PO-Revision-Date: 2012-06-03 01:59+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -3620,7 +3620,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:483
 #, perl-format
 msgid "Guess case"
-msgstr "Arreglar títulos"
+msgstr "Retocar títulos"
 
 #: ../root/release/edit/tracklist.tt:385
 #, perl-format
@@ -3630,7 +3630,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:333
 #, perl-format
 msgid "Guess case track"
-msgstr ""
+msgstr "Retocar título de pista"
 
 #: ../root/edit/list_header.tt:18
 #, perl-format
@@ -3671,7 +3671,7 @@ msgid ""
 "{metabrainz_foundation}, a California based 501(c)3 tax-exempt non-profit, "
 "operates the MusicBrainz project which makes all donations <b>tax "
 "deductible</b> for US taxpayers. And its simply good karma everywhere else!"
-msgstr "Sin embargo, aún tenemos que pagar los gastos, y alojar la página cuesta bastante más de $1000 al mes. Necesitamos la ayuda de los usuarios para llegar a fin de mes y, con suerte, tener dinero extra para continuar pagando el desarrollo de la página. La {metabrainz_foundation}, una non-profit exenta de impuestos 501(c)3 con sede en California, está a cargo del proyecto MusicBrainz, lo que hace que todas las donaciones <b>desgraven</b> para los donantes de los EE. UU. ¡Y para los demás, ayuda a mejorar el karma!"
+msgstr "Sin embargo, aún tenemos que pagar los gastos, y alojar la página cuesta bastante más de 1000 dólares al mes. Necesitamos la ayuda de los usuarios para llegar a fin de mes y, con suerte, tener dinero extra para continuar pagando el desarrollo de la página. La {metabrainz_foundation}, una non-profit exenta de impuestos 501(c)3 con sede en California, está a cargo del proyecto MusicBrainz, lo que hace que todas las donaciones <b>desgraven</b> para los donantes de los EE. UU. ¡Y para los demás, ayuda a mejorar el karma!"
 
 #: ../root/release/edit/information.tt:165
 #, perl-format
@@ -3880,7 +3880,7 @@ msgid ""
 "We encourage people to donate $12 to make the nag screen disappear for 3 "
 "months. Or even better, sign up for a recurring donation every three months "
 "to not have to think about or see this nag again."
-msgstr "Si donas <b>$4</b> no verás esta petición durante un <b>mes</b>. Te animamos a donar $12 para que desaparezca durante 3 meses. O mejor aún, ¡da orden de realizar una donación cada tres meses, y así nunca tendrás que volver a ver este texto!"
+msgstr "Si donas <b>4 dólares</b> no verás esta petición durante <b>un mes</b>. Te animamos a donar 12 dólares para que desaparezca durante 3 meses. O mejor aún, ¡da orden de realizar una donación cada tres meses, y así nunca tendrás que volver a ver este texto!"
 
 #: ../root/main/403.tt:8
 #, perl-format
@@ -3954,7 +3954,7 @@ msgid ""
 "database looking for data that might require fixing, either to comply with "
 "the {style|style guidelines}, or in other cases where administrative \"clean"
 " up\" tasks are required."
-msgstr "Si te gustaría realizar modificaciones, pero no sabes por dónde empezar, estos informes pueden resultar útiles. Para crearlos se analiza la base de datos en busca de información que quizá deba ser modificada, ya sea para seguir las {style|convenciones de estilo} o por otras razones de organización."
+msgstr "Si te gustaría editar MusicBrainz, pero no sabes por dónde empezar, estos informes pueden resultar útiles. Para crearlos se analiza la base de datos en busca de información que quizá deba ser modificada, ya sea para seguir las {style|convenciones de estilo} o por otras razones de organización."
 
 #: ../root/account/register.tt:51
 #, perl-format
@@ -3987,7 +3987,7 @@ msgstr "Importar esbozo de CD"
 #: ../root/freedb/show.tt:54
 #, perl-format
 msgid "Import as Multiple Artist Release"
-msgstr "Importar como publicación de varios artistas"
+msgstr "Importar como publicación de múltiples artistas"
 
 #: ../root/cdstub/layout.tt:21
 #, perl-format
@@ -4047,7 +4047,7 @@ msgstr "Error interno del servidor"
 #: ../root/user/profile.tt:42
 #, perl-format
 msgid "Internal/Bot"
-msgstr "No estás suscrito/a. {sub|¿Quieres suscribirte?}"
+msgstr "Interno/Bot"
 
 #: ../root/edit/details/merge_common.tt:17
 #: ../root/edit/details/merge_recordings.tt:10
@@ -4077,18 +4077,18 @@ msgstr "Jaikoz (Etiquetador)"
 #: ../root/release/edit/layout.tt:22
 #, perl-format
 msgid "Javascript needs to be enabled to edit releases."
-msgstr "Javascript debe estar habilitado para poder modificar publicaciones."
+msgstr "Es necesario habilitar Javascript para poder modificar publicaciones."
 
 #: ../root/recording/edit.tt:35 ../root/release_group/create.tt:18
 #: ../root/release_group/edit.tt:24 ../root/work/create.tt:18
 #, perl-format
 msgid "Javascript needs to be enabled to edit the Artist field on this page."
-msgstr "Javascript debe estar activado para editar el campo Artista en esta página."
+msgstr "Es necesario habilitar Javascript para editar el campo Artista en esta página."
 
 #: ../root/artist/edit_credit.tt:17 ../root/artist/split.tt:17
 #, perl-format
 msgid "Javascript needs to be enabled."
-msgstr "Javascript debe estar activado."
+msgstr "Es necesario habilitar Javascript."
 
 #: ../root/components/forms.tt:272 ../root/release/edit/tracklist.tt:46
 #: ../root/scripts/text_strings.tt:26
@@ -4110,7 +4110,7 @@ msgstr "Mantenedme conectado"
 #: ../root/release/edit/tracklist.tt:476
 #, perl-format
 msgid "Keep uppercase words uppercased"
-msgstr "Mantén las palabras mayúsculas en mayúscula"
+msgstr "Mantener en mayúsculas las palabras que lo están"
 
 #: ../root/cdtoc/attach_artist_releases.tt:37
 #: ../root/cdtoc/attach_filter_release.tt:50 ../root/cdtoc/list.tt:10
@@ -4302,7 +4302,7 @@ msgstr ""
 #: ../root/edit/details/edit_relationship_type.tt:12
 #, perl-format
 msgid "Link phrase:"
-msgstr "Enlaces rápidos:"
+msgstr ""
 
 #: ../root/layout/menu.tt:145
 #, perl-format
@@ -4325,7 +4325,7 @@ msgstr ""
 #: ../root/edit/details/remove_work_alias.tt:17
 #, perl-format
 msgid "Locale:"
-msgstr "Configuración regional"
+msgstr ""
 
 #: ../root/layout/menu.tt:70 ../root/user/login.tt:1 ../root/user/login.tt:3
 #: ../root/user/login.tt:34
@@ -4365,22 +4365,22 @@ msgstr "¿Necesitas ayuda? Consulta la {doc|documentación} o las {faq|FAQ}."
 #: ../root/scripts/text_strings.tt:45
 #, perl-format
 msgid "Lookup"
-msgstr "Edición rechazada"
+msgstr "Buscar"
 
 #: ../root/cdtoc/lookup.tt:1 ../root/cdtoc/lookup.tt:2
 #, perl-format
 msgid "Lookup CD"
-msgstr "Detalles de relación"
+msgstr "Buscar CD"
 
 #: ../root/cdstub/browse.tt:11
 #, perl-format
 msgid "Lookup count"
-msgstr "Editor de relación"
+msgstr "Número de búsquedas"
 
 #: ../root/cdstub/layout.tt:11
 #, perl-format
 msgid "Lookup count:"
-msgstr "Editores de relación"
+msgstr "Número de búsquedas:"
 
 #: ../root/account/lost_password_sent.tt:1 ../root/account/lost_password.tt:1
 #: ../root/account/lost_password.tt:3
@@ -4392,7 +4392,7 @@ msgstr "Contraseña perdida"
 #: ../root/account/lost_username.tt:3
 #, perl-format
 msgid "Lost Username"
-msgstr "Relación:"
+msgstr "Nombre de usuario perdido"
 
 #: ../root/components/common-macros.tt:505
 #, perl-format
@@ -4419,7 +4419,7 @@ msgstr "Magic MP3 (Etiquetador)"
 msgid ""
 "Mail me when one of my edits gets a \"no\" vote. (Note: the email is only "
 "sent for the first \"no\" vote, not each one)"
-msgstr "Enviadme un correo cuando alguien vote \"no\" en una de mis modificaciones. (Nota: el correo se envía solo tras el primer \"no\" de cada modificación, no tras cada uno de ellos)"
+msgstr "Enviadme un correo cuando alguien vote \"no\" en una de mis ediciones. (Nota: el correo se envía solo tras el primer \"no\" de cada edición, no tras cada uno de ellos)"
 
 #: ../root/layout/menu.tt:235
 #, perl-format
@@ -4456,7 +4456,7 @@ msgstr "Medio"
 #: ../root/tracklist/index.tt:28
 #, perl-format
 msgid "Medium #"
-msgstr "Medio nº "
+msgstr "Nº de medio"
 
 #: ../root/edit/details/merge_releases.tt:36
 #, perl-format
@@ -4560,7 +4560,7 @@ msgstr ""
 #: ../root/edit/details/historic/merge_releases.tt:30
 #, perl-format
 msgid "Merge language &amp; script:"
-msgstr "Fusionar idioma &amp; script:"
+msgstr "Fusionar idioma &amp; alfabeto:"
 
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
@@ -4710,7 +4710,7 @@ msgid ""
 "MusicBrainz believes strongly in the privacy of its users! Any personal "
 "information you choose to provide will not be sold or shared with anyone "
 "else. For full details, please read our {doc|Privacy Policy}."
-msgstr "¡MusicBrainz cree firmemente en la privacidad de sus ususarios! Cualquier información personal que eligar proporcionarnos no será vendida ni compartida con nadie más. Para más detalles, lee nuestra {doc|política de privacidad}."
+msgstr "¡MusicBrainz cree firmemente en la privacidad de sus ususarios! Cualquier información personal que elijas proporcionarnos no será vendida ni compartida con nadie más. Para más detalles, lee nuestra {doc|política de privacidad}."
 
 #: ../root/cdtoc/lookup.tt:83
 #, perl-format
@@ -4727,7 +4727,7 @@ msgstr "MusicBrainz para Android"
 msgid ""
 "MusicBrainz has one account type for all users. If you represent an artist "
 "or label, please use the above form to create an account."
-msgstr "Musicbrainz tiene un tipo de cuenta para todos los usuarios. Si representas a un artista o a una discográfica, por favor usa el formulario de arriba para crear una cuenta."
+msgstr "MusicBrainz tiene un solo tipo de cuenta para todos los usuarios. Si representas a un artista o a una discográfica, por favor usa el formulario de arriba para crear una cuenta."
 
 #: ../root/main/index.tt:45
 #, perl-format
@@ -4742,7 +4742,7 @@ msgid ""
 "MusicBrainz is operated by the {uri|MetaBrainz Foundation}, a California "
 "based 501(c)(3) tax-exempt non-profit corporation dedicated to keeping "
 "MusicBrainz {free|free and open source}."
-msgstr "MusicBrainz es operado por la {uri|MetaBrainz Foundation}, una corporación californiana sin fines de lucro, exenta de impuestos 501(c)(3) dedicada a mantener a MusicBrainz {free|libre y de código abierto}."
+msgstr "MusicBrainz es operada por la {uri|MetaBrainz Foundation}, una corporación californiana sin fines de lucro, exenta de impuestos 501(c)(3) dedicada a mantener a MusicBrainz {free|libre y de código abierto}."
 
 #: ../root/artist/add_alias.tt:4 ../root/artist/edit_alias.tt:4
 #, perl-format
@@ -4794,7 +4794,7 @@ msgstr "Mis datos"
 #: ../root/layout/menu.tt:36
 #, perl-format
 msgid "My Open Edits"
-msgstr "Mis modificaciones abiertas"
+msgstr "Mis ediciones pendientes"
 
 #: ../root/layout/menu.tt:30
 #, perl-format
@@ -4917,7 +4917,7 @@ msgstr "Nuevo estatus:"
 #: ../root/edit/details/edit_medium.tt:116
 #, perl-format
 msgid "New Tracklist:"
-msgstr "Lista de pistas nueva"
+msgstr "Nueva lista de pistas:"
 
 #: ../root/edit/details/edit_release_attributes.tt:22
 #, perl-format
@@ -4967,7 +4967,7 @@ msgstr "Nuevas relaciones:"
 #: ../root/edit/details/edit_release_language.tt:30
 #, perl-format
 msgid "New script:"
-msgstr "Nuevo script:"
+msgstr "Nuevo alfabeto:"
 
 #: ../root/edit/details/change_wikidoc.tt:23
 #: ../root/edit/details/change_wikidoc.tt:28
@@ -5070,7 +5070,7 @@ msgstr ""
 #: ../root/admin/edit_user.tt:13
 #, perl-format
 msgid "No nag"
-msgstr "Sin anuncios molestosos"
+msgstr "Sin banner de donación"
 
 #: ../root/artist/recordings.tt:16
 #, perl-format
@@ -5203,7 +5203,7 @@ msgstr "Usuario normal"
 #: ../root/scripts/text_strings.tt:76
 #, perl-format
 msgid "Not found? Try again with direct search."
-msgstr "¿No se encontró lo que buscabas? Intenta de nuevo con la búsqueda directa."
+msgstr "¿No encuentras lo que estás buscando? Prueba de nuevo con la búsqueda directa."
 
 #: ../root/release/edit/information.tt:134
 #, perl-format
@@ -5228,7 +5228,7 @@ msgstr ""
 #: ../root/account/preferences.tt:44
 #, perl-format
 msgid "Notify me by email on new releases to my watched artists"
-msgstr "Elliminar"
+msgstr "Notificadme por correo cuando mis artistas seguidos tengan una nueva publicación"
 
 #: ../root/release/edit/recordings.tt:378
 #, perl-format
@@ -5258,7 +5258,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:42
 #, perl-format
 msgid "Old Tracklist:"
-msgstr "Lista de pistas antigua"
+msgstr "Antigua lista de pistas:"
 
 #: ../root/account/change_password.tt:10
 #, perl-format
@@ -5308,12 +5308,12 @@ msgstr "Solo se muestran las publicaciones con el mismo número de pistas ({n}) 
 msgid ""
 "Only the user who created an edit can cancel it, either you did not create "
 "{edit} or perhaps it has already been closed."
-msgstr "Eliminar discográfica"
+msgstr "Solo el usuario que haya creado una edición puede cancelarla; o bien no creaste {edit} o bien ya ha sido cerrada."
 
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
 msgid "Only {doc|auto-editors} can approve an edit."
-msgstr "Sólo los {doc|autoeditores} pueden aprobar esta modificación."
+msgstr "Sólo los {doc|autoeditores} pueden aprobar una modificación."
 
 #: ../root/edit/search_macros.tt:84
 #, perl-format
@@ -5325,13 +5325,13 @@ msgstr ""
 #: ../root/main/500.tt:5
 #, perl-format
 msgid "Oops, something went wrong!"
-msgstr "¡Ups, algo fue mal!"
+msgstr "¡Caramba, ha fallado algo!"
 
 #: ../root/edit/open.tt:14 ../root/edit/open.tt:16
 #: ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "Open Edits"
-msgstr "Ediciones abiertas"
+msgstr "Ediciones pendientes"
 
 #: ../root/artist/layout.tt:112 ../root/edit/list_header.tt:11
 #: ../root/label/layout.tt:84 ../root/recording/layout.tt:57
@@ -5339,7 +5339,7 @@ msgstr "Ediciones abiertas"
 #: ../root/url/layout.tt:14 ../root/work/layout.tt:60
 #, perl-format
 msgid "Open edits"
-msgstr "Editiones abiertas"
+msgstr "Ediciones pendientes"
 
 #: ../root/components/common-macros.tt:393
 #: ../root/components/common-macros.tt:398
@@ -5386,7 +5386,7 @@ msgstr "Otros grupos de publicaciones"
 #: ../root/user/profile.tt:177
 #, perl-format
 msgid "Overall"
-msgstr "Resumen"
+msgstr "Total"
 
 #: ../root/artist/header.tt:1 ../root/cdstub/header.tt:9
 #: ../root/collection/header.tt:1 ../root/release_group/header.tt:1
@@ -5487,7 +5487,7 @@ msgstr ""
 #: ../root/report/part_of_set_relationships.tt:3
 #, perl-format
 msgid "Part of Set Relationships"
-msgstr "Parte de un conjunto de relaciones"
+msgstr "Relaciones de \"parte de un conjunto\""
 
 #: ../root/account/register.tt:33 ../root/account/reset_password.tt:10
 #: ../root/user/login.tt:24
@@ -5512,7 +5512,7 @@ msgstr "Frase:"
 msgid ""
 "Please <a href=\"{uri}\">update your profile</a> when you get time, to let "
 "other editors know a bit more about you."
-msgstr "Por favor <a href=\"{uri}\">actualiza tu perfil> cuando puedas, para permitir a los otros editores saber algo más acerca de ti."
+msgstr "Por favor, cuando tengas tiempo <a href=\"{uri}\">actualiza tu perfil</a>, para permitir a los demás editores saber algo más sobre ti."
 
 #: ../root/main/500.tt:60
 #, perl-format
@@ -5542,14 +5542,14 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:67
 #, perl-format
 msgid "Please double-check the barcode on the release."
-msgstr "Por favor comprueba el código de barras de la publicación."
+msgstr "Por favor, comprueba el código de barras de la publicación."
 
 #: ../root/components/tag.tt:7
 #, perl-format
 msgid ""
 "Please enter tags in the text area below. Tags are comma separated, and you "
 "may wish to see the {tagsyn|tag syntax documentation} for more information"
-msgstr "Por favor introduce las etiquetas en el área de texto inferior. Las etiquetas se separan por comas, y puede que quieras ver la {tagsyn|documentación de sintaxis de etiquetas} para más información"
+msgstr "Introduce las etiquetas en el área de debajo. Las etiquetas se separan con comas; puedes consultar la {tagsyn|documentación de sintaxis de etiquetas} para saber más."
 
 #: ../root/release/edit/information.tt:158
 #, perl-format
@@ -5563,12 +5563,12 @@ msgstr "Introduce el código de barras de la publicación que estás añadiendo.
 msgid ""
 "Please enter the {name|release name} of the recording into which you would "
 "like to merge this recording, and press <em>search</em> to start the search."
-msgstr "(este archivo ya no se usa)"
+msgstr "Introduce el {name|nombre} de la grabación con la que quieres fusionar esta, y pulsa <em>buscar</em> para empezar la búsqueda."
 
 #: ../root/account/change_password.tt:5
 #, perl-format
 msgid "Please enter your old password below, and then your new password."
-msgstr "Por favor introduce tu antigua contraseña debajo, y después la nueva contraseña."
+msgstr "Introduce tu antigua contraseña debajo, y después la nueva contraseña."
 
 #: ../root/edit/relationship/no-start.tt:2
 #, perl-format
@@ -5614,7 +5614,7 @@ msgstr ""
 #: ../root/search/form.tt:49
 #, perl-format
 msgid "Please note:"
-msgstr "Por favor nota:"
+msgstr "Nota:"
 
 #: ../root/release/merge_search.tt:5
 #, perl-format
@@ -5628,14 +5628,14 @@ msgstr "Lee las convenciones sobre {doc_merging|cómo fusionar publicaciones} an
 msgid ""
 "Please read the {doc_styleguide|Style Guidelines} then use the fields below "
 "to update the information of this label."
-msgstr "Por favor lee la {doc_styleguide|Guía de Estilo} y usa los campos de abajo para actualizar la información de esta discográfica."
+msgstr "Lee las {doc_styleguide|convenciones de estilo} y usa los campos de abajo para actualizar la información de esta discográfica."
 
 #: ../root/artist/edit_form.tt:4
 #, perl-format
 msgid ""
 "Please read the {doc_styleguide|Style Guidelines}, then provide the "
 "necessary information about the new artist below."
-msgstr "Por favor lee las {doc_styleguide|Guías de estilo}, y envía entonces la información necesaria del nuevo artista de abajo."
+msgstr "Lee las {doc_styleguide|convenciones de estilo}, e incluye debajo la información necesaria sobre el nuevo artista."
 
 #: ../root/release_group/delete.tt:8
 #, perl-format
@@ -5715,7 +5715,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:41
 #, perl-format
 msgid "Please select a relationship type."
-msgstr "Por favor selecciona un tipo de relación."
+msgstr "Selecciona un tipo de relación."
 
 #: ../root/scripts/text_strings.tt:40
 #, perl-format
@@ -5916,7 +5916,7 @@ msgstr "Nominado por:"
 #: ../root/user/collections.tt:21
 #, perl-format
 msgid "Public"
-msgstr "Público"
+msgstr "Pública"
 
 #: ../root/collection/header.tt:14
 #, perl-format
@@ -6489,7 +6489,7 @@ msgstr "Publicaciones con URLs de Amazon inesperadas"
 #: ../root/report/releases_to_convert.tt:3
 #, perl-format
 msgid "Releases which might need converting to \"multiple artists\""
-msgstr "Publicaciones que quizá deban estar atribuidas a varios artistas"
+msgstr "Publicaciones que quizá deban estar atribuidas a múltiples artistas"
 
 #: ../root/report/index.tt:37 ../root/report/releases_with_cc_links.tt:1
 #: ../root/report/releases_with_cc_links.tt:3
@@ -6791,7 +6791,7 @@ msgstr ""
 #: ../root/layout/menu.tt:244
 #, perl-format
 msgid "Report a Bug"
-msgstr "Informar de un bug"
+msgstr "Informar de un fallo"
 
 #: ../root/layout/menu.tt:248
 #, perl-format
@@ -6894,7 +6894,7 @@ msgstr ""
 #: ../root/layout/menu.tt:157
 #, perl-format
 msgid "Search Edits"
-msgstr "Buscar modificaciones"
+msgstr "Buscar ediciones"
 
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 #, perl-format
@@ -6938,7 +6938,7 @@ msgstr "Buscar por publicación"
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
 #, perl-format
 msgid "Search for Edits"
-msgstr "Buscar por ediciones"
+msgstr "Buscar ediciones"
 
 #: ../root/search/editor.tt:1
 #, perl-format
@@ -6953,7 +6953,7 @@ msgstr ""
 #: ../root/edit/list_header.tt:8
 #, perl-format
 msgid "Search for edits"
-msgstr "Buscar modificaciones"
+msgstr "Buscar ediciones"
 
 #: ../root/release/edit/recordings.tt:95
 #, perl-format
@@ -7091,7 +7091,7 @@ msgstr "Establecer la duración de pista"
 #: ../root/relationship/linktype/form.tt:15
 #, perl-format
 msgid "Short link phrase:"
-msgstr "Frase corta de enlace:"
+msgstr "Frase de enlace corta:"
 
 #: ../root/release/index.tt:11
 #, perl-format
@@ -7118,14 +7118,14 @@ msgstr ""
 msgid ""
 "Showing Various Artist release groups. {show_subset|Show release groups by "
 "this artist instead}."
-msgstr "Mostrando grupos de publicaciones de varios artistas. {show_subset|Mostrar grupos de publicaciones de este artista}."
+msgstr "Mostrando grupos de publicaciones de múltiples artistas. {show_subset|Mostrar grupos de publicaciones de este artista}."
 
 #: ../root/artist/releases.tt:31
 #, perl-format
 msgid ""
 "Showing Various Artist releases. {show_subset|Show releases by this artist "
 "instead}."
-msgstr "Mostrando publicaciones de varios artistas. {show_subset|Mostrar publicaciones de este artista}."
+msgstr "Mostrando publicaciones de múltiples artistas. {show_subset|Mostrar publicaciones de este artista}."
 
 #: ../root/artist/recordings.tt:23
 #, perl-format
@@ -7144,14 +7144,14 @@ msgstr ""
 msgid ""
 "Showing release groups by this artist. {show_all|Show Various Artist release"
 " groups instead}."
-msgstr "Mostrando grupos de publicaciones de este artista. {show_subset|Mostrar grupos de publicaciones de varios artistas}."
+msgstr "Mostrando grupos de publicaciones de este artista. {show_subset|Mostrar grupos de publicaciones de múltiples artistas}."
 
 #: ../root/artist/releases.tt:28
 #, perl-format
 msgid ""
 "Showing releases by this artist. {show_all|Show Various Artist releases "
 "instead}."
-msgstr "Mostrando publicaciones de este artista. {show_subset|Mostrar publicaciones de varios artistas}."
+msgstr "Mostrando publicaciones de este artista. {show_subset|Mostrar publicaciones de múltiples artistas}."
 
 #: ../root/scripts/text_strings.tt:38
 #, perl-format
@@ -7190,7 +7190,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:31
 #, perl-format
 msgid "Some artists credited with alternative names"
-msgstr "Añadir una nueva publicación"
+msgstr ""
 
 #: ../root/release/edit/recordings.tt:179
 #, perl-format
@@ -7372,7 +7372,7 @@ msgstr "No hemos encontrado una colección con esa ID de MusicBrainz."
 msgid ""
 "Sorry, we could not find an edit with that edit ID. You may wish to try and "
 "perform an {search_url|edit search} instead."
-msgstr "No hemos encontrado una modificación con esa ID de MusicBrainz. Puedes probar a {search_url|usar la búsqueda}."
+msgstr "No hemos encontrado una edición con esa ID. Puedes probar a {search_url|usar la búsqueda}."
 
 #: ../root/user/not_found.tt:4
 #, perl-format
@@ -7401,7 +7401,7 @@ msgstr ""
 #: ../root/main/401.tt:5
 #, perl-format
 msgid "Sorry, you are not authorized to view this page."
-msgstr "Lo sentimos, no estás autorizado para ver esta página."
+msgstr "Lo sentimos, no tienes permiso para ver esta página."
 
 #: ../root/main/mirror.tt:5
 #, perl-format
@@ -7760,7 +7760,7 @@ msgstr "Texto:"
 #: ../root/account/donation.tt:14
 #, perl-format
 msgid "Thank you for contributing to MusicBrainz."
-msgstr "Gracias por contribuir con MusicBrainz."
+msgstr "Gracias por contribuir a MusicBrainz."
 
 #: ../root/account/verified.tt:4
 #, perl-format
