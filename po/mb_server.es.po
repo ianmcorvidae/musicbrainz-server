@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 12:53+0000\n"
+"PO-Revision-Date: 2012-06-03 13:13+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -5880,7 +5880,7 @@ msgstr "Privacidad"
 #: ../root/layout/menu.tt:95
 #, perl-format
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Política de privacidad"
 
 #: ../root/user/collections.tt:21
 #, perl-format
@@ -5972,7 +5972,7 @@ msgstr ""
 msgid ""
 "Read the {doc|WikiDocs} documentation for an overview of how transclusion "
 "works."
-msgstr ""
+msgstr "Lee la documentación de {doc|WikiDocs} para saber cómo funciona la inclusión en la tabla de documentos."
 
 #: ../root/components/common-macros.tt:473 ../root/edit/search_macros.tt:280
 #: ../root/report/isrc_with_many_recordings.tt:17
@@ -6066,7 +6066,7 @@ msgstr "Grabaciones:"
 #: ../root/account/preferences.tt:12
 #, perl-format
 msgid "Regional settings"
-msgstr ""
+msgstr "Preferencias regionales"
 
 #: ../root/doc/edit_type.tt:58
 #, perl-format
@@ -6076,7 +6076,7 @@ msgstr "Rechazar"
 #: ../root/edit/index.tt:74
 #, perl-format
 msgid "Reject edit"
-msgstr ""
+msgstr "Rechazar edición"
 
 #: ../root/components/common-macros.tt:512
 #, perl-format
@@ -6153,7 +6153,7 @@ msgstr "Atributo de relación en uso"
 #: ../root/relationship/linkattributetype/in_use.tt:2
 #, perl-format
 msgid "Relationship attribute still in use"
-msgstr ""
+msgstr "El atributo de relación aún está en uso"
 
 #: ../root/admin/edit_user.tt:8
 #, perl-format
@@ -6275,7 +6275,7 @@ msgstr "Idioma de la publicación"
 #: ../root/release/not_found.tt:1 ../root/release/not_found.tt:2
 #, perl-format
 msgid "Release Not Found"
-msgstr ""
+msgstr "Publicación no encontrada"
 
 #: ../root/recording/index.tt:12
 #, perl-format
@@ -6306,12 +6306,12 @@ msgstr "Grupo de publicaciones de {artist}"
 #: ../root/layout/sidebar/sidebar-favicons.tt:39
 #, perl-format
 msgid "Release group external links"
-msgstr ""
+msgstr "Enlaces externos del grupo de publicaciones"
 
 #: ../root/release_group/layout.tt:8
 #, perl-format
 msgid "Release group information"
-msgstr ""
+msgstr "Información del grupo de publicaciones"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -6321,7 +6321,7 @@ msgstr "Valoraciones del grupo de publicaciones"
 #: ../root/release/relationships.tt:4
 #, perl-format
 msgid "Release group relationships"
-msgstr ""
+msgstr "Relaciones del grupo de publicaciones"
 
 #: ../root/release_group/layout.tt:1
 #, perl-format
@@ -6351,7 +6351,7 @@ msgstr "Grupos de publicaciones que empiezan por “{index}”"
 #: ../root/report/index.tt:29
 #, perl-format
 msgid "Release groups that might need to be merged"
-msgstr ""
+msgstr "Grupos de publicaciones que quizá necesiten ser fusionados"
 
 #: ../root/report/index.tt:28
 #, perl-format
@@ -6362,7 +6362,7 @@ msgstr "Grupos de publicaciones que no contienen publicaciones"
 #: ../root/report/featuring_release_groups.tt:3 ../root/report/index.tt:30
 #, perl-format
 msgid "Release groups with titles containing featuring artists"
-msgstr ""
+msgstr "Grupos de publicaciones que contienen \"feat.\" en el título"
 
 #: ../root/release/edit/information.tt:23 ../root/release/sidebar.tt:15
 #, perl-format
@@ -6417,13 +6417,13 @@ msgstr "Publicaciones"
 #: ../root/report/tracks_named_with_sequence.tt:3
 #, perl-format
 msgid "Releases Where Track Names Start With Their Track Number"
-msgstr ""
+msgstr "Publicaciones cuyas pistas empiezan con el número de pista"
 
 #: ../root/report/cat_no_looks_like_asin.tt:1
 #: ../root/report/cat_no_looks_like_asin.tt:3
 #, perl-format
 msgid "Releases With Catalog Numbers That Look Like ASINs"
-msgstr ""
+msgstr "Publicaciones con números de catálogo que parecen ASINs"
 
 #: ../root/report/multiple_asins.tt:1 ../root/report/multiple_asins.tt:3
 #, perl-format
@@ -6440,7 +6440,7 @@ msgstr "Publicaciones con varios enlaces de Discogs"
 #: ../root/report/some_formats_unset.tt:3
 #, perl-format
 msgid "Releases With Some Formats Unset"
-msgstr ""
+msgstr "Publicaciones con algunos formatos sin indicar"
 
 #: ../root/report/index.tt:56
 #: ../root/report/releases_in_caa_with_cover_art_relationships.tt:1
@@ -6463,7 +6463,7 @@ msgstr "Publicaciones que empiezan por “{index}”"
 #: ../root/report/index.tt:52
 #, perl-format
 msgid "Releases where some (but not all) mediums have no format set"
-msgstr ""
+msgstr "Publicaciones en las que algunos medios (pero no todos) no tienen formato"
 
 #: ../root/report/index.tt:42
 #, perl-format
@@ -6478,7 +6478,7 @@ msgstr "Publicaciones con varios enlaces de Discogs"
 #: ../root/report/index.tt:46
 #, perl-format
 msgid "Releases which have part of set relationships"
-msgstr ""
+msgstr "Publicaciones que tienen relaciones de \"parte de conjunto\""
 
 #: ../root/report/index.tt:41
 #, perl-format
@@ -6495,12 +6495,12 @@ msgstr "Publicaciones que quizá deban estar atribuidas a múltiples artistas"
 #: ../root/report/releases_with_cc_links.tt:3
 #, perl-format
 msgid "Releases with Creative Commons Download relationships"
-msgstr ""
+msgstr "Publicaciones con relaciones de descarga Creative Commons"
 
 #: ../root/report/index.tt:53
 #, perl-format
 msgid "Releases with catalog numbers that look like ASINs"
-msgstr ""
+msgstr "Publicaciones con números de catálogo que parecen ASINs"
 
 #: ../root/report/mediums_with_sequence_issues.tt:1
 #: ../root/report/mediums_with_sequence_issues.tt:3
@@ -6516,18 +6516,18 @@ msgstr ""
 #: ../root/report/index.tt:48
 #, perl-format
 msgid "Releases with non-sequential track numbers"
-msgstr ""
+msgstr "Publicaciones con números de pista discontinuos"
 
 #: ../root/report/index.tt:49 ../root/report/superfluous_data_tracks.tt:3
 #, perl-format
 msgid "Releases with superfluous data tracks"
-msgstr ""
+msgstr "Publicaciones con pistas de datos superfluas"
 
 #: ../root/report/featuring_releases.tt:1
 #: ../root/report/featuring_releases.tt:3 ../root/report/index.tt:50
 #, perl-format
 msgid "Releases with titles containing featuring artists"
-msgstr ""
+msgstr "Publicaciones que contienen \"feat.\" en el título "
 
 #: ../root/report/tracks_with_sequence_issues.tt:1
 #: ../root/report/tracks_with_sequence_issues.tt:3
@@ -6546,13 +6546,13 @@ msgstr ""
 #: ../root/report/releases_without_language.tt:3
 #, perl-format
 msgid "Releases without language"
-msgstr ""
+msgstr "Publicaciones sin idioma"
 
 #: ../root/report/index.tt:40 ../root/report/releases_without_script.tt:1
 #: ../root/report/releases_without_script.tt:3
 #, perl-format
 msgid "Releases without script"
-msgstr ""
+msgstr "Publicaciones sin alfabeto"
 
 #: ../root/edit/details/convert_release_to_multiple_artists.tt:3
 #: ../root/edit/details/edit_release_attributes.tt:4
@@ -6707,12 +6707,12 @@ msgstr "Eliminar disco"
 #: ../root/release/sidebar.tt:122
 #, perl-format
 msgid "Remove from my collection"
-msgstr ""
+msgstr "Eliminar de mi colección"
 
 #: ../root/release/sidebar.tt:124
 #, perl-format
 msgid "Remove from {collection}"
-msgstr ""
+msgstr "Eliminar de {collection}"
 
 #: ../root/label/layout.tt:72
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabel.pm:9
