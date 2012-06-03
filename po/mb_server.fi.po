@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 19:59+0000\n"
+"PO-Revision-Date: 2012-06-03 20:40+0000\n"
 "Last-Translator: Timo Martikainen <>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -45,7 +45,7 @@ msgstr ""
 #: ../root/work/add_iswc.tt:7
 #, perl-format
 msgid "\"DDD\" is a nine digit work identifier."
-msgstr ""
+msgstr "\"DDD\" on yhdeksän numeroinen tunniste"
 
 #: ../root/recording/add_isrc.tt:12
 #, perl-format
@@ -729,7 +729,7 @@ msgstr ""
 #: ../root/artist/works.tt:8 ../root/iswc/index.tt:56
 #, perl-format
 msgid "Add selected works for merging"
-msgstr ""
+msgstr "Lisää valitut teokset yhdistettäväksi"
 
 #: ../root/release/sidebar.tt:130
 #, perl-format
@@ -932,7 +932,7 @@ msgstr "Vaihtoehtoisesti voit {uri|lisätä uuden julkaisuryhmän}."
 #: ../root/search/results-work.tt:58
 #, perl-format
 msgid "Alternatively, you may {uri|add a new work}."
-msgstr ""
+msgstr "Vaihtoehtoisesti voit {uri|lisätä uuden teoksen}."
 
 #: ../root/report/asins_with_multiple_releases.tt:1
 #: ../root/report/asins_with_multiple_releases.tt:3
@@ -1457,7 +1457,7 @@ msgstr[1] ""
 #: ../root/cdtoc/attach_filter_release.tt:68
 #, perl-format
 msgid "Attach CD TOC"
-msgstr ""
+msgstr "Lisää CD-levyn sisällysluettelo"
 
 #: ../root/cdtoc/lookup.tt:51
 #, perl-format
@@ -1739,7 +1739,7 @@ msgstr ""
 #: ../root/browse/work.tt:1 ../root/browse/work.tt:3
 #, perl-format
 msgid "Browse Works"
-msgstr ""
+msgstr "Selaa teoksia"
 
 #: ../root/browse/index.tt:5 ../root/search/index.tt:5
 #, perl-format
@@ -1776,7 +1776,7 @@ msgstr ""
 #: ../root/browse/index.tt:9 ../root/search/index.tt:9
 #, perl-format
 msgid "Browse works"
-msgstr ""
+msgstr "Selaa teoksia"
 
 #: ../root/layout.tt:164
 #, perl-format
@@ -1832,7 +1832,7 @@ msgstr ""
 #: ../root/cdstub/header.tt:5
 #, perl-format
 msgid "CD stub by {artist}"
-msgstr ""
+msgstr "CD-tyngät liittyen artistiin {artist}"
 
 #: ../root/cdstub/edit.tt:53
 #, perl-format
@@ -2126,7 +2126,7 @@ msgstr ""
 #: ../root/layout/menu.tt:92
 #, perl-format
 msgid "Code of Conduct"
-msgstr ""
+msgstr "Järjestyssäännöt"
 
 #: ../root/report/collaboration_relationships.tt:19
 #, perl-format
@@ -2151,12 +2151,12 @@ msgstr ""
 #: ../root/user/collections.tt:9
 #, perl-format
 msgid "Collection"
-msgstr ""
+msgstr "Kokoelma"
 
 #: ../root/collection/not_found.tt:1 ../root/collection/not_found.tt:2
 #, perl-format
 msgid "Collection Not Found"
-msgstr ""
+msgstr "Kokoelmaa ei löytynyt"
 
 #: ../root/collection/edit_form.tt:4
 #, perl-format
@@ -2166,14 +2166,14 @@ msgstr ""
 #: ../root/collection/layout.tt:1
 #, perl-format
 msgid "Collection “{collection}”"
-msgstr ""
+msgstr "Kokoelma \"{collection}\""
 
 #: ../root/release/collections.tt:1 ../root/release/collections.tt:2
 #: ../root/release/sidebar.tt:114 ../root/user/collections.tt:1
 #: ../root/user/collections.tt:3 ../root/user/profile/layout.tt:12
 #, perl-format
 msgid "Collections"
-msgstr ""
+msgstr "Kokoelmat"
 
 #: ../root/edit/details/add_cover_art.tt:11
 #: ../root/edit/details/edit_cover_art.tt:17
@@ -2191,7 +2191,7 @@ msgstr ""
 #: ../root/annotation/history.tt:38
 #, perl-format
 msgid "Compare versions"
-msgstr ""
+msgstr "Vertaa versioita"
 
 #: ../root/annotation/diff.tt:10
 #, perl-format
@@ -2225,14 +2225,14 @@ msgstr ""
 #: ../root/account/reset_password.tt:11
 #, perl-format
 msgid "Confirm password:"
-msgstr ""
+msgstr "Vahvista tunnussana:"
 
 #: ../root/account/registered.tt:4
 #, perl-format
 msgid ""
 "Congratulations, your new account has been created and you are now logged "
 "into MusicBrainz!"
-msgstr ""
+msgstr "Onnittelut! Uusi käyttäjätunnuksesi on luotu ja olet sisäänkirjautunut Musicbrainz:iin!"
 
 #: ../root/layout/menu.tt:232
 #, perl-format
@@ -2242,12 +2242,12 @@ msgstr "Ota yhteyttä meihin"
 #: ../root/components/forms.tt:223
 #, perl-format
 msgid "Copy"
-msgstr ""
+msgstr "Kopioi"
 
 #: ../root/release/edit/missing_entities.tt:21
 #, perl-format
 msgid "Copy Name"
-msgstr ""
+msgstr "Kopioi nimi"
 
 #: ../root/release/edit/recordings.tt:398
 #, perl-format
@@ -2306,7 +2306,7 @@ msgstr ""
 #: ../root/account/register.tt:41 ../root/layout/menu.tt:71
 #, perl-format
 msgid "Create Account"
-msgstr ""
+msgstr "Luo käyttäjätunnus"
 
 #: ../root/edit/relationship/create_batch.tt:12
 #: ../root/edit/relationship/create.tt:13
@@ -2318,7 +2318,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:141 ../root/user/collections.tt:36
 #, perl-format
 msgid "Create a new collection"
-msgstr ""
+msgstr "Luo uusi kokoelma"
 
 #: ../root/relationship/linkattributetype/instruments.tt:8
 #, perl-format
@@ -2338,12 +2338,12 @@ msgstr ""
 #: ../root/account/register.tt:5 ../root/account/register.tt:12
 #, perl-format
 msgid "Create an Account"
-msgstr ""
+msgstr "Luo käyttäjätunnus"
 
 #: ../root/collection/edit_form.tt:11
 #, perl-format
 msgid "Create collection"
-msgstr ""
+msgstr "Luo kokoelma"
 
 #: ../root/components/common-macros.tt:499
 #, perl-format
@@ -2370,7 +2370,7 @@ msgstr ""
 #: ../root/layout/menu.tt:86
 #, perl-format
 msgid "Data Licenses"
-msgstr ""
+msgstr "Datan lisenssit"
 
 #: ../root/doc/edit_type.tt:35
 #, perl-format
@@ -2408,7 +2408,7 @@ msgstr ""
 #: ../root/account/preferences.tt:14
 #, perl-format
 msgid "Date/time format:"
-msgstr ""
+msgstr "Päiväys/aika formaatti:"
 
 #: ../root/edit/details/add_release.tt:60
 #: ../root/edit/details/edit_release_label.tt:38
@@ -2424,12 +2424,12 @@ msgstr "Päiväys:"
 msgid ""
 "Dates are in the format YYYY-MM-DD. Partial dates such as YYYY-MM or just "
 "YYYY are OK, or you can omit the date entirely."
-msgstr ""
+msgstr "Päiväykset ovat muotoa VVVV-KK-PP. Osittaiset päiväykset kuten VVVV-KK tai pelkkä VVVV ovat myös riittäviä, tai voit jättää päiväyksen kokonaan pois."
 
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
 msgid "Deceased:"
-msgstr ""
+msgstr "Kuollut:"
 
 #: ../root/label/layout.tt:22 ../root/label/layout.tt:29
 #, perl-format
@@ -2445,27 +2445,27 @@ msgstr "Poista"
 #: ../root/admin/delete_user.tt:14
 #, perl-format
 msgid "Delete Account"
-msgstr ""
+msgstr "Poista käyttäjätunnus"
 
 #: ../root/admin/delete_user.tt:2 ../root/user/profile/layout.tt:39
 #, perl-format
 msgid "Delete User"
-msgstr ""
+msgstr "Poista käyttäjä"
 
 #: ../root/admin/delete_user.tt:23
 #, perl-format
 msgid "Delete my account"
-msgstr ""
+msgstr "Poista käyttäjätunnukseni"
 
 #: ../root/admin/delete_user.tt:8
 #, perl-format
 msgid "Delete {e}"
-msgstr ""
+msgstr "Poista {e}"
 
 #: ../root/doc/edit_type.tt:22
 #, perl-format
 msgid "Description"
-msgstr ""
+msgstr "Kuvaus"
 
 #: ../root/edit/details/add_relationship_attribute.tt:7
 #: ../root/edit/details/add_relationship_type.tt:8
@@ -2480,7 +2480,7 @@ msgstr ""
 #: ../root/url/index.tt:10
 #, perl-format
 msgid "Description:"
-msgstr ""
+msgstr "Kuvaus:"
 
 #: ../root/artist/details.tt:1 ../root/artist/details.tt:2
 #: ../root/artist/header.tt:1 ../root/doc/edit_type.tt:27
@@ -2764,7 +2764,7 @@ msgstr ""
 #: ../root/collection/edit.tt:1
 #, perl-format
 msgid "Edit Collection"
-msgstr ""
+msgstr "Muokkaa kokoelmaa"
 
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
@@ -2789,7 +2789,7 @@ msgstr ""
 #: ../root/edit/not_found.tt:1 ../root/edit/not_found.tt:2
 #, perl-format
 msgid "Edit Not Found"
-msgstr ""
+msgstr "Muokkausta ei löytynyt"
 
 #: ../root/forms/edit-note.tt:2
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:80
@@ -2802,7 +2802,7 @@ msgstr "Muokkausmerkintä"
 #: ../root/layout/menu.tt:7
 #, perl-format
 msgid "Edit Profile"
-msgstr ""
+msgstr "Muokkaa profiilia"
 
 #: ../root/recording/edit_annotation.tt:1
 #, perl-format
@@ -2813,7 +2813,7 @@ msgstr "Muokkaa äänitteen lisätietoja"
 #: ../root/edit/relationship/edit.tt:13 ../root/edit/relationship/edit.tt:15
 #, perl-format
 msgid "Edit Relationship"
-msgstr ""
+msgstr "Muokkaa suhdetta"
 
 #: ../root/relationship/linkattributetype/edit.tt:1
 #: ../root/relationship/linkattributetype/edit.tt:3
@@ -2855,7 +2855,7 @@ msgstr "Muokkaa julkaisuryhmän lisätietoja"
 #: ../root/release/edit/layout.tt:2
 #, perl-format
 msgid "Edit Release: {name}"
-msgstr ""
+msgstr "Muokkaa julkaisua {name}"
 
 #: ../root/doc/edit_types.tt:1 ../root/doc/edit_types.tt:3
 #: ../root/doc/edit_type.tt:17 ../root/edit/info.tt:59
@@ -2873,17 +2873,17 @@ msgstr "Muokkaa URL-osoitetta"
 #: ../root/user/profile/layout.tt:27
 #, perl-format
 msgid "Edit User"
-msgstr ""
+msgstr "Muokkaa käyttäjää"
 
 #: ../root/work/edit.tt:15
 #, perl-format
 msgid "Edit Work"
-msgstr ""
+msgstr "Muokkaa teosta"
 
 #: ../root/work/edit_alias.tt:1
 #, perl-format
 msgid "Edit Work Alias"
-msgstr ""
+msgstr "Muokkaa teoksen aliasta"
 
 #: ../root/work/edit_annotation.tt:1
 #, perl-format
@@ -2939,7 +2939,7 @@ msgstr "Muokkausmerkinnät"
 #: ../root/admin/edit_user.tt:30
 #, perl-format
 msgid "Edit profile"
-msgstr ""
+msgstr "Muokkaa profiilia"
 
 #: ../root/recording/edit.tt:32
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
@@ -2965,7 +2965,7 @@ msgstr "Muokkaa julkaisuryhmän lisätietoja"
 #: ../root/admin/edit_user.tt:40
 #, perl-format
 msgid "Edit user"
-msgstr ""
+msgstr "Muokkaa käyttäjää"
 
 #: ../root/work/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/EditAlias.pm:13
@@ -3049,12 +3049,12 @@ msgstr ""
 #: ../root/user/edits.tt:15
 #, perl-format
 msgid "Edits"
-msgstr ""
+msgstr "Muokkaukset"
 
 #: ../root/user/profile.tt:139
 #, perl-format
 msgid "Edits ({view_url|view})"
-msgstr ""
+msgstr "Muokkaukset ({view_url|näytä})"
 
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
@@ -3140,7 +3140,7 @@ msgstr ""
 #: ../root/account/lost_username_sent.tt:3
 #, perl-format
 msgid "Email Sent!"
-msgstr ""
+msgstr "Sähköposti lähetetty!"
 
 #: ../root/account/edit.tt:16 ../root/account/lost_password.tt:15
 #: ../root/account/lost_username.tt:11 ../root/account/register.tt:35
@@ -3350,17 +3350,17 @@ msgstr ""
 #: ../root/user/profile.tt:156
 #, perl-format
 msgid "Failed"
-msgstr ""
+msgstr "Epäonnistuneet"
 
 #: ../root/edit/details/remove_cover_art.tt:25 ../root/taglookup/form.tt:9
 #, perl-format
 msgid "Filename:"
-msgstr ""
+msgstr "Tiedostonimi:"
 
 #: ../root/recording/header.tt:1
 #, perl-format
 msgid "Fingerprints"
-msgstr ""
+msgstr "Äänitunnisteet"
 
 #: ../root/search/error/wrapper.tt:5
 #, perl-format
@@ -3393,7 +3393,7 @@ msgstr ""
 #: ../root/main/mirror.tt:3
 #, perl-format
 msgid "Forbidden Request"
-msgstr ""
+msgstr "Kielletty pyyntö"
 
 #: ../root/user/login.tt:39
 #, perl-format
@@ -3515,7 +3515,7 @@ msgstr ""
 #: ../root/cdtoc/info.tt:15
 #, perl-format
 msgid "FreeDB:"
-msgstr ""
+msgstr "FreeDB:"
 
 #: ../root/edit/details/historic/move_disc_id.tt:8
 #: ../root/edit/details/move_disc_id.tt:8
@@ -3526,7 +3526,7 @@ msgstr ""
 #: ../root/cdstub/index.tt:30 ../root/cdtoc/info.tt:5
 #, perl-format
 msgid "Full TOC:"
-msgstr ""
+msgstr "Täysi sisällysluettelo:"
 
 #: ../root/account/edit.tt:18 ../root/artist/edit_form.tt:42
 #: ../root/artist/index.tt:5 ../root/artist/layout.tt:12
@@ -3534,7 +3534,7 @@ msgstr ""
 #: ../root/edit/details/edit_artist.tt:28 ../root/user/profile.tt:63
 #, perl-format
 msgid "Gender:"
-msgstr ""
+msgstr "Sukupuoli:"
 
 #: ../root/user/profile.tt:12
 #, perl-format
@@ -3650,12 +3650,12 @@ msgstr "Historiallinen"
 #: ../root/user/profile.tt:86
 #, perl-format
 msgid "Homepage:"
-msgstr ""
+msgstr "Kotisivu:"
 
 #: ../root/edit/list_header.tt:27
 #, perl-format
 msgid "How editing works"
-msgstr ""
+msgstr "Miten muokkaaminen toimii"
 
 #: ../root/taglookup/nag.tt:7
 #, perl-format
@@ -3752,7 +3752,7 @@ msgstr ""
 #: ../root/edit/details/add_iswcs.tt:8
 #, perl-format
 msgid "ISWC {iswc} to {work}"
-msgstr ""
+msgstr "ISWC-tunniste {iswc} teokselle {work}"
 
 #: ../root/iswc/index.tt:1 ../root/iswc/index.tt:3
 #, perl-format
@@ -4535,7 +4535,7 @@ msgstr ""
 #: ../root/work/merge.tt:1 ../root/work/merge.tt:3
 #, perl-format
 msgid "Merge Works"
-msgstr ""
+msgstr "Yhdistä teokset"
 
 #: ../root/artist/layout.tt:97
 #, perl-format
@@ -4597,7 +4597,7 @@ msgstr ""
 #: ../root/work/layout.tt:45
 #, perl-format
 msgid "Merge work"
-msgstr ""
+msgstr "Yhdistä teos"
 
 #: ../root/edit/details/merge_common.tt:2
 #: ../root/edit/details/merge_recordings.tt:3
@@ -4754,7 +4754,7 @@ msgstr ""
 #: ../root/work/add_alias.tt:4 ../root/work/edit_alias.tt:4
 #, perl-format
 msgid "MusicBrainz uses work aliases mainly as variant names or search hints."
-msgstr ""
+msgstr "Musicbrainz käyttää teoksen aliaksia pääsääntöisesti rinnakkaisniminä tai hakuvinkkeinä. "
 
 #: ../root/layout.tt:24
 #, perl-format
@@ -5168,7 +5168,7 @@ msgstr ""
 #: ../root/tag/work.tt:1
 #, perl-format
 msgid "No works with this tag were found."
-msgstr ""
+msgstr "Tällä tunnisteella ei löytynyt teoksia."
 
 #: ../root/relationship/linktype/tree.tt:58
 #, perl-format
@@ -6687,7 +6687,7 @@ msgstr "Poista julkaisuryhmä"
 #: ../root/work/delete_alias.tt:1
 #, perl-format
 msgid "Remove Work Alias"
-msgstr ""
+msgstr "Poista teoksen alias"
 
 #: ../root/collection/delete.tt:2 ../root/collection/delete.tt:7
 #, perl-format
@@ -7700,7 +7700,7 @@ msgstr "Luokittele tämä julkaisuryhmä"
 #: ../root/work/layout.tt:29 ../root/work/tags.tt:3
 #, perl-format
 msgid "Tag this work"
-msgstr ""
+msgstr "Lisää teokselle tunniste"
 
 #: ../root/tag/header.tt:11 ../root/tag/layout.tt:1
 #, perl-format
@@ -8705,7 +8705,7 @@ msgstr ""
 #: ../root/work/tags.tt:2
 #, perl-format
 msgid "This work has no tags."
-msgstr ""
+msgstr "Tällä teoksella ei ole tunnisteita."
 
 #: ../root/cdtoc/info.tt:37 ../root/cdtoc/info.tt:39 ../root/cdtoc/info.tt:41
 #, perl-format
@@ -9649,13 +9649,13 @@ msgstr ""
 #: ../root/edit/details/remove_work.tt:3
 #, perl-format
 msgid "Work:"
-msgstr ""
+msgstr "Teos:"
 
 #: ../root/artist/header.tt:1 ../root/artist/works.tt:2
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Works"
-msgstr ""
+msgstr "Teokset:"
 
 #: ../root/browse/work.tt:8
 #, perl-format
@@ -9748,7 +9748,7 @@ msgstr ""
 msgid ""
 "You are about to add an ISWC to {work}. The ISWC must be entered in standard"
 " <code>T-DDD.DDD.DDD-C</code> format:"
-msgstr ""
+msgstr "Olet lisäämässä ISWC-tunnistetta teokseen {work}. Tämä ISWC-tunniste tulee lisätä standardissa muodossa <code>T-DDD.DDD.DDD-C</code>:"
 
 #: ../root/artist/edit_form.tt:3
 #, perl-format
@@ -10389,7 +10389,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "works"
-msgstr ""
+msgstr "teokset:"
 
 #: ../root/main/index.tt:70
 #, perl-format
@@ -10590,8 +10590,8 @@ msgstr[1] "{num} julkaisuryhmää löytynyt"
 #, perl-format
 msgid "{num} work found"
 msgid_plural "{num} works found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} teos löyty"
+msgstr[1] "{num} teosta löytyi"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
@@ -10909,7 +10909,7 @@ msgstr "TOC:n rakenne on kelpaamaton"
 
 #: ../lib/MusicBrainz/Server/Controller/Work.pm:109
 msgid "This ISWC already exists for this work"
-msgstr ""
+msgstr "Tämä ISWC-tunniste löytyy jo tälle teokselle"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:106
 msgid "No title provided"
