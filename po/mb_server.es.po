@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 11:59+0000\n"
+"PO-Revision-Date: 2012-06-03 12:53+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -5537,7 +5537,7 @@ msgstr ""
 msgid ""
 "Please consider adding this release/CD to MusicBrainz. To add this CD, "
 "please choose one of the following two methods:"
-msgstr ""
+msgstr "Puedes añadir esta publicación a MusicBrainz. Para añadir el CD, elige uno de los siguientes métodos:"
 
 #: ../root/scripts/text_strings.tt:67
 #, perl-format
@@ -5580,7 +5580,7 @@ msgstr "Primero debes ir a la página del artista que quieres relacionar  con la
 #: ../root/freedb/show.tt:48 ../root/freedb/show.tt:106
 #, perl-format
 msgid "Please login to import this FreeDB disc."
-msgstr ""
+msgstr "Debes iniciar sesión para importar este disco de FreeDB."
 
 #: ../root/release/edit/missing_entities.tt:67
 #: ../root/release/edit/missing_entities.tt:113
@@ -5649,14 +5649,14 @@ msgstr "Lee la documentación sobre el tipo de modificación {doc_remove|\"elimi
 msgid ""
 "Please review the documentation about {aliases|artist aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Consulta la {doc_remove|documentación sobre alias de artistas} antes de introducir esta edición."
 
 #: ../root/label/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|label aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Consulta la {doc_remove|documentación sobre alias de discográficas} antes de introducir esta edición."
 
 #: ../root/work/delete_alias.tt:4
 #, perl-format
@@ -5677,21 +5677,21 @@ msgstr "Lee la documentación sobre {doc|cambiar grupos de publicaciones} antes 
 msgid ""
 "Please review the {coc|MusicBrainz Code of Conduct} before creating an "
 "account."
-msgstr ""
+msgstr "Lee el {coc|código de conducta de MusicBrainz} antes de crear una cuenta."
 
 #: ../root/label/delete.tt:5
 #, perl-format
 msgid ""
 "Please review the {doc_remove|remove label edit-type} documentation before "
 "entering this edit."
-msgstr ""
+msgstr "Consulta la {doc_remove|documentación para eliminar discográficas} antes de introducir esta edición."
 
 #: ../root/recording/delete.tt:5
 #, perl-format
 msgid ""
 "Please review the {doc_remove|remove recording edit-type} documentation "
 "before entering this edit."
-msgstr ""
+msgstr "Consulta la {doc_remove|documentación para eliminar grabaciones} antes de introducir esta edición."
 
 #: ../root/release/delete.tt:4
 #, perl-format
@@ -5722,7 +5722,7 @@ msgstr "Selecciona un tipo de relación."
 msgid ""
 "Please select a subtype of the currently selected relationship type. The "
 "selected relationship type is only used for grouping subtypes."
-msgstr ""
+msgstr "Selecciona un subtipo del tipo seleccionado. Este tipo de relación solo se usa como cabecera de otros."
 
 #: ../root/edit/relationship/create_batch.tt:87
 #, perl-format
@@ -5749,7 +5749,7 @@ msgstr "Por favor, vuelve a intentarlo con un poco más de calma"
 #: ../root/components/forms.tt:185
 #, perl-format
 msgid "Please use the Guess Case button to fix common style errors."
-msgstr ""
+msgstr "Puedes usar el botón de \"Retocar títulos\" para arreglar errores habituales."
 
 #: ../root/components/forms.tt:219
 #, perl-format
@@ -5806,7 +5806,7 @@ msgstr "Discográficas que quizá estén duplicadas"
 #: ../root/cdtoc/lookup.tt:28
 #, perl-format
 msgid "Possible Mediums"
-msgstr ""
+msgstr "Medios posibles"
 
 #: ../root/relationship/linkattributetype/index.tt:18
 #, perl-format
@@ -11704,7 +11704,7 @@ msgstr "Una publicación no oficial, no autorizada por el artista ni su discogr�
 msgid ""
 "A pseudo-release is a duplicate release for translation/transliteration "
 "purposes."
-msgstr ""
+msgstr " "
 
 #: ../lib/MusicBrainz/Server/Release.pm:1343
 #, perl-brace-format
