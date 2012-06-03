@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-02 23:32+0000\n"
+"PO-Revision-Date: 2012-06-02 23:59+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -4072,7 +4072,7 @@ msgstr "Parece que estás usando Internet Explorer.<br/>Para disfrutar de la pá
 #: ../root/layout/menu.tt:124 ../root/main/index.tt:24
 #, perl-format
 msgid "Jaikoz Tagger"
-msgstr ""
+msgstr "Jaikoz (Etiquetador)"
 
 #: ../root/release/edit/layout.tt:22
 #, perl-format
@@ -4412,7 +4412,7 @@ msgstr "MBID:"
 #: ../root/layout/menu.tt:127 ../root/main/index.tt:25
 #, perl-format
 msgid "Magic MP3 Tagger"
-msgstr "Magic MP3 Tagger"
+msgstr "Magic MP3 (Etiquetador)"
 
 #: ../root/account/preferences.tt:38
 #, perl-format
@@ -10738,7 +10738,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:74
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:206
 msgid "The checksum is invalid, please double check your email."
-msgstr ""
+msgstr "La suma de verificación no es válida, comprueba tu correo de nuevo."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:82
 msgid "Sorry, this email verification link has expired."
@@ -10753,7 +10753,7 @@ msgstr "No se pudo encontrar el usuario con la ID '{user_id}'."
 msgid ""
 "We were unable to send login information to your email address.  Please try again,\n"
 "             however if you continue to experience difficulty contact us at support@musicbrainz.org."
-msgstr ""
+msgstr "No hemos podido enviar la información de inicio de sesión a tu dirección de correo. Vuelve a intentarlo,\n             y si sigues teniendo problemas ponte en contacto con nosotros en support@musicbrainz.org."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:157
 msgid "There is no user with this username"
@@ -10765,7 +10765,7 @@ msgstr "No hay ningún usuario con este nombre y esta dirección de correo."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:190
 msgid "Missing one or more required parameters."
-msgstr ""
+msgstr "Falta al menos un parámetro necesario."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:198
 msgid "Sorry, this password reset link has expired."
@@ -10897,7 +10897,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Role/Annotation.pm:168
 msgid "The old and new annotation ids must be unique, positive integers."
-msgstr ""
+msgstr "Las IDs de la anotación nueva y la antigua deben ser enteros positivos únicos."
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:244
 #, perl-brace-format
@@ -10942,7 +10942,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:124
 msgid "Missing disc ID"
-msgstr ""
+msgstr "Falta la ID de disco"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:127
 msgid "Disc ID does match parsed TOC"
@@ -11068,7 +11068,7 @@ msgstr "Añadir anotación a la pista"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeArtistQuality.pm:10
 msgid "Change artist quality"
-msgstr ""
+msgstr "Cambiar calidad de artista"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeTrackArtist.pm:12
 msgid "Change track artist"
@@ -11145,18 +11145,18 @@ msgstr "Modificar URL"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MACToSAC.pm:12
 msgid "Convert release to single artist"
-msgstr ""
+msgstr "Convertir en publicación de artista único"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeLabel.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
 msgid "Merge labels"
-msgstr ""
+msgstr "Fusionar discográficas"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeRelease.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Release/Merge.pm:49
 msgid "Merge releases"
-msgstr ""
+msgstr "Fusionar publicaciones"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:18
@@ -11193,7 +11193,7 @@ msgstr "Eliminar atributo de relación"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLinkType.pm:9
 msgid "Remove link type"
-msgstr ""
+msgstr "Eliminar tipo de enlace"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
@@ -11205,7 +11205,7 @@ msgstr "Eliminar publicaciones"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists"
-msgstr ""
+msgstr "Convertir en publicación de múltiples artistas"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SetTrackLengthsFromCDTOC.pm:10
 msgid "Set track lengths"
@@ -11680,7 +11680,7 @@ msgstr "Una publicación formada por (re)mezclas de material ya publicado."
 
 #: ../lib/MusicBrainz/Server/Release.pm:89
 msgid "Any release that does not fit any of the categories above."
-msgstr ""
+msgstr "Cualquier publicación para la que no sea apropiada ninguna de las otras categorías."
 
 #: ../lib/MusicBrainz/Server/Release.pm:91
 msgid ""
