@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 15:45+0000\n"
+"PO-Revision-Date: 2012-06-03 16:59+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -8586,7 +8586,7 @@ msgid ""
 " For example, if one release is in a release group A and it's part of a "
 "multi-disc release where the next disc is in a release group B, both release"
 " groups will be listed in this report."
-msgstr ""
+msgstr "Este informe muestra grupos de publicaciones que contienen publicaciones asociadas a otras en otros grupos por relaciones de \"parte de conjunto\" o \"traducción/transliteración\". Por ejemplo, si una publicación en el grupo A es una parte de una publicación de varios discos, y el siguiente disco está en el grupo B, ambos grupos de publicaciones aparecerán aquí."
 
 #: ../root/report/releases_with_unlikely_language_script.tt:6
 #, perl-format
@@ -8620,19 +8620,19 @@ msgstr "Este informe muestra publicaciones que no tienen un alfabeto indicado."
 msgid ""
 "This report shows releases that still have Creative Commons Download "
 "relationships."
-msgstr ""
+msgstr "Este informe muestra publicaciones que aún tienen relaciones de descarga Creative Commons."
 
 #: ../root/report/part_of_set_relationships.tt:6
 #, perl-format
 msgid "This report shows releases that still have part of set relationships."
-msgstr ""
+msgstr "Este informe muestra publicaciones que aún tienen relaciones de parte de conjunto."
 
 #: ../root/report/some_formats_unset.tt:6
 #, perl-format
 msgid ""
 "This report shows releases where some of the medium formats are set, but "
 "others are unset."
-msgstr ""
+msgstr "Este informe muestra publicaciones con varios medios, en las que algunos medios tienen un formato indicado y otros no."
 
 #: ../root/report/separate_discs.tt:6
 #, perl-format
@@ -8651,7 +8651,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "This report shows releases which have catalog numbers that look like ASINs."
-msgstr ""
+msgstr "Este informe muestra publicaciones que tienen números de catálogo que parecen ASINs."
 
 #: ../root/report/released_too_early.tt:6
 #, perl-format
@@ -8660,7 +8660,7 @@ msgid ""
 "released too early to have disc IDs, where one of the medium formats didn't "
 "exist at the time the release was released or where a disc ID is attached to"
 " a medium whose format does not have disc IDs."
-msgstr ""
+msgstr "Este informe muestra publicaciones que tienen IDs de disco pese a que su fecha de publicación es demasiado antigua para tenerlas, que tienen algún medio con un formato que no existía en la fecha indicada, o que tienen una ID de disco asociada a un medio con un formato que no lo permite."
 
 #: ../root/report/featuring_releases.tt:6
 #, perl-format
@@ -8688,12 +8688,12 @@ msgstr ""
 msgid ""
 "This requires that mediums over each release have corresponding track "
 "counts."
-msgstr ""
+msgstr "Los medios de ambas publicaciones deben tener la misma cantidad de pistas."
 
 #: ../root/user/profile.tt:162
 #, perl-format
 msgid "This table shows a summary of votes cast by this editor."
-msgstr ""
+msgstr "Esta tabla muestra un resumen de los votos de este editor."
 
 #: ../root/release/merge_search.tt:4
 #, perl-format
@@ -8720,12 +8720,12 @@ msgstr ""
 #: ../root/layout/menu.tt:107
 #, perl-format
 msgid "Timeline Graph"
-msgstr ""
+msgstr "Gráfica cronológica"
 
 #: ../root/account/preferences.tt:25
 #, perl-format
 msgid "Timezone:"
-msgstr ""
+msgstr "Zona horaria:"
 
 #: ../root/artist/browse_various.tt:14 ../root/artist/index.tt:68
 #: ../root/artist/relationships.tt:14 ../root/cdstub/browse.tt:9
