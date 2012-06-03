@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 21:59+0000\n"
+"PO-Revision-Date: 2012-06-03 22:59+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -7049,7 +7049,7 @@ msgstr "Elige un disco de los resultados de la búsqueda y haz clic en \"Añadir
 msgid ""
 "Select a release to which the disc ID <code>{discid}</code>. should be moved"
 " to."
-msgstr ""
+msgstr "Elige la publicación a la que quieres mover la ID de disco <code>{discid}</code>."
 
 #: ../root/user/contact.tt:20
 #, perl-format
@@ -7101,12 +7101,12 @@ msgstr "Mostrar créditos"
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
 msgid "Show less..."
-msgstr ""
+msgstr "Mostrar menos..."
 
 #: ../root/scripts/text_strings.tt:87
 #, perl-format
 msgid "Show more..."
-msgstr ""
+msgstr "Mostrar más..."
 
 #: ../root/account/preferences.tt:33
 #, perl-format
@@ -7300,7 +7300,7 @@ msgstr "Lo sentimos, hubo un problema con tu petición."
 msgid ""
 "Sorry, we could not find a FreeDB entry with that ID. You may wish to try "
 "and {search_url|search for it} instead."
-msgstr ""
+msgstr "No hemos encontrado una entrada de FreeDB con esa ID. Puedes probar a {search_url|usar la búsqueda}."
 
 #: ../root/otherlookup/not_found.tt:4
 #, perl-format
@@ -7396,7 +7396,7 @@ msgstr "No hemos encontrado el CD TOC que has indicado."
 #: ../root/elections/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find this election."
-msgstr ""
+msgstr "No hemos encontrado esta elección"
 
 #: ../root/main/401.tt:5
 #, perl-format
@@ -7655,7 +7655,7 @@ msgstr "Etiqueta sin usar"
 #: ../root/main/index.tt:20
 #, perl-format
 msgid "Tag Your Music"
-msgstr ""
+msgstr "Etiqueta tu música"
 
 #: ../root/search/index.tt:14
 #, perl-format
@@ -7740,7 +7740,7 @@ msgstr "Etiquetas"
 #: ../root/layout/menu.tt:83
 #, perl-format
 msgid "Team"
-msgstr ""
+msgstr "Equipo"
 
 #: ../root/admin/edit_user.tt:10
 #, perl-format
@@ -7772,7 +7772,7 @@ msgstr "¡Gracias, tu dirección de correo electrónico ha sido verificada!"
 msgid ""
 "The Cover Art Archive has had a take down request in the past for this "
 "release, so we are unable to allow any more uploads."
-msgstr ""
+msgstr "El archivo de imágenes ha recibido una solicitud de bloqueo para esta publicación, así que no podemos permitir nuevas subidas."
 
 #: ../root/user/profile.tt:77
 #, perl-format
@@ -7796,7 +7796,7 @@ msgstr ""
 msgid ""
 "The artwork in the sidebar is being provided by a {relationships|URL "
 "relationship}."
-msgstr ""
+msgstr "La imagen de la barra lateral viene de una {relationship|relación con una URL}."
 
 #: ../root/scripts/text_strings.tt:64
 #, perl-format
@@ -7946,7 +7946,7 @@ msgstr ""
 msgid ""
 "The relationship type \"{type}\" can not be deleted because it is is still "
 "in use."
-msgstr ""
+msgstr "El tipo de relación \"{type}\" no puede ser borrado porque está en uso."
 
 #: ../root/search/error/internal-error.tt:3
 #, perl-format
@@ -8336,7 +8336,7 @@ msgstr "Esta discográfica no puede ser eliminada porque aún hay publicaciones,
 #: ../root/label/index.tt:12
 #, perl-format
 msgid "This label does not have any releases."
-msgstr ""
+msgstr "Esta discográfica no tiene publicaciones."
 
 #: ../root/label/edit_form.tt:55
 #, perl-format
@@ -8358,7 +8358,7 @@ msgstr "Este formato de medio no puede tener una ID de disco asociada"
 msgid ""
 "This medium has one or more discids which prevent this information from "
 "being changed."
-msgstr ""
+msgstr "Este medio tiene una o más IDs de disco que impiden que se pueda modificar esta información."
 
 #: ../root/release/merge.tt:83
 #, perl-format
@@ -8388,7 +8388,7 @@ msgstr ""
 #: ../root/release/add_cover_art.tt:9
 #, perl-format
 msgid "This page requires JavaScript."
-msgstr ""
+msgstr "Esta página require JavaScript."
 
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
@@ -8484,7 +8484,7 @@ msgid ""
 "This report lists all releases where the mediums are not continuous (e.g. "
 "there is no \"medium 2\"), or with duplicated mediums (e.g. there are two "
 "\"medium 4\"s)."
-msgstr ""
+msgstr "Este informe muestra todas las publicaciones en las que la lista de medios no es continua (p. ej., contiene los medios 1 y 3 pero no el 2) o incluye más de un medio en la misma posición (p. ej., hay dos medios 4)."
 
 #: ../root/report/tracks_with_sequence_issues.tt:6
 #, perl-format
@@ -8492,7 +8492,7 @@ msgid ""
 "This report lists all releases where the track numbers are not continuous "
 "(e.g. there is no \"track 2\"), or with duplicated track numbers (e.g. there"
 " are two \"track 4\"s)."
-msgstr ""
+msgstr "Este informe muestra todas las publicaciones en las que la lista de pistas no es continua (p. ej., contiene las pistas 1 y 3 pero no la 2) o incluye más de una pista en la misma posición (p. ej., hay dos pistas 4)."
 
 #: ../root/report/artists_that_may_be_persons.tt:6
 #, perl-format
@@ -8513,7 +8513,7 @@ msgstr "Este informe muestra artistas de tipo <em>desconocido</em> o <em>persona
 msgid ""
 "This report lists artists that may have disambiguation comments in their "
 "name, rather than the actual disambiguation comment field."
-msgstr ""
+msgstr "Este informe muestra artistas que parecen tener comentarios de disambiguación como parte del nombre, en vez de en el campo de disambiguación."
 
 #: ../root/report/possible_collaborations.tt:6
 #, perl-format
@@ -8539,7 +8539,7 @@ msgid ""
 "This report lists releases without any disc IDs that probably contain data "
 "tracks. A data track should be deleted if it is the last track of the CD and"
 " there is no disc ID."
-msgstr ""
+msgstr "Este informe muestra publicaciones sin IDs de disco que parecen incluir pistas de datos. Las pistas de datos situadas al final de los CDs deben ser eliminadas si no hay una ID de disco."
 
 #: ../root/report/asins_with_multiple_releases.tt:6
 #, perl-format
@@ -8593,7 +8593,7 @@ msgstr "Este informe muestra grupos de publicaciones que contienen publicaciones
 msgid ""
 "This report shows releases that have an unlikely combination of language and"
 " script properties, such as German and Ethiopic."
-msgstr ""
+msgstr "Este informe muestra publicaciones que tienen una combinación extraña de idioma y alfabeto, como alemán en alfabeto etíope."
 
 #: ../root/report/multiple_asins.tt:6
 #, perl-format
@@ -8645,7 +8645,7 @@ msgstr "Este informe muestra publicaciones cuyo título contiene \"(disc n)\" o 
 msgid ""
 "This report shows releases which have artwork in the Cover Ar Archive, but "
 "still have a cover art relationship (pointing to a URL)."
-msgstr ""
+msgstr "Este informe muestra publicaciones que tienen imágenes en el archivo de imágenes, pero aún tienen relaciones de \"portada\" con una URL."
 
 #: ../root/report/cat_no_looks_like_asin.tt:6
 #, perl-format
