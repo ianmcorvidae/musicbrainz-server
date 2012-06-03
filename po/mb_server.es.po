@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 13:13+0000\n"
+"PO-Revision-Date: 2012-06-03 14:58+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -6775,7 +6775,7 @@ msgstr ""
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
 msgid "Removed"
-msgstr ""
+msgstr "Eliminada"
 
 #: ../root/edit/details/merge_artists.tt:4
 #, perl-format
@@ -6796,7 +6796,7 @@ msgstr "Informar de un fallo"
 #: ../root/layout/menu.tt:248
 #, perl-format
 msgid "Report a Copyright Violation"
-msgstr ""
+msgstr "Informar de una infracción de copyright"
 
 #: ../root/layout/menu.tt:200 ../root/report/index.tt:1
 #: ../root/report/index.tt:3
@@ -6852,7 +6852,7 @@ msgstr ""
 #: ../root/relationship/linktype/form.tt:43
 #, perl-format
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: ../root/layout.tt:166
 #, perl-format
@@ -6869,7 +6869,7 @@ msgstr ""
 #: ../root/search/results-work.tt:9
 #, perl-format
 msgid "Score"
-msgstr ""
+msgstr "Puntuación"
 
 #: ../root/edit/details/add_release.tt:53
 #: ../root/edit/details/edit_release.tt:34
@@ -6877,7 +6877,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:46 ../root/release/sidebar.tt:30
 #, perl-format
 msgid "Script:"
-msgstr ""
+msgstr "Alfabeto:"
 
 #: ../root/cdtoc/attach_filter_artist.tt:10
 #: ../root/cdtoc/attach_filter_release.tt:34 ../root/cdtoc/lookup.tt:62
@@ -6889,7 +6889,7 @@ msgstr ""
 #: ../root/search/index.tt:3 ../root/taglookup/form.tt:13
 #, perl-format
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: ../root/layout/menu.tt:157
 #, perl-format
@@ -6965,7 +6965,7 @@ msgstr "Buscar grabaciones"
 msgid ""
 "Search indexes are updated every 3 hours, use the direct database search if "
 "you require up to the minute correct results."
-msgstr ""
+msgstr "Los índices de búsqueda se actualizan cada 3 horas. Si necesitas resultados inmediatos, usa la búsqueda directa."
 
 #: ../root/taglookup/results.tt:12
 #, perl-format
@@ -6973,7 +6973,7 @@ msgid ""
 "Search indexes are updated every 3 hours. If you just added the content "
 "you're looking for and you can't find it here, go to {url|the search page} "
 "and select the \"direct database search\" option."
-msgstr ""
+msgstr "Los índices de búsqueda se actualizan cada 3 horas. Si acabas de añadir el contenido que estás buscando y no lo encuentras, ve a la {url|página de búsqueda} y selecciona la opción de búsqueda directa."
 
 #: ../root/search/form.tt:20
 #, perl-format
@@ -7020,7 +7020,7 @@ msgstr "Sectores"
 #: ../root/tag/index.tt:20
 #, perl-format
 msgid "See all {num} {entity}"
-msgstr ""
+msgstr "See all {num} {entity}"
 
 #: ../root/account/edit.tt:6
 #, perl-format
@@ -7031,7 +7031,7 @@ msgstr "Mira también tus {uri|preferencias de usuario}, que incluyen tu configu
 #: ../root/relationship/linkattributetype/index.tt:21
 #, perl-format
 msgid "See the {uri|full instrument tree}."
-msgstr ""
+msgstr "Ver la {uri|lista de instrumentos completa}."
 
 #: ../root/cdtoc/attach_filter_artist.tt:35 ../root/cdtoc/move_search.tt:40
 #: ../root/release/edit/recordings.tt:329
@@ -7070,7 +7070,7 @@ msgstr "Enviar una copia a mi propia dirección de correo"
 #: ../root/account/preferences.tt:45
 #, perl-format
 msgid "Send me mails with edits to my subscriptions:"
-msgstr ""
+msgstr "Enviadme correos con las ediciones a mis suscripciones:"
 
 #: ../root/cdtoc/set_durations.tt:1 ../root/cdtoc/set_durations.tt:2
 #, perl-format
@@ -7096,7 +7096,7 @@ msgstr "Frase de enlace corta:"
 #: ../root/release/index.tt:11
 #, perl-format
 msgid "Show Credits"
-msgstr ""
+msgstr "Mostrar créditos"
 
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
@@ -7131,13 +7131,13 @@ msgstr "Mostrando publicaciones de múltiples artistas. {show_subset|Mostrar pub
 #, perl-format
 msgid ""
 "Showing all recordings. {show_sa|Show only standalone recordings instead}."
-msgstr ""
+msgstr "Mostrando todas las grabaciones. {show_sa|Mostrar solo grabaciones independientes}."
 
 #: ../root/artist/recordings.tt:20
 #, perl-format
 msgid ""
 "Showing only standalone recordings. {show_all|Show all recordings instead}."
-msgstr ""
+msgstr "Mostrando solo grabaciones independientes. {show_all|Mostrar todas las grabaciones}."
 
 #: ../root/artist/index.tt:122
 #, perl-format
@@ -7168,7 +7168,7 @@ msgstr "Publicaciones similares"
 #: ../root/main/rate_limited.tt:1 ../root/main/rate_limited.tt:3
 #, perl-format
 msgid "Slow Down!"
-msgstr ""
+msgstr "¡Más lento!"
 
 #: ../root/scripts/text_strings.tt:77
 #, perl-format
@@ -7185,7 +7185,7 @@ msgstr "Contrato social"
 msgid ""
 "Some FreeDB results may not be immediately available since they are only "
 "able to be updated after FreeDB's monthly database export."
-msgstr ""
+msgstr "Puede que algunos resultados de FreeDB no estén disponibles, ya que solo pueden actualizarse tras la exportación mensual de la base de datos de FreeDB."
 
 #: ../root/scripts/text_strings.tt:31
 #, perl-format
@@ -7204,7 +7204,7 @@ msgstr "Algunas pistas han cambiado, selecciona una grabación para ellas."
 msgid ""
 "Sorry, <code>{discid}</code> does not match a CD stub. You can try  "
 "{search_url|searching for it} instead."
-msgstr ""
+msgstr "No hay ningún esbozo de CD que coincida con <code>{discid}</code>. Puedes probar a  {search_url|buscarlo}."
 
 #: ../root/cdstub/error.tt:19
 #, perl-format
@@ -7222,7 +7222,7 @@ msgid ""
 "Sorry, but your query \"(<code>query</code>)\" did not match any {type}. "
 "Please check you used the correct spelling.  Sometimes searching for fewer "
 "or different words may also help."
-msgstr ""
+msgstr "No hay {type} que coincidan con tu búsqueda \"(<code>query</code>)\". Asegúrate de que la has escrito correctamente. A veces es mejor buscar menos palabras."
 
 #: ../root/search/error/general.tt:3
 #, perl-format
@@ -7235,7 +7235,7 @@ msgstr "No hemos podido realizar tu búsqueda (<code>{query}</code>) por un erro
 #, perl-format
 msgid ""
 "Sorry, but your requests are exceeding the allowable rate limit ({rlinfo})."
-msgstr ""
+msgstr "Tus peticiones están superando los límites permitidos ({rlinfo})."
 
 #: ../root/main/404.tt:8
 #, perl-format
@@ -7307,7 +7307,7 @@ msgstr ""
 msgid ""
 "Sorry, we could not find a MusicBrainz entity with that MusicBrainz ID. You "
 "may wish to try and {search_url|search for it} instead."
-msgstr ""
+msgstr "No hemos podido encontrar una entidad con esa ID en MusicBrainz. Puedes probar con {search_url|una búsqueda}."
 
 #: ../root/url/not_found.tt:4
 #, perl-format
@@ -7406,14 +7406,14 @@ msgstr "Lo sentimos, no tienes permiso para ver esta página."
 #: ../root/main/mirror.tt:5
 #, perl-format
 msgid "Sorry, you are unable to perform that action on a mirror server."
-msgstr ""
+msgstr "No puedes hacer eso en un servidor espejo."
 
 #: ../root/recording/cannot_add.tt:2
 #, perl-format
 msgid ""
 "Sorry, you must have been a member for at least 2 weeks and have 10 accepted"
 " non-auto-edits before you may add standalone recordings"
-msgstr ""
+msgstr "Aún no puedes añadir grabaciones independientes: es necesario que tu cuenta tenga al menos 2 semanas, y que al menos 10 de tus ediciones (que no sean autoediciones) hayan sido aceptadas."
 
 #: ../root/search/error/no-info.tt:3
 #, perl-format
@@ -7427,29 +7427,29 @@ msgstr ""
 #: ../root/search/error/uri-too-large.tt:3
 #, perl-format
 msgid "Sorry, your query was too large."
-msgstr ""
+msgstr "Tu búsqueda es demasiado grande."
 
 #: ../root/doc/bare_error.tt:5 ../root/doc/error.tt:11
 #, perl-format
 msgid "Sorry, “{id}” is not a valid documentation page."
-msgstr ""
+msgstr "“{id}” no es una página de documentación válida."
 
 #: ../root/components/forms.tt:222
 #: ../root/search/lib/inline-results-artist.tt:8
 #: ../root/search/results-label.tt:11
 #, perl-format
 msgid "Sort Name"
-msgstr ""
+msgstr "Nombre de ordenación"
 
 #: ../root/release/edit/missing_entities.tt:17
 #, perl-format
 msgid "Sort Name:"
-msgstr ""
+msgstr "Nombre de ordenación:"
 
 #: ../root/components/aliases.tt:7 ../root/report/duplicate_artists.tt:21
 #, perl-format
 msgid "Sort name"
-msgstr ""
+msgstr "Nombre de ordenación"
 
 #: ../root/alias/edit_form.tt:5 ../root/artist/edit_form.tt:39
 #: ../root/artist/layout.tt:6 ../root/edit/details/add_artist_alias.tt:12
@@ -7468,27 +7468,27 @@ msgstr ""
 #: ../root/label/layout.tt:6
 #, perl-format
 msgid "Sort name:"
-msgstr ""
+msgstr "Nombre de ordenación:"
 
 #: ../root/artist/split.tt:15
 #, perl-format
 msgid "Split Artist"
-msgstr ""
+msgstr "Separar artista"
 
 #: ../root/artist/cannot_split.tt:2 ../root/artist/split.tt:20
 #, perl-format
 msgid "Split Into Separate Artists"
-msgstr ""
+msgstr "Separar en varios artistas"
 
 #: ../root/artist/layout.tt:91
 #, perl-format
 msgid "Split into separate artists"
-msgstr ""
+msgstr "Separar en varios artistas"
 
 #: ../root/layout/menu.tt:80
 #, perl-format
 msgid "Sponsors"
-msgstr ""
+msgstr "Patrocinadores"
 
 #: ../root/main/500.tt:19
 #, perl-format
@@ -7498,12 +7498,12 @@ msgstr ""
 #: ../root/cdtoc/info.tt:32
 #, perl-format
 msgid "Start"
-msgstr ""
+msgstr "Inicio"
 
 #: ../root/elections/index.tt:11
 #, perl-format
 msgid "Start date"
-msgstr ""
+msgstr "Fecha de inicio"
 
 #: ../root/browse/page_selector.tt:57
 #, perl-format
@@ -7533,7 +7533,7 @@ msgstr "Estatus:"
 #: ../root/watch/list.tt:28
 #, perl-format
 msgid "Stop watching selected artists"
-msgstr ""
+msgstr "Dejar de seguir a los artistas seleccionados"
 
 #: ../root/layout/menu.tt:212
 #, perl-format
@@ -7548,7 +7548,7 @@ msgstr "Convenciones de estilo"
 #: ../root/user/contact.tt:8
 #, perl-format
 msgid "Subject:"
-msgstr ""
+msgstr "Asunto:"
 
 #: ../root/cdstub/edit.tt:72
 #, perl-format
@@ -7563,7 +7563,7 @@ msgstr ""
 #: ../root/edit/list.tt:81
 #, perl-format
 msgid "Submit votes & edit notes"
-msgstr ""
+msgstr "Enviar votos y notas"
 
 #: ../root/artist/layout.tt:128 ../root/label/layout.tt:98
 #, perl-format
@@ -7583,17 +7583,17 @@ msgstr "Suscribirse a este artista."
 #: ../root/artist/subscribe.tt:1 ../root/label/subscriptions.tt:1
 #, perl-format
 msgid "Subscribed Editors"
-msgstr ""
+msgstr "Suscripciones a editores"
 
 #: ../root/edit/list_header.tt:15
 #, perl-format
 msgid "Subscribed editors"
-msgstr ""
+msgstr "Suscripciones a editores"
 
 #: ../root/edit/list_header.tt:13
 #, perl-format
 msgid "Subscribed entities"
-msgstr ""
+msgstr "Suscripciones a entidades"
 
 #: ../root/artist/layout.tt:130 ../root/artist/subscribers.tt:1
 #: ../root/artist/subscribers.tt:2 ../root/label/layout.tt:100
@@ -7623,7 +7623,7 @@ msgstr ""
 #: ../root/edit/details/add_release_annotation.tt:30
 #, perl-format
 msgid "Summary:"
-msgstr ""
+msgstr "Resumen"
 
 #: ../root/main/503.tt:1 ../root/main/503.tt:3
 #, perl-format
@@ -7777,7 +7777,7 @@ msgstr ""
 #: ../root/user/profile.tt:77
 #, perl-format
 msgid "The Dawn of the Project"
-msgstr ""
+msgstr "los inicios del proyecto"
 
 #: ../root/release/edit/information.tt:178
 #, perl-format
@@ -7994,12 +7994,12 @@ msgstr "¡Los usuarios son los que permiten que MusicBrainz exista, y apreciamos
 #: ../root/watch/list.tt:4
 #, perl-format
 msgid "The watch artist feature is currently not active."
-msgstr ""
+msgstr "La opción de seguimiento de artistas no está activa."
 
 #: ../root/edit/edit_header.tt:25
 #, perl-format
 msgid "Their vote: "
-msgstr ""
+msgstr "Su voto: "
 
 #: ../root/cdtoc/lookup.tt:11
 #, perl-format
@@ -8007,7 +8007,7 @@ msgid ""
 "There are currently no discs in MusicBrainz associated with the information "
 "you provided. You can search for the disc you are looking for using the "
 "forms below, or you may add a new release to MusicBrainz"
-msgstr ""
+msgstr "No hay ningún disco en MusicBrainz asociado a la información que has suministrado. Puedes buscar el disco con el formulario de debajo, o añadir una nueva publicación a MusicBrainz."
 
 #: ../root/user/subscribers.tt:23
 #, perl-format
@@ -8037,7 +8037,7 @@ msgstr "No hay IDs de disco asociadas a esta publicación."
 #: ../root/artist/subscribe.tt:11
 #, perl-format
 msgid "There are no editors currently subscribed to this artist."
-msgstr ""
+msgstr "Ningún editor está suscrito a este artista."
 
 #: ../root/artist/split.tt:24
 #, perl-format
@@ -8046,12 +8046,12 @@ msgid ""
 " {name}. If you are trying to remove {name}, please remove all existing "
 "{rel_uri|relationships} instead, which will allow ModBot to automatically "
 "remove this artist in the upcoming days."
-msgstr ""
+msgstr "No hay grabaciones, grupos de publicaciones, publicaciones o pistas acreditadas solo a {name}. Si estás intentando eliminar {name}, elimina todas las {rel_uri|relaciones}, lo que permitirá a ModBot eliminarlo automáticamente en unos días."
 
 #: ../root/label/subscriptions.tt:11
 #, perl-format
 msgid "There are no users currently subscribed to this Label."
-msgstr ""
+msgstr "Ningún editor está suscrito a esta discográfica."
 
 #: ../root/edit/relationship/cannot_create.tt:3
 #, perl-format
