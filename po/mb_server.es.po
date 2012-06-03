@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 14:58+0000\n"
+"PO-Revision-Date: 2012-06-03 15:45+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -1153,7 +1153,7 @@ msgstr "¿Seguro que quieres cancelar la edición #{n}? ¡No podrás recuperarla
 msgid ""
 "Are you sure you wish to remove <strong>{page}</strong> from the "
 "transclusion table?"
-msgstr "¿Estás seguro de que deseas eliminar <strong>{page}</strong> de la tabla de inclusión?"
+msgstr "¿Estás seguro de que deseas eliminar <strong>{page}</strong> de la tabla de transclusión?"
 
 #: ../root/relationship/linkattributetype/delete.tt:6
 #, perl-format
@@ -5972,7 +5972,7 @@ msgstr ""
 msgid ""
 "Read the {doc|WikiDocs} documentation for an overview of how transclusion "
 "works."
-msgstr "Lee la documentación de {doc|WikiDocs} para saber cómo funciona la inclusión en la tabla de documentos."
+msgstr "Lee la documentación de {doc|WikiDocs} para saber cómo funciona la transclusión."
 
 #: ../root/components/common-macros.tt:473 ../root/edit/search_macros.tt:280
 #: ../root/report/isrc_with_many_recordings.tt:17
@@ -7558,7 +7558,7 @@ msgstr "Enviar"
 #: ../root/cdtoc/lookup.tt:104
 #, perl-format
 msgid "Submit this CD using the simple method."
-msgstr ""
+msgstr "Enviar este CD usando el método simple."
 
 #: ../root/edit/list.tt:81
 #, perl-format
@@ -7823,30 +7823,30 @@ msgstr "Este código de barras no es un código EAN válido."
 #: ../root/scripts/text_strings.tt:66
 #, perl-format
 msgid "The barcode you entered is not a valid UPC or EAN code."
-msgstr ""
+msgstr "El código de barras introducido no es un UPC o EAN válido."
 
 #: ../root/scripts/text_strings.tt:61
 #, perl-format
 msgid ""
 "The barcode you entered looks like a UPC code with the check digit missing."
-msgstr ""
+msgstr "El código de barras introducido parece un UPC sin el dígito de control."
 
 #: ../root/release/edit/information.tt:146
 #, perl-format
 msgid "The catalog number you have entered looks like an Amazon ASIN."
-msgstr ""
+msgstr "El número de catálogo introducido parece una ASIN de Amazon."
 
 #: ../root/scripts/text_strings.tt:68
 #, perl-format
 msgid "The checkdigit is #checkdigit#."
-msgstr ""
+msgstr "El dígito de control es #checkdigit#."
 
 #: ../root/release/edit/information.tt:189
 #, perl-format
 msgid ""
 "The comment field is used to help users distinguish between identically "
 "named releases."
-msgstr ""
+msgstr "El comentario se utiliza para ayudar a los usuarios a diferenciar publicaciones similares."
 
 #: ../root/edit/details/merge_releases.tt:52
 #, perl-format
@@ -7870,37 +7870,37 @@ msgstr "La base de datos no tiene etiquetas."
 #: ../root/user/profile.tt:79
 #, perl-format
 msgid "The early days of the project"
-msgstr ""
+msgstr "Los primeros días del proyecto"
 
 #: ../root/edit/cannot_approve.tt:6
 #, perl-format
 msgid "The edit has already been closed."
-msgstr ""
+msgstr "La edición ya está cerrada"
 
 #: ../root/edit/cannot_approve.tt:8
 #, perl-format
 msgid "The edit has been cancelled."
-msgstr ""
+msgstr "La edición ha sido cancelada."
 
 #: ../root/user/privileged.tt:41
 #, perl-format
 msgid "The following {count} user accounts are bots:"
-msgstr ""
+msgstr "Las siguientes {count} cuentas son bots:"
 
 #: ../root/user/privileged.tt:31
 #, perl-format
 msgid "The following {count} users are relationship editors:"
-msgstr ""
+msgstr "Los siguientes {count} usuarios son editores de relaciones."
 
 #: ../root/user/privileged.tt:37
 #, perl-format
 msgid "The following {count} users are transclusion editors:"
-msgstr ""
+msgstr "Los siguientes {count} usuarios son editores de transclusión."
 
 #: ../root/user/privileged.tt:23
 #, perl-format
 msgid "The following {count} users have auto-editor privileges:"
-msgstr ""
+msgstr "Los siguientes {count} usuarios tienen privilegios de autoeditor:"
 
 #: ../root/layout.tt:97
 #, perl-format
@@ -7918,7 +7918,7 @@ msgstr ""
 #: ../root/main/403.tt:5
 #, perl-format
 msgid "The page you requested is private."
-msgstr ""
+msgstr "La página que has solicitado es privada."
 
 #: ../root/release/edit/information.tt:181
 #, perl-format
@@ -8399,12 +8399,12 @@ msgstr ""
 #, perl-format
 msgid ""
 "This recording cannot be removed because it is still on use in tracklists."
-msgstr ""
+msgstr "No se puede eliminar esta grabación porque sigue asociada a listas de pistas."
 
 #: ../root/recording/fingerprints.tt:87
 #, perl-format
 msgid "This recording does not have any associated AcoustIDs"
-msgstr ""
+msgstr "Esta grabación no está asociada a ningúna AcoustID."
 
 #: ../root/recording/fingerprints.tt:43
 #, perl-format
@@ -8426,7 +8426,7 @@ msgstr "Esta relación ha finalizado."
 #: ../root/release/edit/information.tt:100
 #, perl-format
 msgid "This release does not have a barcode"
-msgstr ""
+msgstr "Esta publicación no tiene código de barras"
 
 #: ../root/release_group/delete.tt:17
 #, perl-format
@@ -8450,14 +8450,14 @@ msgstr "Esta publicación no tiene etiquetas."
 msgid ""
 "This report aims to identify artists with very similar names, which might "
 "indicate that the artists need to be merged."
-msgstr ""
+msgstr "Este informe intenta identificar artistas con nombres muy similares, que quizá necesiten ser fusionados."
 
 #: ../root/report/tracks_named_with_sequence.tt:6
 #, perl-format
 msgid ""
 "This report aims to identify releases where track names include their own "
 "track number, e.g. \"1) Some Name\" (instead of just \"Some Name\")."
-msgstr ""
+msgstr "Este informe intenta identificar publicaciones en las que los títulos de pista incluyen su número, como \"1) Título\" en vez de simplemente \"Título\"."
 
 #: ../root/report/releases_to_convert.tt:7
 #, perl-format
@@ -8471,7 +8471,7 @@ msgstr "Este informe intenta identificar publicaciones que deben ser asignadas a
 msgid ""
 "This report does not show similarly named artists, if all artists have "
 "disambiguation comments."
-msgstr ""
+msgstr "El informe no muestra artistas con nombres similares si todos ellos tienen comentarios de disambiguación."
 
 #: ../root/report/isrc_with_many_recordings.tt:6
 #, perl-format
@@ -8499,14 +8499,14 @@ msgstr ""
 msgid ""
 "This report lists artists that are <em>unknown</em> or <em>group</em>, but "
 "may be <em>person</em>, based on all relationships except \"collaboration\"."
-msgstr ""
+msgstr "Este informe muestra artistas de tipo <em>desconocido</em> o <em>grupo</em>, pero que podrían ser <em>persona</em>, según sus relaciones (salvo \"colaboración\")."
 
 #: ../root/report/artists_that_may_be_groups.tt:6
 #, perl-format
 msgid ""
 "This report lists artists that are <em>unknown</em> or <em>person</em>, but "
 "may be <em>group</em>, based on band \"is member of\" relationships."
-msgstr ""
+msgstr "Este informe muestra artistas de tipo <em>desconocido</em> o <em>persona</em>, pero que podrían ser <em>grupo</em>, debido a sus relaciones de \"miembro de\"."
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:6
 #, perl-format
@@ -8521,7 +8521,7 @@ msgid ""
 "This report lists artists which have \"&\" in their names but no member or "
 "collaboration relationships, and might need to be turned into artist "
 "credits."
-msgstr ""
+msgstr "Este informe muestra artistas que tienen \"&\" en el nombre, pero ninguna relación de colaboración ni miembros, y pueden necesitar ser separados."
 
 #: ../root/report/collaboration_relationships.tt:4
 #, perl-format
@@ -8531,7 +8531,7 @@ msgid ""
 "weren't because the artist names weren't all found in the collaboration "
 "name, not all of the artists were linked or the collaboration artist had "
 "other relationships. "
-msgstr ""
+msgstr "Este informe muestra artistas que tienen relaciones de colaboración, pero ninguna URL. Muchas colaboraciones han sido separadas automáticamente; las aquí indicadas no lo fueron porque los nombres de los colaboradores no eran parte del nombre del artista, no todos los artistas estaban enlazados o el artista tenía otras relaciones. "
 
 #: ../root/report/superfluous_data_tracks.tt:6
 #, perl-format
@@ -8544,18 +8544,18 @@ msgstr ""
 #: ../root/report/asins_with_multiple_releases.tt:6
 #, perl-format
 msgid "This report shows Amazon URLs which are linked to multiple releases."
-msgstr ""
+msgstr "Este informe muestra URLs de Amazon asociadas a más de una publicación."
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:6
 #, perl-format
 msgid ""
 "This report shows Discogs URLs which are linked to multiple release groups."
-msgstr ""
+msgstr "Este informe muestra URLs de Discogs asociadas a más de un grupo de publicaciones."
 
 #: ../root/report/discogs_links_with_multiple_releases.tt:6
 #, perl-format
 msgid "This report shows Discogs URLs which are linked to multiple releases."
-msgstr ""
+msgstr "Este informe muestra URLs de Discogs asociadas a más de una publicación."
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:6
 #, perl-format
@@ -8566,12 +8566,12 @@ msgstr "Este informe muestra grabaciones que aún tienen la relación \"primera 
 #: ../root/report/featuring_recordings.tt:6
 #, perl-format
 msgid "This report shows recordings with (feat. Artist) in the title."
-msgstr ""
+msgstr "Este informe muestra grabaciones cuyo título include (feat. Artista)."
 
 #: ../root/report/featuring_release_groups.tt:6
 #, perl-format
 msgid "This report shows release groups with (feat. Artist) in the title."
-msgstr ""
+msgstr "Este informe muestra grupos de publicación cuyo título include (feat. Artista)."
 
 #: ../root/report/empty_release_groups.tt:6
 #, perl-format
@@ -8608,12 +8608,12 @@ msgstr "Este informe muestra publicaciones con más de un enlace a Discogs."
 #: ../root/report/releases_without_language.tt:6
 #, perl-format
 msgid "This report shows releases that have no language set."
-msgstr ""
+msgstr "Este informe muestra publicaciones que no tienen un idioma indicado."
 
 #: ../root/report/releases_without_script.tt:6
 #, perl-format
 msgid "This report shows releases that have no script set."
-msgstr ""
+msgstr "Este informe muestra publicaciones que no tienen un alfabeto indicado."
 
 #: ../root/report/releases_with_cc_links.tt:6
 #, perl-format
@@ -8665,7 +8665,7 @@ msgstr ""
 #: ../root/report/featuring_releases.tt:6
 #, perl-format
 msgid "This report shows releases with (feat. Artist) in the title."
-msgstr ""
+msgstr "Este informe muestra publicaciones cuyo título include (feat. Artista)."
 
 #: ../root/report/bad_amazon_urls.tt:6
 #, perl-format
@@ -8974,24 +8974,24 @@ msgstr ""
 #: ../root/admin/wikidoc/index.tt:52 ../root/admin/wikidoc/index.tt:54
 #, perl-format
 msgid "Transclusion Table"
-msgstr ""
+msgstr "Tabla de transclusión"
 
 #: ../root/admin/edit_user.tt:7
 #, perl-format
 msgid "Transclusion editor"
-msgstr ""
+msgstr "Editor de transclusión"
 
 #: ../root/user/privileged.tt:34
 #, perl-format
 msgid "Transclusion editors"
-msgstr ""
+msgstr "Editores de transclusión"
 
 #: ../root/user/privileged.tt:35
 #, perl-format
 msgid ""
 "Transclusion editors are users who add and maintain entries in the "
 "{uri|WikiDocs} transclusion table."
-msgstr ""
+msgstr "Los editores de transclusión añaden y mantienen las entradas en la tabla de transclusión de {uri|WikiDocs}."
 
 #: ../root/report/index.tt:54
 #, perl-format
@@ -9324,7 +9324,7 @@ msgstr ""
 #: ../root/admin/wikidoc/index.tt:63
 #, perl-format
 msgid "View transclusion history"
-msgstr ""
+msgstr "Ver historial de transclusión"
 
 #: ../root/elections/show.tt:109
 #, perl-format
@@ -10481,7 +10481,7 @@ msgstr ""
 #: ../root/user/profile.tt:44
 #, perl-format
 msgid "{doc|Transclusion Editor}"
-msgstr ""
+msgstr "{doc|Editor de transclusión}"
 
 #: ../root/edit/require_note.tt:4
 #, perl-format
