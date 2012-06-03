@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 09:59+0000\n"
+"PO-Revision-Date: 2012-06-03 10:59+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -369,7 +369,7 @@ msgid ""
 "A CD Stub was found that matches the disc ID you provided. If the below "
 "tracklist appears correct, you may use it as a starting point as a new "
 "MusicBrainz release"
-msgstr ""
+msgstr "Hemos encontrado un esbozo de CD que coincide con la ID de disco que has suministrado. Si la lista de pistas parece correcta, puedes usarla como base para una nueva publicación de MusicBrainz"
 
 #: ../root/release/collections.tt:18
 #, perl-format
@@ -475,7 +475,7 @@ msgstr "Añadir crédito de artista"
 #: ../root/cdstub/logged_in.tt:1 ../root/cdstub/logged_in.tt:2
 #, perl-format
 msgid "Add CD Stub"
-msgstr ""
+msgstr "Añadir esbozo de CD"
 
 #: ../root/release/add_cover_art.tt:5 ../root/release/add_cover_art.tt:6
 #: ../root/release/cover_art.tt:49
@@ -546,7 +546,7 @@ msgstr "Añadir grupo de publicaciones"
 #: ../root/recording/create.tt:18
 #, perl-format
 msgid "Add Standalone Recording"
-msgstr ""
+msgstr "Añadir grabación independiente"
 
 #: ../root/edit/relationship/create_url.tt:15
 #: ../root/edit/relationship/create_url.tt:17
@@ -718,7 +718,7 @@ msgstr "Añadir grupo de publicaciones"
 #: ../root/report/duplicate_artists.tt:45
 #, perl-format
 msgid "Add selected artists for merging"
-msgstr ""
+msgstr "Agregar artistas seleccionados para fusionar"
 
 #: ../root/artist/recordings.tt:13 ../root/isrc/index.tt:37
 #, perl-format
@@ -734,17 +734,17 @@ msgstr "Agregar publicaciones seleccionadas para fusionar"
 #: ../root/artist/works.tt:8 ../root/iswc/index.tt:56
 #, perl-format
 msgid "Add selected works for merging"
-msgstr ""
+msgstr "Agregar obras seleccionadas para fusionar"
 
 #: ../root/release/sidebar.tt:130
 #, perl-format
 msgid "Add to my collection"
-msgstr ""
+msgstr "Añadir a mi colección"
 
 #: ../root/release/sidebar.tt:132
 #, perl-format
 msgid "Add to {collection}"
-msgstr ""
+msgstr "Añadir a {collection}"
 
 #: ../root/release/edit/tracklist.tt:454
 #, perl-format
@@ -781,22 +781,22 @@ msgstr "Añadido"
 #: ../root/cdstub/browse.tt:24
 #, perl-format
 msgid "Added {add}, last modified {lastmod}"
-msgstr ""
+msgstr "Añadido {add}, modificado {lastmod}"
 
 #: ../root/cdstub/layout.tt:7
 #, perl-format
 msgid "Added:"
-msgstr ""
+msgstr "Añadido:"
 
 #: ../root/release/sidebar.tt:29
 #, perl-format
 msgid "Additional details"
-msgstr ""
+msgstr "Detalles adicionales"
 
 #: ../root/release/edit/information.tt:104
 #, perl-format
 msgid "Additional information"
-msgstr ""
+msgstr "Información adicional"
 
 #: ../root/edit/details/add_isrcs.tt:3 ../root/edit/details/add_iswcs.tt:3
 #, perl-format
@@ -826,7 +826,7 @@ msgstr ""
 #: ../root/layout/sidebar/sidebar-affiliates.tt:7
 #, perl-format
 msgid "Affiliate links"
-msgstr ""
+msgstr "Enlaces de afiliados"
 
 #: ../root/user/profile.tt:57
 #, perl-format
@@ -911,33 +911,33 @@ msgstr "Ya caducado"
 #: ../root/release/edit/recordings.tt:358
 #, perl-format
 msgid "Also update the recording with track changes"
-msgstr ""
+msgstr "Aplicar los cambios de la pista a la grabación"
 
 #: ../root/search/results-artist.tt:7
 #, perl-format
 msgid "Alternatively, you may {uri|add a new artist}."
-msgstr ""
+msgstr "O puedes {uri|añadir un artista nuevo}."
 
 #: ../root/search/results-label.tt:44
 #, perl-format
 msgid "Alternatively, you may {uri|add a new label}."
-msgstr ""
+msgstr "O puedes {uri|añadir una discográfica nueva}."
 
 #: ../root/search/results-recording.tt:7
 #, perl-format
 msgid "Alternatively, you may {uri|add a new recording}."
-msgstr ""
+msgstr "O puedes {uri|añadir una grabación nueva}."
 
 #: ../root/search/results-release_group.tt:30
 #: ../root/search/results-release-group.tt:30
 #, perl-format
 msgid "Alternatively, you may {uri|add a new release group}."
-msgstr ""
+msgstr "O puedes {uri|añadir un grupo de publicaciones nuevo}."
 
 #: ../root/search/results-work.tt:58
 #, perl-format
 msgid "Alternatively, you may {uri|add a new work}."
-msgstr ""
+msgstr "O puedes {uri|añadir una obra nueva}."
 
 #: ../root/report/asins_with_multiple_releases.tt:1
 #: ../root/report/asins_with_multiple_releases.tt:3
@@ -963,7 +963,7 @@ msgstr[1] "{n} usuarios anónimos"
 msgid ""
 "An error occured while creating your account.  Make sure javascript and "
 "cookies are enabled in your browser."
-msgstr ""
+msgstr "Hubo un error al crear tu cuenta.  Comprueba que tienes javascript y las cookies habilitados en tu navegador."
 
 #: ../root/edit/index.tt:21 ../root/edit/list.tt:68
 #: ../root/release/edit/editnote.tt:27
@@ -1040,7 +1040,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:9
 #, perl-format
 msgid "Appearances"
-msgstr ""
+msgstr "Apariciones"
 
 #: ../root/recording/index.tt:3 ../root/tracklist/index.tt:23
 #, perl-format
@@ -1462,7 +1462,7 @@ msgstr[1] ""
 #: ../root/cdtoc/attach_filter_release.tt:68
 #, perl-format
 msgid "Attach CD TOC"
-msgstr ""
+msgstr "Asociar CD TOC"
 
 #: ../root/cdtoc/lookup.tt:51
 #, perl-format
@@ -1525,7 +1525,7 @@ msgstr "Los autoeditores son usuarios de confianza a los que se les han dado {ur
 #: ../root/user/profile.tt:148
 #, perl-format
 msgid "Auto-edits"
-msgstr ""
+msgstr "Autoediciones"
 
 #: ../root/account/preferences.tt:50
 #, perl-format
@@ -1586,7 +1586,7 @@ msgstr "Código de barras:"
 msgid ""
 "Based on the above CD stub, we also found the following releases in "
 "MusicBrainz that may be related:"
-msgstr ""
+msgstr "Hemos encontrado las siguientes publicaciones en MusicBrainz que podrían estar relacionadas con el esbozo de CD de arriba:"
 
 #: ../root/release/edit/duplicates.tt:13
 #, perl-format
@@ -1625,7 +1625,7 @@ msgid ""
 "review entered data to create the most accurate music database on the "
 "internet. If this appeals to you, please {reg|create an account} or "
 "{login_url|login}."
-msgstr ""
+msgstr "Únete a MusicBrainz creando una cuenta, y consulta {how|cómo enviar información a MusicBrainz}. Descubre cómo los usuarios comprueban los datos para crear la base de datos sobre música online más precisa. Si te interesa, {reg|crea una cuenta} o {login_url|inicia sesión}."
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/scripts/text_strings.tt:71
@@ -1786,7 +1786,7 @@ msgstr "Navegar por obras"
 #: ../root/layout.tt:164
 #, perl-format
 msgid "Bug Tracker"
-msgstr ""
+msgstr "Seg. de fallos"
 
 #: ../root/release/lookup.tt:1
 #, perl-format
@@ -1865,7 +1865,7 @@ msgstr "Los esbozos de CD son una opción que permite a un usuario anónimo envi
 #: ../root/doc/edit_type.tt:65
 #, perl-format
 msgid "Can be approved"
-msgstr ""
+msgstr "Puede ser aprobada"
 
 #: ../root/artist/merge.tt:22 ../root/components/common-macros.tt:498
 #: ../root/components/filter-form.tt:23 ../root/elections/nominate.tt:10
@@ -1890,7 +1890,7 @@ msgstr "Cancelar edición"
 #: ../root/components/common-macros.tt:444
 #, perl-format
 msgid "Cancel creating relationship with {name}"
-msgstr ""
+msgstr "Cancelar la creación de relación con {name}"
 
 #: ../root/edit/cancel.tt:24 ../root/edit/edit_header.tt:81
 #: ../root/edit/info.tt:21
@@ -1992,7 +1992,7 @@ msgstr "Cambiar"
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Change Data Quality"
-msgstr ""
+msgstr "Cambiar calidad de datos"
 
 #: ../root/account/change_password_ok.tt:1
 #: ../root/account/change_password_ok.tt:3
@@ -2012,7 +2012,7 @@ msgstr "Cambiar dirección"
 #: ../root/release/change_quality.tt:1 ../root/release/change_quality.tt:2
 #, perl-format
 msgid "Change release data quality"
-msgstr ""
+msgstr "Cambiar calidad de datos de publicación"
 
 #: ../root/release/sidebar.tt:74
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseGroup.pm:10
@@ -2071,32 +2071,32 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
 msgid "Clear artist"
-msgstr ""
+msgstr "Despejar campo"
 
 #: ../root/scripts/text_strings.tt:80
 #, perl-format
 msgid "Clear label"
-msgstr ""
+msgstr "Despejar campo"
 
 #: ../root/scripts/text_strings.tt:81
 #, perl-format
 msgid "Clear recording"
-msgstr ""
+msgstr "Despejar campo"
 
 #: ../root/scripts/text_strings.tt:82
 #, perl-format
 msgid "Clear release"
-msgstr ""
+msgstr "Despejar campo"
 
 #: ../root/scripts/text_strings.tt:83
 #, perl-format
 msgid "Clear release group"
-msgstr ""
+msgstr "Despejar campo"
 
 #: ../root/scripts/text_strings.tt:84
 #, perl-format
 msgid "Clear work"
-msgstr ""
+msgstr "Despejar campo"
 
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
@@ -2116,7 +2116,7 @@ msgstr "Cliente:"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Closed"
-msgstr ""
+msgstr "Cerrada"
 
 #: ../root/edit/info.tt:42
 #, perl-format
@@ -3064,7 +3064,7 @@ msgstr "Ediciones ({view_url|view})"
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
 msgid "Edits By Your Subscribed Editors"
-msgstr ""
+msgstr "Ediciones de editores suscritos"
 
 #: ../root/edit/subscribed.tt:15 ../root/edit/subscribed.tt:17
 #, perl-format
@@ -3184,7 +3184,7 @@ msgstr ""
 #: ../root/elections/index.tt:12
 #, perl-format
 msgid "End date"
-msgstr ""
+msgstr "Fecha de fin"
 
 #: ../root/alias/edit_form.tt:22 ../root/artist/edit_form.tt:53
 #: ../root/edit/details/add_artist_alias.tt:42
@@ -3250,7 +3250,7 @@ msgstr ""
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
 msgid "Entity Not Found"
-msgstr ""
+msgstr "Entidad no encontrada"
 
 #: ../root/report/not_available.tt:1 ../root/report/not_available.tt:3
 #, perl-format
@@ -3293,7 +3293,7 @@ msgstr "¡Incluso un enlace o dos son de gran ayuda!"
 #: ../root/release/edit/tracklist.tt:173
 #, perl-format
 msgid "Existing tracklist"
-msgstr ""
+msgstr "Lista de pistas actual"
 
 #: ../root/release/edit/tracklist.tt:249
 #, perl-format
@@ -10785,7 +10785,7 @@ msgid ""
 "<strong>We were unable to send a confirmation email to you.</strong><br/>Please confirm that you have entered a valid\n"
 "             address by editing your {settings|account settings}. If the problem still persists, please contact us at\n"
 "             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
-msgstr ""
+msgstr "<strong>No hemos podido enviarte un correo de confirmación.</strong><br/>Comprueba que has introducido una dirección válida\n             en tus {settings|preferencias de cuenta}. Si el problema no se soluciona, ponte en contacto con nosotros en\n             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:475
 #, perl-brace-format
@@ -10893,7 +10893,7 @@ msgstr "Esta publicación ya está en el grupo de publicaciones seleccionado"
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:635
 msgid ""
 "This merge strategy is not applicable to the releases you have selected."
-msgstr ""
+msgstr "Esta estrategia de fusión no puede aplicarse a las publicaciones seleccionadas"
 
 #: ../lib/MusicBrainz/Server/Controller/Role/Annotation.pm:168
 msgid "The old and new annotation ids must be unique, positive integers."
@@ -10946,7 +10946,7 @@ msgstr "Falta la ID de disco"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:127
 msgid "Disc ID does match parsed TOC"
-msgstr ""
+msgstr "La ID de disco no coincide con el TOC"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:130
 msgid "Number of submitted tracks does not match track count in TOC"
@@ -11375,15 +11375,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/DiscID.pm:12
 msgid "This is not a valid disc ID"
-msgstr ""
+msgstr "Esta ID de disco no es válida"
 
 #: ../lib/MusicBrainz/Server/Form/Field/FreeDBID.pm:12
 msgid "This is not a valid FreeDB ID"
-msgstr ""
+msgstr "Esta ID de FreeDB no es válida"
 
 #: ../lib/MusicBrainz/Server/Form/Field/GID.pm:12
 msgid "This is not a valid MBID"
-msgstr ""
+msgstr "Esta MBID no es válida"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid "This is not a valid ISRC"
@@ -11396,7 +11396,7 @@ msgstr "Este no es un ISWC válido"
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
-msgstr ""
+msgstr "Los códigos de discográfica deben ser superiores a 0, y tener un máximo de 5 dígitos"
 
 #: ../lib/MusicBrainz/Server/Form/Field/Length.pm:25
 msgid "Not a valid time. Must be in the format MM:SS"
@@ -11408,7 +11408,7 @@ msgstr "Introduce una URL válida (como \"http://google.com/\")"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
-msgstr ""
+msgstr "El protocolo de las URL debe ser HTTP, HTTPS o FTP"
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
@@ -11416,11 +11416,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:61
 msgid "Another medium is already in this position"
-msgstr ""
+msgstr "Ya hay un medio en esta posición"
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:64
 msgid "Positions must be greater than 0"
-msgstr ""
+msgstr "Las posiciones deben de ser superiores a 0"
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
@@ -11428,13 +11428,13 @@ msgstr "Debes incluir una nota para añadir una grabación independiente"
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:13
 msgid "Link type is required"
-msgstr ""
+msgstr "Es necesario indicar el tipo de relación"
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:88
 msgid ""
 "This relationship type is used to group other relationships. Please select a"
 " subtype of the currently selected relationship type."
-msgstr ""
+msgstr "Este tipo de relación solo se usa como cabecera de otros. Selecciona un subtipo del tipo seleccionado."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:95
 msgid "This relationship type is deprecated."
@@ -11442,16 +11442,16 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:115
 msgid "This attribute is not supported for the selected relationship type."
-msgstr ""
+msgstr "El tipo de relación seleccionado no permite este atributo."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:126
 msgid "This attribute is required."
-msgstr ""
+msgstr "Este atributo es necesario."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:131
 #, perl-brace-format
 msgid "This attribute can only be specified {max} times. You specified {n}."
-msgstr ""
+msgstr "Este atributo solo puede indicarse {max} veces, y lo has hecho {n}."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/EditNote.pm:27
 msgid ""
@@ -11463,7 +11463,7 @@ msgstr "Debes incluir una nota al añadir una publicación. Un enlace a una pág
 msgid ""
 "This barcode is invalid, please check that you've correctly entered the "
 "barcode."
-msgstr ""
+msgstr "Este código de barras no es válido, comprueba que lo has introducido correctamente."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:67
 msgid ""
@@ -11473,7 +11473,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:60
 msgid "New tracklisting contains an empty track"
-msgstr ""
+msgstr "La nueva lista de pistas incluye una pista vacía"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:65
 #, perl-brace-format
