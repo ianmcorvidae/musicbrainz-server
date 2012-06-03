@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 01:59+0000\n"
+"PO-Revision-Date: 2012-06-03 02:12+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -1146,7 +1146,7 @@ msgstr "¿Seguro que quieres eliminar la ID de disco <code>{discid}</code> de la
 #: ../root/edit/cancel.tt:3
 #, perl-format
 msgid "Are you sure you wish to cancel edit #{n}? This cannot be undone!"
-msgstr "¿Seguro que quieres cancelar la modificación #{n}? ¡No podrás recuperarla más tarde!"
+msgstr "¿Seguro que quieres cancelar la edición #{n}? ¡No podrás recuperarla más tarde!"
 
 #: ../root/admin/wikidoc/delete.tt:4
 #, perl-format
@@ -4077,7 +4077,7 @@ msgstr "Jaikoz (Etiquetador)"
 #: ../root/release/edit/layout.tt:22
 #, perl-format
 msgid "Javascript needs to be enabled to edit releases."
-msgstr "Es necesario habilitar Javascript para poder modificar publicaciones."
+msgstr "Es necesario habilitar Javascript para poder editar publicaciones."
 
 #: ../root/recording/edit.tt:35 ../root/release_group/create.tt:18
 #: ../root/release_group/edit.tt:24 ../root/work/create.tt:18
@@ -5313,7 +5313,7 @@ msgstr "Solo el usuario que haya creado una edición puede cancelarla; o bien no
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
 msgid "Only {doc|auto-editors} can approve an edit."
-msgstr "Sólo los {doc|autoeditores} pueden aprobar una modificación."
+msgstr "Sólo los {doc|autoeditores} pueden aprobar una edición."
 
 #: ../root/edit/search_macros.tt:84
 #, perl-format
@@ -5621,7 +5621,7 @@ msgstr "Nota:"
 msgid ""
 "Please read the guideline on {doc_merging|how to merge releases} before "
 "entering this edit."
-msgstr "Lee las convenciones sobre {doc_merging|cómo fusionar publicaciones} antes de llevar a cabo esta modificación."
+msgstr "Lee las convenciones sobre {doc_merging|cómo fusionar publicaciones} antes de llevar a cabo esta edición."
 
 #: ../root/label/edit_form.tt:2
 #, perl-format
@@ -5642,7 +5642,7 @@ msgstr "Lee las {doc_styleguide|convenciones de estilo}, e incluye debajo la inf
 msgid ""
 "Please review the documentation about the {doc_remove|remove release group "
 "edit-type}, before entering this edit"
-msgstr "Lee la documentación sobre el tipo de modificación {doc_remove|\"eliminar grupo de publicaciones\"} antes de llevar a cabo esta modificación."
+msgstr "Lee la documentación sobre el tipo de modificación {doc_remove|\"eliminar grupo de publicaciones\"} antes de llevar a cabo esta edición."
 
 #: ../root/artist/delete_alias.tt:4
 #, perl-format
@@ -5663,14 +5663,14 @@ msgstr ""
 msgid ""
 "Please review the documentation about {aliases|work aliases}, before "
 "entering this edit."
-msgstr "Lee la documentación sobre {aliases|alias de obras} antes de realizar esta modificación."
+msgstr "Lee la documentación sobre {aliases|alias de obras} antes de realizar esta edición."
 
 #: ../root/release/move_search.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {doc|changing release groups}, before "
 "entering this edit."
-msgstr "Lee la documentación sobre {doc|cambiar grupos de publicaciones} antes de llevar a cabo esta modificación."
+msgstr "Lee la documentación sobre {doc|cambiar grupos de publicaciones} antes de llevar a cabo esta edición."
 
 #: ../root/account/register.tt:40
 #, perl-format
@@ -5698,7 +5698,7 @@ msgstr ""
 msgid ""
 "Please review the {doc_remove|remove release edit-type} documentation before"
 " entering this edit."
-msgstr "Lee la documentación sobre el tipo de modificación {doc_remove|\"eliminar publicación\"} antes de llevar a cabo esta modificación."
+msgstr "Lee la documentación sobre el tipo de modificación {doc_remove|\"eliminar publicación\"} antes de llevar a cabo esta edición."
 
 #: ../root/cdstub/import.tt:3
 #, perl-format
@@ -5764,22 +5764,22 @@ msgstr "Por favor, espera unos minutos y vuelve a intentarlo."
 #: ../root/components/aliases.tt:67
 #, perl-format
 msgid "Please {log_in|log in} to add or edit aliases"
-msgstr "Debes {log_in|conectarte} para añadir o modificar alias"
+msgstr "Debes {log_in|conectarte} para añadir o editar alias"
 
 #: ../root/recording/fingerprints.tt:39
 #, perl-format
 msgid "Please {login_url|log in} to edit these PUIDs."
-msgstr "Debes {login_url|conectarte} para modificar estas PUIDs."
+msgstr "Debes {login_url|conectarte} para editar estas PUIDs."
 
 #: ../root/release/discids.tt:57
 #, perl-format
 msgid "Please {login} to edit the disc IDs for this release."
-msgstr "Debes {uri|conectarte} para modificar las IDs de disco asociadas a esta publicación"
+msgstr "Debes {uri|conectarte} para editar las IDs de disco asociadas a esta publicación"
 
 #: ../root/release/edit-links.tt:15
 #, perl-format
 msgid "Please {uri|log in} to edit this release"
-msgstr "Debes {uri|conectarte} para modificar esta publicación"
+msgstr "Debes {uri|conectarte} para editar esta publicación"
 
 #: ../root/cdtoc/list.tt:4
 #, perl-format
@@ -6172,7 +6172,7 @@ msgid ""
 "the database. If you would like to propose a new relationship, please do so "
 "through the {url|Style Council}. Relationship editors will only make changes"
 " that have been approved by the Style Council."
-msgstr "Los editores de relaciones son usuarios que pueden añadir o modificar tipos de relaciones en la base de datos. Si quieres proponer una nueva relación, por favor hazlo a través del {url|Consejo de estilo}. Los editores de relaciones sólo harán cambios que hayan sido aprobados por el Consejo de estilo."
+msgstr "Los editores de relaciones son usuarios que pueden añadir o modificar tipos de relaciones en la base de datos. Si quieres proponer una nueva relación, hazlo a través del {url|Consejo de estilo}. Los editores de relaciones sólo harán cambios que hayan sido aprobados por el Consejo de estilo."
 
 #: ../root/edit/details/add_relationship.tt:3
 #: ../root/edit/details/edit_relationship.tt:8
@@ -8012,12 +8012,12 @@ msgstr ""
 #: ../root/user/subscribers.tt:23
 #, perl-format
 msgid "There are currently no users subscribed to edits that you make."
-msgstr "No hay usuarios suscritos a tus modificaciones."
+msgstr "No hay usuarios suscritos a tus ediciones."
 
 #: ../root/user/subscribers.tt:25
 #, perl-format
 msgid "There are currently no users subscribed to edits that {user} makes."
-msgstr "No hay usuarios suscritos a las modificaciones realizadas por {user}."
+msgstr "No hay usuarios suscritos a las ediciones realizadas por {user}."
 
 #: ../root/artist/subscribers.tt:22
 #, perl-format
@@ -8079,8 +8079,8 @@ msgstr[1] "También hay {num} suscriptores anónimos."
 msgid "There is currently {num} user subscribed to edits that {user} makes:"
 msgid_plural ""
 "There are currently {num} users subscribed to edits that {user} makes:"
-msgstr[0] "Hay {num} usuario suscrito a las modificaciones realizadas por {user}."
-msgstr[1] "Hay {num} usuarios suscritos a las modificaciones realizadas por {user}."
+msgstr[0] "Hay {num} usuario suscrito a las ediciones realizadas por {user}."
+msgstr[1] "Hay {num} usuarios suscritos a las ediciones realizadas por {user}."
 
 #: ../root/artist/subscribers.tt:4
 #, perl-format
@@ -8173,12 +8173,12 @@ msgstr "Este artista no está asociado a ninguna obra."
 #: ../root/artist/index.tt:119
 #, perl-format
 msgid "This artist only has release groups by various artists."
-msgstr "Este artista solo tiene grupos de publicaciones con varios artistas"
+msgstr "Este artista solo tiene grupos de publicaciones con múltiples artistas"
 
 #: ../root/artist/releases.tt:25
 #, perl-format
 msgid "This artist only has releases by various artists."
-msgstr "Este artista solo tiene publicaciones con varios artistas"
+msgstr "Este artista solo tiene publicaciones con múltiples artistas"
 
 #: ../root/collection/tags.tt:2
 #, perl-format
@@ -8190,7 +8190,7 @@ msgstr "Esta colección no tiene etiquetas."
 msgid ""
 "This edit failed because it affected high quality data and did not receive "
 "any votes."
-msgstr "Esta modificación falló porque afectaba a datos de alta calidad y no recibió ningún voto."
+msgstr "Esta edición falló porque afectaba a datos de alta calidad y no recibió ningún voto."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
@@ -8198,7 +8198,7 @@ msgid ""
 "This edit failed because the data it was changing was modified after this "
 "edit was created. This may happen when the same edit is entered in twice; "
 "one will pass but the other will fail."
-msgstr "Esta modificación falló porque los datos que modificaba cambiaron tras su creación. Esto puede ocurrir si se introduce la misma modificación dos veces: una es aceptada, pero la otra falla."
+msgstr "Esta edición falló porque los datos que modificaba cambiaron tras su creación. Esto puede ocurrir si se introduce la misma edición dos veces: una es aceptada, pero la otra falla."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
@@ -8209,19 +8209,19 @@ msgstr ""
 #, perl-format
 msgid ""
 "This edit failed due to an internal error and may need to be entered again."
-msgstr "Esta modificación falló por un error interno, y quizá sea necesario volver a introducirla."
+msgstr "Esta edición falló por un error interno, y quizá sea necesario volver a introducirla."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid ""
 "This edit failed either because an entity it was modifying no longer exists,"
 " or the entity can not be modified in this manner anymore."
-msgstr "Esta modificación falló bien porque una de las entidades modificadas ya no existe, bien porque ya no puede ser modificada de esta forma."
+msgstr "Esta edición falló bien porque una de las entidades modificadas ya no existe, bien porque ya no puede ser modificada de esta forma."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit has been successfully applied."
-msgstr "Esta modificación ha sido aplicada con éxito."
+msgstr "Esta edición ha sido aplicada con éxito."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
@@ -8244,12 +8244,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit was cancelled."
-msgstr "Esta modificación fue cancelada."
+msgstr "Esta edición fue cancelada."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit was recently cancelled."
-msgstr "Esta modificación ha sido cancelada recientemente."
+msgstr "Esta edición ha sido cancelada recientemente."
 
 #: ../root/components/common-macros.tt:187
 #: ../lib/MusicBrainz/Server/Plugin/Diff.pm:118
@@ -8312,7 +8312,7 @@ msgstr ""
 #: ../root/user/login.tt:27
 #, perl-format
 msgid "This is a development server; all passwords have been reset to \"mb\"."
-msgstr "Este es un servidor de desarrollo; todas las contraseñas han sido cambiadas por \"mb\"."
+msgstr "Este es un servidor de desarrollo; todas las contraseñas han sido cambiadas a \"mb\"."
 
 #: ../root/annotation/common.tt:25
 #, perl-format
@@ -8464,7 +8464,7 @@ msgstr ""
 msgid ""
 "This report aims to identify releases which need converting to \"multiple "
 "artists\"."
-msgstr "Este informe intenta identificar publicaciones que deben ser asignadas a varios artistas"
+msgstr "Este informe intenta identificar publicaciones que deben ser asignadas a múltiples artistas"
 
 #: ../root/report/duplicate_artists.tt:8
 #, perl-format
@@ -8476,7 +8476,7 @@ msgstr ""
 #: ../root/report/isrc_with_many_recordings.tt:6
 #, perl-format
 msgid "This report lists ISRCs that are attached to more than one recording."
-msgstr "Este informe muesta ISRCs que están asociados a más de una grabación."
+msgstr "Este informe muestra ISRCs que están asociados a más de una grabación."
 
 #: ../root/report/mediums_with_sequence_issues.tt:6
 #, perl-format
@@ -9156,7 +9156,7 @@ msgstr "Actualizar"
 #: ../root/admin/wikidoc/edit.tt:1 ../root/admin/wikidoc/edit.tt:3
 #, perl-format
 msgid "Update Page"
-msgstr "Actualizar páginas"
+msgstr "Actualizar página"
 
 #: ../root/components/tag.tt:3
 #, perl-format
@@ -9279,7 +9279,7 @@ msgstr "Usar {doc|la sintaxis avanzada de búsqueda} en una búsqueda directa da
 #: ../root/cdstub/browse.tt:19 ../root/cdstub/layout.tt:25
 #, perl-format
 msgid "Various Artists"
-msgstr "Varios artistas"
+msgstr "Múltiples artistas"
 
 #: ../root/annotation/history.tt:10
 #, perl-format
@@ -9289,7 +9289,7 @@ msgstr ""
 #: ../root/admin/wikidoc/create.tt:9 ../root/admin/wikidoc/edit.tt:13
 #, perl-format
 msgid "Version:"
-msgstr "Versión"
+msgstr "Versión:"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:24
 #, perl-format
@@ -9344,7 +9344,7 @@ msgstr ""
 #: ../root/layout/menu.tt:197
 #, perl-format
 msgid "Vote on Edits"
-msgstr "Votar modificaciones"
+msgstr "Votar ediciones"
 
 #: ../root/edit/index.tt:31
 #, perl-format
@@ -9567,12 +9567,12 @@ msgstr "¡MusicBrainz te da la bienvenida!"
 #: ../root/account/preferences.tt:40
 #, perl-format
 msgid "When I add a note to an edit, mail me all future notes for that edit."
-msgstr "Si añado una nota a una modificación, enviadme todas las notas que se dejen en ella."
+msgstr "Si añado una nota a una edición, enviadme todas las notas que se dejen en ella."
 
 #: ../root/account/preferences.tt:42
 #, perl-format
 msgid "When I vote on an edit, mail me all future notes for that edit."
-msgstr "Si voto en una modificación, enviadme todas las notas que se dejen en ella."
+msgstr "Si voto en una edición, enviadme todas las notas que se dejen en ella."
 
 #: ../root/layout/merge-helper.tt:18
 #, perl-format
@@ -9660,7 +9660,7 @@ msgstr "Obra:"
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Works"
-msgstr "Obras:"
+msgstr "Obras"
 
 #: ../root/browse/work.tt:8
 #, perl-format
@@ -9739,7 +9739,7 @@ msgstr "Sí, esta es una discográfica diferente y sé lo que estoy haciendo."
 #: ../root/admin/wikidoc/delete.tt:9
 #, perl-format
 msgid "Yes, I'm sure"
-msgstr "Sí, estoy seguro/a."
+msgstr "Sí, seguro"
 
 #: ../root/recording/add_isrc.tt:3
 #, perl-format
@@ -9765,7 +9765,7 @@ msgstr "Vas a añadir un artista a MusicBrainz."
 msgid ""
 "You are about to enter an edit that will change the durations of tracks to "
 "match that of the below disc ID."
-msgstr "Vas a realizar una modificación que cambiará las duraciones de las pistas para que coincidan con las de la ID de disco indicada abajo."
+msgstr "Vas a realizar una edición que cambiará las duraciones de las pistas para que coincidan con las de la ID de disco indicada abajo."
 
 #: ../root/artist/merge.tt:4
 #, perl-format
@@ -9853,7 +9853,7 @@ msgstr ""
 #: ../root/edit/index.tt:63
 #, perl-format
 msgid "You are not currently able to vote on this edit. ({url|Details})"
-msgstr "En estos momentos no puedes votar en esta modificación. ({url|Detalles})"
+msgstr "En estos momentos no puedes votar en esta edición. ({url|Detalles})"
 
 #: ../root/artist/subscribers.tt:33 ../root/label/subscribers.tt:33
 #: ../root/user/subscribers.tt:38
@@ -9963,7 +9963,7 @@ msgstr ""
 msgid ""
 "You may proceed to <a href=\"{uri}\">your user profile</a>, or maybe you "
 "want to {edit|start editing}!"
-msgstr "Puedes visitar <a href=\"{uri}\">tu perfil de usuario</a>, ¡o quizá prefieras {edit|empezar a hacer modificaciones}!"
+msgstr "Puedes visitar <a href=\"{uri}\">tu perfil de usuario</a>, ¡o quizá prefieras {edit|empezar a editar MusicBrainz}!"
 
 #: ../root/edit/index.tt:79
 #, perl-format
@@ -9975,14 +9975,14 @@ msgstr "Debes estar conectado para votar."
 msgid ""
 "You must first verify your email address before being able to edit or add "
 "anything to the database."
-msgstr "Debes verificar tu dirección de correo para poder modificar la base de datos."
+msgstr "Debes verificar tu dirección de correo para poder editar la base de datos."
 
 #: ../root/account/register.tt:37
 #, perl-format
 msgid ""
 "You must provide a working email address if you wish to contribute to the "
 "database."
-msgstr "Debes introducir una dirección de correo válida si quieres contribuir en la base de datos."
+msgstr "Debes introducir una dirección de correo válida si quieres contribuir a la base de datos."
 
 #: ../root/cdtoc/remove.tt:11
 #, perl-format
@@ -10521,7 +10521,7 @@ msgstr "{link} no tiene relaciones."
 #: ../root/release_group/details.tt:9 ../root/work/details.tt:9
 #, perl-format
 msgid "{mbid|<abbr title=\"MusicBrainz Identifier\">MBID</abbr>}:"
-msgstr "{mbid|<abbr title=\"Identificador de MusicBrainz\">MBID</abbr>}:"
+msgstr "{mbid|<abbr title=\"ID de MusicBrainz\">MBID</abbr>}:"
 
 #: ../root/tag/entity-list.tt:10
 #, perl-format
@@ -10666,7 +10666,7 @@ msgstr "{user} no tiene colecciones públicas."
 #: ../root/user/ratings.tt:23
 #, perl-format
 msgid "{user} has not rated anything."
-msgstr "{user} no ha valorado nada todavía."
+msgstr "{user} aún no ha valorado nada."
 
 #: ../root/user/tag.tt:22
 #, perl-format
@@ -10676,7 +10676,7 @@ msgstr ""
 #: ../root/user/tags.tt:7
 #, perl-format
 msgid "{user} has not tagged anything."
-msgstr "{user} no ha etiquetado nada todavía."
+msgstr "{user} aún no ha etiquetado nada."
 
 #: ../root/recording/edit.tt:45
 #, perl-format
@@ -10799,7 +10799,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:637
 #, perl-brace-format
 msgid "This collaboration has been split in edit #{id}."
-msgstr "Esta colaboración ha sido separada con la modificación #{id}."
+msgstr "Esta colaboración ha sido separada con la edición #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/AutoEditorElections.pm:70
 #, perl-brace-format
@@ -10875,7 +10875,7 @@ msgstr "Este ISRC no existe"
 
 #: ../lib/MusicBrainz/Server/Controller/ISWC.pm:55
 msgid "This ISWC does not exist"
-msgstr "Este ISWC no existe."
+msgstr "Este ISWC no existe"
 
 #: ../lib/MusicBrainz/Server/Controller/Recording.pm:217
 msgid "This ISRC already exists for this recording"
