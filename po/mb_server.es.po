@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 02:12+0000\n"
+"PO-Revision-Date: 2012-06-03 08:51+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -10733,7 +10733,7 @@ msgstr "No se encuentra la hora, o está en un formato no válido."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:66
 msgid "The verification key is missing."
-msgstr ""
+msgstr "No se encuentra la clave de verificación."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:74
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:206
@@ -10813,7 +10813,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:133
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:293
 msgid "The provided CD TOC is not valid"
-msgstr ""
+msgstr "El CD TOC proporcionado no es válido"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:146
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:307
@@ -10910,7 +10910,7 @@ msgstr "No se pudo enviar tu mensaje"
 
 #: ../lib/MusicBrainz/Server/Controller/WS/2/DiscID.pm:87
 msgid "Invalid TOC"
-msgstr ""
+msgstr "TOC no válido"
 
 #: ../lib/MusicBrainz/Server/Controller/Work.pm:109
 msgid "This ISWC already exists for this work"
@@ -10938,7 +10938,7 @@ msgstr "No es posible añadir un esbozo de CD sin pistas"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:121
 msgid "Incomplete TOC data"
-msgstr ""
+msgstr "Datos del TOC incompletos"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:124
 msgid "Missing disc ID"
@@ -10950,7 +10950,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:130
 msgid "Number of submitted tracks does not match track count in TOC"
-msgstr ""
+msgstr "El número de pistas indicadas no coincide con la información del TOC"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:133
 msgid "Invalid barcode"
@@ -11076,7 +11076,7 @@ msgstr "Cambiar artista de la pista"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeWikiDoc.pm:7
 msgid "Change wikidoc"
-msgstr ""
+msgstr "Cambiar WikiDoc"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistName.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistSortname.pm:7
@@ -11213,15 +11213,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
-msgstr ""
+msgstr "Añadir medio"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Delete.pm:18
 msgid "Remove medium"
-msgstr ""
+msgstr "Eliminar medio"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Edit.pm:39
 msgid "Edit medium"
-msgstr ""
+msgstr "Editar medio"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
@@ -11298,7 +11298,7 @@ msgstr "Documentación de la wiki"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
-msgstr ""
+msgstr "Cambiar WikiDoc"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
@@ -11404,7 +11404,7 @@ msgstr "Duración no válida. El formato debe ser MM:SS"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:21
 msgid "Enter a valid url e.g. \"http://google.com/\""
-msgstr ""
+msgstr "Introduce una URL válida (como \"http://google.com/\")"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
@@ -11511,8 +11511,8 @@ msgstr "Se necesita una lista de pistas"
 #, perl-brace-format
 msgid "This medium has a Disc ID, it should have exactly {n} track."
 msgid_plural "This medium has a Disc ID, it should have exactly {n} tracks."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Este medio tiene una ID de disco; debería tener exactamente {n} pista"
+msgstr[1] "Este medio tiene una ID de disco; debería tener exactamente {n} pistas"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
@@ -11523,7 +11523,7 @@ msgstr "Falta la pista {pos}."
 msgid ""
 "This medium already has disc IDs so you may only change the format\n"
 "                       to a format that can have disc IDs"
-msgstr ""
+msgstr "Este medio ya tiene IDs de disco, así que solo se puede cambiar el formato\n                       a uno que pueda tenerlas."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:222
 msgid "A release must have at least one medium."
@@ -11644,7 +11644,7 @@ msgstr "Un single suele tener una canción principal, y a veces unas pocas canci
 msgid ""
 "An EP is an Extended Play release and often contains the letters EP in the "
 "title."
-msgstr ""
+msgstr "Un EP (Extended Play) es una publicación de duración media, cuyo título suele incluir las letras EP."
 
 #: ../lib/MusicBrainz/Server/Release.pm:82
 msgid ""
@@ -11686,7 +11686,7 @@ msgstr "Cualquier publicación para la que no sea apropiada ninguna de las otras
 msgid ""
 "Any release officially sanctioned by the artist and/or their record company."
 " (Most releases will fit into this category.)"
-msgstr ""
+msgstr "Cualquier publicación autorizada oficialmente por el artista y/o su discográfica (la mayoría de las publicaciones son oficiales)."
 
 #: ../lib/MusicBrainz/Server/Release.pm:92
 msgid ""
