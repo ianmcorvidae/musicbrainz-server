@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 20:57+0000\n"
+"PO-Revision-Date: 2012-06-03 21:59+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:38
 #, perl-format
 msgid " &ndash; ????"
-msgstr ""
+msgstr " &ndash; ????"
 
 #: ../root/account/lost_password.tt:7
 #, perl-format
@@ -40,7 +40,7 @@ msgstr " Introduce tu nombre de usuario y tu dirección de correo electrónico d
 #: ../root/work/add_iswc.tt:8
 #, perl-format
 msgid "\"C\" is a single check digit."
-msgstr ""
+msgstr "\"C\" es un dígito de control"
 
 #: ../root/recording/add_isrc.tt:8
 #, perl-format
@@ -96,12 +96,12 @@ msgstr "&#10005;"
 #: ../root/relationship/linktype/tree.tt:38
 #, perl-format
 msgid "&lt; Back to all relationship types"
-msgstr ""
+msgstr "&lt; Volver a los tipos de relación"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:29
 #, perl-format
 msgid "&ndash; {enddate}"
-msgstr ""
+msgstr "&ndash; {enddate}"
 
 #: ../root/components/tag-cloud.tt:26
 #, perl-format
@@ -111,7 +111,7 @@ msgstr "'{tag}' ha sido utilizada {num} veces"
 #: ../root/components/aliases.tt:38
 #, perl-format
 msgid "(<span class=\"comment\">primary</span>)"
-msgstr ""
+msgstr "(<span class=\"comment\">primario</span>)"
 
 #: ../root/user/profile.tt:28
 #, perl-format
@@ -499,7 +499,7 @@ msgstr "Añadir ISRC"
 #: ../root/work/layout.tt:37
 #, perl-format
 msgid "Add ISWC"
-msgstr ""
+msgstr "Añadir ISWC"
 
 #: ../root/layout/menu.tt:179 ../root/release/edit/information.tt:91
 #: ../root/release/edit/information.tt:93
@@ -593,7 +593,7 @@ msgstr "Añadir un nuevo grupo de publicaciones"
 #: ../root/account/edit.tt:44
 #, perl-format
 msgid "Add a language"
-msgstr ""
+msgstr "Añadir un idioma"
 
 #: ../root/components/aliases.tt:63
 #, perl-format
@@ -766,7 +766,7 @@ msgstr "Añadir alias a obra"
 #: ../root/components/forms.tt:114
 #, perl-format
 msgid "Add {item}"
-msgstr ""
+msgstr "Añadir {item}"
 
 #: ../root/release/edit/tracklist.tt:451
 #, perl-format
@@ -831,7 +831,7 @@ msgstr "Enlaces de afiliados"
 #: ../root/user/profile.tt:57
 #, perl-format
 msgid "Age:"
-msgstr ""
+msgstr "Edad:"
 
 #: ../root/components/aliases.tt:6
 #, perl-format
@@ -1056,7 +1056,7 @@ msgstr "Añadir medios a la publicación de destino"
 #: ../root/edit/search_macros.tt:235
 #, perl-format
 msgid "Approve"
-msgstr ""
+msgstr "Aprobar"
 
 #: ../root/edit/edit_header.tt:77 ../root/edit/info.tt:17
 #, perl-format
@@ -1180,7 +1180,7 @@ msgstr "¿Seguro que quieres eliminar el ISRC <code>{isrc}</code> de {recording}
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the ISWC <code>{iswc}</code> from {work}?"
-msgstr ""
+msgstr "¿Seguro que quieres eliminar el ISWC <code>{iswc}</code> de {work}?"
 
 #: ../root/release/remove_cover_art.tt:4
 #, perl-format
@@ -1448,8 +1448,8 @@ msgstr[1] "Asociadas con {num} grabaciones"
 #, perl-format
 msgid "Associated with {num} work"
 msgid_plural "Associated with {num} works"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Asociado a {num} obra"
+msgstr[1] "Asociado a {num} obras"
 
 #: ../root/cdtoc/attach_artist_releases.tt:22
 #: ../root/cdtoc/attach_artist_releases.tt:23
@@ -1642,7 +1642,7 @@ msgstr "Comienza"
 #: ../root/components/aliases.tt:8
 #, perl-format
 msgid "Begin Date"
-msgstr ""
+msgstr "Fecha de inicio"
 
 #: ../root/alias/edit_form.tt:21 ../root/artist/edit_form.tt:52
 #: ../root/edit/details/add_artist_alias.tt:36
@@ -1692,7 +1692,7 @@ msgstr "Biografía:"
 #: ../root/account/edit.tt:21
 #, perl-format
 msgid "Birth date:"
-msgstr ""
+msgstr "Fecha de nacimiento:"
 
 #: ../root/layout/menu.tt:113
 #, perl-format
@@ -2675,7 +2675,7 @@ msgstr "Documentación"
 #: ../root/search/results-doc.tt:1 ../root/search/results-doc.tt:3
 #, perl-format
 msgid "Documentation Search"
-msgstr ""
+msgstr "Buscar en la documentación"
 
 #: ../root/user/login.tt:12
 #, perl-format
@@ -3179,7 +3179,7 @@ msgstr "Fin"
 #: ../root/components/aliases.tt:9
 #, perl-format
 msgid "End Date"
-msgstr ""
+msgstr "Fecha de fin"
 
 #: ../root/elections/index.tt:12
 #, perl-format
@@ -3345,7 +3345,7 @@ msgstr "Enlaces externos"
 #: ../root/release/edit/information.tt:43
 #, perl-format
 msgid "Extra Types:"
-msgstr ""
+msgstr "Tipos adicionales:"
 
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:36
 #, perl-format
@@ -3691,7 +3691,7 @@ msgstr "ID"
 #: ../root/artist/edit_form.tt:44 ../root/label/edit_form.tt:45
 #, perl-format
 msgid "IPI code"
-msgstr ""
+msgstr "Código IPI"
 
 #: ../root/artist/layout.tt:47 ../root/edit/details/add_artist.tt:61
 #: ../root/edit/details/add_label.tt:68 ../root/edit/details/edit_artist.tt:49
@@ -3704,7 +3704,7 @@ msgstr "Código IPI:"
 #: ../root/edit/details/edit_label.tt:56 ../root/label/edit_form.tt:45
 #, perl-format
 msgid "IPI codes:"
-msgstr ""
+msgstr "Códigos IPI:"
 
 #: ../root/report/isrc_with_many_recordings.tt:15
 #, perl-format
@@ -3757,12 +3757,12 @@ msgstr "ISWC"
 #: ../root/edit/details/add_iswcs.tt:8
 #, perl-format
 msgid "ISWC {iswc} to {work}"
-msgstr ""
+msgstr "ISWC {iswc} a {work}"
 
 #: ../root/iswc/index.tt:1 ../root/iswc/index.tt:3
 #, perl-format
 msgid "ISWC “{iswc}”"
-msgstr ""
+msgstr "ISWC “{iswc}”"
 
 #: ../root/edit/details/add_work.tt:23 ../root/edit/details/edit_work.tt:19
 #: ../root/edit/details/remove_iswc.tt:3 ../root/otherlookup/form.tt:3
@@ -4218,12 +4218,12 @@ msgstr "Idioma: {language}, alfabeto: {script}"
 #: ../root/account/edit.tt:33
 #, perl-format
 msgid "Languages Known:"
-msgstr ""
+msgstr "Idiomas:"
 
 #: ../root/user/profile.tt:116
 #, perl-format
 msgid "Languages:"
-msgstr ""
+msgstr "Idiomas"
 
 #: ../root/user/profile.tt:174
 #, perl-format
@@ -4402,7 +4402,7 @@ msgstr "Baja"
 #: ../root/work/edit_form.tt:10 ../root/work/layout.tt:11
 #, perl-format
 msgid "Lyrics Language:"
-msgstr ""
+msgstr "Idioma de las letras"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -4662,12 +4662,12 @@ msgstr "Mover la publicación a otro grupo de publicaciones"
 #: ../root/release/edit/tracklist.tt:310
 #, perl-format
 msgid "Move track down"
-msgstr ""
+msgstr "Mover pista hacia abajo"
 
 #: ../root/release/edit/tracklist.tt:313
 #, perl-format
 msgid "Move track up"
-msgstr ""
+msgstr "Mover pista hacia arriba"
 
 #: ../root/edit/details/move_release.tt:14
 #, perl-format
@@ -4682,7 +4682,7 @@ msgstr "MusicBrainz: la enciclopedia musical libre"
 #: ../root/main/index.tt:5
 #, perl-format
 msgid "MusicBrainz Blog"
-msgstr ""
+msgstr "Blog de MusicBrainz"
 
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
@@ -4952,7 +4952,7 @@ msgstr "Nueva posición:"
 #: ../root/edit/details/reorder_cover_art.tt:22
 #, perl-format
 msgid "New positions:"
-msgstr ""
+msgstr "Nuevas posiciones:"
 
 #: ../root/edit/details/edit_medium.tt:199
 #, perl-format
@@ -5030,7 +5030,7 @@ msgstr "No se encontraron colecciones con esta etiqueta."
 #: ../root/release/sidebar.tt:5 ../root/release/sidebar.tt:11
 #, perl-format
 msgid "No cover art available."
-msgstr ""
+msgstr "No hay imágenes disponibles."
 
 #: ../root/edit/notes.tt:29
 #, perl-format
@@ -5050,12 +5050,12 @@ msgstr "No se encontraron elecciones."
 #: ../root/release/sidebar.tt:7
 #, perl-format
 msgid "No front cover image available.<br/>{all|View all artwork}."
-msgstr ""
+msgstr "Portada no disponible.<br/>{all|Ver todas las imágenes}."
 
 #: ../root/relationship/linkattributetype/instruments.tt:31
 #, perl-format
 msgid "No instruments found."
-msgstr ""
+msgstr "No se han encontrado instrumentos."
 
 #: ../root/tag/label.tt:1
 #, perl-format
@@ -5085,7 +5085,7 @@ msgstr "No se encontraron grabaciones con esta etiqueta."
 #: ../root/relationship/linkattributetype/index.tt:32
 #, perl-format
 msgid "No relationship attributes found."
-msgstr ""
+msgstr "No se han encontrado atributos de relación."
 
 #: ../root/artist/index.tt:115
 #, perl-format
@@ -5178,7 +5178,7 @@ msgstr "No se encontraron obras con esta etiqueta."
 #: ../root/relationship/linktype/tree.tt:58
 #, perl-format
 msgid "No {type0}-{type1} relationship types found."
-msgstr ""
+msgstr "No se han encontrado relaciones {type0}-{type1}."
 
 #: ../root/elections/nominate.tt:1 ../root/elections/nominate.tt:3
 #, perl-format
@@ -5268,7 +5268,7 @@ msgstr "Antigua contraseña:"
 #: ../root/edit/details/reorder_cover_art.tt:10
 #, perl-format
 msgid "Old positions:"
-msgstr ""
+msgstr "Antiguas posiciones:"
 
 #: ../root/edit/details/edit_medium.tt:198
 #, perl-format
@@ -5525,7 +5525,7 @@ msgstr ""
 msgid ""
 "Please choose a valid image. Currently the Cover Art Archive only supports "
 "JPEG files."
-msgstr ""
+msgstr "Escoge una imagen válida. Actualmente el archivo de imágenes solo admite archivos JPEG."
 
 #: ../root/scripts/text_strings.tt:44
 #, perl-format
@@ -5739,7 +5739,7 @@ msgstr ""
 #: ../root/cdtoc/attach_artist_releases.tt:26
 #, perl-format
 msgid "Please select the medium you wish to attach this CD TOC to."
-msgstr ""
+msgstr "Elige el medio al que quieres asociar este CD TOC."
 
 #: ../root/main/rate_limited.tt:6
 #, perl-format
@@ -5852,7 +5852,7 @@ msgstr "Anterior"
 #: ../root/release_group/edit_form.tt:10
 #, perl-format
 msgid "Primary Type:"
-msgstr ""
+msgstr "Tipo primario"
 
 #: ../root/edit/details/add_artist_alias.tt:24
 #: ../root/edit/details/add_label_alias.tt:24
@@ -5921,7 +5921,7 @@ msgstr "Pública"
 #: ../root/collection/header.tt:14
 #, perl-format
 msgid "Public collection by {owner}"
-msgstr ""
+msgstr "Colección pública de {owner}"
 
 #: ../root/components/search.tt:9 ../root/search/form.tt:4
 #, perl-format
@@ -5965,7 +5965,7 @@ msgstr "Valoraciones"
 #: ../root/main/index.tt:14
 #, perl-format
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Leer más &raquo;"
 
 #: ../root/admin/wikidoc/index.tt:56
 #, perl-format
@@ -6447,7 +6447,7 @@ msgstr "Publicaciones con algunos formatos sin indicar"
 #, perl-format
 msgid ""
 "Releases in the Cover Art Archive that still have cover art relationships"
-msgstr ""
+msgstr "Publicaciones en el archivo de imágenes que aún tienen relaciones de \"imagen de portada\"."
 
 #: ../root/report/index.tt:51 ../root/report/released_too_early.tt:1
 #: ../root/report/released_too_early.tt:3
@@ -6506,12 +6506,12 @@ msgstr "Publicaciones con números de catálogo que parecen ASINs"
 #: ../root/report/mediums_with_sequence_issues.tt:3
 #, perl-format
 msgid "Releases with medium number issues"
-msgstr ""
+msgstr "Publicaciones con problemas en la posición de los medios"
 
 #: ../root/report/index.tt:57
 #, perl-format
 msgid "Releases with non-sequential mediums"
-msgstr ""
+msgstr "Publicaciones con números de medio discontinuos"
 
 #: ../root/report/index.tt:48
 #, perl-format
@@ -6533,14 +6533,14 @@ msgstr "Publicaciones que contienen \"feat.\" en el título "
 #: ../root/report/tracks_with_sequence_issues.tt:3
 #, perl-format
 msgid "Releases with track number issues"
-msgstr ""
+msgstr "Publicaciones con problemas en la posición de las pistas"
 
 #: ../root/report/index.tt:58
 #: ../root/report/releases_with_unlikely_language_script.tt:1
 #: ../root/report/releases_with_unlikely_language_script.tt:3
 #, perl-format
 msgid "Releases with unlikely language/script pairs"
-msgstr ""
+msgstr "Publicaciones con combinaciones extrañas idioma/alfabeto"
 
 #: ../root/report/index.tt:39 ../root/report/releases_without_language.tt:1
 #: ../root/report/releases_without_language.tt:3
@@ -6613,7 +6613,7 @@ msgstr "Añadir un nuevo grupo de publicaciones"
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr ""
+msgstr "Eliminar imagen"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
@@ -6628,7 +6628,7 @@ msgstr "Eliminar ISRC “{isrc}”"
 #: ../root/iswc/delete.tt:1 ../root/iswc/delete.tt:3
 #, perl-format
 msgid "Remove ISWC “{iswc}”"
-msgstr ""
+msgstr "Eliminar ISWC “{iswc}”"
 
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:82
 #, perl-format
@@ -6770,7 +6770,7 @@ msgstr "Eliminar tu valoración"
 #: ../root/components/forms.tt:108 ../root/components/forms.tt:109
 #, perl-format
 msgid "Remove {item}"
-msgstr ""
+msgstr "Eliminar {item}"
 
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
@@ -6786,7 +6786,7 @@ msgstr ""
 #: ../root/release/reorder_cover_art.tt:6
 #, perl-format
 msgid "Reorder Cover Art"
-msgstr ""
+msgstr "Ordenar imágenes"
 
 #: ../root/layout/menu.tt:244
 #, perl-format
@@ -6948,7 +6948,7 @@ msgstr "Buscar un editor"
 #: ../root/cdtoc/attach_filter_artist.tt:3
 #, perl-format
 msgid "Search for an artist"
-msgstr ""
+msgstr "Buscar artista"
 
 #: ../root/edit/list_header.tt:8
 #, perl-format
@@ -6978,7 +6978,7 @@ msgstr "Los índices de búsqueda se actualizan cada 3 horas. Si acabas de añad
 #: ../root/search/form.tt:20
 #, perl-format
 msgid "Search method:"
-msgstr ""
+msgstr "Método de búsqueda:"
 
 #: ../root/cdstub/layout.tt:33
 #, perl-format
@@ -7042,7 +7042,7 @@ msgstr "Seleccionar"
 #: ../root/release/edit/tracklist.tt:99
 #, perl-format
 msgid "Select a disc from the search results below and then click \"Add Disc\"."
-msgstr ""
+msgstr "Elige un disco de los resultados de la búsqueda y haz clic en \"Añadir disco\""
 
 #: ../root/cdtoc/move_search.tt:4
 #, perl-format
@@ -9448,7 +9448,7 @@ msgstr "Lo sentimos, pero los datos de este informe no están disponibles en est
 msgid ""
 "We are unable to display history for cover art. For a current listing of "
 "cover art, please see the {coverart|releases cover art page}."
-msgstr ""
+msgstr "No podemos mostrar el historial de imágenes. Para ver una lista de las imágenes actuales, consulta la {coverart|página de imágenes}."
 
 #: ../root/release/edit/missing_entities.tt:74
 #, perl-format
@@ -9467,7 +9467,7 @@ msgstr ""
 #: ../root/release/cover_art.tt:38
 #, perl-format
 msgid "We do not currently have any cover art for {release}."
-msgstr ""
+msgstr "No tenemos ninguna imagen para {release}."
 
 #: ../root/cdtoc/lookup.tt:78
 #, perl-format
@@ -9885,7 +9885,7 @@ msgstr ""
 #: ../root/cdtoc/attach_artist_releases.tt:24
 #, perl-format
 msgid "You are viewing releases by {artist}."
-msgstr ""
+msgstr "Estás viendo las publicaciones de {artist}-"
 
 #: ../root/cdtoc/lookup.tt:98
 #, perl-format
@@ -10252,7 +10252,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:17
 #, perl-format
 msgid "newest first"
-msgstr ""
+msgstr "nuevas primero"
 
 #: ../root/user/profile.tt:51
 #, perl-format
@@ -10267,7 +10267,7 @@ msgstr "ninguno"
 #: ../root/edit/search_macros.tt:18
 #, perl-format
 msgid "oldest first"
-msgstr ""
+msgstr "antiguas primero"
 
 #: ../root/edit/search_macros.tt:153
 #, perl-format
@@ -10302,7 +10302,7 @@ msgstr[1] "y {n} colecciones privadas más"
 #: ../root/edit/search_macros.tt:19
 #, perl-format
 msgid "randomly"
-msgstr ""
+msgstr "al azar"
 
 #: ../root/release/edit/recordings.tt:191
 #: ../root/release/edit/recordings.tt:262
@@ -10353,7 +10353,7 @@ msgstr "enviar correo"
 #: ../root/cdtoc/attach_list.tt:35
 #, perl-format
 msgid "show tracklist"
-msgstr ""
+msgstr "lista de pistas"
 
 #: ../root/browse/page_selector.tt:43
 #, perl-format
@@ -10443,7 +10443,7 @@ msgstr "{begindate} &ndash; {enddate}"
 #: ../root/release/collections.tt:10
 #, perl-format
 msgid "{collection} by {owner}"
-msgstr ""
+msgstr "{collection} de {owner}"
 
 #: ../root/user/profile.tt:95
 #, perl-format
@@ -10581,8 +10581,8 @@ msgstr[1] "Encontradas {num} publicaciones"
 #, perl-format
 msgid "{num} release found matching your query."
 msgid_plural "{num} release found matching your query."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Se encontró {num} publicación."
+msgstr[1] "Se encontraron {num} publicaciones."
 
 #: ../root/tag/release_group.tt:1
 #, perl-format
@@ -10636,7 +10636,7 @@ msgstr "{type0}-{type1} Tipos de relación"
 #: ../root/relationship/linktype/tree.tt:40
 #, perl-format
 msgid "{type0}-{type1} relationship types"
-msgstr ""
+msgstr "tipos de relación {type0}-{type1}"
 
 #: ../root/work/layout.tt:1
 #, perl-format
@@ -11343,15 +11343,15 @@ msgstr "{b} y {a}"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:25
 msgid "Filter release groups"
-msgstr ""
+msgstr "Filtrar grupos de publicación"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:39
 msgid "Filter releases"
-msgstr ""
+msgstr "Filtrar publicaciones"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:53
 msgid "Filter recordings"
-msgstr ""
+msgstr "Filtrar grabaciones"
 
 #: ../lib/MusicBrainz/Server/Form/Alias.pm:82
 msgid "This alias can only be a primary alias if a locale is selected"
