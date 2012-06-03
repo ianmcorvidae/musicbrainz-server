@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 16:59+0000\n"
+"PO-Revision-Date: 2012-06-03 17:45+0000\n"
 "Last-Translator: Nicolás Tamargo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -261,12 +261,12 @@ msgstr "100%"
 #: ../root/elections/show.tt:17
 #, perl-format
 msgid "1st seconder:"
-msgstr ""
+msgstr "Primer aval:"
 
 #: ../root/elections/show.tt:20
 #, perl-format
 msgid "2nd seconder:"
-msgstr ""
+msgstr "Segundo aval:"
 
 #: ../root/admin/edit_user.tt:16
 #, perl-format
@@ -3792,7 +3792,7 @@ msgid ""
 " will be prompted to {doc_addcomment|add a disambiguation comment to this "
 "artist}, which will allow users to distinguish this entry from the other "
 "artist(s) with the same name."
-msgstr ""
+msgstr "Si ya hay uno o más artistas con el mismo nombre en la base de datos, tendrás que {doc_addcomment|añadir un comentario de disambiguación} a este artista, para que los usuarios puedan diferenciarlo de otros con el mismo nombre."
 
 #: ../root/label/edit_form.tt:3
 #, perl-format
@@ -3801,7 +3801,7 @@ msgid ""
 "will be prompted to add a {doc_comment|disambiguation comment to this label}"
 " that will allow users to distinguish this entry from the other label(s) "
 "with the same name."
-msgstr ""
+msgstr "Si ya hay una o más discográficas con el mismo nombre en la base de datos, tendrás que {doc_addcomment|añadir un comentario de disambiguación} a esta discográfica, para que los usuarios puedan diferenciarla de otras con el mismo nombre."
 
 #: ../root/main/500.tt:55
 #, perl-format
@@ -3849,7 +3849,7 @@ msgstr "Si cambias tu dirección de correo, tendrás que verificarla."
 msgid ""
 "If you continue with the current merge strategy, the following recordings "
 "will be merged:"
-msgstr ""
+msgstr "Si utilizas esta estrategia de fusión, se fusionarán también las siguientes grabaciones:"
 
 #: ../root/release/edit/information.tt:170
 #, perl-format
@@ -5530,7 +5530,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:44
 #, perl-format
 msgid "Please click lookup to search"
-msgstr ""
+msgstr "Haz click en \"Buscar\" para iniciar la búsqueda."
 
 #: ../root/cdtoc/lookup.tt:85
 #, perl-format
@@ -5593,7 +5593,7 @@ msgstr ""
 msgid ""
 "Please navigate to the pages of other entities you wish to merge and select "
 "the \"merge\" link."
-msgstr ""
+msgstr "Ve a las páginas de las demás entidades que quieras fusionar y haz clic en el enlace \"Fusionar\"."
 
 #: ../root/annotation/edit.tt:1
 #, perl-format
@@ -8705,7 +8705,7 @@ msgstr ""
 msgid ""
 "This work has no relationships and will be removed automatically in the next"
 " few days. If this is not intended, please add relationships to this work."
-msgstr ""
+msgstr "Esta obra no tiene relaciones, y será eliminada automáticamente en los próximos días. Si no quieres que sea eliminada, añade algunas relaciones."
 
 #: ../root/work/tags.tt:2
 #, perl-format
@@ -8774,26 +8774,26 @@ msgstr ""
 #: ../root/elections/show.tt:88
 #, perl-format
 msgid "To find out if you can vote for this candidate, please {url|log in}."
-msgstr ""
+msgstr "Para comprobar si puedes votar por este candidato, {url|inicia sesión}."
 
 #: ../root/watch/list.tt:36
 #, perl-format
 msgid ""
 "To watch an artist and be notified of new releases, {search_url|search} for "
 "them and select 'Watch this artist for new releases' from the sidebar."
-msgstr ""
+msgstr "Para seguir a un artista y ser informado de sus nuevas publicaciones, {search_url|búscalo} y haz clic en \"Seguir a este artista\" en la barra lateral."
 
 #: ../root/edit/details/historic/move_disc_id.tt:19
 #: ../root/edit/details/move_disc_id.tt:19
 #, perl-format
 msgid "To:"
-msgstr ""
+msgstr "A:"
 
 #: ../root/cdstub/browse.tt:1 ../root/cdstub/browse.tt:4
 #: ../root/layout/menu.tt:167
 #, perl-format
 msgid "Top CD Stubs"
-msgstr ""
+msgstr "Esbozos de CD"
 
 #: ../root/report/isrc_with_many_recordings.tt:7
 #, perl-format
@@ -8812,7 +8812,7 @@ msgstr "Artistas encontrados: {count}"
 #: ../root/report/duplicate_artists.tt:10
 #, perl-format
 msgid "Total duplicate groups: {count}"
-msgstr ""
+msgstr "Total de grupos duplicados: {count}"
 
 #: ../root/cdstub/index.tt:21 ../root/cdtoc/info.tt:23
 #, perl-format
@@ -8835,7 +8835,7 @@ msgstr "Grupos de publicaciones encontrados: {count}"
 #: ../root/report/set_in_different_rg.tt:12
 #, perl-format
 msgid "Total release groups: {count}"
-msgstr ""
+msgstr "Total de grupos de publicaciones: {count}"
 
 #: ../root/report/asins_with_multiple_releases.tt:7
 #: ../root/report/bad_amazon_urls.tt:7
@@ -8863,7 +8863,7 @@ msgstr "Publicaciones encontradas: {count}"
 #: ../root/report/tracks_with_sequence_issues.tt:9
 #, perl-format
 msgid "Total releases: {count}"
-msgstr ""
+msgstr "Total de publicaciones: {count}"
 
 #: ../root/cdstub/index.tt:17 ../root/cdtoc/info.tt:19
 #, perl-format
@@ -8906,7 +8906,7 @@ msgstr "Duración de las pistas:"
 #: ../root/release/edit/tracklist.tt:192
 #, perl-format
 msgid "Track names start with a number"
-msgstr ""
+msgstr "Los títulos de pista empiezan con un número"
 
 #: ../root/edit/details/edit_track_number.tt:13
 #: ../root/edit/details/historic/add_track_kv.tt:26
@@ -8954,7 +8954,7 @@ msgstr "Pistas"
 #: ../root/report/index.tt:65
 #, perl-format
 msgid "Tracks whose names include their sequence numbers"
-msgstr ""
+msgstr "Pistas cuyos títulos incluyen su número de pista"
 
 #: ../root/edit/details/historic/add_release.tt:44
 #, perl-format
@@ -8964,12 +8964,12 @@ msgstr "Pistas"
 #: ../root/admin/index.tt:11 ../root/layout/menu.tt:63
 #, perl-format
 msgid "Transclude WikiDocs"
-msgstr ""
+msgstr "Transcluir WikiDocs"
 
 #: ../root/admin/wikidoc/index.tt:85
 #, perl-format
 msgid "Transcluded version"
-msgstr ""
+msgstr "Versión transcluida"
 
 #: ../root/admin/wikidoc/index.tt:52 ../root/admin/wikidoc/index.tt:54
 #, perl-format
@@ -9002,7 +9002,7 @@ msgstr ""
 #: ../root/layout.tt:165
 #, perl-format
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ../root/artist/browse_various.tt:15 ../root/artist/works-list.tt:13
 #: ../root/components/aliases.tt:10 ../root/edit/search_macros.tt:280
@@ -9099,7 +9099,7 @@ msgstr "URL:"
 #: ../root/relationship/linktype/tree.tt:15
 #, perl-format
 msgid "UUID:"
-msgstr ""
+msgstr "UUID:"
 
 #: ../root/main/401.tt:1 ../root/main/401.tt:3
 #, perl-format
@@ -9126,17 +9126,17 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:32
 #, perl-format
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Desuscribirse"
 
 #: ../root/label/subscriptions.tt:21
 #, perl-format
 msgid "Unsubscribe from this Label."
-msgstr ""
+msgstr "Desuscribirse de esta discográfica."
 
 #: ../root/artist/subscribe.tt:18
 #, perl-format
 msgid "Unsubscribe from this artist."
-msgstr ""
+msgstr "Desuscribirse de este artista."
 
 #: ../root/admin/edit_user.tt:12
 #, perl-format
@@ -9187,7 +9187,7 @@ msgstr "URL"
 #: ../root/components/tags.tt:12
 #, perl-format
 msgid "Usage Count"
-msgstr ""
+msgstr "Usos"
 
 #: ../root/components/common-macros.tt:444
 #, perl-format
@@ -9204,7 +9204,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:94
 #, perl-format
 msgid "Use suggested recording"
-msgstr ""
+msgstr "Usar grabación sugerida"
 
 #: ../root/components/forms.tt:235
 #, perl-format
@@ -9216,22 +9216,22 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:233
 #, perl-format
 msgid "Use the following fields to search for a CD stub."
-msgstr ""
+msgstr "Usa los siguientes campos para buscar un esbozo de CD."
 
 #: ../root/release/edit/tracklist.tt:240
 #, perl-format
 msgid "Use the following fields to search for a FreeDB entry."
-msgstr ""
+msgstr "Usa los siguientes campos para buscar una entrada de FreeDB."
 
 #: ../root/release/edit/tracklist.tt:205
 #, perl-format
 msgid "Use the following fields to search for an existing tracklist."
-msgstr ""
+msgstr "Usa los siguientes campos para buscar una lista de pistas existente."
 
 #: ../root/admin/wikidoc/index.tt:78
 #, perl-format
 msgid "Use this button to fetch page versions from the wiki."
-msgstr ""
+msgstr "Usa este botón para actualizar la lista de versiones de la wiki."
 
 #: ../root/search/form.tt:39
 #, perl-format
@@ -9242,7 +9242,7 @@ msgstr "Usar {doc|la sintaxis avanzada de búsqueda}"
 #, perl-format
 msgid ""
 "User accounts must be more than 2 weeks old, have a confirmed email address,"
-msgstr ""
+msgstr "Las cuentas de usuario deben tener más de 2 semanas, una dirección de correo confirmada,"
 
 #: ../root/admin/edit_user.tt:5
 #, perl-format
@@ -9284,7 +9284,7 @@ msgstr "Múltiples artistas"
 #: ../root/annotation/history.tt:10
 #, perl-format
 msgid "Version History"
-msgstr ""
+msgstr "Historial de versiones"
 
 #: ../root/admin/wikidoc/create.tt:9 ../root/admin/wikidoc/edit.tt:13
 #, perl-format
@@ -9309,7 +9309,7 @@ msgstr "Ver historial de la anotación."
 #: ../root/elections/index.tt:23
 #, perl-format
 msgid "View details"
-msgstr ""
+msgstr "Ver detalles"
 
 #: ../root/admin/wikidoc/index.tt:110
 #, perl-format
@@ -9319,7 +9319,7 @@ msgstr "Ver en la wiki"
 #: ../root/annotation/history.tt:29
 #, perl-format
 msgid "View this version"
-msgstr ""
+msgstr "Ver esta versión"
 
 #: ../root/admin/wikidoc/index.tt:63
 #, perl-format
@@ -9329,17 +9329,17 @@ msgstr "Ver historial de transclusión"
 #: ../root/elections/show.tt:109
 #, perl-format
 msgid "Vote"
-msgstr ""
+msgstr "Votar"
 
 #: ../root/elections/show.tt:72
 #, perl-format
 msgid "Vote NO"
-msgstr ""
+msgstr "Votar NO"
 
 #: ../root/elections/show.tt:71
 #, perl-format
 msgid "Vote YES"
-msgstr ""
+msgstr "Votar SÍ"
 
 #: ../root/layout/menu.tt:197
 #, perl-format
@@ -9349,7 +9349,7 @@ msgstr "Votar ediciones"
 #: ../root/edit/index.tt:31
 #, perl-format
 msgid "Vote tally:"
-msgstr ""
+msgstr "Lista de votos:"
 
 #: ../root/user/profile.tt:152
 #, perl-format
@@ -9359,7 +9359,7 @@ msgstr "Rechazada"
 #: ../root/elections/show.tt:108
 #, perl-format
 msgid "Voter"
-msgstr ""
+msgstr "Votante"
 
 #: ../root/doc/edit_type.tt:49 ../root/edit/index.tt:24
 #, perl-format
@@ -9374,22 +9374,22 @@ msgstr "Votos ({view_url|ver})"
 #: ../root/elections/show.tt:33
 #, perl-format
 msgid "Votes against:"
-msgstr ""
+msgstr "Votos en contra:"
 
 #: ../root/elections/show.tt:103
 #, perl-format
 msgid "Votes cast"
-msgstr ""
+msgstr "Votos totales"
 
 #: ../root/elections/show.tt:25
 #, perl-format
 msgid "Votes for/against:"
-msgstr ""
+msgstr "Votos a favor / en contra:"
 
 #: ../root/elections/show.tt:30
 #, perl-format
 msgid "Votes for:"
-msgstr ""
+msgstr "Votos a favor:"
 
 #: ../root/elections/show.tt:55
 #, perl-format
@@ -9404,7 +9404,7 @@ msgstr "FAQ de votaciones"
 #: ../root/elections/show.tt:85
 #, perl-format
 msgid "Voting is closed."
-msgstr ""
+msgstr "La votación ha finalizado."
 
 #: ../root/elections/show.tt:83
 #, perl-format
@@ -9413,7 +9413,7 @@ msgid ""
 " second their nomination. If you do not support this candidate, please note "
 "that you cannot cast a \"No\" vote (or abstain) until two seconders have "
 "been found."
-msgstr ""
+msgstr "La votación aún no ha comenzado. Si quieres apoyar a este candidato, puedes avalar su nominación.Si no lo apoyas, ten en cuenta que no podrás votar No (o abstenerte) hasta que haya dos avales."
 
 #: ../root/doc/edit_type.tt:43
 #, perl-format
@@ -10971,7 +10971,7 @@ msgstr "relaciones {t0}-{t1}"
 
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:174
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAnnotation.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtistAnnotation.pm:7
