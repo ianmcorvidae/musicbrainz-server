@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 23:24+0000\n"
+"PO-Revision-Date: 2012-06-04 07:53+0000\n"
 "Last-Translator: Timo Martikainen <>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -1535,7 +1535,7 @@ msgstr ""
 #: ../root/browse/page_selector.tt:54
 #, perl-format
 msgid "Back"
-msgstr ""
+msgstr "Takaisin"
 
 #: ../root/elections/not_found.tt:5
 #, perl-format
@@ -1545,17 +1545,17 @@ msgstr ""
 #: ../root/elections/show.tt:5
 #, perl-format
 msgid "Back to elections"
-msgstr ""
+msgstr "Takaisin vaaleihin"
 
 #: ../root/report/bad_amazon_urls.tt:1 ../root/report/bad_amazon_urls.tt:3
 #, perl-format
 msgid "Bad Amazon URLs"
-msgstr ""
+msgstr "Virheellisiä Amazon URL-osoitteita"
 
 #: ../root/main/400.tt:1 ../root/main/400.tt:3
 #, perl-format
 msgid "Bad Request"
-msgstr ""
+msgstr "Virheellinen pyyntö"
 
 #: ../root/cdtoc/attach_artist_releases.tt:39
 #: ../root/cdtoc/attach_filter_release.tt:52 ../root/cdtoc/list.tt:12
@@ -1564,7 +1564,7 @@ msgstr ""
 #: ../root/release_group/index.tt:19 ../root/release_group/releases-list.tt:28
 #, perl-format
 msgid "Barcode"
-msgstr ""
+msgstr "Viivakoodi"
 
 #: ../root/cdstub/edit.tt:56 ../root/cdstub/layout.tt:15
 #: ../root/edit/details/add_release.tt:81
@@ -1714,7 +1714,7 @@ msgstr ""
 #: ../root/layout/menu.tt:161
 #, perl-format
 msgid "Browse"
-msgstr ""
+msgstr "Selaa"
 
 #: ../root/browse/artist.tt:1 ../root/browse/artist.tt:3
 #, perl-format
@@ -1860,7 +1860,7 @@ msgstr ""
 #: ../root/doc/edit_type.tt:65
 #, perl-format
 msgid "Can be approved"
-msgstr ""
+msgstr "Voidaan hyväksyä"
 
 #: ../root/artist/merge.tt:22 ../root/components/common-macros.tt:498
 #: ../root/components/filter-form.tt:23 ../root/elections/nominate.tt:10
@@ -1875,7 +1875,7 @@ msgstr ""
 #: ../root/work/merge.tt:19
 #, perl-format
 msgid "Cancel"
-msgstr ""
+msgstr "Peruuta"
 
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
@@ -2313,7 +2313,7 @@ msgstr "Luo käyttäjätunnus"
 #: ../root/edit/relationship/create.tt:15
 #, perl-format
 msgid "Create Relationship"
-msgstr ""
+msgstr "Luo suhde"
 
 #: ../root/release/sidebar.tt:141 ../root/user/collections.tt:36
 #, perl-format
@@ -2348,7 +2348,7 @@ msgstr "Luo kokoelma"
 #: ../root/components/common-macros.tt:499
 #, perl-format
 msgid "Create relationship"
-msgstr ""
+msgstr "Luo suhde"
 
 #: ../root/components/common-macros.tt:444
 #, perl-format
@@ -2358,7 +2358,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Created"
-msgstr ""
+msgstr "Luotu"
 
 #: ../root/report/releases_to_convert.tt:8
 #, perl-format
@@ -2375,7 +2375,7 @@ msgstr "Datan lisenssit"
 #: ../root/doc/edit_type.tt:35
 #, perl-format
 msgid "Data Quality"
-msgstr ""
+msgstr "Tiedon laatu"
 
 #: ../root/edit/details/change_artist_quality.tt:7
 #: ../root/edit/details/change_release_quality.tt:7
@@ -2384,7 +2384,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:30
 #, perl-format
 msgid "Data Quality:"
-msgstr ""
+msgstr "Tiedon laatu:"
 
 #: ../root/annotation/history.tt:9 ../root/artist/relationships.tt:13
 #: ../root/cdtoc/attach_artist_releases.tt:35
@@ -2524,13 +2524,13 @@ msgstr ""
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #, perl-format
 msgid "Died:"
-msgstr ""
+msgstr "Kuollut:"
 
 #: ../root/search/form.tt:35 ../root/search/form.tt:40
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:56
 #, perl-format
 msgid "Direct database search"
-msgstr ""
+msgstr "Suora tietokantahaku"
 
 #: ../root/cdstub/index.tt:3
 #, perl-format
@@ -2600,18 +2600,18 @@ msgstr "Levyjen tunnisteet, joissa turhia data-raitoja"
 #: ../root/release/edit/tracklist.tt:381
 #, perl-format
 msgid "Disc title"
-msgstr ""
+msgstr "Levyn nimi"
 
 #: ../root/release/edit/recordings.tt:251
 #: ../root/release/edit/tracklist.tt:354
 #, perl-format
 msgid "Disc {num}"
-msgstr ""
+msgstr "Levy {num}"
 
 #: ../root/release/edit/recordings.tt:245
 #, perl-format
 msgid "Disc {num}: {title}"
-msgstr ""
+msgstr "Levy {num}: {title}"
 
 #: ../root/artist/index.tt:46
 #, perl-format
@@ -2665,7 +2665,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:46
 #, perl-format
 msgid "Documentation"
-msgstr ""
+msgstr "Dokumentaatio"
 
 #: ../root/search/results-doc.tt:1 ../root/search/results-doc.tt:3
 #, perl-format
@@ -2691,7 +2691,7 @@ msgstr "Tarkista lahjoitukset"
 #: ../root/release/edit/tracklist.tt:160 ../root/scripts/text_strings.tt:29
 #, perl-format
 msgid "Done"
-msgstr ""
+msgstr "Valmis"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -2734,7 +2734,7 @@ msgstr "Muokkaus edit #{id}"
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Edit All"
-msgstr ""
+msgstr "Muokkaa kaikkia"
 
 #: ../root/label/edit_annotation.tt:1
 #, perl-format
@@ -2744,12 +2744,12 @@ msgstr "Muokkaa lisätietoja"
 #: ../root/artist/edit.tt:17
 #, perl-format
 msgid "Edit Artist"
-msgstr ""
+msgstr "Muokkaa artistia"
 
 #: ../root/artist/edit_alias.tt:1
 #, perl-format
 msgid "Edit Artist Alias"
-msgstr ""
+msgstr "Muokkaa artistin aliasta"
 
 #: ../root/artist/edit_annotation.tt:1
 #, perl-format
@@ -2819,23 +2819,23 @@ msgstr "Muokkaa suhdetta"
 #: ../root/relationship/linkattributetype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Attribute"
-msgstr ""
+msgstr "Muokkaa yhteyden attribuuttia"
 
 #: ../root/admin/index.tt:7
 #, perl-format
 msgid "Edit Relationship Attributes"
-msgstr ""
+msgstr "Muokkaa yhteyden attribuuttia"
 
 #: ../root/relationship/linktype/edit.tt:1
 #: ../root/relationship/linktype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Type"
-msgstr ""
+msgstr "Muokkaa yhteyden tyyppiä"
 
 #: ../root/admin/index.tt:6 ../root/layout/menu.tt:55
 #, perl-format
 msgid "Edit Relationship Types"
-msgstr ""
+msgstr "Muokkaa yhteyksien tyyppejä"
 
 #: ../root/release/edit_annotation.tt:1
 #, perl-format
@@ -2862,7 +2862,7 @@ msgstr "Muokkaa julkaisua {name}"
 #: ../root/layout/menu.tt:218
 #, perl-format
 msgid "Edit Types"
-msgstr ""
+msgstr "Muokkaa tyyppejä"
 
 #: ../root/url/edit.tt:14 ../root/url/edit.tt:15
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:22
@@ -3224,7 +3224,7 @@ msgstr ""
 #: ../root/edit/vote.tt:29
 #, perl-format
 msgid "Enter vote"
-msgstr ""
+msgstr "Äänestä"
 
 #: ../root/account/lost_username.tt:7
 #, perl-format
@@ -3250,7 +3250,7 @@ msgstr "Kohdetta ei löytynyt"
 #: ../root/report/not_available.tt:1 ../root/report/not_available.tt:3
 #, perl-format
 msgid "Error"
-msgstr ""
+msgstr "Virhe"
 
 #: ../root/edit/cannot_approve.tt:1 ../root/edit/cannot_approve.tt:2
 #: ../root/edit/require_note.tt:1 ../root/edit/require_note.tt:2
@@ -3288,12 +3288,12 @@ msgstr "Pelkästään URL-osoitteen tai parinkin antaminen helpottaa!"
 #: ../root/release/edit/tracklist.tt:173
 #, perl-format
 msgid "Existing tracklist"
-msgstr ""
+msgstr "Nykyinen kappalelista"
 
 #: ../root/release/edit/tracklist.tt:249
 #, perl-format
 msgid "Expand"
-msgstr ""
+msgstr "Laajenna"
 
 #: ../root/release/edit/tracklist.tt:361
 #, perl-format
@@ -3419,7 +3419,7 @@ msgstr ""
 #: ../root/layout/menu.tt:239 ../root/layout.tt:163
 #, perl-format
 msgid "Forums"
-msgstr ""
+msgstr "Foorumi"
 
 #: ../root/relationship/linktype/form.tt:13
 #: ../root/relationship/linktype/tree.tt:12
@@ -3485,7 +3485,7 @@ msgstr[1] ""
 #: ../root/label/layout.tt:14 ../root/scripts/text_strings.tt:73
 #, perl-format
 msgid "Founded:"
-msgstr ""
+msgstr "Perustettu:"
 
 #: ../root/freedb/not_found.tt:1 ../root/freedb/not_found.tt:2
 #, perl-format
@@ -3671,7 +3671,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:165
 #, perl-format
 msgid "I confirm that this is the barcode as it appears on the release."
-msgstr ""
+msgstr "Voin vahvistaa että viivakoodi löytyy tällaisenaan julkaisusta."
 
 #: ../root/taglookup/nag.tt:23
 #, perl-format
@@ -3693,7 +3693,7 @@ msgstr ""
 #: ../root/edit/details/edit_label.tt:52 ../root/label/layout.tt:35
 #, perl-format
 msgid "IPI code:"
-msgstr ""
+msgstr "IPI-koodi:"
 
 #: ../root/artist/edit_form.tt:44 ../root/edit/details/edit_artist.tt:53
 #: ../root/edit/details/edit_label.tt:56 ../root/label/edit_form.tt:45
@@ -3837,7 +3837,7 @@ msgstr ""
 #: ../root/account/edit.tt:7
 #, perl-format
 msgid "If you change your email address, you will be required to verify it. "
-msgstr ""
+msgstr "Jos vaihdat sähköpostiosoitettasi, joudut vahvistamaan muutoksen."
 
 #: ../root/release/merge.tt:89
 #, perl-format
