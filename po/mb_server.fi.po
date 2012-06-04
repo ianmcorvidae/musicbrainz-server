@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-04 17:56+0000\n"
+"PO-Revision-Date: 2012-06-04 18:25+0000\n"
 "Last-Translator: Jaakko Perttilä <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -500,12 +500,12 @@ msgstr "Lisää ISWC-koodi:"
 #: ../root/release/edit/information.tt:93
 #, perl-format
 msgid "Add Label"
-msgstr "Lisää levymerkki"
+msgstr "Lisää levy-yhtiö"
 
 #: ../root/label/add_alias.tt:1
 #, perl-format
 msgid "Add Label Alias"
-msgstr "Lisää levymerkin alias"
+msgstr "Lisää levy-yhtiölle alias"
 
 #: ../root/release_group/create.tt:16
 #, perl-format
@@ -578,7 +578,7 @@ msgstr "Lisää uusi kokoelma"
 #: ../root/label/create.tt:15 ../root/label/create.tt:17
 #, perl-format
 msgid "Add a New Label"
-msgstr "Lisää uusi levymerkki"
+msgstr "Lisää uusi levy-yhtiö"
 
 #: ../root/release_group/create.tt:23
 #, perl-format
@@ -678,7 +678,7 @@ msgstr "Lisää toinen artisti"
 #: ../root/release/edit/missing_entities.tt:108
 #, perl-format
 msgid "Add new label"
-msgstr "Lisää uusi levymerkki"
+msgstr "Lisää uusi levy-yhtiö"
 
 #: ../root/release/edit/recordings.tt:96
 #, perl-format
@@ -916,7 +916,7 @@ msgstr "Vaihtoehtoisesti voit {uri|lisätä uuden artistin}."
 #: ../root/search/results-label.tt:44
 #, perl-format
 msgid "Alternatively, you may {uri|add a new label}."
-msgstr "Vaihtoehtoisesti voit {uri|lisätä levymerkin}."
+msgstr "Vaihtoehtoisesti voit {uri|lisätä uuden levy-yhtiön}."
 
 #: ../root/search/results-recording.tt:7
 #, perl-format
@@ -1530,7 +1530,7 @@ msgstr ""
 #: ../root/account/preferences.tt:52
 #, perl-format
 msgid "Automatically subscribe me to labels I create."
-msgstr ""
+msgstr "Seuraa automaattisesti levy-yhtiöitä, jotka luon."
 
 #: ../root/browse/page_selector.tt:54
 #, perl-format
@@ -1724,7 +1724,7 @@ msgstr "Selaa artisteja"
 #: ../root/browse/label.tt:1 ../root/browse/label.tt:3
 #, perl-format
 msgid "Browse Labels"
-msgstr "Selaa levymerkkejä"
+msgstr "Selaa levy-yhtiöitä"
 
 #: ../root/browse/release_group.tt:1 ../root/browse/release_group.tt:3
 #, perl-format
@@ -6714,7 +6714,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/Delete.pm:12
 #, perl-format
 msgid "Remove label"
-msgstr "Poista levymerkki"
+msgstr "Poista levy-yhtiötä"
 
 #: ../root/recording/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
@@ -11081,7 +11081,7 @@ msgstr "Muokkaa artistin nimeä"
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabel.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:29
 msgid "Edit label"
-msgstr "Muokkaa levymerkkiä"
+msgstr "Muokkaa levy-yhtiötä"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLink.pm:17
 msgid "Edit relationship (historic)"
@@ -11145,7 +11145,7 @@ msgstr "Muunna julkaisu yhden artistin julkaisuksi"
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeLabel.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
 msgid "Merge labels"
-msgstr "Yhdistä levymerkit"
+msgstr "Yhdistä levy-yhtiöt"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeRelease.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
@@ -11175,7 +11175,7 @@ msgstr "Poista ISRC-koodi"
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabelAlias.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Label/DeleteAlias.pm:14
 msgid "Remove label alias"
-msgstr "Poista julkaisun alias"
+msgstr "Poista levy-yhtiön alias"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLink.pm:10
 msgid "Remove relationship (historic)"
@@ -11248,11 +11248,11 @@ msgstr "Poista suhteen tyyppi"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
-msgstr "Lisää julkaisun levymerkki"
+msgstr "Lisää julkaisun levy-yhtiö"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/DeleteReleaseLabel.pm:16
 msgid "Remove release label"
-msgstr "Poista julkaisun levymerkki"
+msgstr "Poista julkaisun levy-yhtiö"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
@@ -11273,7 +11273,7 @@ msgstr "Muokkaa viivakoodeja"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
-msgstr "Lisää julkaisun levymerkki"
+msgstr "Muokkaa julkaisun levy-yhtiötä"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
@@ -11391,7 +11391,7 @@ msgstr "Tämä ei ole kelvollinen ISWC-koodi."
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
-msgstr ""
+msgstr "Levy-yhtiö-tunnuksien tulee olla suurempia kuin nolla ja korkeintaan viisinumeroisia"
 
 #: ../lib/MusicBrainz/Server/Form/Field/Length.pm:25
 msgid "Not a valid time. Must be in the format MM:SS"
