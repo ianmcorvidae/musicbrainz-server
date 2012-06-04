@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-03 22:59+0000\n"
+"PO-Revision-Date: 2012-06-03 23:24+0000\n"
 "Last-Translator: Timo Martikainen <>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -494,7 +494,7 @@ msgstr "Lisää ISRC-koodi"
 #: ../root/work/layout.tt:37
 #, perl-format
 msgid "Add ISWC"
-msgstr ""
+msgstr "Lisää ISWC-koodi:"
 
 #: ../root/layout/menu.tt:179 ../root/release/edit/information.tt:91
 #: ../root/release/edit/information.tt:93
@@ -1051,7 +1051,7 @@ msgstr "Liitä tallenteet kohteena olevaan julkaisuun"
 #: ../root/edit/search_macros.tt:235
 #, perl-format
 msgid "Approve"
-msgstr ""
+msgstr "Keskitaso"
 
 #: ../root/edit/edit_header.tt:77 ../root/edit/info.tt:17
 #, perl-format
@@ -1175,7 +1175,7 @@ msgstr "Olet poistamassa ISRC-koodia <code>{isrc}</code> artistin {artist} ään
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the ISWC <code>{iswc}</code> from {work}?"
-msgstr "Olet poistamassa ISWC-koodin <code>{iswc}</code> teoksesta {work}."
+msgstr "Olet poistamassa ISWC-koodin<code>{iswc}</code> teoksesta {work}."
 
 #: ../root/release/remove_cover_art.tt:4
 #, perl-format
@@ -1687,7 +1687,7 @@ msgstr ""
 #: ../root/account/edit.tt:21
 #, perl-format
 msgid "Birth date:"
-msgstr ""
+msgstr "Syntymäpäivä:"
 
 #: ../root/layout/menu.tt:113
 #, perl-format
@@ -1880,7 +1880,7 @@ msgstr ""
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
 msgid "Cancel Edit"
-msgstr ""
+msgstr "Peruuta muokkaus"
 
 #: ../root/components/common-macros.tt:444
 #, perl-format
@@ -1891,12 +1891,12 @@ msgstr ""
 #: ../root/edit/info.tt:21
 #, perl-format
 msgid "Cancel edit"
-msgstr ""
+msgstr "Peruuta muokkaus"
 
 #: ../root/elections/show.tt:97
 #, perl-format
 msgid "Cancel the election"
-msgstr ""
+msgstr "Peruuta vaalit."
 
 #: ../root/artist/delete_alias.tt:17 ../root/label/delete_alias.tt:16
 #, perl-format
@@ -2680,13 +2680,13 @@ msgstr ""
 #: ../root/layout.tt:161
 #, perl-format
 msgid "Donate"
-msgstr ""
+msgstr "Lahjoita"
 
 #: ../root/account/donation.tt:1 ../root/account/donation.tt:3
 #: ../root/user/profile/layout.tt:33
 #, perl-format
 msgid "Donation Check"
-msgstr ""
+msgstr "Tarkista lahjoitukset"
 
 #: ../root/release/edit/tracklist.tt:160 ../root/scripts/text_strings.tt:29
 #, perl-format
@@ -2696,19 +2696,19 @@ msgstr ""
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Duplicate"
-msgstr ""
+msgstr "Kaksoiskappale"
 
 #: ../root/taglookup/form.tt:8
 #, perl-format
 msgid "Duration:"
-msgstr ""
+msgstr "Kesto:"
 
 #: ../root/release/edit/recordings.tt:106
 #, perl-format
 msgid ""
 "Each track in the MusicBrainz database has to be linked to a recording, "
 "choose the appropriate recording or look for it in the database."
-msgstr ""
+msgstr "MusicBrainz tietokannassa kunkin kappaleen tulee olla linkitettynä äänitteeseen. Valitse sopiva äänite tai etsi sitä tietokannasta. "
 
 #: ../root/artist/aliases.tt:31 ../root/artist/header.tt:13
 #: ../root/artist/relationships.tt:18 ../root/artist/relationships.tt:80
@@ -2724,7 +2724,7 @@ msgstr ""
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Edit"
-msgstr ""
+msgstr "Muokkaus"
 
 #: ../root/edit/index.tt:9
 #, perl-format
@@ -3704,39 +3704,39 @@ msgstr ""
 #: ../root/report/isrc_with_many_recordings.tt:15
 #, perl-format
 msgid "ISRC"
-msgstr ""
+msgstr "ISRC"
 
 #: ../root/isrc/not_found.tt:1 ../root/isrc/not_found.tt:2
 #, perl-format
 msgid "ISRC Not Currently Used"
-msgstr ""
+msgstr "ISRC-koodi ei ole parhaillaan käytössä"
 
 #: ../root/edit/details/add_isrcs.tt:8
 #, perl-format
 msgid "ISRC {isrc} to {recording}"
-msgstr ""
+msgstr "ISRC-koodi {isrc} äänitteelle {recording}"
 
 #: ../root/edit/details/add_isrcs.tt:8
 #, perl-format
 msgid "ISRC {isrc} to {recording} by {artist}"
-msgstr ""
+msgstr "ISRC-koodi {isrc} artistin {artist} äänitteelle {recording} "
 
 #: ../root/isrc/index.tt:1 ../root/isrc/index.tt:3
 #, perl-format
 msgid "ISRC “{isrc}”"
-msgstr ""
+msgstr "ISRC-koodi \"{isrc}\""
 
 #: ../root/edit/details/remove_isrc.tt:3 ../root/otherlookup/form.tt:3
 #: ../root/recording/add_isrc.tt:16 ../root/recording/layout.tt:16
 #, perl-format
 msgid "ISRC:"
-msgstr ""
+msgstr "ISRC:"
 
 #: ../root/artist/recordings-list.tt:26 ../root/report/index.tt:69
 #: ../root/search/lib/inline-results-recording.tt:10
 #, perl-format
 msgid "ISRCs"
-msgstr ""
+msgstr "ISRC-koodit"
 
 #: ../root/report/index.tt:72 ../root/report/isrc_with_many_recordings.tt:1
 #: ../root/report/isrc_with_many_recordings.tt:3
@@ -3747,24 +3747,24 @@ msgstr ""
 #: ../root/artist/works-list.tt:12 ../root/search/results-work.tt:13
 #, perl-format
 msgid "ISWC"
-msgstr ""
+msgstr "ISWC"
 
 #: ../root/edit/details/add_iswcs.tt:8
 #, perl-format
 msgid "ISWC {iswc} to {work}"
-msgstr "ISWC-tunniste {iswc} teokselle {work}"
+msgstr "ISWC-koodi{iswc} teokselle {work}"
 
 #: ../root/iswc/index.tt:1 ../root/iswc/index.tt:3
 #, perl-format
 msgid "ISWC “{iswc}”"
-msgstr ""
+msgstr "ISWC \"{iswc}\""
 
 #: ../root/edit/details/add_work.tt:23 ../root/edit/details/edit_work.tt:19
 #: ../root/edit/details/remove_iswc.tt:3 ../root/otherlookup/form.tt:3
 #: ../root/work/add_iswc.tt:12 ../root/work/layout.tt:18
 #, perl-format
 msgid "ISWC:"
-msgstr ""
+msgstr "ISWC:"
 
 #: ../root/release/edit/missing_entities.tt:71
 #, perl-format
@@ -3844,14 +3844,14 @@ msgstr ""
 msgid ""
 "If you continue with the current merge strategy, the following recordings "
 "will be merged:"
-msgstr ""
+msgstr "Jos jatkat yhdistämistä nykyisellä tavalla, seuraavat äänitteen yhdistetään: "
 
 #: ../root/release/edit/information.tt:170
 #, perl-format
 msgid ""
 "If you do not know whether the release has a barcode or not, just leave this"
 " blank."
-msgstr ""
+msgstr "Jos et tietä onko julkaisulla viivakoodia tai ei, jätä tämä tyhjäksi."
 
 #: ../root/cdtoc/attach_filter_artist.tt:41
 #, perl-format
@@ -3920,7 +3920,7 @@ msgstr ""
 msgid ""
 "If you think this is a mistake, please contact "
 "<code>support@musicbrainz.org</code> with the name of your account."
-msgstr ""
+msgstr "Jos tämä on mielestäni erehdys, osa yhteyttä osoitteeseen <code>support@musicbrainz.org</code> ja mainitse käyttäjänimesi."
 
 #: ../root/tag/not_found.tt:7
 #, perl-format
@@ -3932,7 +3932,7 @@ msgstr "Mikäli aiot käyttää tätä luokitusta, {url|etsi} kohde ensin ja lis
 #: ../root/account/edit.tt:83
 #, perl-format
 msgid "If you would like to delete your account, you may {uri|do so here}."
-msgstr ""
+msgstr "Jos haluat poistaa käyttäjätunnuksesi, voit {uri|poistaa sen täällä}."
 
 #: ../root/account/donation.tt:10
 #, perl-format
@@ -4055,7 +4055,7 @@ msgstr ""
 #: ../root/cdstub/error.tt:5
 #, perl-format
 msgid "Invalid Disc ID"
-msgstr ""
+msgstr "Virheellinen levyn tunniste."
 
 #: ../root/layout.tt:116
 #, perl-format
@@ -4083,7 +4083,7 @@ msgstr ""
 #: ../root/artist/edit_credit.tt:17 ../root/artist/split.tt:17
 #, perl-format
 msgid "Javascript needs to be enabled."
-msgstr ""
+msgstr "Javascript tulee aktivoida."
 
 #: ../root/components/forms.tt:272 ../root/release/edit/tracklist.tt:46
 #: ../root/scripts/text_strings.tt:26
@@ -4099,7 +4099,7 @@ msgstr ""
 #: ../root/user/login.tt:31
 #, perl-format
 msgid "Keep me logged in"
-msgstr ""
+msgstr "Pidä minut sisäänkirjautuneena."
 
 #: ../root/components/forms.tt:173 ../root/components/forms.tt:197
 #: ../root/release/edit/tracklist.tt:476
@@ -4194,7 +4194,7 @@ msgstr ""
 #: ../root/search/results-work.tt:14
 #, perl-format
 msgid "Language"
-msgstr ""
+msgstr "Kieli"
 
 #: ../root/edit/details/add_release.tt:46 ../root/edit/details/add_work.tt:37
 #: ../root/edit/details/edit_release.tt:38
@@ -4203,7 +4203,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:45 ../root/release/sidebar.tt:30
 #, perl-format
 msgid "Language:"
-msgstr ""
+msgstr "Kieli:"
 
 #: ../root/edit/details/edit_release_language.tt:8
 #, perl-format
@@ -4218,7 +4218,7 @@ msgstr ""
 #: ../root/user/profile.tt:116
 #, perl-format
 msgid "Languages:"
-msgstr ""
+msgstr "Kielet:"
 
 #: ../root/user/profile.tt:174
 #, perl-format
@@ -4397,7 +4397,7 @@ msgstr ""
 #: ../root/work/edit_form.tt:10 ../root/work/layout.tt:11
 #, perl-format
 msgid "Lyrics Language:"
-msgstr ""
+msgstr "Sanoituksen kieli:"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -6618,12 +6618,12 @@ msgstr "Poista levyn tunniste"
 #: ../root/isrc/delete.tt:1 ../root/isrc/delete.tt:3
 #, perl-format
 msgid "Remove ISRC “{isrc}”"
-msgstr ""
+msgstr "Poista ISRC-koodi \"{isrc}\""
 
 #: ../root/iswc/delete.tt:1 ../root/iswc/delete.tt:3
 #, perl-format
 msgid "Remove ISWC “{iswc}”"
-msgstr ""
+msgstr "Poista ISWC-koodi\"{iswc}\""
 
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:82
 #, perl-format
@@ -8388,7 +8388,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
 msgid "This person is deceased."
-msgstr ""
+msgstr "Tämä henkilö on kuollut."
 
 #: ../root/recording/delete.tt:17
 #, perl-format
@@ -8793,7 +8793,7 @@ msgstr "Suosituimmat CD-tyngät"
 #: ../root/report/isrc_with_many_recordings.tt:7
 #, perl-format
 msgid "Total ISRCs found: {count}"
-msgstr ""
+msgstr "Yhteensä ISRC-koodeja löytyi: {count}"
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:8
 #: ../root/report/artists_that_may_be_groups.tt:9
@@ -9748,7 +9748,7 @@ msgstr ""
 msgid ""
 "You are about to add an ISWC to {work}. The ISWC must be entered in standard"
 " <code>T-DDD.DDD.DDD-C</code> format:"
-msgstr "Olet lisäämässä ISWC-tunnistetta teokseen {work}. Tämä ISWC-tunniste tulee lisätä standardissa muodossa <code>T-DDD.DDD.DDD-C</code>:"
+msgstr "Olet lisäämässä ISWC-koodia teokseen {work}. Tämä ISWC-koodi tulee lisätä standardissa muodossa <code>T-DDD.DDD.DDD-C</code>:"
 
 #: ../root/artist/edit_form.tt:3
 #, perl-format
@@ -10866,7 +10866,7 @@ msgstr "'{id}' ei ole kelvollinen FreeDB-tunniste"
 
 #: ../lib/MusicBrainz/Server/Controller/ISRC.pm:57
 msgid "This ISRC does not exist"
-msgstr "Tätä ISRC-tunnistetta ei ole olemassa"
+msgstr "Tätä ISRC-koodia ei ole olemassa"
 
 #: ../lib/MusicBrainz/Server/Controller/ISWC.pm:55
 msgid "This ISWC does not exist"
@@ -10909,7 +10909,7 @@ msgstr "TOC:n rakenne on kelpaamaton"
 
 #: ../lib/MusicBrainz/Server/Controller/Work.pm:109
 msgid "This ISWC already exists for this work"
-msgstr "Tämä ISWC-tunniste löytyy jo tälle teokselle"
+msgstr "Tämä ISWC-koodi löytyy jo tälle teokselle"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:106
 msgid "No title provided"
@@ -11301,7 +11301,7 @@ msgstr "Lisää teokselle lisätietoja"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddISWCs.pm:22
 msgid "Add ISWCs"
-msgstr ""
+msgstr "Lisää ISWC-koodi."
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
@@ -11321,7 +11321,7 @@ msgstr "Yhdistä työt"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/RemoveISWC.pm:16
 msgid "Remove ISWC"
-msgstr ""
+msgstr "Poista ISWC-tunniste."
 
 #: ../lib/MusicBrainz/Server/EditSearch/Predicate.pm:66
 msgid "This operator is not supported"
@@ -11382,12 +11382,12 @@ msgstr "Tämä ei ole kelvollinen MBID"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid "This is not a valid ISRC"
-msgstr "Tämä ei ole kelvollinen ISRC"
+msgstr "Tämä ei ole kelvollinen ISRC-koodi"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:12
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:16
 msgid "This is not a valid ISWC"
-msgstr "Tämä ei ole kelvollinen ISWC"
+msgstr "Tämä ei ole kelvollinen ISWC-koodi."
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
@@ -11546,23 +11546,23 @@ msgstr "Kelpaamaton URL-osoitteen muoto"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
-msgstr ""
+msgstr "Perus"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:62
 msgid "Intermediate"
-msgstr ""
+msgstr "Keskitaso"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:63
 msgid "Advanced"
-msgstr ""
+msgstr "Vaativa"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:64
 msgid "Native"
-msgstr ""
+msgstr "Syntyperäinen"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:73
 msgid "You must supply a complete birth date for us to display your age."
-msgstr ""
+msgstr "Sinun täytyy toimittaa täydellinen syntymäpäiväsi voidaksemme näyttää ikäsi. "
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Daily"
