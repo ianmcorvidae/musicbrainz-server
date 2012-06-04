@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-04 20:48+0000\n"
+"PO-Revision-Date: 2012-06-04 21:59+0000\n"
 "Last-Translator: Jaakko Perttilä <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -106,7 +106,7 @@ msgstr "Tunnistetta \"{tag}\" on käytetty {num} kertaa"
 #: ../root/components/aliases.tt:38
 #, perl-format
 msgid "(<span class=\"comment\">primary</span>)"
-msgstr ""
+msgstr "(<span class=\"comment\">ensisijainen</span>)"
 
 #: ../root/user/profile.tt:28
 #, perl-format
@@ -886,7 +886,7 @@ msgstr "Salli muiden käyttäjien nähdä arvosteluni"
 #: ../root/account/preferences.tt:30
 #, perl-format
 msgid "Allow other users to see my subscriptions"
-msgstr ""
+msgstr "Salli muiden käyttäjien nähdä seuraamani kohteet"
 
 #: ../root/account/preferences.tt:31
 #, perl-format
@@ -1285,7 +1285,7 @@ msgstr "Artistia ei löydy"
 #: ../root/user/subscriptions/artist.tt:1 ../root/user/subscriptions/menu.tt:3
 #, perl-format
 msgid "Artist Subscriptions"
-msgstr ""
+msgstr "Seuratut artistit"
 
 #: ../root/components/forms.tt:265
 #, perl-format
@@ -1525,7 +1525,7 @@ msgstr ""
 #: ../root/account/preferences.tt:50
 #, perl-format
 msgid "Automatically subscribe me to artists I create."
-msgstr ""
+msgstr "Seuraa automaattisesti artisteja, jotka luon."
 
 #: ../root/account/preferences.tt:52
 #, perl-format
@@ -1595,7 +1595,7 @@ msgstr "Antamiesi tietojen perusteella MusicBrainzistä löytyivät seuraavat sa
 #: ../root/user/subscribers.tt:35
 #, perl-format
 msgid "Be the first! {sub|Subscribe}?"
-msgstr ""
+msgstr "Ole ensimmäinen! {sub|Seuraa muutoksia}?"
 
 #: ../root/account/registered.tt:13
 #, perl-format
@@ -2181,7 +2181,7 @@ msgstr "Kokoelmat"
 #: ../root/release/cover_art_fields.tt:10
 #, perl-format
 msgid "Comment:"
-msgstr ""
+msgstr "Kommentti:"
 
 #: ../root/main/index.tt:86
 #, perl-format
@@ -2211,7 +2211,7 @@ msgid ""
 "Confirm by activating the checkbox below that you have read the "
 "{doc_artistcomment|artist comment guideline}, understood how we distinguish "
 "artists with the same name, and that you know what you are doing."
-msgstr ""
+msgstr "Vahvista rastittamalla valintaruutu, että olet lukenut {doc_artistcomment|artistin kommentin ohjeet} ja ymmärrät, miten samannimiset artistit erotetaan toisistaan, ja että tiedät mitä olet tekemässä."
 
 #: ../root/label/edit_form.tt:26
 #, perl-format
@@ -3029,7 +3029,7 @@ msgstr ""
 #: ../root/user/subscriptions/editor.tt:1 ../root/user/subscriptions/menu.tt:5
 #, perl-format
 msgid "Editor Subscriptions"
-msgstr ""
+msgstr "Seuratut editorit"
 
 #: ../root/user/profile/layout.tt:1
 #, perl-format
@@ -3039,12 +3039,12 @@ msgstr ""
 #: ../root/artist/subscribe.tt:2
 #, perl-format
 msgid "Editors Subscribed to this Artist"
-msgstr ""
+msgstr "Tätä artistia seuraavat editorit"
 
 #: ../root/label/subscriptions.tt:2
 #, perl-format
 msgid "Editors subscribed to this Label"
-msgstr "Editorit, jotka seuraavat tätä levy-yhtiötä"
+msgstr "Tätä levy-yhtiötä seuraavat editorit"
 
 #: ../root/user/edits.tt:15
 #, perl-format
@@ -3059,17 +3059,17 @@ msgstr "Muokkaukset ({view_url|näytä})"
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
 msgid "Edits By Your Subscribed Editors"
-msgstr ""
+msgstr "Seuraamiesi editorien tekemät muokkaukset"
 
 #: ../root/edit/subscribed.tt:15 ../root/edit/subscribed.tt:17
 #, perl-format
 msgid "Edits For Your Subscribed Entities"
-msgstr "Editoinnit seuraamillesi kohteille"
+msgstr "Seuraamillesi kohteille tehdyt muokkaukset"
 
 #: ../root/layout/menu.tt:45
 #, perl-format
 msgid "Edits by Subscribed Editors"
-msgstr ""
+msgstr "Seurattujen editorien muokkaukset"
 
 #: ../root/user/edits.tt:16
 #, perl-format
@@ -3079,7 +3079,7 @@ msgstr ""
 #: ../root/layout/menu.tt:42
 #, perl-format
 msgid "Edits for Subscribed Entities"
-msgstr "Editoinnit seuratuille kohteille"
+msgstr "Seuratuille kohteille tehdyt muokkaukset"
 
 #: ../root/label/edits.tt:17
 #, perl-format
@@ -3956,7 +3956,7 @@ msgstr ""
 msgid ""
 "If you're interested in receiving information from MusicBrainz staff or "
 "communicating with other users, {ml|please subscribe to our mailing lists}."
-msgstr ""
+msgstr "Jos haluat saada tietoja MusicBrainzin kehittäjiltä tai keskustella muiden käyttäjien kanssa, {ml|liity postituslistoillemme}."
 
 #: ../root/components/common-macros.tt:80
 #, perl-format
@@ -4144,7 +4144,7 @@ msgstr ""
 #: ../root/user/subscriptions/label.tt:1 ../root/user/subscriptions/menu.tt:4
 #, perl-format
 msgid "Label Subscriptions"
-msgstr ""
+msgstr "Seuratut levy-yhtiöt"
 
 #: ../root/edit/details/add_label.tt:60 ../root/edit/details/edit_label.tt:29
 #: ../root/label/edit_form.tt:41 ../root/label/layout.tt:38
@@ -5148,7 +5148,7 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:38
 #, perl-format
 msgid "No subscriptions."
-msgstr ""
+msgstr "Et seuraa mitään."
 
 #: ../root/user/privileged.tt:9
 #, perl-format
@@ -5604,7 +5604,7 @@ msgid ""
 "Please note that capitalization of the label name is taken into account when"
 " determining the need for a comment.  The two labels <em>some name</em> and "
 "<em>Some Name</em> are not the same."
-msgstr ""
+msgstr "Huomaa, että isot ja pienet kirjaimet huomioidaan erikseen, kun arvioidaan levy-yhtiön nimelle kommentin tarvetta.   Täten <em>levy-yhtiö</em> ja <em>Levy-Yhtiö</em> eivät ole samoja."
 
 #: ../root/search/form.tt:49
 #, perl-format
@@ -7065,7 +7065,7 @@ msgstr ""
 #: ../root/account/preferences.tt:45
 #, perl-format
 msgid "Send me mails with edits to my subscriptions:"
-msgstr ""
+msgstr "Haluan saada sähköpostia muokkauksista seuraamiini kohteisiin:"
 
 #: ../root/cdtoc/set_durations.tt:1 ../root/cdtoc/set_durations.tt:2
 #, perl-format
@@ -7563,27 +7563,27 @@ msgstr "Lähetä äänet ja muokkausmerkinnät"
 #: ../root/artist/layout.tt:128 ../root/label/layout.tt:98
 #, perl-format
 msgid "Subscribe"
-msgstr ""
+msgstr "Seuraa"
 
 #: ../root/label/subscriptions.tt:25
 #, perl-format
 msgid "Subscribe to this Label."
-msgstr ""
+msgstr "Seuraa tätä levy-yhtiötä"
 
 #: ../root/artist/subscribe.tt:20
 #, perl-format
 msgid "Subscribe to this artist."
-msgstr ""
+msgstr "Seuraa tätä artistia"
 
 #: ../root/artist/subscribe.tt:1 ../root/label/subscriptions.tt:1
 #, perl-format
 msgid "Subscribed Editors"
-msgstr ""
+msgstr "Seuratut editorit"
 
 #: ../root/edit/list_header.tt:15
 #, perl-format
 msgid "Subscribed editors"
-msgstr ""
+msgstr "Seuratut editorit"
 
 #: ../root/edit/list_header.tt:13
 #, perl-format
@@ -7597,7 +7597,7 @@ msgstr "Seuratut kohteet"
 #: ../root/user/subscribers.tt:2
 #, perl-format
 msgid "Subscribers"
-msgstr ""
+msgstr "Seuraajat"
 
 #: ../root/user/profile.tt:93
 #, perl-format
@@ -7608,7 +7608,7 @@ msgstr ""
 #: ../root/layout/menu.tt:16 ../root/user/profile/layout.tt:12
 #, perl-format
 msgid "Subscriptions"
-msgstr ""
+msgstr "Seuratut kohteet"
 
 #: ../root/release/edit/recordings.tt:77
 #, perl-format
@@ -7841,7 +7841,7 @@ msgstr ""
 msgid ""
 "The comment field is used to help users distinguish between identically "
 "named releases."
-msgstr ""
+msgstr "Kommenttikenttä auttaa käyttäjiä erottamaan samannimiset julkaisut toisistaan."
 
 #: ../root/edit/details/merge_releases.tt:52
 #, perl-format
@@ -8007,22 +8007,22 @@ msgstr ""
 #: ../root/user/subscribers.tt:23
 #, perl-format
 msgid "There are currently no users subscribed to edits that you make."
-msgstr ""
+msgstr "Yksikään käyttäjä ei seuraa tekemiäsi muutoksia."
 
 #: ../root/user/subscribers.tt:25
 #, perl-format
 msgid "There are currently no users subscribed to edits that {user} makes."
-msgstr ""
+msgstr "Yksikään käyttäjä ei seuraa käyttäjän {user} tekemiä muutoksia."
 
 #: ../root/artist/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {artist}."
-msgstr ""
+msgstr "Yksikään käyttäjä ei tällä hetkellä seuraa artistia {artist}."
 
 #: ../root/label/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {label}."
-msgstr ""
+msgstr "Yksikään käyttäjä ei tällä hetkellä seuraa artistia {levy-y}."
 
 #: ../root/release/discids.tt:52
 #, perl-format
@@ -8508,7 +8508,7 @@ msgstr "Tämä raportti listaa artistit, jotka ovat <em>tuntemattomia</em> tai <
 msgid ""
 "This report lists artists that may have disambiguation comments in their "
 "name, rather than the actual disambiguation comment field."
-msgstr ""
+msgstr "Tämä raportti näyttää artistit, joiden nimessä saattaa olla täsmennyskommentti täsmennyskommenttikentän sijaan."
 
 #: ../root/report/possible_collaborations.tt:6
 #, perl-format
