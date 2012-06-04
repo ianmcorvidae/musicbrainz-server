@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-04 21:59+0000\n"
+"PO-Revision-Date: 2012-06-04 22:21+0000\n"
 "Last-Translator: Jaakko Perttilä <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -7602,7 +7602,7 @@ msgstr "Seuraajat"
 #: ../root/user/profile.tt:93
 #, perl-format
 msgid "Subscribers:"
-msgstr ""
+msgstr "Seuraajat:"
 
 #: ../root/artist/layout.tt:122 ../root/label/layout.tt:92
 #: ../root/layout/menu.tt:16 ../root/user/profile/layout.tt:12
@@ -8022,7 +8022,7 @@ msgstr "Yksikään käyttäjä ei tällä hetkellä seuraa artistia {artist}."
 #: ../root/label/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {label}."
-msgstr "Yksikään käyttäjä ei tällä hetkellä seuraa artistia {levy-y}."
+msgstr "Yksikään käyttäjä ei tällä hetkellä seuraa levy-yhtiötä {label}."
 
 #: ../root/release/discids.tt:52
 #, perl-format
@@ -8032,7 +8032,7 @@ msgstr ""
 #: ../root/artist/subscribe.tt:11
 #, perl-format
 msgid "There are no editors currently subscribed to this artist."
-msgstr ""
+msgstr "Yksikään käyttäjä ei tällä hetkellä seuraa tätä artistia."
 
 #: ../root/artist/split.tt:24
 #, perl-format
@@ -8046,7 +8046,7 @@ msgstr "Artistille {name} ei ole äänitteitä, julkaisuryhmiä, julkaisuja tai 
 #: ../root/label/subscriptions.tt:11
 #, perl-format
 msgid "There are no users currently subscribed to this Label."
-msgstr ""
+msgstr "Yksikään käyttäjä ei tällä hetkellä seuraa tätä levy-yhtiötä."
 
 #: ../root/edit/relationship/cannot_create.tt:3
 #, perl-format
@@ -8059,37 +8059,37 @@ msgstr ""
 #, perl-format
 msgid "There is also one anonymous subscriber."
 msgid_plural "There are also {num} anonymous subscribers."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Lisäksi yksi nimettömänä pysyttelevä seuraaja."
+msgstr[1] "Lisäksi {num} nimettömänä pysyttelevää seuraajaa."
 
 #: ../root/artist/subscribe.tt:15
 #, perl-format
 msgid "There is also {num} anonymous subscriber"
 msgid_plural "There are also {num} anonymous subscribers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Lisäksi {num} nimettömänä pysyttelevä seuraaja."
+msgstr[1] "Lisäksi {num} nimettömänä pysyttelevää seuraajaa."
 
 #: ../root/user/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to edits that {user} makes:"
 msgid_plural ""
 "There are currently {num} users subscribed to edits that {user} makes:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Käyttäjän {user} muokkauksia seuraa tällä hetkellä {num} käyttäjä:"
+msgstr[1] "Käyttäjän {user} muokkauksia seuraa tällä hetkellä {num} käyttäjää:"
 
 #: ../root/artist/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {artist}:"
 msgid_plural "There are currently {num} users subscribed to {artist}:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Artistia {artist} seuraa tällä hetkellä {num} käyttäjä:"
+msgstr[1] "Artistia {artist} seuraa tällä hetkellä {num} käyttäjää:"
 
 #: ../root/label/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {label}:"
 msgid_plural "There are currently {num} users subscribed to {label}:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Levy-yhtiötä {label} seuraa tällä hetkellä {num} käyttäjä:"
+msgstr[1] "Levy-yhtiötä {label} seuraa tällä hetkellä {num} käyttäjää:"
 
 #: ../root/search/editor-not-found.tt:4
 #, perl-format
@@ -9121,17 +9121,17 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:32
 #, perl-format
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Lopeta seuraaminen"
 
 #: ../root/label/subscriptions.tt:21
 #, perl-format
 msgid "Unsubscribe from this Label."
-msgstr ""
+msgstr "Lopeta levy-yhtiön seuraaminen."
 
 #: ../root/artist/subscribe.tt:18
 #, perl-format
 msgid "Unsubscribe from this artist."
-msgstr ""
+msgstr "Lopeta artistin seuraaminen."
 
 #: ../root/admin/edit_user.tt:12
 #, perl-format
@@ -9833,7 +9833,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:32
 #, perl-format
 msgid "You are currently subscribed. {unsub|Unsubscribe}?"
-msgstr ""
+msgstr "Seuraat muutoksia. {unsub|Lopeta seuraaminen}?"
 
 #: ../root/watch/list.tt:7
 #, perl-format
@@ -9854,7 +9854,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:38
 #, perl-format
 msgid "You are not currently subscribed. {sub|Subscribe}?"
-msgstr ""
+msgstr "Et seuraa muutoksia. {sub|Aloita seuraaminen}?"
 
 #: ../root/watch/list.tt:32
 #, perl-format
@@ -10202,7 +10202,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:249
 #, perl-format
 msgid "is in my subscriptions"
-msgstr ""
+msgstr "on seuraamissani kohteissa"
 
 #: ../root/edit/search_macros.tt:136
 #, perl-format
@@ -10358,7 +10358,7 @@ msgstr ""
 #: ../root/user/profile.tt:104
 #, perl-format
 msgid "subscribe"
-msgstr ""
+msgstr "Seuraa muutoksia"
 
 #: ../root/browse/page_selector.tt:37
 #, perl-format
@@ -10379,7 +10379,7 @@ msgstr ""
 #: ../root/user/profile.tt:102
 #, perl-format
 msgid "unsubscribe"
-msgstr ""
+msgstr "Lopeta muutosten seuraaminen"
 
 #: ../root/components/common-macros.tt:589 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -11562,7 +11562,7 @@ msgstr "Syntyperäinen"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:73
 msgid "You must supply a complete birth date for us to display your age."
-msgstr "Sinun täytyy toimittaa täydellinen syntymäpäiväsi voidaksemme näyttää ikäsi. "
+msgstr "Iän näyttäminen vaatii tarkan syntymäpäivän."
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Daily"
