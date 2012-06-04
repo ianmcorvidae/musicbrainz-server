@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-04 19:47+0000\n"
+"PO-Revision-Date: 2012-06-04 20:48+0000\n"
 "Last-Translator: Jaakko Perttilä <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -1376,7 +1376,7 @@ msgstr "Artistit:"
 #: ../root/report/index.tt:22
 #, perl-format
 msgid "Artists containing disambiguation comments in their name"
-msgstr ""
+msgstr "Artistit, joiden nimissä on täsmennyskommentit"
 
 #: ../root/browse/artist.tt:8
 #, perl-format
@@ -2071,7 +2071,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:80
 #, perl-format
 msgid "Clear label"
-msgstr ""
+msgstr "Tyhjennä levy-yhtiö"
 
 #: ../root/scripts/text_strings.tt:81
 #, perl-format
@@ -2219,7 +2219,7 @@ msgid ""
 "Confirm by activating the checkbox below that you have read the "
 "{doc_labelcomment|label comment guideline}, understood how we distinguish "
 "labels with the same name, and that you know what you are doing."
-msgstr ""
+msgstr "Vahvista rastittamalla valintaruutu, että olet lukenut {doc_labelcomment|levy-yhtiön kommentin ohjeet} ja ymmärrät, miten samannimiset levy-yhtiöt erotetaan toisistaan, ja että tiedät mitä olet tekemässä."
 
 #: ../root/account/change_password.tt:12 ../root/account/register.tt:34
 #: ../root/account/reset_password.tt:11
@@ -2535,7 +2535,7 @@ msgstr "Suora tietokantahaku"
 #: ../root/cdstub/index.tt:3
 #, perl-format
 msgid "Disambiguation"
-msgstr ""
+msgstr "Täsmennys"
 
 #: ../root/artist/edit_form.tt:40 ../root/cdstub/edit.tt:57
 #: ../root/edit/details/add_artist.tt:19 ../root/edit/details/add_label.tt:20
@@ -2553,7 +2553,7 @@ msgstr ""
 #: ../root/release_group/edit_form.tt:9 ../root/work/edit_form.tt:8
 #, perl-format
 msgid "Disambiguation:"
-msgstr ""
+msgstr "Täsmennys:"
 
 #: ../root/release/discids.tt:8
 #, perl-format
@@ -2779,12 +2779,12 @@ msgstr ""
 #: ../root/label/edit.tt:15
 #, perl-format
 msgid "Edit Label"
-msgstr ""
+msgstr "Muokkaa levy-yhtiötä"
 
 #: ../root/label/edit_alias.tt:1
 #, perl-format
 msgid "Edit Label Alias"
-msgstr ""
+msgstr "Muokkaa levy-yhtiön aliasta"
 
 #: ../root/edit/not_found.tt:1 ../root/edit/not_found.tt:2
 #, perl-format
@@ -3044,7 +3044,7 @@ msgstr ""
 #: ../root/label/subscriptions.tt:2
 #, perl-format
 msgid "Editors subscribed to this Label"
-msgstr ""
+msgstr "Editorit, jotka seuraavat tätä levy-yhtiötä"
 
 #: ../root/user/edits.tt:15
 #, perl-format
@@ -3084,7 +3084,7 @@ msgstr "Editoinnit seuratuille kohteille"
 #: ../root/label/edits.tt:17
 #, perl-format
 msgid "Edits for {label}"
-msgstr ""
+msgstr "Muokkaukset levy-yhtiölle {label}"
 
 #: ../root/artist/edits.tt:16 ../root/url/edits.tt:17
 #, perl-format
@@ -3778,7 +3778,7 @@ msgstr ""
 msgid ""
 "If none of these labels match the label you intended, you can still create a"
 " new label."
-msgstr ""
+msgstr "Mikäli yksikään näistä levy-yhtiöistä ei vastaa levy-yhtiötä, jota tarkoitit, voiit silti luoda uuden levy-yhtiön."
 
 #: ../root/artist/edit_form.tt:5
 #, perl-format
@@ -3787,7 +3787,7 @@ msgid ""
 " will be prompted to {doc_addcomment|add a disambiguation comment to this "
 "artist}, which will allow users to distinguish this entry from the other "
 "artist(s) with the same name."
-msgstr ""
+msgstr "Mikäli tietokannassa on jo yksi tai useampi samanniminen artisti, sinua vaaditaan lisäämään {doc_addcomment|täsmennyskommentti}, jonka avulla käyttäjät voivat erottaa tämän muista samannimisistä artisteista."
 
 #: ../root/label/edit_form.tt:3
 #, perl-format
@@ -3796,7 +3796,7 @@ msgid ""
 "will be prompted to add a {doc_comment|disambiguation comment to this label}"
 " that will allow users to distinguish this entry from the other label(s) "
 "with the same name."
-msgstr ""
+msgstr "Mikäli tietokannassa on jo yksi tai useampi samanniminen levy-yhtiö, sinua vaaditaan lisäämään {doc_comment|täsmennyskommentti}, jonka avulla käyttäjät voivat erottaa tämän muista samannimisistä levy-yhtiöistä."
 
 #: ../root/main/500.tt:55
 #, perl-format
@@ -8466,7 +8466,7 @@ msgstr ""
 msgid ""
 "This report does not show similarly named artists, if all artists have "
 "disambiguation comments."
-msgstr ""
+msgstr "Tämä raportti ei näytä samannimisiä artisteja, mikäli kaikilla niillä on täsmennyskommentit."
 
 #: ../root/report/isrc_with_many_recordings.tt:6
 #, perl-format
@@ -9867,7 +9867,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this artist from the other artists with the same name, if the "
 "final artist name is similar to an existing artist."
-msgstr ""
+msgstr "Sinun tulee syöttää täsmennyskommentti, jonka avulla käyttäjät voivat erottaa tämän muista samannimisistä artisteista, mikäli tietokannassa on jo samanniminen artisti."
 
 #: ../root/label/edit_form.tt:25
 #, perl-format
@@ -9875,7 +9875,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this label from the other labels with the same name, if the "
 "final label name is similar to an existing label."
-msgstr ""
+msgstr "Sinun tulee syöttää täsmennyskommentti, jonka avulla käyttäjät voivat erottaa tämän muista samannimisistä levy-yhtiöistä, mikäli tietokannassa on jo samanniminen levy-yhtiö."
 
 #: ../root/cdtoc/attach_artist_releases.tt:24
 #, perl-format
@@ -10074,7 +10074,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:34
 #, perl-format
 msgid "add a disambiguation comment"
-msgstr ""
+msgstr "lisää täsmennyskommentti"
 
 #: ../root/edit/search_macros.tt:153
 #, perl-format
@@ -10132,7 +10132,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:140
 #, perl-format
 msgid "disambiguation:"
-msgstr ""
+msgstr "täsmennys:"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
