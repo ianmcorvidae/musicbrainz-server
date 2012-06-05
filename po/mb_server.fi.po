@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-05 10:13+0000\n"
+"PO-Revision-Date: 2012-06-05 21:59+0000\n"
 "Last-Translator: Jaakko Perttilä <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -45,7 +45,7 @@ msgstr ""
 #: ../root/work/add_iswc.tt:7
 #, perl-format
 msgid "\"DDD\" is a nine digit work identifier."
-msgstr "\"DDD\" on yhdeksän numeroinen tunniste"
+msgstr "\"DDD\" on yhdeksännumeroinen teoksen tunniste."
 
 #: ../root/recording/add_isrc.tt:12
 #, perl-format
@@ -319,7 +319,7 @@ msgid ""
 " matches the page name, it will take the version number and provide whatever"
 " page is associated with it. Make sure to double check your work when "
 "updating a page!"
-msgstr "<strong>Huomio:</strong> MediaWiki ei tarkista vastaako versionumero sivun nimeä, vaan se ottaa versionumeron, ja minkä tahansa sivun, joka on yhdistetty numeroon. Muista tarkistaa työsi kun päivität sivun!"
+msgstr "<strong>Huomio:</strong> MediaWiki ei tarkista vastaako versionumero sivun nimeä, vaan se ottaa versionumeron ja minkä tahansa sivun, joka on yhdistetty numeroon. Muista tarkistaa työsi kun päivität sivun!"
 
 #: ../root/components/common-macros.tt:645
 #, perl-format
@@ -1443,8 +1443,8 @@ msgstr[1] ""
 #, perl-format
 msgid "Associated with {num} work"
 msgid_plural "Associated with {num} works"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Yhdistetty {num} teokseen"
+msgstr[1] "Yhdistetty {num} teokseen"
 
 #: ../root/cdtoc/attach_artist_releases.tt:22
 #: ../root/cdtoc/attach_artist_releases.tt:23
@@ -7283,7 +7283,7 @@ msgstr ""
 msgid ""
 "Sorry, there are no works starting with “{index}”. Please {pre|go back} and "
 "try again."
-msgstr ""
+msgstr "Teoksia, jotka alkavat \"{index}\" ei löytynyt. {pre|Palaa takaisin} ja yritä uudelleen."
 
 #: ../root/main/400.tt:5
 #, perl-format
@@ -7348,7 +7348,7 @@ msgstr ""
 msgid ""
 "Sorry, we could not find a work with that MusicBrainz ID. You may wish to "
 "try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Teosta ei löytynyt annetulla MusicBrainz-tunnisteella. Voit yrittää {search_url|etsiä sitä} sen sijaan."
 
 #: ../root/artist/not_found.tt:4
 #, perl-format
@@ -9748,7 +9748,7 @@ msgstr ""
 msgid ""
 "You are about to add an ISWC to {work}. The ISWC must be entered in standard"
 " <code>T-DDD.DDD.DDD-C</code> format:"
-msgstr "Olet lisäämässä ISWC-koodia teokseen {work}. Tämä ISWC-koodi tulee lisätä standardissa muodossa <code>T-DDD.DDD.DDD-C</code>:"
+msgstr "Olet lisäämässä ISWC-koodia teokseen {work}. ISWC-koodi tulee syöttää standardin <code>T-DDD.DDD.DDD-C</code> mukaan:"
 
 #: ../root/artist/edit_form.tt:3
 #, perl-format
@@ -11309,11 +11309,11 @@ msgstr "Poista teos"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/DeleteAlias.pm:15
 msgid "Remove work alias"
-msgstr "Lisää teos alias"
+msgstr "Poista teoksen alias"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:25
 msgid "Edit work"
-msgstr "Muokkaa teos"
+msgstr "Muokkaa teosta"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
