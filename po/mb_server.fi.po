@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-04 22:21+0000\n"
+"PO-Revision-Date: 2012-06-05 09:49+0000\n"
 "Last-Translator: Jaakko Perttilä <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -319,7 +319,7 @@ msgid ""
 " matches the page name, it will take the version number and provide whatever"
 " page is associated with it. Make sure to double check your work when "
 "updating a page!"
-msgstr ""
+msgstr "<strong>Huomio:</strong> MediaWiki ei tarkista vastaako versionumero sivun nimeä, vaan se ottaa versionumeron, ja minkä tahansa sivun, joka on yhdistetty numeroon. Muista tarkistaa työsi kun päivität sivun!"
 
 #: ../root/components/common-macros.tt:645
 #, perl-format
@@ -558,12 +558,12 @@ msgstr "Lisää useiden artistien julkaisu"
 #: ../root/work/create.tt:16
 #, perl-format
 msgid "Add Work"
-msgstr "Lisää työ"
+msgstr "Lisää teos"
 
 #: ../root/work/add_alias.tt:1
 #, perl-format
 msgid "Add Work Alias"
-msgstr "Lisää työn alias"
+msgstr "Lisää teokselle alias"
 
 #: ../root/artist/create.tt:16 ../root/artist/create.tt:18
 #, perl-format
@@ -750,7 +750,7 @@ msgstr "Lisää kappaleita"
 #: ../lib/MusicBrainz/Server/Edit/Work/Create.pm:16
 #, perl-format
 msgid "Add work"
-msgstr "Lisää työ"
+msgstr "Lisää teos"
 
 #: ../root/work/add_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAlias.pm:15
@@ -932,7 +932,7 @@ msgstr "Vaihtoehtoisesti voit {uri|lisätä uuden julkaisuryhmän}."
 #: ../root/search/results-work.tt:58
 #, perl-format
 msgid "Alternatively, you may {uri|add a new work}."
-msgstr "Vaihtoehtoisesti voit {uri|lisätä uuden teoksen}."
+msgstr "Vaihtoehtoisesti voit lisätä {uri|uuden teoksen}."
 
 #: ../root/report/asins_with_multiple_releases.tt:1
 #: ../root/report/asins_with_multiple_releases.tt:3
@@ -1910,7 +1910,7 @@ msgstr ""
 msgid ""
 "Cancelling a pending edit will take effect within an hour, while removing an"
 " work alias has to be voted on according to the voting process."
-msgstr ""
+msgstr "Odottavan muokkauksen peruminen valmistuu tunnin sisällä, kun taas teoksen aliaksen poistaminen joutuu käymään äänestysprosessin läpi."
 
 #: ../root/elections/index.tt:9
 #, perl-format
@@ -2091,7 +2091,7 @@ msgstr "Tyhjennä julkaisuryhmä"
 #: ../root/scripts/text_strings.tt:84
 #, perl-format
 msgid "Clear work"
-msgstr ""
+msgstr "Tyhjennä teos"
 
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
@@ -3913,14 +3913,14 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|work aliases} for more "
 "details."
-msgstr ""
+msgstr "Jos jokin aliaksista on väärin kirjoitettu, se on todennäköisesti tehty tarkoituksella, eikä sitä tule poistaa. Lisätietoja {aa|teoksien aliaksista}."
 
 #: ../root/main/401.tt:15
 #, perl-format
 msgid ""
 "If you think this is a mistake, please contact "
 "<code>support@musicbrainz.org</code> with the name of your account."
-msgstr "Jos tämä on mielestäni erehdys, osa yhteyttä osoitteeseen <code>support@musicbrainz.org</code> ja mainitse käyttäjänimesi."
+msgstr "Jos tämä on mielestäsi erehdys, ota yhteyttä osoitteeseen <code>support@musicbrainz.org</code> ja mainitse käyttäjänimesi."
 
 #: ../root/tag/not_found.tt:7
 #, perl-format
@@ -4754,7 +4754,7 @@ msgstr ""
 #: ../root/work/add_alias.tt:4 ../root/work/edit_alias.tt:4
 #, perl-format
 msgid "MusicBrainz uses work aliases mainly as variant names or search hints."
-msgstr "Musicbrainz käyttää teoksen aliaksia pääsääntöisesti rinnakkaisniminä tai hakuvinkkeinä. "
+msgstr "MusicBrainz käyttää teoksen aliaksia pääsääntöisesti rinnakkaisniminä tai hakuvinkkeinä. "
 
 #: ../root/layout.tt:24
 #, perl-format
@@ -5168,7 +5168,7 @@ msgstr ""
 #: ../root/tag/work.tt:1
 #, perl-format
 msgid "No works with this tag were found."
-msgstr "Tällä tunnisteella ei löytynyt teoksia."
+msgstr "Tällä luokituksella ei löytynyt teoksia."
 
 #: ../root/relationship/linktype/tree.tt:58
 #, perl-format
@@ -5658,7 +5658,7 @@ msgstr ""
 msgid ""
 "Please review the documentation about {aliases|work aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Tutustu ohjeisiin {aliases|teoksien aliaksista}, ennen kuin syötät tämän muokkauksen."
 
 #: ../root/release/move_search.tt:4
 #, perl-format
@@ -5967,7 +5967,7 @@ msgstr ""
 msgid ""
 "Read the {doc|WikiDocs} documentation for an overview of how transclusion "
 "works."
-msgstr ""
+msgstr "Lue {doc|WikiDocin} ohjeista miten sisällyttäminen tapahtuu."
 
 #: ../root/components/common-macros.tt:473 ../root/edit/search_macros.tt:280
 #: ../root/report/isrc_with_many_recordings.tt:17
@@ -6106,7 +6106,7 @@ msgstr ""
 #: ../root/recording/index.tt:51 ../root/recording/relationships.tt:6
 #, perl-format
 msgid "Related works"
-msgstr ""
+msgstr "Yhdistetyt teokset"
 
 #: ../root/relationship/header.tt:2
 #: ../root/relationship/linkattributetype/index.tt:3
@@ -7700,7 +7700,7 @@ msgstr "Luokittele tämä julkaisuryhmä"
 #: ../root/work/layout.tt:29 ../root/work/tags.tt:3
 #, perl-format
 msgid "Tag this work"
-msgstr "Lisää teokselle tunniste"
+msgstr "Luokittele teos"
 
 #: ../root/tag/header.tt:11 ../root/tag/layout.tt:1
 #, perl-format
@@ -8163,7 +8163,7 @@ msgstr ""
 #: ../root/artist/works.tt:11
 #, perl-format
 msgid "This artist is not currently associated with any works."
-msgstr ""
+msgstr "Tätä artistia ei ole liitetty yhteenkään teokseen."
 
 #: ../root/artist/index.tt:119
 #, perl-format
@@ -8700,12 +8700,12 @@ msgstr ""
 msgid ""
 "This work has no relationships and will be removed automatically in the next"
 " few days. If this is not intended, please add relationships to this work."
-msgstr ""
+msgstr "Tällä teoksella ei ole yhteyksiä, joten se tullaan poistamaan automaattisesti muutaman päivän sisällä. Mikäli tämä ei ole haluttua, lisää teokselle yhteyksiä."
 
 #: ../root/work/tags.tt:2
 #, perl-format
 msgid "This work has no tags."
-msgstr "Tällä teoksella ei ole tunnisteita."
+msgstr "Tälle teokselle ei ole luokitteluja."
 
 #: ../root/cdtoc/info.tt:37 ../root/cdtoc/info.tt:39 ../root/cdtoc/info.tt:41
 #, perl-format
@@ -9617,27 +9617,27 @@ msgstr "Teos"
 #: ../root/work/edit_form.tt:6
 #, perl-format
 msgid "Work Details"
-msgstr ""
+msgstr "Teoksen yksityiskohdat"
 
 #: ../root/work/not_found.tt:1 ../root/work/not_found.tt:2
 #, perl-format
 msgid "Work Not Found"
-msgstr ""
+msgstr "Teosta ei löytynyt"
 
 #: ../root/work/layout.tt:9
 #, perl-format
 msgid "Work information"
-msgstr ""
+msgstr "Teoksen tiedot"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Work ratings"
-msgstr ""
+msgstr "Teoksen arvostelut"
 
 #: ../root/edit/details/edit_work.tt:23
 #, perl-format
 msgid "Work type:"
-msgstr ""
+msgstr "Teoksen tyyppi:"
 
 #: ../root/components/common-macros.tt:433
 #: ../root/edit/details/add_work_alias.tt:3
@@ -9660,7 +9660,7 @@ msgstr "Teokset:"
 #: ../root/browse/work.tt:8
 #, perl-format
 msgid "Works starting with “{index}”"
-msgstr ""
+msgstr "Teokset, jotka alkavat \"{index}\""
 
 #: ../root/artist/works-list.tt:10 ../root/iswc/index.tt:17
 #: ../root/otherlookup/results-work.tt:8 ../root/search/results-work.tt:11
@@ -9805,7 +9805,7 @@ msgstr ""
 msgid ""
 "You are about to merge the following works into a single work. Please select"
 " the work that you would like the other works merged into:"
-msgstr ""
+msgstr "Olet yhdistämässä seuraavat teokset yhdeksi. Valitse teos, johon haluat muiden teoksien yhdistettävän:"
 
 #: ../root/label/edit_form.tt:16
 #, perl-format
@@ -11305,19 +11305,19 @@ msgstr "Lisää ISWC-koodi."
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
-msgstr "Poista työ"
+msgstr "Poista teos"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/DeleteAlias.pm:15
 msgid "Remove work alias"
-msgstr "Lisää työn alias"
+msgstr "Lisää teos alias"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:25
 msgid "Edit work"
-msgstr "Muokkaa työ"
+msgstr "Muokkaa teos"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
-msgstr "Yhdistä työt"
+msgstr "Yhdistä teokset"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/RemoveISWC.pm:16
 msgid "Remove ISWC"
