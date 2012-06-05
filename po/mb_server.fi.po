@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-05 09:49+0000\n"
+"PO-Revision-Date: 2012-06-05 10:13+0000\n"
 "Last-Translator: Jaakko Perttilä <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -64,7 +64,7 @@ msgstr "\"XXX\" on kolmimerkkinen aakkosnumeerinen rekisteröityjän tunniste, j
 #: ../root/recording/add_isrc.tt:11
 #, perl-format
 msgid "\"YY\" is the last two digits of the year of registration."
-msgstr ""
+msgstr "\"YY\" on rekisteröintivuoden kaksi viimeistä numeroa."
 
 #: ../root/cdstub/cdstub.tt:4 ../root/edit/details/add_medium.tt:48
 #: ../root/edit/details/edit_medium.tt:47
@@ -876,7 +876,7 @@ msgstr "Kaikki muokkaukseni"
 #: ../root/release/cover_art.tt:34
 #, perl-format
 msgid "All artwork is provided by the {caa|Cover Art Archive}."
-msgstr ""
+msgstr "{caa|Cover Art Archive} tarjoaa kaiken kuvamateriaalin."
 
 #: ../root/account/preferences.tt:32
 #, perl-format
@@ -5045,7 +5045,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:7
 #, perl-format
 msgid "No front cover image available.<br/>{all|View all artwork}."
-msgstr ""
+msgstr "Kansitaidetta ei ole saatavilla. <br/>{all|Näytä kaikki kuvamateriaali}."
 
 #: ../root/relationship/linkattributetype/instruments.tt:31
 #, perl-format
@@ -7791,7 +7791,7 @@ msgstr ""
 msgid ""
 "The artwork in the sidebar is being provided by a {relationships|URL "
 "relationship}."
-msgstr ""
+msgstr "Sivupalkin kuvamateriaali tulee {relationships|URL-osoitteen} kautta."
 
 #: ../root/scripts/text_strings.tt:64
 #, perl-format
@@ -7824,7 +7824,7 @@ msgstr "Syöttämäsi viivakoodi ei ole kelvollinen UPC- tai EAN-koodi."
 #, perl-format
 msgid ""
 "The barcode you entered looks like a UPC code with the check digit missing."
-msgstr ""
+msgstr "Syöttämäsi viivakoodi näyttää UPC-koodilta, jonka tarkistusluku puuttuu."
 
 #: ../root/release/edit/information.tt:146
 #, perl-format
@@ -7834,7 +7834,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:68
 #, perl-format
 msgid "The checkdigit is #checkdigit#."
-msgstr ""
+msgstr "Tarkistusluku on #checkdigit#."
 
 #: ../root/release/edit/information.tt:189
 #, perl-format
@@ -9977,7 +9977,7 @@ msgstr ""
 msgid ""
 "You must provide a working email address if you wish to contribute to the "
 "database."
-msgstr ""
+msgstr "Sinun tulee antaa toimiva sähköpostiosoite, mikäli haluat osallistua tietokannan toimintaan."
 
 #: ../root/cdtoc/remove.tt:11
 #, perl-format
@@ -10590,7 +10590,7 @@ msgstr[1] "{num} julkaisuryhmää löytynyt"
 #, perl-format
 msgid "{num} work found"
 msgid_plural "{num} works found"
-msgstr[0] "{num} teos löyty"
+msgstr[0] "{num} teos löytyi"
 msgstr[1] "{num} teosta löytyi"
 
 #: ../root/components/common-macros.tt:45
@@ -10636,7 +10636,7 @@ msgstr ""
 #: ../root/work/layout.tt:1
 #, perl-format
 msgid "{type} “{work}”"
-msgstr ""
+msgstr "{type} “{work}”"
 
 #: ../root/components/common-macros.tt:456
 #, perl-format
