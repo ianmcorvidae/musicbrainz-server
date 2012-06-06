@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-06 15:56+0000\n"
+"PO-Revision-Date: 2012-06-06 16:20+0000\n"
 "Last-Translator: Timo Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -1273,7 +1273,7 @@ msgstr ""
 #: ../root/artist/edit_form.tt:37
 #, perl-format
 msgid "Artist Details"
-msgstr ""
+msgstr "Lisätietoja artistista"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -2164,7 +2164,7 @@ msgstr "Kokoelmaa ei löytynyt"
 #: ../root/collection/edit_form.tt:4
 #, perl-format
 msgid "Collection details"
-msgstr ""
+msgstr "Lisätietoja kokoelmasta"
 
 #: ../root/collection/layout.tt:1
 #, perl-format
@@ -3900,7 +3900,7 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|artist aliases} for more "
 "details."
-msgstr ""
+msgstr "Jos jokin aliaksista sisältää kirjoitusvirheen, se on todennäköisesti tehty tarkoituksella, eikä sitä tule muokata tai poistaa. Lisätietoja {aa|artistien aliaksista}."
 
 #: ../root/label/add_alias.tt:6 ../root/label/edit_alias.tt:6
 #, perl-format
@@ -3908,7 +3908,7 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|label aliases} for more "
 "details."
-msgstr ""
+msgstr "Jos jokin aliaksista sisältää kirjoitusvirheen, se on todennäköisesti tehty tarkoituksella, eikä sitä tule muokata tai poistaa. Lisätietoja {aa|levymerkkien aliaksista}."
 
 #: ../root/work/add_alias.tt:6 ../root/work/edit_alias.tt:6
 #, perl-format
@@ -3916,7 +3916,7 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|work aliases} for more "
 "details."
-msgstr "Jos jokin aliaksista on väärin kirjoitettu, se on todennäköisesti tehty tarkoituksella, eikä sitä tule poistaa. Lisätietoja {aa|teoksien aliaksista}."
+msgstr "Jos jokin aliaksista sisältää kirjoitusvirheen, se on todennäköisesti tehty tarkoituksella, eikä sitä tule muokata tai poistaa. Lisätietoja {aa|teoksien aliaksista}."
 
 #: ../root/main/401.tt:15
 #, perl-format
@@ -4127,27 +4127,27 @@ msgstr "Levymerkki"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Label Country"
-msgstr ""
+msgstr "Levymerkin maa"
 
 #: ../root/label/edit_form.tt:34
 #, perl-format
 msgid "Label Details"
-msgstr ""
+msgstr "Lisätietoja levymerkistä"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Label IPI:"
-msgstr ""
+msgstr "Levymerkin IPI-koodi:"
 
 #: ../root/label/not_found.tt:1 ../root/label/not_found.tt:2
 #, perl-format
 msgid "Label Not Found"
-msgstr ""
+msgstr "Levymerkkiä ei löydy"
 
 #: ../root/user/subscriptions/label.tt:1 ../root/user/subscriptions/menu.tt:4
 #, perl-format
 msgid "Label Subscriptions"
-msgstr "Seuratut levy-yhtiöt"
+msgstr "Seuratut levymerkit"
 
 #: ../root/edit/details/add_label.tt:60 ../root/edit/details/edit_label.tt:29
 #: ../root/label/edit_form.tt:41 ../root/label/layout.tt:38
@@ -4454,27 +4454,27 @@ msgstr "Tallenne"
 #: ../root/tracklist/index.tt:28
 #, perl-format
 msgid "Medium #"
-msgstr ""
+msgstr "Tallenne nro"
 
 #: ../root/edit/details/merge_releases.tt:36
 #, perl-format
 msgid "Medium {position} is now medium {new_position}"
-msgstr ""
+msgstr "Tallenne {position} on nyt tallenne {new_position}"
 
 #: ../root/edit/details/merge_releases.tt:30
 #, perl-format
 msgid "Medium {position} is now medium {new_position}: {new_name}"
-msgstr ""
+msgstr "Tallenne {position} on nyt tallenne {new_position}: {new_name}"
 
 #: ../root/edit/details/merge_releases.tt:24
 #, perl-format
 msgid "Medium {position}: {name} is now medium {new_position}"
-msgstr ""
+msgstr "Tallenne {position}: {name] on nyt tallenne {new_position}"
 
 #: ../root/edit/details/merge_releases.tt:19
 #, perl-format
 msgid "Medium {position}: {name} is now medium {new_position}: {new_name}"
-msgstr ""
+msgstr "Tallenne {position}: {name} on nyt tallenne {new_position}: {new_name}"
 
 #: ../root/edit/details/add_disc_id.tt:4 ../root/edit/details/edit_medium.tt:4
 #: ../root/edit/details/remove_disc_id.tt:3
@@ -4708,7 +4708,7 @@ msgid ""
 "MusicBrainz believes strongly in the privacy of its users! Any personal "
 "information you choose to provide will not be sold or shared with anyone "
 "else. For full details, please read our {doc|Privacy Policy}."
-msgstr ""
+msgstr "MusicBrainz uskoo voimakkaasti käyttäjiensä yksityiseen! Mitään tarjoamaasi henkilökohtaista tietoa ei tulla myymään tai jakamaan toisten kanssa. Lisätietoja {doc|yksityisyyskäytännöstämme}."
 
 #: ../root/cdtoc/lookup.tt:83
 #, perl-format
@@ -5984,7 +5984,7 @@ msgstr "Äänite"
 #: ../root/recording/edit_form.tt:6
 #, perl-format
 msgid "Recording Details"
-msgstr ""
+msgstr "Lisätietoja äänitteestä"
 
 #: ../root/recording/not_found.tt:1 ../root/recording/not_found.tt:2
 #, perl-format
@@ -6124,7 +6124,7 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:59
 #, perl-format
 msgid "Relationship Details"
-msgstr ""
+msgstr "Lisätietoja yhteydestä"
 
 #: ../root/edit/search_macros.tt:280
 #, perl-format
@@ -6461,7 +6461,7 @@ msgstr ""
 #: ../root/report/index.tt:52
 #, perl-format
 msgid "Releases where some (but not all) mediums have no format set"
-msgstr ""
+msgstr "Julkaisuja joissa tallenteen muoto on valitsematta"
 
 #: ../root/report/index.tt:42
 #, perl-format
@@ -8237,7 +8237,7 @@ msgid ""
 "This edit type changes voting conditions dynamically based on the exact edit"
 " being made. Please see the official edit type documentation for more "
 "details."
-msgstr ""
+msgstr "Tämä muokkaustyyppi vaihtaa äänestysolosuhteita dynaamisesti perustuen kuhunkin tämän tyyppiseen muokkauksen. Lisätietoja tästä muokkaustyyppinen virallisesta dokumentaatiosta."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
@@ -8349,7 +8349,7 @@ msgstr ""
 #: ../root/cdtoc/attach_list.tt:28
 #, perl-format
 msgid "This medium format cannot have a disc ID attached"
-msgstr ""
+msgstr "Tähän tallennemuotoon ei voi liittää levyn tunnistetta"
 
 #: ../root/scripts/text_strings.tt:51
 #, perl-format
@@ -8888,7 +8888,7 @@ msgstr ""
 #: ../root/cdtoc/info.tt:27
 #, perl-format
 msgid "Track details:"
-msgstr ""
+msgstr "Kappaleen lisätiedot:"
 
 #: ../root/edit/details/edit_track_length.tt:13
 #, perl-format
@@ -9069,7 +9069,7 @@ msgstr "URL-osoite"
 #: ../root/url/index.tt:2
 #, perl-format
 msgid "URL Details"
-msgstr ""
+msgstr "Lisätietoja URL-osoitteesta"
 
 #: ../root/url/index.tt:1
 #, perl-format
@@ -9307,7 +9307,7 @@ msgstr "Näytä lisätietokentän muutoshistoria."
 #: ../root/elections/index.tt:23
 #, perl-format
 msgid "View details"
-msgstr ""
+msgstr "Näytä lisätiedot"
 
 #: ../root/admin/wikidoc/index.tt:110
 #, perl-format
@@ -9851,7 +9851,7 @@ msgstr "Et voi lisätä tällä hetkellä merkintöjä tähän muokkaukseen. ({u
 #: ../root/edit/index.tt:63
 #, perl-format
 msgid "You are not currently able to vote on this edit. ({url|Details})"
-msgstr ""
+msgstr "Et voi tällä hetkellä äänestää tästä muokkauksesta. ({url|Lisätietoja})"
 
 #: ../root/artist/subscribers.tt:33 ../root/label/subscribers.tt:33
 #: ../root/user/subscribers.tt:38
