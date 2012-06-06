@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-06 13:36+0000\n"
+"PO-Revision-Date: 2012-06-06 14:59+0000\n"
 "Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgid ""
 " Enter your username and email below. We will send you an email with a link "
 "to reset your password. If you have forgotten your username, {link|retrieve "
 "it} first and then reset your password. "
-msgstr ""
+msgstr "Syötä alle käyttäjänimesi ja sähköpostiosoitteesi. Lähetämme sinulle sähköpostin, joka sisältää linkin vaihtaaksesi salasanani. Jos olet unohtanut käyttäjänimesi {link|selvitä se} ensin ja sitten vaihda salasanasi."
 
 #: ../root/work/add_iswc.tt:8
 #, perl-format
@@ -429,7 +429,7 @@ msgstr "Hyväksytty"
 #: ../root/account/registered.tt:1 ../root/account/registered.tt:2
 #, perl-format
 msgid "Account Created"
-msgstr ""
+msgstr "Käyttäjätunnus luotu"
 
 #: ../root/admin/edit_user.tt:23 ../root/admin/edit_user.tt:27
 #, perl-format
@@ -1705,12 +1705,12 @@ msgstr ""
 #: ../root/admin/edit_user.tt:11
 #, perl-format
 msgid "Bot"
-msgstr ""
+msgstr "Botti"
 
 #: ../root/user/privileged.tt:40
 #, perl-format
 msgid "Bots"
-msgstr ""
+msgstr "Botit"
 
 #: ../root/browse/index.tt:1 ../root/browse/index.tt:3
 #: ../root/layout/menu.tt:161
@@ -4328,17 +4328,17 @@ msgstr ""
 #: ../root/user/login.tt:34
 #, perl-format
 msgid "Log In"
-msgstr ""
+msgstr "Sisäänkirjautuminen"
 
 #: ../root/layout/menu.tt:19
 #, perl-format
 msgid "Log Out"
-msgstr ""
+msgstr "Uloskirjautuminen"
 
 #: ../root/components/common-macros.tt:386
 #, perl-format
 msgid "Log in"
-msgstr ""
+msgstr "Sisäänkirjautuminen"
 
 #: ../root/artist/layout.tt:117 ../root/label/layout.tt:88
 #: ../root/recording/layout.tt:61 ../root/release_group/layout.tt:62
@@ -4346,7 +4346,7 @@ msgstr ""
 #: ../root/work/layout.tt:64
 #, perl-format
 msgid "Log in to edit"
-msgstr ""
+msgstr "Sisäänkirjaudu muokataksesi"
 
 #: ../root/release/cover_art.tt:60
 #, perl-format
@@ -4409,7 +4409,7 @@ msgstr ""
 #: ../root/layout/menu.tt:127 ../root/main/index.tt:25
 #, perl-format
 msgid "Magic MP3 Tagger"
-msgstr ""
+msgstr "Magic MP3 Tagger"
 
 #: ../root/account/preferences.tt:38
 #, perl-format
@@ -4421,12 +4421,12 @@ msgstr "Lähetä minulle sähköposti, kun jokin muokkauksistani saa ei-äänen.
 #: ../root/layout/menu.tt:235
 #, perl-format
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Postituslistat"
 
 #: ../root/taglookup/nag.tt:22
 #, perl-format
 msgid "Make a donation now!"
-msgstr ""
+msgstr "Lahjoita!"
 
 #: ../root/release/edit/tracklist.tt:172
 #, perl-format
@@ -4724,7 +4724,7 @@ msgstr "MusicBrainz Androidille"
 msgid ""
 "MusicBrainz has one account type for all users. If you represent an artist "
 "or label, please use the above form to create an account."
-msgstr ""
+msgstr "MusizBrainz:ssa on vain yksi käyttäjätyyppi kaikille käyttäjille. Jos edustat artistia tai levy-yhtiötä, käytä edellistä lomaketta luodaksesi käyttäjätunnuksen."
 
 #: ../root/main/index.tt:45
 #, perl-format
@@ -6819,7 +6819,7 @@ msgstr ""
 #: ../root/account/reset_password.tt:3 ../root/account/reset_password.tt:14
 #, perl-format
 msgid "Reset Password"
-msgstr "Salasanan palautus"
+msgstr "Salasanan vaihtaminen"
 
 #: ../root/search/form.tt:7
 #, perl-format
@@ -7882,7 +7882,7 @@ msgstr ""
 #: ../root/user/privileged.tt:41
 #, perl-format
 msgid "The following {count} user accounts are bots:"
-msgstr ""
+msgstr "Seuraavat {count} käyttäjätunnusta ovat botteja: "
 
 #: ../root/user/privileged.tt:31
 #, perl-format
@@ -9239,7 +9239,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "User accounts must be more than 2 weeks old, have a confirmed email address,"
-msgstr ""
+msgstr "Käyttäjätunnusten tulee olla 2 viikkoa vanhoja, niiden sähköpostiosoite tulee olla vahvistettu, "
 
 #: ../root/admin/edit_user.tt:5
 #, perl-format
@@ -9541,7 +9541,7 @@ msgid ""
 "We've sent you information about your MusicBrainz account. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr ""
+msgstr "Olemme lähettäneet sinulle tietoja MusicBrainz käyttäjätunnuksestasi. Jos et vastaanota tätä sähköpostia tai sisäänkirjautumisongelmat jatkuvat, voit {link|ottaa meihin yhteyttä}."
 
 #: ../root/account/lost_password_sent.tt:5
 #, perl-format
@@ -9549,7 +9549,7 @@ msgid ""
 "We've sent you instructions on how to reset your password. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr "Sinulle on lähetty ohjeet salasanasi palauttamiseksi. Jos et vastaanota tätä sähköpostia tai sisäänkirjautumisessasi on vielä ongelmia, voit {link|ottaa meihin yhteyttä}."
+msgstr "Sinulle on lähetty ohjeet salasanasi vaihtamiseksi. Jos et vastaanota tätä sähköpostia tai sisäänkirjautumisessasi on vielä ongelmia, voit {link|ottaa meihin yhteyttä}."
 
 #: ../root/account/edit.tt:17 ../root/admin/edit_user.tt:32
 #, perl-format
