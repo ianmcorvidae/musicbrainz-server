@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-06 11:59+0000\n"
+"PO-Revision-Date: 2012-06-06 12:40+0000\n"
 "Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -451,7 +451,7 @@ msgstr ""
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Add <abbr title=\"Creative Commons\">CC</abbr> License"
-msgstr ""
+msgstr "Lisää <abbr title=\"Creative Commons\">CC</abbr>-lisenssi"
 
 #: ../root/layout/menu.tt:176
 #, perl-format
@@ -3221,7 +3221,7 @@ msgstr ""
 #: ../root/release/edit/editnote.tt:42
 #, perl-format
 msgid "Enter edit"
-msgstr ""
+msgstr "Lisää muokkaus"
 
 #: ../root/edit/vote.tt:29
 #, perl-format
@@ -3233,7 +3233,7 @@ msgstr "Äänestä"
 msgid ""
 "Enter your email address below and we will send you an email with your "
 "MusicBrainz account information."
-msgstr ""
+msgstr "Syötä alle sähköpostiosoitteesi, voidaksemme lähettää sähköpostin, joka sisältää tiedot MusicBrainz käyttäjätunnuksestasi."
 
 #: ../root/forms/edit-note.tt:5
 #, perl-format
@@ -3258,12 +3258,12 @@ msgstr "Virhe"
 #: ../root/edit/require_note.tt:1 ../root/edit/require_note.tt:2
 #, perl-format
 msgid "Error Approving Edit"
-msgstr ""
+msgstr "Virhe muokkausta hyväksyttäessä"
 
 #: ../root/edit/cannot_cancel.tt:1 ../root/edit/cannot_cancel.tt:2
 #, perl-format
 msgid "Error Cancelling Edit"
-msgstr ""
+msgstr "Virhe muokkausta peruttaessa"
 
 #: ../root/main/400.tt:8 ../root/main/404.tt:12 ../root/main/500.tt:37
 #, perl-format
@@ -3280,7 +3280,7 @@ msgstr[1] ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "Error: Unknown Type"
-msgstr ""
+msgstr "Virhe: Tuntematon tyyppi"
 
 #: ../root/forms/edit-note.tt:9
 #, perl-format
@@ -3347,7 +3347,7 @@ msgstr ""
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:36
 #, perl-format
 msgid "FAQs"
-msgstr ""
+msgstr "UKK"
 
 #: ../root/user/profile.tt:156
 #, perl-format
@@ -3605,7 +3605,7 @@ msgid ""
 "MusicBrainz uses a lot of modern technology that Internet Explorer does not "
 "yet support, so we highly recommend the use of this plugin to ensure you get"
 " the most out of the website."
-msgstr ""
+msgstr "Google Chrome Frame on liitännäinen, joka lisää Google Chromen avointa verkkotekniikkaa ja nopean JavaScript-moottorin saumattomasti Internet Exploreriin. MusicBrainz käyttää paljon modernia tekniikkaa, jota Internet Explorer ei vielä tue, joten suosittelemme käyttämään tätä liitännäistä saadaksesi kaiken irti verkkosivuista. "
 
 #: ../root/release/edit/missing_entities.tt:20
 #, perl-format
@@ -3773,7 +3773,7 @@ msgstr "ISWC:"
 msgid ""
 "If none of these artists match the artist you intended, you can still create"
 " a new artist."
-msgstr ""
+msgstr "Jos yksikään artisti ei vastaa haluaamaasi, voit silti lisätä uuden artistin."
 
 #: ../root/release/edit/missing_entities.tt:117
 #, perl-format
@@ -3805,7 +3805,7 @@ msgstr "Mikäli tietokannassa on jo yksi tai useampi samanniminen levy-yhtiö, s
 msgid ""
 "If the problem persists, please {report|report a bug} and include any error "
 "message that is shown above."
-msgstr ""
+msgstr "Jos ongelmatilanne jatkuu, {report|ilmoittaa virheestä} ja liitä ilmoitukseesi edellä esitetty virheilmoitus."
 
 #: ../root/release/edit/information.tt:149
 #, perl-format
@@ -3819,7 +3819,7 @@ msgstr ""
 msgid ""
 "If we do not have a recording for this track in the database yet, please "
 "select \"Add a new recording\" below."
-msgstr ""
+msgstr "Jos tietokannastamme ei vielä löydy äänitettä tälle kappaleella, valitse alta \"Lisää uusi äänite\"."
 
 #: ../root/artist/delete_alias.tt:11 ../root/label/delete_alias.tt:10
 #: ../root/work/delete_alias.tt:10
@@ -3861,7 +3861,7 @@ msgid ""
 "If you don't see the artist you are looking for, you can still add a new "
 "release. This will allow you to create this artist and a release at the same"
 " time"
-msgstr ""
+msgstr "Jos et löydä etsimääsi artistia, voit silti lisätä uuden julkaisen. Täten voit luoda uuden artistin ja julkaisun samanaikaisesti."
 
 #: ../root/cdtoc/attach_filter_release.tt:73
 #, perl-format
@@ -4006,12 +4006,12 @@ msgstr ""
 #: ../root/main/mirror_404.tt:9
 #, perl-format
 msgid "In order to view this page please visit the main server at {uri}."
-msgstr ""
+msgstr "Jotta tämä sivu näkyisi, tulee sinun vierailla pääpalvelimellamme osoitteessa {uri}."
 
 #: ../root/user/login.tt:20
 #, perl-format
 msgid "Incorrect username or password"
-msgstr ""
+msgstr "Virheellinen käyttäjänimi tai tunnussana."
 
 #: ../root/search/form.tt:24
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:54
@@ -4039,7 +4039,7 @@ msgstr ""
 #: ../root/main/500.tt:1 ../root/main/500.tt:3
 #, perl-format
 msgid "Internal Server Error"
-msgstr ""
+msgstr "Sisäinen palvelinvirhe"
 
 #: ../root/user/profile.tt:42
 #, perl-format
@@ -4074,18 +4074,18 @@ msgstr ""
 #: ../root/release/edit/layout.tt:22
 #, perl-format
 msgid "Javascript needs to be enabled to edit releases."
-msgstr ""
+msgstr "JavaScript tulee olla käytettävissä muokataksesi julkaisuja."
 
 #: ../root/recording/edit.tt:35 ../root/release_group/create.tt:18
 #: ../root/release_group/edit.tt:24 ../root/work/create.tt:18
 #, perl-format
 msgid "Javascript needs to be enabled to edit the Artist field on this page."
-msgstr ""
+msgstr "JavaScript tulee olla käytettävissä muokataksesi Artisti-kenttää tällä sivulla."
 
 #: ../root/artist/edit_credit.tt:17 ../root/artist/split.tt:17
 #, perl-format
 msgid "Javascript needs to be enabled."
-msgstr "Javascript tulee aktivoida."
+msgstr "JavaScript tulee olla käytettävissä."
 
 #: ../root/components/forms.tt:272 ../root/release/edit/tracklist.tt:46
 #: ../root/scripts/text_strings.tt:26
@@ -8385,7 +8385,7 @@ msgstr ""
 #: ../root/release/add_cover_art.tt:9
 #, perl-format
 msgid "This page requires JavaScript."
-msgstr ""
+msgstr "Tämä sivu vaatii JavaScriptin olevan käytettävissä."
 
 #: ../root/scripts/text_strings.tt:72
 #, perl-format

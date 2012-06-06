@@ -3,14 +3,15 @@
 # Daniel Schury <email address hidden>, 2011.
 # Mineo <email address hidden>, 2011.
 # Nikolai Prokoschenko <email address hidden>, 2011.
+#   <email address hidden>, 2012.
 # Shepard <email address hidden>, 2011.
 # Tobias Quathamer <email address hidden>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-05-29 22:58+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-06-06 13:00+0000\n"
+"Last-Translator: phwolfer <email address hidden>\n"
 "Language-Team: German (http://www.transifex.net/projects/p/musicbrainz/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,57 +22,57 @@ msgstr ""
 #: DB:medium_format/name:30
 msgctxt "medium_format"
 msgid "10\" Vinyl"
-msgstr ""
+msgstr "10\"-Vinyl"
 
 #: DB:medium_format/name:31
 msgctxt "medium_format"
 msgid "12\" Vinyl"
-msgstr ""
+msgstr "12\"-Vinyl"
 
 #: DB:medium_format/name:29
 msgctxt "medium_format"
 msgid "7\" Vinyl"
-msgstr ""
+msgstr "7\"-Vinyl"
 
 #: DB:medium_format/name:34
 msgctxt "medium_format"
 msgid "8cm CD"
-msgstr ""
+msgstr "8cm-CD"
 
 #: DB:release_group_primary_type/name:1
 msgctxt "release_group_primary_type"
 msgid "Album"
-msgstr ""
+msgstr "Album"
 
 #: DB:work_type/name:1
 msgctxt "work_type"
 msgid "Aria"
-msgstr ""
+msgstr "Arie"
 
 #: DB:release_group_secondary_type/name:5
 msgctxt "release_group_secondary_type"
 msgid "Audiobook"
-msgstr ""
+msgstr "Hörbuch"
 
 #: DB:work_type/name:2
 msgctxt "work_type"
 msgid "Ballet"
-msgstr ""
+msgstr "Ballett"
 
 #: DB:medium_format/name:24
 msgctxt "medium_format"
 msgid "Betamax"
-msgstr ""
+msgstr "Betamax"
 
 #: DB:medium_format/name:20
 msgctxt "medium_format"
 msgid "Blu-ray"
-msgstr ""
+msgstr "Blu-ray"
 
 #: DB:release_status/name:3
 msgctxt "release_status"
 msgid "Bootleg"
-msgstr ""
+msgstr "Bootleg"
 
 #: DB:label_type/name:5
 msgctxt "label_type"
@@ -81,12 +82,12 @@ msgstr ""
 #: DB:medium_format/name:1
 msgctxt "medium_format"
 msgid "CD"
-msgstr ""
+msgstr "CD"
 
 #: DB:medium_format/name:33
 msgctxt "medium_format"
 msgid "CD-R"
-msgstr ""
+msgstr "CD-R"
 
 #: DB:work_type/name:3
 msgctxt "work_type"
@@ -101,17 +102,17 @@ msgstr ""
 #: DB:medium_format/name:9
 msgctxt "medium_format"
 msgid "Cartridge"
-msgstr ""
+msgstr "4-/8-Spur-Kassette"
 
 #: DB:medium_format/name:8
 msgctxt "medium_format"
 msgid "Cassette"
-msgstr ""
+msgstr "Kassette"
 
 #: DB:release_group_secondary_type/name:1
 msgctxt "release_group_secondary_type"
 msgid "Compilation"
-msgstr ""
+msgstr "Kompilation"
 
 #: DB:work_type/name:4
 msgctxt "work_type"
@@ -121,12 +122,12 @@ msgstr ""
 #: DB:medium_format/name:11
 msgctxt "medium_format"
 msgid "DAT"
-msgstr ""
+msgstr "DAT"
 
 #: DB:medium_format/name:16
 msgctxt "medium_format"
 msgid "DCC"
-msgstr ""
+msgstr "Digital Compact Cassette"
 
 #: DB:release_group_secondary_type/name:8
 msgctxt "release_group_secondary_type"
@@ -136,17 +137,17 @@ msgstr ""
 #: DB:medium_format/name:2
 msgctxt "medium_format"
 msgid "DVD"
-msgstr ""
+msgstr "DVD"
 
 #: DB:medium_format/name:18
 msgctxt "medium_format"
 msgid "DVD-Audio"
-msgstr ""
+msgstr "DVD-Audio"
 
 #: DB:medium_format/name:19
 msgctxt "medium_format"
 msgid "DVD-Video"
-msgstr ""
+msgstr "DVD-Video"
 
 #: DB:release_packaging/name:3
 msgctxt "release_packaging"
@@ -156,7 +157,7 @@ msgstr ""
 #: DB:medium_format/name:12
 msgctxt "medium_format"
 msgid "Digital Media"
-msgstr ""
+msgstr "Digitale Medien"
 
 #: DB:label_type/name:1
 msgctxt "label_type"
@@ -166,17 +167,17 @@ msgstr ""
 #: DB:medium_format/name:4
 msgctxt "medium_format"
 msgid "DualDisc"
-msgstr ""
+msgstr "DualDisc"
 
 #: DB:release_group_primary_type/name:3
 msgctxt "release_group_primary_type"
 msgid "EP"
-msgstr ""
+msgstr "EP"
 
 #: DB:gender/name:2
 msgctxt "gender"
 msgid "Female"
-msgstr ""
+msgstr "weiblich"
 
 #: DB:artist_type/name:2
 msgctxt "artist_type"
@@ -186,12 +187,12 @@ msgstr ""
 #: DB:medium_format/name:17
 msgctxt "medium_format"
 msgid "HD-DVD"
-msgstr ""
+msgstr "HD-DVD"
 
 #: DB:medium_format/name:25
 msgctxt "medium_format"
 msgid "HDCD"
-msgstr ""
+msgstr "HDCD"
 
 #: DB:label_type/name:2
 msgctxt "label_type"
@@ -201,7 +202,7 @@ msgstr ""
 #: DB:release_group_secondary_type/name:4
 msgctxt "release_group_secondary_type"
 msgid "Interview"
-msgstr ""
+msgstr "Interview"
 
 #: DB:release_packaging/name:1
 msgctxt "release_packaging"
@@ -216,12 +217,12 @@ msgstr ""
 #: DB:medium_format/name:5
 msgctxt "medium_format"
 msgid "LaserDisc"
-msgstr ""
+msgstr "LaserDisc"
 
 #: DB:release_group_secondary_type/name:6
 msgctxt "release_group_secondary_type"
 msgid "Live"
-msgstr ""
+msgstr "Live"
 
 #: DB:work_type/name:7
 msgctxt "work_type"
@@ -231,17 +232,17 @@ msgstr ""
 #: DB:gender/name:1
 msgctxt "gender"
 msgid "Male"
-msgstr ""
+msgstr "männlich"
 
 #: DB:work_type/name:8
 msgctxt "work_type"
 msgid "Mass"
-msgstr ""
+msgstr "Messe"
 
 #: DB:medium_format/name:6
 msgctxt "medium_format"
 msgid "MiniDisc"
-msgstr ""
+msgstr "MiniDisc"
 
 #: DB:release_group_secondary_type/name:9
 msgctxt "release_group_secondary_type"
@@ -266,7 +267,7 @@ msgstr ""
 #: DB:work_type/name:10
 msgctxt "work_type"
 msgid "Opera"
-msgstr ""
+msgstr "Oper"
 
 #: DB:work_type/name:11
 msgctxt "work_type"
@@ -321,12 +322,12 @@ msgstr ""
 #: DB:medium_format/name:15
 msgctxt "medium_format"
 msgid "Piano Roll"
-msgstr ""
+msgstr "Notenrolle"
 
 #: DB:work_type/name:21
 msgctxt "work_type"
 msgid "Poem"
-msgstr ""
+msgstr "Gedicht"
 
 #: DB:label_type/name:3
 msgctxt "label_type"
