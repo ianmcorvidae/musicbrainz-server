@@ -4,14 +4,15 @@
 # 
 # Translators:
 # Jaakko Perttilä <email address hidden>, 2012.
+# ListMyCDs.com Martikainen <>, 2012.
 # Timo Martikainen <>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-05 22:04+0000\n"
-"Last-Translator: Jaakko Perttilä <email address hidden>\n"
+"PO-Revision-Date: 2012-06-06 10:59+0000\n"
+"Last-Translator: ListMyCDs.com Martikainen <>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -407,12 +408,12 @@ msgstr "Tyhjä"
 #: ../root/doc/edit_type.tt:58
 #, perl-format
 msgid "Accept"
-msgstr ""
+msgstr "Hyväksy"
 
 #: ../root/edit/index.tt:73
 #, perl-format
 msgid "Accept edit"
-msgstr ""
+msgstr "Hyväksy muokkaus"
 
 #: ../root/components/common-macros.tt:512
 #, perl-format
@@ -422,7 +423,7 @@ msgstr ""
 #: ../root/user/profile.tt:144
 #, perl-format
 msgid "Accepted"
-msgstr ""
+msgstr "Hyväksytty"
 
 #: ../root/account/registered.tt:1 ../root/account/registered.tt:2
 #, perl-format
@@ -2986,7 +2987,7 @@ msgstr ""
 #: ../root/edit/details/edit_release_events.tt:58
 #, perl-format
 msgid "Edited"
-msgstr ""
+msgstr "Muokattu"
 
 #: ../root/account/preferences.tt:49 ../root/artist/layout.tt:58
 #: ../root/label/layout.tt:51 ../root/layout/menu.tt:173
@@ -2995,7 +2996,7 @@ msgstr ""
 #: ../root/work/layout.tt:34
 #, perl-format
 msgid "Editing"
-msgstr ""
+msgstr "Muokkaaminen"
 
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
@@ -3008,7 +3009,7 @@ msgstr ""
 #: ../root/work/layout.tt:62
 #, perl-format
 msgid "Editing history"
-msgstr ""
+msgstr "Muokkaushistoria"
 
 #: ../root/main/index.tt:34
 #, perl-format
@@ -3118,23 +3119,23 @@ msgstr ""
 #: ../root/account/preferences.tt:37
 #, perl-format
 msgid "Email"
-msgstr ""
+msgstr "Sähköposti"
 
 #: ../root/account/verify_email_error.tt:1
 #: ../root/account/verify_email_error.tt:3
 #, perl-format
 msgid "Email Address Verification"
-msgstr ""
+msgstr "Sähköpostiosoitteen vahvistaminen"
 
 #: ../root/account/verified.tt:1 ../root/account/verified.tt:3
 #, perl-format
 msgid "Email Address Verified"
-msgstr ""
+msgstr "Sähköpostiosoite vahvistettu"
 
 #: ../root/user/email_sent.tt:1 ../root/user/email_sent.tt:3
 #, perl-format
 msgid "Email Sent"
-msgstr ""
+msgstr "Sähköposti lähetetty"
 
 #: ../root/account/lost_password_sent.tt:3
 #: ../root/account/lost_username_sent.tt:3
@@ -3147,7 +3148,7 @@ msgstr "Sähköposti lähetetty!"
 #: ../root/admin/edit_user.tt:31 ../root/user/profile.tt:15
 #, perl-format
 msgid "Email:"
-msgstr ""
+msgstr "Sähköposti:"
 
 #: ../root/report/empty_release_groups.tt:1
 #: ../root/report/empty_release_groups.tt:3
@@ -3266,7 +3267,7 @@ msgstr ""
 #: ../root/main/400.tt:8 ../root/main/404.tt:12 ../root/main/500.tt:37
 #, perl-format
 msgid "Error message: "
-msgstr ""
+msgstr "Virheilmoitus: "
 
 #: ../root/main/500.tt:9
 #, perl-format
@@ -3313,24 +3314,24 @@ msgstr ""
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Expired"
-msgstr ""
+msgstr "Vanhentunut"
 
 #: ../root/components/common-macros.tt:538
 #, perl-format
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{days}</span>"
-msgstr ""
+msgstr "Vanhenee <span class=\"tooltip\" title=\"{exactdate}\">{days}</span>"
 
 #: ../root/components/common-macros.tt:543
 #, perl-format
 msgid ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{hours}, "
 "{minutes}</span>"
-msgstr ""
+msgstr "Vanhenee <span class=\"tooltip\" title=\"{exactdate}\">{hours}, {minutes}</span>"
 
 #: ../root/components/common-macros.tt:550
 #, perl-format
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>"
-msgstr ""
+msgstr "Vanhenee <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:30
 #, perl-format
@@ -3640,7 +3641,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "High"
-msgstr ""
+msgstr "Korkea"
 
 #: ../root/doc/edit_types.tt:20 ../lib/MusicBrainz/Server/Edit/Historic.pm:12
 #, perl-format
@@ -3742,7 +3743,7 @@ msgstr "ISRC-koodit"
 #: ../root/report/isrc_with_many_recordings.tt:3
 #, perl-format
 msgid "ISRCs with multiple recordings"
-msgstr ""
+msgstr "ISCR-koodeja joista kukin liittyy useampiin äänitteisiin"
 
 #: ../root/artist/works-list.tt:12 ../root/search/results-work.tt:13
 #, perl-format
@@ -5188,12 +5189,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "Normal"
-msgstr ""
+msgstr "Normaali"
 
 #: ../root/user/profile.tt:48
 #, perl-format
 msgid "Normal User"
-msgstr ""
+msgstr "Normaalikäyttäjä"
 
 #: ../root/scripts/text_strings.tt:76
 #, perl-format
@@ -8122,7 +8123,7 @@ msgstr "Tämä CD-levy sisältää kappaleita useammalta kuin yhdeltä artistilt
 msgid ""
 "This ISRC is not associated with any recordings. If you wish to associate it"
 " with a recording, please {search_url|search for the recording} and add it."
-msgstr ""
+msgstr "Tämä ISRC-koodi ei liity yhteenkään äänitteeseen. Jos haluat liittää sen tiettyyn äänitteeseen, {search_url|etsi äänite} ja lisää se siihen."
 
 #: ../root/artist/index.tt:112
 #, perl-format
@@ -8471,7 +8472,7 @@ msgstr "Tämä raportti ei näytä samannimisiä artisteja, mikäli kaikilla nii
 #: ../root/report/isrc_with_many_recordings.tt:6
 #, perl-format
 msgid "This report lists ISRCs that are attached to more than one recording."
-msgstr ""
+msgstr "Tämä raportti listää ISRC-koodeja jotka liittyvät useampaan kuin yhteen äänitteeseen. "
 
 #: ../root/report/mediums_with_sequence_issues.tt:6
 #, perl-format
@@ -8793,7 +8794,7 @@ msgstr "Suosituimmat CD-tyngät"
 #: ../root/report/isrc_with_many_recordings.tt:7
 #, perl-format
 msgid "Total ISRCs found: {count}"
-msgstr "Yhteensä ISRC-koodeja löytyi: {count}"
+msgstr "ISRC-koodeja löytyi yhteensä: {count}"
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:8
 #: ../root/report/artists_that_may_be_groups.tt:9
@@ -9741,7 +9742,7 @@ msgstr ""
 msgid ""
 "You are about to add an ISRC to {recording} by {ac}. The ISRC must be "
 "entered in standard <code>CCXXXYYNNNNNN</code> format:"
-msgstr ""
+msgstr "Olet lisäämässä ISRC-koodia äänitteeseen {recording} jonka artistitietoihin on merkitty {ac}. ISRC-koodin tulee olla standardissa formaatissa <code>CCXXXYYNNNNNN</code>:"
 
 #: ../root/work/add_iswc.tt:3
 #, perl-format
