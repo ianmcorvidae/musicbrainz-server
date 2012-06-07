@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-06 16:20+0000\n"
+"PO-Revision-Date: 2012-06-07 12:06+0000\n"
 "Last-Translator: Timo Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -4670,7 +4670,7 @@ msgstr ""
 #: ../root/edit/details/move_release.tt:14
 #, perl-format
 msgid "Move tracks:"
-msgstr ""
+msgstr "Siirrä kappaleet:"
 
 #: ../root/main/index.tt:2
 #, perl-format
@@ -4685,17 +4685,17 @@ msgstr ""
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
 msgid "MusicBrainz Database"
-msgstr ""
+msgstr "MusicBrainz tietokanta"
 
 #: ../root/layout/menu.tt:121 ../root/main/index.tt:23
 #, perl-format
 msgid "MusicBrainz Picard"
-msgstr ""
+msgstr "MusicBrainz Picard"
 
 #: ../root/layout/menu.tt:133
 #, perl-format
 msgid "MusicBrainz Server"
-msgstr ""
+msgstr "MusicBrainz palvelin"
 
 #: ../root/main/index.tt:49
 #, perl-format
@@ -4762,27 +4762,27 @@ msgstr "MusicBrainz käyttää teoksen aliaksia pääsääntöisesti rinnakkaisn
 #: ../root/layout.tt:24
 #, perl-format
 msgid "MusicBrainz: Artist"
-msgstr ""
+msgstr "MusicBrainz: Artisti"
 
 #: ../root/layout.tt:25
 #, perl-format
 msgid "MusicBrainz: Label"
-msgstr ""
+msgstr "MusicBrainz: Levymerkki"
 
 #: ../root/layout.tt:26
 #, perl-format
 msgid "MusicBrainz: Release"
-msgstr ""
+msgstr "MusicBrainz: Julkaisu"
 
 #: ../root/layout.tt:27
 #, perl-format
 msgid "MusicBrainz: Track"
-msgstr ""
+msgstr "MusicBrainz: Kappale"
 
 #: ../root/layout/menu.tt:27
 #, perl-format
 msgid "My Collections"
-msgstr ""
+msgstr "Kokoelmani"
 
 #: ../root/layout/menu.tt:24
 #, perl-format
@@ -4792,12 +4792,12 @@ msgstr ""
 #: ../root/layout/menu.tt:36
 #, perl-format
 msgid "My Open Edits"
-msgstr ""
+msgstr "Avoimet muokkaukseni"
 
 #: ../root/layout/menu.tt:30
 #, perl-format
 msgid "My Ratings"
-msgstr ""
+msgstr "Arvosanani"
 
 #: ../root/layout/menu.tt:33
 #, perl-format
@@ -4883,7 +4883,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:227
 #, perl-format
 msgid "New Artist"
-msgstr ""
+msgstr "Uusi artisti"
 
 #: ../root/artist/edit_credit.tt:32 ../root/artist/split.tt:46
 #, perl-format
@@ -4905,7 +4905,7 @@ msgstr ""
 #: ../root/edit/details/historic/merge_releases.tt:14
 #, perl-format
 msgid "New Release:"
-msgstr ""
+msgstr "Uusi julkaisu:"
 
 #: ../root/edit/details/edit_release_attributes.tt:27
 #, perl-format
@@ -4915,7 +4915,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:116
 #, perl-format
 msgid "New Tracklist:"
-msgstr ""
+msgstr "Uusi kappalelista:"
 
 #: ../root/edit/details/edit_release_attributes.tt:22
 #, perl-format
@@ -5073,7 +5073,7 @@ msgstr ""
 #: ../root/artist/recordings.tt:16
 #, perl-format
 msgid "No recordings found."
-msgstr ""
+msgstr "Äänitteitä ei löytynyt."
 
 #: ../root/tag/recording.tt:1
 #, perl-format
@@ -5098,12 +5098,12 @@ msgstr "Tämän luokituksen omaavia julkaisuryhmiä ei löytynyt."
 #: ../root/artist/releases.tt:21
 #, perl-format
 msgid "No releases found"
-msgstr ""
+msgstr "Julkaisuja ei löytynyt."
 
 #: ../root/collection/index.tt:52
 #, perl-format
 msgid "No releases found in collection."
-msgstr ""
+msgstr "Kokoelmasta ei löytynyt julkaisuja."
 
 #: ../root/recording/index.tt:43
 #, perl-format
@@ -5113,7 +5113,7 @@ msgstr ""
 #: ../root/release_group/index.tt:78
 #, perl-format
 msgid "No releases found."
-msgstr ""
+msgstr "Julkaisuja ei löytynyt."
 
 #: ../root/tag/release.tt:1
 #, perl-format
@@ -5156,7 +5156,7 @@ msgstr "Et seuraa mitään."
 #: ../root/user/privileged.tt:9
 #, perl-format
 msgid "No users found"
-msgstr ""
+msgstr "Käyttäjiä ei löytynyt."
 
 #: ../root/edit/search_macros.tt:235
 #, perl-format
@@ -5201,7 +5201,7 @@ msgstr "Normaalikäyttäjä"
 #: ../root/scripts/text_strings.tt:76
 #, perl-format
 msgid "Not found? Try again with direct search."
-msgstr ""
+msgstr "Ei löytynyt? Kokeile uudelleen suoralla haulla."
 
 #: ../root/release/edit/information.tt:134
 #, perl-format
@@ -5236,27 +5236,27 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:286 ../root/release/edit/tracklist.tt:417
 #, perl-format
 msgid "Now loading tracklist..."
-msgstr ""
+msgstr "Lataa kappalelistaa..."
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:12
 #, perl-format
 msgid "Official homepage"
-msgstr ""
+msgstr "Virallinen kotisivu"
 
 #: ../root/annotation/history.tt:6
 #, perl-format
 msgid "Old"
-msgstr ""
+msgstr "Vanha"
 
 #: ../root/edit/details/edit_medium.tt:226
 #, perl-format
 msgid "Old Artist"
-msgstr ""
+msgstr "Vanha artisti"
 
 #: ../root/edit/details/edit_medium.tt:42
 #, perl-format
 msgid "Old Tracklist:"
-msgstr ""
+msgstr "Vanha kappalelista:"
 
 #: ../root/account/change_password.tt:10
 #, perl-format
@@ -5271,7 +5271,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:198
 #, perl-format
 msgid "Old recording"
-msgstr ""
+msgstr "Vanha äänite"
 
 #: ../root/edit/details/historic/edit_relationship.tt:6
 #, perl-format
@@ -5281,18 +5281,18 @@ msgstr "Vanhat yhteydet:"
 #: ../root/edit/details/historic/merge_releases.tt:3
 #, perl-format
 msgid "Old releases:"
-msgstr ""
+msgstr "Vanhat julkaisut:"
 
 #: ../root/edit/details/change_wikidoc.tt:11
 #: ../root/edit/details/change_wikidoc.tt:16
 #, perl-format
 msgid "Old version:"
-msgstr ""
+msgstr "Vanha versio:"
 
 #: ../root/edit/details/edit_release_language.tt:3
 #, perl-format
 msgid "Old:"
-msgstr ""
+msgstr "Vanha:"
 
 #: ../root/cdtoc/move_search.tt:5
 #, perl-format
@@ -5329,7 +5329,7 @@ msgstr ""
 #: ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "Open Edits"
-msgstr ""
+msgstr "Avoimet muokkaukset"
 
 #: ../root/artist/layout.tt:112 ../root/edit/list_header.tt:11
 #: ../root/label/layout.tt:84 ../root/recording/layout.tt:57
@@ -5337,7 +5337,7 @@ msgstr ""
 #: ../root/url/layout.tt:14 ../root/work/layout.tt:60
 #, perl-format
 msgid "Open edits"
-msgstr ""
+msgstr "Avoimet muokkaukset"
 
 #: ../root/components/common-macros.tt:393
 #: ../root/components/common-macros.tt:398
