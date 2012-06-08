@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-08 15:59+0000\n"
+"PO-Revision-Date: 2012-06-08 16:11+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -112,12 +112,12 @@ msgstr ""
 #: ../root/user/profile.tt:28
 #, perl-format
 msgid "(<strong>unverified!</strong>)"
-msgstr "(<strong>non verificato!</strong>)"
+msgstr "(<strong>non verificata!</strong>)"
 
 #: ../root/main/400.tt:12 ../root/main/500.tt:41
 #, perl-format
 msgid "(No details about this error are available)"
-msgstr ""
+msgstr "(Nessun dettaglio disponibile riguardo a questo errore)"
 
 #: ../root/release/edit/recordings.tt:205
 #: ../root/release/edit/recordings.tt:319
@@ -207,7 +207,7 @@ msgstr "(sconosciuto)"
 #: ../root/user/profile.tt:24
 #, perl-format
 msgid "(verified at {date})"
-msgstr ""
+msgstr "(verificata il {date})"
 
 #: ../root/release/merge.tt:63
 #, perl-format
@@ -1276,7 +1276,7 @@ msgstr "Dettagli artista"
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Artist IPI:"
-msgstr ""
+msgstr "IPI artista:"
 
 #: ../root/artist/not_found.tt:1 ../root/artist/not_found.tt:2
 #, perl-format
@@ -1311,7 +1311,7 @@ msgstr ""
 #: ../root/components/forms.tt:249 ../root/release/edit/tracklist.tt:44
 #, perl-format
 msgid "Artist in MusicBrainz"
-msgstr ""
+msgstr "Artista su MusicBrainz"
 
 #: ../root/artist/layout.tt:4
 #, perl-format
@@ -1693,7 +1693,7 @@ msgstr "Data di nascita:"
 #: ../root/layout/menu.tt:113
 #, perl-format
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/scripts/text_strings.tt:72
@@ -1704,12 +1704,12 @@ msgstr ""
 #: ../root/admin/edit_user.tt:11
 #, perl-format
 msgid "Bot"
-msgstr ""
+msgstr "Bot"
 
 #: ../root/user/privileged.tt:40
 #, perl-format
 msgid "Bots"
-msgstr ""
+msgstr "Bot"
 
 #: ../root/browse/index.tt:1 ../root/browse/index.tt:3
 #: ../root/layout/menu.tt:161
@@ -1797,7 +1797,7 @@ msgstr ""
 #: ../root/cdtoc/lookup.tt:82
 #, perl-format
 msgid "CD Not Found"
-msgstr ""
+msgstr "CD non trovato"
 
 #: ../root/search/results-cdstub.tt:10
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:40
@@ -1876,28 +1876,28 @@ msgstr ""
 #: ../root/work/merge.tt:19
 #, perl-format
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
 msgid "Cancel Edit"
-msgstr ""
+msgstr "Annulla modifica"
 
 #: ../root/components/common-macros.tt:444
 #, perl-format
 msgid "Cancel creating relationship with {name}"
-msgstr ""
+msgstr "Annulla creazione relazione con {name}"
 
 #: ../root/edit/cancel.tt:24 ../root/edit/edit_header.tt:81
 #: ../root/edit/info.tt:21
 #, perl-format
 msgid "Cancel edit"
-msgstr ""
+msgstr "Annulla modifica"
 
 #: ../root/elections/show.tt:97
 #, perl-format
 msgid "Cancel the election"
-msgstr ""
+msgstr "Annulla l'elezione"
 
 #: ../root/artist/delete_alias.tt:17 ../root/label/delete_alias.tt:16
 #, perl-format
@@ -1933,17 +1933,17 @@ msgstr ""
 #: ../root/edit/relationship/cannot_create.tt:2
 #, perl-format
 msgid "Cannot Create Relationship"
-msgstr ""
+msgstr "Impossibile creare relazione"
 
 #: ../root/recording/cannot_add.tt:1
 #, perl-format
 msgid "Cannot add recordings"
-msgstr ""
+msgstr "Impossibile aggiungere registrazioni"
 
 #: ../root/artist/special_purpose.tt:1
 #, perl-format
 msgid "Cannot edit"
-msgstr ""
+msgstr "Impossibile modificare"
 
 #: ../root/release/edit/information.tt:76
 #, perl-format
@@ -7761,7 +7761,7 @@ msgstr ""
 #: ../root/account/verified.tt:4
 #, perl-format
 msgid "Thank you, your email address has now been verified!"
-msgstr ""
+msgstr "Grazie, il tuo indirizzo email è ora verificato!"
 
 #: ../root/release/caa_darkened.tt:3 ../root/release/cover_art.tt:56
 #, perl-format
@@ -10743,7 +10743,7 @@ msgstr "Spiacenti, questo link di verifica email è scaduto."
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:91
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found."
-msgstr ""
+msgstr "Impossibile trovare l'utente con ID '{user_id}'."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:134
 msgid ""
@@ -10770,7 +10770,7 @@ msgstr "Spiacenti, il link per reimpostare la password è scaduto."
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
 msgid "The user with ID '{user_id}' could not be found"
-msgstr ""
+msgstr "Impossibile trovare l'utente con ID '{user_id}'."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:256
 msgid "There is no user with this email"
@@ -10786,7 +10786,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:475
 #, perl-brace-format
 msgid "The artist name has been changed in edit #{id}."
-msgstr ""
+msgstr "Il nome dell'artista è stato cambiato con la modifica #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:518
 msgid "You cannot merge a special purpose artist into another artist"
@@ -11306,7 +11306,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
-msgstr ""
+msgstr "Rimuovi opera"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/DeleteAlias.pm:15
 msgid "Remove work alias"
@@ -11474,22 +11474,22 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:65
 #, perl-brace-format
 msgid "A track name is required on track {pos}"
-msgstr ""
+msgstr "È necessario inserire il nome della traccia {pos}"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:70
 #, perl-brace-format
 msgid "A position is required for \"{name}\""
-msgstr ""
+msgstr "È necessario inserire la posizione di \"{name}\""
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:75
 #, perl-brace-format
 msgid "\"{name1}\" and \"{name2}\" have the same position"
-msgstr ""
+msgstr "\"{name1}\" e \"{name2}\" hanno la stessa posizione"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:88
 #, perl-brace-format
 msgid "An artist is required on track {pos}"
-msgstr ""
+msgstr "È necessario inserire l'artista della traccia {pos}"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:115
 #, perl-brace-format
@@ -11730,7 +11730,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Release.pm:1394
 #, perl-brace-format
 msgid "There is no track {tracknum} on this album"
-msgstr ""
+msgstr "Non c'è nessuna traccia {tracknum} su questo album"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1410
 #, perl-brace-format
@@ -11753,7 +11753,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
-msgstr ""
+msgstr "Aggiungi entità mancanti"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:120
 msgid "Release Duplicates"

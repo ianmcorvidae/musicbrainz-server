@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-01 07:15+0000\n"
+"PO-Revision-Date: 2012-06-08 16:12+0000\n"
 "Last-Translator: Benjamin Sonntag <email address hidden>\n"
 "Language-Team: French (France) (http://www.transifex.net/projects/p/musicbrainz/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:38
 #, perl-format
 msgid " &ndash; ????"
-msgstr ""
+msgstr " &ndash; ????"
 
 #: ../root/account/lost_password.tt:7
 #, perl-format
@@ -238,7 +238,7 @@ msgstr "* Cette valeur indique la différence totale en secondes entre le CD que
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:115
 #, perl-format
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: ../root/user/profile.tt:97
 #, perl-format
@@ -498,7 +498,7 @@ msgstr "Ajouter un ISRC"
 #: ../root/work/layout.tt:37
 #, perl-format
 msgid "Add ISWC"
-msgstr ""
+msgstr "Ajouter un ISWC"
 
 #: ../root/layout/menu.tt:179 ../root/release/edit/information.tt:91
 #: ../root/release/edit/information.tt:93
@@ -1179,7 +1179,7 @@ msgstr "Êtes-vous sûr de vouloir supprimer le code ISRC <strong>{isrc}</strong
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the ISWC <code>{iswc}</code> from {work}?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer le code ISWC <code>{iswc}</code> de {work} ?"
 
 #: ../root/release/remove_cover_art.tt:4
 #, perl-format
@@ -1263,13 +1263,13 @@ msgstr "Pays de l'artiste"
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
 msgid "Artist Credit:"
-msgstr ""
+msgstr "Crédits :"
 
 #: ../root/artist/aliases.tt:8 ../root/artist/edit_form.tt:59
 #: ../root/edit/details/add_medium.tt:43
 #, perl-format
 msgid "Artist Credits"
-msgstr ""
+msgstr "Crédits"
 
 #: ../root/artist/edit_form.tt:37
 #, perl-format
@@ -1279,7 +1279,7 @@ msgstr "Détails de l'artiste"
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Artist IPI:"
-msgstr ""
+msgstr "IPI de l'artiste :"
 
 #: ../root/artist/not_found.tt:1 ../root/artist/not_found.tt:2
 #, perl-format
@@ -1304,12 +1304,12 @@ msgstr "Artiste reconnu sur cette piste"
 #: ../root/components/filter-form.tt:11
 #, perl-format
 msgid "Artist credit:"
-msgstr ""
+msgstr "Crédits :"
 
 #: ../root/edit/details/edit_medium.tt:220
 #, perl-format
 msgid "Artist credits:"
-msgstr ""
+msgstr "Crédits :"
 
 #: ../root/components/forms.tt:249 ../root/release/edit/tracklist.tt:44
 #, perl-format
@@ -2658,7 +2658,7 @@ msgstr "Disques entrés sous forme de sorties séparées"
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
 msgid "Dissolved:"
-msgstr ""
+msgstr "Dissous : "
 
 #: ../root/release/edit/duplicates.tt:40
 #, perl-format
@@ -2773,7 +2773,7 @@ msgstr "Modifier la collection"
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
 msgid "Edit Cover Art"
-msgstr ""
+msgstr "Modifier la Jaquette"
 
 #: ../root/layout/menu.tt:58
 #, perl-format
@@ -3690,7 +3690,7 @@ msgstr "ID"
 #: ../root/artist/edit_form.tt:44 ../root/label/edit_form.tt:45
 #, perl-format
 msgid "IPI code"
-msgstr ""
+msgstr "Code IPI"
 
 #: ../root/artist/layout.tt:47 ../root/edit/details/add_artist.tt:61
 #: ../root/edit/details/add_label.tt:68 ../root/edit/details/edit_artist.tt:49
@@ -3703,7 +3703,7 @@ msgstr "Code IPI :"
 #: ../root/edit/details/edit_label.tt:56 ../root/label/edit_form.tt:45
 #, perl-format
 msgid "IPI codes:"
-msgstr ""
+msgstr "Codes IPI :"
 
 #: ../root/report/isrc_with_many_recordings.tt:15
 #, perl-format
@@ -3756,12 +3756,12 @@ msgstr "ISWC"
 #: ../root/edit/details/add_iswcs.tt:8
 #, perl-format
 msgid "ISWC {iswc} to {work}"
-msgstr ""
+msgstr "Code ISWC {iswc} pour {work}"
 
 #: ../root/iswc/index.tt:1 ../root/iswc/index.tt:3
 #, perl-format
 msgid "ISWC “{iswc}”"
-msgstr ""
+msgstr "Code ISWC \"{iswc}\""
 
 #: ../root/edit/details/add_work.tt:23 ../root/edit/details/edit_work.tt:19
 #: ../root/edit/details/remove_iswc.tt:3 ../root/otherlookup/form.tt:3
@@ -4071,7 +4071,7 @@ msgstr "Il semble que vous utilisez Internet Explorer<br />Pour tirer le meilleu
 #: ../root/layout/menu.tt:124 ../root/main/index.tt:24
 #, perl-format
 msgid "Jaikoz Tagger"
-msgstr ""
+msgstr "Tagueur Jaikoz "
 
 #: ../root/release/edit/layout.tt:22
 #, perl-format
@@ -4138,7 +4138,7 @@ msgstr "Détails du label"
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Label IPI:"
-msgstr ""
+msgstr "IPI du Label :"
 
 #: ../root/label/not_found.tt:1 ../root/label/not_found.tt:2
 #, perl-format
@@ -4889,7 +4889,7 @@ msgstr "Nouvel artiste"
 #: ../root/artist/edit_credit.tt:32 ../root/artist/split.tt:46
 #, perl-format
 msgid "New Artist Credit"
-msgstr ""
+msgstr "Nouveau Crédit"
 
 #: ../root/relationship/linkattributetype/create.tt:1
 #: ../root/relationship/linkattributetype/create.tt:3
@@ -5475,12 +5475,12 @@ msgstr "Parent : "
 #: ../root/release/edit/tracklist.tt:161
 #, perl-format
 msgid "Parse Tracks"
-msgstr ""
+msgstr "Décoder les Pistes"
 
 #: ../root/release/edit/tracklist.tt:189
 #, perl-format
 msgid "Parse track artists"
-msgstr ""
+msgstr "Décoder les artistes de la piste"
 
 #: ../root/report/part_of_set_relationships.tt:1
 #: ../root/report/part_of_set_relationships.tt:3
@@ -5733,7 +5733,7 @@ msgstr "Merci de choisir au moins 1 enregistrement pour le mettre en relation av
 msgid ""
 "Please select the artist credits that you want to rename to follow the new "
 "artist name."
-msgstr ""
+msgstr "Merci de choisir le crédit que vous voulez renommer pour suivre le nouveau nom de l'artiste."
 
 #: ../root/cdtoc/attach_artist_releases.tt:26
 #, perl-format
@@ -6422,7 +6422,7 @@ msgstr "Sorties pour lesquelles des noms de pistes commencent par leur numéro d
 #: ../root/report/cat_no_looks_like_asin.tt:3
 #, perl-format
 msgid "Releases With Catalog Numbers That Look Like ASINs"
-msgstr ""
+msgstr "Sorties avec des numéros de catalogue qui ressemblent à des ASINs"
 
 #: ../root/report/multiple_asins.tt:1 ../root/report/multiple_asins.tt:3
 #, perl-format
@@ -6499,7 +6499,7 @@ msgstr "Sorties avec une relation de téléchargement en Créative Commons"
 #: ../root/report/index.tt:53
 #, perl-format
 msgid "Releases with catalog numbers that look like ASINs"
-msgstr ""
+msgstr "Sorties avec un numéro de catalogue qui ressemble à un ASIN"
 
 #: ../root/report/mediums_with_sequence_issues.tt:1
 #: ../root/report/mediums_with_sequence_issues.tt:3
@@ -6779,7 +6779,7 @@ msgstr "Supprimé"
 #: ../root/edit/details/merge_artists.tt:4
 #, perl-format
 msgid "Rename artist credits"
-msgstr ""
+msgstr "Renommer le Crédit"
 
 #: ../root/release/cover_art.tt:51 ../root/release/reorder_cover_art.tt:5
 #: ../root/release/reorder_cover_art.tt:6
@@ -6947,7 +6947,7 @@ msgstr "Rechercher un Éditeur"
 #: ../root/cdtoc/attach_filter_artist.tt:3
 #, perl-format
 msgid "Search for an artist"
-msgstr ""
+msgstr "Rechercher un artiste"
 
 #: ../root/edit/list_header.tt:8
 #, perl-format
@@ -6964,7 +6964,7 @@ msgstr "Rechercher des enregistrements"
 msgid ""
 "Search indexes are updated every 3 hours, use the direct database search if "
 "you require up to the minute correct results."
-msgstr ""
+msgstr "Les index de recherche sont mis à jour toutes les 3 heures, utilisez une recherche directe en base si vous avez besoin de resultats issus de la base actuelle."
 
 #: ../root/taglookup/results.tt:12
 #, perl-format
@@ -6972,12 +6972,12 @@ msgid ""
 "Search indexes are updated every 3 hours. If you just added the content "
 "you're looking for and you can't find it here, go to {url|the search page} "
 "and select the \"direct database search\" option."
-msgstr ""
+msgstr "Les index de recherche sont mis à jour toutes les 3 heures. Si vous venez d'ajouter du contenu et que vous ne le trouvez pas ici, rendez-vous à la {url|page de recherche}, et choisissez l'option \"recherche directe en base\"."
 
 #: ../root/search/form.tt:20
 #, perl-format
 msgid "Search method:"
-msgstr ""
+msgstr "Méthode de recherche :"
 
 #: ../root/cdstub/layout.tt:33
 #, perl-format
@@ -6987,7 +6987,7 @@ msgstr "Chercher ce CD dans la base de données"
 #: ../root/components/common-macros.tt:694
 #, perl-format
 msgid "Search the documentation..."
-msgstr ""
+msgstr "Chercher dans la documentation..."
 
 #: ../root/release/edit/recordings.tt:110
 #, perl-format
@@ -7019,7 +7019,7 @@ msgstr "Secteurs"
 #: ../root/tag/index.tt:20
 #, perl-format
 msgid "See all {num} {entity}"
-msgstr ""
+msgstr "Voir les {num} {entity}"
 
 #: ../root/account/edit.tt:6
 #, perl-format
@@ -7041,14 +7041,14 @@ msgstr "Choisir"
 #: ../root/release/edit/tracklist.tt:99
 #, perl-format
 msgid "Select a disc from the search results below and then click \"Add Disc\"."
-msgstr ""
+msgstr "Choisissez un disque dans le résultat ci-dessous et cliquez sur \"Ajouter un disque\"."
 
 #: ../root/cdtoc/move_search.tt:4
 #, perl-format
 msgid ""
 "Select a release to which the disc ID <code>{discid}</code>. should be moved"
 " to."
-msgstr ""
+msgstr "Choisissez la sortie vers laquelle l'ID de disque <code>{discid}</code> doit être déplacé."
 
 #: ../root/user/contact.tt:20
 #, perl-format
@@ -7069,12 +7069,12 @@ msgstr "Envoyer une copie à mon adresse email personnelle"
 #: ../root/account/preferences.tt:45
 #, perl-format
 msgid "Send me mails with edits to my subscriptions:"
-msgstr ""
+msgstr "Envoyez-moi un mail quand une modification a lieu sur un de mes abonnements"
 
 #: ../root/cdtoc/set_durations.tt:1 ../root/cdtoc/set_durations.tt:2
 #, perl-format
 msgid "Set Tracklist Durations"
-msgstr ""
+msgstr "Modifier la durée des pistes"
 
 #: ../root/account/reset_password.tt:5
 #, perl-format
@@ -7095,22 +7095,22 @@ msgstr "Phrase pour le lien court :"
 #: ../root/release/index.tt:11
 #, perl-format
 msgid "Show Credits"
-msgstr ""
+msgstr "Afficher les Crédits"
 
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
 msgid "Show less..."
-msgstr ""
+msgstr "En voir moins..."
 
 #: ../root/scripts/text_strings.tt:87
 #, perl-format
 msgid "Show more..."
-msgstr ""
+msgstr "En voir plus..."
 
 #: ../root/account/preferences.tt:33
 #, perl-format
 msgid "Show my Gravatar"
-msgstr ""
+msgstr "Afficher mon Gravatar"
 
 #: ../root/artist/index.tt:125
 #, perl-format
@@ -7130,13 +7130,13 @@ msgstr "Affichage de des \"artistes divers\" {show_subset|Cliquez ici pour affic
 #, perl-format
 msgid ""
 "Showing all recordings. {show_sa|Show only standalone recordings instead}."
-msgstr ""
+msgstr "Affichage de tous les enregistrements. {show_sa|Afficher plutôt les enregistrements isolés}."
 
 #: ../root/artist/recordings.tt:20
 #, perl-format
 msgid ""
 "Showing only standalone recordings. {show_all|Show all recordings instead}."
-msgstr ""
+msgstr "Affichage des enregistrements isolés. {show_all|Afficher plutôt tous les enregistrements}."
 
 #: ../root/artist/index.tt:122
 #, perl-format
@@ -7167,7 +7167,7 @@ msgstr "Sorties similaires"
 #: ../root/main/rate_limited.tt:1 ../root/main/rate_limited.tt:3
 #, perl-format
 msgid "Slow Down!"
-msgstr ""
+msgstr "Prenez votre temps !"
 
 #: ../root/scripts/text_strings.tt:77
 #, perl-format
@@ -7184,7 +7184,7 @@ msgstr "Contrat Social"
 msgid ""
 "Some FreeDB results may not be immediately available since they are only "
 "able to be updated after FreeDB's monthly database export."
-msgstr ""
+msgstr "Certains résultats ne seront pas immédiatement visibles dans FreeDB car ils ne seront visibles qu'après l'export mensuel de la base FreeDB."
 
 #: ../root/scripts/text_strings.tt:31
 #, perl-format
@@ -7234,7 +7234,7 @@ msgstr "Désolé, mais votre recherche (<code>{query}</code>) ne peut pas être 
 #, perl-format
 msgid ""
 "Sorry, but your requests are exceeding the allowable rate limit ({rlinfo})."
-msgstr ""
+msgstr "Désolé, vos requêtes dépassent le taux maximal autorisé ({rlinfo})."
 
 #: ../root/main/404.tt:8
 #, perl-format
@@ -7299,14 +7299,14 @@ msgstr "Désolé, il y a un problème avec votre requête."
 msgid ""
 "Sorry, we could not find a FreeDB entry with that ID. You may wish to try "
 "and {search_url|search for it} instead."
-msgstr ""
+msgstr "Désolé, nous n'avons pas trouvé d'entrée FreeDB avec cet ID. Vous devriez plutôt {search_url|essayer cette recherche}."
 
 #: ../root/otherlookup/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a MusicBrainz entity with that MusicBrainz ID. You "
 "may wish to try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Désolé, nous n'avons pas trouvé d'entité MusicBrainz ayant cet ID. Vous devriez plutôt {search_url|essayer cette recherche}."
 
 #: ../root/url/not_found.tt:4
 #, perl-format
@@ -7331,7 +7331,7 @@ msgstr "Désolé, nous ne trouvons pas d'enregistrement avec cet ID MusicBrainz.
 #, perl-format
 msgid ""
 "Sorry, we could not find a relationship attribute with that MusicBrainz ID."
-msgstr ""
+msgstr "Désolé, nous n'avons pas trouvé d'attribut de relation ayant cet ID MusicBrainz."
 
 #: ../root/release_group/not_found.tt:4
 #, perl-format
@@ -7395,7 +7395,7 @@ msgstr "Désolé, nous ne trouvons pas la table des matières de CD spécifiée.
 #: ../root/elections/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find this election."
-msgstr ""
+msgstr "Désolé, nous ne trouvons pas cette élection."
 
 #: ../root/main/401.tt:5
 #, perl-format
@@ -7426,7 +7426,7 @@ msgstr "Désolé, votre requête (<code>{query}</code>) ne contient pas assez d'
 #: ../root/search/error/uri-too-large.tt:3
 #, perl-format
 msgid "Sorry, your query was too large."
-msgstr ""
+msgstr "Désolé, votre requête est trop grosse."
 
 #: ../root/doc/bare_error.tt:5 ../root/doc/error.tt:11
 #, perl-format
@@ -7448,7 +7448,7 @@ msgstr "Nom de tri :"
 #: ../root/components/aliases.tt:7 ../root/report/duplicate_artists.tt:21
 #, perl-format
 msgid "Sort name"
-msgstr ""
+msgstr "Nom de tri"
 
 #: ../root/alias/edit_form.tt:5 ../root/artist/edit_form.tt:39
 #: ../root/artist/layout.tt:6 ../root/edit/details/add_artist_alias.tt:12
@@ -7472,17 +7472,17 @@ msgstr "Nom de tri :"
 #: ../root/artist/split.tt:15
 #, perl-format
 msgid "Split Artist"
-msgstr ""
+msgstr "Séparer l'artiste"
 
 #: ../root/artist/cannot_split.tt:2 ../root/artist/split.tt:20
 #, perl-format
 msgid "Split Into Separate Artists"
-msgstr ""
+msgstr "Séparé en des artistes distincts"
 
 #: ../root/artist/layout.tt:91
 #, perl-format
 msgid "Split into separate artists"
-msgstr ""
+msgstr "Séparé en des artistes distincts"
 
 #: ../root/layout/menu.tt:80
 #, perl-format
@@ -7492,7 +7492,7 @@ msgstr "Sponsors"
 #: ../root/main/500.tt:19
 #, perl-format
 msgid "Stack trace:"
-msgstr ""
+msgstr "Contenu de la pile :"
 
 #: ../root/cdtoc/info.tt:32
 #, perl-format
@@ -7502,7 +7502,7 @@ msgstr "Début"
 #: ../root/elections/index.tt:11
 #, perl-format
 msgid "Start date"
-msgstr ""
+msgstr "Date de début"
 
 #: ../root/browse/page_selector.tt:57
 #, perl-format
@@ -7557,12 +7557,12 @@ msgstr "Envoyer"
 #: ../root/cdtoc/lookup.tt:104
 #, perl-format
 msgid "Submit this CD using the simple method."
-msgstr ""
+msgstr "Envoyer ce CD avec la méthode simple."
 
 #: ../root/edit/list.tt:81
 #, perl-format
 msgid "Submit votes & edit notes"
-msgstr ""
+msgstr "Envoyer les votes et notes de modification"
 
 #: ../root/artist/layout.tt:128 ../root/label/layout.tt:98
 #, perl-format
@@ -7606,7 +7606,7 @@ msgstr "Abonnés"
 #: ../root/user/profile.tt:93
 #, perl-format
 msgid "Subscribers:"
-msgstr ""
+msgstr "Abonnés :"
 
 #: ../root/artist/layout.tt:122 ../root/label/layout.tt:92
 #: ../root/layout/menu.tt:16 ../root/user/profile/layout.tt:12
@@ -7617,7 +7617,7 @@ msgstr "Abonnements"
 #: ../root/release/edit/recordings.tt:77
 #, perl-format
 msgid "Suggested recording:"
-msgstr ""
+msgstr "Enregistrements suggérés :"
 
 #: ../root/edit/details/add_release_annotation.tt:30
 #, perl-format
@@ -7627,7 +7627,7 @@ msgstr "Résumé :"
 #: ../root/main/503.tt:1 ../root/main/503.tt:3
 #, perl-format
 msgid "System Busy"
-msgstr ""
+msgstr "Système occupé"
 
 #: ../root/collection/tag.tt:1 ../root/components/tags.tt:11
 #: ../root/layout/sidebar/sidebar-tags.tt:36
@@ -7654,7 +7654,7 @@ msgstr "Tag non utilisé"
 #: ../root/main/index.tt:20
 #, perl-format
 msgid "Tag Your Music"
-msgstr ""
+msgstr "Tagguez votre musique"
 
 #: ../root/search/index.tt:14
 #, perl-format
@@ -7739,12 +7739,12 @@ msgstr "Tags"
 #: ../root/layout/menu.tt:83
 #, perl-format
 msgid "Team"
-msgstr ""
+msgstr "Équipe"
 
 #: ../root/admin/edit_user.tt:10
 #, perl-format
 msgid "Technical flags"
-msgstr ""
+msgstr "Attributs techniques"
 
 #: ../root/edit/index.tt:70
 #, perl-format
@@ -7771,7 +7771,7 @@ msgstr "Merci, votre adresse email a été vérifiée !"
 msgid ""
 "The Cover Art Archive has had a take down request in the past for this "
 "release, so we are unable to allow any more uploads."
-msgstr ""
+msgstr "La Cover Art Archive a reçu des requêtes de suppression dans le passé pour cette sortie, nous ne pouvons donc plus autoriser d'envois."
 
 #: ../root/user/profile.tt:77
 #, perl-format
