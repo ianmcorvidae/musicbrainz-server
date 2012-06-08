@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-08 01:53+0000\n"
+"PO-Revision-Date: 2012-06-08 02:19+0000\n"
 "Last-Translator: Timo Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -334,7 +334,7 @@ msgstr "<strong>Huomaa</strong>:"
 msgid ""
 "<strong>The ultimate source of music information</strong> by allowing anyone"
 " to contribute and releasing the {doc|data} under {doc2|open licenses}."
-msgstr "<strong>Ylivoimaisesti paras musiikkiin liittyvä tietolähde</strong>, sallimalla jokaisen osallistua ja julkaisemalla {dot|dataa} {doc2|avointen lisenssien} alaisena."
+msgstr "<strong>Ylivoimaisesti paras musiikkiin liittyvä tietolähde</strong>, sallimalla jokaisen osallistua ja julkaisemalla {dot|dataa} {doc|avointen lisenssien} alaisena."
 
 #: ../root/main/index.tt:59
 #, perl-format
@@ -342,7 +342,7 @@ msgid ""
 "<strong>The universal lingua franca for music</strong> by providing a "
 "reliable and unambiguous form of {doc|music identification}, enabling both "
 "people and machines to have meaningful conversations about music."
-msgstr "<strong>Universaali musiikin kieli</strong> tarjoamalla luotettavan ja selkäen muodon {doc|musiikin tunnistamiselle}, sallien samalla sekä ihmisten että koneiden mielekkään keskustelun musiikista."
+msgstr "<strong>Universaali musiikin kieli</strong>, tarjoamalla luotettavan ja selkäen muodon {doc|musiikin tunnistamiselle}, sallien samalla sekä ihmisten että koneiden mielekkään keskustelun musiikista."
 
 #: ../root/components/common-macros.tt:639 ../root/recording/edit.tt:41
 #: ../root/release/edit/tracklist.tt:131
@@ -1613,7 +1613,7 @@ msgstr "Koska annoit sähköpostiosoitteen, varmistussähköposti lähetettiin o
 msgid ""
 "Become a part of our <strong>global community</strong> and <strong>start "
 "contributing!</strong>"
-msgstr "Tule osaksi <strong>maailman laajuista yhteisöämme</strong> ja <strong>ota osaa!</strong>"
+msgstr "Ole osa <strong>maailman laajuista yhteisöämme</strong> ja <strong>osallistu!</strong>"
 
 #: ../root/cdtoc/lookup.tt:89
 #, perl-format
@@ -2619,7 +2619,7 @@ msgstr "Levy {num}: {title}"
 #: ../root/artist/index.tt:46
 #, perl-format
 msgid "Discography"
-msgstr ""
+msgstr "Diskografia"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
@@ -2777,7 +2777,7 @@ msgstr ""
 #: ../root/layout/menu.tt:58
 #, perl-format
 msgid "Edit Instrument Tree"
-msgstr ""
+msgstr "Muokkaa soitinluetteloa"
 
 #: ../root/label/edit.tt:15
 #, perl-format
@@ -4035,7 +4035,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/instruments.tt:3
 #, perl-format
 msgid "Instrument Tree"
-msgstr ""
+msgstr "Soitinluettelo"
 
 #: ../root/main/500.tt:1 ../root/main/500.tt:3
 #, perl-format
@@ -4740,7 +4740,7 @@ msgid ""
 "MusicBrainz is operated by the {uri|MetaBrainz Foundation}, a California "
 "based 501(c)(3) tax-exempt non-profit corporation dedicated to keeping "
 "MusicBrainz {free|free and open source}."
-msgstr "MusicBrainz-palvelua operoi {uri|MetaBrainz-säätiö}, Yhdysvaltain Kaliforniassa sijaitseva, 501(c)(3) verovapaan statuksen omaava, voittoa tavoittelematon yritys, joka on omistautunut pitämään MusicBrainzin {free|ilmaisena ja kaikille avoimena}."
+msgstr "MusicBrainz-palvelua operoi {uri|MetaBrainz-säätiö}, Yhdysvaltain Kaliforniassa sijaitseva, 501(c)(3) verovapaan statuksen omaava, voittoa tavoittelematon yritys. Säätiö on omistautunut pitämään MusicBrainzin {free|ilmaisena ja kaikille avoimena}."
 
 #: ../root/artist/add_alias.tt:4 ../root/artist/edit_alias.tt:4
 #, perl-format
@@ -4878,7 +4878,7 @@ msgstr ""
 #: ../root/annotation/history.tt:7
 #, perl-format
 msgid "New"
-msgstr ""
+msgstr "Uusi"
 
 #: ../root/edit/details/edit_medium.tt:227
 #, perl-format
@@ -4930,12 +4930,12 @@ msgstr ""
 #: ../root/edit/details/edit_release_language.tt:25
 #, perl-format
 msgid "New language:"
-msgstr ""
+msgstr "Uusi kieli:"
 
 #: ../root/edit/details/change_wikidoc.tt:17
 #, perl-format
 msgid "New page"
-msgstr ""
+msgstr "Uusi sivu"
 
 #: ../root/account/change_password.tt:11
 #, perl-format
@@ -4955,7 +4955,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:199
 #, perl-format
 msgid "New recording"
-msgstr ""
+msgstr "Uusi äänite"
 
 #: ../root/edit/details/historic/edit_relationship.tt:29
 #, perl-format
@@ -4965,13 +4965,13 @@ msgstr "Uudet yhteydet:"
 #: ../root/edit/details/edit_release_language.tt:30
 #, perl-format
 msgid "New script:"
-msgstr ""
+msgstr "Uusi merkistö:"
 
 #: ../root/edit/details/change_wikidoc.tt:23
 #: ../root/edit/details/change_wikidoc.tt:28
 #, perl-format
 msgid "New version:"
-msgstr ""
+msgstr "Uusi versio"
 
 #: ../root/scripts/text_strings.tt:35
 #, perl-format
@@ -5894,7 +5894,7 @@ msgstr ""
 #: ../root/user/privileged.tt:16
 #, perl-format
 msgid "Privileged User Accounts"
-msgstr "Erikoiskäyttäjätunnukset"
+msgstr "Erikoiskäyttäjät"
 
 #: ../root/layout/menu.tt:118
 #, perl-format
@@ -5904,17 +5904,17 @@ msgstr ""
 #: ../root/user/profile/layout.tt:12
 #, perl-format
 msgid "Profile"
-msgstr ""
+msgstr "Profiili"
 
 #: ../root/elections/show.tt:14
 #, perl-format
 msgid "Proposer:"
-msgstr ""
+msgstr "Ehdottaja:"
 
 #: ../root/user/collections.tt:21
 #, perl-format
 msgid "Public"
-msgstr ""
+msgstr "Julkinen"
 
 #: ../root/collection/header.tt:14
 #, perl-format
@@ -6023,7 +6023,7 @@ msgstr ""
 #: ../root/edit/details/remove_recording.tt:3
 #, perl-format
 msgid "Recording:"
-msgstr ""
+msgstr "Äänitteet:"
 
 #: ../root/artist/header.tt:1 ../root/artist/recordings.tt:1
 #: ../root/artist/recordings.tt:4 ../root/report/index.tt:61
@@ -6156,12 +6156,12 @@ msgstr ""
 #: ../root/admin/edit_user.tt:8
 #, perl-format
 msgid "Relationship editor"
-msgstr ""
+msgstr "Yhteyseditori"
 
 #: ../root/user/privileged.tt:26
 #, perl-format
 msgid "Relationship editors"
-msgstr ""
+msgstr "Yhteyseditorit"
 
 #: ../root/user/privileged.tt:27
 #, perl-format
@@ -6221,7 +6221,7 @@ msgstr "Julkaisu"
 #: ../root/recording/index.tt:13
 #, perl-format
 msgid "Release Artist"
-msgstr ""
+msgstr "Julkaisun artisti"
 
 #: ../root/recording/index.tt:14
 #, perl-format
@@ -6268,7 +6268,7 @@ msgstr "Julkaisuryhmät"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Release Language"
-msgstr ""
+msgstr "Julkaisun kieli"
 
 #: ../root/release/not_found.tt:1 ../root/release/not_found.tt:2
 #, perl-format
@@ -6278,7 +6278,7 @@ msgstr ""
 #: ../root/recording/index.tt:12
 #, perl-format
 msgid "Release Title"
-msgstr ""
+msgstr "Julkaisun nimi"
 
 #: ../root/release/edits.tt:20 ../root/release/header.tt:8
 #, perl-format
@@ -6590,7 +6590,7 @@ msgstr "Julkaisut:"
 #: ../root/user/collections.tt:24
 #, perl-format
 msgid "Remove"
-msgstr ""
+msgstr "Poista"
 
 #: ../root/artist/delete_alias.tt:2 ../root/label/delete_alias.tt:2
 #: ../root/work/delete_alias.tt:2
@@ -7029,7 +7029,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/index.tt:21
 #, perl-format
 msgid "See the {uri|full instrument tree}."
-msgstr ""
+msgstr "Näytä {uri|täysi soitinluettelo}."
 
 #: ../root/cdtoc/attach_filter_artist.tt:35 ../root/cdtoc/move_search.tt:40
 #: ../root/release/edit/recordings.tt:329
