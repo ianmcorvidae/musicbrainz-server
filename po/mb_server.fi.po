@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-07 12:06+0000\n"
+"PO-Revision-Date: 2012-06-08 01:53+0000\n"
 "Last-Translator: Timo Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgstr "(<span class=\"comment\">ensisijainen</span>)"
 #: ../root/user/profile.tt:28
 #, perl-format
 msgid "(<strong>unverified!</strong>)"
-msgstr ""
+msgstr "(<strong>vahvistamatonEmail Address Verified!</strong>)"
 
 #: ../root/main/400.tt:12 ../root/main/500.tt:41
 #, perl-format
@@ -209,7 +209,7 @@ msgstr "(tuntematon)"
 #: ../root/user/profile.tt:24
 #, perl-format
 msgid "(verified at {date})"
-msgstr ""
+msgstr "(vahvistuspäivämäärä {date})"
 
 #: ../root/release/merge.tt:63
 #, perl-format
@@ -334,7 +334,7 @@ msgstr "<strong>Huomaa</strong>:"
 msgid ""
 "<strong>The ultimate source of music information</strong> by allowing anyone"
 " to contribute and releasing the {doc|data} under {doc2|open licenses}."
-msgstr ""
+msgstr "<strong>Ylivoimaisesti paras musiikkiin liittyvä tietolähde</strong>, sallimalla jokaisen osallistua ja julkaisemalla {dot|dataa} {doc2|avointen lisenssien} alaisena."
 
 #: ../root/main/index.tt:59
 #, perl-format
@@ -342,7 +342,7 @@ msgid ""
 "<strong>The universal lingua franca for music</strong> by providing a "
 "reliable and unambiguous form of {doc|music identification}, enabling both "
 "people and machines to have meaningful conversations about music."
-msgstr ""
+msgstr "<strong>Universaali musiikin kieli</strong> tarjoamalla luotettavan ja selkäen muodon {doc|musiikin tunnistamiselle}, sallien samalla sekä ihmisten että koneiden mielekkään keskustelun musiikista."
 
 #: ../root/components/common-macros.tt:639 ../root/recording/edit.tt:41
 #: ../root/release/edit/tracklist.tt:131
@@ -1695,7 +1695,7 @@ msgstr "Syntymäpäivä:"
 #: ../root/layout/menu.tt:113
 #, perl-format
 msgid "Blog"
-msgstr ""
+msgstr "Blogi"
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/scripts/text_strings.tt:72
@@ -2040,7 +2040,7 @@ msgstr ""
 #: ../root/edit/details/historic/add_release_annotation.tt:19
 #, perl-format
 msgid "Changelog:"
-msgstr ""
+msgstr "Muutosloki:"
 
 #: ../root/edit/index.tt:17
 #, perl-format
@@ -2059,7 +2059,7 @@ msgstr ""
 #: ../root/release/cover_art_uploader.tt:15
 #, perl-format
 msgid "Choose file:"
-msgstr ""
+msgstr "Valitse tiedosto:"
 
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
@@ -2124,7 +2124,7 @@ msgstr "Suljettu:"
 #: ../root/search/results-label.tt:13
 #, perl-format
 msgid "Code"
-msgstr ""
+msgstr "Koodi"
 
 #: ../root/layout/menu.tt:92
 #, perl-format
@@ -2134,7 +2134,7 @@ msgstr "Järjestyssäännöt"
 #: ../root/report/collaboration_relationships.tt:19
 #, perl-format
 msgid "Collaboration"
-msgstr ""
+msgstr "Yhteistyö"
 
 #: ../root/report/collaboration_relationships.tt:20
 #, perl-format
@@ -2189,7 +2189,7 @@ msgstr "Kommentti:"
 #: ../root/main/index.tt:86
 #, perl-format
 msgid "Community"
-msgstr ""
+msgstr "Yhteisö"
 
 #: ../root/annotation/history.tt:38
 #, perl-format
@@ -2294,7 +2294,7 @@ msgstr ""
 msgid ""
 "Cover Art provided by the {caa|Cover Art Archive}. Hosted by {host|Digital "
 "West}. Sponsored by: {url1|Google}, {url2|OSUOSL} and {more|others...}. "
-msgstr ""
+msgstr "Kansikuvat tarjoaa {caa|Cover Art Archive}. Verkkopalvelua ylläpitää {host|Digital West}. Sponsoreina {url1|Google}, {url2|OSUOSL} ja {more|muut tahot...}. "
 
 #: ../root/edit/details/macros.tt:86
 #, perl-format
@@ -2507,12 +2507,12 @@ msgstr ""
 #: ../root/layout/menu.tt:139
 #, perl-format
 msgid "Developer Resources"
-msgstr ""
+msgstr "Resurssit sovelluskehittäjille"
 
 #: ../root/main/index.tt:102
 #, perl-format
 msgid "Developers"
-msgstr ""
+msgstr "Sovelluskehittäjät"
 
 #: ../root/layout/menu.tt:227
 #, perl-format
@@ -3016,7 +3016,7 @@ msgstr "Muokkaushistoria"
 #: ../root/main/index.tt:34
 #, perl-format
 msgid "Editing introduction"
-msgstr ""
+msgstr "Johdanto muokkaamiseen"
 
 #: ../root/annotation/history.tt:8 ../root/edit/search_macros.tt:280
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:41
@@ -3132,7 +3132,7 @@ msgstr "Sähköpostiosoitteen vahvistaminen"
 #: ../root/account/verified.tt:1 ../root/account/verified.tt:3
 #, perl-format
 msgid "Email Address Verified"
-msgstr "Sähköpostiosoite vahvistettu"
+msgstr "Vahvistettu sähköpostiosoitevapaa käyttö"
 
 #: ../root/user/email_sent.tt:1 ../root/user/email_sent.tt:3
 #, perl-format
@@ -3348,7 +3348,7 @@ msgstr ""
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:36
 #, perl-format
 msgid "FAQs"
-msgstr "UKK"
+msgstr "Usein Kysytyt Kysymykset"
 
 #: ../root/user/profile.tt:156
 #, perl-format
@@ -3422,7 +3422,7 @@ msgstr ""
 #: ../root/layout/menu.tt:239 ../root/layout.tt:163
 #, perl-format
 msgid "Forums"
-msgstr "Foorumi"
+msgstr "Keskustelufoorumi"
 
 #: ../root/relationship/linktype/form.tt:13
 #: ../root/relationship/linktype/tree.tt:12
@@ -4070,7 +4070,7 @@ msgstr ""
 #: ../root/layout/menu.tt:124 ../root/main/index.tt:24
 #, perl-format
 msgid "Jaikoz Tagger"
-msgstr ""
+msgstr "Jaikoz Tagger"
 
 #: ../root/release/edit/layout.tt:22
 #, perl-format
@@ -4248,7 +4248,7 @@ msgstr ""
 #: ../root/main/index.tt:6
 #, perl-format
 msgid "Latest posts:"
-msgstr ""
+msgstr "Viimeisimmät viestit:"
 
 #: ../root/artist/recordings-list.tt:28 ../root/cdstub/cdstub.tt:9
 #: ../root/cdtoc/info.tt:33 ../root/edit/details/edit_medium.tt:50
@@ -4284,7 +4284,7 @@ msgid ""
 "Like Wikipedia, MusicBrainz is maintained by a global community of users and"
 " we want everyone &mdash; including you &mdash; to {doc|participate and "
 "contribute}."
-msgstr ""
+msgstr "Kuten Wikipedia, MusicBrainz on maailmanlaajuisen käyttäjäyhteisön ylläpitämä ja toivomme jokaisen, myös sinunkin, {doc|osallistuvan ja auttavan}."
 
 #: ../root/user/profile.tt:45
 #, perl-format
@@ -4680,7 +4680,7 @@ msgstr ""
 #: ../root/main/index.tt:5
 #, perl-format
 msgid "MusicBrainz Blog"
-msgstr ""
+msgstr "MusicBrainz blogi"
 
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
@@ -4700,7 +4700,7 @@ msgstr "MusicBrainz palvelin"
 #: ../root/main/index.tt:49
 #, perl-format
 msgid "MusicBrainz aims to be:"
-msgstr ""
+msgstr "MusicBrainz pyrkii olemaan:"
 
 #: ../root/account/register.tt:20
 #, perl-format
@@ -4732,7 +4732,7 @@ msgstr "MusizBrainz:ssa on vain yksi käyttäjätyyppi kaikille käyttäjille. J
 msgid ""
 "MusicBrainz is an open music encyclopedia that collects music metadata and "
 "makes it available to the public."
-msgstr ""
+msgstr "MusicBrainz on avoin musiikkitietosanakirja, joka kerää musiikkiin liittyvää metatietoa ja saattaa sen yleisön saataville."
 
 #: ../root/main/index.tt:77
 #, perl-format
@@ -4740,7 +4740,7 @@ msgid ""
 "MusicBrainz is operated by the {uri|MetaBrainz Foundation}, a California "
 "based 501(c)(3) tax-exempt non-profit corporation dedicated to keeping "
 "MusicBrainz {free|free and open source}."
-msgstr ""
+msgstr "MusicBrainz-palvelua operoi {uri|MetaBrainz-säätiö}, Yhdysvaltain Kaliforniassa sijaitseva, 501(c)(3) verovapaan statuksen omaava, voittoa tavoittelematon yritys, joka on omistautunut pitämään MusicBrainzin {free|ilmaisena ja kaikille avoimena}."
 
 #: ../root/artist/add_alias.tt:4 ../root/artist/edit_alias.tt:4
 #, perl-format
@@ -4960,7 +4960,7 @@ msgstr ""
 #: ../root/edit/details/historic/edit_relationship.tt:29
 #, perl-format
 msgid "New relationships:"
-msgstr ""
+msgstr "Uudet yhteydet:"
 
 #: ../root/edit/details/edit_release_language.tt:30
 #, perl-format
@@ -5878,12 +5878,12 @@ msgstr ""
 #: ../root/layout/menu.tt:95
 #, perl-format
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Yksityisyyskäytäntö"
 
 #: ../root/user/collections.tt:21
 #, perl-format
 msgid "Private"
-msgstr ""
+msgstr "Yksityinen"
 
 #: ../root/collection/header.tt:14
 #, perl-format
@@ -5894,7 +5894,7 @@ msgstr ""
 #: ../root/user/privileged.tt:16
 #, perl-format
 msgid "Privileged User Accounts"
-msgstr ""
+msgstr "Erikoiskäyttäjätunnukset"
 
 #: ../root/layout/menu.tt:118
 #, perl-format
@@ -5929,7 +5929,7 @@ msgstr ""
 #: ../root/main/index.tt:30
 #, perl-format
 msgid "Quick Start"
-msgstr ""
+msgstr "Pika-aloitus"
 
 #: ../root/edit/list_header.tt:4
 #, perl-format
@@ -5963,7 +5963,7 @@ msgstr ""
 #: ../root/main/index.tt:14
 #, perl-format
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Lue lisää &raquo;"
 
 #: ../root/admin/wikidoc/index.tt:56
 #, perl-format
@@ -6141,7 +6141,7 @@ msgstr ""
 #: ../root/relationship/linktype/index.tt:1
 #, perl-format
 msgid "Relationship Types"
-msgstr ""
+msgstr "Yhteyksien tyypit"
 
 #: ../root/relationship/linkattributetype/in_use.tt:1
 #, perl-format
@@ -6170,7 +6170,7 @@ msgid ""
 "the database. If you would like to propose a new relationship, please do so "
 "through the {url|Style Council}. Relationship editors will only make changes"
 " that have been approved by the Style Council."
-msgstr ""
+msgstr "Yhteyseditorit ovat käyttäjiä, jotka lisäävät tai muokkaavat yhteyksien tyyppejä tietokannassa. Jos haluat ehdottaa uutta yhteyttä, tee niin ottamalla yhteyttä {url|tyylineuvostoon}. Yhteyseditorit tekevät vain muutoksia, jotka ovat neuvoston ennalta hyväksymiä."
 
 #: ../root/edit/details/add_relationship.tt:3
 #: ../root/edit/details/edit_relationship.tt:8
@@ -6194,13 +6194,13 @@ msgstr ""
 #: ../root/work/relationships.tt:1 ../root/work/relationships.tt:3
 #, perl-format
 msgid "Relationships"
-msgstr ""
+msgstr "Yhteydet"
 
 #: ../root/edit/details/historic/add_relationship.tt:3
 #: ../root/edit/details/remove_relationship_(historic).tt:3
 #, perl-format
 msgid "Relationships:"
-msgstr ""
+msgstr "Yhteydet:"
 
 #: ../root/cdtoc/attach_artist_releases.tt:34
 #: ../root/cdtoc/attach_filter_release.tt:46 ../root/cdtoc/lookup.tt:36
@@ -6573,7 +6573,7 @@ msgstr ""
 #: ../root/edit/details/set_track_lengths.tt:5
 #, perl-format
 msgid "Releases:"
-msgstr ""
+msgstr "Julkaisut:"
 
 #: ../root/account/edit.tt:40 ../root/account/edit.tt:49
 #: ../root/admin/wikidoc/index.tt:109 ../root/artist/relationships.tt:73
@@ -6596,12 +6596,12 @@ msgstr ""
 #: ../root/work/delete_alias.tt:2
 #, perl-format
 msgid "Remove Alias"
-msgstr ""
+msgstr "Poista alias"
 
 #: ../root/artist/delete_alias.tt:1
 #, perl-format
 msgid "Remove Artist Alias"
-msgstr ""
+msgstr "Poista artistin alias"
 
 #: ../root/components/forms.tt:259 ../root/release/edit/tracklist.tt:73
 #, perl-format
@@ -6611,7 +6611,7 @@ msgstr ""
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr ""
+msgstr "Poista kansikuva"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
@@ -6631,12 +6631,12 @@ msgstr "Poista ISWC-koodi\"{iswc}\""
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:82
 #, perl-format
 msgid "Remove Label"
-msgstr ""
+msgstr "Poista levymerkki"
 
 #: ../root/label/delete_alias.tt:1
 #, perl-format
 msgid "Remove Label Alias"
-msgstr ""
+msgstr "Poista levymerkin alias"
 
 #: ../root/recording/delete_puid.tt:1
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemovePUID.pm:10
@@ -6648,34 +6648,34 @@ msgstr "Poista PUID"
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 #, perl-format
 msgid "Remove Page"
-msgstr ""
+msgstr "Poista sivu"
 
 #: ../root/recording/delete.tt:2
 #, perl-format
 msgid "Remove Recording"
-msgstr ""
+msgstr "Poista äänite"
 
 #: ../root/edit/relationship/delete.tt:1 ../root/edit/relationship/delete.tt:3
 #, perl-format
 msgid "Remove Relationship"
-msgstr ""
+msgstr "Poista yhteys"
 
 #: ../root/relationship/linkattributetype/delete.tt:1
 #: ../root/relationship/linkattributetype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Attribute"
-msgstr ""
+msgstr "Poista yhteyden ominaisuus"
 
 #: ../root/relationship/linktype/delete.tt:1
 #: ../root/relationship/linktype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Type"
-msgstr ""
+msgstr "Poista yhteyden tyyppi"
 
 #: ../root/release/delete.tt:2
 #, perl-format
 msgid "Remove Release"
-msgstr ""
+msgstr "Poista julkaisu"
 
 #: ../root/release_group/delete.tt:1
 #, perl-format
@@ -6695,22 +6695,22 @@ msgstr "Poista teoksen alias"
 #: ../root/collection/delete.tt:2 ../root/collection/delete.tt:7
 #, perl-format
 msgid "Remove collection"
-msgstr ""
+msgstr "Poista julkaisu"
 
 #: ../root/release/edit/tracklist.tt:407
 #, perl-format
 msgid "Remove disc"
-msgstr ""
+msgstr "Poista levy"
 
 #: ../root/release/sidebar.tt:122
 #, perl-format
 msgid "Remove from my collection"
-msgstr ""
+msgstr "Poista kokoelmastasi"
 
 #: ../root/release/sidebar.tt:124
 #, perl-format
 msgid "Remove from {collection}"
-msgstr ""
+msgstr "Poista kokoelmastasi {collection}"
 
 #: ../root/label/layout.tt:72
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabel.pm:9
@@ -6747,12 +6747,12 @@ msgstr "Poista valitut kohteet"
 #: ../root/collection/index.tt:47
 #, perl-format
 msgid "Remove selected releases from collection"
-msgstr ""
+msgstr "Poista valitut julkaisut kokoelmastasi"
 
 #: ../root/collection/layout.tt:10
 #, perl-format
 msgid "Remove this collection"
-msgstr ""
+msgstr "Poista tämä kokoelma"
 
 #: ../root/release/edit/tracklist.tt:338
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
@@ -6763,17 +6763,17 @@ msgstr "Poista kappale"
 #: ../root/components/rating-macros.tt:1
 #, perl-format
 msgid "Remove your rating"
-msgstr ""
+msgstr "Poista arvostelusi"
 
 #: ../root/components/forms.tt:108 ../root/components/forms.tt:109
 #, perl-format
 msgid "Remove {item}"
-msgstr ""
+msgstr "Poista {item}"
 
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
 msgid "Removed"
-msgstr ""
+msgstr "Poistettu"
 
 #: ../root/edit/details/merge_artists.tt:4
 #, perl-format
@@ -6789,18 +6789,18 @@ msgstr ""
 #: ../root/layout/menu.tt:244
 #, perl-format
 msgid "Report a Bug"
-msgstr ""
+msgstr "Ilmoita virheestä"
 
 #: ../root/layout/menu.tt:248
 #, perl-format
 msgid "Report a Copyright Violation"
-msgstr ""
+msgstr "Ilmoita tekijänoikeusloukkauksesta"
 
 #: ../root/layout/menu.tt:200 ../root/report/index.tt:1
 #: ../root/report/index.tt:3
 #, perl-format
 msgid "Reports"
-msgstr ""
+msgstr "Raportit"
 
 #: ../root/main/500.tt:27
 #, perl-format
@@ -6850,7 +6850,7 @@ msgstr ""
 #: ../root/relationship/linktype/form.tt:43
 #, perl-format
 msgid "Save"
-msgstr ""
+msgstr "Tallenna"
 
 #: ../root/layout.tt:166
 #, perl-format
@@ -6875,7 +6875,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:46 ../root/release/sidebar.tt:30
 #, perl-format
 msgid "Script:"
-msgstr ""
+msgstr "Merkistö:"
 
 #: ../root/cdtoc/attach_filter_artist.tt:10
 #: ../root/cdtoc/attach_filter_release.tt:34 ../root/cdtoc/lookup.tt:62
@@ -6887,12 +6887,12 @@ msgstr ""
 #: ../root/search/index.tt:3 ../root/taglookup/form.tt:13
 #, perl-format
 msgid "Search"
-msgstr ""
+msgstr "Etsi"
 
 #: ../root/layout/menu.tt:157
 #, perl-format
 msgid "Search Edits"
-msgstr ""
+msgstr "Selaa muokkauksia"
 
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 #, perl-format
@@ -6936,7 +6936,7 @@ msgstr ""
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
 #, perl-format
 msgid "Search for Edits"
-msgstr ""
+msgstr "Etsi muokkauksia"
 
 #: ../root/search/editor.tt:1
 #, perl-format
@@ -6946,17 +6946,17 @@ msgstr "Etsi editoria"
 #: ../root/cdtoc/attach_filter_artist.tt:3
 #, perl-format
 msgid "Search for an artist"
-msgstr ""
+msgstr "Etsi artistia"
 
 #: ../root/edit/list_header.tt:8
 #, perl-format
 msgid "Search for edits"
-msgstr ""
+msgstr "Etsi muokkauksia"
 
 #: ../root/release/edit/recordings.tt:95
 #, perl-format
 msgid "Search for recordings"
-msgstr ""
+msgstr "Etsi äänitteitä"
 
 #: ../root/search/form.tt:52
 #, perl-format
@@ -6996,7 +6996,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:109 ../root/scripts/text_strings.tt:39
 #, perl-format
 msgid "Searching..."
-msgstr ""
+msgstr "Etsii..."
 
 #: ../root/elections/show.tt:61
 #, perl-format
@@ -7052,7 +7052,7 @@ msgstr ""
 #: ../root/user/contact.tt:20
 #, perl-format
 msgid "Send"
-msgstr ""
+msgstr "Lähetä"
 
 #: ../root/account/lost_username.tt:14 ../root/user/contact.tt:1
 #: ../root/user/contact.tt:3 ../lib/MusicBrainz/Server/Controller/User.pm:243
@@ -7063,7 +7063,7 @@ msgstr "Lähetä sähköposti"
 #: ../root/user/contact.tt:17
 #, perl-format
 msgid "Send a copy to my own email address"
-msgstr ""
+msgstr "Lähetä kopio sähköpostiini"
 
 #: ../root/account/preferences.tt:45
 #, perl-format
@@ -7161,12 +7161,12 @@ msgstr ""
 #: ../root/release/edit/duplicates.tt:12
 #, perl-format
 msgid "Similar releases"
-msgstr ""
+msgstr "Samankaltaisia julkaisuja"
 
 #: ../root/main/rate_limited.tt:1 ../root/main/rate_limited.tt:3
 #, perl-format
 msgid "Slow Down!"
-msgstr ""
+msgstr "Hidasta!"
 
 #: ../root/scripts/text_strings.tt:77
 #, perl-format
@@ -7176,7 +7176,7 @@ msgstr ""
 #: ../root/layout/menu.tt:89
 #, perl-format
 msgid "Social Contract"
-msgstr ""
+msgstr "Sosiaalinen sopimus"
 
 #: ../root/search/results-freedb.tt:38
 #, perl-format
@@ -7195,7 +7195,7 @@ msgstr ""
 msgid ""
 "Some tracks were changed, please select a recording for each of these "
 "tracks."
-msgstr ""
+msgstr "Joillekin kappaleilla suoritettiin muutoksia, valitse äänite kullekin näistä kappaleista."
 
 #: ../root/cdstub/error.tt:11
 #, perl-format
@@ -7486,7 +7486,7 @@ msgstr ""
 #: ../root/layout/menu.tt:80
 #, perl-format
 msgid "Sponsors"
-msgstr ""
+msgstr "Sponsorit"
 
 #: ../root/main/500.tt:19
 #, perl-format
@@ -7511,7 +7511,7 @@ msgstr ""
 #: ../root/layout/menu.tt:104 ../root/user/profile.tt:135
 #, perl-format
 msgid "Statistics"
-msgstr ""
+msgstr "Tilastot"
 
 #: ../root/edit/search_macros.tt:280 ../root/elections/index.tt:10
 #: ../root/release/lookup.tt:14
@@ -7536,12 +7536,12 @@ msgstr ""
 #: ../root/layout/menu.tt:212
 #, perl-format
 msgid "Style Guidelines"
-msgstr ""
+msgstr "Tyylioppaat"
 
 #: ../root/edit/list_header.tt:25 ../root/main/index.tt:35
 #, perl-format
 msgid "Style guidelines"
-msgstr ""
+msgstr "Tyylioppaat"
 
 #: ../root/user/contact.tt:8
 #, perl-format
@@ -7551,7 +7551,7 @@ msgstr ""
 #: ../root/cdstub/edit.tt:72
 #, perl-format
 msgid "Submit"
-msgstr ""
+msgstr "Lähetä"
 
 #: ../root/cdtoc/lookup.tt:104
 #, perl-format
@@ -7621,7 +7621,7 @@ msgstr ""
 #: ../root/edit/details/add_release_annotation.tt:30
 #, perl-format
 msgid "Summary:"
-msgstr ""
+msgstr "Tiivistelmä:"
 
 #: ../root/main/503.tt:1 ../root/main/503.tt:3
 #, perl-format
@@ -7653,7 +7653,7 @@ msgstr ""
 #: ../root/main/index.tt:20
 #, perl-format
 msgid "Tag Your Music"
-msgstr ""
+msgstr "Luokittele musiikkiasi"
 
 #: ../root/search/index.tt:14
 #, perl-format
@@ -7663,7 +7663,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:59
 #, perl-format
 msgid "Tag release"
-msgstr ""
+msgstr "Luokittelu julkaisu"
 
 #: ../root/release_group/layout.tt:18
 #, perl-format
@@ -7673,27 +7673,27 @@ msgstr "Luokittele julkaisuryhmä"
 #: ../root/artist/layout.tt:53 ../root/artist/tags.tt:3
 #, perl-format
 msgid "Tag this artist"
-msgstr ""
+msgstr "Luokittele tämä artisti"
 
 #: ../root/collection/tag.tt:2
 #, perl-format
 msgid "Tag this collection"
-msgstr ""
+msgstr "Luokittele tämä kokoelma"
 
 #: ../root/label/layout.tt:46 ../root/label/tags.tt:3
 #, perl-format
 msgid "Tag this label"
-msgstr ""
+msgstr "Luokittele tämä levymerkki"
 
 #: ../root/recording/layout.tt:26 ../root/recording/tags.tt:3
 #, perl-format
 msgid "Tag this recording"
-msgstr ""
+msgstr "Luokittele tämä äänite"
 
 #: ../root/release/tags.tt:3
 #, perl-format
 msgid "Tag this release"
-msgstr ""
+msgstr "Luokittele tämä julkaisu"
 
 #: ../root/release_group/tags.tt:3
 #, perl-format
@@ -7708,7 +7708,7 @@ msgstr "Luokittele teos"
 #: ../root/tag/header.tt:11 ../root/tag/layout.tt:1
 #, perl-format
 msgid "Tag “{tag}”"
-msgstr ""
+msgstr "Luokitus \"{tag}\""
 
 #: ../root/cdtoc/attach_artist_releases.tt:41
 #: ../root/cdtoc/attach_filter_release.tt:54 ../root/cdtoc/list.tt:14
@@ -7733,12 +7733,12 @@ msgstr ""
 #: ../root/user/tags.tt:1 ../root/work/header.tt:1 ../root/work/tags.tt:1
 #, perl-format
 msgid "Tags"
-msgstr ""
+msgstr "Luokitukset"
 
 #: ../root/layout/menu.tt:83
 #, perl-format
 msgid "Team"
-msgstr ""
+msgstr "Tiimi"
 
 #: ../root/admin/edit_user.tt:10
 #, perl-format
@@ -7758,12 +7758,12 @@ msgstr ""
 #: ../root/account/donation.tt:14
 #, perl-format
 msgid "Thank you for contributing to MusicBrainz."
-msgstr ""
+msgstr "Kiitokset avustasi MusicBrainz-palvelulle."
 
 #: ../root/account/verified.tt:4
 #, perl-format
 msgid "Thank you, your email address has now been verified!"
-msgstr ""
+msgstr "Kiitokset! Sähköpostiosoitteesi on nyt vahvistettu! "
 
 #: ../root/release/caa_darkened.tt:3 ../root/release/cover_art.tt:56
 #, perl-format
@@ -7873,12 +7873,12 @@ msgstr ""
 #: ../root/edit/cannot_approve.tt:6
 #, perl-format
 msgid "The edit has already been closed."
-msgstr ""
+msgstr "Tämä muokkaus on suljettu."
 
 #: ../root/edit/cannot_approve.tt:8
 #, perl-format
 msgid "The edit has been cancelled."
-msgstr ""
+msgstr "Tämä muokkaus on peruutettu."
 
 #: ../root/user/privileged.tt:41
 #, perl-format
@@ -7888,7 +7888,7 @@ msgstr "Seuraavat {count} käyttäjätunnusta ovat botteja: "
 #: ../root/user/privileged.tt:31
 #, perl-format
 msgid "The following {count} users are relationship editors:"
-msgstr ""
+msgstr "Seuraavat {count} käyttäjää ovat yhteyseditoreja:"
 
 #: ../root/user/privileged.tt:37
 #, perl-format
@@ -7903,7 +7903,7 @@ msgstr ""
 #: ../root/layout.tt:97
 #, perl-format
 msgid "The main server is located at {uri}."
-msgstr ""
+msgstr "Pääpalvelin sijoitsee osoitteessa {uri}"
 
 #: ../root/main/index.tt:97
 #, perl-format
@@ -7911,12 +7911,12 @@ msgid ""
 "The majority of the data in the <strong>MusicBrainz Database</strong> is "
 "released into the <strong>Public Domain</strong> and can be downloaded and "
 "used <strong>for free</strong>."
-msgstr ""
+msgstr "Suurin osa <strong>MusicBrainz-tietokannan </strong>datasta on julkaistu<strong> vapaasti yleiseen käyttöön (Public Domain)</strong> ja on ladattavissa ja käytettävissä <strong>ilmaiseksi</strong>."
 
 #: ../root/main/403.tt:5
 #, perl-format
 msgid "The page you requested is private."
-msgstr ""
+msgstr "Pyytämäsi sivu on yksityinen."
 
 #: ../root/release/edit/information.tt:181
 #, perl-format
@@ -7930,7 +7930,7 @@ msgstr ""
 #: ../root/edit/cannot_approve.tt:12
 #, perl-format
 msgid "The reason for this was unknown."
-msgstr ""
+msgstr "Syy tähän on tuntematon."
 
 #: ../root/release/merge.tt:88
 #, perl-format
@@ -7997,7 +7997,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:25
 #, perl-format
 msgid "Their vote: "
-msgstr ""
+msgstr "Heidän äänensä:"
 
 #: ../root/cdtoc/lookup.tt:11
 #, perl-format
@@ -8135,7 +8135,7 @@ msgstr "Tällä artistilla ei ole julkaisuryhmiä"
 #: ../root/artist/releases.tt:18
 #, perl-format
 msgid "This artist does not have any releases"
-msgstr ""
+msgstr "Tällä artistilla ei ole yhtäkään julkaisua."
 
 #: ../root/artist/edit_form.tt:54 ../root/scripts/text_strings.tt:71
 #, perl-format
@@ -8718,7 +8718,7 @@ msgstr ""
 #: ../root/layout/menu.tt:107
 #, perl-format
 msgid "Timeline Graph"
-msgstr ""
+msgstr "Aikajana"
 
 #: ../root/account/preferences.tt:25
 #, perl-format
@@ -9197,7 +9197,7 @@ msgstr ""
 msgid ""
 "Use our <strong>XML web service</strong> or <strong>development "
 "libraries</strong> to create your own MusicBrainz-enabled applications."
-msgstr ""
+msgstr "Käytä <strong>XML-verkkopalveluamme</strong> tai <strong>sovelluskirjastojamme</strong> luodaksesi omia, MusicBrainz-palvelua hyödyntäviä, sovelluksia. "
 
 #: ../root/release/edit/recordings.tt:94
 #, perl-format
@@ -9560,7 +9560,7 @@ msgstr ""
 #: ../root/main/index.tt:43
 #, perl-format
 msgid "Welcome to MusicBrainz!"
-msgstr ""
+msgstr "Tervetuloa MusicBrainziin!"
 
 #: ../root/account/preferences.tt:40
 #, perl-format
@@ -9674,7 +9674,7 @@ msgstr ""
 #: ../root/layout/menu.tt:142
 #, perl-format
 msgid "XML Web Service"
-msgstr ""
+msgstr "XML-verkkopalvelu"
 
 #: ../root/artist/details.tt:30 ../root/label/details.tt:30
 #: ../root/recording/details.tt:30 ../root/release/details.tt:30
@@ -10398,7 +10398,7 @@ msgstr "teokset:"
 #, perl-format
 msgid ""
 "{about|More Information} &mdash; {faq|FAQs} &mdash; {contact|Contact Us}"
-msgstr ""
+msgstr "{about|Lisätietoja} &mdash; {faq|Usein Kysytyt Kysymykset} &mdash; {contact|Ota yhteyttä}"
 
 #: ../root/artist/works-list.tt:36 ../root/iswc/index.tt:36
 #: ../root/otherlookup/results-work.tt:20 ../root/search/results-work.tt:26
