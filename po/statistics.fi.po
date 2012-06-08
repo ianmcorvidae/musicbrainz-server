@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-06-08 04:02+0000\n"
+"PO-Revision-Date: 2012-06-08 09:44+0000\n"
 "Last-Translator: Timo Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -567,43 +567,43 @@ msgstr "Artistin tyypit ja sukupuolet"
 #: ../root/statistics/index.tt:566
 #, perl-format
 msgid "Artist-Artist:"
-msgstr ""
+msgstr "Artisti-artisti:"
 
 #: ../root/statistics/index.tt:572
 #, perl-format
 msgid "Artist-Label:"
-msgstr ""
+msgstr "Artisti-levymerkki:"
 
 #: ../root/statistics/index.tt:578
 #, perl-format
 msgid "Artist-Recording:"
-msgstr ""
+msgstr "Artisti-äänite:"
 
 #: ../root/statistics/index.tt:590
 #, perl-format
 msgid "Artist-Release Group:"
-msgstr ""
+msgstr "Artisti-julkaisuryhmä:"
 
 #: ../root/statistics/index.tt:584
 #, perl-format
 msgid "Artist-Release:"
-msgstr ""
+msgstr "Artisti-julkaisu:"
 
 #: ../root/statistics/index.tt:596
 #, perl-format
 msgid "Artist-URL:"
-msgstr ""
+msgstr "Artisti-URL-osoite:"
 
 #: ../root/statistics/index.tt:602
 #, perl-format
 msgid "Artist-Work:"
-msgstr ""
+msgstr "Artisti-teos:"
 
 #: ../root/statistics/countries.tt:34 ../root/statistics/index.tt:107
 #: ../root/statistics/index.tt:111 ../root/statistics/view_js.tt:42
 #, perl-format
 msgid "Artists"
-msgstr ""
+msgstr "Artistit"
 
 #: ../root/statistics/view_js.tt:113
 #, perl-format
@@ -798,7 +798,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:117
 #, perl-format
 msgid "Count of all Barcodes"
-msgstr ""
+msgstr "Kaikkien viivakoodien määrä"
 
 #: ../root/statistics/view_js.tt:121
 #, perl-format
@@ -823,27 +823,27 @@ msgstr ""
 #: ../root/statistics/view_js.tt:125
 #, perl-format
 msgid "Count of all IPIs"
-msgstr ""
+msgstr "Kaikkien IPI-koodien määrä"
 
 #: ../root/statistics/view_js.tt:126
 #, perl-format
 msgid "Count of all IPIs for Artists"
-msgstr ""
+msgstr "Kaikkeni artistien IPI-koodien määrä"
 
 #: ../root/statistics/view_js.tt:127
 #, perl-format
 msgid "Count of all IPIs for Labels"
-msgstr ""
+msgstr "Kaikkien levymerkkien IPI-koodien määrä"
 
 #: ../root/statistics/view_js.tt:128 ../root/statistics/view_js.tt:129
 #, perl-format
 msgid "Count of all ISRCs"
-msgstr ""
+msgstr "Kaikkien ISRC-koodien määrä"
 
 #: ../root/statistics/view_js.tt:130 ../root/statistics/view_js.tt:131
 #, perl-format
 msgid "Count of all ISWCs"
-msgstr ""
+msgstr "Kaikkien ISWC-koodien määrä"
 
 #: ../root/statistics/view_js.tt:158
 #, perl-format
@@ -1383,74 +1383,74 @@ msgstr ""
 #: ../root/statistics/index.tt:608
 #, perl-format
 msgid "Label-Label:"
-msgstr ""
+msgstr "Levymerkki-levymerkki"
 
 #: ../root/statistics/index.tt:614
 #, perl-format
 msgid "Label-Recording:"
-msgstr ""
+msgstr "Levymerkki-äänite"
 
 #: ../root/statistics/index.tt:626
 #, perl-format
 msgid "Label-Release Group:"
-msgstr ""
+msgstr "Levymerkki-julkaisuryhmä"
 
 #: ../root/statistics/index.tt:620
 #, perl-format
 msgid "Label-Release:"
-msgstr ""
+msgstr "Levymerkki-julkaisu:"
 
 #: ../root/statistics/index.tt:632
 #, perl-format
 msgid "Label-URL:"
-msgstr ""
+msgstr "Levymerkki-URL-osoite:"
 
 #: ../root/statistics/index.tt:638
 #, perl-format
 msgid "Label-Work:"
-msgstr ""
+msgstr "Levymerkki-teos:"
 
 #: ../root/statistics/countries.tt:36 ../root/statistics/view_js.tt:48
 #, perl-format
 msgid "Labels"
-msgstr ""
+msgstr "Levymerkit"
 
 #: ../root/statistics/view_js.tt:78
 #, perl-format
 msgid "Labels with no country set"
-msgstr ""
+msgstr "Levymerkit ilman määritettyä maata"
 
 #: ../root/statistics/index.tt:35
 #, perl-format
 msgid "Labels:"
-msgstr ""
+msgstr "Levymerkit:"
 
 #: ../root/statistics/languages_scripts.tt:40
 #, perl-format
 msgid "Language"
-msgstr ""
+msgstr "Kieli"
 
 #: ../root/statistics/languages_scripts.tt:35
 #, perl-format
 msgid "Languages"
-msgstr ""
+msgstr "Kielet"
 
 #: ../root/statistics/languages_scripts.tt:29
 #, perl-format
 msgid "Languages and Scripts"
-msgstr ""
+msgstr "Kielet ja merkistöt"
 
 #: ../root/statistics/index.tt:487 ../root/statistics/index.tt:539
 #, perl-format
 msgid "Last Week:"
-msgstr ""
+msgstr "Viime viikko:"
 
 #: ../root/statistics/countries.tt:27 ../root/statistics/coverart.tt:9
 #: ../root/statistics/formats.tt:20 ../root/statistics/index.tt:6
 #: ../root/statistics/languages_scripts.tt:31
 #, perl-format
 msgid "Last updated: {date}"
-msgstr ""
+msgstr "Päivitetty viimeksi: {date}"
 
 #: ../root/statistics/timeline.tt:59
 #, perl-format
@@ -1717,37 +1717,37 @@ msgstr ""
 #: ../root/statistics/index.tt:644
 #, perl-format
 msgid "Recording-Recording:"
-msgstr ""
+msgstr "Äänite-äänite:"
 
 #: ../root/statistics/index.tt:656
 #, perl-format
 msgid "Recording-Release Group:"
-msgstr ""
+msgstr "Äänite-julkaisuryhmä:"
 
 #: ../root/statistics/index.tt:650
 #, perl-format
 msgid "Recording-Release:"
-msgstr ""
+msgstr "Äänite-julkaisu:"
 
 #: ../root/statistics/index.tt:662
 #, perl-format
 msgid "Recording-URL:"
-msgstr ""
+msgstr "Äänite-URL-osoite:"
 
 #: ../root/statistics/index.tt:668
 #, perl-format
 msgid "Recording-Work:"
-msgstr ""
+msgstr "Äänite-teos:"
 
 #: ../root/statistics/index.tt:334 ../root/statistics/view_js.tt:43
 #, perl-format
 msgid "Recordings"
-msgstr ""
+msgstr "Äänitteet"
 
 #: ../root/statistics/index.tt:330
 #, perl-format
 msgid "Recordings and PUIDs"
-msgstr ""
+msgstr "Äänitteet ja PUID-äänitunnisteet"
 
 #: ../root/statistics/view_js.tt:144
 #, perl-format
@@ -1786,28 +1786,28 @@ msgstr ""
 #: ../root/statistics/index.tt:31 ../root/statistics/index.tt:337
 #, perl-format
 msgid "Recordings:"
-msgstr ""
+msgstr "Äänitteet"
 
 #: ../root/statistics/index.tt:553 ../root/statistics/index.tt:557
 #: ../root/statistics/view_js.tt:33 ../root/statistics/view_js.tt:178
 #, perl-format
 msgid "Relationships"
-msgstr ""
+msgstr "Suhteet"
 
 #: ../root/statistics/index.tt:52 ../root/statistics/index.tt:560
 #, perl-format
 msgid "Relationships:"
-msgstr ""
+msgstr "Suhteet"
 
 #: ../root/statistics/view_js.tt:29
 #, perl-format
 msgid "Release Countries"
-msgstr ""
+msgstr "Julkaisumaat"
 
 #: ../root/statistics/view_js.tt:34
 #, perl-format
 msgid "Release Data Quality"
-msgstr ""
+msgstr "Julkaisun data laatu"
 
 #: ../root/statistics/view_js.tt:160
 #, perl-format
@@ -1827,22 +1827,22 @@ msgstr ""
 #: ../root/statistics/index.tt:698
 #, perl-format
 msgid "Release Group-Release Group:"
-msgstr ""
+msgstr "Julkaisuryhmä-julkaisuryhmä:"
 
 #: ../root/statistics/index.tt:704
 #, perl-format
 msgid "Release Group-URL:"
-msgstr ""
+msgstr "Julkaisuryhmä-URL-osoite:"
 
 #: ../root/statistics/index.tt:710
 #, perl-format
 msgid "Release Group-Work:"
-msgstr ""
+msgstr "Julkaisuryhmä-teos:"
 
 #: ../root/statistics/view_js.tt:47
 #, perl-format
 msgid "Release Groups"
-msgstr ""
+msgstr "Julkaisuryhmät"
 
 #: ../root/statistics/view_js.tt:146
 #, perl-format
@@ -1854,12 +1854,12 @@ msgstr[1] ""
 #: ../root/statistics/view_js.tt:31
 #, perl-format
 msgid "Release Languages"
-msgstr ""
+msgstr "Julkaisukielet"
 
 #: ../root/statistics/view_js.tt:30
 #, perl-format
 msgid "Release Scripts"
-msgstr ""
+msgstr "Julkaisumerkistöt"
 
 #: ../root/statistics/view_js.tt:174
 #, perl-format
@@ -1869,27 +1869,27 @@ msgstr ""
 #: ../root/statistics/index.tt:19
 #, perl-format
 msgid "Release groups:"
-msgstr ""
+msgstr "Julkaisuryhmät:"
 
 #: ../root/statistics/index.tt:680
 #, perl-format
 msgid "Release-Release Group:"
-msgstr ""
+msgstr "Julkaisu-julkaisuryhmä:"
 
 #: ../root/statistics/index.tt:674
 #, perl-format
 msgid "Release-Release:"
-msgstr ""
+msgstr "Julkaisu-julkaisu:"
 
 #: ../root/statistics/index.tt:686
 #, perl-format
 msgid "Release-URL:"
-msgstr ""
+msgstr "Julkaisu-URL-osoite:"
 
 #: ../root/statistics/index.tt:692
 #, perl-format
 msgid "Release-Work:"
-msgstr ""
+msgstr "Julkaisu-teos"
 
 #: ../root/statistics/formats.tt:18 ../root/statistics/formats.tt:22
 #, perl-format
@@ -1902,7 +1902,7 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:62 ../root/statistics/view_js.tt:46
 #, perl-format
 msgid "Releases"
-msgstr ""
+msgstr "Julkaisut"
 
 #: ../root/statistics/view_js.tt:124
 #, perl-format
@@ -1976,7 +1976,7 @@ msgstr ""
 #: ../root/statistics/index.tt:215 ../root/statistics/index.tt:262
 #, perl-format
 msgid "Releases:"
-msgstr ""
+msgstr "Julkaisut:"
 
 #: ../root/statistics/timeline.tt:73
 #, perl-format
@@ -1986,12 +1986,12 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:61
 #, perl-format
 msgid "Script"
-msgstr ""
+msgstr "Merkistö"
 
 #: ../root/statistics/languages_scripts.tt:56
 #, perl-format
 msgid "Scripts"
-msgstr ""
+msgstr "Merkistöt"
 
 #: ../root/statistics/index.tt:60
 #, perl-format
@@ -2022,17 +2022,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:118
 #, perl-format
 msgid "Tracks"
-msgstr ""
+msgstr "Kappaleet"
 
 #: ../root/statistics/index.tt:716
 #, perl-format
 msgid "URL-URL:"
-msgstr ""
+msgstr "URL-osoite-URL-osoite"
 
 #: ../root/statistics/index.tt:722
 #, perl-format
 msgid "URL-Work:"
-msgstr ""
+msgstr "URL-osoite-teos"
 
 #: ../root/statistics/countries.tt:16 ../root/statistics/view_js.tt:77
 #: ../root/statistics/view_js.tt:78 ../root/statistics/view_js.tt:79
@@ -2098,27 +2098,27 @@ msgstr ""
 #: ../root/statistics/index.tt:452
 #, perl-format
 msgid "Voted down:"
-msgstr ""
+msgstr "Kumoon äänestetyt:"
 
 #: ../root/statistics/index.tt:501 ../root/statistics/view_js.tt:64
 #, perl-format
 msgid "Votes"
-msgstr ""
+msgstr "Äänet"
 
 #: ../root/statistics/view_js.tt:65
 #, perl-format
 msgid "Votes per day"
-msgstr ""
+msgstr "Päiväkohtaiset äänet"
 
 #: ../root/statistics/view_js.tt:66
 #, perl-format
 msgid "Votes per week"
-msgstr ""
+msgstr "Viikkokohtaiset äänet"
 
 #: ../root/statistics/index.tt:504 ../root/statistics/index.tt:533
 #, perl-format
 msgid "Votes:"
-msgstr ""
+msgstr "Äänet:"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
@@ -2138,17 +2138,17 @@ msgstr ""
 #: ../root/statistics/index.tt:728
 #, perl-format
 msgid "Work-Work:"
-msgstr ""
+msgstr "Teos-teos:"
 
 #: ../root/statistics/languages_scripts.tt:42 ../root/statistics/view_js.tt:44
 #, perl-format
 msgid "Works"
-msgstr ""
+msgstr "Teokset"
 
 #: ../root/statistics/index.tt:39
 #, perl-format
 msgid "Works:"
-msgstr ""
+msgstr "Teokset:"
 
 #: ../root/statistics/view_js.tt:68
 #, perl-format
