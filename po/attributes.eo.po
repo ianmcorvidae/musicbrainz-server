@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-05-31 03:34+0000\n"
+"PO-Revision-Date: 2012-06-09 18:23+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
 "Language-Team: Esperanto (http://www.transifex.net/projects/p/musicbrainz/language/eo/)\n"
 "MIME-Version: 1.0\n"
@@ -44,6 +44,11 @@ msgstr "Albumo"
 msgctxt "work_type"
 msgid "Aria"
 msgstr "Ario"
+
+#: DB:artist_alias_type/name:1
+msgctxt "alias_type"
+msgid "Artist name"
+msgstr ""
 
 #: DB:release_group_secondary_type/name:5
 msgctxt "release_group_secondary_type"
@@ -210,10 +215,20 @@ msgctxt "release_packaging"
 msgid "Keep Case"
 msgstr ""
 
+#: DB:label_alias_type/name:1
+msgctxt "alias_type"
+msgid "Label name"
+msgstr ""
+
 #: DB:medium_format/name:5
 msgctxt "medium_format"
 msgid "LaserDisc"
 msgstr "LaserDisko"
+
+#: DB:artist_alias_type/name:2
+msgctxt "alias_type"
+msgid "Legal name"
+msgstr ""
 
 #: DB:release_group_secondary_type/name:6
 msgctxt "release_group_secondary_type"
@@ -375,6 +390,12 @@ msgctxt "medium_format"
 msgid "SVCD"
 msgstr "SVKD"
 
+#: DB:artist_alias_type/name:3 DB:label_alias_type/name:2
+#: DB:work_alias_type/name:2
+msgctxt "alias_type"
+msgid "Search hint"
+msgstr ""
+
 #: DB:release_group_primary_type/name:2
 msgctxt "release_group_primary_type"
 msgid "Single"
@@ -459,6 +480,11 @@ msgstr "Vinildisko"
 msgctxt "medium_format"
 msgid "Wax Cylinder"
 msgstr "Vaksa cilindro"
+
+#: DB:work_alias_type/name:1
+msgctxt "alias_type"
+msgid "Work name"
+msgstr ""
 
 #: DB:work_type/name:19
 msgctxt "work_type"

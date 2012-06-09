@@ -1,10 +1,14 @@
 # 
 # Translators:
+# czaja <email address hidden>, 2011.
+# Marcin Rataj <email address hidden>, 2011, 2012.
+# Nikolai Prokoschenko <email address hidden>, 2011.
+#   Tobias Toedter <email address hidden>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-05-29 16:41+0000\n"
+"PO-Revision-Date: 2012-06-09 18:23+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
 "Language-Team: Polish (http://www.transifex.net/projects/p/musicbrainz/language/pl/)\n"
 "MIME-Version: 1.0\n"
@@ -16,22 +20,22 @@ msgstr ""
 #: DB:medium_format/name:30
 msgctxt "medium_format"
 msgid "10\" Vinyl"
-msgstr ""
+msgstr "10\" winyl"
 
 #: DB:medium_format/name:31
 msgctxt "medium_format"
 msgid "12\" Vinyl"
-msgstr ""
+msgstr "12\" winyl"
 
 #: DB:medium_format/name:29
 msgctxt "medium_format"
 msgid "7\" Vinyl"
-msgstr ""
+msgstr "7\" winyl"
 
 #: DB:medium_format/name:34
 msgctxt "medium_format"
 msgid "8cm CD"
-msgstr ""
+msgstr "8cm CD"
 
 #: DB:release_group_primary_type/name:1
 msgctxt "release_group_primary_type"
@@ -41,6 +45,11 @@ msgstr ""
 #: DB:work_type/name:1
 msgctxt "work_type"
 msgid "Aria"
+msgstr ""
+
+#: DB:artist_alias_type/name:1
+msgctxt "alias_type"
+msgid "Artist name"
 msgstr ""
 
 #: DB:release_group_secondary_type/name:5
@@ -76,12 +85,12 @@ msgstr ""
 #: DB:medium_format/name:1
 msgctxt "medium_format"
 msgid "CD"
-msgstr ""
+msgstr "CD"
 
 #: DB:medium_format/name:33
 msgctxt "medium_format"
 msgid "CD-R"
-msgstr ""
+msgstr "CD-R"
 
 #: DB:work_type/name:3
 msgctxt "work_type"
@@ -106,7 +115,7 @@ msgstr ""
 #: DB:release_group_secondary_type/name:1
 msgctxt "release_group_secondary_type"
 msgid "Compilation"
-msgstr ""
+msgstr "Kompilacja"
 
 #: DB:work_type/name:4
 msgctxt "work_type"
@@ -131,17 +140,17 @@ msgstr ""
 #: DB:medium_format/name:2
 msgctxt "medium_format"
 msgid "DVD"
-msgstr ""
+msgstr "DVD"
 
 #: DB:medium_format/name:18
 msgctxt "medium_format"
 msgid "DVD-Audio"
-msgstr ""
+msgstr "DVD-Audio"
 
 #: DB:medium_format/name:19
 msgctxt "medium_format"
 msgid "DVD-Video"
-msgstr ""
+msgstr "DVD-Video"
 
 #: DB:release_packaging/name:3
 msgctxt "release_packaging"
@@ -166,7 +175,7 @@ msgstr ""
 #: DB:release_group_primary_type/name:3
 msgctxt "release_group_primary_type"
 msgid "EP"
-msgstr ""
+msgstr "EP"
 
 #: DB:gender/name:2
 msgctxt "gender"
@@ -181,12 +190,12 @@ msgstr ""
 #: DB:medium_format/name:17
 msgctxt "medium_format"
 msgid "HD-DVD"
-msgstr ""
+msgstr "HD-DVD"
 
 #: DB:medium_format/name:25
 msgctxt "medium_format"
 msgid "HDCD"
-msgstr ""
+msgstr "HDCD"
 
 #: DB:label_type/name:2
 msgctxt "label_type"
@@ -208,9 +217,19 @@ msgctxt "release_packaging"
 msgid "Keep Case"
 msgstr ""
 
+#: DB:label_alias_type/name:1
+msgctxt "alias_type"
+msgid "Label name"
+msgstr ""
+
 #: DB:medium_format/name:5
 msgctxt "medium_format"
 msgid "LaserDisc"
+msgstr ""
+
+#: DB:artist_alias_type/name:2
+msgctxt "alias_type"
+msgid "Legal name"
 msgstr ""
 
 #: DB:release_group_secondary_type/name:6
@@ -251,7 +270,7 @@ msgstr ""
 #: DB:release_packaging/name:7
 msgctxt "release_packaging"
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 #: DB:release_status/name:1
 msgctxt "release_status"
@@ -373,6 +392,12 @@ msgctxt "medium_format"
 msgid "SVCD"
 msgstr ""
 
+#: DB:artist_alias_type/name:3 DB:label_alias_type/name:2
+#: DB:work_alias_type/name:2
+msgctxt "alias_type"
+msgid "Search hint"
+msgstr ""
+
 #: DB:release_group_primary_type/name:2
 msgctxt "release_group_primary_type"
 msgid "Single"
@@ -456,6 +481,11 @@ msgstr ""
 #: DB:medium_format/name:14
 msgctxt "medium_format"
 msgid "Wax Cylinder"
+msgstr ""
+
+#: DB:work_alias_type/name:1
+msgctxt "alias_type"
+msgid "Work name"
 msgstr ""
 
 #: DB:work_type/name:19

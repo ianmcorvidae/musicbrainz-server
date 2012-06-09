@@ -1,10 +1,11 @@
 # 
 # Translators:
+# Dimitris  <email address hidden>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-05-24 18:50+0000\n"
+"PO-Revision-Date: 2012-06-09 18:22+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
 "Language-Team: Greek (http://www.transifex.net/projects/p/musicbrainz/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +16,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:77 DB:link_type/reverse_link_phrase:77
 msgid "ASIN"
-msgstr ""
+msgstr "ASIN"
 
 #: DB:link_type/link_phrase:283 DB:link_type/link_phrase:284
 #: DB:link_type/link_phrase:285 DB:link_type/reverse_link_phrase:286
@@ -29,23 +30,23 @@ msgstr ""
 
 #: DB:link_type/link_phrase:190
 msgid "BBC Music"
-msgstr ""
+msgstr "BBC Music"
 
 #: DB:link_type/reverse_link_phrase:190
 msgid "BBC Music page for"
-msgstr ""
+msgstr "Σελίδα του BBC Music για"
 
 #: DB:link_attribute_type/description:12
 msgid "Background vocal"
-msgstr ""
+msgstr "Δεύτερα φωνητικά"
 
 #: DB:link_attribute_type/description:245
 msgid "Chamber orchestra"
-msgstr ""
+msgstr "Ορχήστρα δωματίου"
 
 #: DB:link_attribute_type/name:254
 msgid "Creative Commons"
-msgstr ""
+msgstr "Creative Commons"
 
 #: DB:link_attribute_type/description:256
 msgid "Creative Commons Attribution No Derivatives (by-nd) license"
@@ -163,12 +164,12 @@ msgstr ""
 #: DB:link_type/link_phrase:76 DB:link_type/link_phrase:180
 #: DB:link_type/link_phrase:217 DB:link_type/link_phrase:90
 msgid "Discogs"
-msgstr ""
+msgstr "Discogs"
 
 #: DB:link_type/reverse_link_phrase:76 DB:link_type/reverse_link_phrase:180
 #: DB:link_type/reverse_link_phrase:217 DB:link_type/reverse_link_phrase:90
 msgid "Discogs page for"
-msgstr ""
+msgstr "Σελίδα του Discogs για"
 
 #: DB:link_attribute_type/name:545
 msgid "EP"
@@ -184,16 +185,16 @@ msgstr ""
 #: DB:link_type/link_phrase:99 DB:link_type/link_phrase:195
 #: DB:link_type/reverse_link_phrase:275
 msgid "IBDb"
-msgstr ""
+msgstr "IBDb"
 
 #: DB:link_type/link_phrase:275 DB:link_type/reverse_link_phrase:99
 #: DB:link_type/reverse_link_phrase:195
 msgid "IBDb page for"
-msgstr ""
+msgstr "Σελίδα του IBDb για"
 
 #: DB:link_type/link_phrase:97 DB:link_type/link_phrase:178
 msgid "IMDb"
-msgstr ""
+msgstr "IMDb"
 
 #: DB:link_type/reverse_link_phrase:83 DB:link_type/reverse_link_phrase:258
 msgid "IMDb entry sampled in"
@@ -201,21 +202,21 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:97 DB:link_type/reverse_link_phrase:178
 msgid "IMDb page for"
-msgstr ""
+msgstr "Σελίδα του IMDb για"
 
 #: DB:link_type/link_phrase:100 DB:link_type/link_phrase:196
 #: DB:link_type/reverse_link_phrase:276
 msgid "IOBDb"
-msgstr ""
+msgstr "IOBDb"
 
 #: DB:link_type/link_phrase:276 DB:link_type/reverse_link_phrase:100
 #: DB:link_type/reverse_link_phrase:196
 msgid "IOBDb page for"
-msgstr ""
+msgstr "Σελίδα του IOBDb για"
 
 #: DB:link_attribute_type/description:516
 msgid "Indicates a bonus disc"
-msgstr ""
+msgstr "Υποδεικνύει έναν μπόνους δίσκο"
 
 #: DB:link_type/description:152
 msgid ""
@@ -244,19 +245,19 @@ msgid ""
 "performed the same songs. Please take care to always point to the "
 "<strong>first</strong> version ever released! (<a "
 "href=\"http://musicbrainz.org/doc/Cover_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει μια διασκευασμένη έκδοση ενός άλμπουμ. Αυτό σημαίνει ότι ένας άλλος καλλιτέχνης ερμήνευσε τα ίδια τραγούδια. Παρακαλώ σιγουρευτείτε ότι επισημαίνετε πάντα την <strong>πρώτη</strong> έκδοση που κυκλοφόρησε! (<a href=\"http://musicbrainz.org/doc/Cover_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:172
 msgid ""
 "Indicates a homepage by a fan for an artist. (<a "
 "href=\"http://musicbrainz.org/doc/Fanpage_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει μια ιστοσελίδα από έναν θαυμαστή του καλλιτέχνη. (<a href=\"http://musicbrainz.org/doc/Fanpage_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:111
 msgid ""
 "Indicates a marriage between two persons. (<a "
 "href=\"http://musicbrainz.org/doc/Married_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει ένα γάμο μεταξύ δυο ατόμων. (<a href=\"http://musicbrainz.org/doc/Married_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:103
 msgid ""
@@ -269,11 +270,17 @@ msgstr ""
 
 #: DB:link_type/description:25 DB:link_type/description:129
 #: DB:link_type/description:261 DB:link_type/description:162
-#: DB:link_type/description:270
 msgid ""
 "Indicates a miscellaneous support role. This is usually stated in the liner "
 "notes of an album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
+msgstr "Υποδεικνύει έναν γενικότερο υποστηρικτικό ρόλο. Συνήθως αναφέρεται στο ένθετο του δίσκου. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Λεπτομέρειες</a>)"
+
+#: DB:link_type/description:270
+msgid ""
+"Indicates a miscellaneous support role. This is usually stated in the liner "
+"notes of an album. (<a "
+"href=\"http://musicbrainz.org/doc/Other_Databases_Relationship_Type\">Details</a>)"
 msgstr ""
 
 #: DB:link_type/description:105
@@ -296,31 +303,31 @@ msgstr ""
 msgid ""
 "Indicates a parent-child relationship (<a "
 "href=\"http://musicbrainz.org/doc/Parent_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει μια σχέση γονιού-παιδιού (<a href=\"http://musicbrainz.org/doc/Parent_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:20
 msgid ""
 "Indicates a person or agency that did photography for this album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει ένα πρόσωπο ή πρακτορείο το οποίο ανέλαβε τη λήψη φωτογραφιών για αυτή τη κυκλοφορία. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:250
 msgid ""
 "Indicates a person or agency that did photography for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει ένα πρόσωπο ή πρακτορείο το οποίο ανέλαβε τη λήψη φωτογραφιών για αυτή τη σύνθεση. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:18
 msgid ""
 "Indicates a person or agency that did the art direction for this album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει ένα άτομο ή πρακτορείο που ανέλαβε την καλλιτεχνική διεύθυνση για αυτή τη κυκλοφορία. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:265
 msgid ""
 "Indicates a person or agency that did the art direction for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Υποδεικνύει ένα άτομο ή πρακτορείο που ανέλαβε την καλλιτεχνική διεύθυνση για αυτή τη σύνθεση. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:63
 msgid ""
@@ -484,7 +491,7 @@ msgstr ""
 msgid ""
 "Indicates an artist performed in a particular voice on this work. (<a "
 "href=\"http://musicbrainz.org/doc/Performer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Αν καμία από αυτές τις δισκογραφικές εταιρείες δεν αντιστοιχεί στη δισκογραφική εταιρεία που ψάχνετε, μπορείτε να δημιουργήσετε μια καινούργια δισκογραφική εταιρεία."
 
 #: DB:link_type/description:44 DB:link_type/description:148
 msgid ""
@@ -707,7 +714,7 @@ msgstr ""
 
 #: DB:link_attribute_type/description:567
 msgid "Indicates that one entity is a cover of another entity"
-msgstr ""
+msgstr "Υποδεικνύει ότι ένα στοιχείο είναι διασκευή ενός άλλου  "
 
 #: DB:link_type/description:230
 msgid ""
@@ -1021,11 +1028,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:91 DB:link_type/link_phrase:181
 msgid "MusicMoz"
-msgstr ""
+msgstr "MusicMoz"
 
 #: DB:link_type/reverse_link_phrase:91 DB:link_type/reverse_link_phrase:181
 msgid "MusicMoz page for"
-msgstr ""
+msgstr "Σελίδα του MusicMoz για"
 
 #: DB:link_type/link_phrase:189 DB:link_type/link_phrase:215
 msgid "Myspace"
@@ -1057,36 +1064,11 @@ msgid ""
 "href=\"http://musicbrainz.org/doc/Discogs_Relationship_Type\">Details</a>)"
 msgstr ""
 
-#: DB:link_type/description:195
-msgid ""
-"Points to the Internet Broadway Database page for this artist. (<a "
-"href=\"http://musicbrainz.org/doc/IBDb_Relationship_Type\">Details</a>)"
-msgstr ""
-
 #: DB:link_type/description:178
 msgid ""
 "Points to the Internet Movie Database page for this artist. URLs should "
 "follow the format <code>http://www.imdb.com/name/&lt;ID&gt;/</code>. (<a "
 "href=\"http://musicbrainz.org/doc/IMDb_Relationship_Type\">Details</a>)"
-msgstr ""
-
-#: DB:link_type/description:196
-msgid ""
-"Points to the Lortel Archives (Internet Off-Broadway Database) page for this"
-" artist. (<a "
-"href=\"http://musicbrainz.org/doc/IOBDb_Relationship_Type\">Details</a>)"
-msgstr ""
-
-#: DB:link_type/description:91
-msgid ""
-"Points to the MusicMoz page for this album. (<a "
-"href=\"http://musicbrainz.org/doc/MusicMoz_Relationship_Type\">Details</a>)"
-msgstr ""
-
-#: DB:link_type/description:181
-msgid ""
-"Points to the MusicMoz page for this artist. (<a "
-"href=\"http://musicbrainz.org/doc/MusicMoz_Relationship_Type\">Details</a>)"
 msgstr ""
 
 #: DB:link_type/description:89
@@ -1115,13 +1097,6 @@ msgstr ""
 msgid "PureVolume page for"
 msgstr ""
 
-#: DB:link_type/description:99
-msgid ""
-"Relates a soundtrack album to the Internet Broadway Database page for the "
-"musical for which it is a soundtrack. (<a "
-"href=\"http://musicbrainz.org/doc/IBDb_Relationship_Type\">Details</a>)"
-msgstr ""
-
 #: DB:link_type/description:97
 msgid ""
 "Relates a soundtrack album to the Internet Movie Database page for the "
@@ -1130,34 +1105,13 @@ msgid ""
 "href=\"http://musicbrainz.org/doc/IMDb_Relationship_Type\">Details</a>)"
 msgstr ""
 
-#: DB:link_type/description:100
-msgid ""
-"Relates a soundtrack album to the Lortel Archives (Internet Off-Broadway "
-"Database) page for the musical for which it is a soundtrack. (<a "
-"href=\"http://musicbrainz.org/doc/IOBDb_Relationship_Type\">Details</a>)"
-msgstr ""
-
-#: DB:link_type/description:275
-msgid ""
-"Relates a track to the Internet Broadway Database page for the musical from "
-"which the work originates. (<a "
-"href=\"http://musicbrainz.org/doc/IBDb_Relationship_Type\">Details</a>)"
-msgstr ""
-
-#: DB:link_type/description:276
-msgid ""
-"Relates a track to the Lortel Archives (Internet Off-Broadway Database) page"
-" for the musical from which the work originates. (<a "
-"href=\"http://musicbrainz.org/doc/IOBDb_Relationship_Type\">Details</a>)"
-msgstr ""
-
 #: DB:link_type/reverse_link_phrase:280
 msgid "SecondHandSongs"
-msgstr ""
+msgstr "SecondHandSongs"
 
 #: DB:link_type/link_phrase:280
 msgid "SecondHandSongs page for"
-msgstr ""
+msgstr "Σελίδα στο SecondHandSongs για"
 
 #: DB:link_type/description:121
 msgid ""
@@ -1168,19 +1122,19 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:289
 msgid "Songfacts"
-msgstr ""
+msgstr "Songfacts"
 
 #: DB:link_type/link_phrase:289
 msgid "Songfacts page for"
-msgstr ""
+msgstr "Σελίδα στο Songfacts για"
 
 #: DB:link_type/link_phrase:290 DB:link_type/link_phrase:291
 msgid "SoundCloud"
-msgstr ""
+msgstr "SoundCloud"
 
 #: DB:link_type/reverse_link_phrase:290 DB:link_type/reverse_link_phrase:291
 msgid "SoundCloud page for"
-msgstr ""
+msgstr "Σελίδα στο SoundCloud για"
 
 #: DB:link_attribute_type/description:561
 msgid "Spoken vocals (speech)"
@@ -1457,7 +1411,7 @@ msgstr ""
 msgid ""
 "This links a label to its profile at SoundCloud. (<a "
 "href=\"http://musicbrainz.org/doc/SoundCloud_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Συνδέει μια δισκογραφική εταιρεία με το προφίλ της στο SoundCloud. (<a href=\"http://musicbrainz.org/doc/SoundCloud_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:302
 msgid "This links a recording to a license under which it is available."
@@ -1490,13 +1444,33 @@ msgstr ""
 msgid ""
 "This links an artist to its profile at SoundCloud. (<a "
 "href=\"http://musicbrainz.org/doc/SoundCloud_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Συνδέει έναν καλλιτέχνη με το προφίλ του στο SoundCloud. (<a href=\"http://musicbrainz.org/doc/SoundCloud_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:289
 msgid ""
 "This links an entity to the appropriate listing in the Songfacts database, a"
 " user contributed database concerned with the stories behind the songs. (<a "
 "href=\"http://musicbrainz.org/doc/Songfacts_Relationship_Type\">Details</a>)"
+msgstr ""
+
+#: DB:link_type/description:273 DB:link_type/description:188
+#: DB:link_type/description:222 DB:link_type/description:306
+#: DB:link_type/description:82 DB:link_type/description:96
+msgid ""
+"This links an entity to the equivalent entry at another database. Please "
+"respect the <a "
+"href=\"http://musicbrainz.org/doc/Other_Databases_Relationship_Type/Whitelist\">whitelist</a>"
+" (<a "
+"href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
+msgstr ""
+
+#: DB:link_type/description:100 DB:link_type/description:91
+#: DB:link_type/description:99 DB:link_type/description:196
+#: DB:link_type/description:181 DB:link_type/description:195
+#: DB:link_type/description:276 DB:link_type/description:275
+msgid ""
+"This relationship is <strong>deprecated</strong>. Use \"has a page in a "
+"database\" instead."
 msgstr ""
 
 #: DB:link_type/description:85
@@ -1549,11 +1523,11 @@ msgstr ""
 
 #: DB:link_type/description:210
 msgid "This relationship links a label to its corresponding page on VGMdb."
-msgstr ""
+msgstr "Αυτή η σχέση συνδέει μια δισκογραφική εταιρεία με την αντίστοιχη σελίδα στο VGMdb."
 
 #: DB:link_type/description:86
 msgid "This relationship links a release to its corresponding page on VGMdb."
-msgstr ""
+msgstr "Αυτή η σχέση συνδέει μια κυκλοφορία με την αντίστοιχη σελίδα στο VGMdb."
 
 #: DB:link_type/description:37 DB:link_type/description:132
 msgid ""
@@ -1567,14 +1541,14 @@ msgid ""
 "This relationship links a work to its corresponding page in SecondHandSongs "
 "database. (<a "
 "href=\"http://musicbrainz.org/doc/Secondhandsongs_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Αυτή η σχέση συνδέει ένα έργο στην αντίστοιχη σελίδα της βάσης δεδομένων του SecondHandSongs. (<a href=\"http://musicbrainz.org/doc/Secondhandsongs_Relationship_Type\">Λεπτομέρειες</a>)"
 
 #: DB:link_type/description:191
 msgid "This relationship links an artist to its corresponding page on VGMdb."
-msgstr ""
+msgstr "Αυτή η σχέση συνδέει έναν καλλιτέχνη με την αντίστοιχη σελίδα στο VGMdb."
 
 #: DB:link_type/description:283 DB:link_type/description:284
-#: DB:link_type/description:285 DB:link_type/description:286
+#: DB:link_type/description:286 DB:link_type/description:285
 msgid ""
 "This relationship links an artist, release group, work or recording to its "
 "corresponding page on allmusic. (<a "
@@ -1614,13 +1588,6 @@ msgid ""
 "href=\"http://musicbrainz.org/doc/Online_Community_Relationship_Type\">Details</a>)"
 msgstr ""
 
-#: DB:link_type/description:199
-msgid ""
-"This relationship type can be used to link a MusicBrainz artist to their "
-"weblogs (<a "
-"href=\"http://musicbrainz.org/doc/Blog_Relationship_Type\">Details</a>)."
-msgstr ""
-
 #: DB:link_type/description:215
 msgid ""
 "This relationship type can be used to link a MusicBrainz label to the "
@@ -1637,8 +1604,7 @@ msgstr ""
 
 #: DB:link_type/description:224
 msgid ""
-"This relationship type can be used to link a MusicBrainz label to their "
-"weblogs (<a "
+"This relationship type can be used to link a label to its blog (<a "
 "href=\"http://musicbrainz.org/doc/Blog_Relationship_Type\">Details</a>)."
 msgstr ""
 
@@ -1665,6 +1631,12 @@ msgid ""
 "href=\"http://musicbrainz.org/doc/YouTube_Relationship_Type\">Details</a>)"
 msgstr ""
 
+#: DB:link_type/description:199
+msgid ""
+"This relationship type can be used to link an artist to their blog (<a "
+"href=\"http://musicbrainz.org/doc/Blog_Relationship_Type\">Details</a>)."
+msgstr ""
+
 #: DB:link_type/description:238
 msgid ""
 "This relationship type is <strong>deprecated</strong>! If two recordings are"
@@ -1688,7 +1660,7 @@ msgstr ""
 msgid ""
 "This should be used when an artist is credited in liner notes or a similar "
 "source as performing a solo part."
-msgstr ""
+msgstr "Θα πρέπει να χρησιμοποιείται όταν κάποιος καλλιτέχνης αναφέρεται στο ένθετο ή σε κάποια αντίστοιχη πηγή ότι παίζει σόλο."
 
 #: DB:link_attribute_type/description:617
 msgid ""
@@ -1715,11 +1687,12 @@ msgid ""
 "spelling."
 msgstr ""
 
-#: DB:link_type/description:93 DB:link_type/description:197
+#: DB:link_type/description:197 DB:link_type/description:93
 #: DB:link_type/description:271
 msgid ""
 "Use this relationship to link to lyrics hosted by lyrics.wikia.com, "
-"directlyrics.com, lyricstatus.com or kasi-time.com ONLY! (<a "
+"directlyrics.com, lyricstatus.com, kasi-time.com or wikisource.org ONLY! (<a"
+" "
 "href=\"http://musicbrainz.org/doc/Has_Lyrics_At_Relationship_Type\">Details</a>)"
 msgstr ""
 
@@ -1821,7 +1794,7 @@ msgstr ""
 
 #: DB:link_attribute_type/name:12
 msgid "background"
-msgstr ""
+msgstr "δεύτερα"
 
 #: DB:link_attribute_type/description:6 DB:link_attribute_type/name:6
 msgid "baritone"
@@ -1829,7 +1802,7 @@ msgstr ""
 
 #: DB:link_attribute_type/description:7 DB:link_attribute_type/name:7
 msgid "bass"
-msgstr ""
+msgstr "μπάσο"
 
 #: DB:link_attribute_type/description:231 DB:link_attribute_type/name:231
 msgid "bass-baritone"
@@ -1904,7 +1877,7 @@ msgstr ""
 
 #: DB:link_attribute_type/description:424
 msgid "co-[role]"
-msgstr ""
+msgstr "συν-[ρόλος]"
 
 #: DB:link_type/short_link_phrase:102
 msgid "collaborated {minor:minorly} {additional:additionally} on"
@@ -1912,7 +1885,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:228
 msgid "compilation of"
-msgstr ""
+msgstr "συλλογή από"
 
 #: DB:link_type/link_phrase:16 DB:link_type/link_phrase:52
 #: DB:link_type/link_phrase:159 DB:link_type/link_phrase:247
@@ -1923,7 +1896,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:159 DB:link_type/short_link_phrase:247
 #: DB:link_type/short_link_phrase:237
 msgid "compilations"
-msgstr ""
+msgstr "συλλογές"
 
 #: DB:link_type/link_phrase:48 DB:link_type/link_phrase:147
 #: DB:link_type/short_link_phrase:48 DB:link_type/short_link_phrase:147
@@ -1962,7 +1935,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:49
 msgid "contains {additional} samples by"
-msgstr ""
+msgstr "περιέχει {additional} samples από"
 
 #: DB:link_type/short_link_phrase:231
 msgid "contains {additional} samples from"
@@ -1987,11 +1960,11 @@ msgstr ""
 
 #: DB:link_attribute_type/name:567
 msgid "cover"
-msgstr ""
+msgstr "διασκευασμένη"
 
 #: DB:link_type/link_phrase:78
 msgid "cover art"
-msgstr ""
+msgstr "εξώφυλλο"
 
 #: DB:link_type/reverse_link_phrase:78
 msgid "cover art for"
@@ -1999,14 +1972,14 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:12 DB:link_type/short_link_phrase:245
 msgid "covers and versions"
-msgstr ""
+msgstr "διασκευές και εκδόσεις"
 
 #: DB:link_type/link_phrase:12 DB:link_type/link_phrase:4
 #: DB:link_type/link_phrase:245 DB:link_type/reverse_link_phrase:12
 #: DB:link_type/reverse_link_phrase:4 DB:link_type/reverse_link_phrase:245
 #: DB:link_type/short_link_phrase:4
 msgid "covers or other versions"
-msgstr ""
+msgstr "διασκευές και άλλες εκδόσεις"
 
 #: DB:link_type/link_phrase:264 DB:link_type/reverse_link_phrase:264
 msgid "creative direction"
@@ -2089,7 +2062,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:120
 msgid "engineers"
-msgstr ""
+msgstr "μηχανικοί ήχου"
 
 #: DB:link_attribute_type/name:425
 msgid "executive"
@@ -2105,15 +2078,15 @@ msgstr ""
 
 #: DB:link_type/link_phrase:116 DB:link_type/short_link_phrase:116
 msgid "founded"
-msgstr ""
+msgstr "ιδρύθηκε"
 
 #: DB:link_attribute_type/name:525
 msgid "founder"
-msgstr ""
+msgstr "ιδρυτής"
 
 #: DB:link_type/reverse_link_phrase:116
 msgid "founders"
-msgstr ""
+msgstr "ιδρυτές"
 
 #: DB:link_type/reverse_link_phrase:75 DB:link_type/reverse_link_phrase:177
 #: DB:link_type/reverse_link_phrase:255
@@ -2147,7 +2120,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:117
 msgid "had a producer position at"
-msgstr ""
+msgstr "είχε θέση παραγωγού στο"
 
 #: DB:link_type/short_link_phrase:121
 msgid "had a recording contract with"
@@ -2188,7 +2161,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:290 DB:link_type/short_link_phrase:291
 msgid "has a SoundCloud page at"
-msgstr ""
+msgstr "έχει σελίδα στο SoundCloud στο"
 
 #: DB:link_type/short_link_phrase:86 DB:link_type/short_link_phrase:191
 #: DB:link_type/short_link_phrase:210
@@ -2241,13 +2214,19 @@ msgstr ""
 msgid "has a miscellaneous role on"
 msgstr ""
 
+#: DB:link_type/short_link_phrase:188 DB:link_type/short_link_phrase:222
+#: DB:link_type/short_link_phrase:306 DB:link_type/short_link_phrase:82
+#: DB:link_type/short_link_phrase:96
+msgid "has a page in a database at"
+msgstr ""
+
 #: DB:link_type/short_link_phrase:173
 msgid "has a picture at"
 msgstr ""
 
 #: DB:link_type/short_link_phrase:94
 msgid "has a review page at"
-msgstr ""
+msgstr "έχει κριτική στο"
 
 #: DB:link_type/short_link_phrase:192 DB:link_type/short_link_phrase:218
 msgid "has a social networking page at"
@@ -2297,7 +2276,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:78
 msgid "has cover art at"
-msgstr ""
+msgstr "έχει εξώφυλλο στο"
 
 #: DB:link_type/short_link_phrase:264
 msgid "has creative direction by"
@@ -2319,7 +2298,7 @@ msgstr ""
 msgid "has legal representation by"
 msgstr ""
 
-#: DB:link_type/short_link_phrase:93 DB:link_type/short_link_phrase:197
+#: DB:link_type/short_link_phrase:197 DB:link_type/short_link_phrase:93
 msgid "has lyrics available at"
 msgstr ""
 
@@ -2369,11 +2348,11 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:280
 msgid "is a SecondHandSongs page for"
-msgstr ""
+msgstr "είναι σελίδα στο SecondHandSongs για"
 
 #: DB:link_type/short_link_phrase:289
 msgid "is a Songfacts page for"
-msgstr ""
+msgstr "είναι σελίδα στο Songfacts για"
 
 #: DB:link_type/short_link_phrase:279
 msgid "is a Wikipedia page for"
@@ -2381,7 +2360,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:228
 msgid "is a compilation of"
-msgstr ""
+msgstr "είναι μια συλλογή από"
 
 #: DB:link_type/short_link_phrase:17
 msgid "is a live performance of"
@@ -2399,6 +2378,10 @@ msgstr ""
 msgid "is a miscellaneous website for"
 msgstr ""
 
+#: DB:link_type/short_link_phrase:273
+msgid "is a page in a database for"
+msgstr ""
+
 #: DB:link_type/short_link_phrase:6 DB:link_type/short_link_phrase:236
 msgid "is a remaster of"
 msgstr ""
@@ -2413,7 +2396,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:15
 msgid "is a {translated} {parody} cover of"
-msgstr ""
+msgstr "είναι μια {translated} {parody} διασκευή του"
 
 #: DB:link_type/short_link_phrase:286
 msgid "is an Allmusic page for"
@@ -2442,7 +2425,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:241
 msgid "is the earliest version of {translated} {parody}"
-msgstr ""
+msgstr "είναι η πρώτη έκδοση από {translated} {parody}"
 
 #: DB:link_type/short_link_phrase:2
 msgid "is the original for the transl{transliterated:iter}ated track listing"
@@ -2482,7 +2465,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:103
 msgid "is/was {additional:an additional|a} member of {founder:and founded|}"
-msgstr ""
+msgstr "είναι/ήταν {additional:πρόσθετο|} {founder:ιδρυτικό|}μέλος των "
 
 #: DB:link_type/short_link_phrase:305
 msgid ""
@@ -2504,7 +2487,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:241
 msgid "later {translated} {parody} versions"
-msgstr ""
+msgstr "νεότερες {translated} {parody} εκδόσεις"
 
 #: DB:link_attribute_type/name:4
 msgid "lead"
@@ -2531,7 +2514,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:302 DB:link_type/reverse_link_phrase:301
 msgid "license for"
-msgstr ""
+msgstr "άδεια για"
 
 #: DB:link_type/link_phrase:81 DB:link_type/reverse_link_phrase:81
 #: DB:link_type/short_link_phrase:81
@@ -2540,15 +2523,15 @@ msgstr ""
 
 #: DB:link_attribute_type/name:578
 msgid "live"
-msgstr ""
+msgstr "ζωντανή"
 
 #: DB:link_type/link_phrase:17
 msgid "live performance of"
-msgstr ""
+msgstr "ζωντανή εκτέλεση του"
 
 #: DB:link_type/reverse_link_phrase:17
 msgid "live performances"
-msgstr ""
+msgstr "ζωντανές εκτελέσεις"
 
 #: DB:link_type/reverse_link_phrase:213
 msgid "logo of"
@@ -2558,13 +2541,13 @@ msgstr ""
 msgid "logos"
 msgstr ""
 
-#: DB:link_type/link_phrase:93 DB:link_type/link_phrase:197
+#: DB:link_type/link_phrase:197 DB:link_type/link_phrase:93
 #: DB:link_type/reverse_link_phrase:271
 msgid "lyrics page"
 msgstr ""
 
-#: DB:link_type/link_phrase:271 DB:link_type/reverse_link_phrase:93
-#: DB:link_type/reverse_link_phrase:197
+#: DB:link_type/link_phrase:271 DB:link_type/reverse_link_phrase:197
+#: DB:link_type/reverse_link_phrase:93
 msgid "lyrics page for"
 msgstr ""
 
@@ -2697,7 +2680,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:185
 msgid "online community page for"
-msgstr ""
+msgstr "δι"
 
 #: DB:link_type/link_phrase:221 DB:link_type/reverse_link_phrase:221
 #: DB:link_type/short_link_phrase:221
@@ -2712,21 +2695,19 @@ msgstr ""
 msgid "other"
 msgstr ""
 
-#: DB:link_type/link_phrase:96 DB:link_type/link_phrase:82
-#: DB:link_type/link_phrase:188 DB:link_type/link_phrase:222
-#: DB:link_type/link_phrase:273 DB:link_type/reverse_link_phrase:96
-#: DB:link_type/reverse_link_phrase:82 DB:link_type/reverse_link_phrase:188
-#: DB:link_type/reverse_link_phrase:222 DB:link_type/reverse_link_phrase:273
-#: DB:link_type/short_link_phrase:96 DB:link_type/short_link_phrase:82
-#: DB:link_type/short_link_phrase:188 DB:link_type/short_link_phrase:222
-#: DB:link_type/short_link_phrase:273
+#: DB:link_type/link_phrase:273 DB:link_type/link_phrase:188
+#: DB:link_type/link_phrase:222 DB:link_type/link_phrase:306
+#: DB:link_type/link_phrase:82 DB:link_type/link_phrase:96
+#: DB:link_type/reverse_link_phrase:273 DB:link_type/reverse_link_phrase:188
+#: DB:link_type/reverse_link_phrase:222 DB:link_type/reverse_link_phrase:306
+#: DB:link_type/reverse_link_phrase:82 DB:link_type/reverse_link_phrase:96
 msgid "other databases"
 msgstr ""
 
 #: DB:link_type/link_phrase:233 DB:link_type/reverse_link_phrase:233
 #: DB:link_type/short_link_phrase:233
 msgid "other versions"
-msgstr ""
+msgstr "άλλες εκδόσεις"
 
 #: DB:link_type/reverse_link_phrase:200
 msgid "parent label"
@@ -2738,7 +2719,7 @@ msgstr ""
 
 #: DB:link_attribute_type/name:511
 msgid "parody"
-msgstr ""
+msgstr "παρωδία"
 
 #: DB:link_type/reverse_link_phrase:281
 msgid "part of"
@@ -2746,7 +2727,7 @@ msgstr ""
 
 #: DB:link_attribute_type/name:579
 msgid "partial"
-msgstr ""
+msgstr "μερική"
 
 #: DB:link_type/link_phrase:281
 msgid "parts"
@@ -2797,7 +2778,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:1
 msgid "previous disc"
-msgstr ""
+msgstr "προηγούμενος δίσκος"
 
 #: DB:link_attribute_type/name:618
 msgid "principal"
@@ -2814,11 +2795,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:117
 msgid "producer position"
-msgstr ""
+msgstr "θέση παραγωγού"
 
 #: DB:link_type/reverse_link_phrase:117
 msgid "producers"
-msgstr ""
+msgstr "παραγωγοί"
 
 #: DB:link_type/link_phrase:59 DB:link_type/link_phrase:72
 #: DB:link_type/link_phrase:87 DB:link_type/link_phrase:160
@@ -2829,7 +2810,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:87 DB:link_type/short_link_phrase:160
 #: DB:link_type/short_link_phrase:256
 msgid "production"
-msgstr ""
+msgstr "παραγωγή"
 
 #: DB:link_type/short_link_phrase:135 DB:link_type/short_link_phrase:62
 msgid "provided artist & repertoire support for"
@@ -2959,11 +2940,11 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:94
 msgid "review page for"
-msgstr ""
+msgstr "σελίδα κριτικής για"
 
 #: DB:link_type/link_phrase:94
 msgid "reviews"
-msgstr ""
+msgstr "κριτικές"
 
 #: DB:link_type/link_phrase:83 DB:link_type/link_phrase:258
 msgid "samples IMDb entry"
@@ -3007,11 +2988,11 @@ msgstr ""
 
 #: DB:link_attribute_type/name:596
 msgid "solo"
-msgstr ""
+msgstr "σόλο"
 
 #: DB:link_attribute_type/description:10 DB:link_attribute_type/name:10
 msgid "soprano"
-msgstr ""
+msgstr "σοπράνο"
 
 #: DB:link_attribute_type/name:561
 msgid "spoken"
@@ -3048,11 +3029,11 @@ msgstr ""
 
 #: DB:link_attribute_type/description:11 DB:link_attribute_type/name:11
 msgid "tenor"
-msgstr ""
+msgstr "τενόρο"
 
 #: DB:link_attribute_type/name:517
 msgid "translated"
-msgstr ""
+msgstr "μετέφρασε"
 
 #: DB:link_attribute_type/name:477
 msgid "transliterated"
@@ -3166,7 +3147,7 @@ msgstr ""
 #: DB:link_type/link_phrase:46 DB:link_type/link_phrase:151
 #: DB:link_type/short_link_phrase:46 DB:link_type/short_link_phrase:151
 msgid "{additional:additionally} conducted"
-msgstr ""
+msgstr "{additional:επιπλέον} διεύθυνε την ορχήστρα"
 
 #: DB:link_type/link_phrase:40 DB:link_type/link_phrase:164
 #: DB:link_type/link_phrase:300 DB:link_type/short_link_phrase:40
@@ -3221,11 +3202,11 @@ msgstr ""
 #: DB:link_type/link_phrase:36 DB:link_type/link_phrase:128
 #: DB:link_type/short_link_phrase:36 DB:link_type/short_link_phrase:128
 msgid "{additional:additionally} {assistant} {associate} {co:co-}recorded"
-msgstr ""
+msgstr "{additional:επιπλέον} {assistant} {associate} {co:συν-}ηχογραφήθηκε"
 
 #: DB:link_type/reverse_link_phrase:36 DB:link_type/reverse_link_phrase:128
 msgid "{additional:additionally} {assistant} {associate} {co:co-}recorded by"
-msgstr ""
+msgstr "{additional:επιπλέον} {assistant} {associate} {co:συν-}ηχογραφήθηκε από"
 
 #: DB:link_type/link_phrase:29 DB:link_type/link_phrase:133
 #: DB:link_type/short_link_phrase:29 DB:link_type/short_link_phrase:133
@@ -3264,11 +3245,11 @@ msgstr ""
 #: DB:link_type/short_link_phrase:57 DB:link_type/short_link_phrase:169
 msgid ""
 "{additional:additionally} {translated:translated|wrote} the libretto for"
-msgstr ""
+msgstr "{additional:επιπλέον} {translated:μετέφρασε|έγραψε} το λιμπρέτο για"
 
 #: DB:link_type/short_link_phrase:56 DB:link_type/short_link_phrase:165
 msgid "{additional:additionally} {translated:translated|wrote} the lyrics for"
-msgstr ""
+msgstr "{additional:επιπλέον} {translated:μετέφρασε|έγραψε} τους στίχους για"
 
 #: DB:link_type/link_phrase:294 DB:link_type/link_phrase:296
 #: DB:link_type/link_phrase:298
@@ -3292,11 +3273,11 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:55 DB:link_type/reverse_link_phrase:168
 msgid "{additional} composer"
-msgstr ""
+msgstr "{additional} συνθέτης"
 
 #: DB:link_type/reverse_link_phrase:46 DB:link_type/reverse_link_phrase:151
 msgid "{additional} conductor"
-msgstr ""
+msgstr "{additional} διευθυντής ορχήστρας"
 
 #: DB:link_type/link_phrase:63 DB:link_type/link_phrase:146
 #: DB:link_type/reverse_link_phrase:63 DB:link_type/reverse_link_phrase:146
@@ -3369,7 +3350,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:30 DB:link_type/reverse_link_phrase:141
 msgid ""
 "{additional} {assistant} {associate} {co:co-}{executive:executive }producer"
-msgstr ""
+msgstr "{additional} {assistant} {associate} {co:συν-}{executive:διευθυντής }παραγωγός"
 
 #: DB:link_type/link_phrase:37 DB:link_type/link_phrase:132
 #: DB:link_type/reverse_link_phrase:37 DB:link_type/reverse_link_phrase:132
@@ -3378,11 +3359,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:103
 msgid "{additional} {founder:founding} member of"
-msgstr ""
+msgstr "{additional} {founder:ιδρυτικό} μέλος των"
 
 #: DB:link_type/reverse_link_phrase:103
 msgid "{additional} {founder:founding} members"
-msgstr ""
+msgstr "{additional} {founder:ιδρυτικά} μέλη"
 
 #: DB:link_type/reverse_link_phrase:51 DB:link_type/reverse_link_phrase:156
 msgid "{additional} {guest} {solo} performer"
@@ -3396,7 +3377,7 @@ msgstr ""
 #: DB:link_type/link_phrase:60 DB:link_type/link_phrase:149
 #: DB:link_type/reverse_link_phrase:60 DB:link_type/reverse_link_phrase:149
 msgid "{additional} {guest} {solo} {vocal} vocals"
-msgstr ""
+msgstr "{additional} {guest} {solo} {vocal} φωνητικά"
 
 #: DB:link_type/reverse_link_phrase:282 DB:link_type/reverse_link_phrase:158
 #: DB:link_type/reverse_link_phrase:41
@@ -3415,11 +3396,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:102
 msgid "{additional} {minor} collaborator on"
-msgstr ""
+msgstr "{additional} {minor} συνεργάτης στο"
 
 #: DB:link_type/reverse_link_phrase:102
 msgid "{additional} {minor} collaborators"
-msgstr ""
+msgstr "{additional} {minor} συνεργάτες"
 
 #: DB:link_type/link_phrase:45 DB:link_type/link_phrase:150
 #: DB:link_type/reverse_link_phrase:45 DB:link_type/reverse_link_phrase:150
@@ -3433,15 +3414,15 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:56 DB:link_type/reverse_link_phrase:165
 msgid "{additional} {translated:translator|lyricist}"
-msgstr ""
+msgstr "{additional} {translated:μεταφραστής|στιχουργός}"
 
 #: DB:link_type/link_phrase:169
 msgid "{additional} {translated} libretto"
-msgstr ""
+msgstr "{additional} {translated} το λιμπρέτο"
 
 #: DB:link_type/link_phrase:56 DB:link_type/link_phrase:165
 msgid "{additional} {translated} lyrics"
-msgstr ""
+msgstr "{additional} {translated} τους στίχους"
 
 #: DB:link_type/reverse_link_phrase:294 DB:link_type/reverse_link_phrase:296
 #: DB:link_type/reverse_link_phrase:298
@@ -3458,11 +3439,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:1
 msgid "{bonus:bonus|next} disc"
-msgstr ""
+msgstr "{bonus:μπόνους|επόμενος} δίσκος"
 
 #: DB:link_type/short_link_phrase:1
 msgid "{bonus:may be|is} part of a set, the next disc in the set is"
-msgstr ""
+msgstr "{bonus:μπορεί να είναι|είναι} μέρος μιας σειράς, ο επόμενος δίσκος της σειράς είναι"
 
 #: DB:link_type/short_link_phrase:45 DB:link_type/short_link_phrase:150
 msgid "{orchestra} orchestra {additional:additionally} performed"
@@ -3478,15 +3459,15 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:15
 msgid "{translated} {parody:parodies|covers}"
-msgstr ""
+msgstr "{translated} {parody:parodies|διασκευές}"
 
 #: DB:link_type/link_phrase:15
 msgid "{translated} {parody:parody|cover} of"
-msgstr ""
+msgstr "{translated} {parody:parody|διασκευή} του"
 
 #: DB:link_type/reverse_link_phrase:241
 msgid "{translated} {parody} version of"
-msgstr ""
+msgstr "{translated} {parody} έκδοση του"
 
 #: DB:link_type/short_link_phrase:85 DB:link_type/short_link_phrase:268
 msgid "{video} can be streamed for free at"

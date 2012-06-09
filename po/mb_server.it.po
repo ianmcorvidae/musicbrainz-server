@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-08 16:11+0000\n"
+"PO-Revision-Date: 2012-06-09 18:51+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -153,7 +153,7 @@ msgstr "(nuovo disco)"
 #: ../root/edit/details/add_release.tt:22
 #, perl-format
 msgid "(new release group)"
-msgstr ""
+msgstr "(nuovo gruppo di pubblicazioni)"
 
 #: ../root/annotation/common.tt:9
 #: ../root/edit/details/add_artist_annotation.tt:10
@@ -212,12 +212,12 @@ msgstr "(verificata il {date})"
 #: ../root/release/merge.tt:63
 #, perl-format
 msgid "(was medium {position} on release {release})"
-msgstr ""
+msgstr "(era il supporto {position} nella pubblicazione {release})"
 
 #: ../root/release/merge.tt:58
 #, perl-format
 msgid "(was medium {position}: {name} on release {release})"
-msgstr ""
+msgstr "(era il supporto {position}: {name} nella pubblicazione {release})"
 
 #: ../root/recording/layout.tt:19 ../root/work/layout.tt:21
 #, perl-format
@@ -511,7 +511,7 @@ msgstr ""
 #: ../root/release_group/create.tt:16
 #, perl-format
 msgid "Add New Release Group"
-msgstr ""
+msgstr "Aggiungi nuovo gruppo di pubblicazioni"
 
 #: ../root/edit/info.tt:13
 #, perl-format
@@ -531,12 +531,12 @@ msgstr ""
 #: ../root/layout/menu.tt:185 ../root/release/edit/layout.tt:4
 #, perl-format
 msgid "Add Release"
-msgstr ""
+msgstr "Aggiungi pubblicazione"
 
 #: ../root/layout/menu.tt:182
 #, perl-format
 msgid "Add Release Group"
-msgstr ""
+msgstr "Aggiungi gruppo di pubblicazioni"
 
 #: ../root/layout/menu.tt:191 ../root/recording/create.tt:16
 #: ../root/recording/create.tt:18
@@ -584,7 +584,7 @@ msgstr "Aggiungi una nuova etichetta"
 #: ../root/release_group/create.tt:23
 #, perl-format
 msgid "Add a New Release Group"
-msgstr ""
+msgstr "Aggiungi un nuovo gruppo di pubblicazioni"
 
 #: ../root/account/edit.tt:44
 #, perl-format
@@ -613,7 +613,7 @@ msgstr ""
 #: ../root/cdtoc/attach_filter_release.tt:79
 #, perl-format
 msgid "Add a new release"
-msgstr ""
+msgstr "Aggiungi una nuova pubblicazione"
 
 #: ../root/edit/notes.tt:39
 #, perl-format
@@ -657,7 +657,7 @@ msgstr ""
 #: ../root/cdstub/layout.tt:23
 #, perl-format
 msgid "Add disc ID to an existing release"
-msgstr ""
+msgstr "Aggiungi ID disco a una pubblicazione esistente"
 
 #: ../root/edit/add_note.tt:4
 #, perl-format
@@ -702,14 +702,14 @@ msgstr "Aggiungi registrazione"
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 #, perl-format
 msgid "Add release"
-msgstr ""
+msgstr "Aggiungi pubblicazione"
 
 #: ../root/artist/layout.tt:64
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseGroup.pm:18
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Create.pm:23
 #, perl-format
 msgid "Add release group"
-msgstr ""
+msgstr "Aggiungi gruppo di pubblicazioni"
 
 #: ../root/report/duplicate_artists.tt:45
 #, perl-format
@@ -725,7 +725,7 @@ msgstr ""
 #: ../root/release_group/index.tt:75
 #, perl-format
 msgid "Add selected releases for merging"
-msgstr ""
+msgstr "Aggiungi pubblicazioni selezionate per unirle"
 
 #: ../root/artist/works.tt:8 ../root/iswc/index.tt:56
 #, perl-format
@@ -922,18 +922,18 @@ msgstr "In alternativa, puoi {uri|aggiungere una nuova etichetta}."
 #: ../root/search/results-recording.tt:7
 #, perl-format
 msgid "Alternatively, you may {uri|add a new recording}."
-msgstr ""
+msgstr "In alternativa, puoi {uri|aggiungere una nuova registrazione}."
 
 #: ../root/search/results-release_group.tt:30
 #: ../root/search/results-release-group.tt:30
 #, perl-format
 msgid "Alternatively, you may {uri|add a new release group}."
-msgstr ""
+msgstr "In alternativa, puoi {uri|aggiungere un nuovo gruppo di pubblicazioni}."
 
 #: ../root/search/results-work.tt:58
 #, perl-format
 msgid "Alternatively, you may {uri|add a new work}."
-msgstr ""
+msgstr "In alternativa, puoi {uri|aggiungere una nuova opera}."
 
 #: ../root/report/asins_with_multiple_releases.tt:1
 #: ../root/report/asins_with_multiple_releases.tt:3
@@ -1041,13 +1041,13 @@ msgstr "Partecipazioni"
 #: ../root/recording/index.tt:3 ../root/tracklist/index.tt:23
 #, perl-format
 msgid "Appears on releases"
-msgstr ""
+msgstr "Compare in queste pubblicazioni"
 
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:50
 #, perl-format
 msgid "Append mediums to target release"
-msgstr ""
+msgstr "Aggiungi supporti alla pubblicazione di destinazione"
 
 #: ../root/edit/search_macros.tt:235
 #, perl-format
@@ -1064,14 +1064,14 @@ msgstr "Approva modifica"
 msgid ""
 "Are you sure that you want to merge {release1} by {artist1} into {release2} "
 "by {artist2}?"
-msgstr ""
+msgstr "Sei sicuro di voler unire {release1} di {artist1} a {release2} di {artist2}?"
 
 #: ../root/release/move_confirm.tt:4
 #, perl-format
 msgid ""
 "Are you sure that you want to move {release} by {release_artist} to the "
 "release group {group} by {artist}?"
-msgstr ""
+msgstr "Sei sicuro di voler spostare {release} di {release_artist} al gruppo di pubblicazioni {group} di {artist}?"
 
 #: ../root/cdtoc/attach_confirm.tt:3
 #, perl-format
@@ -1137,7 +1137,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to remove the disc ID <code>{discid}</code> from the "
 "release {release} by {artist}?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere l'ID disco <code>{discid}</code> dalla pubblicazione {release} di {artist}?"
 
 #: ../root/edit/cancel.tt:3
 #, perl-format
@@ -1207,13 +1207,13 @@ msgstr ""
 msgid ""
 "Are you sure you wish to remove the release group {rg} by {artist} from "
 "MusicBrainz?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere il gruppo di pubblicazioni {rg} di {artist} da MusicBrainz?"
 
 #: ../root/release/delete.tt:7
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the release {release} from MusicBrainz?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere la pubblicazione {release} da MusicBrainz?"
 
 #: ../root/artist/edits.tt:18 ../root/artist/header.tt:20
 #: ../root/artist/index.tt:70 ../root/artist/recordings-list.tt:24
@@ -2008,21 +2008,21 @@ msgstr "Cambia direzione"
 #: ../root/release/change_quality.tt:1 ../root/release/change_quality.tt:2
 #, perl-format
 msgid "Change release data quality"
-msgstr ""
+msgstr "Cambia qualità dei dati della pubblicazione"
 
 #: ../root/release/sidebar.tt:74
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseGroup.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Release/Move.pm:17
 #, perl-format
 msgid "Change release group"
-msgstr ""
+msgstr "Cambia gruppo di pubblicazioni"
 
 #: ../root/release/sidebar.tt:73
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseQuality.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Release/ChangeQuality.pm:18
 #, perl-format
 msgid "Change release quality"
-msgstr ""
+msgstr "Cambia qualità della pubblicazione"
 
 #: ../root/edit/vote.tt:27
 #, perl-format
@@ -2841,22 +2841,22 @@ msgstr ""
 #: ../root/release/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Release Annotation"
-msgstr ""
+msgstr "Modifica annotazione della pubblicazione"
 
 #: ../root/release_group/edit.tt:21
 #, perl-format
 msgid "Edit Release Group"
-msgstr ""
+msgstr "Modifica gruppo di pubblicazioni"
 
 #: ../root/release_group/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Release Group Annotation"
-msgstr ""
+msgstr "Modifica annotazione del gruppo di pubblicazioni"
 
 #: ../root/release/edit/layout.tt:2
 #, perl-format
 msgid "Edit Release: {name}"
-msgstr ""
+msgstr "Modifica pubblicazione: {name}"
 
 #: ../root/doc/edit_types.tt:1 ../root/doc/edit_types.tt:3
 #: ../root/doc/edit_type.tt:17 ../root/edit/info.tt:59
@@ -2956,12 +2956,12 @@ msgstr ""
 #: ../root/release/edit_annotation.tt:2
 #, perl-format
 msgid "Edit release annotation"
-msgstr ""
+msgstr "Modifica annotazione della pubblicazione"
 
 #: ../root/release_group/edit_annotation.tt:2
 #, perl-format
 msgid "Edit release group annotation"
-msgstr ""
+msgstr "Modifica annotazione del gruppo di pubblicazioni"
 
 #: ../root/admin/edit_user.tt:40
 #, perl-format
@@ -3154,7 +3154,7 @@ msgstr "Email:"
 #: ../root/report/empty_release_groups.tt:3
 #, perl-format
 msgid "Empty Release Groups"
-msgstr ""
+msgstr "Gruppi di pubblicazioni vuoti"
 
 #: ../root/release/edit/tracklist.tt:195
 #, perl-format
@@ -3672,7 +3672,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:165
 #, perl-format
 msgid "I confirm that this is the barcode as it appears on the release."
-msgstr ""
+msgstr "Confermo che questo è il codice a barre che compare sulla pubblicazione."
 
 #: ../root/taglookup/nag.tt:23
 #, perl-format
@@ -3852,7 +3852,7 @@ msgstr ""
 msgid ""
 "If you do not know whether the release has a barcode or not, just leave this"
 " blank."
-msgstr ""
+msgstr "Se non sei sicuro se la pubblicazione ha un codice a barre o meno, lascia vuoto questo campo."
 
 #: ../root/cdtoc/attach_filter_artist.tt:41
 #, perl-format
@@ -4073,7 +4073,7 @@ msgstr "Jaikoz Tagger"
 #: ../root/release/edit/layout.tt:22
 #, perl-format
 msgid "Javascript needs to be enabled to edit releases."
-msgstr ""
+msgstr "Javascript deve essere abilitato per poter modificare le pubblicazioni."
 
 #: ../root/recording/edit.tt:35 ../root/release_group/create.tt:18
 #: ../root/release_group/edit.tt:24 ../root/work/create.tt:18
@@ -4524,14 +4524,14 @@ msgstr ""
 #: ../root/release_group/merge.tt:1 ../root/release_group/merge.tt:3
 #, perl-format
 msgid "Merge Release Groups"
-msgstr ""
+msgstr "Unisci gruppi di pubblicazioni"
 
 #: ../root/release/merge_confirm.tt:1 ../root/release/merge_confirm.tt:2
 #: ../root/release/merge_search.tt:1 ../root/release/merge_search.tt:2
 #: ../root/release/merge.tt:15 ../root/release/merge.tt:17
 #, perl-format
 msgid "Merge Releases"
-msgstr ""
+msgstr "Unisci pubblicazioni"
 
 #: ../root/work/merge.tt:1 ../root/work/merge.tt:3
 #, perl-format
@@ -4577,18 +4577,18 @@ msgstr ""
 #: ../root/release/sidebar.tt:77
 #, perl-format
 msgid "Merge release"
-msgstr ""
+msgstr "Unisci pubblicazione"
 
 #: ../root/release_group/layout.tt:41
 #, perl-format
 msgid "Merge release group"
-msgstr ""
+msgstr "Unisci gruppo di pubblicazioni"
 
 #: ../root/artist/index.tt:106
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
 #, perl-format
 msgid "Merge release groups"
-msgstr ""
+msgstr "Unisci gruppi di pubblicazioni"
 
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
@@ -4770,7 +4770,7 @@ msgstr "MusicBrainz: Etichetta"
 #: ../root/layout.tt:26
 #, perl-format
 msgid "MusicBrainz: Release"
-msgstr ""
+msgstr "MusicBrainz: Pubblicazione"
 
 #: ../root/layout.tt:27
 #, perl-format
@@ -4903,7 +4903,7 @@ msgstr ""
 #: ../root/edit/details/historic/merge_releases.tt:14
 #, perl-format
 msgid "New Release:"
-msgstr ""
+msgstr "Nuova pubblicazione:"
 
 #: ../root/edit/details/edit_release_attributes.tt:27
 #, perl-format
@@ -5086,22 +5086,22 @@ msgstr ""
 #: ../root/artist/index.tt:115
 #, perl-format
 msgid "No release groups found"
-msgstr ""
+msgstr "Nessun gruppo di pubblicazioni trovato"
 
 #: ../root/tag/release_group.tt:1
 #, perl-format
 msgid "No release groups with this tag were found."
-msgstr ""
+msgstr "Nessun gruppo di pubblicazioni trovato con questo tag."
 
 #: ../root/artist/releases.tt:21
 #, perl-format
 msgid "No releases found"
-msgstr ""
+msgstr "Nessuna pubblicazione trovata"
 
 #: ../root/collection/index.tt:52
 #, perl-format
 msgid "No releases found in collection."
-msgstr ""
+msgstr "Nessuna pubblicazione trovata nella collezione."
 
 #: ../root/recording/index.tt:43
 #, perl-format
@@ -5111,12 +5111,12 @@ msgstr ""
 #: ../root/release_group/index.tt:78
 #, perl-format
 msgid "No releases found."
-msgstr ""
+msgstr "Nessuna pubblicazione trovata."
 
 #: ../root/tag/release.tt:1
 #, perl-format
 msgid "No releases with this tag were found."
-msgstr ""
+msgstr "Nessuna pubblicazione trovata con questo tag."
 
 #: ../root/release/edit/tracklist.tt:114 ../root/scripts/text_strings.tt:37
 #, perl-format
@@ -5279,7 +5279,7 @@ msgstr ""
 #: ../root/edit/details/historic/merge_releases.tt:3
 #, perl-format
 msgid "Old releases:"
-msgstr ""
+msgstr "Vecchie pubblicazioni:"
 
 #: ../root/edit/details/change_wikidoc.tt:11
 #: ../root/edit/details/change_wikidoc.tt:16
@@ -5377,7 +5377,7 @@ msgstr ""
 #: ../root/artist/index.tt:62
 #, perl-format
 msgid "Other release groups"
-msgstr ""
+msgstr "Altri gruppi di pubblicazioni"
 
 #: ../root/user/profile.tt:177
 #, perl-format
@@ -6214,7 +6214,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:35
 #, perl-format
 msgid "Release"
-msgstr ""
+msgstr "Pubblicazione"
 
 #: ../root/recording/index.tt:13
 #, perl-format
@@ -6238,7 +6238,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:34
 #, perl-format
 msgid "Release Group"
-msgstr ""
+msgstr "Gruppo di pubblicazioni"
 
 #: ../root/release_group/edit_form.tt:6
 #, perl-format
@@ -6292,7 +6292,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
 #, perl-format
 msgid "Release group"
-msgstr ""
+msgstr "Gruppo di pubblicazioni"
 
 #: ../root/release_group/edits.tt:20 ../root/release_group/header.tt:13
 #, perl-format
@@ -6728,14 +6728,14 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 #, perl-format
 msgid "Remove release"
-msgstr ""
+msgstr "Rimuovi pubblicazione"
 
 #: ../root/release_group/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseGroup.pm:9
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 #, perl-format
 msgid "Remove release group"
-msgstr ""
+msgstr "Rimuovi gruppo di pubblicazioni"
 
 #: ../root/layout/merge-helper.tt:33
 #, perl-format
@@ -10845,7 +10845,7 @@ msgstr "Una relazione necessita di 2 diverse entità"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:426
 msgid "Release not found"
-msgstr ""
+msgstr "Pubblicazione non trovata"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:440
 msgid "Target entity not found"
@@ -10884,12 +10884,12 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:319
 msgid "This release is already in the selected release group"
-msgstr ""
+msgstr "La pubblicazione è già nel gruppo di pubblicazioni selezionato"
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:635
 msgid ""
 "This merge strategy is not applicable to the releases you have selected."
-msgstr ""
+msgstr "Questa strategia di unione non è applicabile alle pubblicazioni che hai selezionato."
 
 #: ../lib/MusicBrainz/Server/Controller/Role/Annotation.pm:168
 msgid "The old and new annotation ids must be unique, positive integers."
@@ -10954,7 +10954,7 @@ msgstr "Codice a barre non valido"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:142
 msgid "There are already MusicBrainz releases with this disc ID"
-msgstr ""
+msgstr "Ci sono già pubblicazioni con questo ID disco su MusicBrainz"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:149
 msgid "There is already a CD stub with this disc ID"
@@ -11047,11 +11047,11 @@ msgstr "Aggiungi PUID"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:14
 msgid "Add release annotation"
-msgstr ""
+msgstr "Aggiungi annotazione alla pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseEvents.pm:11
 msgid "Add release events (historic)"
-msgstr ""
+msgstr "Aggiungi eventi di pubblicazione (storico)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrack.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
@@ -11100,28 +11100,28 @@ msgstr "Modifica tipo relazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseAttrs.pm:15
 msgid "Edit release attributes"
-msgstr ""
+msgstr "Modifica attributi della pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEvents.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEventsOld.pm:17
 msgid "Edit release events (historic)"
-msgstr ""
+msgstr "Modifica eventi di pubblicazione (storico)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupName.pm:7
 msgid "Edit release group name"
-msgstr ""
+msgstr "Modifica nome del gruppo di pubblicazioni"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupType.pm:9
 msgid "Edit release group type"
-msgstr ""
+msgstr "Modifica tipo del gruppo di pubblicazioni"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseLanguage.pm:13
 msgid "Edit release language"
-msgstr ""
+msgstr "Modifica lingua della pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseName.pm:10
 msgid "Edit release name"
-msgstr ""
+msgstr "Modifica nome della pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length"
@@ -11152,7 +11152,7 @@ msgstr "Unisci etichette"
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Release/Merge.pm:49
 msgid "Merge releases"
-msgstr ""
+msgstr "Unisci pubblicazioni"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:18
@@ -11161,7 +11161,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release"
-msgstr ""
+msgstr "Sposta pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:10
@@ -11193,11 +11193,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
-msgstr ""
+msgstr "Rimuovi eventi di pubblicazione (storico)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases"
-msgstr ""
+msgstr "Rimuovi pubblicazioni"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists"
@@ -11249,24 +11249,24 @@ msgstr "Rimuovi tipo della relazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
-msgstr ""
+msgstr "Aggiungi etichetta alla pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/DeleteReleaseLabel.pm:16
 msgid "Remove release label"
-msgstr ""
+msgstr "Rimuovi etichetta dalla pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
-msgstr ""
+msgstr "Modifica pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:28
 msgid "Edit release artist"
-msgstr ""
+msgstr "Modifica artista della pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:140
 msgid ""
 "This edit cannot be applied, as the release being edited no longer exists."
-msgstr ""
+msgstr "Questa modifica non può essere applicata poiché la pubblicazione modificata non esiste più."
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditBarcodes.pm:17
 msgid "Edit barcodes"
@@ -11274,15 +11274,15 @@ msgstr "Modifica codici a barre"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
-msgstr ""
+msgstr "Modifica etichetta della pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
-msgstr ""
+msgstr "Aggiungi annotazione al gruppo di pubblicazioni"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Edit.pm:34
 msgid "Edit release group"
-msgstr ""
+msgstr "Modifica gruppo di pubblicazioni"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
@@ -11453,7 +11453,7 @@ msgstr ""
 msgid ""
 "You must provide an edit note when adding a release. Even just a URL or "
 "something like “CD in hand” helps!"
-msgstr ""
+msgstr "Devi inserire una nota di modifica quando aggiungi una pubblicazione. Anche solo un link utile o qualcosa come \"possiedo questo CD\" può essere d'aiuto!"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:62
 msgid ""
@@ -11668,7 +11668,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:87
 msgid "A release that was recorded live."
-msgstr ""
+msgstr "Una pubblicazione che è stata registrata dal vivo."
 
 #: ../lib/MusicBrainz/Server/Release.pm:88
 msgid "A release that was (re)mixed from previously released material."
@@ -11700,7 +11700,7 @@ msgstr ""
 msgid ""
 "A pseudo-release is a duplicate release for translation/transliteration "
 "purposes."
-msgstr ""
+msgstr "Una pseudo-pubblicazione è una pubblicazione duplicata a fini di traduzione/traslitterazione."
 
 #: ../lib/MusicBrainz/Server/Release.pm:1343
 #, perl-brace-format
@@ -11710,7 +11710,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Release.pm:1347
 #, perl-brace-format
 msgid "This release already has a track {tracknum}"
-msgstr ""
+msgstr "Questa pubblicazione possiede già una traccia {tracknum}"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1364
 #, perl-brace-format
@@ -11749,7 +11749,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"
-msgstr ""
+msgstr "Informazioni sulla pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
@@ -11757,4 +11757,4 @@ msgstr "Aggiungi entità mancanti"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:120
 msgid "Release Duplicates"
-msgstr ""
+msgstr "Duplicati pubblicazione"
