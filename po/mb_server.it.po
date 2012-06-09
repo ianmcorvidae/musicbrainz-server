@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-09 19:54+0000\n"
+"PO-Revision-Date: 2012-06-09 20:57+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -365,7 +365,7 @@ msgid ""
 "A CD Stub was found that matches the disc ID you provided. If the below "
 "tracklist appears correct, you may use it as a starting point as a new "
 "MusicBrainz release"
-msgstr ""
+msgstr "È stata trovata una bozza CD che corrisponde all'ID disco che hai fornito. Se il seguente elenco di tracce ti sembra corretto, lo puoi utilizzare come punto di partenza per una nuova pubblicazione di MusicBrainz."
 
 #: ../root/release/collections.tt:18
 #, perl-format
@@ -3214,7 +3214,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:181
 #, perl-format
 msgid "Enter a tracklist below:"
-msgstr ""
+msgstr "Inserisci di seguito un elenco di tracce:"
 
 #: ../root/components/forms.tt:24 ../root/release/add_cover_art.tt:59
 #: ../root/release/edit/editnote.tt:42
@@ -3289,7 +3289,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:173
 #, perl-format
 msgid "Existing tracklist"
-msgstr ""
+msgstr "Elenco di tracce esistente"
 
 #: ../root/release/edit/tracklist.tt:249
 #, perl-format
@@ -4913,7 +4913,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:116
 #, perl-format
 msgid "New Tracklist:"
-msgstr ""
+msgstr "Nuovo elenco di tracce:"
 
 #: ../root/edit/details/edit_release_attributes.tt:22
 #, perl-format
@@ -5234,7 +5234,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:286 ../root/release/edit/tracklist.tt:417
 #, perl-format
 msgid "Now loading tracklist..."
-msgstr ""
+msgstr "Caricamento dell'elenco di tracce in corso..."
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:12
 #, perl-format
@@ -5254,7 +5254,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:42
 #, perl-format
 msgid "Old Tracklist:"
-msgstr ""
+msgstr "Vecchio elenco di tracce:"
 
 #: ../root/account/change_password.tt:10
 #, perl-format
@@ -7071,7 +7071,7 @@ msgstr ""
 #: ../root/cdtoc/set_durations.tt:1 ../root/cdtoc/set_durations.tt:2
 #, perl-format
 msgid "Set Tracklist Durations"
-msgstr ""
+msgstr "Imposta durate elenco di tracce"
 
 #: ../root/account/reset_password.tt:5
 #, perl-format
@@ -7973,14 +7973,14 @@ msgid ""
 "The tracklist found looks like it may have different artists on some tracks."
 " If the below display looks correct, you should import this releases as a "
 "multiple release"
-msgstr ""
+msgstr "L'elenco di tracce trovato sembra avere artisti diversi su alcune tracce. Se quanto esposto di seguito ti sembra corretto, dovresti importare questa pubblicazione come una pubblicazione di artisti multipli"
 
 #: ../root/cdtoc/set_durations.tt:12
 #, perl-format
 msgid ""
 "The tracklist you are altering is currently in use by the following "
 "releases:"
-msgstr ""
+msgstr "L'elenco di tracce che stai modificando è attualmente in uso nelle seguenti pubblicazioni:"
 
 #: ../root/taglookup/nag.tt:4
 #, perl-format
@@ -8395,7 +8395,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "This recording cannot be removed because it is still on use in tracklists."
-msgstr ""
+msgstr "La registrazione non può essere rimossa perché è ancora in uso in elenchi di tracce."
 
 #: ../root/recording/fingerprints.tt:87
 #, perl-format
@@ -8765,7 +8765,7 @@ msgstr ""
 msgid ""
 "To create a new tracklist, use an existing tracklist or import a disc from a"
 " CD stub or FreeDB, select the appropriate tab."
-msgstr ""
+msgstr "Per creare un nuovo elenco di tracce, riutilizzarne uno già esistente o importare un disco da una bozza CD o da FreeDB, seleziona la scheda appropriata."
 
 #: ../root/elections/show.tt:88
 #, perl-format
@@ -8929,13 +8929,13 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:58
 #, perl-format
 msgid "Tracklist"
-msgstr "Elenco tracce"
+msgstr "Elenco di tracce"
 
 #: ../root/edit/details/add_medium.tt:31
 #: ../root/edit/details/remove_medium.tt:17
 #, perl-format
 msgid "Tracklist:"
-msgstr ""
+msgstr "Elenco di tracce:"
 
 #: ../root/collection/index.tt:13 ../root/otherlookup/results-release.tt:9
 #: ../root/release/discids.tt:9 ../root/release_group/index.tt:14
@@ -9222,7 +9222,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:205
 #, perl-format
 msgid "Use the following fields to search for an existing tracklist."
-msgstr ""
+msgstr "Usa i seguenti campi per cercare un elenco di tracce esistente."
 
 #: ../root/admin/wikidoc/index.tt:78
 #, perl-format
@@ -10349,7 +10349,7 @@ msgstr ""
 #: ../root/cdtoc/attach_list.tt:35
 #, perl-format
 msgid "show tracklist"
-msgstr ""
+msgstr "visualizza elenco di tracce"
 
 #: ../root/browse/page_selector.tt:43
 #, perl-format
@@ -10709,7 +10709,7 @@ msgstr "'{id}' non è un ID di MusicBrainz valido"
 #: ../lib/MusicBrainz/Server/Controller.pm:115
 msgid ""
 "Thank you, your edit has been entered into the edit queue for peer review."
-msgstr ""
+msgstr "Grazie, la tua modifica è stata inserita nella coda di modifica per la revisione paritaria."
 
 #: ../lib/MusicBrainz/Server/Controller.pm:116
 msgid "Thank you, your edit has been accepted and applied"
@@ -10729,12 +10729,12 @@ msgstr "La durata è mancante o è in un formato non valido."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:66
 msgid "The verification key is missing."
-msgstr ""
+msgstr "La chiave di verifica è mancante."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:74
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:206
 msgid "The checksum is invalid, please double check your email."
-msgstr ""
+msgstr "La checksum non è valida, per favore ricontrolla l'email."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:82
 msgid "Sorry, this email verification link has expired."
@@ -10814,7 +10814,7 @@ msgstr "Il CD TOC fornito non è valido"
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:146
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:307
 msgid "The provided medium id is not valid"
-msgstr ""
+msgstr "L'ID supporto fornito non è valido"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:152
 msgid "This CDTOC is already attached to this medium"
@@ -11469,7 +11469,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:60
 msgid "New tracklisting contains an empty track"
-msgstr ""
+msgstr "Il nuovo elenco di tracce contiene una traccia vuota"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:65
 #, perl-brace-format
@@ -11501,7 +11501,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:156
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:198
 msgid "A tracklist is required"
-msgstr ""
+msgstr "È necessario un elenco di tracce"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:165
 #, perl-brace-format
