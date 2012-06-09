@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-06-08 09:44+0000\n"
+"PO-Revision-Date: 2012-06-09 17:49+0000\n"
 "Last-Translator: Timo Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: DB:statistic_event/title:2007-06-28
 msgid "BBC partners with MetaBrainz"
-msgstr ""
+msgstr "BBC:n kumppanuus MetaBrainzin kanssa."
 
 #: DB:statistic_event/description:2003-03-02
 #: DB:statistic_event/description:2003-06-30
@@ -129,11 +129,11 @@ msgstr ""
 
 #: DB:statistic_event/title:2008-11-24
 msgid "Collection, Ratings, CDStubs"
-msgstr ""
+msgstr "Kokoelmat, arvostelut, CD-tyngät"
 
 #: DB:statistic_event/description:2008-11-24
 msgid "Collection, Ratings, CDStubs, LastUpdate released."
-msgstr ""
+msgstr "Kokoelmat, arvostelut, CD-tyngät ja viimeisin päivitys-ominaisuus julkaistiin. "
 
 #: DB:statistic_event/title:2003-03-29
 msgid "Dedicated database server"
@@ -143,7 +143,7 @@ msgstr ""
 msgid ""
 "Edit display improvements, turned off RDF dumps, new install scripts "
 "released."
-msgstr ""
+msgstr "Muokkausten näyttämistä parannettiin, RDF-muotoisen tiedon jakaminen lopetettiin, uudet asennusskriptit julkaistiin."
 
 #: DB:statistic_event/title:2003-11-10
 msgid "Edit search"
@@ -171,7 +171,7 @@ msgstr ""
 
 #: DB:statistic_event/title:2006-08-15
 msgid "Great Dispute"
-msgstr ""
+msgstr "Suuri väittely"
 
 #: DB:statistic_event/title:2009-06-17
 msgid "Imported CD Baby catalog as CD Stubs"
@@ -184,25 +184,25 @@ msgstr ""
 
 #: DB:statistic_event/title:2004-07-24
 msgid "Improve voting"
-msgstr ""
+msgstr "Äänestystä parannettiin"
 
 #: DB:statistic_event/title:2003-04-05
 msgid "Improved search"
-msgstr ""
+msgstr "Parannettu haku"
 
 #: DB:statistic_event/description:2003-04-05
 msgid "Improved search/cleanup."
-msgstr ""
+msgstr "Parannettu haku / siivous."
 
 #: DB:statistic_event/description:2011-05-12
 msgid "In preparation for NGS, editing is turned off until release."
-msgstr ""
+msgstr "NGS-järjestelmään valmistaudutaan, kytkemällä muokkaaminen pois päältä ennen julkaisua."
 
 #: DB:statistic_event/description:2011-05-02
 msgid ""
 "In preparation for NGS, editors are encouraged to avoid editing until "
 "release unless entirely necessary."
-msgstr ""
+msgstr "NGS-järjestelmään valmistautuessa editoreja kehotetaan välttämään muokkaamista ja vain välttämättömimmät muokkaukset sallitaan ennen julkaisua."
 
 #: DB:statistic_event/title:2006-03-05
 msgid "Indexed search/XML WS"
@@ -222,7 +222,7 @@ msgstr ""
 
 #: DB:statistic_event/title:2004-05-09
 msgid "Install scripts"
-msgstr ""
+msgstr "Asennusskriptit"
 
 #: DB:statistic_event/description:2009-12-14
 msgid "Kuno Woudt begins working for MusicBrainz full-time."
@@ -248,7 +248,7 @@ msgstr ""
 #: DB:statistic_event/description:2003-12-28
 msgid ""
 "Link to MusicBrainz feature, release events and edit suggestions released."
-msgstr ""
+msgstr "Linkittäminen MusicBrainz-ominaisuudeksi, julkaisutapahtumat ja muokkausehdotukset julkaistiin."
 
 #: DB:statistic_event/description:2007-01-20
 msgid "Linkara Musica becomes first commercial customer of MetaBrainz."
@@ -256,7 +256,7 @@ msgstr "Linkara Musicsta tulee ensimmäinen kaupallinen Metabrainzin asiakas."
 
 #: DB:statistic_event/title:2003-12-28
 msgid "Linking"
-msgstr ""
+msgstr "Linkittäminen"
 
 #: DB:statistic_event/title:2005-10-23
 msgid "Menus/Client scripting"
@@ -315,7 +315,7 @@ msgstr ""
 
 #: DB:statistic_event/title:2011-05-12
 msgid "NGS No-Editing Phase"
-msgstr ""
+msgstr "NGS-järjestelmän ei muokkaamista-vaihe."
 
 #: DB:statistic_event/title:2011-05-02
 msgid "NGS Reduced Editing Phase"
@@ -400,7 +400,7 @@ msgstr ""
 #: DB:statistic_event/description:2007-06-28
 msgid ""
 "The BBC becomes a MetaBrainz customer and starts using MusicBrainz data."
-msgstr ""
+msgstr "BBC:stä tulee MetaBrainzin asiakas ja se alkaa käyttää MusicBrainzin dataa."
 
 #: DB:statistic_event/description:2005-04-19
 msgid ""
@@ -428,7 +428,7 @@ msgstr ""
 
 #: DB:statistic_event/description:2004-07-24
 msgid "Voting logic was improved, web based autoeditor elections released."
-msgstr ""
+msgstr "Äänestyslogiikkaa parannettiin, verkkopohjainen autoeditorien valintaäänestys julkaistiin."
 
 #: DB:statistic_event/title:2010-02-08
 msgid "mb_server now hosted on Git"
@@ -457,7 +457,7 @@ msgstr "100%"
 #: ../root/statistics/index.tt:528
 #, perl-format
 msgid "Abstain:"
-msgstr ""
+msgstr "Tyhjiä:"
 
 #: ../root/statistics/view_js.tt:70
 #, perl-format
@@ -467,7 +467,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:73
 #, perl-format
 msgid "Active Editors"
-msgstr ""
+msgstr "Aktiiviset editorit"
 
 #: ../root/statistics/view_js.tt:75
 #, perl-format
@@ -517,17 +517,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:57
 #, perl-format
 msgid "Applied edits"
-msgstr ""
+msgstr "Hyväksytyt muokkaukset"
 
 #: ../root/statistics/index.tt:446
 #, perl-format
 msgid "Applied:"
-msgstr ""
+msgstr "Hyväksytty:"
 
 #: ../root/statistics/index.tt:510
 #, perl-format
 msgid "Approve:"
-msgstr ""
+msgstr "Hyväksytty:"
 
 #: ../root/statistics/view_js.tt:27
 #, perl-format
@@ -542,7 +542,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:126
 #, perl-format
 msgid "Artist IPIs"
-msgstr ""
+msgstr "Artistien IPI-koodit"
 
 #: ../root/statistics/view_js.tt:157
 #, perl-format
@@ -557,7 +557,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:171
 #, perl-format
 msgid "Artist Tags (raw)"
-msgstr ""
+msgstr "Artistien luokitukset (raaka)"
 
 #: ../root/statistics/view_js.tt:32
 #, perl-format
@@ -623,17 +623,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:105
 #, perl-format
 msgid "Artists with gender set to female"
-msgstr ""
+msgstr "Artisteja joiden sukupuolena nainen"
 
 #: ../root/statistics/view_js.tt:104
 #, perl-format
 msgid "Artists with gender set to male"
-msgstr ""
+msgstr "Artisteja joiden sukupuolena mies"
 
 #: ../root/statistics/view_js.tt:106
 #, perl-format
 msgid "Artists with gender set to other"
-msgstr ""
+msgstr "Artisteja joiden sukupuoleksi valittu muu"
 
 #: ../root/statistics/view_js.tt:103
 #, perl-format
@@ -648,7 +648,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:77
 #, perl-format
 msgid "Artists with no country set"
-msgstr ""
+msgstr "Artisteja ilman asetettua maata"
 
 #: ../root/statistics/view_js.tt:109
 #, perl-format
@@ -718,32 +718,32 @@ msgstr ""
 #: ../root/statistics/index.tt:56
 #, perl-format
 msgid "CD Stubs (all time / current):"
-msgstr ""
+msgstr "CD-tyngät (kaikki / nykyiset):"
 
 #: ../root/statistics/view_js.tt:121
 #, perl-format
 msgid "CDStub tracks"
-msgstr ""
+msgstr "CD-tynkien kappaleita"
 
 #: ../root/statistics/view_js.tt:119
 #, perl-format
 msgid "CDStubs (all)"
-msgstr ""
+msgstr "CD-tyngät (kaikki)"
 
 #: ../root/statistics/view_js.tt:120
 #, perl-format
 msgid "CDStubs (submitted)"
-msgstr ""
+msgstr "CD-tyngät (lähetetyt)"
 
 #: ../root/statistics/view_js.tt:56
 #, perl-format
 msgid "Cancelled edits"
-msgstr ""
+msgstr "Peruutetut muokkaukset:"
 
 #: ../root/statistics/index.tt:476
 #, perl-format
 msgid "Cancelled:"
-msgstr ""
+msgstr "Peruutettu:"
 
 #: ../root/statistics/timeline.tt:74
 #, perl-format
@@ -1128,12 +1128,12 @@ msgstr ""
 #: ../root/statistics/countries.tt:25
 #, perl-format
 msgid "Countries"
-msgstr ""
+msgstr "Maat"
 
 #: ../root/statistics/countries.tt:33
 #, perl-format
 msgid "Country"
-msgstr ""
+msgstr "Maa"
 
 #: ../root/statistics/coverart.tt:4 ../root/statistics/view_js.tt:37
 #, perl-format
@@ -1143,12 +1143,12 @@ msgstr ""
 #: ../root/statistics/index.tt:212
 #, perl-format
 msgid "Data Quality"
-msgstr ""
+msgstr "Datan laatu"
 
 #: ../root/statistics/layout.tt:13 ../root/statistics/layout.tt:25
 #, perl-format
 msgid "Database Statistics"
-msgstr ""
+msgstr "Tietokannat tilastot"
 
 #: ../root/statistics/view_js.tt:150
 #, perl-format
@@ -1163,12 +1163,12 @@ msgstr ""
 #: ../root/statistics/index.tt:254 ../root/statistics/view_js.tt:122
 #, perl-format
 msgid "Disc IDs"
-msgstr ""
+msgstr "Levyn tunnisteet"
 
 #: ../root/statistics/index.tt:93 ../root/statistics/index.tt:257
 #, perl-format
 msgid "Disc IDs:"
-msgstr ""
+msgstr "Levyn tunnisteet:"
 
 #: ../root/statistics/timeline.tt:72
 #, perl-format
@@ -1183,22 +1183,22 @@ msgstr ""
 #: ../root/statistics/index.tt:401 ../root/statistics/view_js.tt:72
 #, perl-format
 msgid "Editors"
-msgstr ""
+msgstr "Editorit"
 
 #: ../root/statistics/index.tt:397
 #, perl-format
 msgid "Editors, Edits, and Votes"
-msgstr ""
+msgstr "Editorit, muokkaukset ja äänet."
 
 #: ../root/statistics/index.tt:48 ../root/statistics/index.tt:404
 #, perl-format
 msgid "Editors:"
-msgstr ""
+msgstr "Editorit:"
 
 #: ../root/statistics/index.tt:431 ../root/statistics/view_js.tt:50
 #, perl-format
 msgid "Edits"
-msgstr ""
+msgstr "Muokkaukset"
 
 #: ../root/statistics/view_js.tt:55
 #, perl-format
@@ -1208,17 +1208,17 @@ msgstr ""
 #: ../root/statistics/view_js.tt:52
 #, perl-format
 msgid "Edits per day"
-msgstr ""
+msgstr "Muokkauksia päivässä"
 
 #: ../root/statistics/view_js.tt:53
 #, perl-format
 msgid "Edits per week"
-msgstr ""
+msgstr "Muokkauksia viikossa"
 
 #: ../root/statistics/index.tt:434 ../root/statistics/index.tt:481
 #, perl-format
 msgid "Edits:"
-msgstr ""
+msgstr "Muokkaukset:"
 
 #: ../root/statistics/view_js.tt:58
 #, perl-format
@@ -1273,12 +1273,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:105
 #, perl-format
 msgid "Female Artists"
-msgstr ""
+msgstr "Naisartisteja"
 
 #: ../root/statistics/index.tt:167
 #, perl-format
 msgid "Female:"
-msgstr ""
+msgstr "Nainen:"
 
 #: ../root/statistics/formats.tt:27
 #, perl-format
@@ -1298,12 +1298,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:153
 #, perl-format
 msgid "High Data Quality"
-msgstr ""
+msgstr "Korkea datan laatu"
 
 #: ../root/statistics/index.tt:221
 #, perl-format
 msgid "High Data Quality:"
-msgstr ""
+msgstr "Korkea datan laatu:"
 
 #: ../root/statistics/timeline.tt:75
 #, perl-format
@@ -1313,42 +1313,42 @@ msgstr ""
 #: ../root/statistics/view_js.tt:125
 #, perl-format
 msgid "IPIs"
-msgstr ""
+msgstr "IPI-koodit"
 
 #: ../root/statistics/index.tt:101
 #, perl-format
 msgid "IPIs:"
-msgstr ""
+msgstr "IPI-koodit:"
 
 #: ../root/statistics/view_js.tt:128
 #, perl-format
 msgid "ISRCs"
-msgstr ""
+msgstr "ISRC-koodit"
 
 #: ../root/statistics/index.tt:85
 #, perl-format
 msgid "ISRCs (all / unique):"
-msgstr ""
+msgstr "ISRC-koodia (kaikki / uniikit)"
 
 #: ../root/statistics/view_js.tt:129
 #, perl-format
 msgid "ISRCs (all)"
-msgstr ""
+msgstr "ISRC-koodit (kaikki)"
 
 #: ../root/statistics/view_js.tt:130
 #, perl-format
 msgid "ISWCs"
-msgstr ""
+msgstr "ISWC-koodit"
 
 #: ../root/statistics/index.tt:89
 #, perl-format
 msgid "ISWCs (all / unique):"
-msgstr ""
+msgstr "ISWC-koodit (kaikki / uniikit):"
 
 #: ../root/statistics/view_js.tt:131
 #, perl-format
 msgid "ISWCs (all)"
-msgstr ""
+msgstr "ISWC-koodit (kaikki)"
 
 #: ../root/statistics/index.tt:78
 #, perl-format
@@ -1358,12 +1358,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:28
 #, perl-format
 msgid "Label Countries"
-msgstr ""
+msgstr "Levymerkkien maat"
 
 #: ../root/statistics/view_js.tt:127
 #, perl-format
 msgid "Label IPIs"
-msgstr ""
+msgstr "Levymerkkien IPI-koodit"
 
 #: ../root/statistics/view_js.tt:158
 #, perl-format
@@ -1460,22 +1460,22 @@ msgstr ""
 #: ../root/statistics/view_js.tt:154
 #, perl-format
 msgid "Low Data Quality"
-msgstr ""
+msgstr "Alhainen datan laatu"
 
 #: ../root/statistics/index.tt:247
 #, perl-format
 msgid "Low Data Quality:"
-msgstr ""
+msgstr "Alhainen datan laatu:"
 
 #: ../root/statistics/view_js.tt:104
 #, perl-format
 msgid "Male Artists"
-msgstr ""
+msgstr "Miesartisteja:"
 
 #: ../root/statistics/index.tt:161
 #, perl-format
 msgid "Male:"
-msgstr ""
+msgstr "Mies:"
 
 #: ../root/statistics/formats.tt:30 ../root/statistics/view_js.tt:45
 #, perl-format
@@ -1527,7 +1527,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:69
 #, perl-format
 msgid "No Votes"
-msgstr ""
+msgstr "Ei-äänet"
 
 #: ../root/statistics/coverart.tt:73
 #, perl-format
@@ -1542,42 +1542,42 @@ msgstr ""
 #: ../root/statistics/coverart.tt:41 ../root/statistics/coverart.tt:95
 #, perl-format
 msgid "No type"
-msgstr ""
+msgstr "Ei tyyppiä"
 
 #: ../root/statistics/index.tt:522
 #, perl-format
 msgid "No:"
-msgstr ""
+msgstr "Ei:"
 
 #: ../root/statistics/index.tt:155
 #, perl-format
 msgid "Non-group artists:"
-msgstr ""
+msgstr "Ryhmiin kuulumattomat artistit:"
 
 #: ../root/statistics/view_js.tt:152
 #, perl-format
 msgid "Normal Data Quality"
-msgstr ""
+msgstr "Normaali datan laatu"
 
 #: ../root/statistics/index.tt:234
 #, perl-format
 msgid "Normal Data Quality:"
-msgstr ""
+msgstr "Normaali datan laatu:"
 
 #: ../root/statistics/view_js.tt:51
 #, perl-format
 msgid "Open Edits"
-msgstr ""
+msgstr "Avoimet muokkaukset"
 
 #: ../root/statistics/index.tt:440
 #, perl-format
 msgid "Open:"
-msgstr ""
+msgstr "Avoin:"
 
 #: ../root/statistics/view_js.tt:39
 #, perl-format
 msgid "Other"
-msgstr ""
+msgstr "Muut"
 
 #: ../root/statistics/index.tt:45
 #, perl-format
@@ -1587,7 +1587,7 @@ msgstr ""
 #: ../root/statistics/index.tt:173
 #, perl-format
 msgid "Other gender:"
-msgstr ""
+msgstr "Muu sukupuoli:"
 
 #: ../root/statistics/view_js.tt:106
 #, perl-format
@@ -1644,7 +1644,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:108
 #, perl-format
 msgid "Persons"
-msgstr ""
+msgstr "Henkilöt"
 
 #: ../root/statistics/view_js.tt:185
 #, perl-format
@@ -2006,7 +2006,7 @@ msgstr ""
 #: ../root/statistics/timeline.tt:81
 #, perl-format
 msgid "Timeline Graph"
-msgstr ""
+msgstr "Aikajana"
 
 #: ../root/statistics/view_js.tt:55
 #, perl-format
@@ -2043,12 +2043,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:151
 #, perl-format
 msgid "Unknown Data Quality"
-msgstr ""
+msgstr "Tuntematon datan laatu"
 
 #: ../root/statistics/index.tt:241
 #, perl-format
 msgid "Unknown Data Quality:"
-msgstr ""
+msgstr "Tuntematon datan laatu:"
 
 #: ../root/statistics/formats.tt:5
 #, perl-format
@@ -2068,22 +2068,22 @@ msgstr ""
 #: ../root/statistics/view_js.tt:91
 #, perl-format
 msgid "Unknown Language"
-msgstr ""
+msgstr "Tuntematon kieli"
 
 #: ../root/statistics/view_js.tt:86
 #, perl-format
 msgid "Unknown Script"
-msgstr ""
+msgstr "Tuntematon merkistö"
 
 #: ../root/statistics/languages_scripts.tt:5
 #, perl-format
 msgid "Unknown language"
-msgstr ""
+msgstr "Tuntematon kieli"
 
 #: ../root/statistics/languages_scripts.tt:12
 #, perl-format
 msgid "Unknown script"
-msgstr ""
+msgstr "Tuntematon merkistö"
 
 #: ../root/statistics/view_js.tt:103
 #, perl-format
@@ -2103,7 +2103,7 @@ msgstr "Kumoon äänestetyt:"
 #: ../root/statistics/index.tt:501 ../root/statistics/view_js.tt:64
 #, perl-format
 msgid "Votes"
-msgstr "Äänet"
+msgstr "Annetut äänet"
 
 #: ../root/statistics/view_js.tt:65
 #, perl-format
@@ -2153,17 +2153,17 @@ msgstr "Teokset:"
 #: ../root/statistics/view_js.tt:68
 #, perl-format
 msgid "Yes Votes"
-msgstr ""
+msgstr "Kyllä-äänet"
 
 #: ../root/statistics/index.tt:516
 #, perl-format
 msgid "Yes:"
-msgstr ""
+msgstr "Kyllä:"
 
 #: ../root/statistics/index.tt:494 ../root/statistics/index.tt:546
 #, perl-format
 msgid "Yesterday:"
-msgstr ""
+msgstr "Eilinen:"
 
 #: ../root/statistics/timeline.tt:72
 #, perl-format
