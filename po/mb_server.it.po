@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-09 20:57+0000\n"
+"PO-Revision-Date: 2012-06-09 21:58+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -143,7 +143,7 @@ msgstr "(nascosto)"
 #: ../root/edit/details/reorder_mediums.tt:26
 #, perl-format
 msgid "(moved from position <span class=\"old\">{old}</span>)"
-msgstr ""
+msgstr "(spostato dalla posizione <span class=\"old\">{old}</span>)"
 
 #: ../root/edit/details/reorder_mediums.tt:24
 #, perl-format
@@ -380,14 +380,14 @@ msgstr[1] "{n} collezioni private"
 msgid ""
 "A relationship between {entity0} and {entity1} already exists with these "
 "attributes"
-msgstr ""
+msgstr "Una relazione con questi attributi tra {entity0} e {entity1} è già esistente"
 
 #: ../root/edit/relationship/edit.tt:52
 #, perl-format
 msgid ""
 "A relationship between {entity0} and {entity1} already exists with these "
 "attributes."
-msgstr ""
+msgstr "Una relazione con questi attributi tra {entity0} e {entity1} è già esistente."
 
 #: ../root/edit/relationship/create_url.tt:30
 #, perl-format
@@ -997,7 +997,7 @@ msgstr "Formattazione annotazione"
 #: ../root/work/annotation_diff.tt:1
 #, perl-format
 msgid "Annotation comparison"
-msgstr ""
+msgstr "Confronto annotazioni"
 
 #: ../root/artist/annotation_history.tt:9
 #: ../root/artist/annotation_history.tt:10
@@ -1011,17 +1011,17 @@ msgstr ""
 #: ../root/work/annotation_history.tt:1 ../root/work/annotation_history.tt:2
 #, perl-format
 msgid "Annotation history"
-msgstr ""
+msgstr "Cronologia annotazione"
 
 #: ../root/annotation/common.tt:15
 #, perl-format
 msgid "Annotation last modified by {user} on {date}."
-msgstr ""
+msgstr "Annotazione modificata l'ultima volta da {user} il {date}."
 
 #: ../root/annotation/common.tt:34
 #, perl-format
 msgid "Annotation last modified on {date}."
-msgstr ""
+msgstr "Annotazione modificata l'ultima volta il {date}."
 
 #: ../root/annotation/edit.tt:15 ../root/release/edit/information.tt:105
 #, perl-format
@@ -1031,7 +1031,7 @@ msgstr "Annotazione:"
 #: ../root/annotation/edit.tt:35
 #, perl-format
 msgid "Annotations support a limited set of wiki formatting options:"
-msgstr ""
+msgstr "Le annotazioni supportano un set limitato di opzioni di formattazione wiki:"
 
 #: ../root/artist/relationships.tt:9
 #, perl-format
@@ -1156,7 +1156,7 @@ msgstr ""
 msgid ""
 "Are you sure you wish to remove the <strong>{link_attr_type}</strong> "
 "relationship attribute?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere l'attributo di relazione <strong>{link_attr_type}</strong>?"
 
 #: ../root/relationship/linktype/delete.tt:6
 #, perl-format
@@ -2329,7 +2329,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/index.tt:8
 #, perl-format
 msgid "Create a new relationship attribute"
-msgstr ""
+msgstr "Crea un nuovo attributo della relazione"
 
 #: ../root/relationship/linktype/tree.tt:43
 #, perl-format
@@ -2740,7 +2740,7 @@ msgstr ""
 #: ../root/label/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Annotation"
-msgstr ""
+msgstr "Modifica annotazione"
 
 #: ../root/artist/edit.tt:17
 #, perl-format
@@ -2755,7 +2755,7 @@ msgstr ""
 #: ../root/artist/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Artist Annotation"
-msgstr ""
+msgstr "Modifica annotazione dell'artista"
 
 #: ../root/artist/edit_credit.tt:15 ../root/artist/edit_credit.tt:20
 #, perl-format
@@ -2808,7 +2808,7 @@ msgstr "Modifica profilo"
 #: ../root/recording/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Recording Annotation"
-msgstr ""
+msgstr "Modifica annotazione della registrazione"
 
 #: ../root/edit/relationship/create_batch.tt:10
 #: ../root/edit/relationship/edit.tt:13 ../root/edit/relationship/edit.tt:15
@@ -2820,12 +2820,12 @@ msgstr ""
 #: ../root/relationship/linkattributetype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Attribute"
-msgstr ""
+msgstr "Modifica attributo della relazione"
 
 #: ../root/admin/index.tt:7
 #, perl-format
 msgid "Edit Relationship Attributes"
-msgstr ""
+msgstr "Modifica attributi della relazione"
 
 #: ../root/relationship/linktype/edit.tt:1
 #: ../root/relationship/linktype/edit.tt:3
@@ -2889,14 +2889,14 @@ msgstr ""
 #: ../root/work/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Work Annotation"
-msgstr ""
+msgstr "Modifica annotazione dell'opera"
 
 #: ../root/artist/layout.tt:87 ../root/label/layout.tt:64
 #: ../root/recording/layout.tt:37 ../root/release_group/layout.tt:36
 #: ../root/release/sidebar.tt:70 ../root/work/layout.tt:40
 #, perl-format
 msgid "Edit annotation"
-msgstr ""
+msgstr "Modifica annotazione"
 
 #: ../root/artist/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditAlias.pm:12
@@ -2908,7 +2908,7 @@ msgstr "Modifica alias artista"
 #: ../root/artist/edit_annotation.tt:2
 #, perl-format
 msgid "Edit artist annotation"
-msgstr ""
+msgstr "Modifica annotazione dell'artista"
 
 #: ../root/edit/edit_header.tt:92
 #, perl-format
@@ -2925,7 +2925,7 @@ msgstr "Modifica alias etichetta"
 #: ../root/label/edit_annotation.tt:2
 #, perl-format
 msgid "Edit label annotation"
-msgstr ""
+msgstr "Modifica annotazione dell'etichetta"
 
 #: ../root/edit/cancel.tt:19 ../root/forms/edit-note.tt:13
 #, perl-format
@@ -2951,7 +2951,7 @@ msgstr "Modifica registrazione"
 #: ../root/recording/edit_annotation.tt:2
 #, perl-format
 msgid "Edit recording annotation"
-msgstr ""
+msgstr "Modifica annotazione della registrazione"
 
 #: ../root/release/edit_annotation.tt:2
 #, perl-format
@@ -2977,7 +2977,7 @@ msgstr "Modifica alias opera"
 #: ../root/work/edit_annotation.tt:2
 #, perl-format
 msgid "Edit work annotation"
-msgstr ""
+msgstr "Modifica annotazione dell'opera"
 
 #: ../root/release/edit-links.tt:13
 #, perl-format
@@ -3336,7 +3336,7 @@ msgstr ""
 #: ../root/layout/sidebar/sidebar-favicons.tt:30
 #, perl-format
 msgid "External links"
-msgstr ""
+msgstr "Link esterni"
 
 #: ../root/release/edit/information.tt:43
 #, perl-format
@@ -4292,7 +4292,7 @@ msgstr "Utente limitato"
 #: ../root/recording/fingerprints.tt:73
 #, perl-format
 msgid "Link"
-msgstr "Link"
+msgstr "Collegamento"
 
 #: ../root/edit/details/add_relationship_type.tt:13
 #: ../root/edit/details/edit_relationship_type.tt:12
@@ -4546,7 +4546,7 @@ msgstr ""
 #: ../root/edit/details/historic/merge_releases.tt:25
 #, perl-format
 msgid "Merge attributes:"
-msgstr ""
+msgstr "Unisci attributi:"
 
 #: ../root/label/layout.tt:69
 #, perl-format
@@ -4892,7 +4892,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/create.tt:3
 #, perl-format
 msgid "New Relationship Attribute"
-msgstr ""
+msgstr "Nuovo attributo della relazione"
 
 #: ../root/relationship/linktype/create.tt:1
 #: ../root/relationship/linktype/create.tt:3
@@ -5081,7 +5081,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/index.tt:32
 #, perl-format
 msgid "No relationship attributes found."
-msgstr ""
+msgstr "Nessun attributo della relazione trovato."
 
 #: ../root/artist/index.tt:115
 #, perl-format
@@ -5932,7 +5932,7 @@ msgstr ""
 #: ../root/edit/list_header.tt:4
 #, perl-format
 msgid "Quick links:"
-msgstr ""
+msgstr "Link rapidi:"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -6114,7 +6114,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/not_found.tt:1
 #, perl-format
 msgid "Relationship Attributes"
-msgstr ""
+msgstr "Attributi della relazione"
 
 #: ../root/edit/relationship/create_batch.tt:30
 #: ../root/edit/relationship/create.tt:33
@@ -6144,12 +6144,12 @@ msgstr ""
 #: ../root/relationship/linkattributetype/in_use.tt:1
 #, perl-format
 msgid "Relationship attribute in use"
-msgstr ""
+msgstr "Attributi della relazione in uso"
 
 #: ../root/relationship/linkattributetype/in_use.tt:2
 #, perl-format
 msgid "Relationship attribute still in use"
-msgstr ""
+msgstr "Attributi della relazione ancora in uso"
 
 #: ../root/admin/edit_user.tt:8
 #, perl-format
@@ -6662,7 +6662,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Attribute"
-msgstr ""
+msgstr "Rimuovi attributo della relazione"
 
 #: ../root/relationship/linktype/delete.tt:1
 #: ../root/relationship/linktype/delete.tt:3
@@ -6721,7 +6721,7 @@ msgstr "Rimuovi etichetta"
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
 #, perl-format
 msgid "Remove recording"
-msgstr ""
+msgstr "Rimuovi registrazione"
 
 #: ../root/release/sidebar.tt:80
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
@@ -7071,7 +7071,7 @@ msgstr ""
 #: ../root/cdtoc/set_durations.tt:1 ../root/cdtoc/set_durations.tt:2
 #, perl-format
 msgid "Set Tracklist Durations"
-msgstr "Imposta durate elenco di tracce"
+msgstr "Imposta durata elenco di tracce"
 
 #: ../root/account/reset_password.tt:5
 #, perl-format
@@ -7328,7 +7328,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Sorry, we could not find a relationship attribute with that MusicBrainz ID."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare un attributo di relazione con quell'ID di MusicBrainz."
 
 #: ../root/release_group/not_found.tt:4
 #, perl-format
@@ -7778,7 +7778,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:178
 #, perl-format
 msgid "The annotation field functions like a miniature wiki."
-msgstr ""
+msgstr "Il campo annotazione funziona come una piccola wiki."
 
 #: ../root/artist/special_purpose.tt:3
 #, perl-format
@@ -8263,7 +8263,7 @@ msgstr ""
 msgid ""
 "This field is not a place to store general background information about the "
 "release: that kind of information should go in the annotation field."
-msgstr ""
+msgstr "Questo campo non serve a memorizzare informazioni generali sulla pubblicazione: quel tipo di informazioni va inserito nel campo annotazione."
 
 #: ../root/artist/edit_credit.tt:26
 #, perl-format
@@ -8315,7 +8315,7 @@ msgstr ""
 msgid ""
 "This is an {history|old revision} of this annotation, as edited by {user} on"
 " {date}. {current|View current revision}."
-msgstr ""
+msgstr "Questa è una {history|revisione vecchia} di questa annotazione, come modificata da {user} il {date}. {current|Visualizza la revisione attuale}."
 
 #: ../root/alias/edit_form.tt:11
 #, perl-format
@@ -8327,7 +8327,7 @@ msgstr ""
 msgid ""
 "This label cannot be removed because there are still releases, recordings "
 "and/or relationships attributed to it."
-msgstr ""
+msgstr "Impossibile rimuovere questa etichetta perché ci sono ancora pubblicazioni, registrazioni e/o relazioni attribuite ad essa."
 
 #: ../root/label/index.tt:12
 #, perl-format
@@ -8429,7 +8429,7 @@ msgstr ""
 msgid ""
 "This release group cannot be removed, because there are still releases, "
 "tracks and/or relationships attributed to it."
-msgstr ""
+msgstr "Impossibile rimuovere questo gruppo di pubblicazioni perché ci sono ancora pubblicazioni, tracce e/o relazioni attribuite ad esso."
 
 #: ../root/release_group/tags.tt:2
 #, perl-format
@@ -9116,7 +9116,7 @@ msgstr ""
 #: ../root/report/unlinked_pseudo_releases.tt:3
 #, perl-format
 msgid "Unlinked Pseudo-Releases"
-msgstr ""
+msgstr "Pseudo-pubblicazioni non collegate"
 
 #: ../root/artist/layout.tt:126 ../root/label/layout.tt:96
 #: ../root/user/subscriptions/subscriptions.tt:32
@@ -9295,12 +9295,12 @@ msgstr ""
 #: ../root/annotation/common.tt:21
 #, perl-format
 msgid "View annotation history"
-msgstr ""
+msgstr "Visualizza cronologia annotazione"
 
 #: ../root/annotation/diff.tt:19
 #, perl-format
 msgid "View annotation history."
-msgstr ""
+msgstr "Visualizza cronologia annotazione."
 
 #: ../root/elections/index.tt:23
 #, perl-format
@@ -9906,7 +9906,7 @@ msgstr ""
 msgid ""
 "You cannot remove the relationship attribute \"{type}\" as it is still in "
 "use by other relationships."
-msgstr ""
+msgstr "Non puoi rimuovere l'attributo di relazione \"{type}\" poiché è ancora in uso in altre relazioni."
 
 #: ../root/elections/show.tt:79
 #, perl-format
@@ -10749,7 +10749,7 @@ msgstr "Impossibile trovare l'utente con ID '{user_id}'."
 msgid ""
 "We were unable to send login information to your email address.  Please try again,\n"
 "             however if you continue to experience difficulty contact us at support@musicbrainz.org."
-msgstr ""
+msgstr "Non è stato possibile inviare le informazioni di accesso al tuo indirizzo email.  Per favore prova di nuovo,\n             ma se continui ad incontrare difficoltà contattaci all'indirizzo support@musicbrainz.org."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:157
 msgid "There is no user with this username"
@@ -10893,7 +10893,7 @@ msgstr "Questa strategia di unione non è applicabile alle pubblicazioni che hai
 
 #: ../lib/MusicBrainz/Server/Controller/Role/Annotation.pm:168
 msgid "The old and new annotation ids must be unique, positive integers."
-msgstr ""
+msgstr "Gli ID della vecchia e nuova annotazione devono essere numeri interi unici e positivi."
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:244
 #, perl-brace-format
@@ -10972,7 +10972,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAnnotation.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtistAnnotation.pm:7
 msgid "Add artist annotation"
-msgstr "Aggiungi annotazione artista"
+msgstr "Aggiungi annotazione all'artista"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Create.pm:18
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtist.pm:7
@@ -11022,7 +11022,7 @@ msgstr "Aggiungi etichetta"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabelAnnotation.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAnnotation.pm:12
 msgid "Add label annotation"
-msgstr "Aggiungi annotazione etichetta"
+msgstr "Aggiungi annotazione all'etichetta"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLink.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Create.pm:22
@@ -11032,7 +11032,7 @@ msgstr "Aggiungi relazione"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLinkAttr.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkAttribute.pm:13
 msgid "Add relationship attribute"
-msgstr "Aggiungi attributo relazione"
+msgstr "Aggiungi attributo della relazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLinkType.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkType.pm:13
@@ -11060,19 +11060,19 @@ msgstr "Aggiungi traccia"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackAnnotation.pm:7
 msgid "Add track annotation"
-msgstr "Aggiungi annotazione per la traccia"
+msgstr "Aggiungi annotazione alla traccia"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeArtistQuality.pm:10
 msgid "Change artist quality"
-msgstr ""
+msgstr "Cambia qualità artista"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeTrackArtist.pm:12
 msgid "Change track artist"
-msgstr ""
+msgstr "Cambia artista traccia"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeWikiDoc.pm:7
 msgid "Change wikidoc"
-msgstr ""
+msgstr "Cambia WikiDoc"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistName.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtistSortname.pm:7
@@ -11091,7 +11091,7 @@ msgstr "Modifica relazione (storico)"
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLinkAttr.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkAttribute.pm:14
 msgid "Edit relationship attribute"
-msgstr "Modifica attributo relazione"
+msgstr "Modifica attributo della relazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLinkType.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkType.pm:14
@@ -11141,7 +11141,7 @@ msgstr "Modifica URL"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MACToSAC.pm:12
 msgid "Convert release to single artist"
-msgstr ""
+msgstr "Converti in pubblicazione di artista singolo"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeLabel.pm:8
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
@@ -11157,7 +11157,7 @@ msgstr "Unisci pubblicazioni"
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:18
 msgid "Move disc ID"
-msgstr ""
+msgstr "Sposta ID disco"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release"
@@ -11185,11 +11185,11 @@ msgstr "Rimuovi relazione (storico)"
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLinkAttribute.pm:7
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkAttribute.pm:13
 msgid "Remove relationship attribute"
-msgstr "Rimuovi attributo relazione"
+msgstr "Rimuovi attributo della relazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLinkType.pm:9
 msgid "Remove link type"
-msgstr ""
+msgstr "Rimuovi tipo di collegamento"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
@@ -11201,11 +11201,11 @@ msgstr "Rimuovi pubblicazioni"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists"
-msgstr ""
+msgstr "Converti in pubblicazione di artisti multipli"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SetTrackLengthsFromCDTOC.pm:10
 msgid "Set track lengths"
-msgstr ""
+msgstr "Imposta durata tracce"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
@@ -11221,7 +11221,7 @@ msgstr "Modifica supporto"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
-msgstr ""
+msgstr "Aggiungi annotazione alla registrazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Create.pm:24
 msgid "Add standalone recording"
@@ -11229,7 +11229,7 @@ msgstr "Aggiungi registrazione indipendente"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Merge.pm:13
 msgid "Merge recordings"
-msgstr ""
+msgstr "Unisci registrazioni"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship.pm:7
 msgid "Relationship"
@@ -11286,7 +11286,7 @@ msgstr "Modifica gruppo di pubblicazioni"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
-msgstr ""
+msgstr "Questo URL è già stato unito ad un altro"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
@@ -11294,11 +11294,11 @@ msgstr "Documentazione wiki"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
-msgstr ""
+msgstr "Cambia WikiDoc"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
-msgstr "Aggiungi annotazione opera"
+msgstr "Aggiungi annotazione all'opera"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddISWCs.pm:22
 msgid "Add ISWCs"
@@ -11424,7 +11424,7 @@ msgstr "Devi inserire una nota di modifica quando aggiungi una registrazione ind
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:13
 msgid "Link type is required"
-msgstr ""
+msgstr "È necessario indicare il tipo di collegamento."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:88
 msgid ""
@@ -11438,7 +11438,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:115
 msgid "This attribute is not supported for the selected relationship type."
-msgstr ""
+msgstr "Questo attributo non è supportato dal tipo di relazione selezionato."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:126
 msgid "This attribute is required."
@@ -11447,7 +11447,7 @@ msgstr "Questo attributo è necessario."
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:131
 #, perl-brace-format
 msgid "This attribute can only be specified {max} times. You specified {n}."
-msgstr ""
+msgstr "Questo attributo può essere specificato solo {max} volte. Lo hai specificato {n} volte."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/EditNote.pm:27
 msgid ""
@@ -11496,7 +11496,7 @@ msgstr "È necessario inserire l'artista della traccia {pos}"
 msgid ""
 "The length of track {pos} cannot be changed since this release has a Disc ID"
 " attached to it."
-msgstr ""
+msgstr "La durata della traccia {pos} non può essere modificata poiché questa pubblicazione ha un ID disco collegato."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:156
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:198
@@ -11519,7 +11519,7 @@ msgstr "La traccia {pos} è mancante."
 msgid ""
 "This medium already has disc IDs so you may only change the format\n"
 "                       to a format that can have disc IDs"
-msgstr ""
+msgstr "Questo supporto possiede già ID disco, quindi puoi cambiare il formato solo\n                       in uno che può possedere ID disco"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:222
 msgid "A release must have at least one medium."
@@ -11705,7 +11705,7 @@ msgstr "Una pseudo-pubblicazione è una pubblicazione duplicata a fini di traduz
 #: ../lib/MusicBrainz/Server/Release.pm:1343
 #, perl-brace-format
 msgid "{tracknum} is not a valid track number"
-msgstr ""
+msgstr "{tracknum} non è un numero di traccia valido"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1347
 #, perl-brace-format
@@ -11720,12 +11720,12 @@ msgid ""
 msgid_plural ""
 "You can't add a track {tracknum} - this release is meant to have exactly "
 "{trackcount} tracks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Non puoi aggiungere una traccia {tracknum}: questa pubblicazione deve avere esattamente {trackcount} traccia"
+msgstr[1] "Non puoi aggiungere una traccia {tracknum}: questa pubblicazione deve avere esattamente {trackcount} tracce"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1377
 msgid "This release already has all of its tracks"
-msgstr ""
+msgstr "Questa pubblicazione possiede già tutte le sue tracce"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1394
 #, perl-brace-format
@@ -11740,12 +11740,12 @@ msgid ""
 msgid_plural ""
 "You can't remove track {tracknum} - this release is meant to have exactly "
 "{trackcount} tracks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Non puoi rimuovere la traccia {tracknum}: questa pubblicazione deve avere esattamente {trackcount} traccia"
+msgstr[1] "Non puoi rimuovere la traccia {tracknum}: questa pubblicazione deve avere esattamente {trackcount} tracce"
 
 #: ../lib/MusicBrainz/Server/Release.pm:1427
 msgid "None of the tracks on this album are eligible for removal"
-msgstr ""
+msgstr "Non è possibile rimuovere nessuna delle tracce di quest'album"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"
