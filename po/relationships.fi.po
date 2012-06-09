@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-06-09 11:01+0000\n"
+"PO-Revision-Date: 2012-06-09 12:54+0000\n"
 "Last-Translator: Timo Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -223,7 +223,7 @@ msgstr ""
 msgid ""
 "Indicates a chorus master directed a choir or chorus on this work. (<a "
 "href=\"http://musicbrainz.org/doc/Chorus_Master_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää kuoronjohtajan joka johti kuoroa tälle teokselle. (<a href=\"http://musicbrainz.org/doc/Chorus_Master_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:53
 msgid ""
@@ -246,7 +246,7 @@ msgid ""
 "performed the same songs. Please take care to always point to the "
 "<strong>first</strong> version ever released! (<a "
 "href=\"http://musicbrainz.org/doc/Cover_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää cover-version albumille. Tämä käytännössä tarkoittaa että toinen artisti on esittänyt saman kappaleen. Pidä huolta että osoitat aina <strong>ensimmäiseen</strong> julkaistuun versioon! (<a href=\"http://musicbrainz.org/doc/Cover_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:172
 msgid ""
@@ -403,51 +403,51 @@ msgid ""
 "Indicates a webpage where you can download a single track (not just a short "
 "sample) for free. (<a "
 "href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää verkkosivun, jolta voi ladata yksittäisen kappaleen (ei vain pientä näytettä) ilmaiseksi. (<a href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:75
 msgid ""
 "Indicates a webpage where you can download an album for free. (<a "
 "href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää verkkosivun, jolta voi ladata koko albumin ilmaiseksi. (<a href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:177
 msgid ""
 "Indicates a webpage where you can download an artist's work for free. (<a "
 "href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää verkkosivun, jolta voi ladata artistin teoksia ilmaiseksi. (<a href=\"http://musicbrainz.org/doc/Free_Download_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:254
 msgid ""
 "Indicates a webpage where you can purchase a single track for download. (<a "
 "href=\"http://musicbrainz.org/doc/Paid_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää verkkosivun, jolta voi ostaa yksittäinen kappaleen ladattavaksi. (<a href=\"http://musicbrainz.org/doc/Paid_Download_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:74
 msgid ""
 "Indicates a webpage where you can purchase an album for download. (<a "
 "href=\"http://musicbrainz.org/doc/Paid_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää verkkosivun, jolta voi ostaa albumin ladattavaksi. (<a href=\"http://musicbrainz.org/doc/Paid_Download_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:79
 msgid ""
 "Indicates a webpage where you can purchase an album for mail-order. (<a "
 "href=\"http://musicbrainz.org/doc/Mail_Order_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää verkkosivun, jolta voi ostaa albumin postimyynnistä. (<a href=\"http://musicbrainz.org/doc/Mail_Order_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:176
 msgid ""
 "Indicates a webpage where you can purchase an artist's work for download. "
 "(<a "
 "href=\"http://musicbrainz.org/doc/Paid_Download_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää verkkosivun, jolta voi ostaa artistin teoksia ladattavaksi. (<a href=\"http://musicbrainz.org/doc/Paid_Download_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:175
 msgid ""
 "Indicates a webpage where you can purchase an artist's work for mail-order. "
 "(<a "
 "href=\"http://musicbrainz.org/doc/Mail_Order_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää verkkosivun, jolta voi ostaa artistin teoksia postimyynnistä.  (<a href=\"http://musicbrainz.org/doc/Mail_Order_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:182
 msgid ""
@@ -782,7 +782,7 @@ msgid ""
 "Indicates the composer for this work, i.e. the person who wrote the music "
 "(not necessarily the lyrics) of this work. (<a "
 "href=\"http://musicbrainz.org/doc/Composer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää musiikin säveltäjän, esimerkiksi henkilön joka teki musiikin (ei välttämättä sanoittaja) tälle teokselle. (<a href=\"http://musicbrainz.org/doc/Composer_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:55
 msgid ""
@@ -812,7 +812,7 @@ msgstr ""
 msgid ""
 "Indicates the lyricist for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Lyricist_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Määrittää sanoittajan tällä teokselle. (<a href=\"http://musicbrainz.org/doc/Lyricist_Relationship_Type\">Lisätietoja</a>)"
 
 #: DB:link_type/description:42 DB:link_type/description:136
 msgid ""
@@ -955,7 +955,7 @@ msgid ""
 "href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)<br/><br/>"
 " Note that this is <strong><em>NOT</em></strong> the record label, use the "
 "\"Label\" field in release events for record labels."
-msgstr ""
+msgstr "Määrittää julkaisijan tälle albumille. (<a href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)<br/><br/> Huomaa että tällä  <strong><em>EI TARKOITETA</em></strong> levymerkkiä, käytä julkaisun \"levymerkki\" -kenttää julkaisutapahtumissa levymerkeille."
 
 #: DB:link_type/description:32
 msgid ""
@@ -1243,7 +1243,7 @@ msgstr ""
 msgid ""
 "This attribute indicates a version with the lyrics in a different language "
 "than the original."
-msgstr ""
+msgstr "Tällä ominaisuudella määritetään versio, jonka sanoitus ei ole alkuperäiskielinen. "
 
 #: DB:link_attribute_type/description:525
 msgid ""
@@ -1989,7 +1989,7 @@ msgstr "kontra-altto"
 
 #: DB:link_attribute_type/name:567
 msgid "cover"
-msgstr "kansi"
+msgstr "cover"
 
 #: DB:link_type/link_phrase:78
 msgid "cover art"
@@ -2103,7 +2103,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:172 DB:link_type/link_phrase:214
 msgid "fan pages"
-msgstr ""
+msgstr "fanisivustot"
 
 #: DB:link_type/link_phrase:116 DB:link_type/short_link_phrase:116
 msgid "founded"
@@ -2258,36 +2258,36 @@ msgstr ""
 #: DB:link_type/short_link_phrase:283 DB:link_type/short_link_phrase:284
 #: DB:link_type/short_link_phrase:285
 msgid "has an Allmusic page at"
-msgstr ""
+msgstr "on Allmusic-sivu osoitteessa"
 
 #: DB:link_type/short_link_phrase:99 DB:link_type/short_link_phrase:195
 msgid "has an IBDb page at"
-msgstr ""
+msgstr "on IBdb-sivu osoitteessa"
 
 #: DB:link_type/short_link_phrase:97 DB:link_type/short_link_phrase:178
 msgid "has an IMDb page at"
-msgstr ""
+msgstr "on IMDb-sivu osoitteessa"
 
 #: DB:link_type/short_link_phrase:100 DB:link_type/short_link_phrase:196
 msgid "has an IOBDb page at"
-msgstr ""
+msgstr "on IOBDb-sivu osoitteessa"
 
 #: DB:link_type/short_link_phrase:225 DB:link_type/short_link_phrase:193
 msgid "has an official YouTube channel at"
-msgstr ""
+msgstr "on virallinen Youtube kanava osoitteessa"
 
 #: DB:link_type/short_link_phrase:287 DB:link_type/short_link_phrase:183
 #: DB:link_type/short_link_phrase:219
 msgid "has an official homepage at"
-msgstr ""
+msgstr "on virallinen kotisivu osoitteessa"
 
 #: DB:link_type/short_link_phrase:303 DB:link_type/short_link_phrase:304
 msgid "has an official video channel at"
-msgstr ""
+msgstr "on virallinen video kanava osoitteessa"
 
 #: DB:link_type/short_link_phrase:185
 msgid "has an online community page at"
-msgstr ""
+msgstr "on online-yhteisö osoitteessa"
 
 #: DB:link_type/short_link_phrase:265
 msgid "has art direction by"
@@ -2323,15 +2323,15 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:93 DB:link_type/short_link_phrase:197
 msgid "has lyrics available at"
-msgstr ""
+msgstr "on sanoitukset saatavilla osoitteessa"
 
 #: DB:link_type/short_link_phrase:281
 msgid "has part"
-msgstr ""
+msgstr "on osa"
 
 #: DB:link_type/short_link_phrase:110
 msgid "has sibling(s)"
-msgstr ""
+msgstr "on sisarus"
 
 #: DB:link_type/reverse_link_phrase:3
 msgid "has supporting release(s)"
@@ -2411,7 +2411,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:278
 msgid "is a {partial} {live} {instrumental} {cover} recording of"
-msgstr ""
+msgstr "on {partial:osittainen} {live:live-}{instrumenta:instrumentaali-}{cover-}äänite"
 
 #: DB:link_type/short_link_phrase:15
 msgid "is a {translated} {parody} cover of"
@@ -2502,11 +2502,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:238
 msgid "later releases"
-msgstr ""
+msgstr "myöhemmät julkaisut"
 
 #: DB:link_type/link_phrase:241
 msgid "later {translated} {parody} versions"
-msgstr ""
+msgstr "myöhemmin {translated:käännetyt} {parody:parodia}versiot"
 
 #: DB:link_attribute_type/name:4
 msgid "lead"
@@ -2744,15 +2744,15 @@ msgstr "parodia"
 
 #: DB:link_type/reverse_link_phrase:281
 msgid "part of"
-msgstr ""
+msgstr "osa teosta"
 
 #: DB:link_attribute_type/name:579
 msgid "partial"
-msgstr ""
+msgstr "osittainen"
 
 #: DB:link_type/link_phrase:281
 msgid "parts"
-msgstr ""
+msgstr "osat"
 
 #: DB:link_type/link_phrase:34 DB:link_type/link_phrase:122
 #: DB:link_type/reverse_link_phrase:34 DB:link_type/reverse_link_phrase:122
@@ -2766,7 +2766,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:53 DB:link_type/short_link_phrase:152
 msgid "performed {additional} chorus master on"
-msgstr ""
+msgstr "toimi {additional} kuorojohtajana"
 
 #: DB:link_type/short_link_phrase:44 DB:link_type/short_link_phrase:148
 msgid "performed {additional} {guest} {solo} {instrument} on"
@@ -2915,7 +2915,7 @@ msgstr ""
 #: DB:link_type/link_phrase:98 DB:link_type/link_phrase:260
 #: DB:link_type/reverse_link_phrase:98 DB:link_type/reverse_link_phrase:260
 msgid "recording studio"
-msgstr ""
+msgstr "äänitysstudio"
 
 #: DB:link_type/reverse_link_phrase:239 DB:link_type/reverse_link_phrase:244
 msgid "referred to in medleys"
@@ -2927,15 +2927,15 @@ msgstr ""
 
 #: DB:link_type/link_phrase:6 DB:link_type/link_phrase:236
 msgid "remaster of"
-msgstr ""
+msgstr "on uudelleenmasterointi"
 
 #: DB:link_type/reverse_link_phrase:6
 msgid "remastered versions"
-msgstr ""
+msgstr "uudelleen masteroidut versiot"
 
 #: DB:link_type/reverse_link_phrase:236
 msgid "remasters"
-msgstr ""
+msgstr "uudelleenmasteroinnit"
 
 #: DB:link_type/link_phrase:230 DB:link_type/link_phrase:9
 msgid "remix of"
@@ -2989,7 +2989,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:110 DB:link_type/reverse_link_phrase:110
 msgid "siblings"
-msgstr ""
+msgstr "sisaruksia"
 
 #: DB:link_type/reverse_link_phrase:121
 msgid "signed"
@@ -3280,7 +3280,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:293 DB:link_type/reverse_link_phrase:295
 #: DB:link_type/reverse_link_phrase:297
 msgid "{additional} arranger"
-msgstr ""
+msgstr "{additional} sovittaja"
 
 #: DB:link_type/link_phrase:137 DB:link_type/link_phrase:18
 #: DB:link_type/reverse_link_phrase:137 DB:link_type/reverse_link_phrase:18
@@ -3290,20 +3290,20 @@ msgstr ""
 #: DB:link_type/link_phrase:53 DB:link_type/link_phrase:152
 #: DB:link_type/reverse_link_phrase:53 DB:link_type/reverse_link_phrase:152
 msgid "{additional} chorus master"
-msgstr ""
+msgstr "{additional} kuoronjohtaja"
 
 #: DB:link_type/reverse_link_phrase:55 DB:link_type/reverse_link_phrase:168
 msgid "{additional} composer"
-msgstr ""
+msgstr "{additional} säveltäjä"
 
 #: DB:link_type/reverse_link_phrase:46 DB:link_type/reverse_link_phrase:151
 msgid "{additional} conductor"
-msgstr ""
+msgstr "{additional} kapellimestari"
 
 #: DB:link_type/link_phrase:63 DB:link_type/link_phrase:146
 #: DB:link_type/reverse_link_phrase:63 DB:link_type/reverse_link_phrase:146
 msgid "{additional} creative direction"
-msgstr ""
+msgstr "{additional} taiteellinen johtaminen"
 
 #: DB:link_type/link_phrase:19 DB:link_type/link_phrase:130
 #: DB:link_type/reverse_link_phrase:19 DB:link_type/reverse_link_phrase:130
@@ -3313,22 +3313,22 @@ msgstr ""
 #: DB:link_type/link_phrase:27 DB:link_type/link_phrase:125
 #: DB:link_type/reverse_link_phrase:27 DB:link_type/reverse_link_phrase:125
 msgid "{additional} graphic design"
-msgstr ""
+msgstr "{additional} graafinen suunnittelu"
 
 #: DB:link_type/link_phrase:24 DB:link_type/link_phrase:131
 #: DB:link_type/reverse_link_phrase:24 DB:link_type/reverse_link_phrase:131
 msgid "{additional} liner notes"
-msgstr ""
+msgstr "{additional} kansitekstit"
 
 #: DB:link_type/reverse_link_phrase:164 DB:link_type/reverse_link_phrase:300
 msgid "{additional} orchestrator"
-msgstr ""
+msgstr "{additional} orkestroija"
 
 #: DB:link_type/link_phrase:123 DB:link_type/link_phrase:250
 #: DB:link_type/link_phrase:20 DB:link_type/reverse_link_phrase:123
 #: DB:link_type/reverse_link_phrase:250 DB:link_type/reverse_link_phrase:20
 msgid "{additional} photography"
-msgstr ""
+msgstr "{additional} valokuvaus"
 
 #: DB:link_type/reverse_link_phrase:47 DB:link_type/reverse_link_phrase:153
 msgid "{additional} remixer"
@@ -3340,7 +3340,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:54 DB:link_type/reverse_link_phrase:167
 msgid "{additional} writer"
-msgstr ""
+msgstr "{additional} tekijä"
 
 #: DB:link_type/reverse_link_phrase:140 DB:link_type/reverse_link_phrase:31
 msgid "{additional} {assistant} {associate} {co:co-}audio engineer"
@@ -3353,11 +3353,11 @@ msgstr ""
 #: DB:link_type/link_phrase:42 DB:link_type/link_phrase:136
 #: DB:link_type/reverse_link_phrase:42 DB:link_type/reverse_link_phrase:136
 msgid "{additional} {assistant} {associate} {co:co-}mastering"
-msgstr ""
+msgstr "{additional} {assistant} {associate} {co:co-}masterointi"
 
 #: DB:link_type/reverse_link_phrase:143 DB:link_type/reverse_link_phrase:26
 msgid "{additional} {assistant} {associate} {co:co-}mixer"
-msgstr ""
+msgstr "{additional} {assistant} {associate} {co:co-}miksaus"
 
 #: DB:link_type/reverse_link_phrase:29 DB:link_type/reverse_link_phrase:133
 msgid "{additional} {assistant} {associate} {co:co-}sound engineer"
@@ -3371,7 +3371,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:30 DB:link_type/reverse_link_phrase:141
 msgid ""
 "{additional} {assistant} {associate} {co:co-}{executive:executive }producer"
-msgstr ""
+msgstr "{additional} {assistant} {associate} {co} {executive}tuottaja"
 
 #: DB:link_type/link_phrase:37 DB:link_type/link_phrase:132
 #: DB:link_type/reverse_link_phrase:37 DB:link_type/reverse_link_phrase:132
@@ -3380,7 +3380,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:103
 msgid "{additional} {founder:founding} member of"
-msgstr ""
+msgstr "kuuluu{additional} {founder:perustaja}jäsenenä"
 
 #: DB:link_type/reverse_link_phrase:103
 msgid "{additional} {founder:founding} members"
@@ -3426,20 +3426,20 @@ msgstr ""
 #: DB:link_type/link_phrase:45 DB:link_type/link_phrase:150
 #: DB:link_type/reverse_link_phrase:45 DB:link_type/reverse_link_phrase:150
 msgid "{additional} {orchestra} orchestra"
-msgstr ""
+msgstr "{additional} {orchestra} orkesteri"
 
 #: DB:link_type/link_phrase:57 DB:link_type/reverse_link_phrase:57
 #: DB:link_type/reverse_link_phrase:169
 msgid "{additional} {translated:libretto translation|librettist}"
-msgstr ""
+msgstr "{additional} {translated:libreton kääntäjä|librettisti}"
 
 #: DB:link_type/reverse_link_phrase:56 DB:link_type/reverse_link_phrase:165
 msgid "{additional} {translated:translator|lyricist}"
-msgstr ""
+msgstr "{additional} {translated:kääntäjä|sanoittaja}"
 
 #: DB:link_type/link_phrase:169
 msgid "{additional} {translated} libretto"
-msgstr ""
+msgstr "{additional} {translated:käännetty} libretto"
 
 #: DB:link_type/link_phrase:56 DB:link_type/link_phrase:165
 msgid "{additional} {translated} lyrics"
@@ -3468,15 +3468,15 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:45 DB:link_type/short_link_phrase:150
 msgid "{orchestra} orchestra {additional:additionally} performed"
-msgstr ""
+msgstr "{orchestra} orkesteri {additional:additionally} esitti"
 
 #: DB:link_type/link_phrase:278
 msgid "{partial} {live} {instrumental} {cover} recording of"
-msgstr ""
+msgstr "{partial:osittainen} {live-}{instrumental:instrumentaali-}{cover-}äänite"
 
 #: DB:link_type/reverse_link_phrase:278
 msgid "{partial} {live} {instrumental} {cover} recordings"
-msgstr ""
+msgstr "{partial:osittaiset} {live-}{instrumental:instrumentaali-}{cover:cover-}äänitteet"
 
 #: DB:link_type/reverse_link_phrase:15
 msgid "{translated} {parody:parodies|covers}"
