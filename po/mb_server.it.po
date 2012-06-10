@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-10 09:20+0000\n"
+"PO-Revision-Date: 2012-06-10 12:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:38
 #, perl-format
 msgid " &ndash; ????"
-msgstr ""
+msgstr " &ndash; ????"
 
 #: ../root/account/lost_password.tt:7
 #, perl-format
@@ -97,7 +97,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:29
 #, perl-format
 msgid "&ndash; {enddate}"
-msgstr ""
+msgstr "&ndash; {enddate}"
 
 #: ../root/components/tag-cloud.tt:26
 #, perl-format
@@ -107,7 +107,7 @@ msgstr "'{tag}' è stato usato {num} volta/e"
 #: ../root/components/aliases.tt:38
 #, perl-format
 msgid "(<span class=\"comment\">primary</span>)"
-msgstr ""
+msgstr "(<span class=\"comment\">primario</span>)"
 
 #: ../root/user/profile.tt:28
 #, perl-format
@@ -235,7 +235,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:115
 #, perl-format
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: ../root/user/profile.tt:97
 #, perl-format
@@ -495,7 +495,7 @@ msgstr "Aggiungi ISRC"
 #: ../root/work/layout.tt:37
 #, perl-format
 msgid "Add ISWC"
-msgstr ""
+msgstr "Aggiungi ISWC"
 
 #: ../root/layout/menu.tt:179 ../root/release/edit/information.tt:91
 #: ../root/release/edit/information.tt:93
@@ -589,7 +589,7 @@ msgstr "Aggiungi un nuovo gruppo di pubblicazioni"
 #: ../root/account/edit.tt:44
 #, perl-format
 msgid "Add a language"
-msgstr ""
+msgstr "Aggiungi una lingua"
 
 #: ../root/components/aliases.tt:63
 #, perl-format
@@ -762,7 +762,7 @@ msgstr "Aggiungi alias all'opera"
 #: ../root/components/forms.tt:114
 #, perl-format
 msgid "Add {item}"
-msgstr ""
+msgstr "Aggiungi {item}"
 
 #: ../root/release/edit/tracklist.tt:451
 #, perl-format
@@ -827,7 +827,7 @@ msgstr "Link affiliati"
 #: ../root/user/profile.tt:57
 #, perl-format
 msgid "Age:"
-msgstr ""
+msgstr "Età:"
 
 #: ../root/components/aliases.tt:6
 #, perl-format
@@ -1444,8 +1444,8 @@ msgstr[1] "Associato a {num} registrazioni"
 #, perl-format
 msgid "Associated with {num} work"
 msgid_plural "Associated with {num} works"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Associato a {num} opera"
+msgstr[1] "Associato a {num} opere"
 
 #: ../root/cdtoc/attach_artist_releases.tt:22
 #: ../root/cdtoc/attach_artist_releases.tt:23
@@ -2182,12 +2182,12 @@ msgstr "Collezioni"
 #: ../root/release/cover_art_fields.tt:10
 #, perl-format
 msgid "Comment:"
-msgstr ""
+msgstr "Commento:"
 
 #: ../root/main/index.tt:86
 #, perl-format
 msgid "Community"
-msgstr ""
+msgstr "Comunità"
 
 #: ../root/annotation/history.tt:38
 #, perl-format
@@ -2324,7 +2324,7 @@ msgstr "Crea una nuova collezione"
 #: ../root/relationship/linkattributetype/instruments.tt:8
 #, perl-format
 msgid "Create a new instrument"
-msgstr ""
+msgstr "Crea un nuovo strumento"
 
 #: ../root/relationship/linkattributetype/index.tt:8
 #, perl-format
@@ -2334,7 +2334,7 @@ msgstr "Crea un nuovo attributo della relazione"
 #: ../root/relationship/linktype/tree.tt:43
 #, perl-format
 msgid "Create a new {type0}-{type1} relationship"
-msgstr ""
+msgstr "Crea una nuova relazione {type0}-{type1}"
 
 #: ../root/account/register.tt:5 ../root/account/register.tt:12
 #, perl-format
@@ -2510,7 +2510,7 @@ msgstr "Risorse per sviluppatori"
 #: ../root/main/index.tt:102
 #, perl-format
 msgid "Developers"
-msgstr ""
+msgstr "Sviluppatori"
 
 #: ../root/layout/menu.tt:227
 #, perl-format
@@ -2520,7 +2520,7 @@ msgstr "Sviluppo"
 #: ../root/layout.tt:81
 #, perl-format
 msgid "Development branch: {branch}"
-msgstr ""
+msgstr "Ramo di sviluppo: {branch}"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #, perl-format
@@ -3114,7 +3114,7 @@ msgstr "Modifiche per \"{name}\""
 #: ../root/elections/not_found.tt:1 ../root/elections/not_found.tt:2
 #, perl-format
 msgid "Election Not Found"
-msgstr ""
+msgstr "Elezione non trovata"
 
 #: ../root/account/preferences.tt:37
 #, perl-format
@@ -3491,7 +3491,7 @@ msgstr ""
 #: ../root/freedb/not_found.tt:1 ../root/freedb/not_found.tt:2
 #, perl-format
 msgid "FreeDB Entry Not Found"
-msgstr ""
+msgstr "Voce di FreeDB non trovata"
 
 #: ../root/layout/menu.tt:148
 #, perl-format
@@ -3687,7 +3687,7 @@ msgstr "ID"
 #: ../root/artist/edit_form.tt:44 ../root/label/edit_form.tt:45
 #, perl-format
 msgid "IPI code"
-msgstr ""
+msgstr "Codice IPI"
 
 #: ../root/artist/layout.tt:47 ../root/edit/details/add_artist.tt:61
 #: ../root/edit/details/add_label.tt:68 ../root/edit/details/edit_artist.tt:49
@@ -3700,7 +3700,7 @@ msgstr "Codice IPI:"
 #: ../root/edit/details/edit_label.tt:56 ../root/label/edit_form.tt:45
 #, perl-format
 msgid "IPI codes:"
-msgstr ""
+msgstr "Codici IPI:"
 
 #: ../root/report/isrc_with_many_recordings.tt:15
 #, perl-format
@@ -3758,7 +3758,7 @@ msgstr ""
 #: ../root/iswc/index.tt:1 ../root/iswc/index.tt:3
 #, perl-format
 msgid "ISWC “{iswc}”"
-msgstr ""
+msgstr "ISWC “{iswc}”"
 
 #: ../root/edit/details/add_work.tt:23 ../root/edit/details/edit_work.tt:19
 #: ../root/edit/details/remove_iswc.tt:3 ../root/otherlookup/form.tt:3
@@ -4016,12 +4016,12 @@ msgstr "Nome utente o password non corretta"
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:54
 #, perl-format
 msgid "Indexed search"
-msgstr ""
+msgstr "Ricerca indicizzata"
 
 #: ../root/search/form.tt:29
 #, perl-format
 msgid "Indexed search with {doc|advanced query syntax}"
-msgstr ""
+msgstr "Ricerca indicizzata con {doc|sintassi di ricerca avanzata}"
 
 #: ../root/release/edit/recordings.tt:394
 #, perl-format
@@ -4063,7 +4063,7 @@ msgstr "ID disco non valido"
 msgid ""
 "It looks like you're using Internet Explorer.<br/>To get the most out of "
 "this website we highly recommend the use of {uri|Google Chrome Frame}."
-msgstr ""
+msgstr "Sembra che tu stia usando Internet Explorer.<br/>Per visualizzare al meglio questo sito ti consigliamo di utilizzare {uri|Google Chrome Frame}."
 
 #: ../root/layout/menu.tt:124 ../root/main/index.tt:24
 #, perl-format
@@ -4214,12 +4214,12 @@ msgstr ""
 #: ../root/account/edit.tt:33
 #, perl-format
 msgid "Languages Known:"
-msgstr ""
+msgstr "Lingue parlate:"
 
 #: ../root/user/profile.tt:116
 #, perl-format
 msgid "Languages:"
-msgstr ""
+msgstr "Lingue:"
 
 #: ../root/user/profile.tt:174
 #, perl-format
@@ -4246,7 +4246,7 @@ msgstr "Ultimo aggiornamento:"
 #: ../root/main/index.tt:6
 #, perl-format
 msgid "Latest posts:"
-msgstr ""
+msgstr "Ultimi post:"
 
 #: ../root/artist/recordings-list.tt:28 ../root/cdstub/cdstub.tt:9
 #: ../root/cdtoc/info.tt:33 ../root/edit/details/edit_medium.tt:50
@@ -4308,7 +4308,7 @@ msgstr "Live Data Feed"
 #: ../root/components/aliases.tt:11
 #, perl-format
 msgid "Locale"
-msgstr ""
+msgstr "Ambiente linguistico"
 
 #: ../root/alias/edit_form.tt:9 ../root/edit/details/add_artist_alias.tt:18
 #: ../root/edit/details/add_label_alias.tt:18
@@ -4321,7 +4321,7 @@ msgstr ""
 #: ../root/edit/details/remove_work_alias.tt:17
 #, perl-format
 msgid "Locale:"
-msgstr ""
+msgstr "Ambiente linguistico:"
 
 #: ../root/layout/menu.tt:70 ../root/user/login.tt:1 ../root/user/login.tt:3
 #: ../root/user/login.tt:34
@@ -4398,7 +4398,7 @@ msgstr "Bassa"
 #: ../root/work/edit_form.tt:10 ../root/work/layout.tt:11
 #, perl-format
 msgid "Lyrics Language:"
-msgstr ""
+msgstr "Lingua del testo:"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -4678,7 +4678,7 @@ msgstr ""
 #: ../root/main/index.tt:5
 #, perl-format
 msgid "MusicBrainz Blog"
-msgstr ""
+msgstr "Blog di MusicBrainz"
 
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
@@ -5848,7 +5848,7 @@ msgstr ""
 #: ../root/release_group/edit_form.tt:10
 #, perl-format
 msgid "Primary Type:"
-msgstr ""
+msgstr "Tipo primario:"
 
 #: ../root/edit/details/add_artist_alias.tt:24
 #: ../root/edit/details/add_label_alias.tt:24
@@ -5861,7 +5861,7 @@ msgstr ""
 #: ../root/edit/details/remove_work_alias.tt:21
 #, perl-format
 msgid "Primary for locale:"
-msgstr ""
+msgstr "Primario per l'ambiente linguistico:"
 
 #: ../root/relationship/linktype/form.tt:24
 #, perl-format
@@ -6624,7 +6624,7 @@ msgstr ""
 #: ../root/iswc/delete.tt:1 ../root/iswc/delete.tt:3
 #, perl-format
 msgid "Remove ISWC “{iswc}”"
-msgstr ""
+msgstr "Rimuovi ISWC “{iswc}”"
 
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:82
 #, perl-format
@@ -6766,7 +6766,7 @@ msgstr ""
 #: ../root/components/forms.tt:108 ../root/components/forms.tt:109
 #, perl-format
 msgid "Remove {item}"
-msgstr ""
+msgstr "Rimuovi {item}"
 
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
@@ -6974,7 +6974,7 @@ msgstr ""
 #: ../root/search/form.tt:20
 #, perl-format
 msgid "Search method:"
-msgstr ""
+msgstr "Metodo di ricerca:"
 
 #: ../root/cdstub/layout.tt:33
 #, perl-format
@@ -6984,7 +6984,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:694
 #, perl-format
 msgid "Search the documentation..."
-msgstr ""
+msgstr "Cerca nella documentazione..."
 
 #: ../root/release/edit/recordings.tt:110
 #, perl-format
@@ -7006,7 +7006,7 @@ msgstr ""
 #: ../root/release_group/edit_form.tt:11
 #, perl-format
 msgid "Secondary Types:"
-msgstr ""
+msgstr "Tipi secondari:"
 
 #: ../root/cdtoc/info.tt:38 ../root/cdtoc/info.tt:40 ../root/cdtoc/info.tt:42
 #, perl-format
@@ -7107,7 +7107,7 @@ msgstr ""
 #: ../root/account/preferences.tt:33
 #, perl-format
 msgid "Show my Gravatar"
-msgstr ""
+msgstr "Mostra il mio Gravatar"
 
 #: ../root/artist/index.tt:125
 #, perl-format
@@ -7736,7 +7736,7 @@ msgstr "Tag"
 #: ../root/layout/menu.tt:83
 #, perl-format
 msgid "Team"
-msgstr ""
+msgstr "Squadra"
 
 #: ../root/admin/edit_user.tt:10
 #, perl-format
@@ -8320,7 +8320,7 @@ msgstr "Questa è una {history|revisione vecchia} di questa annotazione, come mo
 #: ../root/alias/edit_form.tt:11
 #, perl-format
 msgid "This is the primary alias for this locale"
-msgstr ""
+msgstr "Questo è l'alias primario per questo ambiente linguistico"
 
 #: ../root/label/delete.tt:17
 #, perl-format
@@ -8332,7 +8332,7 @@ msgstr "Impossibile rimuovere questa etichetta perché ci sono ancora pubblicazi
 #: ../root/label/index.tt:12
 #, perl-format
 msgid "This label does not have any releases."
-msgstr ""
+msgstr "Questa etichetta non ha nessuna pubblicazione."
 
 #: ../root/label/edit_form.tt:55
 #, perl-format
@@ -8347,7 +8347,7 @@ msgstr "Questa etichetta non ha tag."
 #: ../root/cdtoc/attach_list.tt:28
 #, perl-format
 msgid "This medium format cannot have a disc ID attached"
-msgstr ""
+msgstr "Questo formato del supporto non può avere un ID disco collegato."
 
 #: ../root/scripts/text_strings.tt:51
 #, perl-format
@@ -8384,7 +8384,7 @@ msgstr ""
 #: ../root/release/add_cover_art.tt:9
 #, perl-format
 msgid "This page requires JavaScript."
-msgstr ""
+msgstr "Questa pagina richiede JavaScript."
 
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
@@ -9290,7 +9290,7 @@ msgstr ""
 #: ../root/layout/sidebar/sidebar-favicons.tt:24
 #, perl-format
 msgid "View all relationships"
-msgstr ""
+msgstr "Visualizza tutte le relazioni"
 
 #: ../root/annotation/common.tt:21
 #, perl-format
@@ -9553,7 +9553,7 @@ msgstr ""
 #: ../root/account/edit.tt:17 ../root/admin/edit_user.tt:32
 #, perl-format
 msgid "Website:"
-msgstr ""
+msgstr "Sito web:"
 
 #: ../root/main/index.tt:43
 #, perl-format
@@ -10070,7 +10070,7 @@ msgstr ""
 #: ../root/search/results-label.tt:30
 #, perl-format
 msgid "[unknown]"
-msgstr ""
+msgstr "[sconosciuto]"
 
 #: ../root/scripts/text_strings.tt:34
 #, perl-format
@@ -10248,7 +10248,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:17
 #, perl-format
 msgid "newest first"
-msgstr ""
+msgstr "prima i più recenti"
 
 #: ../root/user/profile.tt:51
 #, perl-format
@@ -10263,7 +10263,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:18
 #, perl-format
 msgid "oldest first"
-msgstr ""
+msgstr "prima i più vecchi"
 
 #: ../root/edit/search_macros.tt:153
 #, perl-format
@@ -10298,7 +10298,7 @@ msgstr[1] ""
 #: ../root/edit/search_macros.tt:19
 #, perl-format
 msgid "randomly"
-msgstr ""
+msgstr "in maniera casuale"
 
 #: ../root/release/edit/recordings.tt:191
 #: ../root/release/edit/recordings.tt:262
@@ -10324,7 +10324,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:445 ../root/release/edit/tracklist.tt:446
 #, perl-format
 msgid "reset track numbers"
-msgstr ""
+msgstr "reimposta numeri di traccia"
 
 #: ../root/layout.tt:73
 #, perl-format
@@ -10424,22 +10424,22 @@ msgstr[1] ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:34
 #, perl-format
 msgid "{begindate} &ndash;"
-msgstr ""
+msgstr "{begindate} &ndash;"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:32
 #, perl-format
 msgid "{begindate} &ndash; ????"
-msgstr ""
+msgstr "{begindate} &ndash; ????"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:27
 #, perl-format
 msgid "{begindate} &ndash; {enddate}"
-msgstr ""
+msgstr "{begindate} &ndash; {enddate}"
 
 #: ../root/release/collections.tt:10
 #, perl-format
 msgid "{collection} by {owner}"
-msgstr ""
+msgstr "{collection} di {owner}"
 
 #: ../root/user/profile.tt:95
 #, perl-format
@@ -10652,7 +10652,7 @@ msgstr ""
 #: ../root/user/profile/layout.tt:8
 #, perl-format
 msgid "{user}"
-msgstr ""
+msgstr "{user}"
 
 #: ../root/user/collections.tt:32
 #, perl-format
@@ -10871,7 +10871,7 @@ msgstr "L'ISRC non esiste"
 
 #: ../lib/MusicBrainz/Server/Controller/ISWC.pm:55
 msgid "This ISWC does not exist"
-msgstr ""
+msgstr "Questo ISWC non esiste"
 
 #: ../lib/MusicBrainz/Server/Controller/Recording.pm:217
 msgid "This ISRC already exists for this recording"
@@ -11302,7 +11302,7 @@ msgstr "Aggiungi annotazione all'opera"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddISWCs.pm:22
 msgid "Add ISWCs"
-msgstr ""
+msgstr "Aggiungi ISWC"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
@@ -11322,7 +11322,7 @@ msgstr "Unisci opera"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/RemoveISWC.pm:16
 msgid "Remove ISWC"
-msgstr ""
+msgstr "Rimuovi ISWC"
 
 #: ../lib/MusicBrainz/Server/EditSearch/Predicate.pm:66
 msgid "This operator is not supported"
@@ -11335,23 +11335,23 @@ msgstr "[nessuno]"
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:116
 #, perl-brace-format
 msgid "{b} and {a}"
-msgstr ""
+msgstr "{b} e {a}"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:25
 msgid "Filter release groups"
-msgstr ""
+msgstr "Filtra gruppi di pubblicazioni"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:39
 msgid "Filter releases"
-msgstr ""
+msgstr "Filtra pubblicazioni"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:53
 msgid "Filter recordings"
-msgstr ""
+msgstr "Filtra registrazioni"
 
 #: ../lib/MusicBrainz/Server/Form/Alias.pm:82
 msgid "This alias can only be a primary alias if a locale is selected"
-msgstr ""
+msgstr "Questo alias può essere un alias primario solo in uno specifico ambiente linguistico"
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"
@@ -11434,7 +11434,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:95
 msgid "This relationship type is deprecated."
-msgstr ""
+msgstr "Questo tipo di relazione è obsoleto."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:115
 msgid "This attribute is not supported for the selected relationship type."
@@ -11535,7 +11535,7 @@ msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:55
 msgid "Indexed search with advanced query syntax"
-msgstr ""
+msgstr "Ricerca indicizzata con sintassi di ricerca avanzata"
 
 #: ../lib/MusicBrainz/Server/Form/User/ChangePassword.pm:37
 msgid "The old password is incorrect"
@@ -11547,19 +11547,19 @@ msgstr "Formato URL non valido"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
-msgstr ""
+msgstr "Elementare"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:62
 msgid "Intermediate"
-msgstr ""
+msgstr "Intermedio"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:63
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzato"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:64
 msgid "Native"
-msgstr ""
+msgstr "Lingua madre"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:73
 msgid "You must supply a complete birth date for us to display your age."
