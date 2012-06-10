@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-09 22:34+0000\n"
+"PO-Revision-Date: 2012-06-09 23:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -1516,7 +1516,7 @@ msgid ""
 "privileges. These privileges allow them to make select edits that are "
 "automatically approved without going through the normal voting process, as "
 "well as the ability to instantly approve other users' edits."
-msgstr ""
+msgstr "Gli auto-editor sono utenti di fiducia a cui sono stati concessi {url|privilegi speciali}. Questi privilegi consentono loro di applicare alcune modifiche che sono approvate automaticamente, senza passare per il normale processo di voto, così come la capacità di approvare istantaneamente le modifiche di altri utenti."
 
 #: ../root/user/profile.tt:148
 #, perl-format
@@ -2142,12 +2142,12 @@ msgstr "Collaboratore"
 #: ../root/release/edit/tracklist.tt:364
 #, perl-format
 msgid "Collapse Disc"
-msgstr ""
+msgstr "Comprimi disco"
 
 #: ../root/relationship/linktype/tree.tt:49
 #, perl-format
 msgid "Collapse all descriptions"
-msgstr ""
+msgstr "Comprimi tutte le descrizioni"
 
 #: ../root/user/collections.tt:9
 #, perl-format
@@ -3109,7 +3109,7 @@ msgstr ""
 #: ../root/work/edits.tt:14
 #, perl-format
 msgid "Edits for “{name}”"
-msgstr ""
+msgstr "Modifiche per \"{name}\""
 
 #: ../root/elections/not_found.tt:1 ../root/elections/not_found.tt:2
 #, perl-format
@@ -3159,12 +3159,12 @@ msgstr "Gruppi di pubblicazioni vuoti"
 #: ../root/release/edit/tracklist.tt:195
 #, perl-format
 msgid "Enable vinyl track numbers"
-msgstr ""
+msgstr "Abilita numeri di traccia in formato vinile"
 
 #: ../root/components/forms.tt:13
 #, perl-format
 msgid "Enable {autoed|auto-editor} privileges for this edit."
-msgstr ""
+msgstr "Abilita i privilegi da {autoed|auto-editor} per questa modifica."
 
 #: ../root/cdtoc/info.tt:34 ../root/search/lib/inline-results-artist.tt:11
 #: ../root/search/results-label.tt:15
@@ -3220,12 +3220,12 @@ msgstr "Inserisci di seguito un elenco di tracce:"
 #: ../root/release/edit/editnote.tt:42
 #, perl-format
 msgid "Enter edit"
-msgstr ""
+msgstr "Inserisci modifica"
 
 #: ../root/edit/vote.tt:29
 #, perl-format
 msgid "Enter vote"
-msgstr ""
+msgstr "Inserisci voto"
 
 #: ../root/account/lost_username.tt:7
 #, perl-format
@@ -3257,12 +3257,12 @@ msgstr "Errore"
 #: ../root/edit/require_note.tt:1 ../root/edit/require_note.tt:2
 #, perl-format
 msgid "Error Approving Edit"
-msgstr ""
+msgstr "Errore durante l'approvazione della modifica"
 
 #: ../root/edit/cannot_cancel.tt:1 ../root/edit/cannot_cancel.tt:2
 #, perl-format
 msgid "Error Cancelling Edit"
-msgstr ""
+msgstr "Errore durante la cancellazione della modifica"
 
 #: ../root/main/400.tt:8 ../root/main/404.tt:12 ../root/main/500.tt:37
 #, perl-format
@@ -3284,7 +3284,7 @@ msgstr "Errore: tipo sconosciuto"
 #: ../root/forms/edit-note.tt:9
 #, perl-format
 msgid "Even just providing a URL or two is helpful!"
-msgstr ""
+msgstr "Anche solo un link o due possono aiutare!"
 
 #: ../root/release/edit/tracklist.tt:173
 #, perl-format
@@ -3294,17 +3294,17 @@ msgstr "Elenco di tracce esistente"
 #: ../root/release/edit/tracklist.tt:249
 #, perl-format
 msgid "Expand"
-msgstr ""
+msgstr "Espandi"
 
 #: ../root/release/edit/tracklist.tt:361
 #, perl-format
 msgid "Expand Disc"
-msgstr ""
+msgstr "Espandi disco"
 
 #: ../root/relationship/linktype/tree.tt:48
 #, perl-format
 msgid "Expand all descriptions"
-msgstr ""
+msgstr "Espandi tutte le descrizioni"
 
 #: ../root/doc/edit_type.tt:55
 #, perl-format
@@ -3346,7 +3346,7 @@ msgstr ""
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:36
 #, perl-format
 msgid "FAQs"
-msgstr ""
+msgstr "FAQ"
 
 #: ../root/user/profile.tt:156
 #, perl-format
@@ -3399,7 +3399,7 @@ msgstr "Richiesta vietata"
 #: ../root/user/login.tt:39
 #, perl-format
 msgid "Forgot your {link1|username} or {link2|password}?"
-msgstr ""
+msgstr "Hai dimenticato il {link1|nome utente} o la {link2|password}?"
 
 #: ../root/cdtoc/list.tt:5 ../root/collection/index.tt:12
 #: ../root/edit/details/edit_release_events.tt:10
@@ -3408,14 +3408,14 @@ msgstr ""
 #: ../root/release_group/releases-list.tt:20 ../root/release/lookup.tt:12
 #, perl-format
 msgid "Format"
-msgstr ""
+msgstr "Formato"
 
 #: ../root/edit/details/add_medium.tt:25
 #: ../root/edit/details/edit_medium.tt:33
 #: ../root/edit/details/edit_release_label.tt:56 ../root/release/sidebar.tt:17
 #, perl-format
 msgid "Format:"
-msgstr ""
+msgstr "Formato:"
 
 #: ../root/layout/menu.tt:239 ../root/layout.tt:163
 #, perl-format
@@ -3433,28 +3433,28 @@ msgstr ""
 msgid ""
 "Found a broken link on our site? Please let us know by {report|reporting a "
 "bug}."
-msgstr ""
+msgstr "Hai trovato un collegamento non funzionante sul nostro sito? Faccelo sapere {report|segnalando un bug}."
 
 #: ../root/main/404.tt:24
 #, perl-format
 msgid ""
 "Found a broken link on our site? Please {report|report a bug} and include "
 "any error message that is shown above."
-msgstr ""
+msgstr "Hai trovato un collegamento non funzionante sul nostro sito? {report|Segnala un bug} includendo il messaggio di errore visualizzato qui sopra."
 
 #: ../root/main/400.tt:24
 #, perl-format
 msgid ""
 "Found a problem on our site? Please {report|report a bug} and include any "
 "error message that is shown above."
-msgstr ""
+msgstr "Hai trovato un problema sul nostro sito? {report|Segnala un bug} includendo il messaggio di errore visualizzato qui sopra."
 
 #: ../root/release/sidebar.tt:142
 #, perl-format
 msgid "Found in {num} user collection"
 msgid_plural "Found in {num} user collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Trovato in {num} collezione utente"
+msgstr[1] "Trovato in {num} collezioni utente"
 
 #: ../root/release/lookup.tt:4
 #, perl-format
@@ -3465,22 +3465,22 @@ msgstr ""
 #, perl-format
 msgid "Found {n} edit"
 msgid_plural "Found at least {n} edits"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Trovata {n} modifica"
+msgstr[1] "Trovate almeno {n} modifiche"
 
 #: ../root/components/with-pager.tt:5
 #, perl-format
 msgid "Found {n} result"
 msgid_plural "Found {n} results"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Trovato {n} risultato"
+msgstr[1] "Trovati {n} risultati"
 
 #: ../root/components/with-pager.tt:7
 #, perl-format
 msgid "Found {n} result for \"{q}\""
 msgid_plural "Found {n} results for \"{q}\""
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Trovato {n} risultato per \"{q}\""
+msgstr[1] "Trovati {n} risultati per \"{q}\""
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/label/layout.tt:14 ../root/scripts/text_strings.tt:73
@@ -3501,12 +3501,12 @@ msgstr "Gateway FreeDB"
 #: ../root/search/results-freedb.tt:13
 #, perl-format
 msgid "FreeDB ID"
-msgstr ""
+msgstr "ID FreeDB"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "FreeDB ID:"
-msgstr ""
+msgstr "ID FreeDB:"
 
 #: ../root/release/edit/tracklist.tt:175
 #, perl-format
@@ -3641,7 +3641,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "High"
-msgstr ""
+msgstr "Alta"
 
 #: ../root/doc/edit_types.tt:20 ../lib/MusicBrainz/Server/Edit/Historic.pm:12
 #, perl-format
@@ -3694,7 +3694,7 @@ msgstr ""
 #: ../root/edit/details/edit_label.tt:52 ../root/label/layout.tt:35
 #, perl-format
 msgid "IPI code:"
-msgstr ""
+msgstr "Codice IPI:"
 
 #: ../root/artist/edit_form.tt:44 ../root/edit/details/edit_artist.tt:53
 #: ../root/edit/details/edit_label.tt:56 ../root/label/edit_form.tt:45
@@ -3804,7 +3804,7 @@ msgstr ""
 msgid ""
 "If the problem persists, please {report|report a bug} and include any error "
 "message that is shown above."
-msgstr ""
+msgstr "Se il problema persiste, {report|segnala un bug} includendo il messaggio di errore visualizzato qui sopra."
 
 #: ../root/release/edit/information.tt:149
 #, perl-format
@@ -4393,7 +4393,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "Low"
-msgstr ""
+msgstr "Bassa"
 
 #: ../root/work/edit_form.tt:10 ../root/work/layout.tt:11
 #, perl-format
@@ -4452,7 +4452,7 @@ msgstr "Supporto"
 #: ../root/tracklist/index.tt:28
 #, perl-format
 msgid "Medium #"
-msgstr ""
+msgstr "Supporto #"
 
 #: ../root/edit/details/merge_releases.tt:36
 #, perl-format
@@ -4479,17 +4479,17 @@ msgstr ""
 #: ../root/edit/details/remove_medium.tt:3
 #, perl-format
 msgid "Medium:"
-msgstr ""
+msgstr "Supporto: "
 
 #: ../root/cdtoc/set_durations.tt:10
 #, perl-format
 msgid "Mediums"
-msgstr ""
+msgstr "Supporti"
 
 #: ../root/edit/details/reorder_mediums.tt:17
 #, perl-format
 msgid "Mediums:"
-msgstr ""
+msgstr "Supporti:"
 
 #: ../root/user/profile.tt:75
 #, perl-format
@@ -5189,12 +5189,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:505
 #, perl-format
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 #: ../root/user/profile.tt:48
 #, perl-format
 msgid "Normal User"
-msgstr ""
+msgstr "Utente normale"
 
 #: ../root/scripts/text_strings.tt:76
 #, perl-format
@@ -5802,7 +5802,7 @@ msgstr ""
 #: ../root/cdtoc/lookup.tt:28
 #, perl-format
 msgid "Possible Mediums"
-msgstr ""
+msgstr "Possibili supporti"
 
 #: ../root/relationship/linkattributetype/index.tt:18
 #, perl-format
@@ -6502,12 +6502,12 @@ msgstr ""
 #: ../root/report/mediums_with_sequence_issues.tt:3
 #, perl-format
 msgid "Releases with medium number issues"
-msgstr ""
+msgstr "Pubblicazioni con problemi nella numerazione dei supporti"
 
 #: ../root/report/index.tt:57
 #, perl-format
 msgid "Releases with non-sequential mediums"
-msgstr ""
+msgstr "Pubblicazioni con supporti non sequenziali"
 
 #: ../root/report/index.tt:48
 #, perl-format
@@ -11523,7 +11523,7 @@ msgstr "Questo supporto possiede già ID disco, quindi puoi cambiare il formato 
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:222
 msgid "A release must have at least one medium."
-msgstr ""
+msgstr "Una pubblicazione deve possedere almeno un supporto."
 
 #: ../lib/MusicBrainz/Server/Form/Role/DatePeriod.pm:42
 msgid "The end date must occur on or after the begin date"
