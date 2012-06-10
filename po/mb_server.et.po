@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-10 21:57+0000\n"
+"PO-Revision-Date: 2012-06-10 22:28+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.net/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -95,7 +95,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:29
 #, perl-format
 msgid "&ndash; {enddate}"
-msgstr ""
+msgstr "&ndash; {enddate}"
 
 #: ../root/components/tag-cloud.tt:26
 #, perl-format
@@ -587,7 +587,7 @@ msgstr ""
 #: ../root/account/edit.tt:44
 #, perl-format
 msgid "Add a language"
-msgstr ""
+msgstr "Lisa keel"
 
 #: ../root/components/aliases.tt:63
 #, perl-format
@@ -760,7 +760,7 @@ msgstr ""
 #: ../root/components/forms.tt:114
 #, perl-format
 msgid "Add {item}"
-msgstr ""
+msgstr "Lisa {item}"
 
 #: ../root/release/edit/tracklist.tt:451
 #, perl-format
@@ -775,12 +775,12 @@ msgstr "Lisatud"
 #: ../root/cdstub/browse.tt:24
 #, perl-format
 msgid "Added {add}, last modified {lastmod}"
-msgstr ""
+msgstr "Lisatud {add}, viimati muudetud {lastmod}"
 
 #: ../root/cdstub/layout.tt:7
 #, perl-format
 msgid "Added:"
-msgstr ""
+msgstr "Lisatud:"
 
 #: ../root/release/sidebar.tt:29
 #, perl-format
@@ -825,7 +825,7 @@ msgstr ""
 #: ../root/user/profile.tt:57
 #, perl-format
 msgid "Age:"
-msgstr ""
+msgstr "Vanus:"
 
 #: ../root/components/aliases.tt:6
 #, perl-format
@@ -860,7 +860,7 @@ msgstr ""
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Aliases"
-msgstr ""
+msgstr "Aliased"
 
 #: ../root/user/profile/layout.tt:19
 #, perl-format
@@ -1631,12 +1631,12 @@ msgstr ""
 #: ../root/search/results-label.tt:14
 #, perl-format
 msgid "Begin"
-msgstr ""
+msgstr "Algus"
 
 #: ../root/components/aliases.tt:8
 #, perl-format
 msgid "Begin Date"
-msgstr ""
+msgstr "Alguskuupäev"
 
 #: ../root/alias/edit_form.tt:21 ../root/artist/edit_form.tt:52
 #: ../root/edit/details/add_artist_alias.tt:36
@@ -1657,7 +1657,7 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:125 ../root/label/edit_form.tt:53
 #, perl-format
 msgid "Begin date:"
-msgstr ""
+msgstr "Alguskuupäev:"
 
 #: ../root/layout/menu.tt:209
 #, perl-format
@@ -1686,7 +1686,7 @@ msgstr ""
 #: ../root/account/edit.tt:21
 #, perl-format
 msgid "Birth date:"
-msgstr ""
+msgstr "Sünnikuupäev:"
 
 #: ../root/layout/menu.tt:113
 #, perl-format
@@ -1994,7 +1994,7 @@ msgstr ""
 #: ../root/account/change_password.tt:15 ../root/layout/menu.tt:10
 #, perl-format
 msgid "Change Password"
-msgstr ""
+msgstr "Parooli muutmine"
 
 #: ../root/edit/relationship/create.tt:50
 #: ../root/edit/relationship/create.tt:54 ../root/edit/relationship/edit.tt:76
@@ -2224,7 +2224,7 @@ msgstr ""
 #: ../root/account/reset_password.tt:11
 #, perl-format
 msgid "Confirm password:"
-msgstr ""
+msgstr "Parooli kinnitus:"
 
 #: ../root/account/registered.tt:4
 #, perl-format
@@ -2615,7 +2615,7 @@ msgstr "Plaat {num}: {title}"
 #: ../root/artist/index.tt:46
 #, perl-format
 msgid "Discography"
-msgstr ""
+msgstr "Diskograafia"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
@@ -2801,7 +2801,7 @@ msgstr ""
 #: ../root/layout/menu.tt:7
 #, perl-format
 msgid "Edit Profile"
-msgstr ""
+msgstr "Profiili muutmine"
 
 #: ../root/recording/edit_annotation.tt:1
 #, perl-format
@@ -3168,17 +3168,17 @@ msgstr ""
 #: ../root/search/results-label.tt:15
 #, perl-format
 msgid "End"
-msgstr ""
+msgstr "Lõpp"
 
 #: ../root/components/aliases.tt:9
 #, perl-format
 msgid "End Date"
-msgstr ""
+msgstr "Lõppkuupäev"
 
 #: ../root/elections/index.tt:12
 #, perl-format
 msgid "End date"
-msgstr ""
+msgstr "Lõppkuupäev"
 
 #: ../root/alias/edit_form.tt:22 ../root/artist/edit_form.tt:53
 #: ../root/edit/details/add_artist_alias.tt:42
@@ -3199,7 +3199,7 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:130 ../root/label/edit_form.tt:54
 #, perl-format
 msgid "End date:"
-msgstr ""
+msgstr "Lõppkuupäev:"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #: ../root/edit/details/add_artist.tt:54 ../root/edit/details/add_label.tt:40
@@ -3265,7 +3265,7 @@ msgstr ""
 #: ../root/main/400.tt:8 ../root/main/404.tt:12 ../root/main/500.tt:37
 #, perl-format
 msgid "Error message: "
-msgstr ""
+msgstr "Veateade: "
 
 #: ../root/main/500.tt:9
 #, perl-format
@@ -3484,7 +3484,7 @@ msgstr[1] "Päringule „{q}” leiti {n} vastust"
 #: ../root/label/layout.tt:14 ../root/scripts/text_strings.tt:73
 #, perl-format
 msgid "Founded:"
-msgstr ""
+msgstr "Loodud:"
 
 #: ../root/freedb/not_found.tt:1 ../root/freedb/not_found.tt:2
 #, perl-format
@@ -4008,7 +4008,7 @@ msgstr "Selle lehe vaatamiseks kasuta palun põhiserverit aadressil {uri}."
 #: ../root/user/login.tt:20
 #, perl-format
 msgid "Incorrect username or password"
-msgstr ""
+msgstr "Vale kasutajanimi või parool"
 
 #: ../root/search/form.tt:24
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:54
@@ -4396,7 +4396,7 @@ msgstr ""
 #: ../root/work/edit_form.tt:10 ../root/work/layout.tt:11
 #, perl-format
 msgid "Lyrics Language:"
-msgstr ""
+msgstr "Sõnade keel:"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
@@ -4492,7 +4492,7 @@ msgstr ""
 #: ../root/user/profile.tt:75
 #, perl-format
 msgid "Member since:"
-msgstr ""
+msgstr "Liitus:"
 
 #: ../root/layout/merge-helper.tt:30 ../root/release/merge_search.tt:14
 #, perl-format
@@ -4926,7 +4926,7 @@ msgstr ""
 #: ../root/edit/details/edit_release_language.tt:25
 #, perl-format
 msgid "New language:"
-msgstr ""
+msgstr "Uus keel:"
 
 #: ../root/edit/details/change_wikidoc.tt:17
 #, perl-format
@@ -4936,7 +4936,7 @@ msgstr ""
 #: ../root/account/change_password.tt:11
 #, perl-format
 msgid "New password:"
-msgstr ""
+msgstr "Uus parool:"
 
 #: ../root/release/merge.tt:51
 #, perl-format
@@ -5257,7 +5257,7 @@ msgstr ""
 #: ../root/account/change_password.tt:10
 #, perl-format
 msgid "Old password:"
-msgstr ""
+msgstr "Vana parool:"
 
 #: ../root/edit/details/reorder_cover_art.tt:10
 #, perl-format
@@ -5442,17 +5442,17 @@ msgstr ""
 #: ../root/components/paginator.tt:30
 #, perl-format
 msgid "Page {cur} of at least {total}"
-msgstr ""
+msgstr "Lehekülg {cur} vähemalt {total}-st"
 
 #: ../root/components/paginator.tt:32
 #, perl-format
 msgid "Page {cur} of {total}"
-msgstr ""
+msgstr "Lehekülg {cur} / {total}"
 
 #: ../root/admin/wikidoc/create.tt:8 ../root/admin/wikidoc/edit.tt:9
 #, perl-format
 msgid "Page:"
-msgstr ""
+msgstr "Lehekülg:"
 
 #: ../root/edit/details/edit_relationship_type.tt:50
 #, perl-format
@@ -5562,7 +5562,7 @@ msgstr ""
 #: ../root/account/change_password.tt:5
 #, perl-format
 msgid "Please enter your old password below, and then your new password."
-msgstr ""
+msgstr "Palun sisesta oma vana parool ja siis kaks korda uus."
 
 #: ../root/edit/relationship/no-start.tt:2
 #, perl-format
@@ -5608,7 +5608,7 @@ msgstr ""
 #: ../root/search/form.tt:49
 #, perl-format
 msgid "Please note:"
-msgstr ""
+msgstr "Märkus:"
 
 #: ../root/release/merge_search.tt:5
 #, perl-format
@@ -5900,7 +5900,7 @@ msgstr "Tooted"
 #: ../root/user/profile/layout.tt:12
 #, perl-format
 msgid "Profile"
-msgstr ""
+msgstr "Profiil"
 
 #: ../root/elections/show.tt:14
 #, perl-format
@@ -6264,7 +6264,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Release Language"
-msgstr ""
+msgstr "Väljalaske keel"
 
 #: ../root/release/not_found.tt:1 ../root/release/not_found.tt:2
 #, perl-format
@@ -7048,7 +7048,7 @@ msgstr ""
 #: ../root/user/contact.tt:20
 #, perl-format
 msgid "Send"
-msgstr ""
+msgstr "Saada"
 
 #: ../root/account/lost_username.tt:14 ../root/user/contact.tt:1
 #: ../root/user/contact.tt:3 ../lib/MusicBrainz/Server/Controller/User.pm:243
@@ -7864,7 +7864,7 @@ msgstr ""
 #: ../root/user/profile.tt:79
 #, perl-format
 msgid "The early days of the project"
-msgstr ""
+msgstr "Projekti alguspäevil"
 
 #: ../root/edit/cannot_approve.tt:6
 #, perl-format
@@ -9140,7 +9140,7 @@ msgstr ""
 #: ../root/search/form.tt:13
 #, perl-format
 msgid "Up to {n}"
-msgstr ""
+msgstr "Kuni {n}"
 
 #: ../root/admin/wikidoc/edit.tt:16 ../root/admin/wikidoc/index.tt:108
 #, perl-format
@@ -9523,7 +9523,7 @@ msgstr ""
 msgid ""
 "We will use your birth date to display your age in years on your profile "
 "page."
-msgstr ""
+msgstr "Seda kasutatakse kasutajalehel vanuse näitamiseks."
 
 #: ../root/main/500.tt:52
 #, perl-format
@@ -9654,7 +9654,7 @@ msgstr ""
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Works"
-msgstr ""
+msgstr "Teosed"
 
 #: ../root/browse/work.tt:8
 #, perl-format
@@ -10029,7 +10029,7 @@ msgstr ""
 #: ../root/account/reset_password_ok.tt:5
 #, perl-format
 msgid "Your password has been reset."
-msgstr ""
+msgstr "Su parool on lähtestatud."
 
 #: ../root/account/preferences_ok.tt:5
 #, perl-format
@@ -10041,7 +10041,7 @@ msgstr ""
 #: ../root/account/edit_ok.tt:6
 #, perl-format
 msgid "Your profile has been updated."
-msgstr ""
+msgstr "Su profiil on uuendatud."
 
 #: ../root/search/error/invalid.tt:3
 #, perl-format
@@ -10131,7 +10131,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:140
 #, perl-format
 msgid "disambiguation:"
-msgstr ""
+msgstr "täpsustus:"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -10422,17 +10422,17 @@ msgstr[1] ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:34
 #, perl-format
 msgid "{begindate} &ndash;"
-msgstr ""
+msgstr "{begindate} &ndash;"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:32
 #, perl-format
 msgid "{begindate} &ndash; ????"
-msgstr ""
+msgstr "{begindate} &ndash; ?"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:27
 #, perl-format
 msgid "{begindate} &ndash; {enddate}"
-msgstr ""
+msgstr "{begindate} &ndash; {enddate}"
 
 #: ../root/release/collections.tt:10
 #, perl-format
@@ -11537,7 +11537,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/ChangePassword.pm:37
 msgid "The old password is incorrect"
-msgstr ""
+msgstr "Vana parool on vale"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:22
 msgid "Invalid URL format"
@@ -11561,7 +11561,7 @@ msgstr "Emakeel"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:73
 msgid "You must supply a complete birth date for us to display your age."
-msgstr ""
+msgstr "Vanuse näitamiseks pead sisestama täieliku sünnikuupäeva."
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Daily"

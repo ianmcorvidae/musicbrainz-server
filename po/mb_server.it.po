@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-10 14:32+0000\n"
+"PO-Revision-Date: 2012-06-10 22:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -413,7 +413,7 @@ msgstr ""
 #: ../root/edit/index.tt:73
 #, perl-format
 msgid "Accept edit"
-msgstr ""
+msgstr "Accetta modifica"
 
 #: ../root/components/common-macros.tt:512
 #, perl-format
@@ -423,7 +423,7 @@ msgstr ""
 #: ../root/user/profile.tt:144
 #, perl-format
 msgid "Accepted"
-msgstr ""
+msgstr "Accettate"
 
 #: ../root/account/registered.tt:1 ../root/account/registered.tt:2
 #, perl-format
@@ -438,14 +438,14 @@ msgstr ""
 #: ../root/search/results-freedb.tt:15
 #, perl-format
 msgid "Action"
-msgstr ""
+msgstr "Azione"
 
 #: ../root/admin/wikidoc/index.tt:90 ../root/artist/aliases.tt:17
 #: ../root/components/aliases.tt:14 ../root/recording/fingerprints.tt:14
 #: ../root/recording/fingerprints.tt:49 ../root/user/collections.tt:12
 #, perl-format
 msgid "Actions"
-msgstr ""
+msgstr "Azioni"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -599,7 +599,7 @@ msgstr "Aggiungi un nuovo alias"
 #: ../root/admin/wikidoc/index.tt:62
 #, perl-format
 msgid "Add a new entry"
-msgstr ""
+msgstr "Aggiungi una nuova voce"
 
 #: ../root/release/edit/recordings.tt:165
 #, perl-format
@@ -1286,7 +1286,7 @@ msgstr "Artista non trovato"
 #: ../root/user/subscriptions/artist.tt:1 ../root/user/subscriptions/menu.tt:3
 #, perl-format
 msgid "Artist Subscriptions"
-msgstr ""
+msgstr "Sottoscrizioni di artisti"
 
 #: ../root/components/forms.tt:265
 #, perl-format
@@ -1596,7 +1596,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:35
 #, perl-format
 msgid "Be the first! {sub|Subscribe}?"
-msgstr ""
+msgstr "Vuoi essere il primo? {sub|Sottoscriviti!}"
 
 #: ../root/account/registered.tt:13
 #, perl-format
@@ -3030,7 +3030,7 @@ msgstr "Editor non trovato"
 #: ../root/user/subscriptions/editor.tt:1 ../root/user/subscriptions/menu.tt:5
 #, perl-format
 msgid "Editor Subscriptions"
-msgstr ""
+msgstr "Sottoscrizioni di editor"
 
 #: ../root/user/profile/layout.tt:1
 #, perl-format
@@ -3040,12 +3040,12 @@ msgstr "Editor “{user}”"
 #: ../root/artist/subscribe.tt:2
 #, perl-format
 msgid "Editors Subscribed to this Artist"
-msgstr ""
+msgstr "Editor sottoscritti a questo artista"
 
 #: ../root/label/subscriptions.tt:2
 #, perl-format
 msgid "Editors subscribed to this Label"
-msgstr ""
+msgstr "Editor sottoscritti a questa etichetta"
 
 #: ../root/user/edits.tt:15
 #, perl-format
@@ -3060,17 +3060,17 @@ msgstr ""
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
 msgid "Edits By Your Subscribed Editors"
-msgstr ""
+msgstr "Modifiche degli editor che hai sottoscritto"
 
 #: ../root/edit/subscribed.tt:15 ../root/edit/subscribed.tt:17
 #, perl-format
 msgid "Edits For Your Subscribed Entities"
-msgstr ""
+msgstr "Modifiche per le entità che hai sottoscritto"
 
 #: ../root/layout/menu.tt:45
 #, perl-format
 msgid "Edits by Subscribed Editors"
-msgstr ""
+msgstr "Modifiche di editor sottoscritti"
 
 #: ../root/user/edits.tt:16
 #, perl-format
@@ -3080,7 +3080,7 @@ msgstr "Modifiche di {name}"
 #: ../root/layout/menu.tt:42
 #, perl-format
 msgid "Edits for Subscribed Entities"
-msgstr ""
+msgstr "Modifiche ad entità sottoscritte"
 
 #: ../root/label/edits.tt:17
 #, perl-format
@@ -3351,7 +3351,7 @@ msgstr "FAQ"
 #: ../root/user/profile.tt:156
 #, perl-format
 msgid "Failed"
-msgstr ""
+msgstr "Fallite"
 
 #: ../root/edit/details/remove_cover_art.tt:25 ../root/taglookup/form.tt:9
 #, perl-format
@@ -4145,7 +4145,7 @@ msgstr "Etichetta non trovata"
 #: ../root/user/subscriptions/label.tt:1 ../root/user/subscriptions/menu.tt:4
 #, perl-format
 msgid "Label Subscriptions"
-msgstr ""
+msgstr "Sottoscrizioni di etichette"
 
 #: ../root/edit/details/add_label.tt:60 ../root/edit/details/edit_label.tt:29
 #: ../root/label/edit_form.tt:41 ../root/label/layout.tt:38
@@ -4430,7 +4430,7 @@ msgstr "Fai una donazione adesso!"
 #: ../root/release/edit/tracklist.tt:172
 #, perl-format
 msgid "Manual entry"
-msgstr ""
+msgstr "Inserimento manuale"
 
 #: ../root/release/lookup.tt:8
 #, perl-format
@@ -5382,7 +5382,7 @@ msgstr "Altri gruppi di pubblicazioni"
 #: ../root/user/profile.tt:177
 #, perl-format
 msgid "Overall"
-msgstr ""
+msgstr "Totali"
 
 #: ../root/artist/header.tt:1 ../root/cdstub/header.tt:9
 #: ../root/collection/header.tt:1 ../root/release_group/header.tt:1
@@ -7296,7 +7296,7 @@ msgstr ""
 msgid ""
 "Sorry, we could not find a FreeDB entry with that ID. You may wish to try "
 "and {search_url|search for it} instead."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare una voce di FreeDB con quell'ID. Potresti provare a {search_url|usare la ricerca}."
 
 #: ../root/otherlookup/not_found.tt:4
 #, perl-format
@@ -8008,22 +8008,22 @@ msgstr ""
 #: ../root/user/subscribers.tt:23
 #, perl-format
 msgid "There are currently no users subscribed to edits that you make."
-msgstr ""
+msgstr "Al momento non ci sono utenti sottoscritti alle tue modifiche."
 
 #: ../root/user/subscribers.tt:25
 #, perl-format
 msgid "There are currently no users subscribed to edits that {user} makes."
-msgstr ""
+msgstr "Al momento non ci sono utenti sottoscritti alle modifiche di {user}."
 
 #: ../root/artist/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {artist}."
-msgstr ""
+msgstr "Al momento non ci sono utenti sottoscritti a {artist}."
 
 #: ../root/label/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {label}."
-msgstr ""
+msgstr "Al momento non ci sono utenti sottoscritti a {label}."
 
 #: ../root/release/discids.tt:52
 #, perl-format
@@ -8033,7 +8033,7 @@ msgstr ""
 #: ../root/artist/subscribe.tt:11
 #, perl-format
 msgid "There are no editors currently subscribed to this artist."
-msgstr ""
+msgstr "Al momento non ci sono editor sottoscritti a questo artista."
 
 #: ../root/artist/split.tt:24
 #, perl-format
@@ -8047,7 +8047,7 @@ msgstr ""
 #: ../root/label/subscriptions.tt:11
 #, perl-format
 msgid "There are no users currently subscribed to this Label."
-msgstr ""
+msgstr "Al momento non ci sono editor sottoscritti a questa etichetta."
 
 #: ../root/edit/relationship/cannot_create.tt:3
 #, perl-format
@@ -8075,8 +8075,8 @@ msgstr[1] "Ci sono anche {num} sottoscrittori anonimi"
 msgid "There is currently {num} user subscribed to edits that {user} makes:"
 msgid_plural ""
 "There are currently {num} users subscribed to edits that {user} makes:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Al momento c'è {num} utente sottoscritto alle modifiche di {user}:"
+msgstr[1] "Al momento ci sono {num} utenti sottoscritti alle modifiche di {user}:"
 
 #: ../root/artist/subscribers.tt:4
 #, perl-format
@@ -8186,7 +8186,7 @@ msgstr "Questa collezione non ha tag."
 msgid ""
 "This edit failed because it affected high quality data and did not receive "
 "any votes."
-msgstr ""
+msgstr "Questa modifica è fallita perché riguardava dati di altà qualità e non ha ricevuto voti."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
@@ -8194,25 +8194,25 @@ msgid ""
 "This edit failed because the data it was changing was modified after this "
 "edit was created. This may happen when the same edit is entered in twice; "
 "one will pass but the other will fail."
-msgstr ""
+msgstr "Questa modifica è fallita perché i dati che modificava sono cambiati dopo la sua creazione. Questo può succedere quando si inserisce la stessa modifica due volte: una sarà accettata, mentre l'altra fallirà."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit failed because there were insufficient \"yes\" votes."
-msgstr ""
+msgstr "Questa modifica è fallita perché non ha ricevuto abbastanza voti positivi."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid ""
 "This edit failed due to an internal error and may need to be entered again."
-msgstr ""
+msgstr "Questa modifica è fallita per un errore interno e potrebbe essere necessario inserirla di nuovo."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid ""
 "This edit failed either because an entity it was modifying no longer exists,"
 " or the entity can not be modified in this manner anymore."
-msgstr ""
+msgstr "Questa modifica è fallita o perché una delle entità modificate non esiste più, o perché l'entità non può più essere modificata in questo modo."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
@@ -9122,17 +9122,17 @@ msgstr "Pseudo-pubblicazioni non collegate"
 #: ../root/user/subscriptions/subscriptions.tt:32
 #, perl-format
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Annulla sottoscrizione"
 
 #: ../root/label/subscriptions.tt:21
 #, perl-format
 msgid "Unsubscribe from this Label."
-msgstr ""
+msgstr "Annulla sottoscrizione a questa etichetta."
 
 #: ../root/artist/subscribe.tt:18
 #, perl-format
 msgid "Unsubscribe from this artist."
-msgstr ""
+msgstr "Annulla sottoscrizione a questo artista."
 
 #: ../root/admin/edit_user.tt:12
 #, perl-format
@@ -9217,7 +9217,7 @@ msgstr "Usa i seguenti campi per cercare una bozza CD."
 #: ../root/release/edit/tracklist.tt:240
 #, perl-format
 msgid "Use the following fields to search for a FreeDB entry."
-msgstr ""
+msgstr "Utilizza i campi seguenti per cercare una voce di FreeDB."
 
 #: ../root/release/edit/tracklist.tt:205
 #, perl-format
@@ -9350,7 +9350,7 @@ msgstr ""
 #: ../root/user/profile.tt:152
 #, perl-format
 msgid "Voted down"
-msgstr ""
+msgstr "Rifiutate"
 
 #: ../root/elections/show.tt:108
 #, perl-format
@@ -9409,7 +9409,7 @@ msgid ""
 " second their nomination. If you do not support this candidate, please note "
 "that you cannot cast a \"No\" vote (or abstain) until two seconders have "
 "been found."
-msgstr ""
+msgstr "La votazione non è ancora aperta. Se vuoi appoggiare questo candidato, puoi sostenere la sua nomina. Se non vuoi appoggiarlo, ricorda che non potrai votare \"No\" (o astenerti) fino a quando non ci saranno due sostenitori."
 
 #: ../root/doc/edit_type.tt:43
 #, perl-format
@@ -9912,7 +9912,7 @@ msgstr "Non puoi rimuovere l'attributo di relazione \"{type}\" poiché è ancora
 #, perl-format
 msgid ""
 "You cannot vote for this candidate, because you are not an auto-editor."
-msgstr ""
+msgstr "Non puoi votare per questo candidato perché non sei un auto-editor."
 
 #: ../root/elections/show.tt:81
 #, perl-format
@@ -10253,7 +10253,7 @@ msgstr "prima i più recenti"
 #: ../root/user/profile.tt:51
 #, perl-format
 msgid "nominate for auto-editor"
-msgstr ""
+msgstr "nomina al ruolo di auto-editor"
 
 #: ../root/relationship/linkattributetype/common.tt:19
 #, perl-format
@@ -10278,7 +10278,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:75
 #, perl-format
 msgid "page #{page} of #{total}"
-msgstr ""
+msgstr "pagina #{page} di #{total}"
 
 #: ../root/artist/subscribers.tt:14 ../root/label/subscribers.tt:14
 #: ../root/user/subscribers.tt:14
@@ -10462,7 +10462,7 @@ msgstr[1] "{count} valutazioni private non elencate."
 #: ../root/user/profile.tt:41
 #, perl-format
 msgid "{doc|Auto-Editor}"
-msgstr ""
+msgstr "{doc|Auto-editor}"
 
 #: ../root/cdstub/index.tt:13
 #, perl-format
@@ -10967,7 +10967,7 @@ msgstr "{t0}-{t1} relazioni"
 
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:174
 msgid "Total"
-msgstr ""
+msgstr "Totale"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAnnotation.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtistAnnotation.pm:7
@@ -11621,7 +11621,7 @@ msgstr "GG"
 
 #: ../lib/MusicBrainz/Server/Release.pm:78
 msgid "(Special case)"
-msgstr ""
+msgstr "(caso speciale)"
 
 #: ../lib/MusicBrainz/Server/Release.pm:79
 msgid ""
