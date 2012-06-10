@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-10 20:00+0000\n"
+"PO-Revision-Date: 2012-06-10 20:59+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.net/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -191,7 +191,7 @@ msgstr "(privaatne)"
 #: ../root/search/lib/inline-results-recording.tt:60
 #, perl-format
 msgid "(standalone recording)"
-msgstr "(eraldiseisev lindistus)"
+msgstr "(eraldiseisev salvestis)"
 
 #: ../root/edit/details/convert_release_to_multiple_artists.tt:11
 #: ../root/edit/details/historic/mac_to_sac.tt:8
@@ -330,7 +330,7 @@ msgstr ""
 msgid ""
 "<strong>The ultimate source of music information</strong> by allowing anyone"
 " to contribute and releasing the {doc|data} under {doc2|open licenses}."
-msgstr ""
+msgstr "<strong>Muusikaalase teabe ülim allikas</strong>, lubades kõigil kaasa aidata ja avaldades {doc|andmed} heade {doc2|avatud litsentsidega}."
 
 #: ../root/main/index.tt:59
 #, perl-format
@@ -338,7 +338,7 @@ msgid ""
 "<strong>The universal lingua franca for music</strong> by providing a "
 "reliable and unambiguous form of {doc|music identification}, enabling both "
 "people and machines to have meaningful conversations about music."
-msgstr ""
+msgstr "<strong>Muusika <em>lingua franca</em></strong>, pakkudes usaldusväärset ja ühetähenduslikku {doc|muusika tuvastamise} viisi ja võimaldades sellega nii inimestel kui ka masinatel muusikateemal tähenduslikke vestlusi pidada."
 
 #: ../root/components/common-macros.tt:639 ../root/recording/edit.tt:41
 #: ../root/release/edit/tracklist.tt:131
@@ -1609,7 +1609,7 @@ msgstr ""
 msgid ""
 "Become a part of our <strong>global community</strong> and <strong>start "
 "contributing!</strong>"
-msgstr ""
+msgstr "Liitu meie <strong>üleilmse kogukonnaga</strong> ja <strong>aita kaasa!</strong>"
 
 #: ../root/cdtoc/lookup.tt:89
 #, perl-format
@@ -1662,12 +1662,12 @@ msgstr ""
 #: ../root/layout/menu.tt:209
 #, perl-format
 msgid "Beginners Guide"
-msgstr ""
+msgstr "Alustusjuhend"
 
 #: ../root/main/index.tt:33
 #, perl-format
 msgid "Beginners guide"
-msgstr ""
+msgstr "Alustusjuhend"
 
 #: ../root/search/error/internal-error.tt:6
 #, perl-format
@@ -2185,7 +2185,7 @@ msgstr ""
 #: ../root/main/index.tt:86
 #, perl-format
 msgid "Community"
-msgstr ""
+msgstr "Kogukond"
 
 #: ../root/annotation/history.tt:38
 #, perl-format
@@ -2322,7 +2322,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/instruments.tt:8
 #, perl-format
 msgid "Create a new instrument"
-msgstr ""
+msgstr "Lisa uus instrument"
 
 #: ../root/relationship/linkattributetype/index.tt:8
 #, perl-format
@@ -2999,7 +2999,7 @@ msgstr ""
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
 msgid "Editing FAQ"
-msgstr ""
+msgstr "Toimetamise KKK"
 
 #: ../root/artist/layout.tt:114 ../root/label/layout.tt:86
 #: ../root/recording/layout.tt:59 ../root/release_group/layout.tt:60
@@ -3418,7 +3418,7 @@ msgstr "Vorming:"
 #: ../root/layout/menu.tt:239 ../root/layout.tt:163
 #, perl-format
 msgid "Forums"
-msgstr ""
+msgstr "Foorumid"
 
 #: ../root/relationship/linktype/form.tt:13
 #: ../root/relationship/linktype/tree.tt:12
@@ -3955,7 +3955,7 @@ msgstr ""
 msgid ""
 "If you're interested in receiving information from MusicBrainz staff or "
 "communicating with other users, {ml|please subscribe to our mailing lists}."
-msgstr ""
+msgstr "Kui soovid MusicBrainzi meeskonnalt infokirju saada või teiste kasutajatega suhelda, {ml|võid liituda meie postiloendiga}."
 
 #: ../root/components/common-macros.tt:80
 #, perl-format
@@ -4031,7 +4031,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/instruments.tt:3
 #, perl-format
 msgid "Instrument Tree"
-msgstr ""
+msgstr "Instrumendipuu"
 
 #: ../root/main/500.tt:1 ../root/main/500.tt:3
 #, perl-format
@@ -4212,12 +4212,12 @@ msgstr "Keel: {language}, kiri: {script}"
 #: ../root/account/edit.tt:33
 #, perl-format
 msgid "Languages Known:"
-msgstr ""
+msgstr "Keeleoskus:"
 
 #: ../root/user/profile.tt:116
 #, perl-format
 msgid "Languages:"
-msgstr ""
+msgstr "Keeled:"
 
 #: ../root/user/profile.tt:174
 #, perl-format
@@ -4280,7 +4280,7 @@ msgid ""
 "Like Wikipedia, MusicBrainz is maintained by a global community of users and"
 " we want everyone &mdash; including you &mdash; to {doc|participate and "
 "contribute}."
-msgstr ""
+msgstr "Nagu Wikipediat, hooldab ka MusicBrainzi üleilmne kasutajate kogukond ja me tahame, et kõik &mdash; ka sina &mdash; {doc|osaleks ja aitaks kaasa}."
 
 #: ../root/user/profile.tt:45
 #, perl-format
@@ -4418,7 +4418,7 @@ msgstr ""
 #: ../root/layout/menu.tt:235
 #, perl-format
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Postiloendid"
 
 #: ../root/taglookup/nag.tt:22
 #, perl-format
@@ -4676,7 +4676,7 @@ msgstr "MusicBrainz - Vaba muusikaentsüklopeedia"
 #: ../root/main/index.tt:5
 #, perl-format
 msgid "MusicBrainz Blog"
-msgstr ""
+msgstr "MusicBrainzi blogi"
 
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
@@ -4696,7 +4696,7 @@ msgstr "MusicBrainz Server"
 #: ../root/main/index.tt:49
 #, perl-format
 msgid "MusicBrainz aims to be:"
-msgstr ""
+msgstr "MusicBrainzi siht on olla:"
 
 #: ../root/account/register.tt:20
 #, perl-format
@@ -4728,7 +4728,7 @@ msgstr ""
 msgid ""
 "MusicBrainz is an open music encyclopedia that collects music metadata and "
 "makes it available to the public."
-msgstr ""
+msgstr "MusicBrainz on vaba muusikaentsüklopeedia, mis kogub andmeid muusika kohta ja teeb need üldsusele kättesaadavaks."
 
 #: ../root/main/index.tt:77
 #, perl-format
@@ -4736,7 +4736,7 @@ msgid ""
 "MusicBrainz is operated by the {uri|MetaBrainz Foundation}, a California "
 "based 501(c)(3) tax-exempt non-profit corporation dedicated to keeping "
 "MusicBrainz {free|free and open source}."
-msgstr ""
+msgstr "MusicBrainzi juhib {uri|MetaBrainz Foundation}, Californias asuv maksuvabastusega mittetulunduslik ettevõte, mis on pühendunud MusicBrainzi {free|avatud koodiga ja tasuta} hoidmisele."
 
 #: ../root/artist/add_alias.tt:4 ../root/artist/edit_alias.tt:4
 #, perl-format
@@ -5834,7 +5834,7 @@ msgstr "Eelvaade:"
 #: ../root/scripts/text_strings.tt:32
 #, perl-format
 msgid "Preview: "
-msgstr "Eelvaade:"
+msgstr "Eelvaade: "
 
 #: ../root/scripts/text_strings.tt:36
 #, perl-format
@@ -5890,7 +5890,7 @@ msgstr "Privaatkogu"
 #: ../root/user/privileged.tt:16
 #, perl-format
 msgid "Privileged User Accounts"
-msgstr "Eriõigustega kasutajakontod"
+msgstr "Eriõigustega kasutajad"
 
 #: ../root/layout/menu.tt:118
 #, perl-format
@@ -5925,7 +5925,7 @@ msgstr "Päring:"
 #: ../root/main/index.tt:30
 #, perl-format
 msgid "Quick Start"
-msgstr ""
+msgstr "Hea algus"
 
 #: ../root/edit/list_header.tt:4
 #, perl-format
@@ -5959,7 +5959,7 @@ msgstr "Hinnangud"
 #: ../root/main/index.tt:14
 #, perl-format
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Loe veel &raquo;"
 
 #: ../root/admin/wikidoc/index.tt:56
 #, perl-format
@@ -6790,7 +6790,7 @@ msgstr "Saada vearaport"
 #: ../root/layout/menu.tt:248
 #, perl-format
 msgid "Report a Copyright Violation"
-msgstr ""
+msgstr "Teata autoriõiguse rikkumisest"
 
 #: ../root/layout/menu.tt:200 ../root/report/index.tt:1
 #: ../root/report/index.tt:3
@@ -7025,7 +7025,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/index.tt:21
 #, perl-format
 msgid "See the {uri|full instrument tree}."
-msgstr ""
+msgstr "Vaata {uri|instrumendipuud}."
 
 #: ../root/cdtoc/attach_filter_artist.tt:35 ../root/cdtoc/move_search.tt:40
 #: ../root/release/edit/recordings.tt:329
@@ -7532,12 +7532,12 @@ msgstr ""
 #: ../root/layout/menu.tt:212
 #, perl-format
 msgid "Style Guidelines"
-msgstr ""
+msgstr "Stiilijuhised"
 
 #: ../root/edit/list_header.tt:25 ../root/main/index.tt:35
 #, perl-format
 msgid "Style guidelines"
-msgstr ""
+msgstr "Stiilijuhised"
 
 #: ../root/user/contact.tt:8
 #, perl-format
@@ -7649,7 +7649,7 @@ msgstr ""
 #: ../root/main/index.tt:20
 #, perl-format
 msgid "Tag Your Music"
-msgstr ""
+msgstr "Muusika sildistamine"
 
 #: ../root/search/index.tt:14
 #, perl-format
@@ -9393,7 +9393,7 @@ msgstr ""
 #: ../root/edit/info.tt:57 ../root/edit/list_header.tt:21
 #, perl-format
 msgid "Voting FAQ"
-msgstr ""
+msgstr "Hääletamise KKK"
 
 #: ../root/elections/show.tt:85
 #, perl-format
@@ -10394,7 +10394,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "{about|More Information} &mdash; {faq|FAQs} &mdash; {contact|Contact Us}"
-msgstr ""
+msgstr "{about|Lisateave} &mdash; {faq|KKK} &mdash; {contact|Kontakt}"
 
 #: ../root/artist/works-list.tt:36 ../root/iswc/index.tt:36
 #: ../root/otherlookup/results-work.tt:20 ../root/search/results-work.tt:26
@@ -10515,7 +10515,7 @@ msgstr ""
 #: ../root/release_group/details.tt:9 ../root/work/details.tt:9
 #, perl-format
 msgid "{mbid|<abbr title=\"MusicBrainz Identifier\">MBID</abbr>}:"
-msgstr ""
+msgstr "{mbid|<abbr title=\"MusicBrainzi identifikaator\">MBID</abbr>}:"
 
 #: ../root/tag/entity-list.tt:10
 #, perl-format
@@ -10702,7 +10702,7 @@ msgstr "« Eelmine"
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
 msgid "'{id}' is not a valid MusicBrainz ID"
-msgstr ""
+msgstr "„{id}” ei ole kehtiv MusicBrainzi ID"
 
 #: ../lib/MusicBrainz/Server/Controller.pm:115
 msgid ""
@@ -11545,19 +11545,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
-msgstr ""
+msgstr "Algtase"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:62
 msgid "Intermediate"
-msgstr ""
+msgstr "Kesktase"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:63
 msgid "Advanced"
-msgstr ""
+msgstr "Kõrgtase"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:64
 msgid "Native"
-msgstr ""
+msgstr "Emakeel"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:73
 msgid "You must supply a complete birth date for us to display your age."
