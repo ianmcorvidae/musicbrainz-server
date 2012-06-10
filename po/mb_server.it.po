@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-10 00:28+0000\n"
+"PO-Revision-Date: 2012-06-10 09:20+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -1064,7 +1064,7 @@ msgstr "Approva modifica"
 msgid ""
 "Are you sure that you want to merge {release1} by {artist1} into {release2} "
 "by {artist2}?"
-msgstr "Sei sicuro di voler unire {release1} di {artist1} a {release2} di {artist2}?"
+msgstr "Sei sicuro di voler unire {release1} di {artist1} con {release2} di {artist2}?"
 
 #: ../root/release/move_confirm.tt:4
 #, perl-format
@@ -4051,7 +4051,7 @@ msgstr ""
 #: ../root/edit/details/merge_works.tt:10
 #, perl-format
 msgid "Into:"
-msgstr ""
+msgstr "Con:"
 
 #: ../root/cdstub/error.tt:5
 #, perl-format
@@ -4499,17 +4499,17 @@ msgstr ""
 #: ../root/layout/merge-helper.tt:30 ../root/release/merge_search.tt:14
 #, perl-format
 msgid "Merge"
-msgstr ""
+msgstr "Unisci"
 
 #: ../root/artist/merge.tt:1 ../root/artist/merge.tt:3
 #, perl-format
 msgid "Merge Artists"
-msgstr ""
+msgstr "Unisci artisti"
 
 #: ../root/label/merge.tt:1 ../root/label/merge.tt:3
 #, perl-format
 msgid "Merge Labels"
-msgstr ""
+msgstr "Unisci etichette"
 
 #: ../root/layout/merge-helper.tt:3
 #, perl-format
@@ -4519,7 +4519,7 @@ msgstr ""
 #: ../root/recording/merge.tt:1 ../root/recording/merge.tt:3
 #, perl-format
 msgid "Merge Recordings"
-msgstr ""
+msgstr "Unisci registrazioni"
 
 #: ../root/release_group/merge.tt:1 ../root/release_group/merge.tt:3
 #, perl-format
@@ -4536,12 +4536,12 @@ msgstr "Unisci pubblicazioni"
 #: ../root/work/merge.tt:1 ../root/work/merge.tt:3
 #, perl-format
 msgid "Merge Works"
-msgstr ""
+msgstr "Unisci opere"
 
 #: ../root/artist/layout.tt:97
 #, perl-format
 msgid "Merge artist"
-msgstr ""
+msgstr "Unisci artista"
 
 #: ../root/edit/details/historic/merge_releases.tt:25
 #, perl-format
@@ -4551,7 +4551,7 @@ msgstr "Unisci attributi:"
 #: ../root/label/layout.tt:69
 #, perl-format
 msgid "Merge label"
-msgstr ""
+msgstr "Unisci etichetta"
 
 #: ../root/edit/details/historic/merge_releases.tt:30
 #, perl-format
@@ -4567,12 +4567,12 @@ msgstr "Unisci supporti e registrazioni"
 #: ../root/release/merge_confirm.tt:10
 #, perl-format
 msgid "Merge method:"
-msgstr ""
+msgstr "Metodo di unione:"
 
 #: ../root/recording/layout.tt:42
 #, perl-format
 msgid "Merge recording"
-msgstr ""
+msgstr "Unisci registrazione"
 
 #: ../root/release/sidebar.tt:77
 #, perl-format
@@ -4593,19 +4593,19 @@ msgstr "Unisci gruppi di pubblicazioni"
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
 msgid "Merge strategy:"
-msgstr ""
+msgstr "Strategia di unione:"
 
 #: ../root/work/layout.tt:45
 #, perl-format
 msgid "Merge work"
-msgstr ""
+msgstr "Unisci opera"
 
 #: ../root/edit/details/merge_common.tt:2
 #: ../root/edit/details/merge_recordings.tt:3
 #: ../root/edit/details/merge_works.tt:3
 #, perl-format
 msgid "Merge:"
-msgstr ""
+msgstr "Unisci:"
 
 #: ../root/user/contact.tt:11
 #, perl-format
@@ -6347,7 +6347,7 @@ msgstr ""
 #: ../root/report/index.tt:29
 #, perl-format
 msgid "Release groups that might need to be merged"
-msgstr ""
+msgstr "Gruppi di pubblicazioni che forse dovrebbero essere uniti"
 
 #: ../root/report/index.tt:28
 #, perl-format
