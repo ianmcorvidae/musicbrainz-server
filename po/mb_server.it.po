@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-10 22:59+0000\n"
+"PO-Revision-Date: 2012-06-10 23:04+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -3957,7 +3957,7 @@ msgstr ""
 msgid ""
 "If you're interested in receiving information from MusicBrainz staff or "
 "communicating with other users, {ml|please subscribe to our mailing lists}."
-msgstr ""
+msgstr "Se sei interessato a ricevere informazioni dallo staff di MusicBrainz o a comunicare con gli altri utenti, {ml|iscriviti alle nostre mailing list}."
 
 #: ../root/components/common-macros.tt:80
 #, perl-format
@@ -7603,7 +7603,7 @@ msgstr "Sottoscrittori"
 #: ../root/user/profile.tt:93
 #, perl-format
 msgid "Subscribers:"
-msgstr ""
+msgstr "Sottoscrittori:"
 
 #: ../root/artist/layout.tt:122 ../root/label/layout.tt:92
 #: ../root/layout/menu.tt:16 ../root/user/profile/layout.tt:12
@@ -8082,15 +8082,15 @@ msgstr[1] "Al momento ci sono {num} utenti sottoscritti alle modifiche di {user}
 #, perl-format
 msgid "There is currently {num} user subscribed to {artist}:"
 msgid_plural "There are currently {num} users subscribed to {artist}:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Al momento c'è {num} utente sottoscritto a {artist}:"
+msgstr[1] "Al momento ci sono {num} utenti sottoscritti a {artist}:"
 
 #: ../root/label/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {label}:"
 msgid_plural "There are currently {num} users subscribed to {label}:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Al momento c'è {num} utente sottoscritto a {label}:"
+msgstr[1] "Al momento ci sono {num} utenti sottoscritti a {label}:"
 
 #: ../root/search/editor-not-found.tt:4
 #, perl-format
@@ -9834,7 +9834,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:32
 #, perl-format
 msgid "You are currently subscribed. {unsub|Unsubscribe}?"
-msgstr ""
+msgstr "Al momento sei sottoscritto. Vuoi {unsub|annullare la sottoscrizione}?"
 
 #: ../root/watch/list.tt:7
 #, perl-format
@@ -9855,7 +9855,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:38
 #, perl-format
 msgid "You are not currently subscribed. {sub|Subscribe}?"
-msgstr ""
+msgstr "Al momento non sei sottoscritto. Vuoi {sub|sottoscriverti}?"
 
 #: ../root/watch/list.tt:32
 #, perl-format
@@ -10359,7 +10359,7 @@ msgstr ""
 #: ../root/user/profile.tt:104
 #, perl-format
 msgid "subscribe"
-msgstr ""
+msgstr "sottoscriviti"
 
 #: ../root/browse/page_selector.tt:37
 #, perl-format
@@ -10380,7 +10380,7 @@ msgstr ""
 #: ../root/user/profile.tt:102
 #, perl-format
 msgid "unsubscribe"
-msgstr ""
+msgstr "annulla sottoscrizione"
 
 #: ../root/components/common-macros.tt:589 ../root/edit/details/macros.tt:28
 #, perl-format
