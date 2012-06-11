@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-11 19:26+0000\n"
-"Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
+"PO-Revision-Date: 2012-06-11 20:39+0000\n"
+"Last-Translator: Timo Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2727,7 +2727,7 @@ msgstr "MusicBrainz tietokannassa kunkin kappaleen tulee olla linkitettynä ää
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Edit"
-msgstr "Muokkaus"
+msgstr "Muokkaa"
 
 #: ../root/edit/index.tt:9
 #, perl-format
@@ -3177,7 +3177,7 @@ msgstr ""
 #: ../root/components/aliases.tt:9
 #, perl-format
 msgid "End Date"
-msgstr "Lopetusajankotha"
+msgstr "Lopetusajankohta"
 
 #: ../root/elections/index.tt:12
 #, perl-format
@@ -3243,7 +3243,7 @@ msgid ""
 "is highly recommended. Not only does it make it clear where you got your "
 "information, but it can also encourage other users to vote on your edit "
 "&mdash; thus making your edit get applied faster."
-msgstr "{note|Muokkausmerkintä}, joka kertoo mistä tiedot on saatu on erittäin suositeltava. Sen lisäksi, että siitä tulee selville mistä tiedot tulevat, se helpottaa muita käyttäjiä äänestämään muokkaustasi &mdash; mikä taas nopeuttaa sen hyväksymistä."
+msgstr "{note|Muokkausmerkintä}, joka kertoo mistä tiedot on saatu on erittäin suositeltava. Sen lisäksi, että siitä tulee selville tietojen lähde, se helpottaa muita käyttäjiä äänestämään muokkaustasi &mdash; mikä taas nopeuttaa sen hyväksymistä."
 
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
@@ -5547,7 +5547,7 @@ msgstr "Tarkista varmuuden vuoksi julkaisun viivakoodi uudelleen."
 msgid ""
 "Please enter tags in the text area below. Tags are comma separated, and you "
 "may wish to see the {tagsyn|tag syntax documentation} for more information"
-msgstr "Lisää luokitukset alle, erottaen ne pilkulla toisistaan. Halutessasi voit tutustua dokumentaatioon {tagsyn|luokitteiden syntaksista} saadaksesi lisätietoja aiheesta."
+msgstr "Lisää luokitukset alle, erottaen ne pilkulla toisistaan. Halutessasi voit tutustua dokumentaatioon {tagsyn|luokitteiden syntaksista}, saadaksesi lisätietoja aiheesta."
 
 #: ../root/release/edit/information.tt:158
 #, perl-format
@@ -9185,7 +9185,7 @@ msgstr "Url"
 #: ../root/components/tags.tt:12
 #, perl-format
 msgid "Usage Count"
-msgstr "Käyttökerta"
+msgstr "Käyttökerrat"
 
 #: ../root/components/common-macros.tt:444
 #, perl-format
