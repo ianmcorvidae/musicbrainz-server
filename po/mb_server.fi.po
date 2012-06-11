@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-11 14:39+0000\n"
+"PO-Revision-Date: 2012-06-11 15:08+0000\n"
 "Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -94,7 +94,7 @@ msgstr ""
 #: ../root/relationship/linktype/tree.tt:38
 #, perl-format
 msgid "&lt; Back to all relationship types"
-msgstr ""
+msgstr "&lt; Takaisin kaikkiin yhteystyyppeihin"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:29
 #, perl-format
@@ -195,7 +195,7 @@ msgstr "(yksityinen)"
 #: ../root/search/lib/inline-results-recording.tt:60
 #, perl-format
 msgid "(standalone recording)"
-msgstr ""
+msgstr "(yksittäinen äänite)"
 
 #: ../root/edit/details/convert_release_to_multiple_artists.tt:11
 #: ../root/edit/details/historic/mac_to_sac.tt:8
@@ -420,7 +420,7 @@ msgstr "Hyväksy muokkaus"
 #: ../root/components/common-macros.tt:512
 #, perl-format
 msgid "Accept upon expiration"
-msgstr ""
+msgstr "Hyväksytään vanhentuessaan"
 
 #: ../root/user/profile.tt:144
 #, perl-format
@@ -1494,7 +1494,7 @@ msgstr "Auto-editori"
 #: ../root/layout/menu.tt:98
 #, perl-format
 msgid "Auto-editor Elections"
-msgstr "Auto-editori vaalit"
+msgstr "Auto-editorivaalit"
 
 #: ../root/elections/show.tt:1 ../root/elections/show.tt:3
 #, perl-format
@@ -1784,7 +1784,7 @@ msgstr "Selaa teoksia"
 #: ../root/layout.tt:164
 #, perl-format
 msgid "Bug Tracker"
-msgstr ""
+msgstr "Virheiden seuranta"
 
 #: ../root/release/lookup.tt:1
 #, perl-format
@@ -1906,7 +1906,7 @@ msgstr "Peruuta vaalit."
 msgid ""
 "Cancelling a pending edit will take effect within an hour, while removing an"
 " artist alias has to be voted on according to the voting process."
-msgstr ""
+msgstr "Vireillä olevan muokkauksen peruuttaminen tapahtuu tunnin sisällä, mutta artistin aliaksen poistamisesta täytyy äänestää normaalin äänestyskäytännön mukaisesti. "
 
 #: ../root/work/delete_alias.tt:16
 #, perl-format
@@ -1935,12 +1935,12 @@ msgstr ""
 #: ../root/edit/relationship/cannot_create.tt:2
 #, perl-format
 msgid "Cannot Create Relationship"
-msgstr ""
+msgstr "Yhteyden luominen ei ole mahdollista"
 
 #: ../root/recording/cannot_add.tt:1
 #, perl-format
 msgid "Cannot add recordings"
-msgstr ""
+msgstr "Äänitteen lisääminen ei ole mahdollista"
 
 #: ../root/artist/special_purpose.tt:1
 #, perl-format
@@ -2326,17 +2326,17 @@ msgstr "Luo uusi kokoelma"
 #: ../root/relationship/linkattributetype/instruments.tt:8
 #, perl-format
 msgid "Create a new instrument"
-msgstr ""
+msgstr "Lisää uusi soitin"
 
 #: ../root/relationship/linkattributetype/index.tt:8
 #, perl-format
 msgid "Create a new relationship attribute"
-msgstr ""
+msgstr "Lisää uusi yhteyden ominaisuus"
 
 #: ../root/relationship/linktype/tree.tt:43
 #, perl-format
 msgid "Create a new {type0}-{type1} relationship"
-msgstr ""
+msgstr "Lisää uusi {type0}-{type1}-yhteys"
 
 #: ../root/account/register.tt:5 ../root/account/register.tt:12
 #, perl-format
@@ -2673,7 +2673,7 @@ msgstr "Dokumentaatio"
 #: ../root/search/results-doc.tt:1 ../root/search/results-doc.tt:3
 #, perl-format
 msgid "Documentation Search"
-msgstr ""
+msgstr "Etsi dokumentaatiosta"
 
 #: ../root/user/login.tt:12
 #, perl-format
@@ -3182,7 +3182,7 @@ msgstr "Lopetusajankotha"
 #: ../root/elections/index.tt:12
 #, perl-format
 msgid "End date"
-msgstr ""
+msgstr "Päättymisajankohta"
 
 #: ../root/alias/edit_form.tt:22 ../root/artist/edit_form.tt:53
 #: ../root/edit/details/add_artist_alias.tt:42
@@ -3343,7 +3343,7 @@ msgstr "Ulkopuoliset linkit"
 #: ../root/release/edit/information.tt:43
 #, perl-format
 msgid "Extra Types:"
-msgstr ""
+msgstr "Lisätyypit:"
 
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:36
 #, perl-format
@@ -5547,7 +5547,7 @@ msgstr "Tarkista varmuuden vuoksi julkaisun viivakoodi uudelleen."
 msgid ""
 "Please enter tags in the text area below. Tags are comma separated, and you "
 "may wish to see the {tagsyn|tag syntax documentation} for more information"
-msgstr ""
+msgstr "Lisää luokitukset alle, erottaen ne pilkulla toisistaan. Halutessasi voit tutustua dokumentaatioon {tagsyn|luokitteiden syntaksista} saadaksesi lisätietoja aiheesta."
 
 #: ../root/release/edit/information.tt:158
 #, perl-format
@@ -8424,7 +8424,7 @@ msgstr "Tämä yhteys on päättynyt."
 #: ../root/release/edit/information.tt:100
 #, perl-format
 msgid "This release does not have a barcode"
-msgstr ""
+msgstr "Tällä julkaisulla ei ole viivakoodia"
 
 #: ../root/release_group/delete.tt:17
 #, perl-format
@@ -8815,7 +8815,7 @@ msgstr "Samannimisiä yhtyeitä yhteensä: {count}"
 #: ../root/cdstub/index.tt:21 ../root/cdtoc/info.tt:23
 #, perl-format
 msgid "Total length:"
-msgstr ""
+msgstr "Yhteiskesto:"
 
 #: ../root/report/featuring_recordings.tt:7
 #: ../root/report/recordings_with_earliest_release_relationships.tt:7
@@ -8866,7 +8866,7 @@ msgstr ""
 #: ../root/cdstub/index.tt:17 ../root/cdtoc/info.tt:19
 #, perl-format
 msgid "Total tracks:"
-msgstr ""
+msgstr "Kappaleiden määrä:"
 
 #: ../root/cdtoc/info.tt:31 ../root/freedb/show.tt:11
 #: ../root/freedb/show.tt:63 ../root/search/lib/inline-results-recording.tt:15
@@ -9175,7 +9175,7 @@ msgstr "Päivitä kokoelma"
 #: ../root/release/edit/tracklist.tt:479
 #, perl-format
 msgid "Uppercase roman numerals"
-msgstr ""
+msgstr "Roomalaiset numerot isoin kirjaimin "
 
 #: ../root/url/edits.tt:19
 #, perl-format
@@ -9292,7 +9292,7 @@ msgstr "Versio:"
 #: ../root/layout/sidebar/sidebar-favicons.tt:24
 #, perl-format
 msgid "View all relationships"
-msgstr "Näytä kaikki yhteydet"
+msgstr "Näytä kaikki suhteet"
 
 #: ../root/annotation/common.tt:21
 #, perl-format
@@ -9434,7 +9434,7 @@ msgstr "Varoitus:"
 #: ../root/watch/list.tt:1 ../root/watch/list.tt:2
 #, perl-format
 msgid "Watched Artists"
-msgstr ""
+msgstr "Seuratut artistit"
 
 #: ../root/report/not_available.tt:6
 #, perl-format
@@ -9681,7 +9681,7 @@ msgstr "XML-verkkopalvelu"
 #: ../root/release_group/details.tt:30 ../root/work/details.tt:30
 #, perl-format
 msgid "XML:"
-msgstr ""
+msgstr "XML:"
 
 #: ../root/artist/browse_various.tt:13 ../root/artist/index.tt:67
 #: ../root/search/results-freedb.tt:14
@@ -9756,7 +9756,7 @@ msgstr "Olet lisäämässä ISWC-koodia teokseen {work}. ISWC-koodi tulee syött
 #: ../root/artist/edit_form.tt:3
 #, perl-format
 msgid "You are about to add an artist to MusicBrainz."
-msgstr ""
+msgstr "Olet lisäämässä artistia MusicBrainziin."
 
 #: ../root/cdtoc/set_durations.tt:4
 #, perl-format
@@ -9841,7 +9841,7 @@ msgstr "Seuraat muutoksia. {unsub|Lopeta seuraaminen}?"
 #: ../root/watch/list.tt:7
 #, perl-format
 msgid "You are currently watching the following artists for new releases."
-msgstr ""
+msgstr "Seuraat seuraavien artistien uusia julkaisuja. "
 
 #: ../root/edit/notes.tt:45
 #, perl-format
@@ -9862,7 +9862,7 @@ msgstr "Et seuraa muutoksia. {sub|Aloita seuraaminen}?"
 #: ../root/watch/list.tt:32
 #, perl-format
 msgid "You are not currently watching any artists for new releases."
-msgstr ""
+msgstr "Et seuraa yhdenkään artistin uusia julkaisuja."
 
 #: ../root/artist/edit_form.tt:28
 #, perl-format
@@ -9883,7 +9883,7 @@ msgstr "Sinun tulee syöttää täsmennyskommentti, jonka avulla käyttäjät vo
 #: ../root/cdtoc/attach_artist_releases.tt:24
 #, perl-format
 msgid "You are viewing releases by {artist}."
-msgstr ""
+msgstr "Katsot artistin {artist} julkaisuja."
 
 #: ../root/cdtoc/lookup.tt:98
 #, perl-format
@@ -10082,7 +10082,7 @@ msgstr "lisää täsmennyskommentti"
 #: ../root/edit/search_macros.tt:153
 #, perl-format
 msgid "after"
-msgstr ""
+msgstr "jälkeen"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
@@ -10099,12 +10099,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "artists"
-msgstr ""
+msgstr "artistit"
 
 #: ../root/edit/search_macros.tt:153
 #, perl-format
 msgid "before"
-msgstr ""
+msgstr "ennen"
 
 #: ../root/edit/search_macros.tt:153
 #, perl-format
@@ -10150,7 +10150,7 @@ msgstr "päättynyt"
 #: ../root/components/common-macros.tt:578 ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "from {begin_date} until {end_date}"
-msgstr ""
+msgstr "{begin_date} alkaen {end_date} asti"
 
 #: ../root/components/common-macros.tt:584 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10190,17 +10190,17 @@ msgstr ""
 #: ../root/edit/search_macros.tt:119
 #, perl-format
 msgid "is after"
-msgstr ""
+msgstr "on jälkeen"
 
 #: ../root/edit/search_macros.tt:119
 #, perl-format
 msgid "is before"
-msgstr ""
+msgstr "on ennen"
 
 #: ../root/edit/search_macros.tt:119 ../root/edit/search_macros.tt:136
 #, perl-format
 msgid "is between"
-msgstr ""
+msgstr "on välissä"
 
 #: ../root/edit/search_macros.tt:249
 #, perl-format
@@ -10210,12 +10210,12 @@ msgstr "on seuraamissani kohteissa"
 #: ../root/edit/search_macros.tt:136
 #, perl-format
 msgid "is less than"
-msgstr ""
+msgstr "on vähemmän kuin"
 
 #: ../root/edit/search_macros.tt:136
 #, perl-format
 msgid "is more than"
-msgstr ""
+msgstr "on enemmän kuin"
 
 #: ../root/edit/search_macros.tt:119 ../root/edit/search_macros.tt:136
 #: ../root/edit/search_macros.tt:153 ../root/edit/search_macros.tt:170
@@ -10351,7 +10351,7 @@ msgstr "lähetä sähköposti"
 #: ../root/cdtoc/attach_list.tt:35
 #, perl-format
 msgid "show tracklist"
-msgstr ""
+msgstr "näytä kappalelista"
 
 #: ../root/browse/page_selector.tt:43
 #, perl-format
@@ -10387,7 +10387,7 @@ msgstr "Lopeta muutosten seuraaminen"
 #: ../root/components/common-macros.tt:589 ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "until {date}"
-msgstr ""
+msgstr "kunnes {date}"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -10512,7 +10512,7 @@ msgstr ""
 #: ../root/components/relationships.tt:69
 #, perl-format
 msgid "{link} has no relationships."
-msgstr ""
+msgstr "Ei yhteyteksiä kohteelle {link}."
 
 #: ../root/artist/details.tt:9 ../root/label/details.tt:9
 #: ../root/recording/details.tt:9 ../root/release/details.tt:9
@@ -10618,23 +10618,23 @@ msgstr ""
 #, perl-format
 msgid "{release} has been added to {num} collection:"
 msgid_plural "{release} has been added to {num} collections:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{release} on lisätty {num} kokoelmaan:"
+msgstr[1] "{release} on lisätty {num} kokoelmaan:"
 
 #: ../root/release/collections.tt:23
 #, perl-format
 msgid "{release} has not been added to any collections."
-msgstr ""
+msgstr "Julkaisua {release} ei ole lisätty yhteenkään kokoelmaan."
 
 #: ../root/relationship/linktype/tree.tt:34
 #, perl-format
 msgid "{type0}-{type1} Relationship Types"
-msgstr ""
+msgstr "{type0}-{type1} julkaisutyypit"
 
 #: ../root/relationship/linktype/tree.tt:40
 #, perl-format
 msgid "{type0}-{type1} relationship types"
-msgstr ""
+msgstr "{type0}-{type1} julkaisutyypit"
 
 #: ../root/work/layout.tt:1
 #, perl-format
@@ -10649,12 +10649,12 @@ msgstr "{uri|Lisää URL-osoite}"
 #: ../root/layout/sidebar/sidebar-affiliates.tt:10
 #, perl-format
 msgid "{uri|Search on SoundUnwound}"
-msgstr ""
+msgstr "{uri|Etsi SoundUnwound-palvelusta}"
 
 #: ../root/user/profile/layout.tt:8
 #, perl-format
 msgid "{user}"
-msgstr ""
+msgstr "{user}"
 
 #: ../root/user/collections.tt:32
 #, perl-format
@@ -10669,7 +10669,7 @@ msgstr "{user} ei ole arvostellut mitään."
 #: ../root/user/tag.tt:22
 #, perl-format
 msgid "{user} has not tagged anything with '{tag}'."
-msgstr ""
+msgstr "{user} ei ole luokitellut mitään luokitteella \"{tag}\"."
 
 #: ../root/user/tags.tt:7
 #, perl-format
@@ -10693,7 +10693,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:50 ../root/edit/index.tt:33
 #, perl-format
 msgid "{yes} yes : {no} no"
-msgstr ""
+msgstr "{yes} kyllä : {no} ei"
 
 #: ../root/release/edit/duplicates.tt:46 ../root/release/edit/editnote.tt:41
 #: ../root/release/edit/missing_entities.tt:131
@@ -10701,7 +10701,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:493
 #, perl-format
 msgid "« Previous"
-msgstr ""
+msgstr "« Aiempi"
 
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
@@ -10965,7 +10965,7 @@ msgstr "Tällä levyn tunnisteella on jo CD-tynkä"
 #: ../lib/MusicBrainz/Server/Data/LinkType.pm:149
 #, perl-brace-format
 msgid "{t0}-{t1} relationships"
-msgstr ""
+msgstr "{t0}-{t1}-yhteydet"
 
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:174
 msgid "Total"
@@ -11337,7 +11337,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:116
 #, perl-brace-format
 msgid "{b} and {a}"
-msgstr ""
+msgstr "{b} ja {a}"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:25
 msgid "Filter release groups"
@@ -11345,11 +11345,11 @@ msgstr "Suodata julkaisuryhmiä"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:39
 msgid "Filter releases"
-msgstr ""
+msgstr "Suodata julkaisut"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:53
 msgid "Filter recordings"
-msgstr ""
+msgstr "Suodata äänitteet"
 
 #: ../lib/MusicBrainz/Server/Form/Alias.pm:82
 msgid "This alias can only be a primary alias if a locale is selected"
@@ -11414,7 +11414,7 @@ msgstr "Valitse kohde johon haluat yhdistää muut."
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:61
 msgid "Another medium is already in this position"
-msgstr ""
+msgstr "Toinen tallenne löytyy jo tästä sijainnista."
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:64
 msgid "Positions must be greater than 0"
@@ -11426,7 +11426,7 @@ msgstr "Muokkausmerkintä vaaditaan lisättäessä yksittäinen äänite"
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:13
 msgid "Link type is required"
-msgstr ""
+msgstr "Linkin tyyppiä vaaditaan. "
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:88
 msgid ""
@@ -11436,20 +11436,20 @@ msgstr "Tämä yhteystyyppi ryhmittää muita yhteystyyppejä. Valitse jokin yht
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:95
 msgid "This relationship type is deprecated."
-msgstr ""
+msgstr "Tämä yhteystyyppi on vanhentunut. "
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:115
 msgid "This attribute is not supported for the selected relationship type."
-msgstr ""
+msgstr "Tätä ominaisuutta ei tueta valitulle yhteystyypille."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:126
 msgid "This attribute is required."
-msgstr ""
+msgstr "Tätä ominaisuutta vaaditaan."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:131
 #, perl-brace-format
 msgid "This attribute can only be specified {max} times. You specified {n}."
-msgstr ""
+msgstr "Tämä ominaisuus voidaan määritellä maksimissaan {max} kertaa. Olet tehnyt sen {n} kertaa."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/EditNote.pm:27
 msgid ""
@@ -11471,7 +11471,7 @@ msgstr "Valitse olemassa oleva julkaisuryhmä. Jos haluat siirtää tämän julk
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:60
 msgid "New tracklisting contains an empty track"
-msgstr ""
+msgstr "Uusi kappalelista sisältää tyhjän kappaleen."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:65
 #, perl-brace-format
@@ -11491,7 +11491,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:88
 #, perl-brace-format
 msgid "An artist is required on track {pos}"
-msgstr ""
+msgstr "Artistia ei ole määritelty kappaleelle {pos}"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:115
 #, perl-brace-format
@@ -11525,7 +11525,7 @@ msgstr "Tällä tallenteella on jo levyn tunniste, joten tallenteen muodon voi v
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:222
 msgid "A release must have at least one medium."
-msgstr ""
+msgstr "Julkaisulla tulee olla vähintään yksi tallenne."
 
 #: ../lib/MusicBrainz/Server/Form/Role/DatePeriod.pm:42
 msgid "The end date must occur on or after the begin date"
