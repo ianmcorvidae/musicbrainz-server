@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-10 23:04+0000\n"
+"PO-Revision-Date: 2012-06-11 12:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -272,7 +272,7 @@ msgstr "<abbr title=\"Identificatore di MusicBrainz\">MBID</abbr> submitter"
 #: ../root/edit/info.tt:42
 #, perl-format
 msgid "<em>Cancelling</em>"
-msgstr "<em>Annullamento</em>"
+msgstr "<em>Annullamento in corso</em>"
 
 #: ../root/annotation/history.tt:31
 #, perl-format
@@ -282,12 +282,12 @@ msgstr "<em>nessun registro delle modifiche specificato</em>"
 #: ../root/edit/edit_header.tt:62
 #, perl-format
 msgid "<strong>Closed:</strong> <em>Cancelling</em>"
-msgstr ""
+msgstr "<strong>Chiusa:</strong> <em>Annullamento in corso</em>"
 
 #: ../root/edit/edit_header.tt:64
 #, perl-format
 msgid "<strong>Closed:</strong> {date}"
-msgstr ""
+msgstr "<strong>Chiusa:</strong> {date}"
 
 #: ../root/browse/page_selector.tt:24
 #, perl-format
@@ -1085,12 +1085,12 @@ msgstr ""
 msgid ""
 "Are you sure you want to delete all information about {e}? This cannot be "
 "undone!"
-msgstr ""
+msgstr "Sei sicuro di voler eliminare tutte le informazioni su {e}? Quest'operazione non può essere annullata!"
 
 #: ../root/admin/delete_user.tt:20
 #, perl-format
 msgid "Are you sure you want to delete your account? This cannot be undone!"
-msgstr ""
+msgstr "Sei sicuro di voler eliminare il tuo account? Quest'operazione non può essere annullata!"
 
 #: ../root/elections/nominate.tt:5
 #, perl-format
@@ -1130,7 +1130,7 @@ msgstr ""
 #: ../root/collection/delete.tt:4
 #, perl-format
 msgid "Are you sure you want to remove the collection {collection}?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere la collezione {collection}?"
 
 #: ../root/cdtoc/remove.tt:5
 #, perl-format
@@ -1142,14 +1142,14 @@ msgstr "Sei sicuro di voler rimuovere l'ID disco <code>{discid}</code> dalla pub
 #: ../root/edit/cancel.tt:3
 #, perl-format
 msgid "Are you sure you wish to cancel edit #{n}? This cannot be undone!"
-msgstr "Sei sicuro di voler cancellare l'edit #{n}? Quest'operazione non può essere annullata!"
+msgstr "Sei sicuro di voler annullare l'edit #{n}? Quest'operazione non può essere annullata!"
 
 #: ../root/admin/wikidoc/delete.tt:4
 #, perl-format
 msgid ""
 "Are you sure you wish to remove <strong>{page}</strong> from the "
 "transclusion table?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere <strong>{page}</strong> dalla tabella di transclusione?"
 
 #: ../root/relationship/linkattributetype/delete.tt:6
 #, perl-format
@@ -1163,14 +1163,14 @@ msgstr "Sei sicuro di voler rimuovere l'attributo di relazione <strong>{link_att
 msgid ""
 "Are you sure you wish to remove the <strong>{link_type}</strong> "
 "relationship type?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere il tipo di relazione <strong>{link_type}</strong>?"
 
 #: ../root/isrc/delete.tt:5
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the ISRC <code>{isrc}</code> from "
 "{recording} by {artist}?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere l'ISRC <code>{isrc}</code> da {recording} di {artist}?"
 
 #: ../root/iswc/delete.tt:5
 #, perl-format
@@ -1188,19 +1188,19 @@ msgstr ""
 #: ../root/label/delete.tt:8
 #, perl-format
 msgid "Are you sure you wish to remove the label {label} from MusicBrainz?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere l'etichetta {label} da MusicBrainz?"
 
 #: ../root/recording/delete.tt:8
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the recording {recording} from MusicBrainz?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere la registrazione {recording} da MusicBrainz?"
 
 #: ../root/edit/relationship/delete.tt:6
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the relationship: {entity0} {relationship}?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere la relazione: {entity0} {relationship}?"
 
 #: ../root/release_group/delete.tt:5
 #, perl-format
@@ -1255,7 +1255,7 @@ msgstr "Artista"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Artist Country"
-msgstr ""
+msgstr "Paese dell'artista"
 
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
@@ -2112,12 +2112,12 @@ msgstr ""
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Closed"
-msgstr ""
+msgstr "Chiusa"
 
 #: ../root/edit/info.tt:42
 #, perl-format
 msgid "Closed:"
-msgstr ""
+msgstr "Chiusa:"
 
 #: ../root/search/results-label.tt:13
 #, perl-format
@@ -3262,7 +3262,7 @@ msgstr "Errore durante l'approvazione della modifica"
 #: ../root/edit/cannot_cancel.tt:1 ../root/edit/cannot_cancel.tt:2
 #, perl-format
 msgid "Error Cancelling Edit"
-msgstr "Errore durante la cancellazione della modifica"
+msgstr "Errore durante l'annullamento della modifica"
 
 #: ../root/main/400.tt:8 ../root/main/404.tt:12 ../root/main/500.tt:37
 #, perl-format
@@ -5304,7 +5304,7 @@ msgstr ""
 msgid ""
 "Only the user who created an edit can cancel it, either you did not create "
 "{edit} or perhaps it has already been closed."
-msgstr ""
+msgstr "Solo l'utente che ha creato una modifica la può cancellare: non hai creato tu {edit} o forse la modifica è già stata chiusa."
 
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
@@ -7871,7 +7871,7 @@ msgstr "Gli inizi del progetto"
 #: ../root/edit/cannot_approve.tt:6
 #, perl-format
 msgid "The edit has already been closed."
-msgstr ""
+msgstr "La modifica è già stata chiusa."
 
 #: ../root/edit/cannot_approve.tt:8
 #, perl-format
@@ -8105,7 +8105,7 @@ msgstr "C'è stato un problema nell'approvazione della modifica {edit}."
 #: ../root/edit/cannot_cancel.tt:3
 #, perl-format
 msgid "There was a problem cancelling {edit}."
-msgstr "C'è stato un problema nella cancellazione della modifica {edit}."
+msgstr "C'è stato un problema nell'annullamento della modifica {edit}."
 
 #: ../root/release/edit/layout.tt:37
 #, perl-format
@@ -8240,12 +8240,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit was cancelled."
-msgstr ""
+msgstr "Questa modifica è stata annullata."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit was recently cancelled."
-msgstr ""
+msgstr "Questa modifica è stata annullata da poco."
 
 #: ../root/components/common-macros.tt:187
 #: ../lib/MusicBrainz/Server/Plugin/Diff.pm:118
@@ -9400,7 +9400,7 @@ msgstr ""
 #: ../root/elections/show.tt:85
 #, perl-format
 msgid "Voting is closed."
-msgstr ""
+msgstr "La votazione si è conclusa."
 
 #: ../root/elections/show.tt:83
 #, perl-format
@@ -9947,7 +9947,7 @@ msgstr ""
 msgid ""
 "You may enter an edit note while cancelling this edit. This can be useful to"
 " point editors to another edit."
-msgstr ""
+msgstr "Puoi inserire una nota di modifica durante l'annullamento di questa modifica: può essere utile per indirizzare gli editor verso un'altra modifica."
 
 #: ../root/artist/special_purpose.tt:2
 #, perl-format
