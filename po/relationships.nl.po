@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-06-11 20:58+0000\n"
+"PO-Revision-Date: 2012-06-11 21:31+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1412,28 +1412,28 @@ msgstr ""
 msgid ""
 "This links a label to its profile at SoundCloud. (<a "
 "href=\"http://musicbrainz.org/doc/SoundCloud_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Dit koppelt een platenmaatschappij aan haar profiel op SoundCloud. (<a href=\"http://musicbrainz.org/doc/SoundCloud_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:302
 msgid "This links a recording to a license under which it is available."
-msgstr ""
+msgstr "Dit koppelt een opname aan een licentie waaronder het beschikbaar is."
 
 #: DB:link_type/description:287
 msgid ""
 "This links a release group and the URL of that release group's official "
 "site. (<a "
 "href=\"http://musicbrainz.org/doc/Official_Homepage_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Dit koppelt een uitgavegroep aan de URL van de officiële site van die uitgavegroep. (<a href=\"http://musicbrainz.org/doc/Official_Homepage_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:301
 msgid "This links a release to a license under which it is available."
-msgstr ""
+msgstr "Dit koppelt een uitgave aan een licentie waaronder het beschikbaar is."
 
 #: DB:link_type/description:292
 msgid ""
 "This links an (fictional) artist to the person that voice acted it. (<a "
 "href=\"http://musicbrainz.org/doc/Voice_Actor_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Dit koppelt een (fictieve) artiest aan de persoon die deze heeft ingesproken. (<a href=\"http://musicbrainz.org/doc/Voice_Actor_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:303
 msgid ""
@@ -1811,7 +1811,7 @@ msgstr "bas-bariton"
 
 #: DB:link_type/link_phrase:182
 msgid "biographies"
-msgstr "biografieën"
+msgstr "biografiën"
 
 #: DB:link_type/reverse_link_phrase:182
 msgid "biography of"
@@ -2042,7 +2042,7 @@ msgstr "gratis downloaden"
 
 #: DB:link_type/link_phrase:177
 msgid "download music for free"
-msgstr ""
+msgstr "download gratis muziek"
 
 #: DB:link_type/reverse_link_phrase:74 DB:link_type/reverse_link_phrase:176
 #: DB:link_type/reverse_link_phrase:254
@@ -2506,7 +2506,7 @@ msgstr "juridische vertegenwoordiging"
 
 #: DB:link_type/reverse_link_phrase:259
 msgid "legal representation for"
-msgstr ""
+msgstr "juridische vertegenwoordiging voor"
 
 #: DB:link_attribute_type/name:253 DB:link_type/link_phrase:302
 #: DB:link_type/link_phrase:301
@@ -2762,7 +2762,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:108 DB:link_type/short_link_phrase:108
 msgid "performs as"
-msgstr ""
+msgstr "treed op als"
 
 #: DB:link_type/link_phrase:113 DB:link_type/reverse_link_phrase:113
 #: DB:link_type/short_link_phrase:113
@@ -2783,7 +2783,7 @@ msgstr "vorig medium"
 
 #: DB:link_attribute_type/name:618
 msgid "principal"
-msgstr ""
+msgstr "voornaamst"
 
 #: DB:link_type/link_phrase:49 DB:link_type/short_link_phrase:49
 msgid "produced material that was {additional:additionally} sampled in"
@@ -3058,19 +3058,19 @@ msgstr ""
 
 #: DB:link_type/link_phrase:65
 msgid "tribute albums"
-msgstr ""
+msgstr "hommagealbums"
 
 #: DB:link_type/reverse_link_phrase:65
 msgid "tribute to"
-msgstr ""
+msgstr "hommage aan"
 
 #: DB:link_attribute_type/name:582
 msgid "video"
-msgstr ""
+msgstr "video"
 
 #: DB:link_type/link_phrase:303 DB:link_type/link_phrase:304
 msgid "video channel"
-msgstr ""
+msgstr "videokanaal"
 
 #: DB:link_type/reverse_link_phrase:303 DB:link_type/reverse_link_phrase:304
 msgid "video channel for"
@@ -3078,11 +3078,11 @@ msgstr "videokanaal van"
 
 #: DB:link_attribute_type/name:3
 msgid "vocal"
-msgstr ""
+msgstr "vocaal"
 
 #: DB:link_type/link_phrase:292
 msgid "voice of"
-msgstr ""
+msgstr "stem van"
 
 #: DB:link_type/reverse_link_phrase:292
 msgid "voiced by"
@@ -3260,7 +3260,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:293 DB:link_type/reverse_link_phrase:295
 #: DB:link_type/reverse_link_phrase:297
 msgid "{additional} arranger"
-msgstr ""
+msgstr "{aanvullend} arrangeur"
 
 #: DB:link_type/link_phrase:137 DB:link_type/link_phrase:18
 #: DB:link_type/reverse_link_phrase:137 DB:link_type/reverse_link_phrase:18
@@ -3270,7 +3270,7 @@ msgstr ""
 #: DB:link_type/link_phrase:53 DB:link_type/link_phrase:152
 #: DB:link_type/reverse_link_phrase:53 DB:link_type/reverse_link_phrase:152
 msgid "{additional} chorus master"
-msgstr ""
+msgstr "{aanvullend} koordirigent"
 
 #: DB:link_type/reverse_link_phrase:55 DB:link_type/reverse_link_phrase:168
 msgid "{additional} composer"
@@ -3302,13 +3302,13 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:164 DB:link_type/reverse_link_phrase:300
 msgid "{additional} orchestrator"
-msgstr ""
+msgstr "{aanvullend} orkestrator"
 
 #: DB:link_type/link_phrase:123 DB:link_type/link_phrase:250
 #: DB:link_type/link_phrase:20 DB:link_type/reverse_link_phrase:123
 #: DB:link_type/reverse_link_phrase:250 DB:link_type/reverse_link_phrase:20
 msgid "{additional} photography"
-msgstr ""
+msgstr "{aanvullende} fotografie"
 
 #: DB:link_type/reverse_link_phrase:47 DB:link_type/reverse_link_phrase:153
 msgid "{additional} remixer"
@@ -3316,11 +3316,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:231
 msgid "{additional} samples"
-msgstr ""
+msgstr "{aanvullende} samples"
 
 #: DB:link_type/reverse_link_phrase:54 DB:link_type/reverse_link_phrase:167
 msgid "{additional} writer"
-msgstr ""
+msgstr "{aanvullend} schrijver"
 
 #: DB:link_type/reverse_link_phrase:140 DB:link_type/reverse_link_phrase:31
 msgid "{additional} {assistant} {associate} {co:co-}audio engineer"
@@ -3406,7 +3406,7 @@ msgstr ""
 #: DB:link_type/link_phrase:45 DB:link_type/link_phrase:150
 #: DB:link_type/reverse_link_phrase:45 DB:link_type/reverse_link_phrase:150
 msgid "{additional} {orchestra} orchestra"
-msgstr ""
+msgstr "{aanvullend} {orchestra}orkest"
 
 #: DB:link_type/link_phrase:57 DB:link_type/reverse_link_phrase:57
 #: DB:link_type/reverse_link_phrase:169
@@ -3472,7 +3472,7 @@ msgstr "{vertaalde} {parodie}-versie van"
 
 #: DB:link_type/short_link_phrase:85 DB:link_type/short_link_phrase:268
 msgid "{video} can be streamed for free at"
-msgstr ""
+msgstr "{video} kan gratis gestreamd worden op"
 
 #: DB:link_type/reverse_link_phrase:107
 msgid "{vocal} vocal support by"

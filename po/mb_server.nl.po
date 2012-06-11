@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-11 20:54+0000\n"
+"PO-Revision-Date: 2012-06-11 21:50+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1035,7 +1035,7 @@ msgstr "Aantekeningen ondersteunen een gelimiteerd aantal wiki opmaakopties:"
 #: ../root/artist/relationships.tt:9
 #, perl-format
 msgid "Appearances"
-msgstr ""
+msgstr "Genoemd als"
 
 #: ../root/recording/index.tt:3 ../root/tracklist/index.tt:23
 #, perl-format
@@ -3335,7 +3335,7 @@ msgstr "Verloopt over <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</s
 #: ../root/layout/sidebar/sidebar-favicons.tt:30
 #, perl-format
 msgid "External links"
-msgstr "Externe bewerkingen"
+msgstr "Externe verwijzingen"
 
 #: ../root/release/edit/information.tt:43
 #, perl-format
@@ -5448,7 +5448,7 @@ msgstr "Pagina {cur} van ten minste {total}"
 #: ../root/components/paginator.tt:32
 #, perl-format
 msgid "Page {cur} of {total}"
-msgstr "Pagina {cur} van {total}"
+msgstr "Pagina {cur} van de {total}"
 
 #: ../root/admin/wikidoc/create.tt:8 ../root/admin/wikidoc/edit.tt:9
 #, perl-format
@@ -5847,7 +5847,7 @@ msgstr "Vorige"
 #: ../root/release_group/edit_form.tt:10
 #, perl-format
 msgid "Primary Type:"
-msgstr ""
+msgstr "Primair type:"
 
 #: ../root/edit/details/add_artist_alias.tt:24
 #: ../root/edit/details/add_label_alias.tt:24
@@ -7005,7 +7005,7 @@ msgstr "Secondeer deze kandidaat"
 #: ../root/release_group/edit_form.tt:11
 #, perl-format
 msgid "Secondary Types:"
-msgstr ""
+msgstr "Secundair type:"
 
 #: ../root/cdtoc/info.tt:38 ../root/cdtoc/info.tt:40 ../root/cdtoc/info.tt:42
 #, perl-format
@@ -8319,7 +8319,7 @@ msgstr "Dit is een {history|oude revisie} van deze aantekening, zoals deze is be
 #: ../root/alias/edit_form.tt:11
 #, perl-format
 msgid "This is the primary alias for this locale"
-msgstr ""
+msgstr "Dit is het primaire alias voor deze locatie"
 
 #: ../root/label/delete.tt:17
 #, perl-format
@@ -8346,7 +8346,7 @@ msgstr "Deze platenmaatschappij heeft geen etiketten."
 #: ../root/cdtoc/attach_list.tt:28
 #, perl-format
 msgid "This medium format cannot have a disc ID attached"
-msgstr ""
+msgstr "Dit soort medium kan geen disc-id hebben"
 
 #: ../root/scripts/text_strings.tt:51
 #, perl-format
@@ -8620,7 +8620,7 @@ msgstr ""
 #: ../root/report/part_of_set_relationships.tt:6
 #, perl-format
 msgid "This report shows releases that still have part of set relationships."
-msgstr ""
+msgstr "Dit rapport laat uitgaves zien die nog steeds deel van een set-verwantschappen hebben."
 
 #: ../root/report/some_formats_unset.tt:6
 #, perl-format
@@ -9141,7 +9141,7 @@ msgstr "Niet vertrouwd"
 #: ../root/search/form.tt:13
 #, perl-format
 msgid "Up to {n}"
-msgstr ""
+msgstr "Tot {n}"
 
 #: ../root/admin/wikidoc/edit.tt:16 ../root/admin/wikidoc/index.tt:108
 #, perl-format
@@ -10323,7 +10323,7 @@ msgstr "uitgaves"
 #: ../root/release/edit/tracklist.tt:445 ../root/release/edit/tracklist.tt:446
 #, perl-format
 msgid "reset track numbers"
-msgstr ""
+msgstr "Wis nummerposities"
 
 #: ../root/layout.tt:73
 #, perl-format
