@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-01 11:22+0000\n"
+"PO-Revision-Date: 2012-06-11 18:54+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -412,7 +412,7 @@ msgstr "Accepteren"
 #: ../root/edit/index.tt:73
 #, perl-format
 msgid "Accept edit"
-msgstr "Accepteer wijziging"
+msgstr "Accepteer bewerking"
 
 #: ../root/components/common-macros.tt:512
 #, perl-format
@@ -617,7 +617,7 @@ msgstr "Voeg een nieuwe uitgave toe"
 #: ../root/edit/notes.tt:39
 #, perl-format
 msgid "Add an edit note"
-msgstr "Voeg een wijzigingsnotitie toe"
+msgstr "Voeg een bewerkingsnotitie toe"
 
 #: ../root/artist/layout.tt:87 ../root/label/layout.tt:64
 #: ../root/recording/layout.tt:37 ../root/release_group/layout.tt:36
@@ -661,7 +661,7 @@ msgstr "Voeg een disc-id toe aan een bestaande uitgave"
 #: ../root/edit/add_note.tt:4
 #, perl-format
 msgid "Add edit note"
-msgstr "Voeg een wijzigingsnotitie toe"
+msgstr "Voeg een bewerkingsnotitie toe"
 
 #: ../root/label/add_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLabelAlias.pm:7
@@ -776,7 +776,7 @@ msgstr "Toegevoegd"
 #: ../root/cdstub/browse.tt:24
 #, perl-format
 msgid "Added {add}, last modified {lastmod}"
-msgstr "Toegevoegd op {add}, het laatst gewijzigd op {lastmod}"
+msgstr "Toegevoegd op {add}, het laatst bewerkt op {lastmod}"
 
 #: ../root/cdstub/layout.tt:7
 #, perl-format
@@ -866,12 +866,12 @@ msgstr "Aliassen"
 #: ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "All Edits"
-msgstr "Alle wijzigingen"
+msgstr "Alle bewerkingen"
 
 #: ../root/layout/menu.tt:39
 #, perl-format
 msgid "All My Edits"
-msgstr "Al mijn wijzigingen"
+msgstr "Al mijn bewerkingen"
 
 #: ../root/release/cover_art.tt:34
 #, perl-format
@@ -906,7 +906,7 @@ msgstr "Al verlopen"
 #: ../root/release/edit/recordings.tt:358
 #, perl-format
 msgid "Also update the recording with track changes"
-msgstr "Voeg wijzigingen aan nummers ook toe aan de opnames"
+msgstr "Pas bewerkingen aan nummers ook toe op de opnames"
 
 #: ../root/search/results-artist.tt:7
 #, perl-format
@@ -964,7 +964,7 @@ msgstr "Er deed zich een fout voor bij het aanmaken van uw gebruikersaccount. Zo
 #: ../root/release/edit/editnote.tt:27
 #, perl-format
 msgid "An error occured while loading this edit"
-msgstr "Er trad een fout op bij het laden van deze wijziging"
+msgstr "Er trad een fout op bij het laden van deze bewerking"
 
 #: ../root/release/edit/tracklist.tt:118
 #, perl-format
@@ -1015,12 +1015,12 @@ msgstr "Geschiedenis van de aantekening"
 #: ../root/annotation/common.tt:15
 #, perl-format
 msgid "Annotation last modified by {user} on {date}."
-msgstr "Aantekening het laatst gewijzigd door {user} op {date}."
+msgstr "Aantekening het laatst bewerkt door {user} op {date}."
 
 #: ../root/annotation/common.tt:34
 #, perl-format
 msgid "Annotation last modified on {date}."
-msgstr "Aantekening het laatst gewijzigd op {date}"
+msgstr "Aantekening het laatst bewerkt op {date}"
 
 #: ../root/annotation/edit.tt:15 ../root/release/edit/information.tt:105
 #, perl-format
@@ -1141,7 +1141,7 @@ msgstr "Weet u zeker dat u de disc-id <code>{discid}</code> van de uitgave {rele
 #: ../root/edit/cancel.tt:3
 #, perl-format
 msgid "Are you sure you wish to cancel edit #{n}? This cannot be undone!"
-msgstr "Weet u zeker dat u wijziging #{n} wilt annuleren? Dit kan niet ongedaan worden gemaakt!"
+msgstr "Weet u zeker dat u bewerking #{n} wilt annuleren? Dit kan niet ongedaan worden gemaakt!"
 
 #: ../root/admin/wikidoc/delete.tt:4
 #, perl-format
@@ -1515,12 +1515,12 @@ msgid ""
 "privileges. These privileges allow them to make select edits that are "
 "automatically approved without going through the normal voting process, as "
 "well as the ability to instantly approve other users' edits."
-msgstr "Autoredacteurs zijn vertrouwde gebruikers die {url|autoredacteur} privileges hebben gekregen. Deze privileges laat hen een select aantal wijzigingen maken die automatisch worden doorgevoerd zonder door de normale stemmingsprocedure te gaan. Ook geeft dit hen de mogelijkheid om wijzigingen van andere gebruikers direct goed te keuren."
+msgstr "Autoredacteurs zijn vertrouwde gebruikers die {url|autoredacteur} privileges hebben gekregen. Deze privileges laat hen een select aantal bewerkingen maken die automatisch worden doorgevoerd zonder door de normale stemmingsprocedure te gaan. Ook geeft dit hen de mogelijkheid om bewerkingen van andere gebruikers direct goed te keuren."
 
 #: ../root/user/profile.tt:148
 #, perl-format
 msgid "Auto-edits"
-msgstr "Automatische wijzigingen"
+msgstr "Automatische bewerkingen"
 
 #: ../root/account/preferences.tt:50
 #, perl-format
@@ -1880,7 +1880,7 @@ msgstr "Annuleer"
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
 msgid "Cancel Edit"
-msgstr "Annuleer wijziging"
+msgstr "Annuleer bewerking"
 
 #: ../root/components/common-macros.tt:444
 #, perl-format
@@ -1891,7 +1891,7 @@ msgstr "Annuleer het maken van een verwantschap met {name}"
 #: ../root/edit/info.tt:21
 #, perl-format
 msgid "Cancel edit"
-msgstr "Annuleer wijziging"
+msgstr "Annuleer bewerking"
 
 #: ../root/elections/show.tt:97
 #, perl-format
@@ -1903,14 +1903,14 @@ msgstr "Annuleer verkiezing"
 msgid ""
 "Cancelling a pending edit will take effect within an hour, while removing an"
 " artist alias has to be voted on according to the voting process."
-msgstr "Een onbesliste wijziging annuleren zal binnen een uur worden toegepast, terwijl het verwijderen van een alias voor een artiest door het stemmingsproces zal moeten worden ingestemd."
+msgstr "Het annuleren van een openstaande bewerking zal binnen een uur worden toegepast, terwijl het verwijderen van een alias voor een artiest door het stemmingsproces zal moeten worden ingestemd."
 
 #: ../root/work/delete_alias.tt:16
 #, perl-format
 msgid ""
 "Cancelling a pending edit will take effect within an hour, while removing an"
 " work alias has to be voted on according to the voting process."
-msgstr "Een onbesliste wijziging annuleren zal binnen een uur worden toegepast, terwijl het verwijderen van een alias voor een compositie door het stemmingsproces zal moeten worden ingestemd."
+msgstr "Het annuleren van een openstaande bewerking zal binnen een uur worden toegepast, terwijl het verwijderen van een alias voor een compositie door het stemmingsproces zal moeten worden ingestemd."
 
 #: ../root/elections/index.tt:9
 #, perl-format
@@ -1942,7 +1942,7 @@ msgstr "Opname kan niet worden toegevoegd"
 #: ../root/artist/special_purpose.tt:1
 #, perl-format
 msgid "Cannot edit"
-msgstr "Kan niet wijzigen"
+msgstr "Kan niet bewerken"
 
 #: ../root/release/edit/information.tt:76
 #, perl-format
@@ -2042,7 +2042,7 @@ msgstr "Veranderingslogboek:"
 #: ../root/edit/index.tt:17
 #, perl-format
 msgid "Changes"
-msgstr "Wijzigingen"
+msgstr "Bewerkingen"
 
 #: ../root/edit/details/add_relationship_attribute.tt:11
 #: ../root/edit/details/edit_relationship_attribute.tt:16
@@ -2096,7 +2096,7 @@ msgstr "Compositie leegmaken"
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
 msgid "Click Edit to edit the recording associations for this disc."
-msgstr "Klik wijzigen om de gekoppelde opnames voor dit medium te wijzigen."
+msgstr "Klik bewerken om de gekoppelde opnames voor dit medium te wijzigen."
 
 #: ../root/account/edit_ok.tt:12
 #, perl-format
@@ -2252,7 +2252,7 @@ msgstr "Kopieer de naam"
 #: ../root/release/edit/recordings.tt:398
 #, perl-format
 msgid "Copy all track changes to associated recordings."
-msgstr "Kopieer alle wijzigingen naar gekoppelde opnames"
+msgstr "Kopieer alle bewerkingen naar gekoppelde opnames"
 
 #: ../root/cdtoc/attach_artist_releases.tt:36
 #: ../root/cdtoc/attach_filter_release.tt:49 ../root/cdtoc/list.tt:9
@@ -2724,37 +2724,37 @@ msgstr "Elk nummer in de gegevensbank van MusicBrainz moet gekoppeld zijn aan ee
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Edit"
-msgstr "Wijzig"
+msgstr "Bewerk"
 
 #: ../root/edit/index.tt:9
 #, perl-format
 msgid "Edit #{id}"
-msgstr "Wijziging #{id}"
+msgstr "Bewerking #{id}"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Edit All"
-msgstr "Wijzig alles"
+msgstr "Bewerk alles"
 
 #: ../root/label/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Annotation"
-msgstr "Wijzig aantekening"
+msgstr "Bewerk aantekening"
 
 #: ../root/artist/edit.tt:17
 #, perl-format
 msgid "Edit Artist"
-msgstr "Wijzig artiest"
+msgstr "Bewerk artiest"
 
 #: ../root/artist/edit_alias.tt:1
 #, perl-format
 msgid "Edit Artist Alias"
-msgstr "Wijzig de alias van de artiest"
+msgstr "Bewerk de alias van de artiest"
 
 #: ../root/artist/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Artist Annotation"
-msgstr "Wijzig de aantekening van de artiest"
+msgstr "Bewerk de aantekening van de artiest"
 
 #: ../root/artist/edit_credit.tt:15 ../root/artist/edit_credit.tt:20
 #, perl-format
@@ -2764,138 +2764,138 @@ msgstr ""
 #: ../root/collection/edit.tt:1
 #, perl-format
 msgid "Edit Collection"
-msgstr "Wijzig collectie"
+msgstr "Bewerk collectie"
 
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
 msgid "Edit Cover Art"
-msgstr "Wijzig hoesafbeelding"
+msgstr "Bewerk hoesafbeelding"
 
 #: ../root/layout/menu.tt:58
 #, perl-format
 msgid "Edit Instrument Tree"
-msgstr "Wijzig de instrumententabel"
+msgstr "Bewerk de instrumententabel"
 
 #: ../root/label/edit.tt:15
 #, perl-format
 msgid "Edit Label"
-msgstr "Wijzig platenmaatschappij"
+msgstr "Bewerk platenmaatschappij"
 
 #: ../root/label/edit_alias.tt:1
 #, perl-format
 msgid "Edit Label Alias"
-msgstr "Wijzig de alias van de platenmaatschappij"
+msgstr "Bewerk de alias van de platenmaatschappij"
 
 #: ../root/edit/not_found.tt:1 ../root/edit/not_found.tt:2
 #, perl-format
 msgid "Edit Not Found"
-msgstr "Wijziging niet gevonden"
+msgstr "Bewerking niet gevonden"
 
 #: ../root/forms/edit-note.tt:2
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:80
 #, perl-format
 msgid "Edit Note"
-msgstr "Wijzigingsnotitie"
+msgstr "Bewerkingsnotitie"
 
 #: ../root/account/edit_ok.tt:1 ../root/account/edit_ok.tt:3
 #: ../root/account/edit.tt:1 ../root/account/edit.tt:3
 #: ../root/layout/menu.tt:7
 #, perl-format
 msgid "Edit Profile"
-msgstr "Wijzig het profiel"
+msgstr "Bewerk het profiel"
 
 #: ../root/recording/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Recording Annotation"
-msgstr "Wijzig de aantekening van de opname"
+msgstr "Bewerk de aantekening van de opname"
 
 #: ../root/edit/relationship/create_batch.tt:10
 #: ../root/edit/relationship/edit.tt:13 ../root/edit/relationship/edit.tt:15
 #, perl-format
 msgid "Edit Relationship"
-msgstr "Wijzig de verwantschap"
+msgstr "Bewerk de verwantschap"
 
 #: ../root/relationship/linkattributetype/edit.tt:1
 #: ../root/relationship/linkattributetype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Attribute"
-msgstr "Wijzig de verwantschapseigenschap"
+msgstr "Bewerk de verwantschapseigenschap"
 
 #: ../root/admin/index.tt:7
 #, perl-format
 msgid "Edit Relationship Attributes"
-msgstr "Wijzig de verwantschapseigenschappen"
+msgstr "Bewerk de verwantschapseigenschappen"
 
 #: ../root/relationship/linktype/edit.tt:1
 #: ../root/relationship/linktype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Type"
-msgstr "Wijzig het verwantschapstype"
+msgstr "Bewerk het verwantschapstype"
 
 #: ../root/admin/index.tt:6 ../root/layout/menu.tt:55
 #, perl-format
 msgid "Edit Relationship Types"
-msgstr "Wijzig de verwantschapstypes"
+msgstr "Bewerk de verwantschapstypes"
 
 #: ../root/release/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Release Annotation"
-msgstr "Wijzig de aantekening van de uitgave"
+msgstr "Bewerk de aantekening van de uitgave"
 
 #: ../root/release_group/edit.tt:21
 #, perl-format
 msgid "Edit Release Group"
-msgstr "Wijzig de uitgavegroep"
+msgstr "Bewerk de uitgavegroep"
 
 #: ../root/release_group/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Release Group Annotation"
-msgstr "Wijzig de aantekening van de uitgavegroep"
+msgstr "Bewerk de aantekening van de uitgavegroep"
 
 #: ../root/release/edit/layout.tt:2
 #, perl-format
 msgid "Edit Release: {name}"
-msgstr "Wijzig uitgave: {naam}"
+msgstr "Bewerk uitgave: {naam}"
 
 #: ../root/doc/edit_types.tt:1 ../root/doc/edit_types.tt:3
 #: ../root/doc/edit_type.tt:17 ../root/edit/info.tt:59
 #: ../root/layout/menu.tt:218
 #, perl-format
 msgid "Edit Types"
-msgstr "Wijzigingstypes"
+msgstr "Bewerkingstypes"
 
 #: ../root/url/edit.tt:14 ../root/url/edit.tt:15
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:22
 #, perl-format
 msgid "Edit URL"
-msgstr "Wijzig URL"
+msgstr "Bewerk URL"
 
 #: ../root/user/profile/layout.tt:27
 #, perl-format
 msgid "Edit User"
-msgstr "Wijzig gebruiker"
+msgstr "Bewerk gebruiker"
 
 #: ../root/work/edit.tt:15
 #, perl-format
 msgid "Edit Work"
-msgstr "Wijzig compositie"
+msgstr "Bewerk compositie"
 
 #: ../root/work/edit_alias.tt:1
 #, perl-format
 msgid "Edit Work Alias"
-msgstr "Wijzig alias voor deze compositie"
+msgstr "Bewerk alias voor deze compositie"
 
 #: ../root/work/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Work Annotation"
-msgstr "Wijzig de aantekening van de compositie"
+msgstr "Bewerk de aantekening van de compositie"
 
 #: ../root/artist/layout.tt:87 ../root/label/layout.tt:64
 #: ../root/recording/layout.tt:37 ../root/release_group/layout.tt:36
 #: ../root/release/sidebar.tt:70 ../root/work/layout.tt:40
 #, perl-format
 msgid "Edit annotation"
-msgstr "Wijzig aantekening"
+msgstr "Bewerk aantekening"
 
 #: ../root/artist/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditAlias.pm:12
@@ -2907,12 +2907,12 @@ msgstr "Alias voor deze artiest bewerken"
 #: ../root/artist/edit_annotation.tt:2
 #, perl-format
 msgid "Edit artist annotation"
-msgstr "Wijzig de aantekening van de artiest"
+msgstr "Bewerk de aantekening van de artiest"
 
 #: ../root/edit/edit_header.tt:92
 #, perl-format
 msgid "Edit by {editor}"
-msgstr "Wijziging door {editor}"
+msgstr "Bewerking door {editor}"
 
 #: ../root/label/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabelAlias.pm:7
@@ -2924,22 +2924,22 @@ msgstr "Alias voor deze platenmaatschappij bewerken"
 #: ../root/label/edit_annotation.tt:2
 #, perl-format
 msgid "Edit label annotation"
-msgstr "Wijzig de aantekening van de platenmaatschappij"
+msgstr "Bewerk de aantekening van de platenmaatschappij"
 
 #: ../root/edit/cancel.tt:19 ../root/forms/edit-note.tt:13
 #, perl-format
 msgid "Edit note:"
-msgstr "Wijzigingsnotitie:"
+msgstr "Bewerkingsnotitie:"
 
 #: ../root/edit/index.tt:84
 #, perl-format
 msgid "Edit notes"
-msgstr "Wijzigingsnotities"
+msgstr "Bewerkingsnotities"
 
 #: ../root/admin/edit_user.tt:30
 #, perl-format
 msgid "Edit profile"
-msgstr "Wijzig profiel"
+msgstr "Bewerk profiel"
 
 #: ../root/recording/edit.tt:32
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
@@ -2950,22 +2950,22 @@ msgstr "Opname bewerken"
 #: ../root/recording/edit_annotation.tt:2
 #, perl-format
 msgid "Edit recording annotation"
-msgstr "Wijzig de aantekening van de opname"
+msgstr "Bewerk de aantekening van de opname"
 
 #: ../root/release/edit_annotation.tt:2
 #, perl-format
 msgid "Edit release annotation"
-msgstr "Wijzig de aantekening van de uitgave"
+msgstr "Bewerk de aantekening van de uitgave"
 
 #: ../root/release_group/edit_annotation.tt:2
 #, perl-format
 msgid "Edit release group annotation"
-msgstr "Wijzig de aantekening van de uitgavegroep"
+msgstr "Bewerk de aantekening van de uitgavegroep"
 
 #: ../root/admin/edit_user.tt:40
 #, perl-format
 msgid "Edit user"
-msgstr "Wijzig gebruiker"
+msgstr "Bewerk gebruiker"
 
 #: ../root/work/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/EditAlias.pm:13
@@ -2976,17 +2976,17 @@ msgstr "Alias voor deze compositie bewerken"
 #: ../root/work/edit_annotation.tt:2
 #, perl-format
 msgid "Edit work annotation"
-msgstr "Wijzig de aantekening van de compositie"
+msgstr "Bewerk de aantekening van de compositie"
 
 #: ../root/release/edit-links.tt:13
 #, perl-format
 msgid "Edit:"
-msgstr "Wijziging:"
+msgstr "Bewerking:"
 
 #: ../root/edit/details/edit_release_events.tt:58
 #, perl-format
 msgid "Edited"
-msgstr "Gewijzigd"
+msgstr "Bewerkt"
 
 #: ../root/account/preferences.tt:49 ../root/artist/layout.tt:58
 #: ../root/label/layout.tt:51 ../root/layout/menu.tt:173
@@ -2995,12 +2995,12 @@ msgstr "Gewijzigd"
 #: ../root/work/layout.tt:34
 #, perl-format
 msgid "Editing"
-msgstr "Wijzigen"
+msgstr "Bewerken"
 
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
 msgid "Editing FAQ"
-msgstr "FAQ voor wijzigingen"
+msgstr "FAQ voor bewerkingen"
 
 #: ../root/artist/layout.tt:114 ../root/label/layout.tt:86
 #: ../root/recording/layout.tt:59 ../root/release_group/layout.tt:60
@@ -3008,12 +3008,12 @@ msgstr "FAQ voor wijzigingen"
 #: ../root/work/layout.tt:62
 #, perl-format
 msgid "Editing history"
-msgstr "Wijzigingsgeschiedenis"
+msgstr "Bewerkingsgeschiedenis"
 
 #: ../root/main/index.tt:34
 #, perl-format
 msgid "Editing introduction"
-msgstr "Introductie voor wijzigingen"
+msgstr "Introductie voor bewerkingen"
 
 #: ../root/annotation/history.tt:8 ../root/edit/search_macros.tt:280
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:41
@@ -3049,66 +3049,66 @@ msgstr "Redacteurs die op deze platenmaatschappij zijn geabonneerd"
 #: ../root/user/edits.tt:15
 #, perl-format
 msgid "Edits"
-msgstr "Wijzigingen"
+msgstr "Bewerkingen"
 
 #: ../root/user/profile.tt:139
 #, perl-format
 msgid "Edits ({view_url|view})"
-msgstr "Wijzigingen ({view_url|bekijken})"
+msgstr "Bewerkingen ({view_url|bekijken})"
 
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
 msgid "Edits By Your Subscribed Editors"
-msgstr "Wijzigingen door redacteurs waarop u bent geabonneerd"
+msgstr "Bewerkingen door redacteurs waarop u bent geabonneerd"
 
 #: ../root/edit/subscribed.tt:15 ../root/edit/subscribed.tt:17
 #, perl-format
 msgid "Edits For Your Subscribed Entities"
-msgstr "Wijzigingen van objecten waar u op bent geabonneerd"
+msgstr "Bewerkingen van objecten waar u op bent geabonneerd"
 
 #: ../root/layout/menu.tt:45
 #, perl-format
 msgid "Edits by Subscribed Editors"
-msgstr "Wijzigingen door redacteurs waar u op bent geabonneerd"
+msgstr "Bewerkingen door redacteurs waar u op bent geabonneerd"
 
 #: ../root/user/edits.tt:16
 #, perl-format
 msgid "Edits by {name}"
-msgstr "Wijzigingen door {name}"
+msgstr "Bewerkingen door {name}"
 
 #: ../root/layout/menu.tt:42
 #, perl-format
 msgid "Edits for Subscribed Entities"
-msgstr "Wijzigingen van objecten waar u op bent geabonneerd"
+msgstr "Bewerkingen van objecten waar u op bent geabonneerd"
 
 #: ../root/label/edits.tt:17
 #, perl-format
 msgid "Edits for {label}"
-msgstr "Wijzigingen voor {label}"
+msgstr "Bewerkingen voor {label}"
 
 #: ../root/artist/edits.tt:16 ../root/url/edits.tt:17
 #, perl-format
 msgid "Edits for {link}"
-msgstr "Wijzigingen voor {link}"
+msgstr "Bewerkingen voor {link}"
 
 #: ../root/artist/edits.tt:14 ../root/label/edits.tt:15
 #: ../root/url/edits.tt:15
 #, perl-format
 msgid "Edits for {name}"
-msgstr "Wijzigingen voor {name}"
+msgstr "Bewerkingen voor {name}"
 
 #: ../root/release/edits.tt:17 ../root/release_group/edits.tt:17
 #: ../root/work/edits.tt:16
 #, perl-format
 msgid "Edits for “{link}”"
-msgstr "Wijzigingen voor „{link}“"
+msgstr "Bewerkingen voor „{link}“"
 
 #: ../root/recording/edits.tt:15 ../root/recording/edits.tt:17
 #: ../root/release/edits.tt:15 ../root/release_group/edits.tt:15
 #: ../root/work/edits.tt:14
 #, perl-format
 msgid "Edits for “{name}”"
-msgstr "Wijzigingen voor „{name}“"
+msgstr "Bewerkingen voor „{name}“"
 
 #: ../root/elections/not_found.tt:1 ../root/elections/not_found.tt:2
 #, perl-format
@@ -3163,7 +3163,7 @@ msgstr "Schakel nummering voor vinyl in"
 #: ../root/components/forms.tt:13
 #, perl-format
 msgid "Enable {autoed|auto-editor} privileges for this edit."
-msgstr "Schakel de privileges voor {autoed|autoredacteurs} in voor deze wijziging"
+msgstr "Schakel de privileges voor {autoed|autoredacteurs} in voor deze bewerking"
 
 #: ../root/cdtoc/info.tt:34 ../root/search/lib/inline-results-artist.tt:11
 #: ../root/search/results-label.tt:15
@@ -3219,7 +3219,7 @@ msgstr "Vul hieronder de nummerlijst in:"
 #: ../root/release/edit/editnote.tt:42
 #, perl-format
 msgid "Enter edit"
-msgstr "Voer wijziging in"
+msgstr "Voer bewerking in"
 
 #: ../root/edit/vote.tt:29
 #, perl-format
@@ -3240,7 +3240,7 @@ msgid ""
 "is highly recommended. Not only does it make it clear where you got your "
 "information, but it can also encourage other users to vote on your edit "
 "&mdash; thus making your edit get applied faster."
-msgstr "Het toevoegen van een {note|wijzigingsnotitie} die beschrijft waar u uw informatie vandaan heeft wordt sterk aangeraden. Niet alleen maakt dit duidelijk waar u uw informatie vandaan heeft, maar het kan ook gebruikers aansporen om op uw wijziging te stemmen, waardoor wijzigingen sneller worden doorgevoerd."
+msgstr "Het toevoegen van een {note|bewerksnotitie} die beschrijft waar u uw informatie vandaan heeft wordt sterk aangeraden. Niet alleen maakt dit duidelijk waar u uw informatie vandaan heeft, maar het kan ook gebruikers aansporen om op uw bewerking te stemmen, waardoor bewerkingen sneller worden doorgevoerd."
 
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
@@ -3256,12 +3256,12 @@ msgstr "Fout"
 #: ../root/edit/require_note.tt:1 ../root/edit/require_note.tt:2
 #, perl-format
 msgid "Error Approving Edit"
-msgstr "Fout bij het goedkeuren van de wijziging"
+msgstr "Fout bij het goedkeuren van de bewerking"
 
 #: ../root/edit/cannot_cancel.tt:1 ../root/edit/cannot_cancel.tt:2
 #, perl-format
 msgid "Error Cancelling Edit"
-msgstr "Fout bij het annuleren van de wijziging"
+msgstr "Fout bij het annuleren van de bewerking"
 
 #: ../root/main/400.tt:8 ../root/main/404.tt:12 ../root/main/500.tt:37
 #, perl-format
@@ -3335,7 +3335,7 @@ msgstr "Verloopt over <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</s
 #: ../root/layout/sidebar/sidebar-favicons.tt:30
 #, perl-format
 msgid "External links"
-msgstr "Externe verwijzingen"
+msgstr "Externe bewerkingen"
 
 #: ../root/release/edit/information.tt:43
 #, perl-format
@@ -3464,8 +3464,8 @@ msgstr "Meer dan één overeenkomst gevonden voor de cd met TOC {toc}:"
 #, perl-format
 msgid "Found {n} edit"
 msgid_plural "Found at least {n} edits"
-msgstr[0] "{n} wijziging gevonden"
-msgstr[1] "Ten minste {n} wijzigingen gevonden"
+msgstr[0] "{n} bewerking gevonden"
+msgstr[1] "Ten minste {n} bewerkingen gevonden"
 
 #: ../root/components/with-pager.tt:5
 #, perl-format
@@ -3655,7 +3655,7 @@ msgstr "Thuispagina:"
 #: ../root/edit/list_header.tt:27
 #, perl-format
 msgid "How editing works"
-msgstr "Hoe wijzigingen werken"
+msgstr "Hoe bewerkingen werken"
 
 #: ../root/taglookup/nag.tt:7
 #, perl-format
@@ -3827,7 +3827,7 @@ msgid ""
 "{cancel|how to cancel pending edits}, to cancel the pending add alias edit. "
 "Removing pending edits, rather than entering new edits helps reduce the "
 "amount of open edits in the system."
-msgstr "Als u deze alias per ongeluk hebt toegevoegd, volg dan alstublieft de instructies over {cancel|hoe wijzigingen te annuleren} om openstaande wijzigingen te annuleren. Het annuleren van openstaande wijzigingen in plaats van nieuwe wijzigingen toe te voegen helpt om het aantal openstaande wijzigingen in het systeem te verminderen."
+msgstr "Als u deze alias per ongeluk hebt toegevoegd, volg dan alstublieft de instructies over {cancel|hoe bewerkingen te annuleren} om openstaande bewerkingen te annuleren. Het annuleren van openstaande bewerkingen in plaats van nieuwe bewerkingen toe te voegen helpt om het aantal openstaande bewerkingen in het systeem te verminderen."
 
 #: ../root/cdtoc/attach_artist_releases.tt:63
 #, perl-format
@@ -3949,7 +3949,7 @@ msgid ""
 "database looking for data that might require fixing, either to comply with "
 "the {style|style guidelines}, or in other cases where administrative \"clean"
 " up\" tasks are required."
-msgstr "Als u wilt deelnemen aan het wijzigingsproces, maar niet weet waar te beginnen, kunnen deze rapporten u helpen. Deze rapporten zoeken in de gegevensbank naar gegevens die misschien verbeterd moeten worden, soms om ze overeen te laten komen met de {style|stijlgids} of vanwege administratieve opruiming."
+msgstr "Als u wilt deelnemen aan het bewerksproces, maar niet weet waar te beginnen, kunnen deze rapporten u helpen. Deze rapporten zoeken in de gegevensbank naar gegevens die misschien verbeterd moeten worden, soms om ze overeen te laten komen met de {style|stijlgids} of vanwege administratieve opruiming."
 
 #: ../root/account/register.tt:51
 #, perl-format
@@ -4072,7 +4072,7 @@ msgstr "Jaikoz Tagger"
 #: ../root/release/edit/layout.tt:22
 #, perl-format
 msgid "Javascript needs to be enabled to edit releases."
-msgstr "Javascript moet zijn ingeschakeld om uitgaves te wijzigen."
+msgstr "Javascript moet zijn ingeschakeld om uitgaves te bewerken."
 
 #: ../root/recording/edit.tt:35 ../root/release_group/create.tt:18
 #: ../root/release_group/edit.tt:24 ../root/work/create.tt:18
@@ -4228,7 +4228,7 @@ msgstr "Afgelopen 28 dagen"
 #: ../root/cdstub/layout.tt:9
 #, perl-format
 msgid "Last modified:"
-msgstr "Laatst gewijzigd:"
+msgstr "Laatst bewerkt:"
 
 #: ../root/layout/sidebar/sidebar-lastupdate.tt:2
 #, perl-format
@@ -4344,7 +4344,7 @@ msgstr "Aanmelden"
 #: ../root/work/layout.tt:64
 #, perl-format
 msgid "Log in to edit"
-msgstr "Aanmelden om te wijzigen"
+msgstr "Aanmelden om te bewerken"
 
 #: ../root/release/cover_art.tt:60
 #, perl-format
@@ -4414,7 +4414,7 @@ msgstr "Magic MP3 Tagger"
 msgid ""
 "Mail me when one of my edits gets a \"no\" vote. (Note: the email is only "
 "sent for the first \"no\" vote, not each one)"
-msgstr "E-mail mij als één van mijn wijzigingen een tegenstem krijgt. (Notitie: de e-mail wordt alleen gestuurd na de eerste tegenstem, niet voor elke.)"
+msgstr "E-mail mij als een van mijn bewerkingen een tegenstem krijgt. (Notitie: de e-mail wordt alleen gestuurd na de eerste tegenstem, niet voor elke.)"
 
 #: ../root/layout/menu.tt:235
 #, perl-format
@@ -4620,12 +4620,12 @@ msgstr "Niet overeenkomende uitgavegroepen"
 #: ../root/cdstub/browse.tt:12
 #, perl-format
 msgid "Modify count"
-msgstr "Aantal keer gewijzigd"
+msgstr "Aantal keer bewerkt"
 
 #: ../root/cdstub/layout.tt:13
 #, perl-format
 msgid "Modify count:"
-msgstr "Aantal keer gewijzigd:"
+msgstr "Aantal keer bewerkt:"
 
 #: ../root/release/discids.tt:42 ../root/release/edit-links.tt:3
 #: ../root/release/move_search.tt:12
@@ -4789,7 +4789,7 @@ msgstr "Mijn gegevens"
 #: ../root/layout/menu.tt:36
 #, perl-format
 msgid "My Open Edits"
-msgstr "Mijn openstaande wijzigingen"
+msgstr "Mijn openstaande bewerkingen"
 
 #: ../root/layout/menu.tt:30
 #, perl-format
@@ -5030,12 +5030,12 @@ msgstr "Geen hoesafbeelding beschikbaar."
 #: ../root/edit/notes.tt:29
 #, perl-format
 msgid "No edit notes have been added."
-msgstr "Geen wijzigingsnotities toegevoegd."
+msgstr "Geen bewerksnotities toegevoegd."
 
 #: ../root/edit/list.tt:88
 #, perl-format
 msgid "No edits were found matching your query. Please {search|try again}."
-msgstr "Er zijn geen wijzigingen gevonden die overeen komen met uw zoekopdracht. {search|Probeer het opnieuw.}"
+msgstr "Er zijn geen bewerkingen gevonden die overeen komen met uw zoekopdracht. {search|Probeer het opnieuw.}"
 
 #: ../root/elections/index.tt:29
 #, perl-format
@@ -5218,7 +5218,7 @@ msgstr "Let op:"
 msgid ""
 "Note: this currently only searches edits that add or edit relationships, "
 "created after 2011-05-16"
-msgstr "Let op: dit zoekt nu alleen naar wijzigingen die verwantschappen toevoegen of wijzigen en gecreëerd zijn na 16 mei 2011"
+msgstr "Let op: dit zoekt nu alleen naar bewerkingen die verwantschappen toevoegen of wijzigen en gecreëerd zijn na 16 mei 2011"
 
 #: ../root/account/preferences.tt:44
 #, perl-format
@@ -5303,12 +5303,12 @@ msgstr "Alleen uitgaves met hetzelfde aantal nummers ({n}) als de uitgave waar d
 msgid ""
 "Only the user who created an edit can cancel it, either you did not create "
 "{edit} or perhaps it has already been closed."
-msgstr "Alleen de gebruiker die een wijziging heeft ingediend kan deze annuleren, u heeft {edit} niet ingediend of misschien is deze al afgesloten."
+msgstr "Alleen de gebruiker die een bewerking heeft ingediend kan deze annuleren, u heeft {edit} niet ingediend of misschien is deze al afgesloten."
 
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
 msgid "Only {doc|auto-editors} can approve an edit."
-msgstr "Alleen {doc|autoredacteuren} kunnen een wijziging direct goedkeuren."
+msgstr "Alleen {doc|autoredacteuren} kunnen een bewerking direct goedkeuren."
 
 #: ../root/edit/search_macros.tt:84
 #, perl-format
@@ -5326,7 +5326,7 @@ msgstr "Oeps, er is iets foutgegaan!"
 #: ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "Open Edits"
-msgstr "Openstaande wijzigingen"
+msgstr "Openstaande bewerkingen"
 
 #: ../root/artist/layout.tt:112 ../root/edit/list_header.tt:11
 #: ../root/label/layout.tt:84 ../root/recording/layout.tt:57
@@ -5334,7 +5334,7 @@ msgstr "Openstaande wijzigingen"
 #: ../root/url/layout.tt:14 ../root/work/layout.tt:60
 #, perl-format
 msgid "Open edits"
-msgstr "Openstaande wijzigingen"
+msgstr "Openstaande bewerkingen"
 
 #: ../root/components/common-macros.tt:393
 #: ../root/components/common-macros.tt:398
@@ -5616,7 +5616,7 @@ msgstr "Let op:"
 msgid ""
 "Please read the guideline on {doc_merging|how to merge releases} before "
 "entering this edit."
-msgstr "Leest u alstublieft de richtlijn {doc_merging|over het samenvoegen van uitgaves} voor u deze wijziging indient."
+msgstr "Leest u alstublieft de richtlijn {doc_merging|over het samenvoegen van uitgaves} voor u deze bewerking indient."
 
 #: ../root/label/edit_form.tt:2
 #, perl-format
@@ -5644,21 +5644,21 @@ msgstr ""
 msgid ""
 "Please review the documentation about {aliases|artist aliases}, before "
 "entering this edit."
-msgstr "Leest u alstublieft de documentatie over {aliases|aliassen voor artiesten} voordat u deze wijziging indient."
+msgstr "Leest u alstublieft de documentatie over {aliases|aliassen voor artiesten} voordat u deze bewerking indient."
 
 #: ../root/label/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|label aliases}, before "
 "entering this edit."
-msgstr "Leest u alstublieft de documentatie over {aliases|aliassen voor platenmaatschappijen} voordat u deze wijziging indient."
+msgstr "Leest u alstublieft de documentatie over {aliases|aliassen voor platenmaatschappijen} voordat u deze bewerking indient."
 
 #: ../root/work/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|work aliases}, before "
 "entering this edit."
-msgstr "Leest u alstublieft de documentatie over {aliases|aliassen voor composities} voordat u deze wijziging indient."
+msgstr "Leest u alstublieft de documentatie over {aliases|aliassen voor composities} voordat u deze bewerking indient."
 
 #: ../root/release/move_search.tt:4
 #, perl-format
@@ -5759,22 +5759,22 @@ msgstr "Wacht alstublieft een paar minuten en herhaal dan uw verzoek."
 #: ../root/components/aliases.tt:67
 #, perl-format
 msgid "Please {log_in|log in} to add or edit aliases"
-msgstr "{log_in|Meld u aan} om aliassen te wijzigen of toe te voegen"
+msgstr "{log_in|Meld u aan} om aliassen te bewerken of toe te voegen"
 
 #: ../root/recording/fingerprints.tt:39
 #, perl-format
 msgid "Please {login_url|log in} to edit these PUIDs."
-msgstr "{login_url|Meld u aan} om deze PUID's te wijzigen."
+msgstr "{login_url|Meld u aan} om deze PUID's te bewerken."
 
 #: ../root/release/discids.tt:57
 #, perl-format
 msgid "Please {login} to edit the disc IDs for this release."
-msgstr "{Meld u aan} om de disc-id voor deze uitgave te wijzigen"
+msgstr "{Meld u aan} om de disc-id voor deze uitgave te bewerken"
 
 #: ../root/release/edit-links.tt:15
 #, perl-format
 msgid "Please {uri|log in} to edit this release"
-msgstr "{uri|Meld u aan} om deze uitgave te wijzigen"
+msgstr "{uri|Meld u aan} om deze uitgave te bewerken"
 
 #: ../root/cdtoc/list.tt:4
 #, perl-format
@@ -6071,7 +6071,7 @@ msgstr "Verwerpen"
 #: ../root/edit/index.tt:74
 #, perl-format
 msgid "Reject edit"
-msgstr "Verwerp wijziging"
+msgstr "Verwerp bewerking"
 
 #: ../root/components/common-macros.tt:512
 #, perl-format
@@ -6167,7 +6167,7 @@ msgid ""
 "the database. If you would like to propose a new relationship, please do so "
 "through the {url|Style Council}. Relationship editors will only make changes"
 " that have been approved by the Style Council."
-msgstr "Verwantschapsredacteurs zijn gebruikers die verwantschapstypes in de gegevensbank kunnen toevoegen of wijzigen. Als u een nieuwe verwantschap wilt voorstellen, moet dat via de {url|Stijlraad}. Verwantschapsredacteuren zullen alleen veranderingen doorvoeren die door de Stijlraad zijn goedgekeurd."
+msgstr "Verwantschapsredacteurs zijn gebruikers die verwantschapstypes in de gegevensbank kunnen toevoegen of bewerken. Als u een nieuwe verwantschap wilt voorstellen, moet dat via de {url|Stijlraad}. Verwantschapsredacteuren zullen alleen veranderingen doorvoeren die door de Stijlraad zijn goedgekeurd."
 
 #: ../root/edit/details/add_relationship.tt:3
 #: ../root/edit/details/edit_relationship.tt:8
@@ -6781,7 +6781,7 @@ msgstr ""
 #: ../root/release/reorder_cover_art.tt:6
 #, perl-format
 msgid "Reorder Cover Art"
-msgstr "Wijzig de volgorde van de hoesafbeeldingen"
+msgstr "Bewerk de volgorde van de hoesafbeeldingen"
 
 #: ../root/layout/menu.tt:244
 #, perl-format
@@ -6889,7 +6889,7 @@ msgstr "Zoeken"
 #: ../root/layout/menu.tt:157
 #, perl-format
 msgid "Search Edits"
-msgstr "Zoek wijzigingen"
+msgstr "Zoek bewerkingen"
 
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 #, perl-format
@@ -6933,7 +6933,7 @@ msgstr "Zoek naar uitgaves"
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
 #, perl-format
 msgid "Search for Edits"
-msgstr "Zoek naar wijzigingen"
+msgstr "Zoek naar bewerkingen"
 
 #: ../root/search/editor.tt:1
 #, perl-format
@@ -6948,7 +6948,7 @@ msgstr "Zoek naar een artiest"
 #: ../root/edit/list_header.tt:8
 #, perl-format
 msgid "Search for edits"
-msgstr "Zoek naar wijzigingen"
+msgstr "Zoek naar bewerkingen"
 
 #: ../root/release/edit/recordings.tt:95
 #, perl-format
@@ -7065,7 +7065,7 @@ msgstr "Stuur een kopie naar mijn e-mailadres"
 #: ../root/account/preferences.tt:45
 #, perl-format
 msgid "Send me mails with edits to my subscriptions:"
-msgstr "Stuur mij e-mails met wijzigingen in mijn abonnementen:"
+msgstr "Stuur mij e-mails met bewerkingen in mijn abonnementen:"
 
 #: ../root/cdtoc/set_durations.tt:1 ../root/cdtoc/set_durations.tt:2
 #, perl-format
@@ -7367,7 +7367,7 @@ msgstr "Onze excuses, we konden geen collectie vinden met die MBID."
 msgid ""
 "Sorry, we could not find an edit with that edit ID. You may wish to try and "
 "perform an {search_url|edit search} instead."
-msgstr "Onze excuses, we konden geen wijziging vinden met die wijzigingsid. U kunt ook proberen om {search_url|ernaar te zoeken}."
+msgstr "Onze excuses, we konden geen bewerking vinden met die bewerking-id. U kunt ook proberen om {search_url|ernaar te zoeken}."
 
 #: ../root/user/not_found.tt:4
 #, perl-format
@@ -7408,7 +7408,7 @@ msgstr "Onze excuses, u kunt dit niet doen op een spiegelserver."
 msgid ""
 "Sorry, you must have been a member for at least 2 weeks and have 10 accepted"
 " non-auto-edits before you may add standalone recordings"
-msgstr "Onze excuses, u moet ten minste twee weken lid zijn en 10 geaccepteerde niet triviale wijzigingen hebben voordat u losstaande opnames kunt toevoegen"
+msgstr "Onze excuses, u moet ten minste twee weken lid zijn en 10 geaccepteerde niet triviale bewerkingen hebben voordat u losstaande opnames kunt toevoegen"
 
 #: ../root/search/error/no-info.tt:3
 #, perl-format
@@ -7558,7 +7558,7 @@ msgstr ""
 #: ../root/edit/list.tt:81
 #, perl-format
 msgid "Submit votes & edit notes"
-msgstr "Breng stemmen uit en voeg notities aan wijzigingen toe"
+msgstr "Breng stemmen uit en voeg notities aan bewerkingen toe"
 
 #: ../root/artist/layout.tt:128 ../root/label/layout.tt:98
 #, perl-format
@@ -7784,7 +7784,7 @@ msgstr "Het aantekeningveld werkt als een miniatuurwiki"
 msgid ""
 "The artist you are trying to edit is a special purpose artist, and you may "
 "not make direct changes to this data."
-msgstr "De artiest die u probeert te wijzigen is een artiest voor specifieke doeleinden, en u mag niet direct veranderingen aanbrengen aan deze gegevens."
+msgstr "De artiest die u probeert te bewerken is een artiest voor specifieke doeleinden, en u mag niet direct veranderingen aanbrengen aan deze gegevens."
 
 #: ../root/release/cover_art.tt:41
 #, perl-format
@@ -7848,7 +7848,7 @@ msgstr "Het commentaarveld wordt gebruikt door gebruikers om het verschil tussen
 msgid ""
 "The data in this edit originally came from an older version of this edit, "
 "and may not display correctly"
-msgstr "De gegevens in deze wijziging komen oorspronkelijk uit een oudere versie van deze wijziging, en worden mogelijk niet correct weergegeven."
+msgstr "De gegevens in deze bewerking komen oorspronkelijk uit een oudere versie van deze bewerking, en worden mogelijk niet correct weergegeven."
 
 #: ../root/layout.tt:136
 #, perl-format
@@ -7870,12 +7870,12 @@ msgstr ""
 #: ../root/edit/cannot_approve.tt:6
 #, perl-format
 msgid "The edit has already been closed."
-msgstr "Deze wijziging is al afgesloten."
+msgstr "Deze bewerking is al afgesloten."
 
 #: ../root/edit/cannot_approve.tt:8
 #, perl-format
 msgid "The edit has been cancelled."
-msgstr "De wijziging is geannuleerd."
+msgstr "De bewerking is geannuleerd."
 
 #: ../root/user/privileged.tt:41
 #, perl-format
@@ -7979,7 +7979,7 @@ msgstr "De gevonden nummerlijst ziet er uit alsof sommige nummers andere artiest
 msgid ""
 "The tracklist you are altering is currently in use by the following "
 "releases:"
-msgstr "De nummerlijst die u wijzigt is momenteel in gebruik bij de volgende uitgaves:"
+msgstr "De nummerlijst die u bewerkt is momenteel in gebruik bij de volgende uitgaves:"
 
 #: ../root/taglookup/nag.tt:4
 #, perl-format
@@ -8007,12 +8007,12 @@ msgstr "Er zijn momenteel geen media in MusicBrainz geassocieerd met de informat
 #: ../root/user/subscribers.tt:23
 #, perl-format
 msgid "There are currently no users subscribed to edits that you make."
-msgstr "Er zijn momenteel geen gebruikers geabonneerd op wijzigingen die u maakt."
+msgstr "Er zijn momenteel geen gebruikers geabonneerd op bewerkingen die u maakt."
 
 #: ../root/user/subscribers.tt:25
 #, perl-format
 msgid "There are currently no users subscribed to edits that {user} makes."
-msgstr "Er zijn momenteel geen gebruikers geabonneerd op wijzigingen die {user} maakt."
+msgstr "Er zijn momenteel geen gebruikers geabonneerd op bewerkingen die {user} maakt."
 
 #: ../root/artist/subscribers.tt:22
 #, perl-format
@@ -8074,8 +8074,8 @@ msgstr[1] "Er zijn ook {num} anonieme abonnees."
 msgid "There is currently {num} user subscribed to edits that {user} makes:"
 msgid_plural ""
 "There are currently {num} users subscribed to edits that {user} makes:"
-msgstr[0] "Er is momenteel {num} gebruiker geabonneerd op wijzigingen die {user} maakt"
-msgstr[1] "Er zijn momenteel {num} gebruikers geabonneerd op wijzigingen die {user} maakt."
+msgstr[0] "Er is momenteel {num} gebruiker geabonneerd op bewerkingen die {user} maakt"
+msgstr[1] "Er zijn momenteel {num} gebruikers geabonneerd op bewerkingen die {user} maakt."
 
 #: ../root/artist/subscribers.tt:4
 #, perl-format
@@ -8185,7 +8185,7 @@ msgstr "Deze collectie heeft geen etiketten."
 msgid ""
 "This edit failed because it affected high quality data and did not receive "
 "any votes."
-msgstr "Deze wijziging is niet doorgevoerd omdat het gegevens van een hoge kwaliteit betrof en er geen stemmen waren."
+msgstr "Deze bewerking is niet doorgevoerd omdat het gegevens van een hoge kwaliteit betrof en er geen stemmen waren."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
@@ -8193,40 +8193,40 @@ msgid ""
 "This edit failed because the data it was changing was modified after this "
 "edit was created. This may happen when the same edit is entered in twice; "
 "one will pass but the other will fail."
-msgstr "Deze wijziging is mislukt omdat de gegevens die werden gewijzigd na het creëren van deze wijziging zijn veranderd. Dit kan gebeuren als een wijziging twee keer wordt ingediend; één wordt er doorgevoerd, maar de andere zal mislukken."
+msgstr "Deze bewerking is mislukt omdat de gegevens die werden bewerkt na het creëren van deze bewerking zijn veranderd. Dit kan gebeuren als een bewerking twee keer wordt ingediend; één wordt er doorgevoerd, maar de andere zal mislukken."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit failed because there were insufficient \"yes\" votes."
-msgstr "Deze wijziging is niet doorgevoerd omdat er niet genoeg voorstemmen waren."
+msgstr "Deze bewerking is niet doorgevoerd omdat er niet genoeg voorstemmen waren."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid ""
 "This edit failed due to an internal error and may need to be entered again."
-msgstr "De wijziging is mislukt door een interne fout en moet misschien opnieuw ingevoerd worden."
+msgstr "De bewerking is mislukt door een interne fout en moet misschien opnieuw ingevoerd worden."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid ""
 "This edit failed either because an entity it was modifying no longer exists,"
 " or the entity can not be modified in this manner anymore."
-msgstr "Deze wijziging mislukte omdat het betreffende object niet meer bestaat of niet meer op deze manier veranderd kan worden."
+msgstr "Deze bewerking mislukte omdat het betreffende object niet meer bestaat of niet meer op deze manier veranderd kan worden."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit has been successfully applied."
-msgstr "Deze wijziging is met succes doorgevoerd."
+msgstr "Deze bewerking is met succes doorgevoerd."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit is open and awaiting votes before it can be applied."
-msgstr "Deze wijziging staat open en wacht op stemmen voordat het wordt doorgevoerd."
+msgstr "Deze bewerking staat open en wacht op stemmen voordat het wordt doorgevoerd."
 
 #: ../root/edit/details/set_track_lengths.tt:59
 #, perl-format
 msgid "This edit makes subsecond changes to track lengths"
-msgstr "Deze wijziging verandert lengtes van nummers met minder dan een seconde"
+msgstr "Deze bewerking verandert lengtes van nummers met minder dan een seconde"
 
 #: ../root/doc/edit_type.tt:29
 #, perl-format
@@ -8234,17 +8234,17 @@ msgid ""
 "This edit type changes voting conditions dynamically based on the exact edit"
 " being made. Please see the official edit type documentation for more "
 "details."
-msgstr "Dit type wijziging verandert de stemvoorwaarden dynamisch aan de hand van de precieze wijziging die wordt gemaakt. Lees de officiële documentatie over wijzigingstypes voor details."
+msgstr "Dit type bewerking verandert de stemvoorwaarden dynamisch aan de hand van de precieze bewerking die wordt gemaakt. Lees de officiële documentatie over bewerkstypes voor details."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit was cancelled."
-msgstr "De wijziging is geannuleerd."
+msgstr "De bewerking is geannuleerd."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit was recently cancelled."
-msgstr "De wijziging is recent geannuleerd."
+msgstr "De bewerking is recent geannuleerd."
 
 #: ../root/components/common-macros.tt:187
 #: ../lib/MusicBrainz/Server/Plugin/Diff.pm:118
@@ -8255,7 +8255,7 @@ msgstr "Dit object is verwijderd en kan niet correct worden weergegeven."
 #: ../root/components/common-macros.tt:187
 #, perl-format
 msgid "This entity will be created when edits are entered."
-msgstr "Dit object zal worden gecreëerd als de wijziging wordt ingediend."
+msgstr "Dit object zal worden gecreëerd als de bewerking wordt ingediend."
 
 #: ../root/release/edit/information.tt:192
 #, perl-format
@@ -8278,7 +8278,7 @@ msgid ""
 "This form allows you to split {artist} into separate artists. When the edit "
 "is accepted, existing artist credits will be updated, and collaboration "
 "relationships will be removed"
-msgstr "Dit formulier laat u {artist} splitsen in afzonderlijke artiesten. Als de wijziging wordt doorgevoerd, worden bestaande artiesttoewijzingen bijgewerkt en samenwerkingsverwantschappen verwijderd."
+msgstr "Dit formulier laat u {artist} splitsen in afzonderlijke artiesten. Als de bewerking wordt doorgevoerd, worden bestaande artiesttoewijzingen bijgewerkt en samenwerkingsverwantschappen verwijderd."
 
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
@@ -8314,7 +8314,7 @@ msgstr "Dit is een server voor ontwikkeling; alle wachtwoorden zijn teruggezet n
 msgid ""
 "This is an {history|old revision} of this annotation, as edited by {user} on"
 " {date}. {current|View current revision}."
-msgstr "Dit is een {history|oude revisie} van deze aantekening, zoals deze is gewijzigd door {user} op {date}. {current|Bekijk huidige revisie}."
+msgstr "Dit is een {history|oude revisie} van deze aantekening, zoals deze is bewerkt door {user} op {date}. {current|Bekijk huidige revisie}."
 
 #: ../root/alias/edit_form.tt:11
 #, perl-format
@@ -9339,7 +9339,7 @@ msgstr "Stem voor"
 #: ../root/layout/menu.tt:197
 #, perl-format
 msgid "Vote on Edits"
-msgstr "Stem op wijzigingen"
+msgstr "Stem op bewerkingen"
 
 #: ../root/edit/index.tt:31
 #, perl-format
@@ -9562,12 +9562,12 @@ msgstr "Welkom bij MusicBrainz!"
 #: ../root/account/preferences.tt:40
 #, perl-format
 msgid "When I add a note to an edit, mail me all future notes for that edit."
-msgstr "Als ik een notitie toevoeg bij een wijziging, e-mail me dan alle hiernavolgende notities bij deze wijziging."
+msgstr "Als ik een notitie toevoeg bij een bewerking, e-mail me dan alle hiernavolgende notities bij deze bewerking."
 
 #: ../root/account/preferences.tt:42
 #, perl-format
 msgid "When I vote on an edit, mail me all future notes for that edit."
-msgstr "Als ik stem op een wijziging, e-mail me dan alle hiernavolgende notities bij deze wijziging."
+msgstr "Als ik stem op een bewerking, e-mail me dan alle hiernavolgende notities bij deze bewerking."
 
 #: ../root/layout/merge-helper.tt:18
 #, perl-format
@@ -9760,7 +9760,7 @@ msgstr "U staat op het punt om een artiest aan MusicBrainz toe te voegen."
 msgid ""
 "You are about to enter an edit that will change the durations of tracks to "
 "match that of the below disc ID."
-msgstr "U staat op het punt om een wijziging toe te voegen die de duur van de nummers verandert zodat ze overeenkomen met onderstaand Disc ID."
+msgstr "U staat op het punt om een bewerking toe te voegen die de duur van de nummers verandert zodat ze overeenkomen met onderstaand Disc ID."
 
 #: ../root/artist/merge.tt:4
 #, perl-format
@@ -9843,12 +9843,12 @@ msgstr "U volgt nu de volgende artiesten voor nieuwe uitgaves."
 #: ../root/edit/notes.tt:45
 #, perl-format
 msgid "You are not currently able to add notes to this edit. ({url|Details})"
-msgstr "U kunt momenteel geen notities toevoegen bij deze wijziging. ({url|Details})"
+msgstr "U kunt momenteel geen notities toevoegen bij deze bewerking. ({url|Details})"
 
 #: ../root/edit/index.tt:63
 #, perl-format
 msgid "You are not currently able to vote on this edit. ({url|Details})"
-msgstr "U kunt momenteel niet stemmen op deze wijziging. ({url|Details})"
+msgstr "U kunt momenteel niet stemmen op deze bewerking. ({url|Details})"
 
 #: ../root/artist/subscribers.tt:33 ../root/label/subscribers.tt:33
 #: ../root/user/subscribers.tt:38
@@ -9946,31 +9946,31 @@ msgstr "U heeft de artiest voor specifieke doeleinden {valink|Diverse Artiesten}
 msgid ""
 "You may enter an edit note while cancelling this edit. This can be useful to"
 " point editors to another edit."
-msgstr "U kunt een notitie toevoegen als u een wijziging annuleert. Dit kan handig zijn om redacteuren op een andere wijziging te wijzen."
+msgstr "U kunt een notitie toevoegen als u een bewerking annuleert. Dit kan handig zijn om redacteuren op een andere bewerking te wijzen."
 
 #: ../root/artist/special_purpose.tt:2
 #, perl-format
 msgid "You may not edit special purpose artists"
-msgstr "U mag een artiest voor specifieke doeleinden niet wijzigen"
+msgstr "U mag een artiest voor specifieke doeleinden niet bewerken"
 
 #: ../root/account/registered.tt:21
 #, perl-format
 msgid ""
 "You may proceed to <a href=\"{uri}\">your user profile</a>, or maybe you "
 "want to {edit|start editing}!"
-msgstr "U kunt verder gaan naar <a href=\"uri\">uw gebruikersprofiel</a>, of misschien wilt u {edit|beginnen met wijzigen}!"
+msgstr "U kunt verder gaan naar <a href=\"{uri}\">uw gebruikersprofiel</a>, of misschien wilt u {edit|beginnen met bewerken}!"
 
 #: ../root/edit/index.tt:79
 #, perl-format
 msgid "You must be logged in to vote on edits"
-msgstr "U moet ingelogd zijn om de stemmen op wijzigingen"
+msgstr "U moet ingelogd zijn om de stemmen op bewerkingen"
 
 #: ../root/main/401.tt:9
 #, perl-format
 msgid ""
 "You must first verify your email address before being able to edit or add "
 "anything to the database."
-msgstr "U moet eerst uw e-mailadres verifiëren voordat u wijzigingen kunt aanbrengen aan de gegevensbank."
+msgstr "U moet eerst uw e-mailadres verifiëren voordat u bewerkingen kunt aanbrengen aan de gegevensbank."
 
 #: ../root/account/register.tt:37
 #, perl-format
@@ -10483,7 +10483,7 @@ msgstr "{doc|Transclusieredacteur}"
 msgid ""
 "{edit} has received one or more \"no\" votes, you must leave an edit note "
 "before you can approve it."
-msgstr "{edit} heeft één of meer tegenstemmen gekregen. U moet een notitie bij deze wijziging plaatsen om hem direct goed te keuren."
+msgstr "{edit} heeft één of meer tegenstemmen gekregen. U moet een notitie bij deze bewerking plaatsen om hem direct goed te keuren."
 
 #: ../root/components/common-macros.tt:196
 #: ../root/components/relationships.tt:18
@@ -10712,7 +10712,7 @@ msgstr "Bedankt, uw aanpassing is toegevoegd aan de wachtrij voor collegiale toe
 
 #: ../lib/MusicBrainz/Server/Controller.pm:116
 msgid "Thank you, your edit has been accepted and applied"
-msgstr "Bedankt, uw wijziging is geaccepteerd en toegepast"
+msgstr "Bedankt, uw bewerking is geaccepteerd en toegepast"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:44
 msgid "The user ID is missing or is in an invalid format."
@@ -10764,7 +10764,7 @@ msgstr "Eén of meerdere verplichte parameters ontbreekt."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:198
 msgid "Sorry, this password reset link has expired."
-msgstr "Onze excuses, deze verwijzing om het wachtwoord opnieuw in te stellen is verlopen."
+msgstr "Onze excuses, deze bewerking om het wachtwoord opnieuw in te stellen is verlopen."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:215
 #, perl-brace-format
@@ -10785,7 +10785,7 @@ msgstr "<strong>We konden geen confirmatie e-mail naar u sturen.</strong>\n<br/>
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:475
 #, perl-brace-format
 msgid "The artist name has been changed in edit #{id}."
-msgstr "De artiestennaam is veranderd in wijziging #{id}."
+msgstr "De artiestennaam is veranderd in bewerking #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:518
 msgid "You cannot merge a special purpose artist into another artist"
@@ -10794,7 +10794,7 @@ msgstr "U kunt een artiest voor specifieke doeleinden niet samenvoegen met een n
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:637
 #, perl-brace-format
 msgid "This collaboration has been split in edit #{id}."
-msgstr "Deze samenwerking is gesplitst in wijziging #{id}."
+msgstr "Deze samenwerking is gesplitst in bewerking #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/AutoEditorElections.pm:70
 #, perl-brace-format
@@ -10991,7 +10991,7 @@ msgstr "Verwijder dit alias van deze artiest"
 #: ../lib/MusicBrainz/Server/Edit/Artist/Edit.pm:31
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditArtist.pm:9
 msgid "Edit artist"
-msgstr "Wijzig artiest"
+msgstr "Bewerk artiest"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
@@ -11081,62 +11081,62 @@ msgstr "Verander de artiestennaam"
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLabel.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:29
 msgid "Edit label"
-msgstr "Wijzig platenmaatschappij"
+msgstr "Bewerk platenmaatschappij"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLink.pm:17
 msgid "Edit relationship (historic)"
-msgstr "Wijzig verwantschap (historisch)"
+msgstr "Bewerk verwantschap (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLinkAttr.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkAttribute.pm:14
 msgid "Edit relationship attribute"
-msgstr "Wijzig verwantschapseigenschap "
+msgstr "Bewerk verwantschapseigenschap "
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLinkType.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkType.pm:14
 msgid "Edit relationship type"
-msgstr "Wijzig verwantschapstype"
+msgstr "Bewerk verwantschapstype"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseAttrs.pm:15
 msgid "Edit release attributes"
-msgstr "Wijzig uitgave-eigenschappen"
+msgstr "Bewerk uitgave-eigenschappen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEvents.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEventsOld.pm:17
 msgid "Edit release events (historic)"
-msgstr "Wijzig uitgavegebeurtenissen (historisch)"
+msgstr "Bewerk uitgavegebeurtenissen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupName.pm:7
 msgid "Edit release group name"
-msgstr "Wijzig de naam van de uitgavegroep"
+msgstr "Bewerk de naam van de uitgavegroep"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseGroupType.pm:9
 msgid "Edit release group type"
-msgstr "Wijzig het type van de uitgavegroep"
+msgstr "Bewerk het type van de uitgavegroep"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseLanguage.pm:13
 msgid "Edit release language"
-msgstr "Wijzig de taal van de uitgave"
+msgstr "Bewerk de taal van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseName.pm:10
 msgid "Edit release name"
-msgstr "Wijzig de naam van de uitgave"
+msgstr "Bewerk de naam van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length"
-msgstr "Wijzig de lengte van het nummer"
+msgstr "Bewerk de lengte van het nummer"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackName.pm:20
 msgid "Edit track name"
-msgstr "Wijzig de naam van het nummer"
+msgstr "Bewerk de naam van het nummer"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackNum.pm:11
 msgid "Edit track number"
-msgstr "Wijzig de positie van het nummer"
+msgstr "Bewerk de positie van het nummer"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditURL.pm:9
 msgid "Edit url"
-msgstr "Wijzig URL"
+msgstr "Bewerk URL"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MACToSAC.pm:12
 msgid "Convert release to single artist"
@@ -11216,7 +11216,7 @@ msgstr "Verwijder medium"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Edit.pm:39
 msgid "Edit medium"
-msgstr "Wijzig medium"
+msgstr "Bewerk medium"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
@@ -11240,7 +11240,7 @@ msgstr "Verwijder verwantschap"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Edit.pm:28
 msgid "Edit relationship"
-msgstr "Wijzig verwantschap"
+msgstr "Bewerk verwantschap"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkType.pm:13
 msgid "Remove relationship type"
@@ -11256,24 +11256,24 @@ msgstr "Verwijder de platenmaatschappij van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
-msgstr "Wijzig uitgave"
+msgstr "Bewerk uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:28
 msgid "Edit release artist"
-msgstr "Wijzig de artiest van de uitgave"
+msgstr "Bewerk de artiest van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:140
 msgid ""
 "This edit cannot be applied, as the release being edited no longer exists."
-msgstr "Deze wijziging kan niet doorgevoerd worden omdat de uitgave die wordt gewijzigd niet meer bestaat."
+msgstr "Deze bewerking kan niet doorgevoerd worden omdat de uitgave die wordt bewerkt niet meer bestaat."
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditBarcodes.pm:17
 msgid "Edit barcodes"
-msgstr "Wijzig streepjescodes"
+msgstr "Bewerk streepjescodes"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
-msgstr "Wijzig de platenmaatschappij van de uitgave"
+msgstr "Bewerk de platenmaatschappij van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
@@ -11281,7 +11281,7 @@ msgstr "Voeg een aantekening toe aan de uitgavegroep"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Edit.pm:34
 msgid "Edit release group"
-msgstr "Wijzig uitgavegroep"
+msgstr "Bewerk uitgavegroep"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
@@ -11313,7 +11313,7 @@ msgstr "Verwijder alias van deze compositie"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:25
 msgid "Edit work"
-msgstr "Wijzig compositie"
+msgstr "Bewerk compositie"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
@@ -11452,7 +11452,7 @@ msgstr "Deze eigenschap kan maar {max} keer gespecificeerd worden. U specificeer
 msgid ""
 "You must provide an edit note when adding a release. Even just a URL or "
 "something like “CD in hand” helps!"
-msgstr "U moet een wijzigingsnotitie geven als u een uitgave toevoegt. Alleen al een URL of iets als „cd in mijn hand“ helpt!"
+msgstr "U moet een bewerkingsnotitie geven als u een uitgave toevoegt. Alleen al een URL of iets als „cd in mijn hand“ helpt!"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:62
 msgid ""
