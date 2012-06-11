@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-06-09 18:23+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-06-11 22:57+0000\n"
+"Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -199,13 +199,13 @@ msgstr "Verbeterd zoeken / opruiming."
 
 #: DB:statistic_event/description:2011-05-12
 msgid "In preparation for NGS, editing is turned off until release."
-msgstr "In aanloop naar NGS zijn wijzigingen uitgeschakeld tot de uitgave van NGS."
+msgstr "In aanloop naar NGS zijn bewerkingen uitgeschakeld tot de uitgave van NGS."
 
 #: DB:statistic_event/description:2011-05-02
 msgid ""
 "In preparation for NGS, editors are encouraged to avoid editing until "
 "release unless entirely necessary."
-msgstr "In aanloop naar NGS worden redacteurs aangespoord om wijzigingen te vermijden tenzij het strikt noodzakelijk is."
+msgstr "In aanloop naar NGS worden redacteurs aangespoord om bewerkingen te vermijden tenzij het strikt noodzakelijk is."
 
 #: DB:statistic_event/title:2006-03-05
 msgid "Indexed search/XML WS"
@@ -310,7 +310,7 @@ msgid ""
 "MusicBrainz partners with MusicIP and starts using MusicDNS's PUID acoustic "
 "fingerprints. Picard becomes the official MusicBrainz tagger with PUID "
 "support, which causes edit activity to decrease."
-msgstr "MusicBrainz begint een partnerschap met MusicIP en begint de PUID akoustische vingerafdrukken van MusicDNS te gebruiken. Picard wordt de officiële tagger van MusicBrainz met ondersteuning voor PUID's, waardoor er minder wijzigingen worden gedaan."
+msgstr "MusicBrainz begint een partnerschap met MusicIP en begint de PUID akoestische vingerafdrukken van MusicDNS te gebruiken. Picard wordt de officiële tagger van MusicBrainz met ondersteuning voor PUID's, waardoor er minder bewerkingen worden gedaan."
 
 #: DB:statistic_event/title:2006-03-12
 msgid "MusicIP PUID"
@@ -318,11 +318,11 @@ msgstr "MusicIP PUID"
 
 #: DB:statistic_event/title:2011-05-12
 msgid "NGS No-Editing Phase"
-msgstr "Wijzigingsloze fase voor NGS"
+msgstr "Bewerkingsloze fase voor NGS"
 
 #: DB:statistic_event/title:2011-05-02
 msgid "NGS Reduced Editing Phase"
-msgstr "Wijzigingsarme fase voor NGS"
+msgstr "Bewerkingsarme fase voor NGS"
 
 #: DB:statistic_event/title:2011-05-18
 msgid "NGS Release"
@@ -485,32 +485,32 @@ msgstr "Actieve stemmers"
 #: ../root/statistics/timeline.tt:75
 #, perl-format
 msgid "Add/remove lines:"
-msgstr "Regels toevoegen of verwijderen:"
+msgstr "Lijnen toevoegen of verwijderen:"
 
 #: ../root/statistics/view_js.tt:58
 #, perl-format
 msgid "All edits that have been applied"
-msgstr "Alle wijzigingen die zijn doorgevoerd"
+msgstr "Alle bewerkingen die zijn doorgevoerd"
 
 #: ../root/statistics/view_js.tt:62
 #, perl-format
 msgid "All edits that have failed by being voted down"
-msgstr "Alle wijzigingen die zijn mislukt omdat ze zijn weggestemd"
+msgstr "Alle bewerkingen die zijn mislukt omdat ze zijn weggestemd"
 
 #: ../root/statistics/view_js.tt:60
 #, perl-format
 msgid "All edits that have failed dependency checks"
-msgstr "Alle wijzigingen die niet door de controle van afhankelijkheden kwamen."
+msgstr "Alle bewerkingen die niet door de controle van afhankelijkheden kwamen."
 
 #: ../root/statistics/view_js.tt:61
 #, perl-format
 msgid "All edits that have failed prerequisite checks"
-msgstr "Alle wijzigingen die niet door de controle van benodigdheden kwamen."
+msgstr "Alle bewerkingen die niet door de controle van benodigdheden kwamen."
 
 #: ../root/statistics/view_js.tt:59
 #, perl-format
 msgid "All edits that have hit an error"
-msgstr "Alle wijzigingen waarbij een fout is opgetreden"
+msgstr "Alle bewerkingen waarbij een fout is opgetreden"
 
 #: ../root/statistics/languages_scripts.tt:33
 #, perl-format
@@ -520,7 +520,7 @@ msgstr "Alle andere beschikbare talen en schriften hebben nul uitgaves en compos
 #: ../root/statistics/view_js.tt:58
 #, perl-format
 msgid "Applied edits"
-msgstr "Toegepaste wijzigingen"
+msgstr "Toegepaste bewerkingen"
 
 #: ../root/statistics/index.tt:447
 #, perl-format
@@ -530,7 +530,7 @@ msgstr "Doorgevoerd:"
 #: ../root/statistics/index.tt:511
 #, perl-format
 msgid "Approve:"
-msgstr "Bevestigen:"
+msgstr "Bevestigd:"
 
 #: ../root/statistics/view_js.tt:28
 #, perl-format
@@ -701,22 +701,22 @@ msgstr ""
 #: ../root/statistics/coverart.tt:86
 #, perl-format
 msgid "By Cover Art Type"
-msgstr ""
+msgstr "Per type hoesafbeelding"
 
 #: ../root/statistics/coverart.tt:64
 #, perl-format
 msgid "By Release Format"
-msgstr ""
+msgstr "Per mediumtype"
 
 #: ../root/statistics/coverart.tt:48
 #, perl-format
 msgid "By Release Status"
-msgstr ""
+msgstr "Per uitgavestatus"
 
 #: ../root/statistics/coverart.tt:32
 #, perl-format
 msgid "By Release Type"
-msgstr ""
+msgstr "Per uitgavetype"
 
 #: ../root/statistics/index.tt:57
 #, perl-format
@@ -741,7 +741,7 @@ msgstr "Cd-beginsels (ingevoerd)"
 #: ../root/statistics/view_js.tt:57
 #, perl-format
 msgid "Cancelled edits"
-msgstr "Geannuleerde wijzigingen"
+msgstr "Geannuleerde bewerkingen"
 
 #: ../root/statistics/index.tt:477
 #, perl-format
@@ -771,7 +771,7 @@ msgstr "Kernobjecten"
 #: ../root/statistics/view_js.tt:76
 #, perl-format
 msgid "Count of active editors (editing or voting) during the last week"
-msgstr "Aantal actieve redacteuren (wijzigen of stemmen) gedurende de afgelopen week"
+msgstr "Aantal actieve redacteuren (bewerken of stemmen) gedurende de afgelopen week"
 
 #: ../root/statistics/view_js.tt:71
 #, perl-format
@@ -936,7 +936,7 @@ msgstr "Totaal aantal opnames met {n} uitgaves"
 #: ../root/statistics/view_js.tt:179
 #, perl-format
 msgid "Count of all Relationships"
-msgstr ""
+msgstr "Totaal aantal verwantschappen"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
@@ -1056,7 +1056,7 @@ msgstr "Totaal aantal redacteurs"
 #: ../root/statistics/view_js.tt:51
 #, perl-format
 msgid "Count of all edits"
-msgstr "Totaal aantal wijzigingen"
+msgstr "Totaal aantal bewerkingen"
 
 #: ../root/statistics/view_js.tt:49
 #, perl-format
@@ -1096,7 +1096,7 @@ msgstr "Totaal aantal composities"
 #: ../root/statistics/view_js.tt:74
 #, perl-format
 msgid "Count of editors who have submitted edits during the last week"
-msgstr "Aantal redacteurs die afgelopen week wijzigingen hebben ingediend"
+msgstr "Aantal redacteurs die afgelopen week bewerkingen hebben ingediend"
 
 #: ../root/statistics/view_js.tt:75
 #, perl-format
@@ -1106,17 +1106,17 @@ msgstr "Aantal redacteurs die afgelopen week hebben gestemd"
 #: ../root/statistics/view_js.tt:53
 #, perl-format
 msgid "Count of edits per day"
-msgstr "Aantal wijzigingen per dag"
+msgstr "Aantal bewerkingen per dag"
 
 #: ../root/statistics/view_js.tt:54
 #, perl-format
 msgid "Count of edits per week"
-msgstr "Aantal wijzigingen per week"
+msgstr "Aantal bewerkingen per week"
 
 #: ../root/statistics/view_js.tt:52
 #, perl-format
 msgid "Count of open edits"
-msgstr "Aantal openstaande wijzigingen"
+msgstr "Aantal openstaande bewerkingen"
 
 #: ../root/statistics/view_js.tt:66
 #, perl-format
@@ -1181,7 +1181,7 @@ msgstr "Trek een rechthoek op een grafiek"
 #: ../root/statistics/view_js.tt:27
 #, perl-format
 msgid "Edit Information"
-msgstr "Wijzig informatie"
+msgstr "Bewerk informatie"
 
 #: ../root/statistics/index.tt:402 ../root/statistics/view_js.tt:73
 #, perl-format
@@ -1191,7 +1191,7 @@ msgstr "Redacteurs"
 #: ../root/statistics/index.tt:398
 #, perl-format
 msgid "Editors, Edits, and Votes"
-msgstr "Redacteurs, wijzigingen en stemmen"
+msgstr "Redacteurs, bewerkingen en stemmen"
 
 #: ../root/statistics/index.tt:49 ../root/statistics/index.tt:405
 #, perl-format
@@ -1201,27 +1201,27 @@ msgstr "Redacteurs:"
 #: ../root/statistics/index.tt:432 ../root/statistics/view_js.tt:51
 #, perl-format
 msgid "Edits"
-msgstr "Wijzigingen"
+msgstr "Bewerkingen"
 
 #: ../root/statistics/view_js.tt:56
 #, perl-format
 msgid "Edits about to be cancelled"
-msgstr "Wijzigingen die spoedig geannuleerd worden"
+msgstr "Bewerkingen die spoedig geannuleerd worden"
 
 #: ../root/statistics/view_js.tt:53
 #, perl-format
 msgid "Edits per day"
-msgstr "Wijzigingen per dag"
+msgstr "Bewerkingen per dag"
 
 #: ../root/statistics/view_js.tt:54
 #, perl-format
 msgid "Edits per week"
-msgstr "Wijzigingen per week"
+msgstr "Bewerkingen per week"
 
 #: ../root/statistics/index.tt:435 ../root/statistics/index.tt:482
 #, perl-format
 msgid "Edits:"
-msgstr "Wijzigingen:"
+msgstr "Bewerkingen:"
 
 #: ../root/statistics/view_js.tt:59
 #, perl-format
@@ -1510,7 +1510,7 @@ msgstr "Media zonder disc-id's:"
 #: ../root/statistics/view_js.tt:98
 #, perl-format
 msgid "Mediums with no format set"
-msgstr ""
+msgstr "Media waarvan het type niet is ingesteld"
 
 #: ../root/statistics/index.tt:28 ../root/statistics/index.tt:296
 #, perl-format
@@ -1570,7 +1570,7 @@ msgstr "Normale gegevenskwaliteit:"
 #: ../root/statistics/view_js.tt:52
 #, perl-format
 msgid "Open Edits"
-msgstr "Openstaande wijzigingen"
+msgstr "Openstaande bewerkingen"
 
 #: ../root/statistics/index.tt:441
 #, perl-format
@@ -2014,7 +2014,7 @@ msgstr "Tijdslijngrafiek"
 #: ../root/statistics/view_js.tt:56
 #, perl-format
 msgid "To-be-cancelled edits"
-msgstr "Wijzigingen die geannuleerd gaan worden"
+msgstr "Bewerkingen die geannuleerd gaan worden"
 
 #: ../root/statistics/countries.tt:38 ../root/statistics/formats.tt:38
 #: ../root/statistics/languages_scripts.tt:44
@@ -2223,7 +2223,7 @@ msgstr "die meer dan tien opnames identificeren:"
 #: ../root/statistics/index.tt:418
 #, perl-format
 msgid "who edited last week:"
-msgstr "die vorige week wijzigen aangebracht hebben:"
+msgstr "die vorige week bewerkingen aangebracht hebben:"
 
 #: ../root/statistics/index.tt:425
 #, perl-format
