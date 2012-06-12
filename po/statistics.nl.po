@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-06-11 22:57+0000\n"
+"PO-Revision-Date: 2012-06-12 18:56+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -90,11 +90,11 @@ msgstr "Abonnementen op artiesten"
 
 #: DB:statistic_event/title:2008-07-30
 msgid "BBC dynamic artist pages"
-msgstr ""
+msgstr "Dynamische artiestenpagina's van de BBC"
 
 #: DB:statistic_event/description:2008-07-30
 msgid "BBC launches the dynamic artist pages based on MusicBrainz data."
-msgstr ""
+msgstr "De BBC lanceert dynamische artiestenpagina's gebaseerd op gegevens van MusicBrainz"
 
 #: DB:statistic_event/title:2007-06-28
 msgid "BBC partners with MetaBrainz"
@@ -150,13 +150,13 @@ msgstr ""
 
 #: DB:statistic_event/title:2003-11-10
 msgid "Edit search"
-msgstr ""
+msgstr "Zoeken naar bewerkingen"
 
 #: DB:statistic_event/description:2007-12-07
 msgid ""
 "Editor ojnkpjg runs a script setting track times from DiscID values, "
 "creating a huge spike in edits."
-msgstr ""
+msgstr "Redacteur ojnkpjg voert een script uit dat de duur van nummers instelt aan de hand van disc-id's, wat tot een enorme piek aan bewerkingen leidt."
 
 #: DB:statistic_event/description:2007-10-17
 msgid "Folksonomy tagging, editor subscriptions are released."
@@ -525,7 +525,7 @@ msgstr "Toegepaste bewerkingen"
 #: ../root/statistics/index.tt:447
 #, perl-format
 msgid "Applied:"
-msgstr "Doorgevoerd:"
+msgstr "doorgevoerd:"
 
 #: ../root/statistics/index.tt:511
 #, perl-format
@@ -746,7 +746,7 @@ msgstr "Geannuleerde bewerkingen"
 #: ../root/statistics/index.tt:477
 #, perl-format
 msgid "Cancelled:"
-msgstr "Geannuleerd:"
+msgstr "geannuleerd:"
 
 #: ../root/statistics/timeline.tt:75
 #, perl-format
@@ -1156,12 +1156,12 @@ msgstr "Statistieken over de gegevensbank"
 #: ../root/statistics/view_js.tt:151
 #, perl-format
 msgid "Default Data Quality"
-msgstr "Standaard gegevenskwaliteit"
+msgstr "standaard gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:228
 #, perl-format
 msgid "Default Data Quality:"
-msgstr "Standaard gegevenskwaliteit:"
+msgstr "standaard gegevenskwaliteit:"
 
 #: ../root/statistics/index.tt:255 ../root/statistics/view_js.tt:123
 #, perl-format
@@ -1246,32 +1246,32 @@ msgstr "Exacte waardes (objecten uitgezet tegen de datum)"
 #: ../root/statistics/index.tt:459
 #, perl-format
 msgid "Failed (dependency):"
-msgstr ""
+msgstr "mislukt (afhankelijkheid):"
 
 #: ../root/statistics/index.tt:471
 #, perl-format
 msgid "Failed (internal error):"
-msgstr "Mislukt (interne fout):"
+msgstr "mislukt (interne fout):"
 
 #: ../root/statistics/index.tt:465
 #, perl-format
 msgid "Failed (prerequisite):"
-msgstr ""
+msgstr "mislukt (voorwaarde):"
 
 #: ../root/statistics/view_js.tt:60
 #, perl-format
 msgid "Failed edits (dependency)"
-msgstr ""
+msgstr "Mislukte bewerkingen (afhankelijkheid)"
 
 #: ../root/statistics/view_js.tt:61
 #, perl-format
 msgid "Failed edits (prerequisite)"
-msgstr ""
+msgstr "Mislukte bewerkingen (voorwaarde)"
 
 #: ../root/statistics/view_js.tt:62
 #, perl-format
 msgid "Failed edits (voted down)"
-msgstr ""
+msgstr "Mislukte bewerkingen (weggestemd)"
 
 #: ../root/statistics/view_js.tt:106
 #, perl-format
@@ -1281,7 +1281,7 @@ msgstr "Vrouwelijke artiesten"
 #: ../root/statistics/index.tt:168
 #, perl-format
 msgid "Female:"
-msgstr "Vrouw:"
+msgstr "vrouw:"
 
 #: ../root/statistics/formats.tt:28
 #, perl-format
@@ -1301,12 +1301,12 @@ msgstr "Groepen"
 #: ../root/statistics/view_js.tt:154
 #, perl-format
 msgid "High Data Quality"
-msgstr "Hoge gegevenskwaliteit"
+msgstr "hoge gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:222
 #, perl-format
 msgid "High Data Quality:"
-msgstr "Hoge gegevenskwaliteit:"
+msgstr "hoge gegevenskwaliteit:"
 
 #: ../root/statistics/timeline.tt:76
 #, perl-format
@@ -1446,14 +1446,14 @@ msgstr "Talen en schriften"
 #: ../root/statistics/index.tt:488 ../root/statistics/index.tt:540
 #, perl-format
 msgid "Last Week:"
-msgstr "Vorige week:"
+msgstr "vorige week:"
 
 #: ../root/statistics/countries.tt:28 ../root/statistics/coverart.tt:10
 #: ../root/statistics/formats.tt:21 ../root/statistics/index.tt:7
 #: ../root/statistics/languages_scripts.tt:32
 #, perl-format
 msgid "Last updated: {date}"
-msgstr "Het laatst bijgewerkt: {date}"
+msgstr "Het laatst bijgewerkt op {date}"
 
 #: ../root/statistics/timeline.tt:60
 #, perl-format
@@ -1463,12 +1463,12 @@ msgstr "Legenda"
 #: ../root/statistics/view_js.tt:155
 #, perl-format
 msgid "Low Data Quality"
-msgstr "Lage gegevenskwaliteit"
+msgstr "lage gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:248
 #, perl-format
 msgid "Low Data Quality:"
-msgstr "Lage gegevenskwaliteit:"
+msgstr "lage gegevenskwaliteit:"
 
 #: ../root/statistics/view_js.tt:105
 #, perl-format
@@ -1478,7 +1478,7 @@ msgstr "Mannelijke artiesten"
 #: ../root/statistics/index.tt:162
 #, perl-format
 msgid "Male:"
-msgstr "Man:"
+msgstr "man:"
 
 #: ../root/statistics/formats.tt:31 ../root/statistics/view_js.tt:46
 #, perl-format
@@ -1535,17 +1535,17 @@ msgstr "Geen stemmen"
 #: ../root/statistics/coverart.tt:74
 #, perl-format
 msgid "No format"
-msgstr ""
+msgstr "Geen mediumtype"
 
 #: ../root/statistics/coverart.tt:58
 #, perl-format
 msgid "No status"
-msgstr ""
+msgstr "Geen status"
 
 #: ../root/statistics/coverart.tt:42 ../root/statistics/coverart.tt:96
 #, perl-format
 msgid "No type"
-msgstr ""
+msgstr "Geen type"
 
 #: ../root/statistics/index.tt:523
 #, perl-format
@@ -1560,12 +1560,12 @@ msgstr "Artiesten die geen groep zijn:"
 #: ../root/statistics/view_js.tt:153
 #, perl-format
 msgid "Normal Data Quality"
-msgstr "Normale gegevenskwaliteit"
+msgstr "normale gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:235
 #, perl-format
 msgid "Normal Data Quality:"
-msgstr "Normale gegevenskwaliteit:"
+msgstr "normale gegevenskwaliteit:"
 
 #: ../root/statistics/view_js.tt:52
 #, perl-format
@@ -1575,7 +1575,7 @@ msgstr "Openstaande bewerkingen"
 #: ../root/statistics/index.tt:441
 #, perl-format
 msgid "Open:"
-msgstr "Openstaand:"
+msgstr "openstaand:"
 
 #: ../root/statistics/view_js.tt:40
 #, perl-format
@@ -1590,7 +1590,7 @@ msgstr "Andere objecten"
 #: ../root/statistics/index.tt:174
 #, perl-format
 msgid "Other gender:"
-msgstr "Andere geslachten:"
+msgstr "andere geslachten:"
 
 #: ../root/statistics/view_js.tt:107
 #, perl-format
@@ -1615,7 +1615,7 @@ msgstr "PUID's"
 #: ../root/statistics/view_js.tt:134
 #, perl-format
 msgid "PUIDs (IDs)"
-msgstr ""
+msgstr "PUID's (totaal aantal ID's)"
 
 #: ../root/statistics/index.tt:82
 #, perl-format
@@ -1625,7 +1625,7 @@ msgstr "PUID's (totaal / uniek):"
 #: ../root/statistics/index.tt:377
 #, perl-format
 msgid "PUIDs (distinct IDs):"
-msgstr ""
+msgstr "PUID's (verschillende ID's)"
 
 #: ../root/statistics/index.tt:372
 #, perl-format
@@ -2046,12 +2046,12 @@ msgstr "Onbekend land"
 #: ../root/statistics/view_js.tt:152
 #, perl-format
 msgid "Unknown Data Quality"
-msgstr "Onbekende gegevenskwaliteit"
+msgstr "onbekende gegevenskwaliteit"
 
 #: ../root/statistics/index.tt:242
 #, perl-format
 msgid "Unknown Data Quality:"
-msgstr "Onbekende gegevenskwaliteit:"
+msgstr "onbekende gegevenskwaliteit:"
 
 #: ../root/statistics/formats.tt:5
 #, perl-format
@@ -2101,7 +2101,7 @@ msgstr "Artiesten van een onbekend type"
 #: ../root/statistics/index.tt:453
 #, perl-format
 msgid "Voted down:"
-msgstr "Weggestemd:"
+msgstr "weggestemd:"
 
 #: ../root/statistics/index.tt:502 ../root/statistics/view_js.tt:65
 #, perl-format
@@ -2166,7 +2166,7 @@ msgstr "Voor:"
 #: ../root/statistics/index.tt:495 ../root/statistics/index.tt:547
 #, perl-format
 msgid "Yesterday:"
-msgstr "Gisteren:"
+msgstr "gisteren:"
 
 #: ../root/statistics/timeline.tt:73
 #, perl-format
@@ -2243,7 +2243,7 @@ msgstr "met tien of meer disc-id's:"
 #: ../root/statistics/coverart.tt:119
 #, perl-format
 msgid "with 30 or more pieces of cover art:"
-msgstr "Met dertig of meer hoesafbeeldingen:"
+msgstr "met dertig of meer hoesafbeeldingen:"
 
 #: ../root/statistics/index.tt:145
 #, perl-format
@@ -2258,12 +2258,12 @@ msgstr ""
 #: ../root/statistics/index.tt:180
 #, perl-format
 msgid "with no gender set:"
-msgstr "Waarvan het geslacht niet is ingesteld:"
+msgstr "waarvan het geslacht niet is ingesteld:"
 
 #: ../root/statistics/index.tt:139
 #, perl-format
 msgid "with no type set:"
-msgstr "Waarvan het type niet is ingesteld:"
+msgstr "waarvan het type niet is ingesteld:"
 
 #: ../root/statistics/index.tt:355
 #, perl-format
