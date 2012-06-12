@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-11 12:59+0000\n"
+"PO-Revision-Date: 2012-06-11 23:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -802,7 +802,7 @@ msgstr ""
 #: ../root/admin/edit_user.tt:1
 #, perl-format
 msgid "Adjust User Account Flags"
-msgstr ""
+msgstr "Regola indicatori di account utente"
 
 #: ../root/layout/menu.tt:51
 #, perl-format
@@ -817,7 +817,7 @@ msgstr "Amministrazione"
 #: ../root/admin/edit_user.tt:15
 #, perl-format
 msgid "Administration flags"
-msgstr ""
+msgstr "Indicatori di amministrazione"
 
 #: ../root/layout/sidebar/sidebar-affiliates.tt:7
 #, perl-format
@@ -1104,7 +1104,7 @@ msgstr "Sei sicuro di voler nominare l'editor {editor} per l'elezione allo statu
 msgid ""
 "Are you sure you want to remove the PUID <code>{puid}</code> from "
 "{recording} by {ac}?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere il PUID <code>{puid}</code> da {recording} di {ac}?"
 
 #: ../root/artist/delete_alias.tt:7
 #, perl-format
@@ -1604,7 +1604,7 @@ msgid ""
 "Because you provided an email address, an verification email has been sent "
 "to <code>{addr}</code>. Please check your mailbox and click on the link in "
 "the email to verify the new email address."
-msgstr ""
+msgstr "Visto che hai fornito un indirizzo email, ti è stata inviata una email di verifica a <code>{addr}</code>. Controlla la tua casella di posta e clicca sul link presente nell'email per verificare il nuovo indirizzo email."
 
 #: ../root/main/index.tt:89
 #, perl-format
@@ -2122,7 +2122,7 @@ msgstr "Chiusa:"
 #: ../root/search/results-label.tt:13
 #, perl-format
 msgid "Code"
-msgstr ""
+msgstr "Codice"
 
 #: ../root/layout/menu.tt:92
 #, perl-format
@@ -3921,7 +3921,7 @@ msgstr ""
 msgid ""
 "If you think this is a mistake, please contact "
 "<code>support@musicbrainz.org</code> with the name of your account."
-msgstr ""
+msgstr "Se ritieni che si tratti di un errore, contatta <code>support@musicbrainz.org</code> indicando il nome del tuo account."
 
 #: ../root/tag/not_found.tt:7
 #, perl-format
@@ -4151,7 +4151,7 @@ msgstr "Sottoscrizioni di etichette"
 #: ../root/label/edit_form.tt:41 ../root/label/layout.tt:38
 #, perl-format
 msgid "Label code:"
-msgstr ""
+msgstr "Codice di etichetta:"
 
 #: ../root/label/layout.tt:4
 #, perl-format
@@ -5538,7 +5538,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:67
 #, perl-format
 msgid "Please double-check the barcode on the release."
-msgstr ""
+msgstr "Per favore, verifica il codice a barre sulla pubblicazione."
 
 #: ../root/components/tag.tt:7
 #, perl-format
@@ -5552,7 +5552,7 @@ msgstr ""
 msgid ""
 "Please enter the barcode of the release you are entering, see <a "
 "href=\"{url}\">Barcode</a> for more information."
-msgstr ""
+msgstr "Inserisci il codice a barre della pubblicazione che stai aggiungendo. Consulta <a href=\"{url}\">Codice a barre</a> per avere più informazioni."
 
 #: ../root/release/merge_search.tt:6
 #, perl-format
@@ -5673,7 +5673,7 @@ msgstr ""
 msgid ""
 "Please review the {coc|MusicBrainz Code of Conduct} before creating an "
 "account."
-msgstr ""
+msgstr "Esamina il {coc|codice di condotta di MusicBrainz} prima di creare un account."
 
 #: ../root/label/delete.tt:5
 #, perl-format
@@ -7114,47 +7114,47 @@ msgstr "Mostra il mio Gravatar"
 msgid ""
 "Showing Various Artist release groups. {show_subset|Show release groups by "
 "this artist instead}."
-msgstr ""
+msgstr "Stai visualizzando i gruppi di pubblicazioni di artisti vari. {show_subset|Visualizza i gruppi di pubblicazioni di questo artista}."
 
 #: ../root/artist/releases.tt:31
 #, perl-format
 msgid ""
 "Showing Various Artist releases. {show_subset|Show releases by this artist "
 "instead}."
-msgstr ""
+msgstr "Stai visualizzando le pubblicazioni di artisti vari. {show_subset|Visualizza le pubblicazioni di questo artista}."
 
 #: ../root/artist/recordings.tt:23
 #, perl-format
 msgid ""
 "Showing all recordings. {show_sa|Show only standalone recordings instead}."
-msgstr "Visualizzando tutte le registrazioni. {show_sa|Visualizza solo le registrazioni indipendenti}."
+msgstr "Stai visualizzando tutte le registrazioni. {show_sa|Visualizza solo le registrazioni indipendenti}."
 
 #: ../root/artist/recordings.tt:20
 #, perl-format
 msgid ""
 "Showing only standalone recordings. {show_all|Show all recordings instead}."
-msgstr "Visualizzando solo le registrazioni indipendenti. {show_all|Visualizza tutte le registrazioni}."
+msgstr "Stai visualizzando solo le registrazioni indipendenti. {show_all|Visualizza tutte le registrazioni}."
 
 #: ../root/artist/index.tt:122
 #, perl-format
 msgid ""
 "Showing release groups by this artist. {show_all|Show Various Artist release"
 " groups instead}."
-msgstr ""
+msgstr "Stai visualizzando i gruppi di pubblicazioni di questo artista. {show_all|Visualizza i gruppi di pubblicazioni di artisti vari}."
 
 #: ../root/artist/releases.tt:28
 #, perl-format
 msgid ""
 "Showing releases by this artist. {show_all|Show Various Artist releases "
 "instead}."
-msgstr ""
+msgstr "Stai visualizzando le pubblicazioni di questo artista. {show_all|Visualizza le pubblicazioni di artisti vari}."
 
 #: ../root/scripts/text_strings.tt:38
 #, perl-format
 msgid ""
 "Showing results <strong>{start}</strong>&ndash;<strong>{end}</strong> of "
 "<strong>{matches}</strong>"
-msgstr ""
+msgstr "Visualizzando risultati <strong>{start}</strong>&ndash;<strong>{end}</strong> di <strong>{matches}</strong>"
 
 #: ../root/release/edit/duplicates.tt:12
 #, perl-format
@@ -7200,12 +7200,12 @@ msgstr ""
 msgid ""
 "Sorry, <code>{discid}</code> does not match a CD stub. You can try  "
 "{search_url|searching for it} instead."
-msgstr ""
+msgstr "Spiacenti, <code>{discid}</code> non corrisponde a nessuna bozza CD. Potresti provare a  {search_url|usare la ricerca}."
 
 #: ../root/cdstub/error.tt:19
 #, perl-format
 msgid "Sorry, <code>{discid}</code> is not a valid disc ID."
-msgstr ""
+msgstr "Spiacenti, <code>{discid}</code> non è un ID disco valido."
 
 #: ../root/scripts/text_strings.tt:46
 #, perl-format
@@ -7218,14 +7218,14 @@ msgid ""
 "Sorry, but your query \"(<code>query</code>)\" did not match any {type}. "
 "Please check you used the correct spelling.  Sometimes searching for fewer "
 "or different words may also help."
-msgstr ""
+msgstr "Spiacenti, la tua ricerca \"(<code>query</code>)\" non corrisponde a nessun {type}. Assicurati di averla scritta correttamente, oppure prova a cercare meno parole o parole diverse."
 
 #: ../root/search/error/general.tt:3
 #, perl-format
 msgid ""
 "Sorry, but your query (<code>{query}</code>) could not be performed, due to "
 "an error which we are not quite able to identify."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile eseguire la tua ricerca (<code>{query}</code>) a causa di un errore non identificato."
 
 #: ../root/main/rate_limited.tt:4
 #, perl-format
@@ -7382,7 +7382,7 @@ msgstr ""
 msgid ""
 "Sorry, we could not find any users matching the query for "
 "<code>{query}</code>"
-msgstr ""
+msgstr "Spiacenti, non è stato trovato nessun utente corrispondente alla ricerca di <code>{query}</code>"
 
 #: ../root/cdtoc/not_found.tt:4
 #, perl-format
@@ -7392,7 +7392,7 @@ msgstr ""
 #: ../root/elections/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find this election."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare questa elezione."
 
 #: ../root/main/401.tt:5
 #, perl-format
@@ -7418,7 +7418,7 @@ msgid ""
 " to carry out a search. If you are attempting to find something that "
 "contains nothing but punctuation characters (e.g. !!!) then you need to use "
 "the {uri|browse page}, since this search ignores punctuation characters."
-msgstr ""
+msgstr "Spiacenti, la tua ricerca (<code>{query}</code>) non contiene abbastanza informazioni per essere portata a termine. Se stai cercando qualcosa che contiene solo caratteri di punteggiatura (es. !!!) dovrai {uri|sfogliare} manualmente il database, poiché questa ricerca ignora i caratteri di punteggiatura."
 
 #: ../root/search/error/uri-too-large.tt:3
 #, perl-format
@@ -7741,7 +7741,7 @@ msgstr "Squadra"
 #: ../root/admin/edit_user.tt:10
 #, perl-format
 msgid "Technical flags"
-msgstr ""
+msgstr "Indicatori tecnici"
 
 #: ../root/edit/index.tt:70
 #, perl-format
@@ -8422,7 +8422,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:100
 #, perl-format
 msgid "This release does not have a barcode"
-msgstr ""
+msgstr "Questa pubblicazione non possiede un codice a barre"
 
 #: ../root/release_group/delete.tt:17
 #, perl-format
@@ -9275,7 +9275,7 @@ msgstr ""
 #: ../root/cdstub/browse.tt:19 ../root/cdstub/layout.tt:25
 #, perl-format
 msgid "Various Artists"
-msgstr ""
+msgstr "Artisti Vari"
 
 #: ../root/annotation/history.tt:10
 #, perl-format
@@ -11392,7 +11392,7 @@ msgstr "Questo non è un ISWC valido"
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
-msgstr ""
+msgstr "I codici di etichetta devono essere superiori a 0 e avere al massimo 5 cifre"
 
 #: ../lib/MusicBrainz/Server/Form/Field/Length.pm:25
 msgid "Not a valid time. Must be in the format MM:SS"
@@ -11459,7 +11459,7 @@ msgstr "Devi inserire una nota di modifica quando aggiungi una pubblicazione. An
 msgid ""
 "This barcode is invalid, please check that you've correctly entered the "
 "barcode."
-msgstr ""
+msgstr "Questo codice a barre non è valido, assicurati di averlo inserito correttamente."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:67
 msgid ""
