@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-12 12:23+0000\n"
+"PO-Revision-Date: 2012-06-12 19:26+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -2724,7 +2724,7 @@ msgstr "Elk nummer in de gegevensbank van MusicBrainz moet gekoppeld zijn aan ee
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Edit"
-msgstr "Bewerk"
+msgstr "Bewerken"
 
 #: ../root/edit/index.tt:9
 #, perl-format
@@ -4677,7 +4677,7 @@ msgstr "MusicBrainz - De open muziekencyclopedie"
 #: ../root/main/index.tt:5
 #, perl-format
 msgid "MusicBrainz Blog"
-msgstr ""
+msgstr "Weblog van MusicBrainz"
 
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:94
 #, perl-format
@@ -5860,7 +5860,7 @@ msgstr "Primair type:"
 #: ../root/edit/details/remove_work_alias.tt:21
 #, perl-format
 msgid "Primary for locale:"
-msgstr ""
+msgstr "Primair voor locatie:"
 
 #: ../root/relationship/linktype/form.tt:24
 #, perl-format
@@ -7865,7 +7865,7 @@ msgstr "De gegevensbank heeft geen etiketten."
 #: ../root/user/profile.tt:79
 #, perl-format
 msgid "The early days of the project"
-msgstr ""
+msgstr "De begindagen van het project"
 
 #: ../root/edit/cannot_approve.tt:6
 #, perl-format
@@ -9501,7 +9501,7 @@ msgstr "We hebben de volgende platenmaatschappijen gevonden met dezelfde naam di
 msgid ""
 "We found the following users that matched your query for "
 "<code>{query}</code>."
-msgstr ""
+msgstr "We vonden de volgende gebruikers die met uw zoekopdracht naar <code>{query}</code> overeenkwamen."
 
 #: ../root/account/donation.tt:7
 #, perl-format
@@ -9509,7 +9509,7 @@ msgid ""
 "We have not received a donation from you recently. If you have just made a "
 "PayPal donation, then we have not received a notification from PayPal yet. "
 "Please wait a few minutes and reload this page to check again."
-msgstr ""
+msgstr "We hebben de laatste tijd geen donatie meer van u gehad. Als u net een donatie hebt gedaan via PayPal, dan hebben we nog geen bericht van PayPal gehad. Wacht alstublieft een paar minuten en herlaad dan deze pagina om het opnieuw te controleren."
 
 #: ../root/account/edit_ok.tt:8
 #, perl-format
@@ -10641,7 +10641,7 @@ msgstr "{type} „{work}“"
 #: ../root/components/common-macros.tt:456
 #, perl-format
 msgid "{uri|Relate to URL}"
-msgstr ""
+msgstr "{uri|Relateer aan URL}"
 
 #: ../root/layout/sidebar/sidebar-affiliates.tt:10
 #, perl-format
@@ -10879,7 +10879,7 @@ msgstr "Deze opname heeft deze ISRC al"
 #: ../lib/MusicBrainz/Server/Controller/Relationship/LinkType.pm:48
 #, perl-brace-format
 msgid "'{types}' is not a valid pair of types for relationships."
-msgstr ""
+msgstr "„{types}“ is geen geldig paar verwantschapstypes."
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:319
 msgid "This release is already in the selected release group"

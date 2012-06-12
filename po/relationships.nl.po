@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-06-12 18:59+0000\n"
+"PO-Revision-Date: 2012-06-12 19:18+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +98,7 @@ msgstr ""
 
 #: DB:link_attribute_type/description:254
 msgid "Creative commons licenses"
-msgstr ""
+msgstr "Creative Commons licenties"
 
 #: DB:link_type/description:24 DB:link_type/description:131
 msgid ""
@@ -478,7 +478,7 @@ msgstr "Geeft een album aan dat een eerbetoon is aan een artiest - normaalgespro
 msgid ""
 "Indicates an artist & repertoire support was included in this work. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat A&R-ondersteuning betrokken was bij deze compositie.(<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:104
 msgid ""
@@ -775,7 +775,7 @@ msgid ""
 "Indicates the artist who arranged a tune into a form suitable for "
 "performance. (<a "
 "href=\"http://musicbrainz.org/doc/Arranger_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een artiest aan die een melodie heeft aangepast naar een vorm die uitgevoerd kan worden. (<a href=\"http://musicbrainz.org/doc/Arranger_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:140 DB:link_type/description:31
 msgid ""
@@ -931,7 +931,7 @@ msgid ""
 "one is used for the artist who created a mash-up or used samples as well. "
 "(<a "
 "href=\"http://musicbrainz.org/doc/Remixer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een artiest aan die een album heeft geremixt door nummers substantieel te veranderen en te mixen met ander materiaal. Dit wordt ook gebruikt voor de artiest die een mashup heeft gemaakt of samples heeft gebruikt. (<a href=\"http://musicbrainz.org/doc/Remixer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:153
 msgid ""
@@ -940,7 +940,7 @@ msgid ""
 "material. Note that this one is used for the artist who created a mash-up or"
 " used samples as well. (<a "
 "href=\"http://musicbrainz.org/doc/Remixer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft een artiest aan die het nummer heeft geremixt door een of meer nummers substantieel te veranderen en ze samen of met ander materiaal te mixen. Dit wordt ook gebruikt voor de artiest die een mashup heeft gemaakt of samples heeft gebruikt. (<a href=\"http://musicbrainz.org/doc/Remixer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:46 DB:link_type/description:151
 msgid ""
@@ -1345,7 +1345,7 @@ msgid ""
 "This link is used to associate an artist or label with their page on a "
 "social networking site such as Facebook or Last.fm. (<a "
 "href=\"http://musicbrainz.org/doc/Social_Networking_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Dit wordt gebruikt om een artiest of platenmaatschappij te koppelen met hun pagina op een sociale netwerksite zoals Facebook of Last.fm. (<a href=\"http://musicbrainz.org/doc/Social_Networking_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:78
 msgid ""
@@ -1359,7 +1359,7 @@ msgid ""
 "This link is used to link to specific artists on the /music pages at the BBC"
 " web site. (<a "
 "href=\"http://musicbrainz.org/doc/BBC_Music_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Dit wordt gebruikt om een artiest te koppelen aan de /music-pagina's op de website van de BBC. (<a href=\"http://musicbrainz.org/doc/BBC_Music_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:214
 msgid ""
@@ -1445,7 +1445,7 @@ msgstr ""
 msgid ""
 "This links an artist to its profile at SoundCloud. (<a "
 "href=\"http://musicbrainz.org/doc/SoundCloud_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Dit koppelt een artiest aan zijn of haar profiel op SoundCloud. (<a href=\"http://musicbrainz.org/doc/SoundCloud_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:289
 msgid ""
@@ -1759,7 +1759,7 @@ msgstr "artistieke leiding"
 #: DB:link_type/link_phrase:263 DB:link_type/reverse_link_phrase:135
 #: DB:link_type/reverse_link_phrase:62 DB:link_type/reverse_link_phrase:263
 msgid "artist & repertoire support"
-msgstr ""
+msgstr "A&R-ondersteuning"
 
 #: DB:link_attribute_type/name:526
 msgid "assistant"
@@ -1811,7 +1811,7 @@ msgstr "bas-bariton"
 
 #: DB:link_type/link_phrase:182
 msgid "biographies"
-msgstr "biografiën"
+msgstr "biografieën"
 
 #: DB:link_type/reverse_link_phrase:182
 msgid "biography of"
