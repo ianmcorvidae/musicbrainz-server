@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-11 20:39+0000\n"
+"PO-Revision-Date: 2012-06-12 00:54+0000\n"
 "Last-Translator: Timo Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.net/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -172,7 +172,7 @@ msgstr "(ei muutoslokia)"
 #: ../root/release/add_cover_art.tt:26
 #, perl-format
 msgid "(no other cover art)"
-msgstr ""
+msgstr "(ei muuta kansitaidetta)"
 
 #: ../root/edit/details/add_relationship_type.tt:9
 #: ../root/edit/details/historic/add_release_annotation.tt:21
@@ -269,7 +269,7 @@ msgstr "2. kannattaja"
 #: ../root/admin/edit_user.tt:16
 #, perl-format
 msgid "<abbr title=\"MusicBrainz Identifier\">MBID</abbr> submitter"
-msgstr ""
+msgstr "<abbr title=\"MusicBrainz Identifier\">MBID</abbr>-lähettäjä"
 
 #: ../root/edit/info.tt:42
 #, perl-format
@@ -279,7 +279,7 @@ msgstr ""
 #: ../root/annotation/history.tt:31
 #, perl-format
 msgid "<em>no changelog specified</em>"
-msgstr ""
+msgstr "<em>muutoslokia ei määritelty</em>"
 
 #: ../root/edit/edit_header.tt:62
 #, perl-format
@@ -654,7 +654,7 @@ msgstr "Lisää artistille alias"
 #: ../root/relationship/linkattributetype/common.tt:24
 #, perl-format
 msgid "Add child"
-msgstr ""
+msgstr "Lisää lapsi"
 
 #: ../root/cdstub/layout.tt:23
 #, perl-format
@@ -941,7 +941,7 @@ msgstr "Vaihtoehtoisesti voit lisätä {uri|uuden teoksen}."
 #: ../root/report/asins_with_multiple_releases.tt:3
 #, perl-format
 msgid "Amazon URLs Linked to Multiple Releases"
-msgstr "Amazon URL-osoitteet jotka on linkitetty moniin julkaisuihin"
+msgstr "Amazon URL-osoitteet, jotka on linkitetty useisiin julkaisuihin"
 
 #: ../root/report/index.tt:44
 #, perl-format
@@ -1640,7 +1640,7 @@ msgstr ""
 #: ../root/components/aliases.tt:8
 #, perl-format
 msgid "Begin Date"
-msgstr ""
+msgstr "Aloitusajankohta"
 
 #: ../root/alias/edit_form.tt:21 ../root/artist/edit_form.tt:52
 #: ../root/edit/details/add_artist_alias.tt:36
@@ -2139,7 +2139,7 @@ msgstr "Yhteistyö"
 #: ../root/report/collaboration_relationships.tt:20
 #, perl-format
 msgid "Collaborator"
-msgstr ""
+msgstr "Yhteistyökumppani"
 
 #: ../root/release/edit/tracklist.tt:364
 #, perl-format
@@ -2651,7 +2651,7 @@ msgstr "Levyt ovat erillisiä julkaisuja"
 #: ../root/report/index.tt:47
 #, perl-format
 msgid "Discs entered as separate releases"
-msgstr "Erillisinä julkaisuna syötetyt levyt."
+msgstr "Erillisinä julkaisuna syötetyt levyt"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #: ../root/scripts/text_strings.tt:73
@@ -3172,7 +3172,7 @@ msgstr "Valtuuta {autoed|auto-editorin} käyttöoikeudet tällä muokkaukselle."
 #: ../root/search/results-label.tt:15
 #, perl-format
 msgid "End"
-msgstr ""
+msgstr "Loppu"
 
 #: ../root/components/aliases.tt:9
 #, perl-format
@@ -3745,7 +3745,7 @@ msgstr "ISRC-koodit"
 #: ../root/report/isrc_with_many_recordings.tt:3
 #, perl-format
 msgid "ISRCs with multiple recordings"
-msgstr "ISCR-koodeja joista kukin liittyy useampiin äänitteisiin"
+msgstr "ISRC-koodeja, joista kukin liittyy useampaan äänitteeseen"
 
 #: ../root/artist/works-list.tt:12 ../root/search/results-work.tt:13
 #, perl-format
@@ -4216,7 +4216,7 @@ msgstr "Kieli: {language}, merkistö: {script}"
 #: ../root/account/edit.tt:33
 #, perl-format
 msgid "Languages Known:"
-msgstr "Tunnettuja kieliä:"
+msgstr "Kieliosaaminen:"
 
 #: ../root/user/profile.tt:116
 #, perl-format
@@ -5068,7 +5068,7 @@ msgstr ""
 #: ../root/admin/edit_user.tt:13
 #, perl-format
 msgid "No nag"
-msgstr ""
+msgstr "Ei nalkutusta"
 
 #: ../root/artist/recordings.tt:16
 #, perl-format
@@ -5566,7 +5566,7 @@ msgstr ""
 #: ../root/account/change_password.tt:5
 #, perl-format
 msgid "Please enter your old password below, and then your new password."
-msgstr "Syötä alle vanha salasanasi ja myös uusi salasanasi."
+msgstr "Syötä alle vanha sekä uusi salasanasi."
 
 #: ../root/edit/relationship/no-start.tt:2
 #, perl-format
@@ -5720,7 +5720,7 @@ msgstr "Valitse yhteyden tyyppi."
 msgid ""
 "Please select a subtype of the currently selected relationship type. The "
 "selected relationship type is only used for grouping subtypes."
-msgstr "Valitse jokin yhteystyyppi tämän alta. Tämä yhteystyyppi ryhmitää vain muita yhteystyyppejä."
+msgstr "Valitse jokin yhteystyyppi tämän alta. Tämä yhteystyyppi ryhmittää vain muita yhteystyyppejä."
 
 #: ../root/edit/relationship/create_batch.tt:87
 #, perl-format
@@ -5822,7 +5822,7 @@ msgstr ""
 #: ../root/layout/menu.tt:13
 #, perl-format
 msgid "Preferences"
-msgstr ""
+msgstr "Asetukset"
 
 #: ../root/annotation/edit.tt:27 ../root/components/forms.tt:238
 #: ../root/release/edit/tracklist.tt:37
@@ -6156,12 +6156,12 @@ msgstr ""
 #: ../root/admin/edit_user.tt:8
 #, perl-format
 msgid "Relationship editor"
-msgstr "Yhteyseditori"
+msgstr "Yhteys-editori"
 
 #: ../root/user/privileged.tt:26
 #, perl-format
 msgid "Relationship editors"
-msgstr "Yhteyseditorit"
+msgstr "Yhteys-editorit"
 
 #: ../root/user/privileged.tt:27
 #, perl-format
@@ -6170,7 +6170,7 @@ msgid ""
 "the database. If you would like to propose a new relationship, please do so "
 "through the {url|Style Council}. Relationship editors will only make changes"
 " that have been approved by the Style Council."
-msgstr "Yhteyseditorit ovat käyttäjiä, jotka lisäävät tai muokkaavat yhteyksien tyyppejä tietokannassa. Jos haluat ehdottaa uutta yhteyttä, tee niin ottamalla yhteyttä {url|tyylineuvostoon}. Yhteyseditorit tekevät vain muutoksia, jotka ovat neuvoston ennalta hyväksymiä."
+msgstr "Yhteys-editorit ovat käyttäjiä, jotka lisäävät tai muokkaavat yhteyksien tyyppejä tietokannassa. Jos haluat ehdottaa uutta yhteyttä, tee niin ottamalla yhteyttä {url|tyylineuvostoon}. Yhteys-editorit tekevät vain muutoksia, jotka ovat neuvoston ennalta hyväksymiä."
 
 #: ../root/edit/details/add_relationship.tt:3
 #: ../root/edit/details/edit_relationship.tt:8
@@ -6421,7 +6421,7 @@ msgstr ""
 #: ../root/report/cat_no_looks_like_asin.tt:3
 #, perl-format
 msgid "Releases With Catalog Numbers That Look Like ASINs"
-msgstr "Julkaisuja joiden luettelonumero näyttää Amazon ASIN-tunnisteilta"
+msgstr "Julkaisuja, joiden luettelonumero näyttää Amazon ASIN-koodilta"
 
 #: ../root/report/multiple_asins.tt:1 ../root/report/multiple_asins.tt:3
 #, perl-format
@@ -7024,7 +7024,7 @@ msgstr "Näytä kaikki {num} {entity}"
 #, perl-format
 msgid ""
 "See also your {uri|user preferences}, which includes your privacy settings."
-msgstr ""
+msgstr "Katso myös {uri|käyttäjätunnuksesi asetukset}, jotka sisältävät yksityisyysasetuksia. "
 
 #: ../root/relationship/linkattributetype/index.tt:21
 #, perl-format
@@ -7068,7 +7068,7 @@ msgstr "Lähetä kopio sähköpostiini"
 #: ../root/account/preferences.tt:45
 #, perl-format
 msgid "Send me mails with edits to my subscriptions:"
-msgstr "Haluan saada sähköpostia muokkauksista seuraamiini kohteisiin:"
+msgstr "Lähetä sähköpostia muokkauksista seuraamiini kohteisiin:"
 
 #: ../root/cdtoc/set_durations.tt:1 ../root/cdtoc/set_durations.tt:2
 #, perl-format
@@ -8305,7 +8305,7 @@ msgstr "Tämä on Musicbrainzin toisiopalvelin. Muokataksesi tai tehdäksesi muu
 msgid ""
 "This is a development server. Your email address is not private or secure. "
 "Proceed with caution!"
-msgstr "Tämä on sovelluskehitykseen tarkoitettu palvelin. Sähköpostiosoitteesi ei pysy yksityisenä tai turvassa. Jatka varovaisesti!"
+msgstr "Tämä on sovelluskehitykseen tarkoitettu palvelin. Sähköpostiosoitteesi ei pysy yksityisenä tai turvassa. Olethan varovainen!"
 
 #: ../root/user/login.tt:27
 #, perl-format
@@ -9139,7 +9139,7 @@ msgstr "Lopeta artistin seuraaminen."
 #: ../root/admin/edit_user.tt:12
 #, perl-format
 msgid "Untrusted"
-msgstr ""
+msgstr "Epäluotettava"
 
 #: ../root/search/form.tt:13
 #, perl-format
@@ -9439,7 +9439,7 @@ msgstr "Seuratut artistit"
 #: ../root/report/not_available.tt:6
 #, perl-format
 msgid "We are sorry, but data for this report is not available right now."
-msgstr "Pahoittlelumme. Dataa tälle raportille ei ole juuri nyt saatavilla."
+msgstr "Pahoittelumme. Dataa tälle raportille ei juuri nyt ole saatavilla."
 
 #: ../root/edit/details/macros.tt:88
 #, perl-format
@@ -10040,7 +10040,7 @@ msgstr "Salasanasi on nollattu. "
 msgid ""
 "Your preferences have been saved. Click {link|here} to continue to your user"
 " page."
-msgstr ""
+msgstr "Asetuksesi on tallennettu. Klikkaa {link|tästä} jatkaaksesi käyttäjäsivullesi."
 
 #: ../root/account/edit_ok.tt:6
 #, perl-format
@@ -10474,7 +10474,7 @@ msgstr "{doc|Levyn tunniste}:"
 #: ../root/user/profile.tt:43
 #, perl-format
 msgid "{doc|Relationship Editor}"
-msgstr "{doc|Yhteyseditori}"
+msgstr "{doc|Yhteys-editori}"
 
 #: ../root/user/profile.tt:44
 #, perl-format

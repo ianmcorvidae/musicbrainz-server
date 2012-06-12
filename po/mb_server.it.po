@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-11 23:59+0000\n"
+"PO-Revision-Date: 2012-06-12 00:08+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -1818,17 +1818,17 @@ msgstr "Bozza CD trovata"
 #: ../root/cdtoc/not_found.tt:1 ../root/cdtoc/not_found.tt:2
 #, perl-format
 msgid "CD TOC Not Found"
-msgstr ""
+msgstr "CD TOC non trovato"
 
 #: ../root/cdtoc/info.tt:1
 #, perl-format
 msgid "CD TOC details"
-msgstr ""
+msgstr "Dettagli del CD TOC"
 
 #: ../root/edit/details/historic/add_disc_id.tt:13
 #, perl-format
 msgid "CD TOC:"
-msgstr ""
+msgstr "CD TOC:"
 
 #: ../root/cdstub/header.tt:5
 #, perl-format
@@ -7387,7 +7387,7 @@ msgstr "Spiacenti, non è stato trovato nessun utente corrispondente alla ricerc
 #: ../root/cdtoc/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find the CD TOC you specified."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare il CD TOC che hai specificato."
 
 #: ../root/elections/not_found.tt:4
 #, perl-format
@@ -7397,12 +7397,12 @@ msgstr "Spiacenti, non è stato possibile trovare questa elezione."
 #: ../root/main/401.tt:5
 #, perl-format
 msgid "Sorry, you are not authorized to view this page."
-msgstr ""
+msgstr "Spiacenti, ma non sei autorizzato a visualizzare questa pagina."
 
 #: ../root/main/mirror.tt:5
 #, perl-format
 msgid "Sorry, you are unable to perform that action on a mirror server."
-msgstr ""
+msgstr "Spiacenti, non è possibile eseguire quell'azione su un server mirror."
 
 #: ../root/recording/cannot_add.tt:2
 #, perl-format
@@ -7423,12 +7423,12 @@ msgstr "Spiacenti, la tua ricerca (<code>{query}</code>) non contiene abbastanza
 #: ../root/search/error/uri-too-large.tt:3
 #, perl-format
 msgid "Sorry, your query was too large."
-msgstr ""
+msgstr "Spiacenti, ma la tua ricerca è troppo vasta."
 
 #: ../root/doc/bare_error.tt:5 ../root/doc/error.tt:11
 #, perl-format
 msgid "Sorry, “{id}” is not a valid documentation page."
-msgstr ""
+msgstr "Spiacenti, “{id}” non è una pagina di documentazione valida."
 
 #: ../root/components/forms.tt:222
 #: ../root/search/lib/inline-results-artist.tt:8
@@ -9532,7 +9532,7 @@ msgstr "La tua data di nascita sarà utilizzata per visualizzare la tua età (in
 msgid ""
 "We're terribly sorry for this problem. Please wait a few minutes and repeat "
 "your request &mdash; the problem may go away."
-msgstr ""
+msgstr "Siamo desolati per questo inconveniente. Aspetta qualche minuto e poi riprova: il problema potrebbe essere stato risolto."
 
 #: ../root/account/lost_username_sent.tt:5
 #, perl-format
