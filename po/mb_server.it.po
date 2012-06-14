@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-14 21:53+0000\n"
+"PO-Revision-Date: 2012-06-14 22:50+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -392,7 +392,7 @@ msgstr "Una relazione con questi attributi tra {entity0} e {entity1} è già esi
 #: ../root/edit/relationship/create_url.tt:30
 #, perl-format
 msgid "A relationship between {entity} and {url} already exists."
-msgstr ""
+msgstr "Una relazione tra {entity} e {url} è già esistente."
 
 #: ../root/layout/menu.tt:77
 #, perl-format
@@ -408,7 +408,7 @@ msgstr ""
 #: ../root/doc/edit_type.tt:58
 #, perl-format
 msgid "Accept"
-msgstr ""
+msgstr "Accetta"
 
 #: ../root/edit/index.tt:73
 #, perl-format
@@ -418,7 +418,7 @@ msgstr "Accetta modifica"
 #: ../root/components/common-macros.tt:512
 #, perl-format
 msgid "Accept upon expiration"
-msgstr ""
+msgstr "Accetta alla scadenza"
 
 #: ../root/user/profile.tt:144
 #, perl-format
@@ -433,7 +433,7 @@ msgstr "Account creato"
 #: ../root/admin/edit_user.tt:23 ../root/admin/edit_user.tt:27
 #, perl-format
 msgid "Account admin"
-msgstr ""
+msgstr "Amministrazione account"
 
 #: ../root/search/results-freedb.tt:15
 #, perl-format
@@ -630,7 +630,7 @@ msgstr "Aggiungi annotazione"
 #: ../root/scripts/text_strings.tt:42
 #, perl-format
 msgid "Add another"
-msgstr ""
+msgstr "Aggiungi un altro"
 
 #: ../root/scripts/text_strings.tt:48
 #, perl-format
@@ -797,7 +797,7 @@ msgstr "Informazioni aggiuntive"
 #: ../root/edit/details/add_isrcs.tt:3 ../root/edit/details/add_iswcs.tt:3
 #, perl-format
 msgid "Additions:"
-msgstr ""
+msgstr "Aggiunte:"
 
 #: ../root/admin/edit_user.tt:1
 #, perl-format
@@ -907,7 +907,7 @@ msgstr "Già scaduto"
 #: ../root/release/edit/recordings.tt:358
 #, perl-format
 msgid "Also update the recording with track changes"
-msgstr ""
+msgstr "Aggiorna anche le registrazioni insieme alle tracce"
 
 #: ../root/search/results-artist.tt:7
 #, perl-format
@@ -1125,7 +1125,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to remove the alias {alias}, which points to the work "
 "{work}?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere l'alias {alias}, che indica l'opera {work}?"
 
 #: ../root/collection/delete.tt:4
 #, perl-format
@@ -1556,7 +1556,7 @@ msgstr ""
 #: ../root/main/400.tt:1 ../root/main/400.tt:3
 #, perl-format
 msgid "Bad Request"
-msgstr ""
+msgstr "Richiesta non valida"
 
 #: ../root/cdtoc/attach_artist_releases.tt:39
 #: ../root/cdtoc/attach_filter_release.tt:52 ../root/cdtoc/list.tt:12
@@ -1861,7 +1861,7 @@ msgstr ""
 #: ../root/doc/edit_type.tt:65
 #, perl-format
 msgid "Can be approved"
-msgstr ""
+msgstr "Può essere approvato"
 
 #: ../root/artist/merge.tt:22 ../root/components/common-macros.tt:498
 #: ../root/components/filter-form.tt:23 ../root/elections/nominate.tt:10
@@ -1948,18 +1948,18 @@ msgstr "Impossibile modificare"
 #: ../root/release/edit/information.tt:76
 #, perl-format
 msgid "Cat.No:"
-msgstr ""
+msgstr "N. cat.:"
 
 #: ../root/edit/details/historic/add_release.tt:78
 #: ../root/report/cat_no_looks_like_asin.tt:15
 #, perl-format
 msgid "Catalog Number"
-msgstr ""
+msgstr "Numero di catalogo"
 
 #: ../root/edit/details/edit_release_events.tt:8
 #, perl-format
 msgid "Catalog number"
-msgstr ""
+msgstr "Numero di catalogo"
 
 #: ../root/edit/details/add_release_label.tt:13
 #: ../root/edit/details/edit_release_label.tt:23
@@ -1968,7 +1968,7 @@ msgstr ""
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Catalog number:"
-msgstr ""
+msgstr "Numero di catalogo:"
 
 #: ../root/cdtoc/attach_artist_releases.tt:38
 #: ../root/cdtoc/attach_filter_release.tt:51 ../root/cdtoc/list.tt:11
@@ -1977,7 +1977,7 @@ msgstr ""
 #: ../root/tracklist/index.tt:34
 #, perl-format
 msgid "Catalog#"
-msgstr ""
+msgstr "Nº di catalogo"
 
 #: ../root/release/edit/recordings.tt:208
 #: ../root/release/edit/recordings.tt:325 ../root/scripts/text_strings.tt:28
@@ -2107,7 +2107,7 @@ msgstr ""
 #: ../root/edit/details/add_puids.tt:3
 #, perl-format
 msgid "Client:"
-msgstr ""
+msgstr "Client:"
 
 #: ../root/edit/search_macros.tt:280
 #, perl-format
@@ -2409,7 +2409,7 @@ msgstr ""
 #: ../root/account/preferences.tt:14
 #, perl-format
 msgid "Date/time format:"
-msgstr ""
+msgstr "Formato di data/ora:"
 
 #: ../root/edit/details/add_release.tt:60
 #: ../root/edit/details/edit_release_label.tt:38
@@ -2425,7 +2425,7 @@ msgstr "Data:"
 msgid ""
 "Dates are in the format YYYY-MM-DD. Partial dates such as YYYY-MM or just "
 "YYYY are OK, or you can omit the date entirely."
-msgstr ""
+msgstr "Le date sono nel formato AAAA-MM-GG. Date parziali come AAAA-MM o anche solo AAAA sono accettate, oppure puoi omettere del tutto la data."
 
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
@@ -2660,7 +2660,7 @@ msgstr ""
 #: ../root/release/edit/duplicates.tt:40
 #, perl-format
 msgid "Do not use any of the above releases as a starting point"
-msgstr ""
+msgstr "Non utilizzare nessuna delle pubblicazioni qui sopra come punto di partenza"
 
 #: ../root/layout/menu.tt:206
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:46
@@ -2692,12 +2692,12 @@ msgstr "Verifica donazione"
 #: ../root/release/edit/tracklist.tt:160 ../root/scripts/text_strings.tt:29
 #, perl-format
 msgid "Done"
-msgstr ""
+msgstr "Completato"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicato"
 
 #: ../root/taglookup/form.tt:8
 #, perl-format
@@ -2730,7 +2730,7 @@ msgstr "Modifica"
 #: ../root/edit/index.tt:9
 #, perl-format
 msgid "Edit #{id}"
-msgstr ""
+msgstr "Modifica #{id}"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -3656,7 +3656,7 @@ msgstr "Homepage:"
 #: ../root/edit/list_header.tt:27
 #, perl-format
 msgid "How editing works"
-msgstr ""
+msgstr "Come funziona il sistema di modifica"
 
 #: ../root/taglookup/nag.tt:7
 #, perl-format
@@ -3710,17 +3710,17 @@ msgstr "ISRC"
 #: ../root/isrc/not_found.tt:1 ../root/isrc/not_found.tt:2
 #, perl-format
 msgid "ISRC Not Currently Used"
-msgstr ""
+msgstr "ISRC non in uso al momento"
 
 #: ../root/edit/details/add_isrcs.tt:8
 #, perl-format
 msgid "ISRC {isrc} to {recording}"
-msgstr ""
+msgstr "ISRC {isrc} a {recording}"
 
 #: ../root/edit/details/add_isrcs.tt:8
 #, perl-format
 msgid "ISRC {isrc} to {recording} by {artist}"
-msgstr ""
+msgstr "ISRC {isrc} a {recording} di {artist}"
 
 #: ../root/isrc/index.tt:1 ../root/isrc/index.tt:3
 #, perl-format
@@ -3753,7 +3753,7 @@ msgstr "ISWC"
 #: ../root/edit/details/add_iswcs.tt:8
 #, perl-format
 msgid "ISWC {iswc} to {work}"
-msgstr ""
+msgstr "ISWC {iswc} a {work}"
 
 #: ../root/iswc/index.tt:1 ../root/iswc/index.tt:3
 #, perl-format
@@ -3914,7 +3914,7 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|work aliases} for more "
 "details."
-msgstr ""
+msgstr "Se vedi un alias scritto in modo sbagliato, probabilmente si trova qui di proposito e non va rinominato o rimosso. Consulta {aa|alias di opere} per maggiori dettagli."
 
 #: ../root/main/401.tt:15
 #, perl-format
@@ -4188,7 +4188,7 @@ msgstr "Etichette"
 #: ../root/browse/label.tt:8
 #, perl-format
 msgid "Labels starting with “{index}”"
-msgstr ""
+msgstr "Etichette che iniziano per \"{index}\""
 
 #: ../root/artist/works-list.tt:14 ../root/otherlookup/results-release.tt:11
 #: ../root/search/lib/inline-results-release.tt:13
@@ -4744,18 +4744,18 @@ msgstr ""
 #, perl-format
 msgid ""
 "MusicBrainz uses artist aliases mainly as variant names or search hints."
-msgstr ""
+msgstr "MusicBrainz utilizza gli alias di artista principalmente come variazioni nei nomi o suggerimenti per la ricerca."
 
 #: ../root/label/add_alias.tt:4 ../root/label/edit_alias.tt:4
 #, perl-format
 msgid ""
 "MusicBrainz uses label aliases mainly as variant names or search hints."
-msgstr ""
+msgstr "MusicBrainz utilizza gli alias di etichetta principalmente come variazioni nei nomi o suggerimenti per la ricerca."
 
 #: ../root/work/add_alias.tt:4 ../root/work/edit_alias.tt:4
 #, perl-format
 msgid "MusicBrainz uses work aliases mainly as variant names or search hints."
-msgstr ""
+msgstr "MusicBrainz utilizza gli alias di opera principalmente come variazioni nei nomi o suggerimenti per la ricerca."
 
 #: ../root/layout.tt:24
 #, perl-format
@@ -5169,7 +5169,7 @@ msgstr ""
 #: ../root/tag/work.tt:1
 #, perl-format
 msgid "No works with this tag were found."
-msgstr "Nessun'opera trovata con questo tag."
+msgstr "Nessuna opera trovata con questo tag."
 
 #: ../root/relationship/linktype/tree.tt:58
 #, perl-format
@@ -6107,7 +6107,7 @@ msgstr ""
 #: ../root/recording/index.tt:51 ../root/recording/relationships.tt:6
 #, perl-format
 msgid "Related works"
-msgstr ""
+msgstr "Opere collegate"
 
 #: ../root/relationship/header.tt:2
 #: ../root/relationship/linkattributetype/index.tt:3
@@ -7249,42 +7249,42 @@ msgstr ""
 msgid ""
 "Sorry, there are no artists starting with “{index}”. Please {pre|go back} "
 "and try again."
-msgstr ""
+msgstr "Spiacenti, non ci sono artisti che iniziano per \"{index}\". {pre|Torna indietro} e riprova."
 
 #: ../root/browse/label.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no labels starting with “{index}”. Please {pre|go back} and"
 " try again."
-msgstr ""
+msgstr "Spiacenti, non ci sono etichette che iniziano per \"{index}\". {pre|Torna indietro} e riprova."
 
 #: ../root/artist/browse_various_recordings.tt:15
 #, perl-format
 msgid ""
 "Sorry, there are no recordings starting with “{index}”. Please {pre|go back}"
 " and try again."
-msgstr ""
+msgstr "Spiacenti, non ci sono registrazioni che iniziano per \"{index}\". {pre|Torna indietro} e riprova."
 
 #: ../root/artist/browse_various.tt:36 ../root/browse/release_group.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no release groups starting with “{index}”. Please {pre|go "
 "back} and try again."
-msgstr ""
+msgstr "Spiacenti, non ci sono gruppi di pubblicazioni che iniziano per \"{index}\". {pre|Torna indietro} e riprova."
 
 #: ../root/artist/browse_various_releases.tt:15 ../root/browse/release.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no releases starting with “{index}”. Please {pre|go back} "
 "and try again."
-msgstr ""
+msgstr "Spiacenti, non ci sono pubblicazioni che iniziano per \"{index}\". {pre|Torna indietro} e riprova."
 
 #: ../root/browse/work.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no works starting with “{index}”. Please {pre|go back} and "
 "try again."
-msgstr ""
+msgstr "Spiacenti, non ci sono opere che iniziano per \"{index}\". {pre|Torna indietro} e riprova."
 
 #: ../root/main/400.tt:5
 #, perl-format
@@ -8042,7 +8042,7 @@ msgid ""
 " {name}. If you are trying to remove {name}, please remove all existing "
 "{rel_uri|relationships} instead, which will allow ModBot to automatically "
 "remove this artist in the upcoming days."
-msgstr ""
+msgstr "Non ci sono registrazioni, gruppi di pubblicazioni, pubblicazioni o tracce attribuite solo a {name}. Se stai cercando di rimuovere {name} assicurati di rimuovere tutte le {rel_uri|relazioni} esistenti, così che ModBot lo possa rimuovere automaticamente nei prossimi giorni."
 
 #: ../root/label/subscriptions.tt:11
 #, perl-format
@@ -8701,7 +8701,7 @@ msgstr ""
 msgid ""
 "This work has no relationships and will be removed automatically in the next"
 " few days. If this is not intended, please add relationships to this work."
-msgstr ""
+msgstr "Quest'opera non ha relazioni e sarà rimossa automaticamente nei prossimi giorni. Se vuoi evitare che ciò succeda, aggiungi qualche relazione."
 
 #: ../root/work/tags.tt:2
 #, perl-format
@@ -8794,7 +8794,7 @@ msgstr "Bozze CD principali"
 #: ../root/report/isrc_with_many_recordings.tt:7
 #, perl-format
 msgid "Total ISRCs found: {count}"
-msgstr ""
+msgstr "Totale ISRC trovati: {count}"
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:8
 #: ../root/report/artists_that_may_be_groups.tt:9
@@ -8803,35 +8803,35 @@ msgstr ""
 #: ../root/report/possible_collaborations.tt:8
 #, perl-format
 msgid "Total artists found: {count}"
-msgstr ""
+msgstr "Totale artisti trovati: {count}"
 
 #: ../root/report/duplicate_artists.tt:10
 #, perl-format
 msgid "Total duplicate groups: {count}"
-msgstr ""
+msgstr "Totale gruppi duplicati: {count}"
 
 #: ../root/cdstub/index.tt:21 ../root/cdtoc/info.tt:23
 #, perl-format
 msgid "Total length:"
-msgstr ""
+msgstr "Durata totale:"
 
 #: ../root/report/featuring_recordings.tt:7
 #: ../root/report/recordings_with_earliest_release_relationships.tt:7
 #, perl-format
 msgid "Total recordings found: {count}"
-msgstr ""
+msgstr "Totale registrazioni trovate: {count}"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:7
 #: ../root/report/empty_release_groups.tt:7
 #: ../root/report/featuring_release_groups.tt:7
 #, perl-format
 msgid "Total release groups found: {count}"
-msgstr ""
+msgstr "Totale gruppi di pubblicazioni trovati: {count}"
 
 #: ../root/report/set_in_different_rg.tt:12
 #, perl-format
 msgid "Total release groups: {count}"
-msgstr ""
+msgstr "Totale gruppi di pubblicazioni: {count}"
 
 #: ../root/report/asins_with_multiple_releases.tt:7
 #: ../root/report/bad_amazon_urls.tt:7
@@ -8851,7 +8851,7 @@ msgstr ""
 #: ../root/report/unlinked_pseudo_releases.tt:7
 #, perl-format
 msgid "Total releases found: {count}"
-msgstr ""
+msgstr "Totale pubblicazioni trovate: {count}"
 
 #: ../root/report/mediums_with_sequence_issues.tt:9
 #: ../root/report/superfluous_data_tracks.tt:9
@@ -8859,12 +8859,12 @@ msgstr ""
 #: ../root/report/tracks_with_sequence_issues.tt:9
 #, perl-format
 msgid "Total releases: {count}"
-msgstr ""
+msgstr "Totale pubblicazioni: {count}"
 
 #: ../root/cdstub/index.tt:17 ../root/cdtoc/info.tt:19
 #, perl-format
 msgid "Total tracks:"
-msgstr ""
+msgstr "Tracce totali:"
 
 #: ../root/cdtoc/info.tt:31 ../root/freedb/show.tt:11
 #: ../root/freedb/show.tt:63 ../root/search/lib/inline-results-recording.tt:15
@@ -8886,7 +8886,7 @@ msgstr ""
 #: ../root/cdtoc/info.tt:27
 #, perl-format
 msgid "Track details:"
-msgstr ""
+msgstr "Dettagli della traccia:"
 
 #: ../root/edit/details/edit_track_length.tt:13
 #, perl-format
@@ -9067,7 +9067,7 @@ msgstr "URL"
 #: ../root/url/index.tt:2
 #, perl-format
 msgid "URL Details"
-msgstr ""
+msgstr "Dettagli dell'URL"
 
 #: ../root/url/index.tt:1
 #, perl-format
@@ -9305,7 +9305,7 @@ msgstr "Visualizza cronologia dell'annotazione."
 #: ../root/elections/index.tt:23
 #, perl-format
 msgid "View details"
-msgstr ""
+msgstr "Visualizza dettagli"
 
 #: ../root/admin/wikidoc/index.tt:110
 #, perl-format
@@ -9618,17 +9618,17 @@ msgstr "Opera"
 #: ../root/work/edit_form.tt:6
 #, perl-format
 msgid "Work Details"
-msgstr ""
+msgstr "Dettagli dell'opera"
 
 #: ../root/work/not_found.tt:1 ../root/work/not_found.tt:2
 #, perl-format
 msgid "Work Not Found"
-msgstr ""
+msgstr "Opera non trovata"
 
 #: ../root/work/layout.tt:9
 #, perl-format
 msgid "Work information"
-msgstr ""
+msgstr "Informazioni sull'opera"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -9638,7 +9638,7 @@ msgstr "Valutazioni opera"
 #: ../root/edit/details/edit_work.tt:23
 #, perl-format
 msgid "Work type:"
-msgstr ""
+msgstr "Tipo di opera:"
 
 #: ../root/components/common-macros.tt:433
 #: ../root/edit/details/add_work_alias.tt:3
@@ -9650,18 +9650,18 @@ msgstr ""
 #: ../root/edit/details/remove_work.tt:3
 #, perl-format
 msgid "Work:"
-msgstr ""
+msgstr "Opera:"
 
 #: ../root/artist/header.tt:1 ../root/artist/works.tt:2
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Works"
-msgstr ""
+msgstr "Opere"
 
 #: ../root/browse/work.tt:8
 #, perl-format
 msgid "Works starting with “{index}”"
-msgstr ""
+msgstr "Opere che iniziano per \"{index}\""
 
 #: ../root/artist/works-list.tt:10 ../root/iswc/index.tt:17
 #: ../root/otherlookup/results-work.tt:8 ../root/search/results-work.tt:11
@@ -9844,12 +9844,12 @@ msgstr ""
 #: ../root/edit/notes.tt:45
 #, perl-format
 msgid "You are not currently able to add notes to this edit. ({url|Details})"
-msgstr ""
+msgstr "Al momento non puoi aggiungere note a questa modifica. ({url|Maggiori informazioni})"
 
 #: ../root/edit/index.tt:63
 #, perl-format
 msgid "You are not currently able to vote on this edit. ({url|Details})"
-msgstr ""
+msgstr "Al momento non puoi votare su questa modifica. ({url|Maggiori informazioni})"
 
 #: ../root/artist/subscribers.tt:33 ../root/label/subscribers.tt:33
 #: ../root/user/subscribers.tt:38
@@ -9978,7 +9978,7 @@ msgstr ""
 msgid ""
 "You must provide a working email address if you wish to contribute to the "
 "database."
-msgstr ""
+msgstr "Devi fornire un indirizzo email funzionante se desideri contribuire al database."
 
 #: ../root/cdtoc/remove.tt:11
 #, perl-format
@@ -10390,7 +10390,7 @@ msgstr "fino al {date}"
 #: ../root/components/common-macros.tt:112
 #, perl-format
 msgid "works"
-msgstr ""
+msgstr "opere"
 
 #: ../root/main/index.tt:70
 #, perl-format
@@ -10591,8 +10591,8 @@ msgstr[1] ""
 #, perl-format
 msgid "{num} work found"
 msgid_plural "{num} works found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} opera trovata"
+msgstr[1] "{num} opere trovate"
 
 #: ../root/components/common-macros.tt:45
 #, perl-format
@@ -10637,7 +10637,7 @@ msgstr ""
 #: ../root/work/layout.tt:1
 #, perl-format
 msgid "{type} “{work}”"
-msgstr ""
+msgstr "{type} “{work}”"
 
 #: ../root/components/common-macros.tt:456
 #, perl-format
@@ -10875,7 +10875,7 @@ msgstr "Questo ISWC non esiste"
 
 #: ../lib/MusicBrainz/Server/Controller/Recording.pm:217
 msgid "This ISRC already exists for this recording"
-msgstr ""
+msgstr "Questo ISRC è già esistente per questa registrazione"
 
 #: ../lib/MusicBrainz/Server/Controller/Relationship/LinkType.pm:48
 #, perl-brace-format
@@ -10910,7 +10910,7 @@ msgstr "TOC non valido"
 
 #: ../lib/MusicBrainz/Server/Controller/Work.pm:109
 msgid "This ISWC already exists for this work"
-msgstr ""
+msgstr "Questo ISWC è già esistente per quest'opera"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:106
 msgid "No title provided"
