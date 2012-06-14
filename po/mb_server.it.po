@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-13 23:32+0000\n"
+"PO-Revision-Date: 2012-06-14 21:53+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -295,7 +295,7 @@ msgid ""
 "<strong>Error:</strong> You are trying to browse the database using a query "
 "that is longer than 6 characters. We do not index data at this level of "
 "granularity, you may want to {uri|search the database} instead."
-msgstr ""
+msgstr "<strong>Errore:</strong> stai cercando di esplorare il database utilizzando una richiesta di più di 6 caratteri. Non indicizziamo i dati a questo livello di granularità, forse preferisci {uri|cercare nel database}."
 
 #: ../root/components/common-macros.tt:632
 #: ../root/release/edit/tracklist.tt:144
@@ -959,18 +959,18 @@ msgstr[1] "{n} utenti anonimi"
 msgid ""
 "An error occured while creating your account.  Make sure javascript and "
 "cookies are enabled in your browser."
-msgstr ""
+msgstr "Si è verificato un errore durante la creazione del tuo account.  Assicurati che javascript e i cookies siano abilitati nel tuo browser."
 
 #: ../root/edit/index.tt:21 ../root/edit/list.tt:68
 #: ../root/release/edit/editnote.tt:27
 #, perl-format
 msgid "An error occured while loading this edit"
-msgstr ""
+msgstr "Si è verificato un errore durante il caricamento di questa modifica."
 
 #: ../root/release/edit/tracklist.tt:118
 #, perl-format
 msgid "An error occured: "
-msgstr ""
+msgstr "Si è verificato un errore: "
 
 #: ../root/annotation/common.tt:2 ../root/artist/annotation_revision.tt:1
 #: ../root/edit/details/historic/add_release_annotation.tt:13
@@ -1677,7 +1677,7 @@ msgid ""
 "Below is the error information. If you wish to file a bug report, you may do"
 " so at {bugs|our bug tracker}. The below information will help, so please be"
 " sure to include it!"
-msgstr ""
+msgstr "Qui sotto trovi le informazioni sull'errore. Se desideri segnalare un bug, lo puoi fare nel nostro {bugs|bug tracker}. Queste informazioni possono essere utili, perciò assicurati di includerle!"
 
 #: ../root/account/edit.tt:27 ../root/admin/edit_user.tt:34
 #: ../root/user/profile.tt:110
@@ -3273,8 +3273,8 @@ msgstr "Messaggio di errore: "
 #, perl-format
 msgid "Error:"
 msgid_plural "Errors:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Errore:"
+msgstr[1] "Errori:"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -4038,7 +4038,7 @@ msgstr ""
 #: ../root/main/500.tt:1 ../root/main/500.tt:3
 #, perl-format
 msgid "Internal Server Error"
-msgstr ""
+msgstr "Errore interno del server"
 
 #: ../root/user/profile.tt:42
 #, perl-format
@@ -6895,7 +6895,7 @@ msgstr ""
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 #, perl-format
 msgid "Search Error"
-msgstr ""
+msgstr "Errore durante la ricerca"
 
 #: ../root/otherlookup/results-release.tt:1
 #: ../root/otherlookup/results-release.tt:3
@@ -7210,7 +7210,7 @@ msgstr "Spiacenti, <code>{discid}</code> non è un ID disco valido."
 #: ../root/scripts/text_strings.tt:46
 #, perl-format
 msgid "Sorry, an error occurred during your search"
-msgstr ""
+msgstr "Spiacenti, si è verificato un errore durante la tua ricerca"
 
 #: ../root/search/error/no-results.tt:3
 #, perl-format
@@ -7949,7 +7949,7 @@ msgstr ""
 msgid ""
 "The search server could not fulfill your request due to an internal error. "
 "This is usually only temporary, so please retry your search again later."
-msgstr ""
+msgstr "Il server di ricerca non ha potuto soddisfare la tua richiesta per colpa di un errore interno. Di solito si tratta di un problema temporaneo, perciò riprova la tua ricerca più tardi."
 
 #: ../root/layout.tt:128
 #, perl-format
