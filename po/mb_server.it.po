@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-15 18:00+0000\n"
+"PO-Revision-Date: 2012-06-15 18:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -92,7 +92,7 @@ msgstr "&#10005;"
 #: ../root/relationship/linktype/tree.tt:38
 #, perl-format
 msgid "&lt; Back to all relationship types"
-msgstr ""
+msgstr "&lt; Torna a tutti i tipi di relazione"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:29
 #, perl-format
@@ -133,7 +133,7 @@ msgstr "(clicca qui per visualizzare l'annotazione)"
 #: ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "(ended)"
-msgstr ""
+msgstr "(inattivo)"
 
 #: ../root/user/profile.tt:20
 #, perl-format
@@ -170,7 +170,7 @@ msgstr "(nessun registro delle modifiche)"
 #: ../root/release/add_cover_art.tt:26
 #, perl-format
 msgid "(no other cover art)"
-msgstr ""
+msgstr "(nessun'altra copertina)"
 
 #: ../root/edit/details/add_relationship_type.tt:9
 #: ../root/edit/details/historic/add_release_annotation.tt:21
@@ -403,7 +403,7 @@ msgstr ""
 #: ../root/elections/show.tt:73 ../lib/MusicBrainz/Server/Data/Vote.pm:153
 #, perl-format
 msgid "Abstain"
-msgstr ""
+msgstr "Astenuto"
 
 #: ../root/doc/edit_type.tt:58
 #, perl-format
@@ -477,7 +477,7 @@ msgstr "Aggiungi bozza CD"
 #: ../root/release/cover_art.tt:49
 #, perl-format
 msgid "Add Cover Art"
-msgstr ""
+msgstr "Aggiungi copertina"
 
 #: ../root/release/edit/tracklist.tt:167 ../root/release/edit/tracklist.tt:293
 #: ../root/release/edit/tracklist.tt:492
@@ -877,7 +877,7 @@ msgstr "Tutte le mie modifiche"
 #: ../root/release/cover_art.tt:34
 #, perl-format
 msgid "All artwork is provided by the {caa|Cover Art Archive}."
-msgstr ""
+msgstr "Tutte le copertine sono fornite dal {caa|Cover Art Archive}."
 
 #: ../root/account/preferences.tt:32
 #, perl-format
@@ -1052,7 +1052,7 @@ msgstr "Aggiungi supporti alla pubblicazione di destinazione"
 #: ../root/edit/search_macros.tt:235
 #, perl-format
 msgid "Approve"
-msgstr ""
+msgstr "Approva"
 
 #: ../root/edit/edit_header.tt:77 ../root/edit/info.tt:17
 #, perl-format
@@ -1541,7 +1541,7 @@ msgstr "Indietro"
 #: ../root/elections/not_found.tt:5
 #, perl-format
 msgid "Back to all elections."
-msgstr ""
+msgstr "Torna a tutte le elezioni."
 
 #: ../root/elections/show.tt:5
 #, perl-format
@@ -1633,12 +1633,12 @@ msgstr ""
 #: ../root/search/results-label.tt:14
 #, perl-format
 msgid "Begin"
-msgstr ""
+msgstr "Inizio"
 
 #: ../root/components/aliases.tt:8
 #, perl-format
 msgid "Begin Date"
-msgstr ""
+msgstr "Data iniziale"
 
 #: ../root/alias/edit_form.tt:21 ../root/artist/edit_form.tt:52
 #: ../root/edit/details/add_artist_alias.tt:36
@@ -1659,7 +1659,7 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:125 ../root/label/edit_form.tt:53
 #, perl-format
 msgid "Begin date:"
-msgstr ""
+msgstr "Data iniziale:"
 
 #: ../root/layout/menu.tt:209
 #, perl-format
@@ -1927,7 +1927,7 @@ msgstr "Candidato:"
 #: ../root/release/cover_art.tt:55
 #, perl-format
 msgid "Cannot Add Cover Art"
-msgstr ""
+msgstr "Impossibile aggiungere copertina"
 
 #: ../root/edit/relationship/cannot_create.tt:1
 #: ../root/edit/relationship/cannot_create.tt:2
@@ -2062,7 +2062,7 @@ msgstr ""
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
 msgid "Choose one or more cover art types for this image"
-msgstr ""
+msgstr "Scegli uno o più tipi di copertina per questa immagine"
 
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
@@ -2285,7 +2285,7 @@ msgstr "Paese:"
 #: ../root/release/cover_art.tt:3 ../root/release/tabs.tt:1
 #, perl-format
 msgid "Cover Art"
-msgstr ""
+msgstr "Copertine"
 
 #: ../root/layout.tt:170
 #, perl-format
@@ -2297,7 +2297,7 @@ msgstr "Copertine fornite dal {caa|Cover Art Archive}. Hosting fornito da {host|
 #: ../root/edit/details/macros.tt:86
 #, perl-format
 msgid "Cover art:"
-msgstr ""
+msgstr "Copertina:"
 
 #: ../root/admin/wikidoc/create.tt:12
 #, perl-format
@@ -2404,7 +2404,7 @@ msgstr "Data"
 #: ../root/label/edit_form.tt:49
 #, perl-format
 msgid "Date Period"
-msgstr ""
+msgstr "Periodo di tempo"
 
 #: ../root/account/preferences.tt:14
 #, perl-format
@@ -2770,7 +2770,7 @@ msgstr "Modifica collezione"
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
 msgid "Edit Cover Art"
-msgstr ""
+msgstr "Modifica copertina:"
 
 #: ../root/layout/menu.tt:58
 #, perl-format
@@ -3170,17 +3170,17 @@ msgstr "Abilita i privilegi da {autoed|auto-editor} per questa modifica."
 #: ../root/search/results-label.tt:15
 #, perl-format
 msgid "End"
-msgstr ""
+msgstr "Fine"
 
 #: ../root/components/aliases.tt:9
 #, perl-format
 msgid "End Date"
-msgstr ""
+msgstr "Data finale"
 
 #: ../root/elections/index.tt:12
 #, perl-format
 msgid "End date"
-msgstr ""
+msgstr "Data finale"
 
 #: ../root/alias/edit_form.tt:22 ../root/artist/edit_form.tt:53
 #: ../root/edit/details/add_artist_alias.tt:42
@@ -3201,7 +3201,7 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:130 ../root/label/edit_form.tt:54
 #, perl-format
 msgid "End date:"
-msgstr ""
+msgstr "Data finale:"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #: ../root/edit/details/add_artist.tt:54 ../root/edit/details/add_label.tt:40
@@ -3209,7 +3209,7 @@ msgstr ""
 #: ../root/edit/details/edit_label.tt:43 ../root/scripts/text_strings.tt:71
 #, perl-format
 msgid "Ended:"
-msgstr ""
+msgstr "Inattivo:"
 
 #: ../root/release/edit/tracklist.tt:181
 #, perl-format
@@ -4350,7 +4350,7 @@ msgstr "Effettua l'accesso per modificare"
 #: ../root/release/cover_art.tt:60
 #, perl-format
 msgid "Log in to upload cover art"
-msgstr ""
+msgstr "Effettua l'accesso per caricare copertine"
 
 #: ../root/doc/bare_error.tt:11 ../root/doc/error.tt:17 ../root/main/400.tt:18
 #: ../root/main/404.tt:18
@@ -4642,12 +4642,12 @@ msgstr "Sposta ID disco"
 #: ../root/release/edit/tracklist.tt:400
 #, perl-format
 msgid "Move disc down"
-msgstr "Sposta disco in basso"
+msgstr "Sposta disco verso il basso"
 
 #: ../root/release/edit/tracklist.tt:403
 #, perl-format
 msgid "Move disc up"
-msgstr "Sposta disco in alto"
+msgstr "Sposta disco verso l'alto"
 
 #: ../root/release/move_confirm.tt:1 ../root/release/move_confirm.tt:2
 #: ../root/release/move_search.tt:1 ../root/release/move_search.tt:2
@@ -4658,12 +4658,12 @@ msgstr "Sposta pubblicazione in un altro gruppo di pubblicazioni"
 #: ../root/release/edit/tracklist.tt:310
 #, perl-format
 msgid "Move track down"
-msgstr ""
+msgstr "Sposta traccia verso il basso"
 
 #: ../root/release/edit/tracklist.tt:313
 #, perl-format
 msgid "Move track up"
-msgstr ""
+msgstr "Sposta traccia verso l'alto"
 
 #: ../root/edit/details/move_release.tt:14
 #, perl-format
@@ -4948,7 +4948,7 @@ msgstr "Nuova posizione:"
 #: ../root/edit/details/reorder_cover_art.tt:22
 #, perl-format
 msgid "New positions:"
-msgstr ""
+msgstr "Nuove posizioni:"
 
 #: ../root/edit/details/edit_medium.tt:199
 #, perl-format
@@ -4974,7 +4974,7 @@ msgstr "Nuova versione:"
 #: ../root/scripts/text_strings.tt:35
 #, perl-format
 msgid "Next"
-msgstr ""
+msgstr "Seguente"
 
 #: ../root/release/edit/duplicates.tt:47
 #: ../root/release/edit/information.tt:111
@@ -4983,7 +4983,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:494
 #, perl-format
 msgid "Next »"
-msgstr ""
+msgstr "Seguente »"
 
 #: ../root/edit/details/add_artist_alias.tt:25
 #: ../root/edit/details/add_artist.tt:55
@@ -5026,7 +5026,7 @@ msgstr "Nessuna collezione trovata con questo tag."
 #: ../root/release/sidebar.tt:5 ../root/release/sidebar.tt:11
 #, perl-format
 msgid "No cover art available."
-msgstr ""
+msgstr "Nessuna copertina disponibile."
 
 #: ../root/edit/notes.tt:29
 #, perl-format
@@ -5046,12 +5046,12 @@ msgstr "Nessuna elezione trovata."
 #: ../root/release/sidebar.tt:7
 #, perl-format
 msgid "No front cover image available.<br/>{all|View all artwork}."
-msgstr ""
+msgstr "Nessuna copertina frontale disponibile.<br/>{all|Visualizza tutte le copertine}."
 
 #: ../root/relationship/linkattributetype/instruments.tt:31
 #, perl-format
 msgid "No instruments found."
-msgstr ""
+msgstr "Nessuno strumento trovato."
 
 #: ../root/tag/label.tt:1
 #, perl-format
@@ -5164,7 +5164,7 @@ msgstr "Nessun voto"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "No vote count"
-msgstr ""
+msgstr "Numero di voti negativi"
 
 #: ../root/tag/work.tt:1
 #, perl-format
@@ -5264,7 +5264,7 @@ msgstr "Vecchia password:"
 #: ../root/edit/details/reorder_cover_art.tt:10
 #, perl-format
 msgid "Old positions:"
-msgstr ""
+msgstr "Vecchie posizioni:"
 
 #: ../root/edit/details/edit_medium.tt:198
 #, perl-format
@@ -5521,7 +5521,7 @@ msgstr ""
 msgid ""
 "Please choose a valid image. Currently the Cover Art Archive only supports "
 "JPEG files."
-msgstr ""
+msgstr "Seleziona un'immagine valida. Al momento il Cover Art Archive supporta solo file JPEG."
 
 #: ../root/scripts/text_strings.tt:44
 #, perl-format
@@ -5706,7 +5706,7 @@ msgstr "Cerca l'artista di cui vuoi creare una nuova pubblicazione:"
 msgid ""
 "Please see the <a href=\"{doc}\" target=\"_blank\">Cover Art Types</a> "
 "documentation for a description of these types."
-msgstr ""
+msgstr "Vai alla documentazione sui <a href=\"{doc}\" target=\"_blank\">tipi di copertine</a> per una descrizione di questi tipi."
 
 #: ../root/scripts/text_strings.tt:41
 #, perl-format
@@ -5718,7 +5718,7 @@ msgstr "Seleziona un tipo di relazione."
 msgid ""
 "Please select a subtype of the currently selected relationship type. The "
 "selected relationship type is only used for grouping subtypes."
-msgstr ""
+msgstr "Seleziona un sottotipo del tipo di relazione attualmente selezionato. Questo tipo di relazione è utilizzato solo per raggruppare altre relazioni."
 
 #: ../root/edit/relationship/create_batch.tt:87
 #, perl-format
@@ -5917,7 +5917,7 @@ msgstr "Pubblica"
 #: ../root/collection/header.tt:14
 #, perl-format
 msgid "Public collection by {owner}"
-msgstr ""
+msgstr "Collezione pubblica di {owner}"
 
 #: ../root/components/search.tt:9 ../root/search/form.tt:4
 #, perl-format
@@ -6609,7 +6609,7 @@ msgstr ""
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr ""
+msgstr "Rimuovi copertina"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
@@ -6782,7 +6782,7 @@ msgstr ""
 #: ../root/release/reorder_cover_art.tt:6
 #, perl-format
 msgid "Reorder Cover Art"
-msgstr ""
+msgstr "Riordina copertine"
 
 #: ../root/layout/menu.tt:244
 #, perl-format
@@ -7489,17 +7489,17 @@ msgstr "Sponsor"
 #: ../root/main/500.tt:19
 #, perl-format
 msgid "Stack trace:"
-msgstr ""
+msgstr "Stack trace:"
 
 #: ../root/cdtoc/info.tt:32
 #, perl-format
 msgid "Start"
-msgstr ""
+msgstr "Inizio"
 
 #: ../root/elections/index.tt:11
 #, perl-format
 msgid "Start date"
-msgstr ""
+msgstr "Data di inizio"
 
 #: ../root/browse/page_selector.tt:57
 #, perl-format
@@ -7768,7 +7768,7 @@ msgstr "Grazie, il tuo indirizzo email è ora verificato!"
 msgid ""
 "The Cover Art Archive has had a take down request in the past for this "
 "release, so we are unable to allow any more uploads."
-msgstr ""
+msgstr "Il Cover Art Archive ha ricevuto in passato una richiesta di rimozione per questa pubblicazione, perciò non possiamo permettere altri caricamenti."
 
 #: ../root/user/profile.tt:77
 #, perl-format
@@ -8138,7 +8138,7 @@ msgstr "Questo artista non ha nessuna pubblicazione"
 #: ../root/artist/edit_form.tt:54 ../root/scripts/text_strings.tt:71
 #, perl-format
 msgid "This artist has ended."
-msgstr ""
+msgstr "Questo artista non è più in attività."
 
 #: ../root/artist/index.tt:38
 #, perl-format
@@ -8227,7 +8227,7 @@ msgstr "Questa modifica è aperta e in attesa di voti prima di poter essere appl
 #: ../root/edit/details/set_track_lengths.tt:59
 #, perl-format
 msgid "This edit makes subsecond changes to track lengths"
-msgstr ""
+msgstr "Questa modifica apporta cambiamenti inferiori al secondo alla durata delle tracce"
 
 #: ../root/doc/edit_type.tt:29
 #, perl-format
@@ -8337,7 +8337,7 @@ msgstr "Questa etichetta non ha nessuna pubblicazione."
 #: ../root/label/edit_form.tt:55
 #, perl-format
 msgid "This label has ended."
-msgstr ""
+msgstr "Questa etichetta non è più in attività."
 
 #: ../root/label/tags.tt:2
 #, perl-format
@@ -8711,7 +8711,7 @@ msgstr "Quest'opera non ha tag."
 #: ../root/cdtoc/info.tt:37 ../root/cdtoc/info.tt:39 ../root/cdtoc/info.tt:41
 #, perl-format
 msgid "Time"
-msgstr ""
+msgstr "Tempo"
 
 #: ../root/layout/menu.tt:107
 #, perl-format
@@ -8758,7 +8758,7 @@ msgstr ""
 #: ../root/browse/release.tt:39 ../root/browse/work.tt:39
 #, perl-format
 msgid "To begin browsing, please select a letter above."
-msgstr ""
+msgstr "Per iniziare ad esplorare, seleziona una delle lettere qui sopra."
 
 #: ../root/release/edit/tracklist.tt:168
 #, perl-format
@@ -9414,7 +9414,7 @@ msgstr "La votazione non è ancora aperta. Se vuoi appoggiare questo candidato, 
 #: ../root/doc/edit_type.tt:43
 #, perl-format
 msgid "Voting period (days)"
-msgstr ""
+msgstr "Periodo di votazione (giorni)"
 
 #: ../root/release/edit/information.tt:131
 #, perl-format
@@ -9444,7 +9444,7 @@ msgstr "Spiacenti, ma i dati di questo report non sono al momento disponibili."
 msgid ""
 "We are unable to display history for cover art. For a current listing of "
 "cover art, please see the {coverart|releases cover art page}."
-msgstr ""
+msgstr "Impossibile visualizzare la cronologia delle copertine. Per visualizzare le copertine attualmente presenti, vai alla {coverart|pagina delle copertine della pubblicazione}."
 
 #: ../root/release/edit/missing_entities.tt:74
 #, perl-format
@@ -9463,7 +9463,7 @@ msgstr "Non è stato possibile trovare un'etichetta con il nome che hai inserito
 #: ../root/release/cover_art.tt:38
 #, perl-format
 msgid "We do not currently have any cover art for {release}."
-msgstr ""
+msgstr "Al momento non abbiamo nessuna copertina per {release}."
 
 #: ../root/cdtoc/lookup.tt:78
 #, perl-format
@@ -9713,7 +9713,7 @@ msgstr "Sì"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Yes vote count"
-msgstr ""
+msgstr "Numero di voti positivi"
 
 #: ../root/elections/nominate.tt:11
 #, perl-format
@@ -10143,7 +10143,7 @@ msgstr "editor"
 #: ../root/components/common-macros.tt:591
 #, perl-format
 msgid "ended"
-msgstr ""
+msgstr "inattivo"
 
 #: ../root/components/common-macros.tt:578 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10304,7 +10304,7 @@ msgstr "in maniera casuale"
 #: ../root/release/edit/recordings.tt:262
 #, perl-format
 msgid "recording"
-msgstr ""
+msgstr "registrazione"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -10370,7 +10370,7 @@ msgstr "simbolo"
 #: ../root/release/edit/recordings.tt:262
 #, perl-format
 msgid "track"
-msgstr ""
+msgstr "traccia"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -10662,7 +10662,7 @@ msgstr "{user} non ha nessuna collezione pubblica."
 #: ../root/user/ratings.tt:23
 #, perl-format
 msgid "{user} has not rated anything."
-msgstr ""
+msgstr "{user} non ha valutato nulla."
 
 #: ../root/user/tag.tt:22
 #, perl-format
@@ -10699,7 +10699,7 @@ msgstr "{yes} sì : {no} no"
 #: ../root/release/edit/tracklist.tt:493
 #, perl-format
 msgid "« Previous"
-msgstr ""
+msgstr "« Precedente"
 
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
@@ -10795,7 +10795,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:637
 #, perl-brace-format
 msgid "This collaboration has been split in edit #{id}."
-msgstr ""
+msgstr "Questa collaborazione è stata divisa con la modifica #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/AutoEditorElections.pm:70
 #, perl-brace-format
@@ -10849,7 +10849,7 @@ msgstr "Pubblicazione non trovata"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:440
 msgid "Target entity not found"
-msgstr ""
+msgstr "Entità di destinazione non trovata"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:535
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:543
@@ -11416,7 +11416,7 @@ msgstr "Un altro supporto è già in questa posizione"
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:64
 msgid "Positions must be greater than 0"
-msgstr ""
+msgstr "Le posizioni devono essere superiori a 0"
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
@@ -11430,7 +11430,7 @@ msgstr "È necessario indicare il tipo di collegamento."
 msgid ""
 "This relationship type is used to group other relationships. Please select a"
 " subtype of the currently selected relationship type."
-msgstr ""
+msgstr "Questo tipo di relazione è utilizzato solo per raggruppare altre relazioni. Seleziona un sottotipo del tipo di relazione attualmente selezionato."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:95
 msgid "This relationship type is deprecated."
@@ -11527,7 +11527,7 @@ msgstr "Una pubblicazione deve possedere almeno un supporto."
 
 #: ../lib/MusicBrainz/Server/Form/Role/DatePeriod.pm:42
 msgid "The end date must occur on or after the begin date"
-msgstr ""
+msgstr "La data finale non può essere anteriore a quella iniziale."
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
 msgid "FreeDB"
@@ -11567,15 +11567,15 @@ msgstr "Devi fornire una data di nascita completa affinché sia possibile visual
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Daily"
-msgstr ""
+msgstr "Ogni giorno"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:82
 msgid "Weekly"
-msgstr ""
+msgstr "Ogni settimana"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:83
 msgid "Never"
-msgstr ""
+msgstr "Mai"
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
