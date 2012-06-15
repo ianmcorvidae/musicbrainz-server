@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-15 15:59+0000\n"
+"PO-Revision-Date: 2012-06-15 16:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -2531,7 +2531,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:56
 #, perl-format
 msgid "Direct database search"
-msgstr "Ricerca diretta database"
+msgstr "Ricerca diretta nel database"
 
 #: ../root/cdstub/index.tt:3
 #, perl-format
@@ -2775,7 +2775,7 @@ msgstr ""
 #: ../root/layout/menu.tt:58
 #, perl-format
 msgid "Edit Instrument Tree"
-msgstr ""
+msgstr "Modifica lista degli strumenti"
 
 #: ../root/label/edit.tt:15
 #, perl-format
@@ -3772,14 +3772,14 @@ msgstr "ISWC:"
 msgid ""
 "If none of these artists match the artist you intended, you can still create"
 " a new artist."
-msgstr ""
+msgstr "Se nessuno di questi artisti corrisponde a quello che cercavi, puoi sempre crearne uno nuovo."
 
 #: ../root/release/edit/missing_entities.tt:117
 #, perl-format
 msgid ""
 "If none of these labels match the label you intended, you can still create a"
 " new label."
-msgstr ""
+msgstr "Se nessuna di queste etichette corrisponde a quella che cercavi, puoi sempre crearne una nuova."
 
 #: ../root/artist/edit_form.tt:5
 #, perl-format
@@ -3890,7 +3890,7 @@ msgstr "Se sei arrivato qui seguendo un link sul nostro sito, {report|segnala un
 msgid ""
 "If you have any questions, please review the {faq|FAQs} or "
 "{doc|documentation} before {con|contacting us}. "
-msgstr ""
+msgstr "Se hai delle domande, dai un'occhiata alle {faq|FAQ} e alla {doc|documentazione} prima di {con|contattarci}. "
 
 #: ../root/artist/add_alias.tt:6 ../root/artist/edit_alias.tt:6
 #, perl-format
@@ -4000,12 +4000,12 @@ msgstr "Importa come pubblicazione di artista singolo"
 msgid ""
 "In order to log in or make changes to the database you must visit the main "
 "server at {uri}."
-msgstr ""
+msgstr "Per accedere o fare modifiche al database devi visitare il server principale su {uri}."
 
 #: ../root/main/mirror_404.tt:9
 #, perl-format
 msgid "In order to view this page please visit the main server at {uri}."
-msgstr ""
+msgstr "Per visualizzare questa pagina devi visitare il server principale su {uri}."
 
 #: ../root/user/login.tt:20
 #, perl-format
@@ -4026,14 +4026,14 @@ msgstr "Ricerca indicizzata con {doc|sintassi di ricerca avanzata}"
 #: ../root/release/edit/recordings.tt:394
 #, perl-format
 msgid "Infer track durations from associated recordings"
-msgstr ""
+msgstr "Desumi la durata delle tracce dalle registrazioni associate"
 
 #: ../root/admin/index.tt:8 ../root/layout/menu.tt:224
 #: ../root/relationship/header.tt:2
 #: ../root/relationship/linkattributetype/instruments.tt:3
 #, perl-format
 msgid "Instrument Tree"
-msgstr ""
+msgstr "Lista degli strumenti"
 
 #: ../root/main/500.tt:1 ../root/main/500.tt:3
 #, perl-format
@@ -4095,18 +4095,18 @@ msgstr "Connettore"
 #: ../root/relationship/linkattributetype/instruments.tt:12
 #, perl-format
 msgid "Jump to:"
-msgstr ""
+msgstr "Vai a:"
 
 #: ../root/user/login.tt:31
 #, perl-format
 msgid "Keep me logged in"
-msgstr ""
+msgstr "Resta collegato"
 
 #: ../root/components/forms.tt:173 ../root/components/forms.tt:197
 #: ../root/release/edit/tracklist.tt:476
 #, perl-format
 msgid "Keep uppercase words uppercased"
-msgstr ""
+msgstr "Mantieni in maiuscolo le parole che lo sono già"
 
 #: ../root/cdtoc/attach_artist_releases.tt:37
 #: ../root/cdtoc/attach_filter_release.tt:50 ../root/cdtoc/list.tt:10
@@ -4260,7 +4260,7 @@ msgstr "Ultimi post:"
 #: ../root/tracklist/index.tt:15
 #, perl-format
 msgid "Length"
-msgstr ""
+msgstr "Durata"
 
 #: ../root/edit/details/add_standalone_recording.tt:28
 #: ../root/edit/details/add_track_kv.tt:7
@@ -4269,7 +4269,7 @@ msgstr ""
 #: ../root/recording/edit_form.tt:10 ../root/recording/layout.tt:12
 #, perl-format
 msgid "Length:"
-msgstr ""
+msgstr "Durata:"
 
 #: ../root/edit/relationship/create_url.tt:56
 #, perl-format
@@ -4371,12 +4371,12 @@ msgstr "Ricerca CD"
 #: ../root/cdstub/browse.tt:11
 #, perl-format
 msgid "Lookup count"
-msgstr ""
+msgstr "Numero di ricerche"
 
 #: ../root/cdstub/layout.tt:11
 #, perl-format
 msgid "Lookup count:"
-msgstr ""
+msgstr "Numero di ricerche:"
 
 #: ../root/account/lost_password_sent.tt:1 ../root/account/lost_password.tt:1
 #: ../root/account/lost_password.tt:3
@@ -4435,12 +4435,12 @@ msgstr "Inserimento manuale"
 #: ../root/release/lookup.tt:8
 #, perl-format
 msgid "Match"
-msgstr ""
+msgstr "Corrispondenza"
 
 #: ../root/cdtoc/lookup.tt:4 ../root/cdtoc/lookup.tt:77
 #, perl-format
 msgid "Matching CDs"
-msgstr ""
+msgstr "CD corrispondenti"
 
 #: ../root/cdtoc/lookup.tt:37 ../root/components/common-macros.tt:678
 #: ../root/search/lib/inline-results-recording.tt:16
@@ -4514,7 +4514,7 @@ msgstr "Unisci etichette"
 #: ../root/layout/merge-helper.tt:3
 #, perl-format
 msgid "Merge Process"
-msgstr ""
+msgstr "Processo di unione"
 
 #: ../root/recording/merge.tt:1 ../root/recording/merge.tt:3
 #, perl-format
@@ -4616,17 +4616,17 @@ msgstr "Messaggio:"
 #: ../root/report/set_in_different_rg.tt:3
 #, perl-format
 msgid "Mismatched release groups"
-msgstr ""
+msgstr "Gruppi di pubblicazioni non corrispondenti"
 
 #: ../root/cdstub/browse.tt:12
 #, perl-format
 msgid "Modify count"
-msgstr ""
+msgstr "Numero di modifiche"
 
 #: ../root/cdstub/layout.tt:13
 #, perl-format
 msgid "Modify count:"
-msgstr ""
+msgstr "Numero di modifiche:"
 
 #: ../root/release/discids.tt:42 ../root/release/edit-links.tt:3
 #: ../root/release/move_search.tt:12
@@ -5036,7 +5036,7 @@ msgstr "Non è stata aggiunta nessuna nota di modifica."
 #: ../root/edit/list.tt:88
 #, perl-format
 msgid "No edits were found matching your query. Please {search|try again}."
-msgstr ""
+msgstr "Non è stata trovata nessuna modifica corrispondente alla tua ricerca. {search|Prova di nuovo}."
 
 #: ../root/elections/index.tt:29
 #, perl-format
@@ -5106,7 +5106,7 @@ msgstr "Nessuna pubblicazione trovata nella collezione."
 #: ../root/recording/index.tt:43
 #, perl-format
 msgid "No releases found which feature this recording."
-msgstr ""
+msgstr "Non è stata trovata nessuna pubblicazione che contenga questa registrazione."
 
 #: ../root/release_group/index.tt:78
 #, perl-format
@@ -5174,7 +5174,7 @@ msgstr "Nessuna opera trovata con questo tag."
 #: ../root/relationship/linktype/tree.tt:58
 #, perl-format
 msgid "No {type0}-{type1} relationship types found."
-msgstr ""
+msgstr "Nessuna relazione {type0}-{type1} trovata."
 
 #: ../root/elections/nominate.tt:1 ../root/elections/nominate.tt:3
 #, perl-format
@@ -5389,7 +5389,7 @@ msgstr "Totali"
 #: ../root/tag/header.tt:1 ../root/url/header.tt:1 ../root/work/header.tt:1
 #, perl-format
 msgid "Overview"
-msgstr ""
+msgstr "Riepilogo"
 
 #: ../root/collection/layout.tt:6
 #, perl-format
@@ -5496,7 +5496,7 @@ msgstr "Password:"
 #: ../root/release_group/details.tt:20 ../root/work/details.tt:20
 #, perl-format
 msgid "Permanent link:"
-msgstr ""
+msgstr "Link permanente"
 
 #: ../root/edit/details/remove_relationship_type.tt:11
 #, perl-format
@@ -5711,7 +5711,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:41
 #, perl-format
 msgid "Please select a relationship type."
-msgstr ""
+msgstr "Seleziona un tipo di relazione."
 
 #: ../root/scripts/text_strings.tt:40
 #, perl-format
@@ -5760,7 +5760,7 @@ msgstr ""
 #: ../root/components/aliases.tt:67
 #, perl-format
 msgid "Please {log_in|log in} to add or edit aliases"
-msgstr ""
+msgstr "{log_in|Accedi} per aggiungere o modificare alias"
 
 #: ../root/recording/fingerprints.tt:39
 #, perl-format
@@ -5770,12 +5770,12 @@ msgstr "{login_url|Accedi} per modificare questi PUID."
 #: ../root/release/discids.tt:57
 #, perl-format
 msgid "Please {login} to edit the disc IDs for this release."
-msgstr ""
+msgstr "{Accedi} per modificare gli ID disco di questa pubblicazione."
 
 #: ../root/release/edit-links.tt:15
 #, perl-format
 msgid "Please {uri|log in} to edit this release"
-msgstr ""
+msgstr "{uri|Accedi} per modificare questa pubblicazione"
 
 #: ../root/cdtoc/list.tt:4
 #, perl-format
@@ -5820,7 +5820,7 @@ msgstr ""
 #: ../root/layout/menu.tt:13
 #, perl-format
 msgid "Preferences"
-msgstr ""
+msgstr "Preferenze"
 
 #: ../root/annotation/edit.tt:27 ../root/components/forms.tt:238
 #: ../root/release/edit/tracklist.tt:37
@@ -5871,12 +5871,12 @@ msgstr "Priorità:"
 #: ../root/account/preferences.tt:29 ../root/user/collections.tt:11
 #, perl-format
 msgid "Privacy"
-msgstr ""
+msgstr "Privacy"
 
 #: ../root/layout/menu.tt:95
 #, perl-format
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politica di privacy"
 
 #: ../root/user/collections.tt:21
 #, perl-format
@@ -5922,7 +5922,7 @@ msgstr ""
 #: ../root/components/search.tt:9 ../root/search/form.tt:4
 #, perl-format
 msgid "Query:"
-msgstr ""
+msgstr "Ricerca:"
 
 #: ../root/main/index.tt:30
 #, perl-format
@@ -6067,17 +6067,17 @@ msgstr "Impostazioni regionali"
 #: ../root/doc/edit_type.tt:58
 #, perl-format
 msgid "Reject"
-msgstr ""
+msgstr "Rifiuta"
 
 #: ../root/edit/index.tt:74
 #, perl-format
 msgid "Reject edit"
-msgstr ""
+msgstr "Rifiuta modifica"
 
 #: ../root/components/common-macros.tt:512
 #, perl-format
 msgid "Reject upon expiration"
-msgstr ""
+msgstr "Rifiuta alla scadenza"
 
 #: ../root/components/common-macros.tt:465
 #, perl-format
@@ -6443,7 +6443,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Releases in the Cover Art Archive that still have cover art relationships"
-msgstr ""
+msgstr "Pubblicazioni nel Cover Art Archive che hanno ancora relazioni di copertina"
 
 #: ../root/report/index.tt:51 ../root/report/released_too_early.tt:1
 #: ../root/report/released_too_early.tt:3
@@ -6834,7 +6834,7 @@ msgstr "Risultati:"
 #: ../root/user/contact.tt:16
 #, perl-format
 msgid "Reveal my email address"
-msgstr ""
+msgstr "Rivela il mio indirizzo email"
 
 #: ../root/edit/details/edit_relationship_type.tt:16
 #: ../root/relationship/linktype/form.tt:14
@@ -6865,7 +6865,7 @@ msgstr "Negozio"
 #: ../root/search/results-work.tt:9
 #, perl-format
 msgid "Score"
-msgstr ""
+msgstr "Punteggio"
 
 #: ../root/edit/details/add_release.tt:53
 #: ../root/edit/details/edit_release.tt:34
@@ -6885,12 +6885,12 @@ msgstr "Script:"
 #: ../root/search/index.tt:3 ../root/taglookup/form.tt:13
 #, perl-format
 msgid "Search"
-msgstr ""
+msgstr "Cerca"
 
 #: ../root/layout/menu.tt:157
 #, perl-format
 msgid "Search Edits"
-msgstr ""
+msgstr "Cerca modifiche"
 
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 #, perl-format
@@ -6918,7 +6918,7 @@ msgstr "Errore durante la ricerca"
 #: ../root/search/results-work.tt:1 ../root/search/results-work.tt:3
 #, perl-format
 msgid "Search Results"
-msgstr ""
+msgstr "Risultati della ricerca"
 
 #: ../root/cdtoc/lookup.tt:56
 #, perl-format
@@ -6934,12 +6934,12 @@ msgstr ""
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
 #, perl-format
 msgid "Search for Edits"
-msgstr ""
+msgstr "Cerca modifiche"
 
 #: ../root/search/editor.tt:1
 #, perl-format
 msgid "Search for an Editor"
-msgstr ""
+msgstr "Cerca un editor"
 
 #: ../root/cdtoc/attach_filter_artist.tt:3
 #, perl-format
@@ -6949,12 +6949,12 @@ msgstr ""
 #: ../root/edit/list_header.tt:8
 #, perl-format
 msgid "Search for edits"
-msgstr ""
+msgstr "Cerca modifiche"
 
 #: ../root/release/edit/recordings.tt:95
 #, perl-format
 msgid "Search for recordings"
-msgstr ""
+msgstr "Cerca registrazioni"
 
 #: ../root/search/form.tt:52
 #, perl-format
@@ -6979,7 +6979,7 @@ msgstr "Metodo di ricerca:"
 #: ../root/cdstub/layout.tt:33
 #, perl-format
 msgid "Search the database for this CD"
-msgstr ""
+msgstr "Cerca questo CD nel database"
 
 #: ../root/components/common-macros.tt:694
 #, perl-format
@@ -6989,12 +6989,12 @@ msgstr "Cerca nella documentazione..."
 #: ../root/release/edit/recordings.tt:110
 #, perl-format
 msgid "Search:"
-msgstr ""
+msgstr "Cerca:"
 
 #: ../root/release/edit/tracklist.tt:109 ../root/scripts/text_strings.tt:39
 #, perl-format
 msgid "Searching..."
-msgstr ""
+msgstr "Ricerca in corso..."
 
 #: ../root/elections/show.tt:61
 #, perl-format
@@ -7016,18 +7016,18 @@ msgstr "Settori"
 #: ../root/tag/index.tt:20
 #, perl-format
 msgid "See all {num} {entity}"
-msgstr ""
+msgstr "Visualizza tutte le {num} {entity}"
 
 #: ../root/account/edit.tt:6
 #, perl-format
 msgid ""
 "See also your {uri|user preferences}, which includes your privacy settings."
-msgstr ""
+msgstr "Visualizza anche le tue {uri|preferenze utente}, che includono le tue impostazioni di privacy."
 
 #: ../root/relationship/linkattributetype/index.tt:21
 #, perl-format
 msgid "See the {uri|full instrument tree}."
-msgstr ""
+msgstr "Visualizza la {uri|lista completa degli strumenti}."
 
 #: ../root/cdtoc/attach_filter_artist.tt:35 ../root/cdtoc/move_search.tt:40
 #: ../root/release/edit/recordings.tt:329
@@ -7159,17 +7159,17 @@ msgstr "Visualizzando risultati <strong>{start}</strong>&ndash;<strong>{end}</st
 #: ../root/release/edit/duplicates.tt:12
 #, perl-format
 msgid "Similar releases"
-msgstr ""
+msgstr "Pubblicazioni simili"
 
 #: ../root/main/rate_limited.tt:1 ../root/main/rate_limited.tt:3
 #, perl-format
 msgid "Slow Down!"
-msgstr ""
+msgstr "Rallenta!"
 
 #: ../root/scripts/text_strings.tt:77
 #, perl-format
 msgid "Slow? Switch back to indexed search."
-msgstr ""
+msgstr "Lento? Torna alla ricerca indicizzata."
 
 #: ../root/layout/menu.tt:89
 #, perl-format
@@ -7236,13 +7236,13 @@ msgstr ""
 #: ../root/main/404.tt:8
 #, perl-format
 msgid "Sorry, the page you're looking for does not exist."
-msgstr ""
+msgstr "Spiacenti, la pagina che stai cercando non esiste."
 
 #: ../root/main/mirror_404.tt:5
 #, perl-format
 msgid ""
 "Sorry, the page you're looking for is not available on a mirror server."
-msgstr ""
+msgstr "Spiacenti, la pagina che stai cercando non è disponibile sui server mirror."
 
 #: ../root/browse/artist.tt:33
 #, perl-format
@@ -7289,7 +7289,7 @@ msgstr "Spiacenti, non ci sono opere che iniziano per \"{index}\". {pre|Torna in
 #: ../root/main/400.tt:5
 #, perl-format
 msgid "Sorry, there was a problem with your request."
-msgstr ""
+msgstr "Spiacenti, si è verificato un problema con la tua richiesta."
 
 #: ../root/freedb/not_found.tt:4
 #, perl-format
@@ -7361,7 +7361,7 @@ msgstr "Spiacenti, non è stato possibile trovare un artista con quell'ID di Mus
 #: ../root/collection/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find an collection with that MusicBrainz ID."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare una collezione con quell'ID di MusicBrainz."
 
 #: ../root/edit/not_found.tt:4
 #, perl-format
@@ -7469,17 +7469,17 @@ msgstr "Nome di ordinamento:"
 #: ../root/artist/split.tt:15
 #, perl-format
 msgid "Split Artist"
-msgstr ""
+msgstr "Dividi artista"
 
 #: ../root/artist/cannot_split.tt:2 ../root/artist/split.tt:20
 #, perl-format
 msgid "Split Into Separate Artists"
-msgstr ""
+msgstr "Dividi in artisti separati"
 
 #: ../root/artist/layout.tt:91
 #, perl-format
 msgid "Split into separate artists"
-msgstr ""
+msgstr "Dividi in artisti separati"
 
 #: ../root/layout/menu.tt:80
 #, perl-format
@@ -7504,7 +7504,7 @@ msgstr ""
 #: ../root/browse/page_selector.tt:57
 #, perl-format
 msgid "Start over"
-msgstr ""
+msgstr "Ricomincia"
 
 #: ../root/layout/menu.tt:104 ../root/user/profile.tt:135
 #, perl-format
@@ -7624,7 +7624,7 @@ msgstr "Riassunto:"
 #: ../root/main/503.tt:1 ../root/main/503.tt:3
 #, perl-format
 msgid "System Busy"
-msgstr ""
+msgstr "Sistema occupato"
 
 #: ../root/collection/tag.tt:1 ../root/components/tags.tt:11
 #: ../root/layout/sidebar/sidebar-tags.tt:36
@@ -7636,12 +7636,12 @@ msgstr "Tag"
 #: ../root/taglookup/index.tt:1 ../root/taglookup/index.tt:3
 #, perl-format
 msgid "Tag Lookup"
-msgstr ""
+msgstr "Ricerca tag"
 
 #: ../root/taglookup/results.tt:1 ../root/taglookup/results.tt:3
 #, perl-format
 msgid "Tag Lookup Results"
-msgstr ""
+msgstr "Risultati della ricerca tag"
 
 #: ../root/tag/not_found.tt:1 ../root/tag/not_found.tt:2
 #, perl-format
@@ -7656,7 +7656,7 @@ msgstr "Tagga la tua musica"
 #: ../root/search/index.tt:14
 #, perl-format
 msgid "Tag lookup"
-msgstr ""
+msgstr "Ricerca tag"
 
 #: ../root/release/sidebar.tt:59
 #, perl-format
@@ -7856,7 +7856,7 @@ msgstr ""
 msgid ""
 "The data you have submitted does not make any changes to the data already "
 "present."
-msgstr ""
+msgstr "I dati che hai inviato non apportano alcun cambiamento ai dati già presenti."
 
 #: ../root/tag/cloud.tt:9
 #, perl-format
@@ -7942,7 +7942,7 @@ msgstr ""
 msgid ""
 "The relationship type \"{type}\" can not be deleted because it is is still "
 "in use."
-msgstr ""
+msgstr "Il tipo di relazione \"{type}\" non può essere eliminato perché è ancora in uso."
 
 #: ../root/search/error/internal-error.tt:3
 #, perl-format
@@ -7954,12 +7954,12 @@ msgstr "Il server di ricerca non ha potuto soddisfare la tua richiesta per colpa
 #: ../root/layout.tt:128
 #, perl-format
 msgid "The server is temporary in read-only mode for database maintainance."
-msgstr ""
+msgstr "Il server è temporaneamente in modalità di sola lettura per manutenzione del database."
 
 #: ../root/main/503.tt:5
 #, perl-format
 msgid "The system is overloaded or you are making requests too fast."
-msgstr ""
+msgstr "Il sistema è sovraccarico o stai effettuando richieste troppo velocemente."
 
 #: ../root/elections/show.tt:26
 #, perl-format
@@ -8054,7 +8054,7 @@ msgstr "Al momento non ci sono editor sottoscritti a questa etichetta."
 msgid ""
 "There are not currently any relationship types available between {types0} "
 "and {types1}."
-msgstr ""
+msgstr "Al momento non c'è nessun tipo di relazione disponibile tra {types0} e {types1}."
 
 #: ../root/label/subscriptions.tt:16
 #, perl-format
@@ -8217,12 +8217,12 @@ msgstr "Questa modifica è fallita o perché una delle entità modificate non es
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit has been successfully applied."
-msgstr ""
+msgstr "Questa modifica è stata applicata con successo."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
 msgid "This edit is open and awaiting votes before it can be applied."
-msgstr ""
+msgstr "Questa modifica è aperta e in attesa di voti prima di poter essere applicata."
 
 #: ../root/edit/details/set_track_lengths.tt:59
 #, perl-format
@@ -8289,14 +8289,14 @@ msgstr ""
 #: ../root/layout.tt:96
 #, perl-format
 msgid "This is a MusicBrainz development server."
-msgstr ""
+msgstr "Questo è un server di sviluppo di MusicBrainz."
 
 #: ../root/layout.tt:105
 #, perl-format
 msgid ""
 "This is a Musicbrainz mirror server. To edit or make changes to the data "
 "please visit the main server at {uri}."
-msgstr ""
+msgstr "Questo è un server mirror di MusicBrainz. Per modificare i dati visita il server principale su {uri}."
 
 #: ../root/account/edit.tt:14
 #, perl-format
@@ -8308,7 +8308,7 @@ msgstr ""
 #: ../root/user/login.tt:27
 #, perl-format
 msgid "This is a development server; all passwords have been reset to \"mb\"."
-msgstr ""
+msgstr "Questo è un server di sviluppo; tutte le password sono state reimpostate come \"mb\"."
 
 #: ../root/annotation/common.tt:25
 #, perl-format
@@ -8369,17 +8369,17 @@ msgstr ""
 msgid ""
 "This page has not been reviewed by our documentation team ({more_info|more "
 "info})."
-msgstr ""
+msgstr "Questa pagina non è stata rivista dalla nostra squadra di documentazione ({more_info|maggiori informazioni})."
 
 #: ../root/doc/page.tt:31
 #, perl-format
 msgid "This page is {doc|transcluded} from revision {version} of {title}."
-msgstr ""
+msgstr "Questa pagina è {doc|transclusa} dalla revisione {version} di {title}."
 
 #: ../root/doc/page.tt:41
 #, perl-format
 msgid "This page is {doc|transcluded} from {title}."
-msgstr ""
+msgstr "This page is {doc|transcluded} from {title}."
 
 #: ../root/release/add_cover_art.tt:9
 #, perl-format
@@ -9188,7 +9188,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:444
 #, perl-format
 msgid "Use in a relationship"
-msgstr ""
+msgstr "Usa in una relazione"
 
 #: ../root/main/index.tt:105
 #, perl-format
@@ -9232,7 +9232,7 @@ msgstr ""
 #: ../root/search/form.tt:39
 #, perl-format
 msgid "Use {doc|advanced query syntax}"
-msgstr ""
+msgstr "Utilizza la {doc|sintassi di ricerca avanzata}"
 
 #: ../root/user/profile.tt:45
 #, perl-format
@@ -9270,7 +9270,7 @@ msgstr ""
 msgid ""
 "Using {doc|advanced query syntax} while performing a direct database search "
 "will result in inaccurate results."
-msgstr ""
+msgstr "L'utilizzo della {doc|sintassi di ricerca avanzata} in una ricerca diretta nel database porterà a risultati imprecisi."
 
 #: ../root/cdstub/browse.tt:19 ../root/cdstub/layout.tt:25
 #, perl-format
@@ -9502,7 +9502,7 @@ msgstr ""
 msgid ""
 "We found the following users that matched your query for "
 "<code>{query}</code>."
-msgstr ""
+msgstr "Sono stati trovati i seguenti utenti corrispondenti alla tua ricerca per <code>{query}</code>."
 
 #: ../root/account/donation.tt:7
 #, perl-format
@@ -9828,7 +9828,7 @@ msgid ""
 "You are browsing the database using a query that is 6 characters long. We do"
 " not index data past this level of granularity, you may want to {uri|search "
 "the database} instead."
-msgstr ""
+msgstr "Stai esplorando il database utilizzando una richiesta di più di 6 caratteri. Non indicizziamo i dati a questo livello di granularità, forse preferisci {uri|cercare nel database}."
 
 #: ../root/artist/subscribers.tt:27 ../root/label/subscribers.tt:27
 #: ../root/user/subscribers.tt:32
@@ -10048,7 +10048,7 @@ msgstr "Il tuo profilo è stato aggiornato."
 #: ../root/search/error/invalid.tt:3
 #, perl-format
 msgid "Your search query was deemed invalid by our ruthless search server."
-msgstr ""
+msgstr "Il nostro spietato server di ricerca ha considerato la tua ricerca non valida."
 
 #: ../root/account/register.tt:31
 #, perl-format
@@ -10472,7 +10472,7 @@ msgstr "{doc|ID disco}:"
 #: ../root/user/profile.tt:43
 #, perl-format
 msgid "{doc|Relationship Editor}"
-msgstr ""
+msgstr "{doc|Editor di relazioni}"
 
 #: ../root/user/profile.tt:44
 #, perl-format
@@ -10510,7 +10510,7 @@ msgstr "{link} non ha nessuna valutazione."
 #: ../root/components/relationships.tt:69
 #, perl-format
 msgid "{link} has no relationships."
-msgstr ""
+msgstr "{link} non ha relazioni."
 
 #: ../root/artist/details.tt:9 ../root/label/details.tt:9
 #: ../root/recording/details.tt:9 ../root/release/details.tt:9
@@ -10577,8 +10577,8 @@ msgstr[1] ""
 #, perl-format
 msgid "{num} release found matching your query."
 msgid_plural "{num} release found matching your query."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Trovata {num} pubblicazione corrispondente alla tua ricerca."
+msgstr[1] "Trovate {num} pubblicazioni corrispondenti alla tua ricerca."
 
 #: ../root/tag/release_group.tt:1
 #, perl-format
@@ -10627,7 +10627,7 @@ msgstr ""
 #: ../root/relationship/linktype/tree.tt:34
 #, perl-format
 msgid "{type0}-{type1} Relationship Types"
-msgstr ""
+msgstr "Tipi di relazione {type0}-{type1}"
 
 #: ../root/relationship/linktype/tree.tt:40
 #, perl-format
