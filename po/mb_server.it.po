@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-15 14:28+0000\n"
+"PO-Revision-Date: 2012-06-15 15:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -939,12 +939,12 @@ msgstr "In alternativa, puoi {uri|aggiungere una nuova opera}."
 #: ../root/report/asins_with_multiple_releases.tt:3
 #, perl-format
 msgid "Amazon URLs Linked to Multiple Releases"
-msgstr ""
+msgstr "URL di Amazon collegati a più pubblicazioni"
 
 #: ../root/report/index.tt:44
 #, perl-format
 msgid "Amazon URLs linked to multiple releases"
-msgstr ""
+msgstr "URL di Amazon collegati a più pubblicazioni"
 
 #: ../root/artist/subscribers.tt:17 ../root/label/subscribers.tt:17
 #: ../root/user/subscribers.tt:17
@@ -1176,14 +1176,14 @@ msgstr "Sei sicuro di voler rimuovere l'ISRC <code>{isrc}</code> da {recording} 
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the ISWC <code>{iswc}</code> from {work}?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere l'ISWC <code>{iswc}</code> da {work}?"
 
 #: ../root/release/remove_cover_art.tt:4
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the below cover art from {release} by "
 "{artist}?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere la seguente copertina da {release} di {artist}?"
 
 #: ../root/label/delete.tt:8
 #, perl-format
@@ -1551,7 +1551,7 @@ msgstr "Torna alle elezioni"
 #: ../root/report/bad_amazon_urls.tt:1 ../root/report/bad_amazon_urls.tt:3
 #, perl-format
 msgid "Bad Amazon URLs"
-msgstr ""
+msgstr "URL di Amazon non validi"
 
 #: ../root/main/400.tt:1 ../root/main/400.tt:3
 #, perl-format
@@ -1677,7 +1677,7 @@ msgid ""
 "Below is the error information. If you wish to file a bug report, you may do"
 " so at {bugs|our bug tracker}. The below information will help, so please be"
 " sure to include it!"
-msgstr "Qui sotto trovi le informazioni sull'errore. Se desideri segnalare un bug, lo puoi fare nel nostro {bugs|bug tracker}. Queste informazioni possono essere utili, perciò assicurati di includerle!"
+msgstr "Qui sotto trovi le informazioni sull'errore. Se vuoi segnalare un bug, lo puoi fare nel nostro {bugs|bug tracker}. Queste informazioni possono essere utili, perciò assicurati di includerle!"
 
 #: ../root/account/edit.tt:27 ../root/admin/edit_user.tt:34
 #: ../root/user/profile.tt:110
@@ -2112,7 +2112,7 @@ msgstr "Client:"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Closed"
-msgstr "Chiusa"
+msgstr "Chiuse"
 
 #: ../root/edit/info.tt:42
 #, perl-format
@@ -2292,7 +2292,7 @@ msgstr ""
 msgid ""
 "Cover Art provided by the {caa|Cover Art Archive}. Hosted by {host|Digital "
 "West}. Sponsored by: {url1|Google}, {url2|OSUOSL} and {more|others...}. "
-msgstr ""
+msgstr "Copertine fornite dal {caa|Cover Art Archive}. Hosting fornito da {host|Digital West}. Sponsorizzato da: {url1|Google}, {url2|OSUOSL} e {more|altri...}. "
 
 #: ../root/edit/details/macros.tt:86
 #, perl-format
@@ -2359,7 +2359,7 @@ msgstr "Crea relazione con {other}"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Created"
-msgstr "Creato"
+msgstr "Create"
 
 #: ../root/report/releases_to_convert.tt:8
 #, perl-format
@@ -2623,23 +2623,23 @@ msgstr "Discografia"
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Release Groups"
-msgstr ""
+msgstr "URL di Discogs collegati a più gruppi di pubblicazioni"
 
 #: ../root/report/discogs_links_with_multiple_releases.tt:1
 #: ../root/report/discogs_links_with_multiple_releases.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Releases"
-msgstr ""
+msgstr "URL di Discogs collegati a più pubblicazioni"
 
 #: ../root/report/index.tt:31
 #, perl-format
 msgid "Discogs URLs linked to multiple release groups"
-msgstr ""
+msgstr "URL di Discogs collegati a più gruppi di pubblicazioni"
 
 #: ../root/report/index.tt:45
 #, perl-format
 msgid "Discogs URLs linked to multiple releases"
-msgstr ""
+msgstr "URL di Discogs collegati a più pubblicazioni"
 
 #: ../root/report/separate_discs.tt:1 ../root/report/separate_discs.tt:3
 #, perl-format
@@ -3314,7 +3314,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Expired"
-msgstr ""
+msgstr "Scadute"
 
 #: ../root/components/common-macros.tt:538
 #, perl-format
@@ -3426,7 +3426,7 @@ msgstr "Forum"
 #: ../root/relationship/linktype/tree.tt:12
 #, perl-format
 msgid "Forward link phrase:"
-msgstr ""
+msgstr "Frase di collegamento diretta:"
 
 #: ../root/doc/bare_error.tt:17 ../root/doc/error.tt:23
 #, perl-format
@@ -3511,7 +3511,7 @@ msgstr "ID FreeDB:"
 #: ../root/release/edit/tracklist.tt:175
 #, perl-format
 msgid "FreeDB import"
-msgstr ""
+msgstr "Importa da FreeDB"
 
 #: ../root/cdtoc/info.tt:15
 #, perl-format
@@ -3743,7 +3743,7 @@ msgstr "ISRC"
 #: ../root/report/isrc_with_many_recordings.tt:3
 #, perl-format
 msgid "ISRCs with multiple recordings"
-msgstr ""
+msgstr "ISRC con più registrazioni"
 
 #: ../root/artist/works-list.tt:12 ../root/search/results-work.tt:13
 #, perl-format
@@ -3811,7 +3811,7 @@ msgstr "Se il problema persiste, {report|segnala un bug} includendo il messaggio
 msgid ""
 "If this is an Amazon ASIN, please do not enter it in the catalog number "
 "field, but add it as a URL relationship later."
-msgstr ""
+msgstr "Se questo è un ASIN di Amazon, non inserirlo nel campo del numero di catalogo, ma aggiungilo successivamente come relazione con URL."
 
 #: ../root/release/edit/recordings.tt:107
 #, perl-format
@@ -3983,7 +3983,7 @@ msgstr "Importa bozza CD"
 #: ../root/freedb/show.tt:54
 #, perl-format
 msgid "Import as Multiple Artist Release"
-msgstr ""
+msgstr "Importa come pubblicazione di artisti multipli"
 
 #: ../root/cdstub/layout.tt:21
 #, perl-format
@@ -3993,7 +3993,7 @@ msgstr "Importa come pubblicazione di MusicBrainz"
 #: ../root/freedb/show.tt:5
 #, perl-format
 msgid "Import as a Single Artist Release"
-msgstr ""
+msgstr "Importa come pubblicazione di artista singolo"
 
 #: ../root/main/mirror.tt:9
 #, perl-format
@@ -4090,7 +4090,7 @@ msgstr "Javascript deve essere abilitato."
 #: ../root/scripts/text_strings.tt:26
 #, perl-format
 msgid "Join phrase"
-msgstr ""
+msgstr "Connettore"
 
 #: ../root/relationship/linkattributetype/instruments.tt:12
 #, perl-format
@@ -5501,7 +5501,7 @@ msgstr ""
 #: ../root/edit/details/remove_relationship_type.tt:11
 #, perl-format
 msgid "Phrase:"
-msgstr ""
+msgstr "Frase:"
 
 #: ../root/account/registered.tt:7
 #, perl-format
@@ -5571,7 +5571,7 @@ msgstr ""
 msgid ""
 "Please first navigate to the page of the artist who you wish to relate  to "
 "recordings on this release and select \"use in relationship\""
-msgstr ""
+msgstr "Per prima cosa vai alla pagina dell'artista che vuoi mettere in relazione  con le registrazioni su questa pubblicazione e clicca su \"usa in relazione\""
 
 #: ../root/freedb/show.tt:48 ../root/freedb/show.tt:106
 #, perl-format
@@ -5589,7 +5589,7 @@ msgstr ""
 msgid ""
 "Please navigate to the pages of other entities you wish to merge and select "
 "the \"merge\" link."
-msgstr ""
+msgstr "Vai alle pagine delle altre entità che vuoi unire e clicca sul link \"Unisci\"."
 
 #: ../root/annotation/edit.tt:1
 #, perl-format
@@ -5699,7 +5699,7 @@ msgstr ""
 #: ../root/cdstub/import.tt:3
 #, perl-format
 msgid "Please search for the artist you wish to create a new release for:"
-msgstr ""
+msgstr "Cerca l'artista di cui vuoi creare una nuova pubblicazione:"
 
 #: ../root/release/cover_art_fields.tt:8
 #, perl-format
@@ -5723,7 +5723,7 @@ msgstr ""
 #: ../root/edit/relationship/create_batch.tt:87
 #, perl-format
 msgid "Please select at least 1 recording to relate {entity} to."
-msgstr ""
+msgstr "Seleziona almeno 1 registrazione con cui mettere in relazione {entity}."
 
 #: ../root/artist/edit_form.tt:61
 #, perl-format
@@ -5765,7 +5765,7 @@ msgstr ""
 #: ../root/recording/fingerprints.tt:39
 #, perl-format
 msgid "Please {login_url|log in} to edit these PUIDs."
-msgstr ""
+msgstr "{login_url|Accedi} per modificare questi PUID."
 
 #: ../root/release/discids.tt:57
 #, perl-format
@@ -6082,27 +6082,27 @@ msgstr ""
 #: ../root/components/common-macros.tt:465
 #, perl-format
 msgid "Relate to ..."
-msgstr ""
+msgstr "Metti in relazione con ..."
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Relate to <abbr title=\"Uniform Resource Locator\">URL</abbr>"
-msgstr ""
+msgstr "Metti in relazione con <abbr title=\"Uniform Resource Locator\">URL</abbr>"
 
 #: ../root/components/common-macros.tt:488
 #, perl-format
 msgid "Relate to recordings"
-msgstr ""
+msgstr "Metti in relazione con registrazioni"
 
 #: ../root/components/common-macros.tt:488
 #, perl-format
 msgid "Relate to release"
-msgstr ""
+msgstr "Metti in relazione con pubblicazione"
 
 #: ../root/release/sidebar.tt:96
 #, perl-format
 msgid "Relate {what} to recordings"
-msgstr ""
+msgstr "Metti in relazione {what} con registrazioni"
 
 #: ../root/recording/index.tt:51 ../root/recording/relationships.tt:6
 #, perl-format
@@ -6424,13 +6424,13 @@ msgstr ""
 #: ../root/report/multiple_asins.tt:1 ../root/report/multiple_asins.tt:3
 #, perl-format
 msgid "Releases With Multiple ASINs"
-msgstr ""
+msgstr "Pubblicazioni con più ASIN"
 
 #: ../root/report/multiple_discogs_links.tt:1
 #: ../root/report/multiple_discogs_links.tt:3
 #, perl-format
 msgid "Releases With Multiple Discogs Links"
-msgstr ""
+msgstr "Pubblicazioni con più link di Discogs"
 
 #: ../root/report/some_formats_unset.tt:1
 #: ../root/report/some_formats_unset.tt:3
@@ -6464,12 +6464,12 @@ msgstr ""
 #: ../root/report/index.tt:42
 #, perl-format
 msgid "Releases which have multiple ASINs"
-msgstr "Pubblicazioni con più ASIN"
+msgstr "Pubblicazioni che possiedono più ASIN"
 
 #: ../root/report/index.tt:43
 #, perl-format
 msgid "Releases which have multiple Discogs links"
-msgstr "Pubblicazioni con più link di Discogs"
+msgstr "Pubblicazioni che possiedono più link di Discogs"
 
 #: ../root/report/index.tt:46
 #, perl-format
@@ -6485,7 +6485,7 @@ msgstr ""
 #: ../root/report/releases_to_convert.tt:3
 #, perl-format
 msgid "Releases which might need converting to \"multiple artists\""
-msgstr ""
+msgstr "Pubblicazioni che potrebbero dover essere attribuite ad artisti multipli"
 
 #: ../root/report/index.tt:37 ../root/report/releases_with_cc_links.tt:1
 #: ../root/report/releases_with_cc_links.tt:3
@@ -6841,7 +6841,7 @@ msgstr ""
 #: ../root/relationship/linktype/tree.tt:13
 #, perl-format
 msgid "Reverse link phrase:"
-msgstr ""
+msgstr "Frase di collegamento inversa:"
 
 #: ../root/account/edit.tt:81 ../root/account/preferences.tt:57
 #: ../root/relationship/linkattributetype/form.tt:21
@@ -7087,7 +7087,7 @@ msgstr "Imposta durata tracce"
 #: ../root/relationship/linktype/form.tt:15
 #, perl-format
 msgid "Short link phrase:"
-msgstr ""
+msgstr "Frase di collegamento breve:"
 
 #: ../root/release/index.tt:11
 #, perl-format
@@ -7303,26 +7303,26 @@ msgstr "Spiacenti, non è stato possibile trovare una voce di FreeDB con quell'I
 msgid ""
 "Sorry, we could not find a MusicBrainz entity with that MusicBrainz ID. You "
 "may wish to try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare un'entità di MusicBrainz con quell'ID. Potresti provare a {search_url|usare la ricerca}."
 
 #: ../root/url/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find a URL with that MusicBrainz ID."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare un URL con quell'ID di MusicBrainz."
 
 #: ../root/label/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a label with that MusicBrainz ID. You may wish to "
 "try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare un'etichetta con quell'ID di MusicBrainz. Potresti provare a {search_url|usare la ricerca}."
 
 #: ../root/recording/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a recording with that MusicBrainz ID. You may wish "
 "to try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare una registrazione con quell'ID di MusicBrainz. Potresti provare a {search_url|usare la ricerca}."
 
 #: ../root/relationship/linkattributetype/not_found.tt:3
 #, perl-format
@@ -7335,28 +7335,28 @@ msgstr "Spiacenti, non è stato possibile trovare un attributo di relazione con 
 msgid ""
 "Sorry, we could not find a release group with that MusicBrainz ID. You may "
 "wish to try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare un gruppo di pubblicazioni con quell'ID di MusicBrainz. Potresti provare a {search_url|usare la ricerca}."
 
 #: ../root/release/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a release with that MusicBrainz ID. You may wish to"
 " try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare una pubblicazione con quell'ID di MusicBrainz. Potresti provare a {search_url|usare la ricerca}."
 
 #: ../root/work/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a work with that MusicBrainz ID. You may wish to "
 "try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare un'opera con quell'ID di MusicBrainz. Potresti provare a {search_url|usare la ricerca}."
 
 #: ../root/artist/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find an artist with that MusicBrainz ID. You may wish to"
 " try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare un artista con quell'ID di MusicBrainz. Potresti provare a {search_url|usare la ricerca}."
 
 #: ../root/collection/not_found.tt:4
 #, perl-format
@@ -7368,14 +7368,14 @@ msgstr ""
 msgid ""
 "Sorry, we could not find an edit with that edit ID. You may wish to try and "
 "perform an {search_url|edit search} instead."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare una modifica con quell'ID. Potresti provare a {search_url|usare la ricerca}."
 
 #: ../root/user/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find an editor with that name. You may wish to try and "
 "{search_url|search for them} instead."
-msgstr ""
+msgstr "Spiacenti, non è stato possibile trovare un editor con quel nome. Potresti provare a {search_url|usare la ricerca}."
 
 #: ../root/search/editor.tt:18
 #, perl-format
@@ -7792,7 +7792,7 @@ msgstr ""
 msgid ""
 "The artwork in the sidebar is being provided by a {relationships|URL "
 "relationship}."
-msgstr ""
+msgstr "La copertina nella barra laterale è fornita da una {relationships|relazione con URL}."
 
 #: ../root/scripts/text_strings.tt:64
 #, perl-format
@@ -8123,7 +8123,7 @@ msgstr "Questo CD ha tracce di più di un artista (es. una compilation)"
 msgid ""
 "This ISRC is not associated with any recordings. If you wish to associate it"
 " with a recording, please {search_url|search for the recording} and add it."
-msgstr ""
+msgstr "Questo ISRC non è associato a nessuna registrazione. Se vuoi associarlo a una registrazione, {search_url|cerca la registrazione} e aggiungilo."
 
 #: ../root/artist/index.tt:112
 #, perl-format
@@ -8540,18 +8540,18 @@ msgstr ""
 #: ../root/report/asins_with_multiple_releases.tt:6
 #, perl-format
 msgid "This report shows Amazon URLs which are linked to multiple releases."
-msgstr ""
+msgstr "Questo report mostra gli URL di Amazon che sono collegati a più pubblicazioni."
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:6
 #, perl-format
 msgid ""
 "This report shows Discogs URLs which are linked to multiple release groups."
-msgstr ""
+msgstr "Questo report mostra gli URL di Discogs che sono collegati a più gruppi di pubblicazioni."
 
 #: ../root/report/discogs_links_with_multiple_releases.tt:6
 #, perl-format
 msgid "This report shows Discogs URLs which are linked to multiple releases."
-msgstr ""
+msgstr "Questo report mostra gli URL di Discogs che sono collegati a più pubblicazioni."
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:6
 #, perl-format
@@ -8641,7 +8641,7 @@ msgstr ""
 msgid ""
 "This report shows releases which have artwork in the Cover Ar Archive, but "
 "still have a cover art relationship (pointing to a URL)."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno una copertina nel Cover Art Archive, ma che hanno ancora una relazione di copertina con una URL."
 
 #: ../root/report/cat_no_looks_like_asin.tt:6
 #, perl-format
@@ -8668,7 +8668,7 @@ msgstr ""
 msgid ""
 "This report shows releases with Amazon URLs which have extra/questionable "
 "garbage."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni con URL di Amazon che includono elementi non necessari o sbagliati."
 
 #: ../root/report/unlinked_pseudo_releases.tt:6
 #, perl-format
@@ -9072,17 +9072,17 @@ msgstr "Dettagli dell'URL"
 #: ../root/url/index.tt:1
 #, perl-format
 msgid "URL Information"
-msgstr ""
+msgstr "Informazioni sull'URL"
 
 #: ../root/url/not_found.tt:1 ../root/url/not_found.tt:2
 #, perl-format
 msgid "URL Not Found"
-msgstr ""
+msgstr "URL non trovato"
 
 #: ../root/url/relationships.tt:1
 #, perl-format
 msgid "URL Relationships"
-msgstr ""
+msgstr "Relazioni dell'URL"
 
 #: ../root/components/common-macros.tt:433 ../root/edit/details/edit_url.tt:9
 #: ../root/edit/details/edit_url.tt:15
@@ -9090,7 +9090,7 @@ msgstr ""
 #: ../root/url/edit.tt:18 ../root/url/index.tt:5
 #, perl-format
 msgid "URL:"
-msgstr ""
+msgstr "URL:"
 
 #: ../root/relationship/linktype/tree.tt:15
 #, perl-format
@@ -9178,7 +9178,7 @@ msgstr ""
 #: ../root/url/edits.tt:19
 #, perl-format
 msgid "Url"
-msgstr ""
+msgstr "URL"
 
 #: ../root/components/tags.tt:12
 #, perl-format
@@ -9365,7 +9365,7 @@ msgstr ""
 #: ../root/user/profile.tt:166
 #, perl-format
 msgid "Votes ({view_url|view})"
-msgstr ""
+msgstr "Voti ({view_url|visualizza})"
 
 #: ../root/elections/show.tt:33
 #, perl-format
@@ -9451,14 +9451,14 @@ msgstr ""
 msgid ""
 "We couldn't find an artist with the name you entered. If you wish to create "
 "a new artist, please fill in the fields below:"
-msgstr ""
+msgstr "Non è stato possibile trovare un artista con il nome che hai inserito. Se vuoi crearne uno nuovo, riempi i campi qui sotto:"
 
 #: ../root/release/edit/missing_entities.tt:120
 #, perl-format
 msgid ""
 "We couldn't find an label with the name you entered. If you wish to create a"
 " new label, please fill in the fields below:"
-msgstr ""
+msgstr "Non è stato possibile trovare un'etichetta con il nome che hai inserito. Se vuoi crearne una nuova, riempi i campi qui sotto:"
 
 #: ../root/release/cover_art.tt:38
 #, perl-format
@@ -9978,7 +9978,7 @@ msgstr ""
 msgid ""
 "You must provide a working email address if you wish to contribute to the "
 "database."
-msgstr "Devi fornire un indirizzo email funzionante se desideri contribuire al database."
+msgstr "Devi fornire un indirizzo email funzionante se vuoi contribuire al database."
 
 #: ../root/cdtoc/remove.tt:11
 #, perl-format
@@ -10163,7 +10163,7 @@ msgstr "dal {date} a oggi"
 #: ../root/search/results-freedb.tt:27
 #, perl-format
 msgid "import"
-msgstr ""
+msgstr "importa"
 
 #: ../root/components/common-macros.tt:575 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10444,13 +10444,13 @@ msgstr "{collection} di {owner}"
 #: ../root/user/profile.tt:95
 #, perl-format
 msgid "{count} ({url|view list})"
-msgstr ""
+msgstr "{count} ({url|visualizza elenco})"
 
 #: ../root/user/profile.tt:145 ../root/user/profile.tt:149
 #: ../root/user/profile.tt:153 ../root/user/profile.tt:157
 #, perl-format
 msgid "{count} ({view_url|view})"
-msgstr ""
+msgstr "{count} ({view_url|visualizza})"
 
 #: ../root/components/ratings.tt:16
 #, perl-format
@@ -10642,7 +10642,7 @@ msgstr "{type} “{work}”"
 #: ../root/components/common-macros.tt:456
 #, perl-format
 msgid "{uri|Relate to URL}"
-msgstr ""
+msgstr "{uri|Metti in relazione con URL}"
 
 #: ../root/layout/sidebar/sidebar-affiliates.tt:10
 #, perl-format
@@ -11465,7 +11465,7 @@ msgstr "Questo codice a barre non è valido, assicurati di averlo inserito corre
 msgid ""
 "You must select an existing release group. If you wish to move this release,\n"
 "           use the \"change release group\" action from the sidebar."
-msgstr ""
+msgstr "Devi selezionare un gruppo di pubblicazioni esistente. Se vuoi spostare questa pubblicazione,\n           clicca su \"cambia gruppo di pubblicazioni\" nella barra laterale."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:60
 msgid "New tracklisting contains an empty track"
