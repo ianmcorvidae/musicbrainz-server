@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-15 20:59+0000\n"
+"PO-Revision-Date: 2012-06-15 21:56+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -466,7 +466,7 @@ msgstr "Aggiungi alias all'artista"
 #: ../root/release/edit/tracklist.tt:84 ../root/release/edit/tracklist.tt:89
 #, perl-format
 msgid "Add Artist Credit"
-msgstr ""
+msgstr "Aggiungi accreditamento dell'artista"
 
 #: ../root/cdstub/logged_in.tt:1 ../root/cdstub/logged_in.tt:2
 #, perl-format
@@ -652,7 +652,7 @@ msgstr "Aggiungi alias all'artista"
 #: ../root/relationship/linkattributetype/common.tt:24
 #, perl-format
 msgid "Add child"
-msgstr ""
+msgstr "Aggiungi figlio"
 
 #: ../root/cdstub/layout.tt:23
 #, perl-format
@@ -1111,21 +1111,21 @@ msgstr "Sei sicuro di voler rimuovere il PUID <code>{puid}</code> da {recording}
 msgid ""
 "Are you sure you want to remove the alias {alias}, which points to the "
 "artist {artist}?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere l'alias {alias}, associato all'artista {artist}?"
 
 #: ../root/label/delete_alias.tt:7
 #, perl-format
 msgid ""
 "Are you sure you want to remove the alias {alias}, which points to the label"
 " {label}?"
-msgstr ""
+msgstr "Sei sicuro di voler rimuovere l'alias {alias}, associato all'etichetta {label}?"
 
 #: ../root/work/delete_alias.tt:7
 #, perl-format
 msgid ""
 "Are you sure you want to remove the alias {alias}, which points to the work "
 "{work}?"
-msgstr "Sei sicuro di voler rimuovere l'alias {alias}, che indica l'opera {work}?"
+msgstr "Sei sicuro di voler rimuovere l'alias {alias}, associato all'opera {work}?"
 
 #: ../root/collection/delete.tt:4
 #, perl-format
@@ -1260,13 +1260,13 @@ msgstr "Paese dell'artista"
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
 msgid "Artist Credit:"
-msgstr ""
+msgstr "Accreditamento dell'artista:"
 
 #: ../root/artist/aliases.tt:8 ../root/artist/edit_form.tt:59
 #: ../root/edit/details/add_medium.tt:43
 #, perl-format
 msgid "Artist Credits"
-msgstr ""
+msgstr "Accreditamenti dell'artista"
 
 #: ../root/artist/edit_form.tt:37
 #, perl-format
@@ -1291,7 +1291,7 @@ msgstr "Sottoscrizioni di artisti"
 #: ../root/components/forms.tt:265
 #, perl-format
 msgid "Artist as credited"
-msgstr ""
+msgstr "Artista come accreditato"
 
 #: ../root/release/edit/tracklist.tt:45
 #, perl-format
@@ -1301,12 +1301,12 @@ msgstr "Artista come accreditato su questa traccia"
 #: ../root/components/filter-form.tt:11
 #, perl-format
 msgid "Artist credit:"
-msgstr ""
+msgstr "Accreditamento artista:"
 
 #: ../root/edit/details/edit_medium.tt:220
 #, perl-format
 msgid "Artist credits:"
-msgstr "Crediti artista:"
+msgstr "Accreditamenti artista:"
 
 #: ../root/components/forms.tt:249 ../root/release/edit/tracklist.tt:44
 #, perl-format
@@ -2052,7 +2052,7 @@ msgstr "Cambiamenti"
 #: ../root/relationship/linktype/tree.tt:10
 #, perl-format
 msgid "Child order:"
-msgstr ""
+msgstr "Ordine dei figli:"
 
 #: ../root/release/cover_art_uploader.tt:15
 #, perl-format
@@ -2067,32 +2067,32 @@ msgstr "Scegli uno o più tipi di copertina per questa immagine"
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
 msgid "Clear artist"
-msgstr ""
+msgstr "Cancella artista"
 
 #: ../root/scripts/text_strings.tt:80
 #, perl-format
 msgid "Clear label"
-msgstr ""
+msgstr "Cancella etichetta"
 
 #: ../root/scripts/text_strings.tt:81
 #, perl-format
 msgid "Clear recording"
-msgstr ""
+msgstr "Cancella registrazione"
 
 #: ../root/scripts/text_strings.tt:82
 #, perl-format
 msgid "Clear release"
-msgstr ""
+msgstr "Cancella pubblicazione"
 
 #: ../root/scripts/text_strings.tt:83
 #, perl-format
 msgid "Clear release group"
-msgstr ""
+msgstr "Cancella gruppo di pubblicazioni"
 
 #: ../root/scripts/text_strings.tt:84
 #, perl-format
 msgid "Clear work"
-msgstr ""
+msgstr "Cancella opera"
 
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
@@ -2430,12 +2430,12 @@ msgstr "Le date sono nel formato AAAA-MM-GG. Date parziali come AAAA-MM o anche 
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
 msgid "Deceased:"
-msgstr ""
+msgstr "Morto:"
 
 #: ../root/label/layout.tt:22 ../root/label/layout.tt:29
 #, perl-format
 msgid "Defunct:"
-msgstr ""
+msgstr "Sciolto:"
 
 #: ../root/edit/search_macros.tt:104
 #, perl-format
@@ -2525,7 +2525,7 @@ msgstr "Ramo di sviluppo: {branch}"
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #, perl-format
 msgid "Died:"
-msgstr ""
+msgstr "Morto:"
 
 #: ../root/search/form.tt:35 ../root/search/form.tt:40
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:56
@@ -2655,7 +2655,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
 msgid "Dissolved:"
-msgstr ""
+msgstr "Sciolto:"
 
 #: ../root/release/edit/duplicates.tt:40
 #, perl-format
@@ -2760,7 +2760,7 @@ msgstr "Modifica annotazione dell'artista"
 #: ../root/artist/edit_credit.tt:15 ../root/artist/edit_credit.tt:20
 #, perl-format
 msgid "Edit Artist Credit"
-msgstr ""
+msgstr "Modifica accreditamento dell'artista"
 
 #: ../root/collection/edit.tt:1
 #, perl-format
@@ -3241,7 +3241,7 @@ msgid ""
 "is highly recommended. Not only does it make it clear where you got your "
 "information, but it can also encourage other users to vote on your edit "
 "&mdash; thus making your edit get applied faster."
-msgstr ""
+msgstr "È caldamente raccomandato inserire una {note|nota di modifica} che indichi da dove vengono le vostre informazioni. Così facendo, non solo renderete più chiara la provenienza delle vostre informazioni, ma incoraggerete anche gli altri utenti a votare sulla vostra modifica, permettendole di essere applicata più velocemente."
 
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
@@ -3486,7 +3486,7 @@ msgstr[1] "Trovati {n} risultati per \"{q}\""
 #: ../root/label/layout.tt:14 ../root/scripts/text_strings.tt:73
 #, perl-format
 msgid "Founded:"
-msgstr ""
+msgstr "Fondato:"
 
 #: ../root/freedb/not_found.tt:1 ../root/freedb/not_found.tt:2
 #, perl-format
@@ -3636,7 +3636,7 @@ msgstr "Aiuto:"
 #: ../root/release/index.tt:12
 #, perl-format
 msgid "Hide Credits"
-msgstr ""
+msgstr "Nascondi accreditamenti"
 
 #: ../root/components/common-macros.tt:505
 #, perl-format
@@ -5224,7 +5224,7 @@ msgstr ""
 #: ../root/account/preferences.tt:44
 #, perl-format
 msgid "Notify me by email on new releases to my watched artists"
-msgstr ""
+msgstr "Notificami via email quando ci sono nuove pubblicazioni degli artisti che seguo"
 
 #: ../root/release/edit/recordings.tt:378
 #, perl-format
@@ -5304,7 +5304,7 @@ msgstr "Sono visualizzate solo le pubblicazioni con lo stesso numero di tracce (
 msgid ""
 "Only the user who created an edit can cancel it, either you did not create "
 "{edit} or perhaps it has already been closed."
-msgstr "Solo l'utente che ha creato una modifica la può cancellare: non hai creato tu {edit} o forse la modifica è già stata chiusa."
+msgstr "Solo l'utente che ha creato una modifica la può annullare: non hai creato tu {edit} o forse la modifica è già stata chiusa."
 
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
@@ -5459,7 +5459,7 @@ msgstr "Pagina:"
 #: ../root/edit/details/edit_relationship_type.tt:50
 #, perl-format
 msgid "Parent"
-msgstr ""
+msgstr "Padre"
 
 #: ../root/edit/details/add_relationship_attribute.tt:15
 #: ../root/edit/details/edit_relationship_attribute.tt:12
@@ -5467,17 +5467,17 @@ msgstr ""
 #: ../root/relationship/linktype/form.tt:4
 #, perl-format
 msgid "Parent:"
-msgstr ""
+msgstr "Padre:"
 
 #: ../root/release/edit/tracklist.tt:161
 #, perl-format
 msgid "Parse Tracks"
-msgstr ""
+msgstr "Analizza tracce"
 
 #: ../root/release/edit/tracklist.tt:189
 #, perl-format
 msgid "Parse track artists"
-msgstr ""
+msgstr "Analizza artisti tracce"
 
 #: ../root/report/part_of_set_relationships.tt:1
 #: ../root/report/part_of_set_relationships.tt:3
@@ -5526,7 +5526,7 @@ msgstr "Seleziona un'immagine valida. Al momento il Cover Art Archive supporta s
 #: ../root/scripts/text_strings.tt:44
 #, perl-format
 msgid "Please click lookup to search"
-msgstr ""
+msgstr "Clicca su \"Cerca\" per effettuare una ricerca"
 
 #: ../root/cdtoc/lookup.tt:85
 #, perl-format
@@ -5610,7 +5610,7 @@ msgstr ""
 #: ../root/search/form.tt:49
 #, perl-format
 msgid "Please note:"
-msgstr ""
+msgstr "Nota:"
 
 #: ../root/release/merge_search.tt:5
 #, perl-format
@@ -5730,7 +5730,7 @@ msgstr "Seleziona almeno 1 registrazione con cui mettere in relazione {entity}."
 msgid ""
 "Please select the artist credits that you want to rename to follow the new "
 "artist name."
-msgstr ""
+msgstr "Seleziona gli accreditamenti dell'artista che vuoi rinominare secondo il nuovo nome dell'artista."
 
 #: ../root/cdtoc/attach_artist_releases.tt:26
 #, perl-format
@@ -5740,7 +5740,7 @@ msgstr "Seleziona il supporto al quale vuoi associare questo CD TOC."
 #: ../root/main/rate_limited.tt:6
 #, perl-format
 msgid "Please slow down and then try again"
-msgstr ""
+msgstr "Riprova con più calma, per favore"
 
 #: ../root/components/forms.tt:185
 #, perl-format
@@ -5755,7 +5755,7 @@ msgstr "Utilizza il bottone Nome di ordinamento per ipotizzare il nome di ordina
 #: ../root/main/503.tt:8
 #, perl-format
 msgid "Please wait a few minutes and repeat your request."
-msgstr ""
+msgstr "Attendi qualche minuto e ripeti la tua richiesta, per favore."
 
 #: ../root/components/aliases.tt:67
 #, perl-format
@@ -6604,7 +6604,7 @@ msgstr "Rimuovi alias dall'artista"
 #: ../root/components/forms.tt:259 ../root/release/edit/tracklist.tt:73
 #, perl-format
 msgid "Remove Artist Credit"
-msgstr ""
+msgstr "Rimuovi accreditamento dell'artista"
 
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
@@ -6776,7 +6776,7 @@ msgstr "Rimosso"
 #: ../root/edit/details/merge_artists.tt:4
 #, perl-format
 msgid "Rename artist credits"
-msgstr ""
+msgstr "Rinomina accreditamenti dell'artista"
 
 #: ../root/release/cover_art.tt:51 ../root/release/reorder_cover_art.tt:5
 #: ../root/release/reorder_cover_art.tt:6
@@ -6808,7 +6808,7 @@ msgstr ""
 #: ../root/edit/info.tt:48
 #, perl-format
 msgid "Requires:"
-msgstr ""
+msgstr "Richiede:"
 
 #: ../root/account/lost_password.tt:17
 #: ../root/account/reset_password_error.tt:1
@@ -7092,7 +7092,7 @@ msgstr "Frase di collegamento breve:"
 #: ../root/release/index.tt:11
 #, perl-format
 msgid "Show Credits"
-msgstr ""
+msgstr "Mostra accreditamenti"
 
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
@@ -7186,7 +7186,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:31
 #, perl-format
 msgid "Some artists credited with alternative names"
-msgstr ""
+msgstr "Alcuni artisti accreditati con nomi alternativi"
 
 #: ../root/release/edit/recordings.tt:179
 #, perl-format
@@ -7529,7 +7529,7 @@ msgstr "Status:"
 #: ../root/watch/list.tt:28
 #, perl-format
 msgid "Stop watching selected artists"
-msgstr ""
+msgstr "Smetti di seguire gli artisti selezionati"
 
 #: ../root/layout/menu.tt:212
 #, perl-format
@@ -7965,7 +7965,7 @@ msgstr "Il sistema è sovraccarico o stai effettuando richieste troppo velocemen
 #, perl-format
 msgid ""
 "The tally of votes cast will only be shown when the election is complete."
-msgstr ""
+msgstr "Il conteggio dei voti espressi sarà mostrato solo al termine dell'elezione."
 
 #: ../root/freedb/show.tt:55
 #, perl-format
@@ -7990,7 +7990,7 @@ msgstr ""
 #: ../root/watch/list.tt:4
 #, perl-format
 msgid "The watch artist feature is currently not active."
-msgstr ""
+msgstr "La funzione \"Segui artista\" non è attiva al momento."
 
 #: ../root/edit/edit_header.tt:25
 #, perl-format
@@ -8271,7 +8271,7 @@ msgid ""
 "This form allows you to edit the artist credit \"{ac}\". When the edit is "
 "accepted, all tracks, recordings, releases and release groups using this "
 "artist credit will be update to use the new one."
-msgstr ""
+msgstr "Questo modulo ti permette di modificare l'accreditamento artista \"{ac}\". Quando la modifica sarà accettata, tutte le tracce, registrazioni, pubblicazioni e gruppi di pubblicazioni che utilizzano questo accreditamento artista saranno aggiornate a quello nuovo."
 
 #: ../root/artist/split.tt:40
 #, perl-format
@@ -8279,12 +8279,12 @@ msgid ""
 "This form allows you to split {artist} into separate artists. When the edit "
 "is accepted, existing artist credits will be updated, and collaboration "
 "relationships will be removed"
-msgstr ""
+msgstr "Questo modulo ti permette di dividere {artist} in artisti separati. Quando la modifica sarà accettata, gli accreditamenti artista esistenti saranno aggiornati e le relazioni di collaborazione saranno rimosse."
 
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
 msgid "This group has dissolved."
-msgstr ""
+msgstr "Questo gruppo si è sciolto."
 
 #: ../root/layout.tt:96
 #, perl-format
@@ -8389,7 +8389,7 @@ msgstr "Questa pagina richiede JavaScript."
 #: ../root/scripts/text_strings.tt:72
 #, perl-format
 msgid "This person is deceased."
-msgstr ""
+msgstr "Questa persona è deceduta."
 
 #: ../root/recording/delete.tt:17
 #, perl-format
@@ -8517,7 +8517,7 @@ msgid ""
 "This report lists artists which have \"&\" in their names but no member or "
 "collaboration relationships, and might need to be turned into artist "
 "credits."
-msgstr ""
+msgstr "Questo report elenca gli artisti che hanno una \"&\" nei loro nomi ma nessuna relazione di collaborazione né membri, e potrebbero dover essere divisi utilizzando gli accreditamenti artista."
 
 #: ../root/report/collaboration_relationships.tt:4
 #, perl-format
@@ -8777,7 +8777,7 @@ msgstr "{url|Accedi} per sapere se puoi votare per questo candidato."
 msgid ""
 "To watch an artist and be notified of new releases, {search_url|search} for "
 "them and select 'Watch this artist for new releases' from the sidebar."
-msgstr ""
+msgstr "Per seguire un artista e ricevere notifica delle sue nuove pubblicazioni, {search_url|cercalo} e seleziona 'Segui le nuove pubblicazioni di questo artista' nella barra laterale."
 
 #: ../root/edit/details/historic/move_disc_id.tt:19
 #: ../root/edit/details/move_disc_id.tt:19
@@ -8876,7 +8876,7 @@ msgstr "Traccia"
 #: ../root/release/edit/tracklist.tt:395
 #, perl-format
 msgid "Track Parser"
-msgstr ""
+msgstr "Analizzatore di tracce"
 
 #: ../root/release/edit/tracklist.tt:219
 #, perl-format
@@ -9162,7 +9162,7 @@ msgstr "Aggiorna tag"
 #: ../root/artist/merge.tt:19
 #, perl-format
 msgid "Update artist credits to use the new artist's name"
-msgstr ""
+msgstr "Aggiorna gli accreditamenti dell'artista secondo il nome del nuovo artista"
 
 #: ../root/collection/edit_form.tt:13
 #, perl-format
@@ -9207,7 +9207,7 @@ msgstr ""
 msgid ""
 "Use the following fields to enter collaborations, see the <a "
 "href=\"{url}\">Artist Credit</a> documentation for more information."
-msgstr ""
+msgstr "Utilizza i seguenti campi per inserire collaborazioni; vai alla documentazione sugli <a href=\"{url}\">accreditamenti artista</a> per maggiori informazioni."
 
 #: ../root/release/edit/tracklist.tt:233
 #, perl-format
@@ -9345,7 +9345,7 @@ msgstr ""
 #: ../root/edit/index.tt:31
 #, perl-format
 msgid "Vote tally:"
-msgstr ""
+msgstr "Conteggio dei voti:"
 
 #: ../root/user/profile.tt:152
 #, perl-format
@@ -9432,7 +9432,7 @@ msgstr "Attenzione:"
 #: ../root/watch/list.tt:1 ../root/watch/list.tt:2
 #, perl-format
 msgid "Watched Artists"
-msgstr ""
+msgstr "Artisti che seguo"
 
 #: ../root/report/not_available.tt:6
 #, perl-format
@@ -9839,7 +9839,7 @@ msgstr "Al momento sei sottoscritto. Vuoi {unsub|annullare la sottoscrizione}?"
 #: ../root/watch/list.tt:7
 #, perl-format
 msgid "You are currently watching the following artists for new releases."
-msgstr ""
+msgstr "Al momento stai seguendo le nuove pubblicazioni di questi artisti."
 
 #: ../root/edit/notes.tt:45
 #, perl-format
@@ -9860,7 +9860,7 @@ msgstr "Al momento non sei sottoscritto. Vuoi {sub|sottoscriverti}?"
 #: ../root/watch/list.tt:32
 #, perl-format
 msgid "You are not currently watching any artists for new releases."
-msgstr ""
+msgstr "Al momento non stai seguendo le nuove pubblicazioni di nessun artista."
 
 #: ../root/artist/edit_form.tt:28
 #, perl-format
@@ -10127,7 +10127,7 @@ msgstr "di {artist}"
 #: ../root/release/edit/tracklist.tt:326
 #, perl-format
 msgid "credits"
-msgstr ""
+msgstr "accreditamenti"
 
 #: ../root/release/edit/recordings.tt:64
 #: ../root/release/edit/recordings.tt:140
@@ -10996,7 +10996,7 @@ msgstr "Modifica artista"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
-msgstr ""
+msgstr "Modifica accreditamento dell'artista"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Merge.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeArtist.pm:8
@@ -11360,7 +11360,7 @@ msgstr "Deve essere un codice a barre valido"
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:42
 #, perl-brace-format
 msgid "Please add an artist name for {credit}"
-msgstr ""
+msgstr "Aggiungi un nome di artista per {credit}"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:55
 #, perl-brace-format
