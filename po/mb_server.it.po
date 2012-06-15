@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-14 22:50+0000\n"
+"PO-Revision-Date: 2012-06-14 23:25+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -2735,7 +2735,7 @@ msgstr "Modifica #{id}"
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Edit All"
-msgstr ""
+msgstr "Modifica tutti"
 
 #: ../root/label/edit_annotation.tt:1
 #, perl-format
@@ -3055,7 +3055,7 @@ msgstr "Modifiche"
 #: ../root/user/profile.tt:139
 #, perl-format
 msgid "Edits ({view_url|view})"
-msgstr ""
+msgstr "Modifiche ({view_url|visualizza})"
 
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
@@ -3085,24 +3085,24 @@ msgstr "Modifiche ad entità sottoscritte"
 #: ../root/label/edits.tt:17
 #, perl-format
 msgid "Edits for {label}"
-msgstr ""
+msgstr "Modifiche di {label}"
 
 #: ../root/artist/edits.tt:16 ../root/url/edits.tt:17
 #, perl-format
 msgid "Edits for {link}"
-msgstr ""
+msgstr "Modifiche di {link}"
 
 #: ../root/artist/edits.tt:14 ../root/label/edits.tt:15
 #: ../root/url/edits.tt:15
 #, perl-format
 msgid "Edits for {name}"
-msgstr ""
+msgstr "Modifiche di {name}"
 
 #: ../root/release/edits.tt:17 ../root/release_group/edits.tt:17
 #: ../root/work/edits.tt:16
 #, perl-format
 msgid "Edits for “{link}”"
-msgstr ""
+msgstr "Modifiche di “{link}”"
 
 #: ../root/recording/edits.tt:15 ../root/recording/edits.tt:17
 #: ../root/release/edits.tt:15 ../root/release_group/edits.tt:15
@@ -3232,7 +3232,7 @@ msgstr "Inserisci voto"
 msgid ""
 "Enter your email address below and we will send you an email with your "
 "MusicBrainz account information."
-msgstr ""
+msgstr "Inserisci qui sotto il tuo indirizzo email e ti invieremo una email con le informazioni sul tuo account di MusicBrainz."
 
 #: ../root/forms/edit-note.tt:5
 #, perl-format
@@ -3319,19 +3319,19 @@ msgstr ""
 #: ../root/components/common-macros.tt:538
 #, perl-format
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{days}</span>"
-msgstr ""
+msgstr "Scade tra <span class=\"tooltip\" title=\"{exactdate}\">{days}</span>"
 
 #: ../root/components/common-macros.tt:543
 #, perl-format
 msgid ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{hours}, "
 "{minutes}</span>"
-msgstr ""
+msgstr "Scade tra <span class=\"tooltip\" title=\"{exactdate}\">{hours}, {minutes}</span>"
 
 #: ../root/components/common-macros.tt:550
 #, perl-format
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>"
-msgstr ""
+msgstr "Scade tra <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:30
 #, perl-format
@@ -3368,14 +3368,14 @@ msgstr "Impronte digitali"
 msgid ""
 "For assistance in writing effective advanced search queries, read the "
 "{doc|syntax documentation}."
-msgstr ""
+msgstr "Per imparare a scrivere richieste di ricerca avanzata efficaci, leggi la {doc|documentazione sulla sintassi}."
 
 #: ../root/admin/delete_user.tt:16
 #, perl-format
 msgid ""
 "For information about the account deletion process, please read the "
 "{uri|account FAQ}."
-msgstr ""
+msgstr "Per maggiori informazioni sul processo di eliminazione degli account, leggi le {uri|FAQ sugli account}."
 
 #: ../root/report/part_of_set_relationships.tt:7
 #: ../root/report/separate_discs.tt:7
@@ -3522,7 +3522,7 @@ msgstr "FreeDB:"
 #: ../root/edit/details/move_disc_id.tt:8
 #, perl-format
 msgid "From:"
-msgstr ""
+msgstr "Da:"
 
 #: ../root/cdstub/index.tt:30 ../root/cdtoc/info.tt:5
 #, perl-format
@@ -3631,7 +3631,7 @@ msgstr ""
 #: ../root/edit/list_header.tt:18
 #, perl-format
 msgid "Help:"
-msgstr ""
+msgstr "Aiuto:"
 
 #: ../root/release/index.tt:12
 #, perl-format
@@ -3677,7 +3677,7 @@ msgstr "Confermo che questo è il codice a barre che compare sulla pubblicazione
 #: ../root/taglookup/nag.tt:23
 #, perl-format
 msgid "I just donated! Why am I seeing this?"
-msgstr ""
+msgstr "Ho appena donato! Perché vedo questo?"
 
 #: ../root/edit/search_macros.tt:280
 #, perl-format
@@ -3838,7 +3838,7 @@ msgstr ""
 #: ../root/account/edit.tt:7
 #, perl-format
 msgid "If you change your email address, you will be required to verify it. "
-msgstr ""
+msgstr "Se cambi il tuo indirizzo email ti sarà richiesto di verificarlo. "
 
 #: ../root/release/merge.tt:89
 #, perl-format
@@ -3933,7 +3933,7 @@ msgstr ""
 #: ../root/account/edit.tt:83
 #, perl-format
 msgid "If you would like to delete your account, you may {uri|do so here}."
-msgstr ""
+msgstr "Se vuoi eliminare il tuo account, {uri|lo puoi fare qui}."
 
 #: ../root/account/donation.tt:10
 #, perl-format
@@ -3988,7 +3988,7 @@ msgstr ""
 #: ../root/cdstub/layout.tt:21
 #, perl-format
 msgid "Import as MusicBrainz release"
-msgstr ""
+msgstr "Importa come pubblicazione di MusicBrainz"
 
 #: ../root/freedb/show.tt:5
 #, perl-format
@@ -4043,7 +4043,7 @@ msgstr "Errore interno del server"
 #: ../root/user/profile.tt:42
 #, perl-format
 msgid "Internal/Bot"
-msgstr ""
+msgstr "Interno/Bot"
 
 #: ../root/edit/details/merge_common.tt:17
 #: ../root/edit/details/merge_recordings.tt:10
@@ -4079,12 +4079,12 @@ msgstr "Javascript deve essere abilitato per poter modificare le pubblicazioni."
 #: ../root/release_group/edit.tt:24 ../root/work/create.tt:18
 #, perl-format
 msgid "Javascript needs to be enabled to edit the Artist field on this page."
-msgstr ""
+msgstr "Javascript deve essere abilitato per poter modificare il campo Artista su questa pagina."
 
 #: ../root/artist/edit_credit.tt:17 ../root/artist/split.tt:17
 #, perl-format
 msgid "Javascript needs to be enabled."
-msgstr ""
+msgstr "Javascript deve essere abilitato."
 
 #: ../root/components/forms.tt:272 ../root/release/edit/tracklist.tt:46
 #: ../root/scripts/text_strings.tt:26
@@ -4135,7 +4135,7 @@ msgstr "Dettagli dell'etichetta"
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Label IPI:"
-msgstr ""
+msgstr "IPI etichetta:"
 
 #: ../root/label/not_found.tt:1 ../root/label/not_found.tt:2
 #, perl-format
@@ -4156,7 +4156,7 @@ msgstr "Codice di etichetta:"
 #: ../root/label/layout.tt:4
 #, perl-format
 msgid "Label information"
-msgstr ""
+msgstr "Informazioni sull'etichetta"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
@@ -4209,7 +4209,7 @@ msgstr "Lingua:"
 #: ../root/edit/details/edit_release_language.tt:8
 #, perl-format
 msgid "Language: {language}, script: {script}"
-msgstr ""
+msgstr "Lingua: {language}, script: {script}"
 
 #: ../root/account/edit.tt:33
 #, perl-format
@@ -4327,17 +4327,17 @@ msgstr "Ambiente linguistico:"
 #: ../root/user/login.tt:34
 #, perl-format
 msgid "Log In"
-msgstr ""
+msgstr "Accedi"
 
 #: ../root/layout/menu.tt:19
 #, perl-format
 msgid "Log Out"
-msgstr ""
+msgstr "Disconnetti"
 
 #: ../root/components/common-macros.tt:386
 #, perl-format
 msgid "Log in"
-msgstr ""
+msgstr "Accedi"
 
 #: ../root/artist/layout.tt:117 ../root/label/layout.tt:88
 #: ../root/recording/layout.tt:61 ../root/release_group/layout.tt:62
@@ -4345,7 +4345,7 @@ msgstr ""
 #: ../root/work/layout.tt:64
 #, perl-format
 msgid "Log in to edit"
-msgstr ""
+msgstr "Effettua l'accesso per modificare"
 
 #: ../root/release/cover_art.tt:60
 #, perl-format
@@ -4356,7 +4356,7 @@ msgstr ""
 #: ../root/main/404.tt:18
 #, perl-format
 msgid "Looking for help? Check out our {doc|documentation} or {faq|FAQ}."
-msgstr ""
+msgstr "Cerchi aiuto? Consulta la nostra {doc|documentazione} o le {faq|FAQ}."
 
 #: ../root/scripts/text_strings.tt:45
 #, perl-format
@@ -4382,13 +4382,13 @@ msgstr ""
 #: ../root/account/lost_password.tt:3
 #, perl-format
 msgid "Lost Password"
-msgstr ""
+msgstr "Password dimenticata"
 
 #: ../root/account/lost_username_sent.tt:1 ../root/account/lost_username.tt:1
 #: ../root/account/lost_username.tt:3
 #, perl-format
 msgid "Lost Username"
-msgstr ""
+msgstr "Nome utente dimenticato"
 
 #: ../root/components/common-macros.tt:505
 #, perl-format
@@ -4403,7 +4403,7 @@ msgstr "Lingua del testo:"
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "MBID:"
-msgstr ""
+msgstr "MBID:"
 
 #: ../root/layout/menu.tt:127 ../root/main/index.tt:25
 #, perl-format
@@ -4420,7 +4420,7 @@ msgstr ""
 #: ../root/layout/menu.tt:235
 #, perl-format
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Mailing list"
 
 #: ../root/taglookup/nag.tt:22
 #, perl-format
@@ -4457,22 +4457,22 @@ msgstr "Supporto #"
 #: ../root/edit/details/merge_releases.tt:36
 #, perl-format
 msgid "Medium {position} is now medium {new_position}"
-msgstr ""
+msgstr "Il supporto {position} è ora il supporto {new_position}"
 
 #: ../root/edit/details/merge_releases.tt:30
 #, perl-format
 msgid "Medium {position} is now medium {new_position}: {new_name}"
-msgstr ""
+msgstr "Il supporto {position} è ora il supporto {new_position}: {new_name}"
 
 #: ../root/edit/details/merge_releases.tt:24
 #, perl-format
 msgid "Medium {position}: {name} is now medium {new_position}"
-msgstr ""
+msgstr "Il supporto {position}: {name} è ora il supporto {new_position}"
 
 #: ../root/edit/details/merge_releases.tt:19
 #, perl-format
 msgid "Medium {position}: {name} is now medium {new_position}: {new_name}"
-msgstr ""
+msgstr "Il supporto {position}: {name} è ora il supporto {new_position}: {new_name}"
 
 #: ../root/edit/details/add_disc_id.tt:4 ../root/edit/details/edit_medium.tt:4
 #: ../root/edit/details/remove_disc_id.tt:3
@@ -4494,7 +4494,7 @@ msgstr "Supporti:"
 #: ../root/user/profile.tt:75
 #, perl-format
 msgid "Member since:"
-msgstr ""
+msgstr "Membro da:"
 
 #: ../root/layout/merge-helper.tt:30 ../root/release/merge_search.tt:14
 #, perl-format
@@ -4556,7 +4556,7 @@ msgstr "Unisci etichetta"
 #: ../root/edit/details/historic/merge_releases.tt:30
 #, perl-format
 msgid "Merge language &amp; script:"
-msgstr ""
+msgstr "Unisci lingua &amp; script:"
 
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
@@ -5031,7 +5031,7 @@ msgstr ""
 #: ../root/edit/notes.tt:29
 #, perl-format
 msgid "No edit notes have been added."
-msgstr ""
+msgstr "Non è stata aggiunta nessuna nota di modifica."
 
 #: ../root/edit/list.tt:88
 #, perl-format
@@ -5144,7 +5144,7 @@ msgstr "Nessun risultato trovato."
 #: ../root/search/results-work.tt:56
 #, perl-format
 msgid "No results found. Try refining your search query."
-msgstr ""
+msgstr "Nessun risultato trovato. Prova a perfezionare la tua ricerca."
 
 #: ../root/user/subscriptions/subscriptions.tt:38
 #, perl-format
@@ -5394,7 +5394,7 @@ msgstr ""
 #: ../root/collection/layout.tt:6
 #, perl-format
 msgid "Owner:"
-msgstr ""
+msgstr "Proprietario:"
 
 #: ../root/recording/fingerprints.tt:11
 #, perl-format
@@ -5576,7 +5576,7 @@ msgstr ""
 #: ../root/freedb/show.tt:48 ../root/freedb/show.tt:106
 #, perl-format
 msgid "Please login to import this FreeDB disc."
-msgstr ""
+msgstr "Effettua l'accesso per importare questo disco da FreeDB."
 
 #: ../root/release/edit/missing_entities.tt:67
 #: ../root/release/edit/missing_entities.tt:113
@@ -5907,7 +5907,7 @@ msgstr "Profilo"
 #: ../root/elections/show.tt:14
 #, perl-format
 msgid "Proposer:"
-msgstr ""
+msgstr "Proponente:"
 
 #: ../root/user/collections.tt:21
 #, perl-format
@@ -6229,7 +6229,7 @@ msgstr "Data di pubblicazione"
 #: ../root/edit/details/historic/add_release.tt:70
 #, perl-format
 msgid "Release Events:"
-msgstr ""
+msgstr "Eventi di pubblicazione:"
 
 #: ../root/components/common-macros.tt:474 ../root/edit/search_macros.tt:280
 #: ../root/report/release_group_list.tt:6
@@ -6286,7 +6286,7 @@ msgstr "Pubblicazione di {artist}"
 #: ../root/release/edit/information.tt:51
 #, perl-format
 msgid "Release event"
-msgstr ""
+msgstr "Evento di pubblicazione"
 
 #: ../root/report/release_group_url_list.tt:6
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
