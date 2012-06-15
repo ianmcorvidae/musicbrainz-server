@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-15 13:59+0000\n"
+"PO-Revision-Date: 2012-06-15 14:28+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -3459,7 +3459,7 @@ msgstr[1] "Trovato in {num} collezioni utente"
 #: ../root/release/lookup.tt:4
 #, perl-format
 msgid "Found more than one match for the CD with TOC {toc}: "
-msgstr ""
+msgstr "Sono stati trovati più risultati per il CD con TOC {toc}: "
 
 #: ../root/edit/list.tt:37 ../root/edit/list.tt:41
 #, perl-format
@@ -3527,7 +3527,7 @@ msgstr "Da:"
 #: ../root/cdstub/index.tt:30 ../root/cdtoc/info.tt:5
 #, perl-format
 msgid "Full TOC:"
-msgstr ""
+msgstr "TOC completo:"
 
 #: ../root/account/edit.tt:18 ../root/artist/edit_form.tt:42
 #: ../root/artist/index.tt:5 ../root/artist/layout.tt:12
@@ -3535,7 +3535,7 @@ msgstr ""
 #: ../root/edit/details/edit_artist.tt:28 ../root/user/profile.tt:63
 #, perl-format
 msgid "Gender:"
-msgstr ""
+msgstr "Genere:"
 
 #: ../root/user/profile.tt:12
 #, perl-format
@@ -3609,24 +3609,24 @@ msgstr "Google Chrome Frame è un plugin che integra senza problemi su Internet 
 #: ../root/release/edit/missing_entities.tt:20
 #, perl-format
 msgid "Guess Sort Name"
-msgstr ""
+msgstr "Ipotizza nome di ordinamento"
 
 #: ../root/components/forms.tt:165 ../root/components/forms.tt:167
 #: ../root/components/forms.tt:188 ../root/release/edit/tracklist.tt:465
 #: ../root/release/edit/tracklist.tt:483
 #, perl-format
 msgid "Guess case"
-msgstr ""
+msgstr "Ritocca titoli"
 
 #: ../root/release/edit/tracklist.tt:385
 #, perl-format
 msgid "Guess case disc title"
-msgstr ""
+msgstr "Ritocca titolo disco"
 
 #: ../root/release/edit/tracklist.tt:333
 #, perl-format
 msgid "Guess case track"
-msgstr ""
+msgstr "Ritocca titoli tracce"
 
 #: ../root/edit/list_header.tt:18
 #, perl-format
@@ -3867,7 +3867,7 @@ msgstr ""
 msgid ""
 "If you don't see the release you are looking for, you can still add a new "
 "one, using this CD TOC:"
-msgstr ""
+msgstr "Se non vedi la pubblicazione che stai cercando, puoi aggiungerne una nuova utilizzando questo CD TOC:"
 
 #: ../root/taglookup/nag.tt:16
 #, perl-format
@@ -4711,7 +4711,7 @@ msgstr ""
 #: ../root/cdtoc/lookup.tt:83
 #, perl-format
 msgid "MusicBrainz does not have any CDs with the TOC:"
-msgstr ""
+msgstr "MusicBrainz non ha nessun CD con il TOC:"
 
 #: ../root/layout/menu.tt:130
 #, perl-format
@@ -5061,7 +5061,7 @@ msgstr "Nessuna etichetta trovata con questo tag."
 #: ../root/release/lookup.tt:33
 #, perl-format
 msgid "No matching CDs were found for TOC {toc}."
-msgstr ""
+msgstr "Nessun CD corrispondente trovato per il TOC {toc}."
 
 #: ../root/admin/edit_user.tt:13
 #, perl-format
@@ -5745,12 +5745,12 @@ msgstr ""
 #: ../root/components/forms.tt:185
 #, perl-format
 msgid "Please use the Guess Case button to fix common style errors."
-msgstr ""
+msgstr "Utilizza il bottone Ritocca titoli per correggere gli errori di stile più comuni."
 
 #: ../root/components/forms.tt:219
 #, perl-format
 msgid "Please use the Sort Name button to guess the sort name."
-msgstr ""
+msgstr "Utilizza il bottone Nome di ordinamento per ipotizzare il nome di ordinamento."
 
 #: ../root/main/503.tt:8
 #, perl-format
@@ -7435,17 +7435,17 @@ msgstr "Spiacenti, “{id}” non è una pagina di documentazione valida."
 #: ../root/search/results-label.tt:11
 #, perl-format
 msgid "Sort Name"
-msgstr ""
+msgstr "Nome di ordinamento"
 
 #: ../root/release/edit/missing_entities.tt:17
 #, perl-format
 msgid "Sort Name:"
-msgstr ""
+msgstr "Nome di ordinamento:"
 
 #: ../root/components/aliases.tt:7 ../root/report/duplicate_artists.tt:21
 #, perl-format
 msgid "Sort name"
-msgstr ""
+msgstr "Nome di ordinamento"
 
 #: ../root/alias/edit_form.tt:5 ../root/artist/edit_form.tt:39
 #: ../root/artist/layout.tt:6 ../root/edit/details/add_artist_alias.tt:12
@@ -7464,7 +7464,7 @@ msgstr ""
 #: ../root/label/layout.tt:6
 #, perl-format
 msgid "Sort name:"
-msgstr ""
+msgstr "Nome di ordinamento:"
 
 #: ../root/artist/split.tt:15
 #, perl-format
@@ -10804,7 +10804,7 @@ msgstr "'{id}' non è un ID elezione valido"
 
 #: ../lib/MusicBrainz/Server/Controller/CDStub.pm:59
 msgid "The required TOC parameter was invalid or not present"
-msgstr ""
+msgstr "Il parametro obbligatorio TOC non è valido o è assente"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:133
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:293
