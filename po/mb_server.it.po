@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-14 23:25+0000\n"
+"PO-Revision-Date: 2012-06-15 13:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -1078,7 +1078,7 @@ msgstr "Sei sicuro di voler spostare {release} di {release_artist} al gruppo di 
 msgid ""
 "Are you sure that you wish to attach the disc ID <code>{discid}</code> to "
 "{format} {pos} of {release} by {artist}?"
-msgstr ""
+msgstr "Sei sicuro di voler associare l'ID disco <code>{discid}</code> a {format} {pos} della pubblicazione {release} di {artist}?"
 
 #: ../root/admin/delete_user.tt:4
 #, perl-format
@@ -1458,17 +1458,17 @@ msgstr[1] "Associato a {num} opere"
 #: ../root/cdtoc/attach_filter_release.tt:68
 #, perl-format
 msgid "Attach CD TOC"
-msgstr ""
+msgstr "Associa CD TOC"
 
 #: ../root/cdtoc/lookup.tt:51
 #, perl-format
 msgid "Attach Disc ID"
-msgstr ""
+msgstr "Associa ID disco"
 
 #: ../root/cdtoc/index.tt:7
 #, perl-format
 msgid "Attached to releases"
-msgstr ""
+msgstr "Associato alle pubblicazioni"
 
 #: ../root/artist/relationships.tt:15
 #, perl-format
@@ -3883,7 +3883,7 @@ msgstr ""
 msgid ""
 "If you followed a link on our site to get here, please {report|report a bug}"
 " and the URL of the page that sent you here."
-msgstr ""
+msgstr "Se sei arrivato qui seguendo un link sul nostro sito, {report|segnala un bug} e includi l'URL della pagina da cui sei arrivato."
 
 #: ../root/account/register.tt:45
 #, perl-format
@@ -5297,7 +5297,7 @@ msgstr "Vecchio:"
 msgid ""
 "Only releases with the same amount of tracks ({n}) as the release the disc "
 "ID is currently attached to are shown."
-msgstr ""
+msgstr "Sono visualizzate solo le pubblicazioni con lo stesso numero di tracce ({n}) della pubblicazione a cui l'ID disco è attualmente associato."
 
 #: ../root/edit/cannot_cancel.tt:6
 #, perl-format
@@ -5735,7 +5735,7 @@ msgstr ""
 #: ../root/cdtoc/attach_artist_releases.tt:26
 #, perl-format
 msgid "Please select the medium you wish to attach this CD TOC to."
-msgstr ""
+msgstr "Seleziona il supporto al quale vuoi associare questo CD TOC."
 
 #: ../root/main/rate_limited.tt:6
 #, perl-format
@@ -6798,7 +6798,7 @@ msgstr "Segnala una violazione di copyright"
 #: ../root/report/index.tt:3
 #, perl-format
 msgid "Reports"
-msgstr ""
+msgstr "Report"
 
 #: ../root/main/500.tt:27
 #, perl-format
@@ -8028,7 +8028,7 @@ msgstr "Al momento non ci sono utenti sottoscritti a {label}."
 #: ../root/release/discids.tt:52
 #, perl-format
 msgid "There are no disc IDs attached to this release."
-msgstr ""
+msgstr "Non ci sono ID disco associati a questa pubblicazione."
 
 #: ../root/artist/subscribe.tt:11
 #, perl-format
@@ -8347,7 +8347,7 @@ msgstr "Questa etichetta non ha tag."
 #: ../root/cdtoc/attach_list.tt:28
 #, perl-format
 msgid "This medium format cannot have a disc ID attached"
-msgstr "Questo formato del supporto non può avere un ID disco collegato."
+msgstr "Questo formato di supporto non può avere un ID disco associato."
 
 #: ../root/scripts/text_strings.tt:51
 #, perl-format
@@ -8472,7 +8472,7 @@ msgstr ""
 #: ../root/report/isrc_with_many_recordings.tt:6
 #, perl-format
 msgid "This report lists ISRCs that are attached to more than one recording."
-msgstr ""
+msgstr "Questo report elenca gli ISRC che sono associati a più di una registrazione."
 
 #: ../root/report/mediums_with_sequence_issues.tt:6
 #, perl-format
@@ -8572,7 +8572,7 @@ msgstr ""
 #: ../root/report/empty_release_groups.tt:6
 #, perl-format
 msgid "This report shows release groups with no releases."
-msgstr ""
+msgstr "Questo report mostra i gruppi di pubblicazioni senza pubblicazioni."
 
 #: ../root/report/set_in_different_rg.tt:6
 #, perl-format
@@ -9437,7 +9437,7 @@ msgstr ""
 #: ../root/report/not_available.tt:6
 #, perl-format
 msgid "We are sorry, but data for this report is not available right now."
-msgstr ""
+msgstr "Spiacenti, ma i dati di questo report non sono al momento disponibili."
 
 #: ../root/edit/details/macros.tt:88
 #, perl-format
@@ -10818,7 +10818,7 @@ msgstr "L'ID supporto fornito non è valido"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:152
 msgid "This CDTOC is already attached to this medium"
-msgstr ""
+msgstr "Questo CD TOC è già associato a questo supporto"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:161
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:315
@@ -11496,7 +11496,7 @@ msgstr "È necessario inserire l'artista della traccia {pos}"
 msgid ""
 "The length of track {pos} cannot be changed since this release has a Disc ID"
 " attached to it."
-msgstr "La durata della traccia {pos} non può essere modificata perché questa pubblicazione ha un ID disco collegato."
+msgstr "La durata della traccia {pos} non può essere modificata perché questa pubblicazione ha un ID disco associato."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:156
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:198
