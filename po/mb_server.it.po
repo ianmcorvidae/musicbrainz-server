@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-15 21:56+0000\n"
+"PO-Revision-Date: 2012-06-15 22:28+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -1904,14 +1904,14 @@ msgstr "Annulla l'elezione"
 msgid ""
 "Cancelling a pending edit will take effect within an hour, while removing an"
 " artist alias has to be voted on according to the voting process."
-msgstr ""
+msgstr "L'annullamento di una modifica in corso avrà effetto entro un'ora, mentre la rimozione dell'alias di un artista dovrà essere votata secondo il consueto processo di voto."
 
 #: ../root/work/delete_alias.tt:16
 #, perl-format
 msgid ""
 "Cancelling a pending edit will take effect within an hour, while removing an"
 " work alias has to be voted on according to the voting process."
-msgstr ""
+msgstr "L'annullamento di una modifica in corso avrà effetto entro un'ora, mentre la rimozione dell'alias di un'opera dovrà essere votata secondo il consueto processo di voto."
 
 #: ../root/elections/index.tt:9
 #, perl-format
@@ -3828,7 +3828,7 @@ msgid ""
 "{cancel|how to cancel pending edits}, to cancel the pending add alias edit. "
 "Removing pending edits, rather than entering new edits helps reduce the "
 "amount of open edits in the system."
-msgstr ""
+msgstr "Se hai aggiunto questo alias per sbaglio, segui le istruzioni su come {cancel|cancellare le modifiche in corso} e cancella la modifica in questione. Cancellare le modifiche in corso anziché inserire nuove modifiche per correggere eventuali errori aiuta a ridurre il numero di modifiche aperte nel sistema."
 
 #: ../root/cdtoc/attach_artist_releases.tt:63
 #, perl-format
@@ -4415,7 +4415,7 @@ msgstr "Magic MP3 Tagger"
 msgid ""
 "Mail me when one of my edits gets a \"no\" vote. (Note: the email is only "
 "sent for the first \"no\" vote, not each one)"
-msgstr ""
+msgstr "Inviami una email quando una delle mie modifiche riceve un voto negativo. (Nota: l'email è inviata solo per il primo voto negativo, non per ognuno di essi)"
 
 #: ../root/layout/menu.tt:235
 #, perl-format
@@ -7995,7 +7995,7 @@ msgstr "La funzione \"Segui artista\" non è attiva al momento."
 #: ../root/edit/edit_header.tt:25
 #, perl-format
 msgid "Their vote: "
-msgstr ""
+msgstr "Il loro voto: "
 
 #: ../root/cdtoc/lookup.tt:11
 #, perl-format
@@ -8689,7 +8689,7 @@ msgstr ""
 #: ../root/user/profile.tt:162
 #, perl-format
 msgid "This table shows a summary of votes cast by this editor."
-msgstr ""
+msgstr "Questa tabella mostra un riassunto dei voti espressi da questo editor."
 
 #: ../root/release/merge_search.tt:4
 #, perl-format
@@ -9325,7 +9325,7 @@ msgstr "Visualizza cronologia di transclusione"
 #: ../root/elections/show.tt:109
 #, perl-format
 msgid "Vote"
-msgstr ""
+msgstr "Vota"
 
 #: ../root/elections/show.tt:72
 #, perl-format
@@ -9340,7 +9340,7 @@ msgstr "Vota SÍ"
 #: ../root/layout/menu.tt:197
 #, perl-format
 msgid "Vote on Edits"
-msgstr ""
+msgstr "Vota le modifiche"
 
 #: ../root/edit/index.tt:31
 #, perl-format
@@ -9360,7 +9360,7 @@ msgstr "Votante"
 #: ../root/doc/edit_type.tt:49 ../root/edit/index.tt:24
 #, perl-format
 msgid "Votes"
-msgstr ""
+msgstr "Voti"
 
 #: ../root/user/profile.tt:166
 #, perl-format
@@ -9375,7 +9375,7 @@ msgstr "Voti contro:"
 #: ../root/elections/show.tt:103
 #, perl-format
 msgid "Votes cast"
-msgstr ""
+msgstr "Voti espressi"
 
 #: ../root/elections/show.tt:25
 #, perl-format
@@ -9568,7 +9568,7 @@ msgstr ""
 #: ../root/account/preferences.tt:42
 #, perl-format
 msgid "When I vote on an edit, mail me all future notes for that edit."
-msgstr ""
+msgstr "Quando voto una modifica, inviami via email tutte le note future su quella modifica."
 
 #: ../root/layout/merge-helper.tt:18
 #, perl-format
