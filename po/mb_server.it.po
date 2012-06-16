@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-16 00:00+0000\n"
+"PO-Revision-Date: 2012-06-16 00:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -36,36 +36,36 @@ msgstr ""
 #: ../root/work/add_iswc.tt:8
 #, perl-format
 msgid "\"C\" is a single check digit."
-msgstr ""
+msgstr "\"C\" è una singola cifra di controllo."
 
 #: ../root/recording/add_isrc.tt:8
 #, perl-format
 msgid "\"CC\" is the appropriate for the registrant two-character country code."
-msgstr ""
+msgstr "\"PP\" è il codice di due caratteri del Paese che corrisponde al registrante."
 
 #: ../root/work/add_iswc.tt:7
 #, perl-format
 msgid "\"DDD\" is a nine digit work identifier."
-msgstr ""
+msgstr "\"DDD\" è un identificatore dell'opera a nove cifre."
 
 #: ../root/recording/add_isrc.tt:12
 #, perl-format
 msgid ""
 "\"NNNNN\" is a unique 5-digit number identifying the particular sound "
 "recording."
-msgstr ""
+msgstr "\"NNNNN\" è un numero unico a 5 cifre che identifica una specifica registrazione sonora."
 
 #: ../root/recording/add_isrc.tt:9
 #, perl-format
 msgid ""
 "\"XXX\" is a three character alphanumeric registrant code, uniquely "
 "identifying the organisation which registered the code."
-msgstr ""
+msgstr "\"XXX\" è un codice alfanumerico di tre caratteri che identifica in modo unico l'organizzazione che ha registrato il codice."
 
 #: ../root/recording/add_isrc.tt:11
 #, perl-format
 msgid "\"YY\" is the last two digits of the year of registration."
-msgstr ""
+msgstr "\"AA\" sono le ultime due cifre dell'anno di registrazione."
 
 #: ../root/cdstub/cdstub.tt:4 ../root/edit/details/add_medium.tt:48
 #: ../root/edit/details/edit_medium.tt:47
@@ -1627,7 +1627,7 @@ msgstr "Unisciti a MusicBrainz creando un account e documentati su {how|come inv
 #: ../root/scripts/text_strings.tt:71
 #, perl-format
 msgid "Began:"
-msgstr ""
+msgstr "Inizio:"
 
 #: ../root/search/lib/inline-results-artist.tt:10
 #: ../root/search/results-label.tt:14
@@ -2671,7 +2671,7 @@ msgstr "Documentazione"
 #: ../root/search/results-doc.tt:1 ../root/search/results-doc.tt:3
 #, perl-format
 msgid "Documentation Search"
-msgstr ""
+msgstr "Cerca nella documentazione"
 
 #: ../root/user/login.tt:12
 #, perl-format
@@ -3209,7 +3209,7 @@ msgstr "Data finale:"
 #: ../root/edit/details/edit_label.tt:43 ../root/scripts/text_strings.tt:71
 #, perl-format
 msgid "Ended:"
-msgstr "Inattivo:"
+msgstr "Fine:"
 
 #: ../root/release/edit/tracklist.tt:181
 #, perl-format
@@ -3341,7 +3341,7 @@ msgstr "Link esterni"
 #: ../root/release/edit/information.tt:43
 #, perl-format
 msgid "Extra Types:"
-msgstr ""
+msgstr "Tipi extra:"
 
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:36
 #, perl-format
@@ -3589,7 +3589,7 @@ msgstr "Scarica Google Chrome Frame"
 #: ../root/admin/wikidoc/index.tt:76
 #, perl-format
 msgid "Get wiki versions"
-msgstr ""
+msgstr "Ottieni le versioni wiki"
 
 #: ../root/main/frame.tt:3
 #, perl-format
@@ -5514,7 +5514,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Please be sure to include the stack trace and request data shown above!"
-msgstr ""
+msgstr "Assicurati di includere lo stack trace e la richiesta di dati visualizzate qui sopra!"
 
 #: ../root/release/cover_art_uploader.tt:19
 #, perl-format
@@ -5961,7 +5961,7 @@ msgstr "Valutazioni"
 #: ../root/main/index.tt:14
 #, perl-format
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Continua &raquo;"
 
 #: ../root/admin/wikidoc/index.tt:56
 #, perl-format
@@ -6803,7 +6803,7 @@ msgstr "Report"
 #: ../root/main/500.tt:27
 #, perl-format
 msgid "Request data:"
-msgstr ""
+msgstr "Richiesta di dati:"
 
 #: ../root/edit/info.tt:48
 #, perl-format
@@ -6944,7 +6944,7 @@ msgstr "Cerca un editor"
 #: ../root/cdtoc/attach_filter_artist.tt:3
 #, perl-format
 msgid "Search for an artist"
-msgstr ""
+msgstr "Cerca un artista"
 
 #: ../root/edit/list_header.tt:8
 #, perl-format
@@ -7097,12 +7097,12 @@ msgstr "Mostra accreditamenti"
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
 msgid "Show less..."
-msgstr ""
+msgstr "Mostra meno..."
 
 #: ../root/scripts/text_strings.tt:87
 #, perl-format
 msgid "Show more..."
-msgstr ""
+msgstr "Mostra di più..."
 
 #: ../root/account/preferences.tt:33
 #, perl-format
@@ -7614,7 +7614,7 @@ msgstr "Sottoscrizioni"
 #: ../root/release/edit/recordings.tt:77
 #, perl-format
 msgid "Suggested recording:"
-msgstr ""
+msgstr "Registrazione suggerita:"
 
 #: ../root/edit/details/add_release_annotation.tt:30
 #, perl-format
@@ -8303,7 +8303,7 @@ msgstr "Questo è un server mirror di MusicBrainz. Per modificare i dati visita 
 msgid ""
 "This is a development server. Your email address is not private or secure. "
 "Proceed with caution!"
-msgstr ""
+msgstr "Questo è un server di sviluppo. Il tuo indirizzo email non è privato né protetto. Procedi con cautela!"
 
 #: ../root/user/login.tt:27
 #, perl-format
@@ -9742,14 +9742,14 @@ msgstr "Sì, sono sicuro"
 msgid ""
 "You are about to add an ISRC to {recording} by {ac}. The ISRC must be "
 "entered in standard <code>CCXXXYYNNNNNN</code> format:"
-msgstr ""
+msgstr "Stai per aggiungere un ISRC a {recording} di {ac}. L'ISRC deve essere inserito nel formato standard <code>PPXXXAANNNNNN</code>:"
 
 #: ../root/work/add_iswc.tt:3
 #, perl-format
 msgid ""
 "You are about to add an ISWC to {work}. The ISWC must be entered in standard"
 " <code>T-DDD.DDD.DDD-C</code> format:"
-msgstr ""
+msgstr "Stai per aggiungere un ISWC a {work}. L'ISWC deve essere inserito nel formato standard <code>T-DDD.DDD.DDD-C</code>:"
 
 #: ../root/artist/edit_form.tt:3
 #, perl-format
@@ -9813,14 +9813,14 @@ msgstr ""
 msgid ""
 "You are attempting to add a label which appears to be very similar, if not "
 "exactly the same, as these existing labels:"
-msgstr ""
+msgstr "Stai cercando di aggiungere un'etichetta che sembra essere molto simile, se non uguale, a queste etichette già esistenti:"
 
 #: ../root/artist/edit_form.tt:19
 #, perl-format
 msgid ""
 "You are attempting to add an artist which appears to be very similar, if not"
 " exactly the same, as these existing artists:"
-msgstr ""
+msgstr "Stai cercando di aggiungere un artista che sembra essere molto simile, se non uguale, a questi artisti già esistenti:"
 
 #: ../root/browse/page_selector.tt:30
 #, perl-format
@@ -9881,7 +9881,7 @@ msgstr ""
 #: ../root/cdtoc/attach_artist_releases.tt:24
 #, perl-format
 msgid "You are viewing releases by {artist}."
-msgstr ""
+msgstr "Stai visualizzando le pubblicazioni di {artist}."
 
 #: ../root/cdtoc/lookup.tt:98
 #, perl-format
@@ -9892,7 +9892,7 @@ msgid ""
 "main MusicBrainz database until an editor decides to take your submitted "
 "information, ensures it meets our standards and inserts it into the main "
 "database."
-msgstr ""
+msgstr "Puoi inserire i dati del CD come compaiono sul CD stesso e non preoccuparti di prendere parte a MusicBrainz. I CD inseriti con questo metodo saranno comunque disponibili ai programmi client. Tuttavia, non saranno inclusi nel database principale di MusicBrainz finché un editor non deciderà di prendere le informazioni che hai inviato, assicurarsi che rispettino i nostri standard e inserirle nel database principale."
 
 #: ../root/cdstub/logged_in.tt:3
 #, perl-format
@@ -10019,7 +10019,7 @@ msgstr ""
 msgid ""
 "Your email has been successfully sent! Click {link|here} to continue to "
 "{user}'s profile."
-msgstr ""
+msgstr "La tua email è stata inviata con successo! Clicca {link|qui} per andare al profilo di {user}."
 
 #: ../root/account/change_password_ok.tt:5
 #, perl-format
@@ -10053,7 +10053,7 @@ msgstr "Il nostro spietato server di ricerca ha considerato la tua ricerca non v
 #: ../root/account/register.tt:31
 #, perl-format
 msgid "Your username will be publicly visible."
-msgstr ""
+msgstr "Il tuo nome utente sarà visibile pubblicamente."
 
 #: ../root/scripts/text_strings.tt:33
 #, perl-format
@@ -10085,14 +10085,14 @@ msgstr "dopo"
 #: ../root/components/common-macros.tt:45
 #, perl-format
 msgid "aged {num}"
-msgstr ""
+msgstr "a {num} anni"
 
 #: ../root/release/edit/recordings.tt:43 ../root/release/edit/recordings.tt:50
 #: ../root/release/edit/recordings.tt:82
 #: ../root/release/edit/recordings.tt:136 ../root/scripts/text_strings.tt:30
 #, perl-format
 msgid "appears on:"
-msgstr ""
+msgstr "compare in:"
 
 #: ../root/components/common-macros.tt:112
 #, perl-format
@@ -10232,7 +10232,7 @@ msgstr "etichette"
 #: ../root/edit/relationship/edit.tt:37 ../root/scripts/text_strings.tt:86
 #, perl-format
 msgid "link"
-msgstr ""
+msgstr "link"
 
 #: ../root/relationship/linktype/tree.tt:7
 #, perl-format
@@ -10329,7 +10329,7 @@ msgstr "reimposta numeri di traccia"
 #: ../root/layout.tt:73
 #, perl-format
 msgid "search"
-msgstr ""
+msgstr "cerca"
 
 #: ../root/layout/sidebar/sidebar-rating.tt:5
 #, perl-format
@@ -10632,7 +10632,7 @@ msgstr "Tipi di relazione {type0}-{type1}"
 #: ../root/relationship/linktype/tree.tt:40
 #, perl-format
 msgid "{type0}-{type1} relationship types"
-msgstr ""
+msgstr "Tipi di relazione {type0}-{type1}"
 
 #: ../root/work/layout.tt:1
 #, perl-format
@@ -10679,14 +10679,14 @@ msgstr "{user} non ha taggato niente."
 msgid ""
 "{valink|Various Artists} should not be used on recordings, make sure that "
 "the artists has been entered correctly."
-msgstr ""
+msgstr "{valink|Artisti vari} non dovrebbe essere usato sulle registrazioni, assicurati di aver inserito correttamente gli artisti."
 
 #: ../root/release/edit/tracklist.tt:136
 #, perl-format
 msgid ""
 "{valink|Various Artists} should not be used on tracks, make sure that the "
 "artists on these tracks have been entered correctly."
-msgstr ""
+msgstr "{valink|Artisti vari} non dovrebbe essere usato sulle tracce, assicurati di aver inserito correttamente gli artisti."
 
 #: ../root/edit/edit_header.tt:50 ../root/edit/index.tt:33
 #, perl-format
@@ -10880,7 +10880,7 @@ msgstr "Questo ISRC è già esistente per questa registrazione"
 #: ../lib/MusicBrainz/Server/Controller/Relationship/LinkType.pm:48
 #, perl-brace-format
 msgid "'{types}' is not a valid pair of types for relationships."
-msgstr ""
+msgstr "'{types}' non è una coppia di tipi valida per le relazioni."
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:319
 msgid "This release is already in the selected release group"
@@ -11408,7 +11408,7 @@ msgstr "Il protocollo dell'URL deve essere HTTP, HTTPS o FTP"
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
-msgstr ""
+msgstr "Scegli l'entità in cui vuoi che vengano unite le altre."
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:61
 msgid "Another medium is already in this position"
