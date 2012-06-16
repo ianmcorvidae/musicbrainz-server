@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-16 04:34+0000\n"
+"PO-Revision-Date: 2012-06-16 13:50+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -311,7 +311,7 @@ msgid ""
 "license. Furthermore, you give the MetaBrainz Foundation the right to "
 "license this data for commercial use. Please read our {doc|license page} for"
 " more details.</strong>"
-msgstr ""
+msgstr "<strong>Tieni in considerazione che ogni contributo tu faccia a MusicBrainz sarà rilasciato nel Pubblico Dominio e/o sotto licenza Creative Commons by-nc-sa. Inoltre, autorizzi la MetaBrainz Foundation a licenziare questi dati per uso commerciale. Leggi la nostra {doc|pagina delle licenze} per maggiori dettagli.</strong>"
 
 #: ../root/admin/wikidoc/index.tt:68
 #, perl-format
@@ -320,7 +320,7 @@ msgid ""
 " matches the page name, it will take the version number and provide whatever"
 " page is associated with it. Make sure to double check your work when "
 "updating a page!"
-msgstr ""
+msgstr "<strong>Nota:</strong> MediaWiki non controlla che il numero di versione corrisponda al nome della pagina, ma prende il numero di versione e fornisce qualsiasi pagina sia ad esso associata. Assicurati di verificare il tuo lavoro quando aggiorni una pagina!"
 
 #: ../root/components/common-macros.tt:645
 #, perl-format
@@ -1582,7 +1582,7 @@ msgstr "Codice a barre:"
 msgid ""
 "Based on the above CD stub, we also found the following releases in "
 "MusicBrainz that may be related:"
-msgstr ""
+msgstr "Sono state trovate le seguenti pubblicazioni su MusicBrainz che potrebbero essere collegate alla bozza CD qui sopra:"
 
 #: ../root/release/edit/duplicates.tt:13
 #, perl-format
@@ -1590,7 +1590,7 @@ msgid ""
 "Based on the information you have provided, we have found the following "
 "similar release to already exist in MusicBrainz. If you wish to base your "
 "release on an existing release, select it below."
-msgstr ""
+msgstr "Sulla base delle informazioni che hai fornito, abbiamo trovato che la seguente pubblicazione simile esiste già su MusicBrainz. Se vuoi basare la tua pubblicazione su quella già esistente, selezionala qui sotto."
 
 #: ../root/artist/subscribers.tt:30 ../root/label/subscribers.tt:30
 #: ../root/user/subscribers.tt:35
@@ -1856,7 +1856,7 @@ msgid ""
 "CD stubs are a feature to allow anonymous users to submit data to "
 "MusicBrainz. For more information, see {cdstub|the documentation on CD "
 "stubs}."
-msgstr ""
+msgstr "Le bozze CD sono una funzionalità che permette agli utenti anonimi di inviare dati a MusicBrainz. Per maggiori informazioni, leggi la {cdstub|documentazione sulle bozze CD}."
 
 #: ../root/doc/edit_type.tt:65
 #, perl-format
@@ -5207,7 +5207,7 @@ msgid ""
 "Note! If you do not know the month or day of release, please leave them "
 "empty.  January 1st is not often the actual release date, please double "
 "check that you have entered the release date correctly."
-msgstr ""
+msgstr "Attenzione! Se non conosci il mese o il giorno di pubblicazione, lascia vuoti quei campi.  Il 1º gennaio probabilmente non è la reale data di pubblicazione, assicurati di aver inserito la data corretta."
 
 #: ../root/edit/details/set_track_lengths.tt:58
 #, perl-format
@@ -5316,7 +5316,7 @@ msgstr "Solo gli {doc|auto-editor} possono approvare una modifica."
 msgid ""
 "Oops! It seems your search parameters are not correct, please double check "
 "your input!"
-msgstr ""
+msgstr "Ops! Sembra che i tuoi parametri di ricerca non siano corretti, ricontrolla i dati inseriti!"
 
 #: ../root/main/500.tt:5
 #, perl-format
@@ -5533,7 +5533,7 @@ msgstr "Clicca su \"Cerca\" per effettuare una ricerca"
 msgid ""
 "Please consider adding this release/CD to MusicBrainz. To add this CD, "
 "please choose one of the following two methods:"
-msgstr ""
+msgstr "Potresti aggiungere questa pubblicazione a MusicBrainz. Per aggiungere questo CD, scegli uno dei due seguenti metodi:"
 
 #: ../root/scripts/text_strings.tt:67
 #, perl-format
@@ -9563,7 +9563,7 @@ msgstr "Benvenuti su MusicBrainz!"
 #: ../root/account/preferences.tt:40
 #, perl-format
 msgid "When I add a note to an edit, mail me all future notes for that edit."
-msgstr ""
+msgstr "Quando aggiungo una nota a una modifica, inviami via email tutte le note future su quella modifica."
 
 #: ../root/account/preferences.tt:42
 #, perl-format
