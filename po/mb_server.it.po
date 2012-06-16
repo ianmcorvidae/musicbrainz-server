@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-16 02:59+0000\n"
+"PO-Revision-Date: 2012-06-16 03:43+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgid ""
 " Enter your username and email below. We will send you an email with a link "
 "to reset your password. If you have forgotten your username, {link|retrieve "
 "it} first and then reset your password. "
-msgstr ""
+msgstr " Inserisci il tuo nome utente e la tua email qui sotto. Ti manderemo una email con un link per reimpostare la tua password. Se ti sei dimenticato il tuo nome utente, per prima cosa {link|recuperalo} e poi reimposta la tua password. "
 
 #: ../root/work/add_iswc.tt:8
 #, perl-format
@@ -229,7 +229,7 @@ msgstr "({delete_uri|rimuovi})"
 msgid ""
 "* Match indicates the total difference in seconds between the CD you "
 "requested and the matches we found."
-msgstr ""
+msgstr "* Corrispondenza indica la differenza totale in secondi tra il CD richiesto e le corrispondenze trovate."
 
 #: ../root/artist/relationships.tt:56
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:115
@@ -332,7 +332,7 @@ msgstr "<strong>Nota</strong>:"
 msgid ""
 "<strong>The ultimate source of music information</strong> by allowing anyone"
 " to contribute and releasing the {doc|data} under {doc2|open licenses}."
-msgstr ""
+msgstr "<strong>La fonte di informazione definitiva sulla musica</strong>, permettendo a chiunque di contribuire e rilasciando i {doc|dati} sotto {doc2|licenze aperte}."
 
 #: ../root/main/index.tt:59
 #, perl-format
@@ -340,7 +340,7 @@ msgid ""
 "<strong>The universal lingua franca for music</strong> by providing a "
 "reliable and unambiguous form of {doc|music identification}, enabling both "
 "people and machines to have meaningful conversations about music."
-msgstr ""
+msgstr "<strong>La lingua franca universale per la musica</strong>, fornendo una forma di {doc|identificazione musicale} affidabile e non ambigua, che permette alle persone come alle macchine di conversare in modo significativo riguardo alla musica."
 
 #: ../root/components/common-macros.tt:639 ../root/recording/edit.tt:41
 #: ../root/release/edit/tracklist.tt:131
@@ -1611,7 +1611,7 @@ msgstr "Visto che hai fornito un indirizzo email, ti è stata inviata una email 
 msgid ""
 "Become a part of our <strong>global community</strong> and <strong>start "
 "contributing!</strong>"
-msgstr ""
+msgstr "Unisciti alla nostra <strong>comunità globale</strong> e <strong>inizia a contribuire!</strong>"
 
 #: ../root/cdtoc/lookup.tt:89
 #, perl-format
@@ -2097,12 +2097,12 @@ msgstr "Cancella opera"
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
 msgid "Click Edit to edit the recording associations for this disc."
-msgstr ""
+msgstr "Clicca su Modifica per modificare le associazioni con le registrazioni di questo disco."
 
 #: ../root/account/edit_ok.tt:12
 #, perl-format
 msgid "Click {link|here} to continue to your user page."
-msgstr ""
+msgstr "Clicca {link|qui} per andare alla tua pagina utente."
 
 #: ../root/edit/details/add_puids.tt:3
 #, perl-format
@@ -2199,7 +2199,7 @@ msgstr "Confronta versioni"
 msgid ""
 "Comparing revision by {user_old} on {date_old} with revision by {user_new} "
 "on {date_new}."
-msgstr ""
+msgstr "Confrontando la revisione di {user_old} del {date_old} con la revisione di {user_new} del {date_new}."
 
 #: ../root/edit/info.tt:51
 #, perl-format
@@ -3928,7 +3928,7 @@ msgstr "Se ritieni che si tratti di un errore, contatta <code>support@musicbrain
 msgid ""
 "If you wish to use this tag, please {url|search} for the entity first and "
 "apply the tag using the sidebar."
-msgstr ""
+msgstr "Se vuoi utilizzare questo tag, per prima cosa {url|cerca} l'entità e poi inserisci il tag utilizzando la barra laterale."
 
 #: ../root/account/edit.tt:83
 #, perl-format
@@ -5508,7 +5508,7 @@ msgstr "Frase:"
 msgid ""
 "Please <a href=\"{uri}\">update your profile</a> when you get time, to let "
 "other editors know a bit more about you."
-msgstr ""
+msgstr "<a href=\"{uri}\">Aggiorna il tuo profilo</a> quando hai tempo, così da permettere agli altri editor di sapere qualcosa in più su di te."
 
 #: ../root/main/500.tt:60
 #, perl-format
@@ -5545,7 +5545,7 @@ msgstr "Per favore, verifica il codice a barre sulla pubblicazione."
 msgid ""
 "Please enter tags in the text area below. Tags are comma separated, and you "
 "may wish to see the {tagsyn|tag syntax documentation} for more information"
-msgstr ""
+msgstr "Inserisci i tag nell'area di testo qui sotto. I tag sono separati da una virgola e per maggiori informazioni puoi consultare la {tagsyn|documentazione sulla sintassi dei tag}."
 
 #: ../root/release/edit/information.tt:158
 #, perl-format
@@ -5559,7 +5559,7 @@ msgstr "Inserisci il codice a barre della pubblicazione che stai aggiungendo. Co
 msgid ""
 "Please enter the {name|release name} of the recording into which you would "
 "like to merge this recording, and press <em>search</em> to start the search."
-msgstr ""
+msgstr "Inserisci il {name|nome della pubblicazione} della registrazione a cui vorresti unire questa registrazione e premi <em>cerca</em> per iniziare la ricerca."
 
 #: ../root/account/change_password.tt:5
 #, perl-format
@@ -8256,7 +8256,7 @@ msgstr "Questa entità è stata rimossa e non può essere visualizzata correttam
 #: ../root/components/common-macros.tt:187
 #, perl-format
 msgid "This entity will be created when edits are entered."
-msgstr ""
+msgstr "Questa entità sarà creata all'inserimento delle modifiche."
 
 #: ../root/release/edit/information.tt:192
 #, perl-format
@@ -8694,7 +8694,7 @@ msgstr "Questa tabella mostra un riassunto dei voti espressi da questo editor."
 #: ../root/release/merge_search.tt:4
 #, perl-format
 msgid "This wizard allows you to merge {release} into another release."
-msgstr ""
+msgstr "Questa procedura guidata ti permette di unire {release} con un'altra pubblicazione."
 
 #: ../root/work/index.tt:4
 #, perl-format
@@ -9195,7 +9195,7 @@ msgstr "Usa in una relazione"
 msgid ""
 "Use our <strong>XML web service</strong> or <strong>development "
 "libraries</strong> to create your own MusicBrainz-enabled applications."
-msgstr ""
+msgstr "Utilizza il nostro <strong>web service XML</strong> o le nostre <strong>librerie di sviluppo</strong> per creare le tue applicazioni basate su MusicBrainz."
 
 #: ../root/release/edit/recordings.tt:94
 #, perl-format
@@ -9227,7 +9227,7 @@ msgstr "Usa i seguenti campi per cercare un elenco di tracce esistente."
 #: ../root/admin/wikidoc/index.tt:78
 #, perl-format
 msgid "Use this button to fetch page versions from the wiki."
-msgstr ""
+msgstr "Utilizza questo bottone per aggiornare le versioni delle pagine dalla wiki."
 
 #: ../root/search/form.tt:39
 #, perl-format
@@ -9518,7 +9518,7 @@ msgid ""
 "We have sent you a verification email to <code>{email}</code>. Please check "
 "your mailbox and click on the link in the email to verify the new email "
 "address."
-msgstr ""
+msgstr "Una email di verifica è stata inviata a <code>{email}</code>. Controlla la tua casella di posta e clicca sul link contenuto nell'email per verificare il nuovo indirizzo email."
 
 #: ../root/account/edit.tt:23
 #, perl-format
@@ -10781,7 +10781,7 @@ msgid ""
 "<strong>We were unable to send a confirmation email to you.</strong><br/>Please confirm that you have entered a valid\n"
 "             address by editing your {settings|account settings}. If the problem still persists, please contact us at\n"
 "             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
-msgstr ""
+msgstr "<strong>Non è stato possibile inviarti un'email di conferma.</strong><br/>Assicurati di aver inserito un indirizzo\n             valido modificando le {settings|impostazioni del tuo account}. Se il problema persiste, contattaci all'indirizzo\n             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:475
 #, perl-brace-format
@@ -11367,7 +11367,7 @@ msgstr "Aggiungi un nome di artista per {credit}"
 msgid ""
 "Artist \"{artist}\" is unlinked, please select an existing artist.\n"
 "                       You may need to add a new artist to MusicBrainz first."
-msgstr ""
+msgstr "L'artista \"{artist}\" non è stato associato, devi selezionare un artista esistente.\n                       Potresti dover prima aggiungere un nuovo artista a MusicBrainz."
 
 #: ../lib/MusicBrainz/Server/Form/Field/DiscID.pm:12
 msgid "This is not a valid disc ID"
@@ -11627,44 +11627,44 @@ msgstr "(caso speciale)"
 msgid ""
 "An album release primarily consists of previously unreleased material. This "
 "includes album re-issues, with or without bonus tracks."
-msgstr ""
+msgstr "Un album consiste principalmente di materiale non precedentemente pubblicato. Questo tipo include le riedizioni, con o senza tracce bonus."
 
 #: ../lib/MusicBrainz/Server/Release.pm:80
 msgid ""
 "A single typically has one main song and possibly a handful of additional "
 "tracks or remixes of the main track. A single is usually named after its "
 "main song."
-msgstr ""
+msgstr "Un singolo contiene solitamente una canzone principale e talvolta alcune tracce aggiuntive o remix della canzone principale. Di solito possiede lo stesso titolo della canzone principale."
 
 #: ../lib/MusicBrainz/Server/Release.pm:81
 msgid ""
 "An EP is an Extended Play release and often contains the letters EP in the "
 "title."
-msgstr ""
+msgstr "Un EP (Extended Play) è una pubblicazione di durata media, il cui titolo spesso contiene le lettere EP."
 
 #: ../lib/MusicBrainz/Server/Release.pm:82
 msgid ""
 "A compilation is a collection of previously released tracks by one or more "
 "artists."
-msgstr ""
+msgstr "Una compilation è una collezione di tracce di uno o più artisti già pubblicate precedentemente."
 
 #: ../lib/MusicBrainz/Server/Release.pm:83
 msgid ""
 "A soundtrack is the musical score to a movie, TV series, stage show, "
 "computer game etc."
-msgstr ""
+msgstr "Una colonna sonora è la musica di un film, di una serie TV, di un'opera teatrale, di un videogioco, ecc."
 
 #: ../lib/MusicBrainz/Server/Release.pm:84
 msgid "Non-music spoken word releases."
-msgstr ""
+msgstr "Pubblicazioni non musicali parlate (spoken word)."
 
 #: ../lib/MusicBrainz/Server/Release.pm:85
 msgid "An interview release contains an interview with the Artist."
-msgstr ""
+msgstr "Una pubblicazione del tipo intervista contiene un'intervista con l'artista."
 
 #: ../lib/MusicBrainz/Server/Release.pm:86
 msgid "An audiobook is a book read by a narrator without music."
-msgstr ""
+msgstr "Un audiolibro è un libro letto da un narratore, senza musica."
 
 #: ../lib/MusicBrainz/Server/Release.pm:87
 msgid "A release that was recorded live."
@@ -11672,7 +11672,7 @@ msgstr "Una pubblicazione che è stata registrata dal vivo."
 
 #: ../lib/MusicBrainz/Server/Release.pm:88
 msgid "A release that was (re)mixed from previously released material."
-msgstr ""
+msgstr "Una pubblicazione che è stata (re)mixata a partire da materiale già pubblicato precedentemente."
 
 #: ../lib/MusicBrainz/Server/Release.pm:89
 msgid "Any release that does not fit any of the categories above."
