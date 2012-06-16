@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-15 22:28+0000\n"
+"PO-Revision-Date: 2012-06-16 00:00+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -1621,7 +1621,7 @@ msgid ""
 "review entered data to create the most accurate music database on the "
 "internet. If this appeals to you, please {reg|create an account} or "
 "{login_url|login}."
-msgstr ""
+msgstr "Unisciti a MusicBrainz creando un account e documentati su {how|come inviare informazioni a MusicBrainz}. Scopri come i nostri dati sono sottoposti ad una revisione paritaria per creare il più accurato database di musica online. Se ti interessa, {reg|crea un account} o {login_url|effettua l'accesso}."
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/scripts/text_strings.tt:71
@@ -3001,7 +3001,7 @@ msgstr ""
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
 msgid "Editing FAQ"
-msgstr ""
+msgstr "FAQ sul sistema di modifica"
 
 #: ../root/artist/layout.tt:114 ../root/label/layout.tt:86
 #: ../root/recording/layout.tt:59 ../root/release_group/layout.tt:60
@@ -3309,7 +3309,7 @@ msgstr "Espandi tutte le descrizioni"
 #: ../root/doc/edit_type.tt:55
 #, perl-format
 msgid "Expire action"
-msgstr ""
+msgstr "Azione alla scadenza"
 
 #: ../root/edit/search_macros.tt:280
 #, perl-format
@@ -3898,7 +3898,7 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|artist aliases} for more "
 "details."
-msgstr ""
+msgstr "Se vedi un alias scritto in modo sbagliato, probabilmente si trova qui di proposito e non va rinominato o rimosso. Consulta {aa|alias di artista} per maggiori dettagli."
 
 #: ../root/label/add_alias.tt:6 ../root/label/edit_alias.tt:6
 #, perl-format
@@ -3906,7 +3906,7 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|label aliases} for more "
 "details."
-msgstr ""
+msgstr "Se vedi un alias scritto in modo sbagliato, probabilmente si trova qui di proposito e non va rinominato o rimosso. Consulta {aa|alias di etichetta} per maggiori dettagli."
 
 #: ../root/work/add_alias.tt:6 ../root/work/edit_alias.tt:6
 #, perl-format
@@ -3914,7 +3914,7 @@ msgid ""
 "If you see a misspelled alias here, it most likely is listed on purpose, and"
 " should not be renamed or removed. Please see {aa|work aliases} for more "
 "details."
-msgstr "Se vedi un alias scritto in modo sbagliato, probabilmente si trova qui di proposito e non va rinominato o rimosso. Consulta {aa|alias di opere} per maggiori dettagli."
+msgstr "Se vedi un alias scritto in modo sbagliato, probabilmente si trova qui di proposito e non va rinominato o rimosso. Consulta {aa|alias di opera} per maggiori dettagli."
 
 #: ../root/main/401.tt:15
 #, perl-format
@@ -5638,63 +5638,63 @@ msgstr ""
 msgid ""
 "Please review the documentation about the {doc_remove|remove release group "
 "edit-type}, before entering this edit"
-msgstr ""
+msgstr "Consulta la {doc_remove|documentazione sulla rimozione di gruppi di pubblicazioni} prima di inserire questa modifica."
 
 #: ../root/artist/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|artist aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Consulta la documentazione sugli {aliases|alias di artista} prima di inserire questa modifica."
 
 #: ../root/label/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|label aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Consulta la documentazione sugli {aliases|alias di etichetta} prima di inserire questa modifica."
 
 #: ../root/work/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|work aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Consulta la documentazione sugli {aliases|alias di opera} prima di inserire questa modifica."
 
 #: ../root/release/move_search.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {doc|changing release groups}, before "
 "entering this edit."
-msgstr ""
+msgstr "Consulta la documentazione sul {doc|cambio di gruppo di pubblicazioni} prima di inserire questa modifica."
 
 #: ../root/account/register.tt:40
 #, perl-format
 msgid ""
 "Please review the {coc|MusicBrainz Code of Conduct} before creating an "
 "account."
-msgstr "Esamina il {coc|codice di condotta di MusicBrainz} prima di creare un account."
+msgstr "Consulta il {coc|codice di condotta di MusicBrainz} prima di creare un account."
 
 #: ../root/label/delete.tt:5
 #, perl-format
 msgid ""
 "Please review the {doc_remove|remove label edit-type} documentation before "
 "entering this edit."
-msgstr ""
+msgstr "Consulta la documentazione sulla {doc_remove|rimozione di etichette} prima di inserire questa modifica."
 
 #: ../root/recording/delete.tt:5
 #, perl-format
 msgid ""
 "Please review the {doc_remove|remove recording edit-type} documentation "
 "before entering this edit."
-msgstr ""
+msgstr "Consulta la documentazione sulla {doc_remove|rimozione di registrazioni} prima di inserire questa modifica."
 
 #: ../root/release/delete.tt:4
 #, perl-format
 msgid ""
 "Please review the {doc_remove|remove release edit-type} documentation before"
 " entering this edit."
-msgstr ""
+msgstr "Consulta la documentazione sulla {doc_remove|rimozione di pubblicazioni} prima di inserire questa modifica."
 
 #: ../root/cdstub/import.tt:3
 #, perl-format
@@ -6923,12 +6923,12 @@ msgstr "Risultati della ricerca"
 #: ../root/cdtoc/lookup.tt:56
 #, perl-format
 msgid "Search by artist"
-msgstr ""
+msgstr "Cerca per artista"
 
 #: ../root/cdtoc/lookup.tt:66
 #, perl-format
 msgid "Search by release"
-msgstr ""
+msgstr "Cerca per pubblicazione"
 
 #: ../root/edit/search_results.tt:24 ../root/edit/search_results.tt:26
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
@@ -6961,7 +6961,7 @@ msgstr "Cerca registrazioni"
 msgid ""
 "Search indexes are updated every 3 hours, use the direct database search if "
 "you require up to the minute correct results."
-msgstr ""
+msgstr "Gli indici di ricerca sono aggiornati ogni 3 ore, utilizza la ricerca diretta nel database se hai bisogno di risultati immediati."
 
 #: ../root/taglookup/results.tt:12
 #, perl-format
@@ -6969,7 +6969,7 @@ msgid ""
 "Search indexes are updated every 3 hours. If you just added the content "
 "you're looking for and you can't find it here, go to {url|the search page} "
 "and select the \"direct database search\" option."
-msgstr ""
+msgstr "Gli indici di ricerca sono aggiornati ogni 3 ore. Se hai appena aggiunto il contenuto che stai cercando e non lo ritrovi qui, vai alla {url|pagina di ricerca} e seleziona l'opzione \"ricerca diretta nel database\"."
 
 #: ../root/search/form.tt:20
 #, perl-format
@@ -7181,7 +7181,7 @@ msgstr "Contratto sociale"
 msgid ""
 "Some FreeDB results may not be immediately available since they are only "
 "able to be updated after FreeDB's monthly database export."
-msgstr ""
+msgstr "Alcuni risultati di FreeDB potrebbero non essere immediatamente disponibili, poiché questi risultati possono essere aggiornati solo dopo l'esportazione mensile del database di FreeDB."
 
 #: ../root/scripts/text_strings.tt:31
 #, perl-format
@@ -7193,7 +7193,7 @@ msgstr "Alcuni artisti accreditati con nomi alternativi"
 msgid ""
 "Some tracks were changed, please select a recording for each of these "
 "tracks."
-msgstr ""
+msgstr "Alcune tracce sono state modificate: seleziona una registrazione per ognuna di queste tracce."
 
 #: ../root/cdstub/error.tt:11
 #, perl-format
@@ -7231,7 +7231,7 @@ msgstr "Spiacenti, non è stato possibile eseguire la tua ricerca (<code>{query}
 #, perl-format
 msgid ""
 "Sorry, but your requests are exceeding the allowable rate limit ({rlinfo})."
-msgstr ""
+msgstr "Spiacenti, ma le tue richieste stanno eccedendo i limiti di frequenza permessi ({rlinfo})."
 
 #: ../root/main/404.tt:8
 #, perl-format
@@ -7554,7 +7554,7 @@ msgstr "Invia"
 #: ../root/cdtoc/lookup.tt:104
 #, perl-format
 msgid "Submit this CD using the simple method."
-msgstr ""
+msgstr "Inviare questo CD utilizzando il metodo semplice."
 
 #: ../root/edit/list.tt:81
 #, perl-format
@@ -7746,7 +7746,7 @@ msgstr "Indicatori tecnici"
 #: ../root/edit/index.tt:70
 #, perl-format
 msgid "Testing features"
-msgstr ""
+msgstr "Funzionalità di prova"
 
 #: ../root/edit/details/add_release_annotation.tt:13
 #, perl-format
@@ -7785,7 +7785,7 @@ msgstr "Il campo annotazione funziona come una piccola wiki."
 msgid ""
 "The artist you are trying to edit is a special purpose artist, and you may "
 "not make direct changes to this data."
-msgstr ""
+msgstr "L'artista che stai cercando di modificare è un artista speciale: non puoi apportare cambiamenti diretti a questi dati."
 
 #: ../root/release/cover_art.tt:41
 #, perl-format
@@ -7923,7 +7923,7 @@ msgid ""
 "into the strict structural data schema of MusicBrainz (be it due to "
 "technical limitations that may be addressed later, or because the "
 "information in itself has to be free-text)."
-msgstr ""
+msgstr "Lo scopo di questo campo è aggiungere informazioni che solitamente non rientrano nel rigido schema di dati strutturato di MusicBrainz (vuoi per limitazioni tecniche che saranno risolte in futuro, vuoi perché le informazioni in sé richiedono un campo di testo libero)."
 
 #: ../root/edit/cannot_approve.tt:12
 #, perl-format
@@ -7935,7 +7935,7 @@ msgstr ""
 msgid ""
 "The recording artists do not match! Perhaps you meant to use the \"append "
 "mediums\" merge strategy?"
-msgstr ""
+msgstr "Gli artisti delle registrazioni non corrispondono! Forse intendevi usare la strategia di unione \"aggiungi supporti\"?"
 
 #: ../root/relationship/linktype/in_use.tt:4
 #, perl-format
@@ -7985,7 +7985,7 @@ msgstr "L'elenco di tracce che stai modificando è attualmente in uso nelle segu
 #: ../root/taglookup/nag.tt:4
 #, perl-format
 msgid "The users make MusicBrainz happen and we appreciate your help!"
-msgstr ""
+msgstr "Gli utenti rendono possibile l'esistenza di MusicBrainz: apprezziamo il vostro aiuto!"
 
 #: ../root/watch/list.tt:4
 #, perl-format
@@ -8235,7 +8235,7 @@ msgid ""
 "This edit type changes voting conditions dynamically based on the exact edit"
 " being made. Please see the official edit type documentation for more "
 "details."
-msgstr ""
+msgstr "Le condizioni di voto di questo tipo di modifica cambiano dinamicamente a seconda della specifica modifica. Consulta la documentazione ufficiale sui tipi di modifica per maggiori dettagli."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
@@ -8749,7 +8749,7 @@ msgstr "Titolo:"
 msgid ""
 "To aid in testing, the following features have been made available on "
 "testing servers:"
-msgstr ""
+msgstr "Per aiutare nella fase di test, le seguenti funzionalità sono state rese disponibili sui server di test:"
 
 #: ../root/artist/browse_various_recordings.tt:20
 #: ../root/artist/browse_various_releases.tt:20
@@ -9390,12 +9390,12 @@ msgstr "Voti a favore:"
 #: ../root/elections/show.tt:55
 #, perl-format
 msgid "Voting"
-msgstr ""
+msgstr "Votazione"
 
 #: ../root/edit/info.tt:57 ../root/edit/list_header.tt:21
 #, perl-format
 msgid "Voting FAQ"
-msgstr ""
+msgstr "FAQ sul sistema di voto"
 
 #: ../root/elections/show.tt:85
 #, perl-format
@@ -9667,7 +9667,7 @@ msgstr "Opere che iniziano per \"{index}\""
 #: ../root/otherlookup/results-work.tt:8 ../root/search/results-work.tt:11
 #, perl-format
 msgid "Writers"
-msgstr ""
+msgstr "Autori"
 
 #: ../root/layout/menu.tt:142
 #, perl-format
@@ -9935,12 +9935,12 @@ msgstr "Non hai nessuna collezione!"
 msgid ""
 "You have used the {valink|Various Artists} special purpose artist on this "
 "recording."
-msgstr ""
+msgstr "Hai utilizzato l'artista speciale {valink|Artisti vari} su questa registrazione."
 
 #: ../root/release/edit/tracklist.tt:132
 #, perl-format
 msgid "You have used the {valink|Various Artists} special purpose artist on:"
-msgstr ""
+msgstr "Hai utilizzato l'artista speciale {valink|Artisti vari} su:"
 
 #: ../root/edit/cancel.tt:14
 #, perl-format
@@ -9952,7 +9952,7 @@ msgstr "Puoi inserire una nota di modifica durante l'annullamento di questa modi
 #: ../root/artist/special_purpose.tt:2
 #, perl-format
 msgid "You may not edit special purpose artists"
-msgstr ""
+msgstr "Non puoi modificare gli artisti speciali"
 
 #: ../root/account/registered.tt:21
 #, perl-format
@@ -10790,7 +10790,7 @@ msgstr "Il nome dell'artista è stato cambiato con la modifica #{id}."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:518
 msgid "You cannot merge a special purpose artist into another artist"
-msgstr ""
+msgstr "Non è possibile unire un artista speciale con un altro artista."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:637
 #, perl-brace-format
