@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-16 00:59+0000\n"
+"PO-Revision-Date: 2012-06-16 01:57+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -2057,7 +2057,7 @@ msgstr "Ordine dei figli:"
 #: ../root/release/cover_art_uploader.tt:15
 #, perl-format
 msgid "Choose file:"
-msgstr ""
+msgstr "Scegli un file:"
 
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
@@ -2709,7 +2709,7 @@ msgstr "Durata:"
 msgid ""
 "Each track in the MusicBrainz database has to be linked to a recording, "
 "choose the appropriate recording or look for it in the database."
-msgstr ""
+msgstr "Ogni traccia nel database di MusicBrainz deve essere collegata a una registrazione: scegli la registrazione appropriata o cercala nel database."
 
 #: ../root/artist/aliases.tt:31 ../root/artist/header.tt:13
 #: ../root/artist/relationships.tt:18 ../root/artist/relationships.tt:80
@@ -3833,7 +3833,7 @@ msgstr "Se hai aggiunto questo alias per sbaglio, segui le istruzioni su come {c
 #: ../root/cdtoc/attach_artist_releases.tt:63
 #, perl-format
 msgid "If you can't find what you're looking for, you can add a new release:"
-msgstr ""
+msgstr "Se non riesci a trovare quello che stai cercando, puoi aggiungere una nuova pubblicazione:"
 
 #: ../root/account/edit.tt:7
 #, perl-format
@@ -3876,7 +3876,7 @@ msgid ""
 "We encourage people to donate $12 to make the nag screen disappear for 3 "
 "months. Or even better, sign up for a recurring donation every three months "
 "to not have to think about or see this nag again."
-msgstr ""
+msgstr "Se doni <b>4$</b> non vedrai questo testo scocciante per un <b>mese</b>. Ti invitiamo a donare 12$ per far scomparire la schermata di scocciatura per 3 mesi. O ancora meglio, accetta di fare una donazione ricorrente ogni tre mesi, così non dovrai preoccuparti mai più di questa scocciatura."
 
 #: ../root/main/403.tt:8
 #, perl-format
@@ -3940,7 +3940,7 @@ msgstr "Se vuoi eliminare il tuo account, {uri|lo puoi fare qui}."
 msgid ""
 "If you would like to make a donation, {donate|you can do that here}. If you "
 "have donated, but you are still being nagged, please {contact|contact us}."
-msgstr ""
+msgstr "Se vuoi fare una donazione, {donate|la puoi fare qui}. Se hai già donato, ma continui ad essere scocciato, {contact|contattaci}."
 
 #: ../root/report/index.tt:6
 #, perl-format
@@ -3962,7 +3962,7 @@ msgstr "Se sei interessato a ricevere informazioni dallo staff di MusicBrainz o 
 #: ../root/components/common-macros.tt:80
 #, perl-format
 msgid "Image not available yet, please try again in a few minutes."
-msgstr ""
+msgstr "Immagine non ancora disponibile, riprova tra qualche minuto."
 
 #: ../root/freedb/show.tt:45 ../root/freedb/show.tt:103
 #, perl-format
@@ -5066,7 +5066,7 @@ msgstr "Nessun CD corrispondente trovato per il TOC {toc}."
 #: ../root/admin/edit_user.tt:13
 #, perl-format
 msgid "No nag"
-msgstr "Nessuna schermata di donazione"
+msgstr "Nessuna scocciatura"
 
 #: ../root/artist/recordings.tt:16
 #, perl-format
@@ -6040,12 +6040,12 @@ msgstr "Registrazioni che iniziano per \"{index}\""
 #: ../root/report/recordings_with_earliest_release_relationships.tt:3
 #, perl-format
 msgid "Recordings with Earliest Release Relationships"
-msgstr ""
+msgstr "Registrazioni con relazioni di prima pubblicazione"
 
 #: ../root/report/index.tt:64
 #, perl-format
 msgid "Recordings with earliest release relationships"
-msgstr ""
+msgstr "Registrazioni con relazioni di prima pubblicazione"
 
 #: ../root/report/featuring_recordings.tt:1
 #: ../root/report/featuring_recordings.tt:3 ../root/report/index.tt:66
@@ -6529,14 +6529,14 @@ msgstr ""
 #: ../root/report/tracks_with_sequence_issues.tt:3
 #, perl-format
 msgid "Releases with track number issues"
-msgstr ""
+msgstr "Pubblicazioni con problemi nella numerazione delle tracce"
 
 #: ../root/report/index.tt:58
 #: ../root/report/releases_with_unlikely_language_script.tt:1
 #: ../root/report/releases_with_unlikely_language_script.tt:3
 #, perl-format
 msgid "Releases with unlikely language/script pairs"
-msgstr ""
+msgstr "Pubblicazioni con combinazioni lingua/script improbabili"
 
 #: ../root/report/index.tt:39 ../root/report/releases_without_language.tt:1
 #: ../root/report/releases_without_language.tt:3
@@ -8446,21 +8446,21 @@ msgstr "Questa pubblicazione non ha tag."
 msgid ""
 "This report aims to identify artists with very similar names, which might "
 "indicate that the artists need to be merged."
-msgstr ""
+msgstr "Questo report mira ad identificare gli artisti con nomi molto simili, che potrebbero dover essere uniti."
 
 #: ../root/report/tracks_named_with_sequence.tt:6
 #, perl-format
 msgid ""
 "This report aims to identify releases where track names include their own "
 "track number, e.g. \"1) Some Name\" (instead of just \"Some Name\")."
-msgstr ""
+msgstr "Questo report mira ad identificare le pubblicazioni in cui i titoli delle tracce includono il loro stesso numero di traccia, per es. \"1) Titolo\" anziché solo \"Titolo\"."
 
 #: ../root/report/releases_to_convert.tt:7
 #, perl-format
 msgid ""
 "This report aims to identify releases which need converting to \"multiple "
 "artists\"."
-msgstr ""
+msgstr "Questo report mira ad identificare le pubblicazioni che devono essere convertite in pubblicazioni di artisti multipli."
 
 #: ../root/report/duplicate_artists.tt:8
 #, perl-format
@@ -8495,14 +8495,14 @@ msgstr "Questo report elenca tutte le pubblicazioni in cui i numeri di traccia n
 msgid ""
 "This report lists artists that are <em>unknown</em> or <em>group</em>, but "
 "may be <em>person</em>, based on all relationships except \"collaboration\"."
-msgstr ""
+msgstr "Questo report elenca gli artisti di tipo <em>sconosciuto</em> o <em>gruppo</em> che potrebbero essere <em>persone</em>, in base a tutte le relazioni eccetto quelle di collaborazione."
 
 #: ../root/report/artists_that_may_be_groups.tt:6
 #, perl-format
 msgid ""
 "This report lists artists that are <em>unknown</em> or <em>person</em>, but "
 "may be <em>group</em>, based on band \"is member of\" relationships."
-msgstr ""
+msgstr "Questo report elenca gli artisti di tipo <em>sconosciuto</em> o <em>persona</em> che potrebbero essere <em>gruppi</em>, in base alle relazioni \"membro di gruppo\"."
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:6
 #, perl-format
@@ -8535,7 +8535,7 @@ msgid ""
 "This report lists releases without any disc IDs that probably contain data "
 "tracks. A data track should be deleted if it is the last track of the CD and"
 " there is no disc ID."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni senza ID disco che probabilmente contengono tracce dati. Una traccia dati dovrebbe essere eliminata se è l'ultima traccia del CD e non c'è un ID disco."
 
 #: ../root/report/asins_with_multiple_releases.tt:6
 #, perl-format
@@ -8557,17 +8557,17 @@ msgstr "Questo report mostra gli URL di Discogs che sono collegati a più pubbli
 #, perl-format
 msgid ""
 "This report shows recordings that still have earliest release relationships."
-msgstr ""
+msgstr "Questo report mostra le registrazioni che hanno ancora relazioni di prima pubblicazione."
 
 #: ../root/report/featuring_recordings.tt:6
 #, perl-format
 msgid "This report shows recordings with (feat. Artist) in the title."
-msgstr ""
+msgstr "Questo report mostra le registrazioni con (feat. Artista) nel titolo."
 
 #: ../root/report/featuring_release_groups.tt:6
 #, perl-format
 msgid "This report shows release groups with (feat. Artist) in the title."
-msgstr ""
+msgstr "Questo report mostra i gruppi di pubblicazioni con (feat. Artista) nel titolo."
 
 #: ../root/report/empty_release_groups.tt:6
 #, perl-format
@@ -8589,52 +8589,52 @@ msgstr ""
 msgid ""
 "This report shows releases that have an unlikely combination of language and"
 " script properties, such as German and Ethiopic."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno una combinazione di lingua e script poco probabile, come per es. tedesco ed etiopico."
 
 #: ../root/report/multiple_asins.tt:6
 #, perl-format
 msgid "This report shows releases that have more than one ASIN."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno più di un ASIN."
 
 #: ../root/report/multiple_discogs_links.tt:6
 #, perl-format
 msgid "This report shows releases that have more than one Discogs link."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno più di un link di Discogs."
 
 #: ../root/report/releases_without_language.tt:6
 #, perl-format
 msgid "This report shows releases that have no language set."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che non hanno una lingua impostata."
 
 #: ../root/report/releases_without_script.tt:6
 #, perl-format
 msgid "This report shows releases that have no script set."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che non hanno uno script impostato."
 
 #: ../root/report/releases_with_cc_links.tt:6
 #, perl-format
 msgid ""
 "This report shows releases that still have Creative Commons Download "
 "relationships."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno ancora relazioni di download Creative Commons."
 
 #: ../root/report/part_of_set_relationships.tt:6
 #, perl-format
 msgid "This report shows releases that still have part of set relationships."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno ancora relazioni di parte di un set"
 
 #: ../root/report/some_formats_unset.tt:6
 #, perl-format
 msgid ""
 "This report shows releases where some of the medium formats are set, but "
 "others are unset."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni in cui alcuni formati dei supporti sono impostati e altri non lo sono."
 
 #: ../root/report/separate_discs.tt:6
 #, perl-format
 msgid ""
 "This report shows releases which have (disc n) or (bonus disc) in the title."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno (disc n) o (bonus disc) nel titolo."
 
 #: ../root/report/releases_in_caa_with_cover_art_relationships.tt:7
 #, perl-format
@@ -8647,7 +8647,7 @@ msgstr "Questo report mostra le pubblicazioni che hanno una copertina nel Cover 
 #, perl-format
 msgid ""
 "This report shows releases which have catalog numbers that look like ASINs."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno numeri di catalogo che sembrano ASIN."
 
 #: ../root/report/released_too_early.tt:6
 #, perl-format
@@ -8656,12 +8656,12 @@ msgid ""
 "released too early to have disc IDs, where one of the medium formats didn't "
 "exist at the time the release was released or where a disc ID is attached to"
 " a medium whose format does not have disc IDs."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno ID disco nonostante siano state pubblicate troppo presto per averli, in cui uno dei formati dei supporti non esisteva all'epoca della pubblicazione o in cui un ID disco è associato a un supporto il cui formato non lo permette."
 
 #: ../root/report/featuring_releases.tt:6
 #, perl-format
 msgid "This report shows releases with (feat. Artist) in the title."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni con (feat. Artista) nel titolo."
 
 #: ../root/report/bad_amazon_urls.tt:6
 #, perl-format
@@ -8677,7 +8677,7 @@ msgid ""
 " the translation/transliteration relationship to an original version. This "
 "could be because the original version is missing, or just that the release "
 "status is set wrong."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni con status di pseudo-pubblicazione che non sono collegate a una versione originale attraverso la relazione di traduzione/traslitterazione. Questo potrebbe essere dovuto al fatto che la versione originale è assente, oppure semplicemente al fatto che lo status impostato per la pubblicazione è sbagliato."
 
 #: ../root/release/merge.tt:85
 #, perl-format
@@ -8881,7 +8881,7 @@ msgstr "Analizzatore di tracce"
 #: ../root/release/edit/tracklist.tt:219
 #, perl-format
 msgid "Track count:"
-msgstr ""
+msgstr "Numero di tracce:"
 
 #: ../root/cdtoc/info.tt:27
 #, perl-format
@@ -8993,7 +8993,7 @@ msgstr "Gli editor di transclusione sono utenti che aggiungono e aggiornano le v
 #, perl-format
 msgid ""
 "Translated/Transliterated Pseudo-Releases not linked to an original version"
-msgstr ""
+msgstr "Pseudo-pubblicazioni tradotte/traslitterate non collegate a una versione originale"
 
 #: ../root/layout.tt:165
 #, perl-format
@@ -9110,7 +9110,7 @@ msgstr "Sconosciuto"
 #: ../root/recording/fingerprints.tt:73
 #, perl-format
 msgid "Unlink"
-msgstr ""
+msgstr "Scollega"
 
 #: ../root/report/unlinked_pseudo_releases.tt:1
 #: ../root/report/unlinked_pseudo_releases.tt:3
@@ -9137,7 +9137,7 @@ msgstr "Annulla sottoscrizione a questo artista."
 #: ../root/admin/edit_user.tt:12
 #, perl-format
 msgid "Untrusted"
-msgstr ""
+msgstr "Non attendibile"
 
 #: ../root/search/form.tt:13
 #, perl-format
@@ -9173,7 +9173,7 @@ msgstr "Aggiorna collezione"
 #: ../root/release/edit/tracklist.tt:479
 #, perl-format
 msgid "Uppercase roman numerals"
-msgstr ""
+msgstr "Rendi maiuscoli i numeri romani"
 
 #: ../root/url/edits.tt:19
 #, perl-format
@@ -9183,7 +9183,7 @@ msgstr "URL"
 #: ../root/components/tags.tt:12
 #, perl-format
 msgid "Usage Count"
-msgstr ""
+msgstr "Numero di utilizzi"
 
 #: ../root/components/common-macros.tt:444
 #, perl-format
@@ -9200,7 +9200,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:94
 #, perl-format
 msgid "Use suggested recording"
-msgstr ""
+msgstr "Utilizza registrazione suggerita"
 
 #: ../root/components/forms.tt:235
 #, perl-format
@@ -9310,12 +9310,12 @@ msgstr "Visualizza dettagli"
 #: ../root/admin/wikidoc/index.tt:110
 #, perl-format
 msgid "View on wiki"
-msgstr ""
+msgstr "Visualizza nella wiki"
 
 #: ../root/annotation/history.tt:29
 #, perl-format
 msgid "View this version"
-msgstr ""
+msgstr "Visualizza questa versione"
 
 #: ../root/admin/wikidoc/index.tt:63
 #, perl-format
@@ -9422,7 +9422,7 @@ msgid ""
 "Warning! \"1990-10-25\" is the bogus date that Amazon gives to all releases "
 "for which they don't know the actual date. <b>Please use this date only if "
 "you're certain this date is correct!</b>"
-msgstr ""
+msgstr "Attenzione! \"1990-10-25\" è la data fasulla che Amazon assegna a tutte le pubblicazioni di cui non conoscono la data reale. <b>Utilizza questa data solo se sei sicuro che sia corretta!</b>"
 
 #: ../root/artist/edit_form.tt:18 ../root/label/edit_form.tt:15
 #, perl-format
@@ -9487,7 +9487,7 @@ msgid ""
 "We found the following artists with the same name already existing in "
 "MusicBrainz. If any of these are the artist you intended to use, please "
 "select the artist:"
-msgstr ""
+msgstr "Sono stati trovati i seguenti artisti con lo stesso nome già esistenti su MusicBrainz. Se uno di questi è l'artista che intendevi usare, selezionalo:"
 
 #: ../root/release/edit/missing_entities.tt:90
 #, perl-format
@@ -9495,7 +9495,7 @@ msgid ""
 "We found the following labels with the same name already existing in "
 "MusicBrainz. If any of these are the label you intended to use, please "
 "select the label:"
-msgstr ""
+msgstr "Sono stati trovate le seguenti etichette con lo stesso nome già esistenti su MusicBrainz. Se una di queste è l'etichetta che intendevi usare, selezionala:"
 
 #: ../root/search/editor.tt:5
 #, perl-format
@@ -9510,7 +9510,7 @@ msgid ""
 "We have not received a donation from you recently. If you have just made a "
 "PayPal donation, then we have not received a notification from PayPal yet. "
 "Please wait a few minutes and reload this page to check again."
-msgstr ""
+msgstr "Non abbiamo ricevuto donazioni da te ultimamente. Se hai appena fatto una donazione su PayPal, non abbiamo ancora ricevuto la notifica da PayPal. Aspetta qualche minuto e ricarica questa pagina per controllare di nuovo."
 
 #: ../root/account/edit_ok.tt:8
 #, perl-format
@@ -9971,7 +9971,7 @@ msgstr "Devi effettuare l'accesso per votare sulle modifiche."
 msgid ""
 "You must first verify your email address before being able to edit or add "
 "anything to the database."
-msgstr ""
+msgstr "Devi verificare il tuo indirizzo email prima di poter modificare o aggiungere dati al database."
 
 #: ../root/account/register.tt:37
 #, perl-format
@@ -10007,12 +10007,12 @@ msgstr "Hai selezionato {releasegroup}."
 #: ../root/account/donation.tt:22
 #, perl-format
 msgid "You will never be nagged again!"
-msgstr ""
+msgstr "Non sarai mai più scocciato!"
 
 #: ../root/account/donation.tt:18
 #, perl-format
 msgid "You will not be nagged for another {days} days."
-msgstr ""
+msgstr "Non sarai scocciato per altri {days} giorni."
 
 #: ../root/user/email_sent.tt:5
 #, perl-format
@@ -10237,13 +10237,13 @@ msgstr "link"
 #: ../root/relationship/linktype/tree.tt:7
 #, perl-format
 msgid "more"
-msgstr ""
+msgstr "più"
 
 #: ../root/layout/sidebar/sidebar-tags.tt:1
 #: ../root/layout/sidebar/sidebar-tags.tt:16
 #, perl-format
 msgid "more..."
-msgstr ""
+msgstr "altri..."
 
 #: ../root/edit/search_macros.tt:17
 #, perl-format
@@ -11600,7 +11600,7 @@ msgstr "Un mese"
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:155
 msgid "Frequently used"
-msgstr ""
+msgstr "Utilizzato frequentemente"
 
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:155
