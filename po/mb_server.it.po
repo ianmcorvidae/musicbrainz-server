@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-16 01:57+0000\n"
+"PO-Revision-Date: 2012-06-16 02:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -2253,7 +2253,7 @@ msgstr "Copia nome"
 #: ../root/release/edit/recordings.tt:398
 #, perl-format
 msgid "Copy all track changes to associated recordings."
-msgstr ""
+msgstr "Copia tutte le modifiche alle tracce nelle registrazioni associate."
 
 #: ../root/cdtoc/attach_artist_releases.tt:36
 #: ../root/cdtoc/attach_filter_release.tt:49 ../root/cdtoc/list.tt:9
@@ -2366,7 +2366,7 @@ msgstr "Create"
 msgid ""
 "Currently it does this by looking for releases where every track contains "
 "\"/\" or \"-\"."
-msgstr ""
+msgstr "Al momento cerca pubblicazioni in cui ogni traccia contiene \"/\" o \"-\"."
 
 #: ../root/layout/menu.tt:86
 #, perl-format
@@ -2644,12 +2644,12 @@ msgstr "URL di Discogs collegati a più pubblicazioni"
 #: ../root/report/separate_discs.tt:1 ../root/report/separate_discs.tt:3
 #, perl-format
 msgid "Discs as Separate Releases"
-msgstr ""
+msgstr "Dischi come pubblicazioni separate"
 
 #: ../root/report/index.tt:47
 #, perl-format
 msgid "Discs entered as separate releases"
-msgstr ""
+msgstr "Dischi inseriti come pubblicazioni separate"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #: ../root/scripts/text_strings.tt:73
@@ -2996,7 +2996,7 @@ msgstr "Modificato"
 #: ../root/work/layout.tt:34
 #, perl-format
 msgid "Editing"
-msgstr ""
+msgstr "Modifiche"
 
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
@@ -3014,7 +3014,7 @@ msgstr "Cronologia modifiche"
 #: ../root/main/index.tt:34
 #, perl-format
 msgid "Editing introduction"
-msgstr ""
+msgstr "Introduzione alle modifiche"
 
 #: ../root/annotation/history.tt:8 ../root/edit/search_macros.tt:280
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:41
@@ -3383,7 +3383,7 @@ msgstr "Per maggiori informazioni sul processo di eliminazione degli account, le
 msgid ""
 "For instructions on how to fix them, please see the documentation about "
 "{howto|how to merge releases}."
-msgstr ""
+msgstr "Per istruzioni su come correggerle, consulta la documentazione su {how|come unire pubblicazioni}."
 
 #: ../root/edit/info.tt:55
 #, perl-format
@@ -3950,7 +3950,7 @@ msgid ""
 "database looking for data that might require fixing, either to comply with "
 "the {style|style guidelines}, or in other cases where administrative \"clean"
 " up\" tasks are required."
-msgstr ""
+msgstr "Se vuoi partecipare al processo di modifica ma non sai dove cominciare, i seguenti report potrebbero tornarti utili. Sono stati creati perlustrando il database alla ricerca di dati che potrebbero aver bisogno di essere corretti, sia per conformarsi alle {style|linee guida di stile}, sia per altri casi che richiedono compiti amministrativi di \"ripulitura\"."
 
 #: ../root/account/register.tt:51
 #, perl-format
@@ -4723,14 +4723,14 @@ msgstr "MusicBrainz per Android"
 msgid ""
 "MusicBrainz has one account type for all users. If you represent an artist "
 "or label, please use the above form to create an account."
-msgstr ""
+msgstr "MusicBrainz ha un solo tipo di account per tutti i suoi utenti. Se rappresenti un artista o un'etichetta, utilizza il seguente modulo per creare un account."
 
 #: ../root/main/index.tt:45
 #, perl-format
 msgid ""
 "MusicBrainz is an open music encyclopedia that collects music metadata and "
 "makes it available to the public."
-msgstr ""
+msgstr "MusicBrainz è un'enciclopedia musicale aperta che raccoglie metadata musicali e li mette a disposizione del pubblico."
 
 #: ../root/main/index.tt:77
 #, perl-format
@@ -5219,7 +5219,7 @@ msgstr "Nota:"
 msgid ""
 "Note: this currently only searches edits that add or edit relationships, "
 "created after 2011-05-16"
-msgstr ""
+msgstr "Nota: al momento questo cerca solo modifiche che aggiungono o modificano relazioni che siano state create dopo il 16/05/2011"
 
 #: ../root/account/preferences.tt:44
 #, perl-format
@@ -5483,7 +5483,7 @@ msgstr "Analizza artisti tracce"
 #: ../root/report/part_of_set_relationships.tt:3
 #, perl-format
 msgid "Part of Set Relationships"
-msgstr ""
+msgstr "Relazioni di parte di un set"
 
 #: ../root/account/register.tt:33 ../root/account/reset_password.tt:10
 #: ../root/user/login.tt:24
@@ -5564,7 +5564,7 @@ msgstr ""
 #: ../root/account/change_password.tt:5
 #, perl-format
 msgid "Please enter your old password below, and then your new password."
-msgstr ""
+msgstr "Inserisci qui sotto la tua vecchia password e poi quella nuova."
 
 #: ../root/edit/relationship/no-start.tt:2
 #, perl-format
@@ -5617,21 +5617,21 @@ msgstr "Nota:"
 msgid ""
 "Please read the guideline on {doc_merging|how to merge releases} before "
 "entering this edit."
-msgstr ""
+msgstr "Consulta la documentazione su {doc_merging|come unire pubblicazioni} prima di inserire questa modifica."
 
 #: ../root/label/edit_form.tt:2
 #, perl-format
 msgid ""
 "Please read the {doc_styleguide|Style Guidelines} then use the fields below "
 "to update the information of this label."
-msgstr ""
+msgstr "Consulta le {doc_styleguide|linee guida di stile}, poi utilizza i campi qui sotto per aggiornare le informazioni su questa etichetta."
 
 #: ../root/artist/edit_form.tt:4
 #, perl-format
 msgid ""
 "Please read the {doc_styleguide|Style Guidelines}, then provide the "
 "necessary information about the new artist below."
-msgstr ""
+msgstr "Consulta le {doc_styleguide|linee guida di stile}, poi inserisci qui sotto le informazioni necessarie sul nuovo artista."
 
 #: ../root/release_group/delete.tt:8
 #, perl-format
@@ -5927,7 +5927,7 @@ msgstr "Ricerca:"
 #: ../root/main/index.tt:30
 #, perl-format
 msgid "Quick Start"
-msgstr ""
+msgstr "Guida rapida"
 
 #: ../root/edit/list_header.tt:4
 #, perl-format
@@ -6051,7 +6051,7 @@ msgstr "Registrazioni con relazioni di prima pubblicazione"
 #: ../root/report/featuring_recordings.tt:3 ../root/report/index.tt:66
 #, perl-format
 msgid "Recordings with titles containing featuring artists"
-msgstr ""
+msgstr "Registrazioni che contengono \"feat.\" nel titolo"
 
 #: ../root/edit/details/edit_medium.tt:192
 #: ../root/edit/relationship/create_batch.tt:46
@@ -6168,7 +6168,7 @@ msgid ""
 "the database. If you would like to propose a new relationship, please do so "
 "through the {url|Style Council}. Relationship editors will only make changes"
 " that have been approved by the Style Council."
-msgstr ""
+msgstr "Gli editor di relazioni sono utenti che possono aggiungere o modificare i tipi di relazione nel database. Se vuoi proporre una nuova relazione, puoi farlo attraverso il {url|Consiglio di stile}. Gli editor di relazioni apporteranno solo i cambiamenti che sono stati approvati dal Consiglio di stile."
 
 #: ../root/edit/details/add_relationship.tt:3
 #: ../root/edit/details/edit_relationship.tt:8
@@ -6358,7 +6358,7 @@ msgstr "Gruppi di pubblicazioni che non contengono nessuna pubblicazione"
 #: ../root/report/featuring_release_groups.tt:3 ../root/report/index.tt:30
 #, perl-format
 msgid "Release groups with titles containing featuring artists"
-msgstr ""
+msgstr "Gruppi di pubblicazioni che contengono \"feat.\" nel titolo"
 
 #: ../root/release/edit/information.tt:23 ../root/release/sidebar.tt:15
 #, perl-format
@@ -6413,13 +6413,13 @@ msgstr "Pubblicazioni"
 #: ../root/report/tracks_named_with_sequence.tt:3
 #, perl-format
 msgid "Releases Where Track Names Start With Their Track Number"
-msgstr ""
+msgstr "Pubblicazioni in cui i titoli delle tracce iniziano con il loro numero di traccia"
 
 #: ../root/report/cat_no_looks_like_asin.tt:1
 #: ../root/report/cat_no_looks_like_asin.tt:3
 #, perl-format
 msgid "Releases With Catalog Numbers That Look Like ASINs"
-msgstr ""
+msgstr "Pubblicazioni con numeri di catalogo che sembrano ASIN"
 
 #: ../root/report/multiple_asins.tt:1 ../root/report/multiple_asins.tt:3
 #, perl-format
@@ -6436,7 +6436,7 @@ msgstr "Pubblicazioni con più link di Discogs"
 #: ../root/report/some_formats_unset.tt:3
 #, perl-format
 msgid "Releases With Some Formats Unset"
-msgstr ""
+msgstr "Pubblicazioni con alcuni formati non impostati"
 
 #: ../root/report/index.tt:56
 #: ../root/report/releases_in_caa_with_cover_art_relationships.tt:1
@@ -6449,7 +6449,7 @@ msgstr "Pubblicazioni nel Cover Art Archive che hanno ancora relazioni di copert
 #: ../root/report/released_too_early.tt:3
 #, perl-format
 msgid "Releases released too early"
-msgstr ""
+msgstr "Pubblicazioni pubblicate troppo presto"
 
 #: ../root/artist/browse_various_releases.tt:5 ../root/browse/release.tt:8
 #, perl-format
@@ -6459,7 +6459,7 @@ msgstr "Pubblicazioni che iniziano per \"{index}\""
 #: ../root/report/index.tt:52
 #, perl-format
 msgid "Releases where some (but not all) mediums have no format set"
-msgstr ""
+msgstr "Pubblicazioni in cui alcuni (ma non tutti) i supporti non hanno un formato impostato"
 
 #: ../root/report/index.tt:42
 #, perl-format
@@ -6474,12 +6474,12 @@ msgstr "Pubblicazioni che possiedono più link di Discogs"
 #: ../root/report/index.tt:46
 #, perl-format
 msgid "Releases which have part of set relationships"
-msgstr ""
+msgstr "Pubblicazioni che hanno relazioni di parte di un set"
 
 #: ../root/report/index.tt:41
 #, perl-format
 msgid "Releases which have unexpected Amazon URLs"
-msgstr ""
+msgstr "Pubblicazioni che hanno URL di Amazon non previsti"
 
 #: ../root/report/index.tt:38 ../root/report/releases_to_convert.tt:1
 #: ../root/report/releases_to_convert.tt:3
@@ -6491,12 +6491,12 @@ msgstr "Pubblicazioni che potrebbero dover essere attribuite ad artisti multipli
 #: ../root/report/releases_with_cc_links.tt:3
 #, perl-format
 msgid "Releases with Creative Commons Download relationships"
-msgstr ""
+msgstr "Pubblicazioni con relazioni di download Creative Commons"
 
 #: ../root/report/index.tt:53
 #, perl-format
 msgid "Releases with catalog numbers that look like ASINs"
-msgstr ""
+msgstr "Pubblicazioni con numeri di catalogo che sembrano ASIN"
 
 #: ../root/report/mediums_with_sequence_issues.tt:1
 #: ../root/report/mediums_with_sequence_issues.tt:3
@@ -6512,7 +6512,7 @@ msgstr "Pubblicazioni con supporti non sequenziali"
 #: ../root/report/index.tt:48
 #, perl-format
 msgid "Releases with non-sequential track numbers"
-msgstr ""
+msgstr "Pubblicazioni con numeri di traccia non sequenziali"
 
 #: ../root/report/index.tt:49 ../root/report/superfluous_data_tracks.tt:3
 #, perl-format
@@ -6523,7 +6523,7 @@ msgstr "Pubblicazioni con tracce dati superflue"
 #: ../root/report/featuring_releases.tt:3 ../root/report/index.tt:50
 #, perl-format
 msgid "Releases with titles containing featuring artists"
-msgstr ""
+msgstr "Pubblicazioni che contengono \"feat.\" nel titolo"
 
 #: ../root/report/tracks_with_sequence_issues.tt:1
 #: ../root/report/tracks_with_sequence_issues.tt:3
@@ -8159,7 +8159,7 @@ msgid ""
 "This artist has relationships other than collaboration relationships, and "
 "cannot be split until these are removed. {relationships|View all "
 "relationships}."
-msgstr ""
+msgstr "Questo artista possiede delle relazioni (oltre a quelle di collaborazione) e non può essere diviso finché queste non sono rimosse. {relationships|Visualizza tutte le relazioni}."
 
 #: ../root/artist/works.tt:11
 #, perl-format
@@ -8527,7 +8527,7 @@ msgid ""
 "weren't because the artist names weren't all found in the collaboration "
 "name, not all of the artists were linked or the collaboration artist had "
 "other relationships. "
-msgstr ""
+msgstr "Questo report elenca gli artisti che hanno relazioni di collaborazione ma nessuna URL. Molte collaborazioni sono state divise automaticamente; quelle qui presenti non lo sono state poiché i nomi di tutti gli artisti non sono stati trovati nel nome della collaborazione, non tutti gli artisti erano collegati o la collaborazione aveva altre relazioni. "
 
 #: ../root/report/superfluous_data_tracks.tt:6
 #, perl-format
@@ -8582,7 +8582,7 @@ msgid ""
 " For example, if one release is in a release group A and it's part of a "
 "multi-disc release where the next disc is in a release group B, both release"
 " groups will be listed in this report."
-msgstr ""
+msgstr "Questo report mostra i gruppi di pubblicazioni con pubblicazioni che sono collegate ad altre in gruppi diversi con relazioni di parte di un set o di traduzione/traslitterazione. Per esempio, se una pubblicazione nel gruppo A è parte di una pubblicazione di più dischi il cui disco seguente è nel gruppo B, entrambi i gruppi di pubblicazioni saranno elencati in questo report."
 
 #: ../root/report/releases_with_unlikely_language_script.tt:6
 #, perl-format
@@ -8950,7 +8950,7 @@ msgstr "Tracce"
 #: ../root/report/index.tt:65
 #, perl-format
 msgid "Tracks whose names include their sequence numbers"
-msgstr ""
+msgstr "Tracce i cui titoli includono il loro numero di traccia"
 
 #: ../root/edit/details/historic/add_release.tt:44
 #, perl-format
@@ -11676,25 +11676,25 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:89
 msgid "Any release that does not fit any of the categories above."
-msgstr ""
+msgstr "Qualsiasi pubblicazione che non rientri in nessuna delle categorie qui sopra."
 
 #: ../lib/MusicBrainz/Server/Release.pm:91
 msgid ""
 "Any release officially sanctioned by the artist and/or their record company."
 " (Most releases will fit into this category.)"
-msgstr ""
+msgstr "Qualsiasi pubblicazione autorizzata ufficialmente dall'artista e/o dalla sua etichetta (la maggior parte delle pubblicazioni ricadono in questa categoria)."
 
 #: ../lib/MusicBrainz/Server/Release.pm:92
 msgid ""
 "A giveaway release or a release intended to promote an upcoming official "
 "release. (e.g. prerelease albums or releases included with a magazine)"
-msgstr ""
+msgstr "Una pubblicazione omaggio o destinata a promuovere una futura pubblicazione ufficiale (per es. promo per la radio, pubblicazioni incluse con una rivista)."
 
 #: ../lib/MusicBrainz/Server/Release.pm:93
 msgid ""
 "An unofficial/underground release that was not sanctioned by the artist "
 "and/or the record company."
-msgstr ""
+msgstr "Una pubblicazione non ufficiale che non è stata autorizzata dall'artista né dalla sua etichetta."
 
 #: ../lib/MusicBrainz/Server/Release.pm:94
 msgid ""
