@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-16 14:24+0000\n"
+"PO-Revision-Date: 2012-06-16 15:58+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -2212,7 +2212,7 @@ msgid ""
 "Confirm by activating the checkbox below that you have read the "
 "{doc_artistcomment|artist comment guideline}, understood how we distinguish "
 "artists with the same name, and that you know what you are doing."
-msgstr ""
+msgstr "Spuntando la casella qui sotto confermi che hai letto le {doc_artistcomment|linee guida sui commenti di disambiguazione}, che hai compreso come distinguiamo artisti con lo stesso nome e che sai quello che stai facendo."
 
 #: ../root/label/edit_form.tt:26
 #, perl-format
@@ -2220,7 +2220,7 @@ msgid ""
 "Confirm by activating the checkbox below that you have read the "
 "{doc_labelcomment|label comment guideline}, understood how we distinguish "
 "labels with the same name, and that you know what you are doing."
-msgstr ""
+msgstr "Spuntando la cartiscommentasella qui sotto confermi che hai letto le {doc_labelcomment|linee guida sui commenti di disambiguazione}, che hai compreso come distinguiamo etichette con lo stesso nome e che sai quello che stai facendo."
 
 #: ../root/account/change_password.tt:12 ../root/account/register.tt:34
 #: ../root/account/reset_password.tt:11
@@ -3667,7 +3667,7 @@ msgid ""
 "{metabrainz_foundation}, a California based 501(c)3 tax-exempt non-profit, "
 "operates the MusicBrainz project which makes all donations <b>tax "
 "deductible</b> for US taxpayers. And its simply good karma everywhere else!"
-msgstr ""
+msgstr "Tuttavia, dobbiamo pur sempre pagare le bollette e l'hosting di questo sito costa ben più di 1000$ al mese. Abbiamo quindi bisogno dei nostri utenti per far quadrare i conti e, se tutto va bene, disporre di denaro sufficiente per sviluppare ulteriormente il sito. La {metabrainz_foundation}, un'organizzazione non-profit esentasse 501(c)3 con sede in California, gestisce il progetto MusicBrainz, il che rende ogni donazione <b>deducibile fiscalmente</b> per i contribuenti americani. Per tutti gli altri, sostenerci aiuterà a migliorare il vostro karma!"
 
 #: ../root/release/edit/information.tt:165
 #, perl-format
@@ -3788,7 +3788,7 @@ msgid ""
 " will be prompted to {doc_addcomment|add a disambiguation comment to this "
 "artist}, which will allow users to distinguish this entry from the other "
 "artist(s) with the same name."
-msgstr ""
+msgstr "Se uno o più artisti con lo stesso nome esistono già nel database, ti sarà chiesto di {doc_addcomment|aggiungere un commento di disambiguazione a questo artista}, che permetterà agli utenti di distinguere questa voce dalle altre con lo stesso nome."
 
 #: ../root/label/edit_form.tt:3
 #, perl-format
@@ -3797,7 +3797,7 @@ msgid ""
 "will be prompted to add a {doc_comment|disambiguation comment to this label}"
 " that will allow users to distinguish this entry from the other label(s) "
 "with the same name."
-msgstr ""
+msgstr "Se una o più etichette con lo stesso nome esistono già nel database, ti sarà chiesto di {doc_comment|aggiungere un commento di disambiguazione a questa etichetta}, che permetterà agli utenti di distinguere questa voce dalle altre con lo stesso nome."
 
 #: ../root/main/500.tt:55
 #, perl-format
@@ -3818,7 +3818,7 @@ msgstr "Se questo è un ASIN di Amazon, non inserirlo nel campo del numero di ca
 msgid ""
 "If we do not have a recording for this track in the database yet, please "
 "select \"Add a new recording\" below."
-msgstr ""
+msgstr "Se non abbiamo ancora nel database una registrazione per questa traccia, seleziona \"Aggiungi una nuova registrazione\"."
 
 #: ../root/artist/delete_alias.tt:11 ../root/label/delete_alias.tt:10
 #: ../root/work/delete_alias.tt:10
@@ -7909,7 +7909,7 @@ msgid ""
 "The majority of the data in the <strong>MusicBrainz Database</strong> is "
 "released into the <strong>Public Domain</strong> and can be downloaded and "
 "used <strong>for free</strong>."
-msgstr ""
+msgstr "La maggioranza dei dati presenti nel <strong>database di MusicBrainz</strong> è rilasciata nel <strong>pubblico dominio</strong> e può essere scaricata e utilizzata <strong>gratis</strong>."
 
 #: ../root/main/403.tt:5
 #, perl-format
@@ -7928,7 +7928,7 @@ msgstr "Lo scopo di questo campo è aggiungere informazioni che solitamente non 
 #: ../root/edit/cannot_approve.tt:12
 #, perl-format
 msgid "The reason for this was unknown."
-msgstr ""
+msgstr "Errore con causa sconosciuta."
 
 #: ../root/release/merge.tt:88
 #, perl-format
@@ -8362,7 +8362,7 @@ msgid ""
 "This merge strategy will merge all mediums together into a single set of "
 "mediums. Recordings between mediums will also be merged, into the recordings"
 " used on the target mediums."
-msgstr ""
+msgstr "Questa strategia di unione unirà tutti i supporti, formando un singolo set di supporti. Anche le registrazioni saranno unite con quelle utilizzate nei supporti di destinazione."
 
 #: ../root/doc/page.tt:22
 #, perl-format
@@ -9548,7 +9548,7 @@ msgid ""
 "We've sent you instructions on how to reset your password. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr ""
+msgstr "Ti abbiamo inviato le istruzioni per reimpostare la tua password. Se non ricevi l'email o hai ancora problemi ad effettuare l'accesso, {link|contattaci}."
 
 #: ../root/account/edit.tt:17 ../root/admin/edit_user.tt:32
 #, perl-format
@@ -9761,21 +9761,21 @@ msgstr "Stai per aggiungere un artista a MusicBrainz."
 msgid ""
 "You are about to enter an edit that will change the durations of tracks to "
 "match that of the below disc ID."
-msgstr ""
+msgstr "Stai per inserire una modifica che cambierà la durata delle tracce per corrispondere a quelle dell'ID disco qui sotto."
 
 #: ../root/artist/merge.tt:4
 #, perl-format
 msgid ""
 "You are about to merge the following artists into a single artist. Please "
 "select the artist which you would like other artists to be merged into:"
-msgstr ""
+msgstr "Stai per unire i seguenti artisti in un artista unico. Seleziona l'artista in cui vuoi che vengano uniti gli altri:"
 
 #: ../root/label/merge.tt:4
 #, perl-format
 msgid ""
 "You are about to merge the following labels into a single label. Please "
 "select the label which you would like other labels to be merged into:"
-msgstr ""
+msgstr "Stai per unire le seguenti etichette in un'etichetta unica. Seleziona l'etichetta in cui vuoi che vengano unite le altre:"
 
 #: ../root/recording/merge.tt:4
 #, perl-format
@@ -9783,7 +9783,7 @@ msgid ""
 "You are about to merge the following recordings into a single recording. "
 "Please select the recording which you would like other recordings to be "
 "merged into:"
-msgstr ""
+msgstr "Stai per unire le seguenti registrazioni in una registrazione unica. Seleziona la registrazione in cui vuoi che vengano unite le altre:"
 
 #: ../root/release_group/merge.tt:4
 #, perl-format
@@ -9791,7 +9791,7 @@ msgid ""
 "You are about to merge the following release groups into a single release "
 "group. Please select the release group which you would like other release "
 "groups to be merged into:"
-msgstr ""
+msgstr "Stai per unire i seguenti gruppi di pubblicazioni in un gruppo unico. Seleziona il gruppo di pubblicazioni in cui vuoi che vengano uniti gli altri:"
 
 #: ../root/release/merge.tt:18
 #, perl-format
@@ -9799,14 +9799,14 @@ msgid ""
 "You are about to merge the following releases into a single release. Please "
 "select the release which you would like the other releases to be merged "
 "into:"
-msgstr ""
+msgstr "Stai per unire le seguenti pubblicazioni in una pubblicazione unica. Seleziona la pubblicazione in cui vuoi che vengano unite le altre:"
 
 #: ../root/work/merge.tt:4
 #, perl-format
 msgid ""
 "You are about to merge the following works into a single work. Please select"
 " the work that you would like the other works merged into:"
-msgstr ""
+msgstr "Stai per unire le seguenti opere in un'opera unica. Seleziona l'opera in cui vuoi che vengano unite le altre:"
 
 #: ../root/label/edit_form.tt:16
 #, perl-format
@@ -9868,7 +9868,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this artist from the other artists with the same name, if the "
 "final artist name is similar to an existing artist."
-msgstr ""
+msgstr "Se il nome dell'artista è simile a quello di un artista esistente, è necessario che tu inserisca un commento di disambiguazione che permetta agli utenti di distinguere questo artista da altri con lo stesso nome."
 
 #: ../root/label/edit_form.tt:25
 #, perl-format
@@ -9876,7 +9876,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this label from the other labels with the same name, if the "
 "final label name is similar to an existing label."
-msgstr ""
+msgstr "Se il nome dell'etichetta è simile a quello di un'etichetta esistente, è necessario che tu inserisca un commento di disambiguazione che permetta agli utenti di distinguere questa etichetta da altre con lo stesso nome."
 
 #: ../root/cdtoc/attach_artist_releases.tt:24
 #, perl-format
@@ -9899,7 +9899,7 @@ msgstr "Puoi inserire i dati del CD come compaiono sul CD stesso e non preoccupa
 msgid ""
 "You cannot add a CD stub while logged in to MusicBrainz. Please {add_rel|add"
 " a new release instead}."
-msgstr ""
+msgstr "Non puoi aggiungere una bozza CD se hai effettuato l'accesso a MusicBrainz. {add_rel|Aggiungi una nuova pubblicazione}!"
 
 #: ../root/relationship/linkattributetype/in_use.tt:3
 #, perl-format
@@ -9923,7 +9923,7 @@ msgstr "Non puoi votare per questo candidato poiché lo hai proposto o sostenuto
 #: ../root/layout/merge-helper.tt:4
 #, perl-format
 msgid "You currently have the following entities selected for merging:"
-msgstr ""
+msgstr "Hai selezionato le seguenti entità per unirle:"
 
 #: ../root/release/sidebar.tt:139
 #, perl-format
@@ -9987,7 +9987,7 @@ msgid ""
 "erroneously, since a release can have multiple valid disc IDs, and each disc"
 " ID can belong to more than one release. For more in-depth information about"
 " this topic, please see our {doc|CD submission guide}."
-msgstr ""
+msgstr "Devi essere sicuro che questo ID disco è stato associato per sbaglio a questa pubblicazione! Ricorda che una pubblicazione può avere più ID disco validi e ogni ID disco può appartenere a più di una pubblicazione. Per informazioni più dettagliate sul tema, consulta la nostra {doc|guida all'invio di ID disco}."
 
 #: ../root/user/login.tt:7
 #, perl-format
