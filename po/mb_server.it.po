@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-16 15:58+0000\n"
+"PO-Revision-Date: 2012-06-16 16:51+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -647,7 +647,7 @@ msgstr "Aggiungi un'altra traccia"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtistAlias.pm:7
 #, perl-format
 msgid "Add artist alias"
-msgstr "Aggiungi alias all'artista"
+msgstr "È necessario che i supporti di tutte le pubblicazioni abbiano lo stesso numero di tracce."
 
 #: ../root/relationship/linkattributetype/common.tt:24
 #, perl-format
@@ -2366,7 +2366,7 @@ msgstr "Create"
 msgid ""
 "Currently it does this by looking for releases where every track contains "
 "\"/\" or \"-\"."
-msgstr "Al momento cerca pubblicazioni in cui ogni traccia contiene \"/\" o \"-\"."
+msgstr "Attualmente riporta le pubblicazioni in cui ogni traccia contiene \"/\" o \"-\"."
 
 #: ../root/layout/menu.tt:86
 #, perl-format
@@ -3710,7 +3710,7 @@ msgstr "ISRC"
 #: ../root/isrc/not_found.tt:1 ../root/isrc/not_found.tt:2
 #, perl-format
 msgid "ISRC Not Currently Used"
-msgstr "ISRC non in uso al momento"
+msgstr "ISRC attualmente non in uso"
 
 #: ../root/edit/details/add_isrcs.tt:8
 #, perl-format
@@ -3833,7 +3833,7 @@ msgstr "Se hai aggiunto questo alias per sbaglio, segui le istruzioni su come {c
 #: ../root/cdtoc/attach_artist_releases.tt:63
 #, perl-format
 msgid "If you can't find what you're looking for, you can add a new release:"
-msgstr "Se non riesci a trovare quello che stai cercando, puoi aggiungere una nuova pubblicazione:"
+msgstr "Se non riesci a trovare quello che stavi cercando, puoi aggiungere una nuova pubblicazione:"
 
 #: ../root/account/edit.tt:7
 #, perl-format
@@ -3860,14 +3860,14 @@ msgid ""
 "If you don't see the artist you are looking for, you can still add a new "
 "release. This will allow you to create this artist and a release at the same"
 " time"
-msgstr "Se non trovi l'artista che stai cercando, puoi comunque aggiungere una nuova pubblicazione. Questo ti permetterà di creare l'artista e la pubblicazione contemporaneamente."
+msgstr "Se non trovi l'artista che stavi cercando, puoi comunque aggiungere una nuova pubblicazione. Questo ti permetterà di creare l'artista e la pubblicazione contemporaneamente."
 
 #: ../root/cdtoc/attach_filter_release.tt:73
 #, perl-format
 msgid ""
 "If you don't see the release you are looking for, you can still add a new "
 "one, using this CD TOC:"
-msgstr "Se non vedi la pubblicazione che stai cercando, puoi aggiungerne una nuova utilizzando questo CD TOC:"
+msgstr "Se non vedi la pubblicazione che stavi cercando, puoi aggiungerne una nuova utilizzando questo CD TOC:"
 
 #: ../root/taglookup/nag.tt:16
 #, perl-format
@@ -5219,7 +5219,7 @@ msgstr "Nota:"
 msgid ""
 "Note: this currently only searches edits that add or edit relationships, "
 "created after 2011-05-16"
-msgstr "Nota: al momento questo cerca solo modifiche che aggiungono o modificano relazioni che siano state create dopo il 16/05/2011"
+msgstr "Nota: attualmente questo cerca solo le modifiche che aggiungono o modificano relazioni create dopo il 16/05/2011"
 
 #: ../root/account/preferences.tt:44
 #, perl-format
@@ -5605,7 +5605,7 @@ msgid ""
 "Please note that capitalization of the label name is taken into account when"
 " determining the need for a comment.  The two labels <em>some name</em> and "
 "<em>Some Name</em> are not the same."
-msgstr ""
+msgstr "Nota che l'uso delle maiuscole è tenuto in considerazione per determinare la necessità di un commento di disambiguazione. Le due etichette <em>nome etichetta</em> e <em>Nome Etichetta</em> non sono considerate uguali."
 
 #: ../root/search/form.tt:49
 #, perl-format
@@ -7849,7 +7849,7 @@ msgstr "Il campo disambiguazione serve ad aiutare gli utenti a distinguere tra p
 msgid ""
 "The data in this edit originally came from an older version of this edit, "
 "and may not display correctly"
-msgstr ""
+msgstr "I dati presenti in questa modifica provengono originariamente da una versione più vecchia di questa modifica e potrebbero non essere visualizzati correttamente"
 
 #: ../root/layout.tt:136
 #, perl-format
@@ -7990,7 +7990,7 @@ msgstr "Gli utenti rendono possibile l'esistenza di MusicBrainz: apprezziamo il 
 #: ../root/watch/list.tt:4
 #, perl-format
 msgid "The watch artist feature is currently not active."
-msgstr "La funzione \"Segui artista\" non è attiva al momento."
+msgstr "La funzione \"Segui artista\" non è attualmente attiva."
 
 #: ../root/edit/edit_header.tt:25
 #, perl-format
@@ -8003,7 +8003,7 @@ msgid ""
 "There are currently no discs in MusicBrainz associated with the information "
 "you provided. You can search for the disc you are looking for using the "
 "forms below, or you may add a new release to MusicBrainz"
-msgstr ""
+msgstr "Al momento non c'è nessun disco su MusicBrainz associato alle informazioni che hai fornito. Puoi cercare il disco utilizzando il modulo qui sotto, oppure puoi aggiungere una nuova pubblicazione su MusicBrainz."
 
 #: ../root/user/subscribers.tt:23
 #, perl-format
@@ -8684,7 +8684,7 @@ msgstr "Questo report mostra le pubblicazioni con status di pseudo-pubblicazione
 msgid ""
 "This requires that mediums over each release have corresponding track "
 "counts."
-msgstr ""
+msgstr "È necessario che i supporti di tutte le pubblicazioni abbiano lo stesso numero di tracce."
 
 #: ../root/user/profile.tt:162
 #, perl-format
@@ -9212,17 +9212,17 @@ msgstr "Utilizza i seguenti campi per inserire collaborazioni; vai alla document
 #: ../root/release/edit/tracklist.tt:233
 #, perl-format
 msgid "Use the following fields to search for a CD stub."
-msgstr "Usa i seguenti campi per cercare una bozza CD."
+msgstr "Utilizza i seguenti campi per cercare una bozza CD."
 
 #: ../root/release/edit/tracklist.tt:240
 #, perl-format
 msgid "Use the following fields to search for a FreeDB entry."
-msgstr "Utilizza i campi seguenti per cercare una voce di FreeDB."
+msgstr "Utilizza i seguenti campi per cercare una voce di FreeDB."
 
 #: ../root/release/edit/tracklist.tt:205
 #, perl-format
 msgid "Use the following fields to search for an existing tracklist."
-msgstr "Usa i seguenti campi per cercare un elenco di tracce esistente."
+msgstr "Utilizza i seguenti campi per cercare un elenco di tracce esistente."
 
 #: ../root/admin/wikidoc/index.tt:78
 #, perl-format
@@ -9263,7 +9263,7 @@ msgid ""
 "may specify the new order of mediums. The order does not have to be "
 "continuous, but all medium positions must be positive, and multiple mediums "
 "cannot be in the same position"
-msgstr ""
+msgstr "Con questa strategia di unione, tutti i supporti di tutte le pubblicazioni saranno conservati e potrai specificare il loro nuovo ordine. L'ordine può non essere continuo, ma tutte le posizioni devono essere numeri positivi e non è possibile che più supporti abbiano la stessa posizione"
 
 #: ../root/search/form.tt:54
 #, perl-format
@@ -9471,7 +9471,7 @@ msgid ""
 "We found discs matching the information you requested, listed below. If none"
 " of these are the release you are looking for, please see the instructions "
 "below."
-msgstr ""
+msgstr "Sono stati trovati i seguenti dischi corrispondenti alla tua ricerca. Se nessuna di queste è la pubblicazione che stavi cercando, segui le istruzioni riportate qui sotto."
 
 #: ../root/cdtoc/lookup.tt:6
 #, perl-format
@@ -9479,7 +9479,7 @@ msgid ""
 "We found discs matching the information you requested, listed below. If none"
 " of these are the release you are looking for, you may search using the form"
 " below in order to attach this disc to another MusicBrainz release."
-msgstr ""
+msgstr "Sono stati trovati i seguenti dischi corrispondenti alla tua ricerca. Se nessuna di queste è la pubblicazione che stavi cercando, puoi effettuare una nuova ricerca utilizzando il modulo qui sotto per associare questo disco ad un'altra pubblicazione di MusicBrainz."
 
 #: ../root/release/edit/missing_entities.tt:44
 #, perl-format
@@ -9540,7 +9540,7 @@ msgid ""
 "We've sent you information about your MusicBrainz account. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr ""
+msgstr "Ti abbiamo inviato le informazioni sul tuo account di MusicBrainz. Se non ricevi l'email o continui ad avere problemi ad effettuare l'accesso, {link|contattaci}."
 
 #: ../root/account/lost_password_sent.tt:5
 #, perl-format
@@ -9548,7 +9548,7 @@ msgid ""
 "We've sent you instructions on how to reset your password. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr "Ti abbiamo inviato le istruzioni per reimpostare la tua password. Se non ricevi l'email o hai ancora problemi ad effettuare l'accesso, {link|contattaci}."
+msgstr "Ti abbiamo inviato le istruzioni per reimpostare la tua password. Se non ricevi l'email o continui ad avere problemi ad effettuare l'accesso, {link|contattaci}."
 
 #: ../root/account/edit.tt:17 ../root/admin/edit_user.tt:32
 #, perl-format
@@ -9576,21 +9576,21 @@ msgid ""
 "When you are ready to merge these, just click the Merge button. You may "
 "still add more to this merge queue by simply browsing to the entities page "
 "and following the merge link."
-msgstr ""
+msgstr "Quando sei pronto ad unire queste entità, clicca il bottone \"Unisci\". Puoi ancora aggiungere altre entità a questa coda di unione semplicemente andando sulla loro pagina e cliccando su \"Unisci\"."
 
 #: ../root/release/merge_search.tt:7
 #, perl-format
 msgid ""
 "When you have found the release that you would like to merge {recording} "
 "into, please select that entity and click <em>merge</em>."
-msgstr ""
+msgstr "Quando hai trovato la pubblicazione con cui vuoi unire {recording}, seleziona quell'entità e clicca su <em>Unisci</em>."
 
 #: ../root/release/move_search.tt:5
 #, perl-format
 msgid ""
 "When you're ready, search for the release group to which you want to move "
 "the selected release below."
-msgstr ""
+msgstr "Quando sei pronto, cerca qui sotto il gruppo di pubblicazioni in cui vuoi spostare la pubblicazione selezionata."
 
 #: ../root/layout.tt:162
 #, perl-format
