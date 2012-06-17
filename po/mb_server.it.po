@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-17 15:12+0000\n"
+"PO-Revision-Date: 2012-06-17 15:20+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -92,7 +92,7 @@ msgstr "&#10005;"
 #: ../root/relationship/linktype/tree.tt:38
 #, perl-format
 msgid "&lt; Back to all relationship types"
-msgstr "&lt; Torna a tutti i tipi di relazioni"
+msgstr "&lt; Torna a tutti i tipi di relazione"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:29
 #, perl-format
@@ -647,7 +647,7 @@ msgstr "Aggiungi un'altra traccia"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddArtistAlias.pm:7
 #, perl-format
 msgid "Add artist alias"
-msgstr "È necessario che i supporti di tutte le pubblicazioni abbiano lo stesso numero di tracce."
+msgstr "Aggiungi alias all'artista"
 
 #: ../root/relationship/linkattributetype/common.tt:24
 #, perl-format
@@ -2329,7 +2329,7 @@ msgstr "Crea un nuovo strumento"
 #: ../root/relationship/linkattributetype/index.tt:8
 #, perl-format
 msgid "Create a new relationship attribute"
-msgstr "Crea un nuovo attributo della relazione"
+msgstr "Crea un nuovo attributo di relazione"
 
 #: ../root/relationship/linktype/tree.tt:43
 #, perl-format
@@ -2820,12 +2820,12 @@ msgstr "Modifica relazione"
 #: ../root/relationship/linkattributetype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Attribute"
-msgstr "Modifica attributo della relazione"
+msgstr "Modifica attributo di relazione"
 
 #: ../root/admin/index.tt:7
 #, perl-format
 msgid "Edit Relationship Attributes"
-msgstr "Modifica attributi della relazione"
+msgstr "Modifica attributi di relazione"
 
 #: ../root/relationship/linktype/edit.tt:1
 #: ../root/relationship/linktype/edit.tt:3
@@ -2836,7 +2836,7 @@ msgstr "Modifica tipo di relazione"
 #: ../root/admin/index.tt:6 ../root/layout/menu.tt:55
 #, perl-format
 msgid "Edit Relationship Types"
-msgstr "Modifica tipi di relazioni"
+msgstr "Modifica tipi di relazione"
 
 #: ../root/release/edit_annotation.tt:1
 #, perl-format
@@ -3001,7 +3001,7 @@ msgstr "Modifiche"
 #: ../root/edit/info.tt:58 ../root/edit/list_header.tt:23
 #, perl-format
 msgid "Editing FAQ"
-msgstr "FAQ sul sistema di modifica"
+msgstr "Domande frequenti sulle modifiche"
 
 #: ../root/artist/layout.tt:114 ../root/label/layout.tt:86
 #: ../root/recording/layout.tt:59 ../root/release_group/layout.tt:60
@@ -3346,7 +3346,7 @@ msgstr "Tipi extra:"
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:36
 #, perl-format
 msgid "FAQs"
-msgstr "FAQ"
+msgstr "Domande frequenti"
 
 #: ../root/user/profile.tt:156
 #, perl-format
@@ -3375,7 +3375,7 @@ msgstr "Per imparare a scrivere richieste di ricerca avanzata efficaci, leggi la
 msgid ""
 "For information about the account deletion process, please read the "
 "{uri|account FAQ}."
-msgstr "Per maggiori informazioni sul processo di eliminazione degli account, leggi le {uri|FAQ sugli account}."
+msgstr "Per maggiori informazioni sul processo di eliminazione degli account, leggi le {uri|domande frequenti sugli account}."
 
 #: ../root/report/part_of_set_relationships.tt:7
 #: ../root/report/separate_discs.tt:7
@@ -3890,7 +3890,7 @@ msgstr "Se sei arrivato qui seguendo un link sul nostro sito, {report|segnala un
 msgid ""
 "If you have any questions, please review the {faq|FAQs} or "
 "{doc|documentation} before {con|contacting us}. "
-msgstr "Se hai delle domande, dai un'occhiata alle {faq|FAQ} e alla {doc|documentazione} prima di {con|contattarci}. "
+msgstr "Se hai delle domande, dai un'occhiata alle {faq|domande frequenti} e alla {doc|documentazione} prima di {con|contattarci}. "
 
 #: ../root/artist/add_alias.tt:6 ../root/artist/edit_alias.tt:6
 #, perl-format
@@ -4356,7 +4356,7 @@ msgstr "Effettua l'accesso per caricare copertine"
 #: ../root/main/404.tt:18
 #, perl-format
 msgid "Looking for help? Check out our {doc|documentation} or {faq|FAQ}."
-msgstr "Cerchi aiuto? Consulta la nostra {doc|documentazione} o le {faq|FAQ}."
+msgstr "Cerchi aiuto? Consulta la nostra {doc|documentazione} o le {faq|domande frequenti}."
 
 #: ../root/scripts/text_strings.tt:45
 #, perl-format
@@ -4892,7 +4892,7 @@ msgstr "Nuovo accreditamento dell'artista"
 #: ../root/relationship/linkattributetype/create.tt:3
 #, perl-format
 msgid "New Relationship Attribute"
-msgstr "Nuovo attributo della relazione"
+msgstr "Nuovo attributo di relazione"
 
 #: ../root/relationship/linktype/create.tt:1
 #: ../root/relationship/linktype/create.tt:3
@@ -5081,7 +5081,7 @@ msgstr "Nessuna registrazione trovata con questo tag."
 #: ../root/relationship/linkattributetype/index.tt:32
 #, perl-format
 msgid "No relationship attributes found."
-msgstr "Nessun attributo della relazione trovato."
+msgstr "Nessun attributo di relazione trovato."
 
 #: ../root/artist/index.tt:115
 #, perl-format
@@ -5807,7 +5807,7 @@ msgstr "Possibili supporti"
 #: ../root/relationship/linkattributetype/index.tt:18
 #, perl-format
 msgid "Possible values:"
-msgstr "Possibili valori:"
+msgstr "Valori possibili:"
 
 #: ../root/report/duplicate_artists.tt:1 ../root/report/duplicate_artists.tt:3
 #: ../root/report/index.tt:19
@@ -6114,7 +6114,7 @@ msgstr "Opere collegate"
 #: ../root/relationship/linkattributetype/not_found.tt:1
 #, perl-format
 msgid "Relationship Attributes"
-msgstr "Attributi della relazione"
+msgstr "Attributi delle relazioni"
 
 #: ../root/edit/relationship/create_batch.tt:30
 #: ../root/edit/relationship/create.tt:33
@@ -6139,17 +6139,17 @@ msgstr "Tipo di relazione in uso"
 #: ../root/relationship/linktype/index.tt:1
 #, perl-format
 msgid "Relationship Types"
-msgstr "Tipi di relazioni"
+msgstr "Tipi di relazione"
 
 #: ../root/relationship/linkattributetype/in_use.tt:1
 #, perl-format
 msgid "Relationship attribute in use"
-msgstr "Attributi della relazione in uso"
+msgstr "Attributo di relazione in uso"
 
 #: ../root/relationship/linkattributetype/in_use.tt:2
 #, perl-format
 msgid "Relationship attribute still in use"
-msgstr "Attributi della relazione ancora in uso"
+msgstr "Attributo di relazione ancora in uso"
 
 #: ../root/admin/edit_user.tt:8
 #, perl-format
@@ -6662,7 +6662,7 @@ msgstr "Rimuovi relazione"
 #: ../root/relationship/linkattributetype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Attribute"
-msgstr "Rimuovi attributo della relazione"
+msgstr "Rimuovi attributo di relazione"
 
 #: ../root/relationship/linktype/delete.tt:1
 #: ../root/relationship/linktype/delete.tt:3
@@ -9395,7 +9395,7 @@ msgstr "Votazione"
 #: ../root/edit/info.tt:57 ../root/edit/list_header.tt:21
 #, perl-format
 msgid "Voting FAQ"
-msgstr "FAQ sul sistema di voto"
+msgstr "Domande frequenti sui voti"
 
 #: ../root/elections/show.tt:85
 #, perl-format
@@ -10396,7 +10396,7 @@ msgstr "opere"
 #, perl-format
 msgid ""
 "{about|More Information} &mdash; {faq|FAQs} &mdash; {contact|Contact Us}"
-msgstr "{about|Informazioni aggiuntive} &mdash; {faq|FAQ} &mdash; {contact|Contattaci}"
+msgstr "{about|Informazioni aggiuntive} &mdash; {faq|Domande frequenti} &mdash; {contact|Contattaci}"
 
 #: ../root/artist/works-list.tt:36 ../root/iswc/index.tt:36
 #: ../root/otherlookup/results-work.tt:20 ../root/search/results-work.tt:26
