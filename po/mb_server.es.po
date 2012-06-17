@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-17 11:21+0000\n"
+"PO-Revision-Date: 2012-06-17 12:18+0000\n"
 "Last-Translator: Héctor Arroyo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -1264,13 +1264,13 @@ msgstr "País del artista"
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
 msgid "Artist Credit:"
-msgstr ""
+msgstr "Crédito de artista:"
 
 #: ../root/artist/aliases.tt:8 ../root/artist/edit_form.tt:59
 #: ../root/edit/details/add_medium.tt:43
 #, perl-format
 msgid "Artist Credits"
-msgstr ""
+msgstr "Créditos de artista"
 
 #: ../root/artist/edit_form.tt:37
 #, perl-format
@@ -1310,7 +1310,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:220
 #, perl-format
 msgid "Artist credits:"
-msgstr ""
+msgstr "Créditos de artista:"
 
 #: ../root/components/forms.tt:249 ../root/release/edit/tracklist.tt:44
 #, perl-format
@@ -4099,7 +4099,7 @@ msgstr "Conector"
 #: ../root/relationship/linkattributetype/instruments.tt:12
 #, perl-format
 msgid "Jump to:"
-msgstr ""
+msgstr "Saltar a:"
 
 #: ../root/user/login.tt:31
 #, perl-format
@@ -5320,7 +5320,7 @@ msgstr "Sólo los {doc|autoeditores} pueden aprobar una edición."
 msgid ""
 "Oops! It seems your search parameters are not correct, please double check "
 "your input!"
-msgstr ""
+msgstr "Ups! Parece que tus parámetros de búsqueda son incorrectos, por favor revisa lo que has escrito."
 
 #: ../root/main/500.tt:5
 #, perl-format
@@ -5926,7 +5926,7 @@ msgstr "Colección pública de {owner}"
 #: ../root/components/search.tt:9 ../root/search/form.tt:4
 #, perl-format
 msgid "Query:"
-msgstr ""
+msgstr "Consulta:"
 
 #: ../root/main/index.tt:30
 #, perl-format
@@ -10808,7 +10808,7 @@ msgstr "'{id}' no es una ID de elección válida"
 
 #: ../lib/MusicBrainz/Server/Controller/CDStub.pm:59
 msgid "The required TOC parameter was invalid or not present"
-msgstr ""
+msgstr "El parámetro requerido TOC faltaba o no era válido"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:133
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:293
