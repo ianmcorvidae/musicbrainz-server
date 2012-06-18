@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-18 10:59+0000\n"
+"PO-Revision-Date: 2012-06-18 11:32+0000\n"
 "Last-Translator: Héctor Arroyo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -50,7 +50,7 @@ msgstr "\"CC\" es el código de país de dos caracteres que corresponde al regis
 #: ../root/work/add_iswc.tt:7
 #, perl-format
 msgid "\"DDD\" is a nine digit work identifier."
-msgstr ""
+msgstr "\"DDD\" es un identificador de trabajo de nueve dígitos."
 
 #: ../root/recording/add_isrc.tt:12
 #, perl-format
@@ -881,7 +881,7 @@ msgstr "Todas mis ediciones"
 #: ../root/release/cover_art.tt:34
 #, perl-format
 msgid "All artwork is provided by the {caa|Cover Art Archive}."
-msgstr ""
+msgstr "Todas las carátulas son proporcionadas por el {caa|Cover Art Archive}."
 
 #: ../root/account/preferences.tt:32
 #, perl-format
@@ -1305,7 +1305,7 @@ msgstr ""
 #: ../root/components/filter-form.tt:11
 #, perl-format
 msgid "Artist credit:"
-msgstr ""
+msgstr "Crédito de artista:"
 
 #: ../root/edit/details/edit_medium.tt:220
 #, perl-format
@@ -2524,7 +2524,7 @@ msgstr "Desarrollo"
 #: ../root/layout.tt:81
 #, perl-format
 msgid "Development branch: {branch}"
-msgstr ""
+msgstr "Rama de desarrollo: {branch}"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #, perl-format
@@ -3308,7 +3308,7 @@ msgstr "Expandir disco"
 #: ../root/relationship/linktype/tree.tt:48
 #, perl-format
 msgid "Expand all descriptions"
-msgstr ""
+msgstr "Expandir todas las descripciones:"
 
 #: ../root/doc/edit_type.tt:55
 #, perl-format
@@ -3593,7 +3593,7 @@ msgstr "Descargar Google Chrome Frame"
 #: ../root/admin/wikidoc/index.tt:76
 #, perl-format
 msgid "Get wiki versions"
-msgstr ""
+msgstr "Obtener versiones de la wiki"
 
 #: ../root/main/frame.tt:3
 #, perl-format
@@ -6807,7 +6807,7 @@ msgstr "Informes"
 #: ../root/main/500.tt:27
 #, perl-format
 msgid "Request data:"
-msgstr ""
+msgstr "Datos de solicitud:"
 
 #: ../root/edit/info.tt:48
 #, perl-format
@@ -7493,7 +7493,7 @@ msgstr "Patrocinadores"
 #: ../root/main/500.tt:19
 #, perl-format
 msgid "Stack trace:"
-msgstr ""
+msgstr "Traza de pila (stack trace):"
 
 #: ../root/cdtoc/info.tt:32
 #, perl-format
@@ -8104,18 +8104,18 @@ msgstr "No hay ningún usuario con este nombre."
 #: ../root/edit/cannot_approve.tt:3
 #, perl-format
 msgid "There was a problem approving {edit}."
-msgstr ""
+msgstr "Ha habido un problema al aprobar el {edit}."
 
 #: ../root/edit/cannot_cancel.tt:3
 #, perl-format
 msgid "There was a problem cancelling {edit}."
-msgstr ""
+msgstr "Ha habido un problema al cancelar el {edit}."
 
 #: ../root/release/edit/layout.tt:37
 #, perl-format
 msgid ""
 "There were one or more errors, please check the following fields: {fields}"
-msgstr ""
+msgstr "Se han producido uno o varios errores, por favor, revisa los siguientes campos: {fields}"
 
 #: ../root/cdstub/edit.tt:58
 #, perl-format
@@ -8163,7 +8163,7 @@ msgid ""
 "This artist has relationships other than collaboration relationships, and "
 "cannot be split until these are removed. {relationships|View all "
 "relationships}."
-msgstr ""
+msgstr "Este artista tiene otras relaciones además de relaciones de colaboración, y no puede separarse hasta que sean eliminadas. {relationships|Ver todas las relacciones}."
 
 #: ../root/artist/works.tt:11
 #, perl-format
@@ -8698,7 +8698,7 @@ msgstr "Esta tabla muestra un resumen de los votos de este editor."
 #: ../root/release/merge_search.tt:4
 #, perl-format
 msgid "This wizard allows you to merge {release} into another release."
-msgstr ""
+msgstr "Este asistente te permite fusionar {release} con otro lanzamiento."
 
 #: ../root/work/index.tt:4
 #, perl-format
@@ -9166,7 +9166,7 @@ msgstr "Actualizar etiquetas"
 #: ../root/artist/merge.tt:19
 #, perl-format
 msgid "Update artist credits to use the new artist's name"
-msgstr ""
+msgstr "Actualizar créditos de artista para que usen el nuevo nombre"
 
 #: ../root/collection/edit_form.tt:13
 #, perl-format
@@ -9717,7 +9717,7 @@ msgstr "Sí"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "Yes vote count"
-msgstr ""
+msgstr "Nº votos Sí"
 
 #: ../root/elections/nominate.tt:11
 #, perl-format
@@ -9939,12 +9939,12 @@ msgstr "¡No tienes colecciones!"
 msgid ""
 "You have used the {valink|Various Artists} special purpose artist on this "
 "recording."
-msgstr ""
+msgstr "Has usado el artista de propósito especial {valink|Various Artists} en esta grabación."
 
 #: ../root/release/edit/tracklist.tt:132
 #, perl-format
 msgid "You have used the {valink|Various Artists} special purpose artist on:"
-msgstr ""
+msgstr "Has usado el artista de propósito especial {valink|Various Artists} en:"
 
 #: ../root/edit/cancel.tt:14
 #, perl-format
@@ -9956,7 +9956,7 @@ msgstr "Puedes añadir una nota al cancelar la edición: puede ser útil para pe
 #: ../root/artist/special_purpose.tt:2
 #, perl-format
 msgid "You may not edit special purpose artists"
-msgstr ""
+msgstr "No está permitido editar los artistas de propósito especial."
 
 #: ../root/account/registered.tt:21
 #, perl-format
@@ -11604,7 +11604,7 @@ msgstr "Un mes"
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:155
 msgid "Frequently used"
-msgstr ""
+msgstr "Usados frecuentemente"
 
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:155
