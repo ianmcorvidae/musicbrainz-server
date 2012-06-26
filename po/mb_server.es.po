@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-26 19:56+0000\n"
+"PO-Revision-Date: 2012-06-26 20:38+0000\n"
 "Last-Translator: Héctor Arroyo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.com/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -821,7 +821,7 @@ msgstr "Administración"
 #: ../root/admin/edit_user.tt:15
 #, perl-format
 msgid "Administration flags"
-msgstr ""
+msgstr "Flags de administración"
 
 #: ../root/layout/sidebar/sidebar-affiliates.tt:7
 #, perl-format
@@ -1295,12 +1295,12 @@ msgstr "Suscripciones al artista"
 #: ../root/components/forms.tt:265
 #, perl-format
 msgid "Artist as credited"
-msgstr ""
+msgstr "Artist tal como se le acredita"
 
 #: ../root/release/edit/tracklist.tt:45
 #, perl-format
 msgid "Artist as credited on this track"
-msgstr ""
+msgstr "Artist tal como se le acredita en esta pista"
 
 #: ../root/components/filter-form.tt:11
 #, perl-format
@@ -2146,12 +2146,12 @@ msgstr "Colaborador"
 #: ../root/release/edit/tracklist.tt:364
 #, perl-format
 msgid "Collapse Disc"
-msgstr ""
+msgstr "Contraer disco"
 
 #: ../root/relationship/linktype/tree.tt:49
 #, perl-format
 msgid "Collapse all descriptions"
-msgstr ""
+msgstr "Contraer todas las descripciones"
 
 #: ../root/user/collections.tt:9
 #, perl-format
@@ -2296,7 +2296,7 @@ msgstr "Imágenes"
 msgid ""
 "Cover Art provided by the {caa|Cover Art Archive}. Hosted by {host|Digital "
 "West}. Sponsored by: {url1|Google}, {url2|OSUOSL} and {more|others...}. "
-msgstr ""
+msgstr "Imágenes de carátulas proporcionadas por el {caa|Cover Art Archive}. Alojamiento proporcionado por {host|Digital West}. Patrocinados por: {url1|Google}, {url2|OSUOSL} y {more|otros...}."
 
 #: ../root/edit/details/macros.tt:86
 #, perl-format
@@ -3430,7 +3430,7 @@ msgstr "Foros"
 #: ../root/relationship/linktype/tree.tt:12
 #, perl-format
 msgid "Forward link phrase:"
-msgstr ""
+msgstr "Frase de enlace directa:"
 
 #: ../root/doc/bare_error.tt:17 ../root/doc/error.tt:23
 #, perl-format
@@ -3608,12 +3608,12 @@ msgid ""
 "MusicBrainz uses a lot of modern technology that Internet Explorer does not "
 "yet support, so we highly recommend the use of this plugin to ensure you get"
 " the most out of the website."
-msgstr ""
+msgstr "Google Chrome Frame es un plug-in que permite acceder a las tecnologías web abiertas y al rápido motor JavaScript de Google Chrome desde Internet Explorer. MusicBrainz usa gran cantidad de tecnologías abiertas que Internet Explorer no soporta todavía, y te recomendamos el uso de este plugin para asegurarte de sacar el máximo provecho del sitio."
 
 #: ../root/release/edit/missing_entities.tt:20
 #, perl-format
 msgid "Guess Sort Name"
-msgstr ""
+msgstr "Adivinar nombre de ordenación"
 
 #: ../root/components/forms.tt:165 ../root/components/forms.tt:167
 #: ../root/components/forms.tt:188 ../root/release/edit/tracklist.tt:465
@@ -3660,7 +3660,7 @@ msgstr "Página de inicio:"
 #: ../root/edit/list_header.tt:27
 #, perl-format
 msgid "How editing works"
-msgstr ""
+msgstr "Cómo funciona la edición"
 
 #: ../root/taglookup/nag.tt:7
 #, perl-format
@@ -4030,7 +4030,7 @@ msgstr "Búsqueda indexada con {doc|sintaxis avanzada}"
 #: ../root/release/edit/recordings.tt:394
 #, perl-format
 msgid "Infer track durations from associated recordings"
-msgstr ""
+msgstr "Inferir la duración de las pistas a partir de las grabaciones asociadas"
 
 #: ../root/admin/index.tt:8 ../root/layout/menu.tt:224
 #: ../root/relationship/header.tt:2
@@ -4302,12 +4302,12 @@ msgstr "Enlace"
 #: ../root/edit/details/edit_relationship_type.tt:12
 #, perl-format
 msgid "Link phrase:"
-msgstr ""
+msgstr "Frase de enlace:"
 
 #: ../root/layout/menu.tt:145
 #, perl-format
 msgid "Live Data Feed"
-msgstr ""
+msgstr "Feed de datos directo"
 
 #: ../root/components/aliases.tt:11
 #, perl-format
@@ -4620,7 +4620,7 @@ msgstr "Mensaje:"
 #: ../root/report/set_in_different_rg.tt:3
 #, perl-format
 msgid "Mismatched release groups"
-msgstr ""
+msgstr "Grupos de lanzamientos que no coinciden"
 
 #: ../root/cdstub/browse.tt:12
 #, perl-format
@@ -4890,7 +4890,7 @@ msgstr "Nuevo artista"
 #: ../root/artist/edit_credit.tt:32 ../root/artist/split.tt:46
 #, perl-format
 msgid "New Artist Credit"
-msgstr ""
+msgstr "Nuevo crédito de artista"
 
 #: ../root/relationship/linkattributetype/create.tt:1
 #: ../root/relationship/linkattributetype/create.tt:3
@@ -5168,7 +5168,7 @@ msgstr "ninguno"
 #: ../root/edit/search_macros.tt:280
 #, perl-format
 msgid "No vote count"
-msgstr ""
+msgstr "Sin recuento de votos"
 
 #: ../root/tag/work.tt:1
 #, perl-format
@@ -5476,12 +5476,12 @@ msgstr "Padre:"
 #: ../root/release/edit/tracklist.tt:161
 #, perl-format
 msgid "Parse Tracks"
-msgstr ""
+msgstr "Analizar pistas"
 
 #: ../root/release/edit/tracklist.tt:189
 #, perl-format
 msgid "Parse track artists"
-msgstr ""
+msgstr "Analizar artistas de las pistas"
 
 #: ../root/report/part_of_set_relationships.tt:1
 #: ../root/report/part_of_set_relationships.tt:3
@@ -5734,7 +5734,7 @@ msgstr "Selecciona al menos una grabación para crear una relación con {entity}
 msgid ""
 "Please select the artist credits that you want to rename to follow the new "
 "artist name."
-msgstr ""
+msgstr "Por favor, selecciona los créditos de artista que quieras renombrar para que coincidan con el nuevo nombre del artista."
 
 #: ../root/cdtoc/attach_artist_releases.tt:26
 #, perl-format
@@ -5754,7 +5754,7 @@ msgstr "Puedes usar el botón de \"Retocar títulos\" para arreglar errores habi
 #: ../root/components/forms.tt:219
 #, perl-format
 msgid "Please use the Sort Name button to guess the sort name."
-msgstr ""
+msgstr "Por favor, usa el botón de Nombre de Ordenación para adivinar el nombre de ordenación."
 
 #: ../root/main/503.tt:8
 #, perl-format
@@ -6233,7 +6233,7 @@ msgstr "Fecha de publicación"
 #: ../root/edit/details/historic/add_release.tt:70
 #, perl-format
 msgid "Release Events:"
-msgstr ""
+msgstr "Eventos de lanzamiento:"
 
 #: ../root/components/common-macros.tt:474 ../root/edit/search_macros.tt:280
 #: ../root/report/release_group_list.tt:6
@@ -6290,7 +6290,7 @@ msgstr "Publicación de {artist}"
 #: ../root/release/edit/information.tt:51
 #, perl-format
 msgid "Release event"
-msgstr ""
+msgstr "Evento de lanzamiento"
 
 #: ../root/report/release_group_url_list.tt:6
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
@@ -6453,7 +6453,7 @@ msgstr "Publicaciones en el archivo de imágenes que aún tienen relaciones de \
 #: ../root/report/released_too_early.tt:3
 #, perl-format
 msgid "Releases released too early"
-msgstr ""
+msgstr "Lanzamientos publicados demasiado pronto"
 
 #: ../root/artist/browse_various_releases.tt:5 ../root/browse/release.tt:8
 #, perl-format
@@ -6780,7 +6780,7 @@ msgstr "Eliminada"
 #: ../root/edit/details/merge_artists.tt:4
 #, perl-format
 msgid "Rename artist credits"
-msgstr ""
+msgstr "Renombrar créditos de artista"
 
 #: ../root/release/cover_art.tt:51 ../root/release/reorder_cover_art.tt:5
 #: ../root/release/reorder_cover_art.tt:6
@@ -6845,7 +6845,7 @@ msgstr "Mostrar mi dirección de correo"
 #: ../root/relationship/linktype/tree.tt:13
 #, perl-format
 msgid "Reverse link phrase:"
-msgstr ""
+msgstr "Frase de enlace inversa:"
 
 #: ../root/account/edit.tt:81 ../root/account/preferences.tt:57
 #: ../root/relationship/linkattributetype/form.tt:21
@@ -7190,7 +7190,7 @@ msgstr "Puede que algunos resultados de FreeDB no estén disponibles, ya que sol
 #: ../root/scripts/text_strings.tt:31
 #, perl-format
 msgid "Some artists credited with alternative names"
-msgstr ""
+msgstr "Algunos artistas acreditados con nombres alternativos"
 
 #: ../root/release/edit/recordings.tt:179
 #, perl-format
@@ -7913,7 +7913,7 @@ msgid ""
 "The majority of the data in the <strong>MusicBrainz Database</strong> is "
 "released into the <strong>Public Domain</strong> and can be downloaded and "
 "used <strong>for free</strong>."
-msgstr ""
+msgstr "La mayor parte de la información de la <strong>Base de datos de MusicBrainz</strong> está publicada bajo <strong>dominio público</strong> y puede descargarse y usarse <strong>gratuitamente</strong>."
 
 #: ../root/main/403.tt:5
 #, perl-format
@@ -7927,7 +7927,7 @@ msgid ""
 "into the strict structural data schema of MusicBrainz (be it due to "
 "technical limitations that may be addressed later, or because the "
 "information in itself has to be free-text)."
-msgstr ""
+msgstr "El propósito de este campo es añadir información que normalmente no encaja en el modelo de datos estructurado de MusicBrainz (debido a limitaciones técnicas que quizás sean arregladas más adelante, o porque la información en si misma tiene que ser un texto libre)."
 
 #: ../root/edit/cannot_approve.tt:12
 #, perl-format
@@ -8275,7 +8275,7 @@ msgid ""
 "This form allows you to edit the artist credit \"{ac}\". When the edit is "
 "accepted, all tracks, recordings, releases and release groups using this "
 "artist credit will be update to use the new one."
-msgstr ""
+msgstr "Este formulario te permite editar el crédito de artista \"{ac}\". Cuando la edición sea aceptada, todas las pistas, grabaciones, lanzamientos y grupos de lanzamientos que utilicen este crédito de artista serán actualizados para usar el nuevo."
 
 #: ../root/artist/split.tt:40
 #, perl-format
@@ -8283,7 +8283,7 @@ msgid ""
 "This form allows you to split {artist} into separate artists. When the edit "
 "is accepted, existing artist credits will be updated, and collaboration "
 "relationships will be removed"
-msgstr ""
+msgstr "Este formulario permite separar {artist} en varios artistas. Cuando la edición sea aceptada, los créditos de artista existentes serán actualizados, y las relaciones de colaboración serán eliminadas."
 
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
@@ -8880,7 +8880,7 @@ msgstr "Pista"
 #: ../root/release/edit/tracklist.tt:395
 #, perl-format
 msgid "Track Parser"
-msgstr ""
+msgstr "Analizador de pistas"
 
 #: ../root/release/edit/tracklist.tt:219
 #, perl-format
@@ -9141,7 +9141,7 @@ msgstr "Desuscribirse de este artista."
 #: ../root/admin/edit_user.tt:12
 #, perl-format
 msgid "Untrusted"
-msgstr ""
+msgstr "No confiable"
 
 #: ../root/search/form.tt:13
 #, perl-format
@@ -9211,7 +9211,7 @@ msgstr "Usar grabación sugerida"
 msgid ""
 "Use the following fields to enter collaborations, see the <a "
 "href=\"{url}\">Artist Credit</a> documentation for more information."
-msgstr ""
+msgstr "Usa los siguientes campos para introducir colaboraciones, para obtener más información puedes consultar la documentación de <a href=\"{url}\">los créditos de artista</a>."
 
 #: ../root/release/edit/tracklist.tt:233
 #, perl-format
@@ -9475,7 +9475,7 @@ msgid ""
 "We found discs matching the information you requested, listed below. If none"
 " of these are the release you are looking for, please see the instructions "
 "below."
-msgstr ""
+msgstr "Hemos encontrado los siguientes discos que coinciden con la información solicitada, y son listados abajo. Si ninguno de ellos es el lanzamiento que estás buscando, sigue las instrucciones mostradas abajo."
 
 #: ../root/cdtoc/lookup.tt:6
 #, perl-format
@@ -9483,7 +9483,7 @@ msgid ""
 "We found discs matching the information you requested, listed below. If none"
 " of these are the release you are looking for, you may search using the form"
 " below in order to attach this disc to another MusicBrainz release."
-msgstr ""
+msgstr "Hemos encontrado los siguientes discos que coinciden con la información solicitada, y son listados abajo. Si ninguno de ellos es el lanzamiento que estás buscando, puedes buscar usando el formulario de más abajo para añadir el disco a otro lanzamiento de MusicBrainz."
 
 #: ../root/release/edit/missing_entities.tt:44
 #, perl-format
@@ -9499,7 +9499,7 @@ msgid ""
 "We found the following labels with the same name already existing in "
 "MusicBrainz. If any of these are the label you intended to use, please "
 "select the label:"
-msgstr ""
+msgstr "Se han encontrado las siguientes discográficas ya introducidas con el mismo nombre en MusicBrainz. Si alguna de ellas es la que querías usar selecciónala:"
 
 #: ../root/search/editor.tt:5
 #, perl-format
@@ -9580,7 +9580,7 @@ msgid ""
 "When you are ready to merge these, just click the Merge button. You may "
 "still add more to this merge queue by simply browsing to the entities page "
 "and following the merge link."
-msgstr ""
+msgstr "Cuando estés listo para unir éstos elementos haz click en el botón de unir. Puedes añadir más elementos a la cola de unión accediendo a las páginas de las entidades y haciendo click en el enlace de unir."
 
 #: ../root/release/merge_search.tt:7
 #, perl-format
@@ -9896,7 +9896,7 @@ msgid ""
 "main MusicBrainz database until an editor decides to take your submitted "
 "information, ensures it meets our standards and inserts it into the main "
 "database."
-msgstr ""
+msgstr "Puedes introducir los datos del CD tal cual aparecen en el propio disco y no preocuparte de formar parte de MusicBrainz. Los CDs introducidos de esta forma serán accesibles para los programas clientes, pero no se incluirán en la base de datos principal de MusicBrainz hasta que un editor decida coger la información que has enviado, compruebe que cumple nuestros estándares y la añada a la base de datos principal."
 
 #: ../root/cdstub/logged_in.tt:3
 #, perl-format
@@ -11355,7 +11355,7 @@ msgstr "Filtrar grabaciones"
 
 #: ../lib/MusicBrainz/Server/Form/Alias.pm:82
 msgid "This alias can only be a primary alias if a locale is selected"
-msgstr "Este alias solo puede ser un alias primario si se ha seleccionado un idioma"
+msgstr "Este alias solo puede ser un alias primario si hay un locale (idioma y región) seleccionado"
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"
