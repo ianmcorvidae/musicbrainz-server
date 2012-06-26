@@ -15,9 +15,9 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-20 19:54+0000\n"
+"PO-Revision-Date: 2012-06-26 19:56+0000\n"
 "Last-Translator: Héctor Arroyo <email address hidden>\n"
-"Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
+"Language-Team: Spanish (Castilian) (http://www.transifex.com/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2764,7 +2764,7 @@ msgstr "Editar anotación de artista"
 #: ../root/artist/edit_credit.tt:15 ../root/artist/edit_credit.tt:20
 #, perl-format
 msgid "Edit Artist Credit"
-msgstr ""
+msgstr "Editar Crédito de Artista"
 
 #: ../root/collection/edit.tt:1
 #, perl-format
@@ -3245,7 +3245,7 @@ msgid ""
 "is highly recommended. Not only does it make it clear where you got your "
 "information, but it can also encourage other users to vote on your edit "
 "&mdash; thus making your edit get applied faster."
-msgstr ""
+msgstr "Es altamente aconsejable introducir un {note|comentario para la edición} que explique de dónde has obtenido la información. No solo deja claro el origen de los datos, sino que además anima a otros usuarios a votar, consiguiendo que tus cambios sean aplicados más rápidamente."
 
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
@@ -4223,7 +4223,7 @@ msgstr "Idiomas:"
 #: ../root/user/profile.tt:116
 #, perl-format
 msgid "Languages:"
-msgstr "Idiomas"
+msgstr "Idiomas:"
 
 #: ../root/user/profile.tt:174
 #, perl-format
@@ -4312,7 +4312,7 @@ msgstr ""
 #: ../root/components/aliases.tt:11
 #, perl-format
 msgid "Locale"
-msgstr ""
+msgstr "Idioma"
 
 #: ../root/alias/edit_form.tt:9 ../root/edit/details/add_artist_alias.tt:18
 #: ../root/edit/details/add_label_alias.tt:18
@@ -4325,7 +4325,7 @@ msgstr ""
 #: ../root/edit/details/remove_work_alias.tt:17
 #, perl-format
 msgid "Locale:"
-msgstr ""
+msgstr "Idioma:"
 
 #: ../root/layout/menu.tt:70 ../root/user/login.tt:1 ../root/user/login.tt:3
 #: ../root/user/login.tt:34
@@ -4434,7 +4434,7 @@ msgstr "¡Dona ahora!"
 #: ../root/release/edit/tracklist.tt:172
 #, perl-format
 msgid "Manual entry"
-msgstr ""
+msgstr "Introducir manualmente"
 
 #: ../root/release/lookup.tt:8
 #, perl-format
@@ -5865,7 +5865,7 @@ msgstr "Tipo primario"
 #: ../root/edit/details/remove_work_alias.tt:21
 #, perl-format
 msgid "Primary for locale:"
-msgstr ""
+msgstr "Primario para el idioma:"
 
 #: ../root/relationship/linktype/form.tt:24
 #, perl-format
@@ -7422,7 +7422,7 @@ msgid ""
 " to carry out a search. If you are attempting to find something that "
 "contains nothing but punctuation characters (e.g. !!!) then you need to use "
 "the {uri|browse page}, since this search ignores punctuation characters."
-msgstr ""
+msgstr "Lo sentimos, tu consulta (<code>{query}</code>) no contiene información suficiente para iniciar una búsqueda. Si estás intentando encontrar algo que solo contiene signos de puntuación (por ejemplo, !!!) tendrás que usar la {uri|página de navegación}, ya que las búsquedas ignoran los signos de puntuación."
 
 #: ../root/search/error/uri-too-large.tt:3
 #, perl-format
@@ -7750,7 +7750,7 @@ msgstr "Flags técnicos"
 #: ../root/edit/index.tt:70
 #, perl-format
 msgid "Testing features"
-msgstr ""
+msgstr "Características de prueba"
 
 #: ../root/edit/details/add_release_annotation.tt:13
 #, perl-format
@@ -7853,7 +7853,7 @@ msgstr "El comentario se utiliza para ayudar a los usuarios a diferenciar public
 msgid ""
 "The data in this edit originally came from an older version of this edit, "
 "and may not display correctly"
-msgstr ""
+msgstr "Los datos de esta edición provienen originalmente de una versión anterior y puede que no se muestren correctamente"
 
 #: ../root/layout.tt:136
 #, perl-format
@@ -7953,7 +7953,7 @@ msgstr "El tipo de relación \"{type}\" no puede ser borrado porque está en uso
 msgid ""
 "The search server could not fulfill your request due to an internal error. "
 "This is usually only temporary, so please retry your search again later."
-msgstr ""
+msgstr "El servidor de búsqueda no ha podido procesar tu solicitud debido a un error interno. Normalmente estos errores son temporales, por favor reintenta tu búsqueda más tarde."
 
 #: ../root/layout.tt:128
 #, perl-format
@@ -8239,7 +8239,7 @@ msgid ""
 "This edit type changes voting conditions dynamically based on the exact edit"
 " being made. Please see the official edit type documentation for more "
 "details."
-msgstr ""
+msgstr "Las condiciones de votación de este tipo de edición cambian dinámicamente dependiendo de los cambios exactos que realice. Por favor consulta la documentación oficial del tipo de edición para obtener más detalles."
 
 #: ../root/components/common-macros.tt:518
 #, perl-format
@@ -8319,12 +8319,12 @@ msgstr "Este es un servidor de desarrollo; todas las contraseñas han sido cambi
 msgid ""
 "This is an {history|old revision} of this annotation, as edited by {user} on"
 " {date}. {current|View current revision}."
-msgstr ""
+msgstr "Ésta es una {history|revisión antigua} de esta anotación, tal y como fue editada por {user} el {date}. {current|Ver la revisión actual}."
 
 #: ../root/alias/edit_form.tt:11
 #, perl-format
 msgid "This is the primary alias for this locale"
-msgstr ""
+msgstr "Éste es el alias primario para este idioma"
 
 #: ../root/label/delete.tt:17
 #, perl-format
@@ -8681,7 +8681,7 @@ msgid ""
 " the translation/transliteration relationship to an original version. This "
 "could be because the original version is missing, or just that the release "
 "status is set wrong."
-msgstr ""
+msgstr "Este informe muestra lanzamientos con el estado pseudo-lanzamiento que no tienen una relación de traducción/transliteración con una versión original. Ésto puede deberse a que no disponemos de la versión original en la base de datos o simplemente que el campo estado del lanzamiento es incorrecto."
 
 #: ../root/release/merge.tt:85
 #, perl-format
@@ -8715,7 +8715,7 @@ msgstr "Esta obra no tiene etiquetas."
 #: ../root/cdtoc/info.tt:37 ../root/cdtoc/info.tt:39 ../root/cdtoc/info.tt:41
 #, perl-format
 msgid "Time"
-msgstr ""
+msgstr "Duración"
 
 #: ../root/layout/menu.tt:107
 #, perl-format
@@ -8997,7 +8997,7 @@ msgstr "Los editores de transclusión añaden y mantienen las entradas en la tab
 #, perl-format
 msgid ""
 "Translated/Transliterated Pseudo-Releases not linked to an original version"
-msgstr ""
+msgstr "Pseudo-lanzamientos traducidos/transliterados no enlazados con una versión original"
 
 #: ../root/layout.tt:165
 #, perl-format
@@ -9120,7 +9120,7 @@ msgstr "Desenlazar"
 #: ../root/report/unlinked_pseudo_releases.tt:3
 #, perl-format
 msgid "Unlinked Pseudo-Releases"
-msgstr ""
+msgstr "Pseudo-lanzamientos no enlazados"
 
 #: ../root/artist/layout.tt:126 ../root/label/layout.tt:96
 #: ../root/user/subscriptions/subscriptions.tt:32
@@ -9587,7 +9587,7 @@ msgstr ""
 msgid ""
 "When you have found the release that you would like to merge {recording} "
 "into, please select that entity and click <em>merge</em>."
-msgstr ""
+msgstr "Cuando hayas encontrado el lanzamiento en el que te gustaría unir {recording}, selecciónalo y haz click en <em>unir</em>."
 
 #: ../root/release/move_search.tt:5
 #, perl-format
@@ -9832,7 +9832,7 @@ msgid ""
 "You are browsing the database using a query that is 6 characters long. We do"
 " not index data past this level of granularity, you may want to {uri|search "
 "the database} instead."
-msgstr ""
+msgstr "Estás navegando en la base de datos usando una consulta de 6 carácteres. Dado que a partir de ese nivel de granularidad los datos no son indexados, en lugar de ello quizás quieras {uri|buscar en la base de datos}."
 
 #: ../root/artist/subscribers.tt:27 ../root/label/subscribers.tt:27
 #: ../root/user/subscribers.tt:32
@@ -9872,7 +9872,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this artist from the other artists with the same name, if the "
 "final artist name is similar to an existing artist."
-msgstr ""
+msgstr "Si el nombre final del artista es similar al de alguno de los ya existentes, debes introducir un comentario de desambiguación que permita a otros usuarios distinguirlo de otros artistas con el mismo nombre."
 
 #: ../root/label/edit_form.tt:25
 #, perl-format
@@ -9880,7 +9880,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this label from the other labels with the same name, if the "
 "final label name is similar to an existing label."
-msgstr ""
+msgstr "Si el nombre final de la discográfica es similar al de alguna de las ya existentes, debes introducir un comentario de desambiguación que permita a otros usuarios distinguirla de otras discográficas con el mismo nombre"
 
 #: ../root/cdtoc/attach_artist_releases.tt:24
 #, perl-format
@@ -11355,7 +11355,7 @@ msgstr "Filtrar grabaciones"
 
 #: ../lib/MusicBrainz/Server/Form/Alias.pm:82
 msgid "This alias can only be a primary alias if a locale is selected"
-msgstr ""
+msgstr "Este alias solo puede ser un alias primario si se ha seleccionado un idioma"
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"
