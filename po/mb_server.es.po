@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-26 20:38+0000\n"
+"PO-Revision-Date: 2012-06-27 11:58+0000\n"
 "Last-Translator: Héctor Arroyo <email address hidden>\n"
 "Language-Team: Spanish (Castilian) (http://www.transifex.com/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -8366,7 +8366,7 @@ msgid ""
 "This merge strategy will merge all mediums together into a single set of "
 "mediums. Recordings between mediums will also be merged, into the recordings"
 " used on the target mediums."
-msgstr ""
+msgstr "Esta estrategia fusionará todos los medios en un solo set de medios. Las grabaciones entre medios también se fusionarán en las grabaciones usadas en los medios de destino."
 
 #: ../root/doc/page.tt:22
 #, perl-format
@@ -9267,7 +9267,7 @@ msgid ""
 "may specify the new order of mediums. The order does not have to be "
 "continuous, but all medium positions must be positive, and multiple mediums "
 "cannot be in the same position"
-msgstr ""
+msgstr "Al usar esta estrategia se usarán todos los medios de todos los lanzamientos. Podrás indicar un nuevo orden de los medios, el cual no tiene por qué ser continuo, pero sí asignar un número positivo a la posición de cada medio. Múltiples medios no pueden compartir una misma posición."
 
 #: ../root/search/form.tt:54
 #, perl-format
