@@ -10,9 +10,9 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-05-29 19:14-0400\n"
-"PO-Revision-Date: 2012-06-12 19:26+0000\n"
+"PO-Revision-Date: 2012-06-29 14:36+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
-"Language-Team: Dutch (http://www.transifex.net/projects/p/musicbrainz/language/nl/)\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -465,7 +465,7 @@ msgstr "Voeg een alias voor deze artiest toe"
 #: ../root/release/edit/tracklist.tt:84 ../root/release/edit/tracklist.tt:89
 #, perl-format
 msgid "Add Artist Credit"
-msgstr ""
+msgstr "Voeg toeschrijving aan artiest toe"
 
 #: ../root/cdstub/logged_in.tt:1 ../root/cdstub/logged_in.tt:2
 #, perl-format
@@ -1259,13 +1259,13 @@ msgstr "Nationaliteit"
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
 msgid "Artist Credit:"
-msgstr ""
+msgstr "Toeschrijving aan artiest:"
 
 #: ../root/artist/aliases.tt:8 ../root/artist/edit_form.tt:59
 #: ../root/edit/details/add_medium.tt:43
 #, perl-format
 msgid "Artist Credits"
-msgstr ""
+msgstr "Toeschrijvingen aan artiesten"
 
 #: ../root/artist/edit_form.tt:37
 #, perl-format
@@ -1290,7 +1290,7 @@ msgstr "Abonnementen op artiesten"
 #: ../root/components/forms.tt:265
 #, perl-format
 msgid "Artist as credited"
-msgstr ""
+msgstr "Artiest zoals toegeschreven"
 
 #: ../root/release/edit/tracklist.tt:45
 #, perl-format
@@ -1305,7 +1305,7 @@ msgstr ""
 #: ../root/edit/details/edit_medium.tt:220
 #, perl-format
 msgid "Artist credits:"
-msgstr ""
+msgstr "Toeschrijvingen aan artiesten:"
 
 #: ../root/components/forms.tt:249 ../root/release/edit/tracklist.tt:44
 #, perl-format
@@ -2759,7 +2759,7 @@ msgstr "Bewerk de aantekening van de artiest"
 #: ../root/artist/edit_credit.tt:15 ../root/artist/edit_credit.tt:20
 #, perl-format
 msgid "Edit Artist Credit"
-msgstr ""
+msgstr "Bewerk toeschrijvingen aan artiesten"
 
 #: ../root/collection/edit.tt:1
 #, perl-format
@@ -3635,7 +3635,7 @@ msgstr "Help:"
 #: ../root/release/index.tt:12
 #, perl-format
 msgid "Hide Credits"
-msgstr ""
+msgstr "Verberg toeschrijvingen"
 
 #: ../root/components/common-macros.tt:505
 #, perl-format
@@ -4885,7 +4885,7 @@ msgstr "Nieuwe artiest"
 #: ../root/artist/edit_credit.tt:32 ../root/artist/split.tt:46
 #, perl-format
 msgid "New Artist Credit"
-msgstr ""
+msgstr "Nieuwe toeschrijving aan de artiest"
 
 #: ../root/relationship/linkattributetype/create.tt:1
 #: ../root/relationship/linkattributetype/create.tt:3
@@ -5729,7 +5729,7 @@ msgstr "Selecteer alstublieft ten minste één opname om {entity} aan te relater
 msgid ""
 "Please select the artist credits that you want to rename to follow the new "
 "artist name."
-msgstr ""
+msgstr "Selecteer de toeschrijvingen die u wilt hernoemen naar de nieuwe artiestennaam."
 
 #: ../root/cdtoc/attach_artist_releases.tt:26
 #, perl-format
@@ -6603,7 +6603,7 @@ msgstr "Verwijder de alias van de artiest"
 #: ../root/components/forms.tt:259 ../root/release/edit/tracklist.tt:73
 #, perl-format
 msgid "Remove Artist Credit"
-msgstr ""
+msgstr "Verwijder toeschrijving aan artiest"
 
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
@@ -6775,7 +6775,7 @@ msgstr "Verwijderd"
 #: ../root/edit/details/merge_artists.tt:4
 #, perl-format
 msgid "Rename artist credits"
-msgstr ""
+msgstr "Hernoem toeschrijving aan artiest"
 
 #: ../root/release/cover_art.tt:51 ../root/release/reorder_cover_art.tt:5
 #: ../root/release/reorder_cover_art.tt:6
@@ -7091,7 +7091,7 @@ msgstr "Korte koppelzin:"
 #: ../root/release/index.tt:11
 #, perl-format
 msgid "Show Credits"
-msgstr ""
+msgstr "Toon toeschrijvingen"
 
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
@@ -10995,7 +10995,7 @@ msgstr "Bewerk artiest"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
-msgstr ""
+msgstr "Bewerk toeschrijving aan artiest"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Merge.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeArtist.pm:8
@@ -11359,7 +11359,7 @@ msgstr "De streepjescode moet geldig zijn"
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:42
 #, perl-brace-format
 msgid "Please add an artist name for {credit}"
-msgstr "Voeg alstublieft een artiestennaam in voor {credit}"
+msgstr "Voer alstublieft een artiestennaam in voor {credit}"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:55
 #, perl-brace-format
