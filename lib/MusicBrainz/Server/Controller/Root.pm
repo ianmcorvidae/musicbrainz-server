@@ -40,9 +40,11 @@ other than the blog feed.
 sub index : Path Args(0)
 {
     my ($self, $c) = @_;
+    my @lang = DBDefs::MB_LANGUAGES();
     $c->stash(
         blog => $c->model('Blog')->get_latest_entries,
-        template => 'main/index.tt'
+        template => 'main/index.tt',
+        lang => \@lang,
     );
 }
 
