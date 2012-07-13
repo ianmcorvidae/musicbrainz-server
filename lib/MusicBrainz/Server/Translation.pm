@@ -6,7 +6,7 @@ use I18N::LangTags ();
 use I18N::LangTags::Detect;
 use DBDefs;
 
-use Locale::Messages qw( bindtextdomain );
+use Locale::Messages qw( bindtextdomain LC_MESSAGES );
 use Locale::Util qw( web_set_locale );
 use Cwd qw (abs_path);
 
@@ -88,7 +88,7 @@ sub build_languages_from_header
 
 sub _set_language
 {
-    my $self = shift;
+    my ($self, $cookie) = @_;
 
     # Make sure everything is unset first.
     $ENV{LANGUAGE} = '';
@@ -97,14 +97,54 @@ sub _set_language
     $ENV{LC_ALL} = '';
     $ENV{LC_MESSAGES} = '';
 
-    my @avail_lang = grep {
-        my $l = $_;
-        grep { $l eq $_ } DBDefs::MB_LANGUAGES
-    } $self->all_system_languages;
+    my @avail_lang;
+    # because s///r is a perl 5.14 feature
+    my $cookie_munge = defined $cookie ? $cookie->value : '';
+    $cookie_munge =~ s/_([A-Z]{2})/-\L$1/;
+    my $cookie_nocountry = defined $cookie ? $cookie->value : '';
+    $cookie_nocountry =~ s/_[A-Z]{2}//;
+    if (defined $cookie && 
+        grep { $cookie->value eq $_ || $cookie_munge eq $_ } DBDefs::MB_LANGUAGES) {
+        @avail_lang = ($cookie->value);
+    } elsif (defined $cookie && 
+             grep { $cookie_nocountry eq $_ } DBDefs::MB_LANGUAGES) {
+        @avail_lang = ($cookie_nocountry);
+    } else {
+        # change e.g. 'en-aq' to 'en_AQ'
+        @avail_lang = map { s/-([a-z]{2})/_\U$1/; $_; } 
+            grep {
+                my $l = $_;
+                grep { $l eq $_ } DBDefs::MB_LANGUAGES
+            } $self->all_system_languages;
+    }
+    my $set_lang = web_set_locale(\@avail_lang, [ 'utf-8' ], LC_MESSAGES);
+    if (!defined $set_lang) {
+        return 'en';
+    }
+    # Strip off charset
+    $set_lang =~ s/\.utf-8//;
+    # because s///r is a perl 5.14 feature
+    my $set_lang_munge = $set_lang;
+    $set_lang_munge =~ s/_([A-Z]{2})/-\L$1/;
+    my $set_lang_nocountry = $set_lang;
+    $set_lang_nocountry =~ s/_[A-Z]{2}//;
+    # Change en_AQ back to en-aq to compare with MB_LANGUAGES
+    if (grep { $set_lang eq $_ || $set_lang_munge eq $_ } DBDefs::MB_LANGUAGES) {
+        return $set_lang;
+    } 
+    # Check if the language without country code is in MB_LANGUAGES
+    elsif (grep { $set_lang_nocountry eq $_ } DBDefs::MB_LANGUAGES) {
+        return $set_lang_nocountry;
+    } 
+    # Give up, return the full language even though it looks wrong
+    else {
+        return $set_lang;
+    } 
+}
 
-    # change e.g. 'en-aq' to 'en_AQ'
-    @avail_lang = map { s/-([a-z]{2})/_\U$1/; $_; } @avail_lang;
-    web_set_locale(\@avail_lang, [ 'utf-8' ]);
+sub _unset_language
+{
+    web_set_locale([ 'en' ], [ 'utf-8' ], LC_MESSAGES);
 }
 
 sub _expand
