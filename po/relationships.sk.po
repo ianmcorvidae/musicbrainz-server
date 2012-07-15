@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-06-09 18:22+0000\n"
+"PO-Revision-Date: 2012-07-15 20:30+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
-"Language-Team: Slovak (http://www.transifex.net/projects/p/musicbrainz/language/sk/)\n"
+"Language-Team: Slovak (http://www.transifex.com/projects/p/musicbrainz/language/sk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: ENCODING\n"
@@ -183,12 +183,10 @@ msgid ""
 msgstr ""
 
 #: DB:link_type/link_phrase:99 DB:link_type/link_phrase:195
-#: DB:link_type/reverse_link_phrase:275
 msgid "IBDb"
 msgstr ""
 
-#: DB:link_type/link_phrase:275 DB:link_type/reverse_link_phrase:99
-#: DB:link_type/reverse_link_phrase:195
+#: DB:link_type/reverse_link_phrase:99 DB:link_type/reverse_link_phrase:195
 msgid "IBDb page for"
 msgstr ""
 
@@ -205,12 +203,10 @@ msgid "IMDb page for"
 msgstr ""
 
 #: DB:link_type/link_phrase:100 DB:link_type/link_phrase:196
-#: DB:link_type/reverse_link_phrase:276
 msgid "IOBDb"
 msgstr ""
 
-#: DB:link_type/link_phrase:276 DB:link_type/reverse_link_phrase:100
-#: DB:link_type/reverse_link_phrase:196
+#: DB:link_type/reverse_link_phrase:100 DB:link_type/reverse_link_phrase:196
 msgid "IOBDb page for"
 msgstr ""
 
@@ -947,10 +943,18 @@ msgid ""
 "href=\"http://musicbrainz.org/doc/Conductor_Relationship_Type\">Details</a>)"
 msgstr ""
 
-#: DB:link_type/description:30 DB:link_type/description:141
+#: DB:link_type/description:30
 msgid ""
 "Indicates the producer, co-producer, executive producer or co-executive "
 "producer for this work. (<a "
+"href=\"http://musicbrainz.org/doc/Producer_Relationship_Type\">Details</a>)"
+msgstr ""
+
+#: DB:link_type/description:141
+msgid ""
+"Indicates the producer, co-producer, executive producer or co-executive "
+"producer for this work. Always set executive producers on releases, not "
+"recordings. (<a "
 "href=\"http://musicbrainz.org/doc/Producer_Relationship_Type\">Details</a>)"
 msgstr ""
 
@@ -1453,9 +1457,9 @@ msgid ""
 "href=\"http://musicbrainz.org/doc/Songfacts_Relationship_Type\">Details</a>)"
 msgstr ""
 
-#: DB:link_type/description:273 DB:link_type/description:188
-#: DB:link_type/description:222 DB:link_type/description:306
-#: DB:link_type/description:82 DB:link_type/description:96
+#: DB:link_type/description:96 DB:link_type/description:82
+#: DB:link_type/description:306 DB:link_type/description:273
+#: DB:link_type/description:222 DB:link_type/description:188
 msgid ""
 "This links an entity to the equivalent entry at another database. Please "
 "respect the <a "
@@ -1467,7 +1471,6 @@ msgstr ""
 #: DB:link_type/description:100 DB:link_type/description:91
 #: DB:link_type/description:99 DB:link_type/description:196
 #: DB:link_type/description:181 DB:link_type/description:195
-#: DB:link_type/description:276 DB:link_type/description:275
 msgid ""
 "This relationship is <strong>deprecated</strong>. Use \"has a page in a "
 "database\" instead."
@@ -1687,7 +1690,7 @@ msgid ""
 "spelling."
 msgstr ""
 
-#: DB:link_type/description:197 DB:link_type/description:93
+#: DB:link_type/description:93 DB:link_type/description:197
 #: DB:link_type/description:271
 msgid ""
 "Use this relationship to link to lyrics hosted by lyrics.wikia.com, "
@@ -1816,11 +1819,11 @@ msgstr ""
 msgid "biography of"
 msgstr ""
 
-#: DB:link_type/reverse_link_phrase:199 DB:link_type/reverse_link_phrase:224
+#: DB:link_type/reverse_link_phrase:224 DB:link_type/reverse_link_phrase:199
 msgid "blog of"
 msgstr ""
 
-#: DB:link_type/link_phrase:199 DB:link_type/link_phrase:224
+#: DB:link_type/link_phrase:224 DB:link_type/link_phrase:199
 msgid "blogs"
 msgstr ""
 
@@ -2177,7 +2180,7 @@ msgstr ""
 msgid "has a biography page at"
 msgstr ""
 
-#: DB:link_type/short_link_phrase:199 DB:link_type/short_link_phrase:224
+#: DB:link_type/short_link_phrase:224 DB:link_type/short_link_phrase:199
 msgid "has a blog at"
 msgstr ""
 
@@ -2214,9 +2217,9 @@ msgstr ""
 msgid "has a miscellaneous role on"
 msgstr ""
 
-#: DB:link_type/short_link_phrase:188 DB:link_type/short_link_phrase:222
-#: DB:link_type/short_link_phrase:306 DB:link_type/short_link_phrase:82
-#: DB:link_type/short_link_phrase:96
+#: DB:link_type/short_link_phrase:96 DB:link_type/short_link_phrase:82
+#: DB:link_type/short_link_phrase:306 DB:link_type/short_link_phrase:222
+#: DB:link_type/short_link_phrase:188
 msgid "has a page in a database at"
 msgstr ""
 
@@ -2298,7 +2301,7 @@ msgstr ""
 msgid "has legal representation by"
 msgstr ""
 
-#: DB:link_type/short_link_phrase:197 DB:link_type/short_link_phrase:93
+#: DB:link_type/short_link_phrase:93 DB:link_type/short_link_phrase:197
 msgid "has lyrics available at"
 msgstr ""
 
@@ -2386,7 +2389,7 @@ msgstr ""
 msgid "is a remaster of"
 msgstr ""
 
-#: DB:link_type/short_link_phrase:230 DB:link_type/short_link_phrase:9
+#: DB:link_type/short_link_phrase:9 DB:link_type/short_link_phrase:230
 msgid "is a remix of"
 msgstr ""
 
@@ -2400,14 +2403,6 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:286
 msgid "is an Allmusic page for"
-msgstr ""
-
-#: DB:link_type/short_link_phrase:275
-msgid "is an IBDb page for"
-msgstr ""
-
-#: DB:link_type/short_link_phrase:276
-msgid "is an IOBDb page for"
 msgstr ""
 
 #: DB:link_type/short_link_phrase:84
@@ -2541,13 +2536,13 @@ msgstr ""
 msgid "logos"
 msgstr ""
 
-#: DB:link_type/link_phrase:197 DB:link_type/link_phrase:93
+#: DB:link_type/link_phrase:93 DB:link_type/link_phrase:197
 #: DB:link_type/reverse_link_phrase:271
 msgid "lyrics page"
 msgstr ""
 
-#: DB:link_type/link_phrase:271 DB:link_type/reverse_link_phrase:197
-#: DB:link_type/reverse_link_phrase:93
+#: DB:link_type/link_phrase:271 DB:link_type/reverse_link_phrase:93
+#: DB:link_type/reverse_link_phrase:197
 msgid "lyrics page for"
 msgstr ""
 
@@ -2695,12 +2690,12 @@ msgstr ""
 msgid "other"
 msgstr ""
 
-#: DB:link_type/link_phrase:273 DB:link_type/link_phrase:188
-#: DB:link_type/link_phrase:222 DB:link_type/link_phrase:306
-#: DB:link_type/link_phrase:82 DB:link_type/link_phrase:96
-#: DB:link_type/reverse_link_phrase:273 DB:link_type/reverse_link_phrase:188
-#: DB:link_type/reverse_link_phrase:222 DB:link_type/reverse_link_phrase:306
-#: DB:link_type/reverse_link_phrase:82 DB:link_type/reverse_link_phrase:96
+#: DB:link_type/link_phrase:96 DB:link_type/link_phrase:82
+#: DB:link_type/link_phrase:306 DB:link_type/link_phrase:273
+#: DB:link_type/link_phrase:222 DB:link_type/link_phrase:188
+#: DB:link_type/reverse_link_phrase:96 DB:link_type/reverse_link_phrase:82
+#: DB:link_type/reverse_link_phrase:306 DB:link_type/reverse_link_phrase:273
+#: DB:link_type/reverse_link_phrase:222 DB:link_type/reverse_link_phrase:188
 msgid "other databases"
 msgstr ""
 
@@ -2858,19 +2853,19 @@ msgid "public domain"
 msgstr ""
 
 #: DB:link_type/link_phrase:66 DB:link_type/link_phrase:127
-#: DB:link_type/link_phrase:206 DB:link_type/link_phrase:32
+#: DB:link_type/link_phrase:32 DB:link_type/link_phrase:206
 #: DB:link_type/link_phrase:208 DB:link_type/link_phrase:269
 #: DB:link_type/link_phrase:161 DB:link_type/reverse_link_phrase:252
 #: DB:link_type/short_link_phrase:66 DB:link_type/short_link_phrase:127
-#: DB:link_type/short_link_phrase:206 DB:link_type/short_link_phrase:32
+#: DB:link_type/short_link_phrase:32 DB:link_type/short_link_phrase:206
 #: DB:link_type/short_link_phrase:208 DB:link_type/short_link_phrase:269
 #: DB:link_type/short_link_phrase:161
 msgid "published"
 msgstr ""
 
 #: DB:link_type/link_phrase:252 DB:link_type/reverse_link_phrase:66
-#: DB:link_type/reverse_link_phrase:127 DB:link_type/reverse_link_phrase:206
-#: DB:link_type/reverse_link_phrase:32 DB:link_type/reverse_link_phrase:208
+#: DB:link_type/reverse_link_phrase:127 DB:link_type/reverse_link_phrase:32
+#: DB:link_type/reverse_link_phrase:206 DB:link_type/reverse_link_phrase:208
 #: DB:link_type/reverse_link_phrase:269 DB:link_type/reverse_link_phrase:161
 msgid "publisher"
 msgstr ""
@@ -2916,15 +2911,15 @@ msgstr ""
 msgid "remasters"
 msgstr ""
 
-#: DB:link_type/link_phrase:230 DB:link_type/link_phrase:9
+#: DB:link_type/link_phrase:9 DB:link_type/link_phrase:230
 msgid "remix of"
 msgstr ""
 
 #: DB:link_type/link_phrase:13 DB:link_type/link_phrase:50
 #: DB:link_type/link_phrase:157 DB:link_type/link_phrase:234
 #: DB:link_type/reverse_link_phrase:13 DB:link_type/reverse_link_phrase:50
-#: DB:link_type/reverse_link_phrase:157 DB:link_type/reverse_link_phrase:230
-#: DB:link_type/reverse_link_phrase:234 DB:link_type/reverse_link_phrase:9
+#: DB:link_type/reverse_link_phrase:157 DB:link_type/reverse_link_phrase:9
+#: DB:link_type/reverse_link_phrase:230 DB:link_type/reverse_link_phrase:234
 #: DB:link_type/short_link_phrase:13 DB:link_type/short_link_phrase:50
 #: DB:link_type/short_link_phrase:157 DB:link_type/short_link_phrase:234
 msgid "remixes"
