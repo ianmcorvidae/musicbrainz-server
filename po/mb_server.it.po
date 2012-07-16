@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-07-15 23:59+0000\n"
+"PO-Revision-Date: 2012-07-16 00:07+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -6847,7 +6847,7 @@ msgstr ""
 #: ../root/layout.tt:81
 #, perl-format
 msgid "Running: <abbr title=\"{msg}\">{branch} ({sha})</abbr>"
-msgstr ""
+msgstr "In esecuzione: <abbr title=\"{msg}\">{branch} ({sha})</abbr>"
 
 #: ../root/account/edit.tt:81 ../root/account/preferences.tt:57
 #: ../root/relationship/linkattributetype/form.tt:21
@@ -7789,7 +7789,7 @@ msgstr "Grazie per aver contribuito a MusicBrainz."
 msgid ""
 "Thank you, your email address has now been verified! If you still can't "
 "edit, please try to log out and log in again."
-msgstr ""
+msgstr "Grazie, il tuo indirizzo email è ora verificato! Se non riesci ancora a effettuare delle modifiche, prova a disconnetterti e ad accedere di nuovo."
 
 #: ../root/release/caa_darkened.tt:3 ../root/release/cover_art.tt:56
 #, perl-format
@@ -8813,12 +8813,12 @@ msgstr "Questa tabella mostra un riassunto dei voti espressi da questo editor."
 #: ../root/edit/edit_header.tt:97
 #, perl-format
 msgid "This user is automated."
-msgstr ""
+msgstr "Questo utente è automatizzato."
 
 #: ../root/edit/edit_header.tt:96
 #, perl-format
 msgid "This user is new to MusicBrainz."
-msgstr ""
+msgstr "Questo utente è nuovo di MusicBrainz."
 
 #: ../root/release/merge_search.tt:4
 #, perl-format
@@ -8943,7 +8943,7 @@ msgstr "Totale gruppi di doppioni: {count}"
 #: ../root/report/discogs_links_with_multiple_labels.tt:7
 #, perl-format
 msgid "Total labels found: {count}"
-msgstr ""
+msgstr "Totale etichette trovate: {count}"
 
 #: ../root/cdstub/index.tt:21 ../root/cdtoc/info.tt:23
 #, perl-format
@@ -10237,7 +10237,7 @@ msgstr "artisti"
 #: ../root/edit/edit_header.tt:50
 #, perl-format
 msgid "automatically applied"
-msgstr ""
+msgstr "inserito automaticamente"
 
 #: ../root/edit/search_macros.tt:155
 #, perl-format
@@ -10377,7 +10377,7 @@ msgstr "etichette"
 #: ../root/edit/edit_header.tt:96
 #, perl-format
 msgid "limited user"
-msgstr ""
+msgstr "utente limitato"
 
 #: ../root/edit/relationship/edit.tt:37 ../root/scripts/text_strings.tt:86
 #, perl-format
@@ -11347,7 +11347,7 @@ msgstr "Rimuovi tipo della relazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddCoverArt.pm:18
 msgid "Add cover art"
-msgstr ""
+msgstr "Aggiungi copertina"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
@@ -11376,7 +11376,7 @@ msgstr "Modifica codici a barre"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditCoverArt.pm:19
 msgid "Edit cover art"
-msgstr ""
+msgstr "Modifica copertina"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
@@ -11384,15 +11384,15 @@ msgstr "Modifica etichetta della pubblicazione"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
-msgstr ""
+msgstr "Rimuovi copertina"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderCoverArt.pm:22
 msgid "Reorder cover art"
-msgstr ""
+msgstr "Riordina copertine"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderMediums.pm:11
 msgid "Reorder mediums"
-msgstr ""
+msgstr "Riordina supporti"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
