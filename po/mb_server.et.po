@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-07-15 20:27+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-07-19 00:39+0000\n"
+"Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:38
 #, perl-format
 msgid " &ndash; ????"
-msgstr ""
+msgstr " &ndash; ?"
 
 #: ../root/account/lost_password.tt:7
 #, perl-format
@@ -115,7 +115,7 @@ msgstr "<strong>(kinnitamata!)</strong>"
 #: ../root/main/400.tt:12 ../root/main/500.tt:41
 #, perl-format
 msgid "(No details about this error are available)"
-msgstr ""
+msgstr "(Üksikasju vea kohta pole saadaval)"
 
 #: ../root/release/edit/recordings.tt:205
 #: ../root/release/edit/recordings.tt:319
@@ -131,7 +131,7 @@ msgstr "(klõpsa annotatsiooni nägemiseks)"
 #: ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "(ended)"
-msgstr ""
+msgstr "(lõppenud)"
 
 #: ../root/user/profile.tt:20
 #, perl-format
@@ -168,7 +168,7 @@ msgstr "(muutuste logi pole)"
 #: ../root/release/add_cover_art.tt:26
 #, perl-format
 msgid "(no other cover art)"
-msgstr ""
+msgstr "(muid kaanepilte pole)"
 
 #: ../root/edit/details/add_relationship_type.tt:9
 #: ../root/edit/details/historic/add_release_annotation.tt:21
@@ -210,12 +210,12 @@ msgstr "(kinnitatud {date})"
 #: ../root/release/merge.tt:63
 #, perl-format
 msgid "(was medium {position} on release {release})"
-msgstr "(oli andmekandja {position} väljalaskel „{release}”)"
+msgstr "(oli helikandja {position} väljalaskel „{release}”)"
 
 #: ../root/release/merge.tt:58
 #, perl-format
 msgid "(was medium {position}: {name} on release {release})"
-msgstr "(oli andmekandja {position}: {name} väljalaskel „{release}”)"
+msgstr "(oli helikandja {position}: {name} väljalaskel „{release}”)"
 
 #: ../root/recording/layout.tt:19 ../root/work/layout.tt:21
 #, perl-format
@@ -233,7 +233,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:115
 #, perl-format
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: ../root/user/profile.tt:97
 #, perl-format
@@ -255,12 +255,12 @@ msgstr "100%"
 #: ../root/elections/show.tt:17
 #, perl-format
 msgid "1st seconder:"
-msgstr ""
+msgstr "1. sekundant:"
 
 #: ../root/elections/show.tt:20
 #, perl-format
 msgid "2nd seconder:"
-msgstr ""
+msgstr "2. sekundant:"
 
 #: ../root/admin/edit_user.tt:16
 #, perl-format
@@ -270,7 +270,7 @@ msgstr ""
 #: ../root/edit/info.tt:42
 #, perl-format
 msgid "<em>Cancelling</em>"
-msgstr ""
+msgstr "<em>Tühistamine</em>"
 
 #: ../root/annotation/history.tt:31
 #, perl-format
@@ -280,12 +280,12 @@ msgstr ""
 #: ../root/edit/edit_header.tt:64
 #, perl-format
 msgid "<strong>Closed:</strong> <em>Cancelling</em>"
-msgstr ""
+msgstr "<strong>Suletud:</strong> <em>tühistatakse</em>"
 
 #: ../root/edit/edit_header.tt:66
 #, perl-format
 msgid "<strong>Closed:</strong> {date}"
-msgstr ""
+msgstr "<strong>Suletud:</strong> {date}"
 
 #: ../root/browse/page_selector.tt:24
 #, perl-format
@@ -444,14 +444,14 @@ msgstr ""
 #: ../root/search/results-freedb.tt:15
 #, perl-format
 msgid "Action"
-msgstr ""
+msgstr "Toiming"
 
 #: ../root/admin/wikidoc/index.tt:90 ../root/artist/aliases.tt:17
 #: ../root/components/aliases.tt:14 ../root/recording/fingerprints.tt:14
 #: ../root/recording/fingerprints.tt:49 ../root/user/collections.tt:13
 #, perl-format
 msgid "Actions"
-msgstr ""
+msgstr "Toimingud"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -501,7 +501,7 @@ msgstr "Lisa ISRC"
 #: ../root/work/layout.tt:37
 #, perl-format
 msgid "Add ISWC"
-msgstr ""
+msgstr "Lisa ISWC"
 
 #: ../root/layout/menu.tt:179 ../root/release/edit/information.tt:91
 #: ../root/release/edit/information.tt:93
@@ -517,7 +517,7 @@ msgstr "Lisa plaadifirma alias"
 #: ../root/release_group/create.tt:16
 #, perl-format
 msgid "Add New Release Group"
-msgstr ""
+msgstr "Lisa uus väljalaskerühm"
 
 #: ../root/edit/info.tt:13
 #, perl-format
@@ -527,12 +527,12 @@ msgstr ""
 #: ../root/admin/wikidoc/create.tt:1 ../root/admin/wikidoc/create.tt:3
 #, perl-format
 msgid "Add Page"
-msgstr ""
+msgstr "Lisa leht"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Add Relationship"
-msgstr ""
+msgstr "Lisa seos"
 
 #: ../root/layout/menu.tt:185 ../root/release/edit/layout.tt:4
 #, perl-format
@@ -554,7 +554,7 @@ msgstr "Lisa eraldiseisev salvestis"
 #: ../root/edit/relationship/create_url.tt:17
 #, perl-format
 msgid "Add URL Relationship"
-msgstr ""
+msgstr "Lisa seos URL-iga"
 
 #: ../root/layout/menu.tt:188
 #, perl-format
@@ -580,17 +580,17 @@ msgstr ""
 #: ../root/collection/create.tt:1 ../root/collection/create.tt:3
 #, perl-format
 msgid "Add a New Collection"
-msgstr ""
+msgstr "Lisa uus kogu"
 
 #: ../root/label/create.tt:15 ../root/label/create.tt:17
 #, perl-format
 msgid "Add a New Label"
-msgstr ""
+msgstr "Lisa uus plaadifirma"
 
 #: ../root/release_group/create.tt:23
 #, perl-format
 msgid "Add a New Release Group"
-msgstr ""
+msgstr "Lisa uus väljalaskerühm"
 
 #: ../root/account/edit.tt:44
 #, perl-format
@@ -600,17 +600,17 @@ msgstr "Lisa keel"
 #: ../root/components/aliases.tt:63
 #, perl-format
 msgid "Add a new alias"
-msgstr ""
+msgstr "Lisa uus alias"
 
 #: ../root/admin/wikidoc/index.tt:62
 #, perl-format
 msgid "Add a new entry"
-msgstr ""
+msgstr "Lisa uus kirje"
 
 #: ../root/release/edit/recordings.tt:165
 #, perl-format
 msgid "Add a new recording"
-msgstr ""
+msgstr "Lisa uus salvestis"
 
 #: ../root/cdtoc/attach_artist_releases.tt:68
 #: ../root/cdtoc/attach_filter_artist.tt:47
@@ -619,7 +619,7 @@ msgstr ""
 #: ../root/cdtoc/attach_filter_release.tt:87
 #, perl-format
 msgid "Add a new release"
-msgstr ""
+msgstr "Lisa uus väljalase"
 
 #: ../root/edit/notes.tt:45
 #, perl-format
@@ -631,22 +631,22 @@ msgstr ""
 #: ../root/release/sidebar.tt:74 ../root/work/layout.tt:40
 #, perl-format
 msgid "Add annotation"
-msgstr ""
+msgstr "Lisa annotatsioon"
 
 #: ../root/scripts/text_strings.tt:42
 #, perl-format
 msgid "Add another"
-msgstr ""
+msgstr "Lisa veel üks"
 
 #: ../root/scripts/text_strings.tt:48
 #, perl-format
 msgid "Add another medium"
-msgstr ""
+msgstr "Lisa veel üks helikandja"
 
 #: ../root/scripts/text_strings.tt:47
 #, perl-format
 msgid "Add another track"
-msgstr ""
+msgstr "Lisa veel üks rada"
 
 #: ../root/artist/add_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAlias.pm:14
@@ -673,7 +673,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAlias.pm:14
 #, perl-format
 msgid "Add label alias"
-msgstr ""
+msgstr "Lisa plaadifirma alias"
 
 #: ../root/release/edit/missing_entities.tt:65
 #, perl-format
@@ -683,22 +683,22 @@ msgstr ""
 #: ../root/release/edit/missing_entities.tt:114
 #, perl-format
 msgid "Add new label"
-msgstr ""
+msgstr "Lisa uus plaadifirma"
 
 #: ../root/release/edit/recordings.tt:96
 #, perl-format
 msgid "Add new recording"
-msgstr ""
+msgstr "Lisa uus salvestis"
 
 #: ../root/edit/index.tt:78
 #, perl-format
 msgid "Add note and votes"
-msgstr ""
+msgstr "Lisa märge ja hääleta"
 
 #: ../root/artist/layout.tt:74
 #, perl-format
 msgid "Add recording"
-msgstr ""
+msgstr "Lisa salvestis"
 
 #: ../root/artist/layout.tt:69 ../root/label/layout.tt:56
 #: ../root/release_group/layout.tt:28
@@ -706,13 +706,13 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 #, perl-format
 msgid "Add release"
-msgstr ""
+msgstr "Lisa väljalase"
 
 #: ../root/artist/layout.tt:64
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Create.pm:23
 #, perl-format
 msgid "Add release group"
-msgstr ""
+msgstr "Lisa väljalaskerühm"
 
 #: ../root/report/duplicate_artists.tt:51
 #, perl-format
@@ -738,12 +738,12 @@ msgstr ""
 #: ../root/release/sidebar.tt:134
 #, perl-format
 msgid "Add to my collection"
-msgstr ""
+msgstr "Lisa minu kogusse"
 
 #: ../root/release/sidebar.tt:136
 #, perl-format
 msgid "Add to {collection}"
-msgstr ""
+msgstr "Lisa kogusse {collection}"
 
 #: ../root/release/edit/tracklist.tt:454
 #, perl-format
@@ -754,13 +754,13 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Work/Create.pm:16
 #, perl-format
 msgid "Add work"
-msgstr ""
+msgstr "Lisa teos"
 
 #: ../root/work/add_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAlias.pm:15
 #, perl-format
 msgid "Add work alias"
-msgstr ""
+msgstr "Lisa teose alias"
 
 #: ../root/components/forms.tt:114
 #, perl-format
@@ -795,7 +795,7 @@ msgstr "Lisateave"
 #: ../root/release/edit/information.tt:104
 #, perl-format
 msgid "Additional information"
-msgstr ""
+msgstr "Lisateave"
 
 #: ../root/edit/details/add_isrcs.tt:3 ../root/edit/details/add_iswcs.tt:3
 #, perl-format
@@ -830,7 +830,7 @@ msgstr "Vanus:"
 #: ../root/components/aliases.tt:6
 #, perl-format
 msgid "Alias"
-msgstr ""
+msgstr "Alias"
 
 #: ../root/alias/edit_form.tt:3
 #, perl-format
@@ -852,7 +852,7 @@ msgstr ""
 #: ../root/edit/details/remove_work_alias.tt:7
 #, perl-format
 msgid "Alias:"
-msgstr ""
+msgstr "Alias:"
 
 #: ../root/artist/aliases.tt:1 ../root/artist/header.tt:1
 #: ../root/components/aliases.tt:1 ../root/label/aliases.tt:1
@@ -2739,7 +2739,7 @@ msgstr ""
 #: ../root/work/header.tt:1
 #, perl-format
 msgid "Edit"
-msgstr ""
+msgstr "Toimeta"
 
 #: ../root/edit/index.tt:1
 #, perl-format
@@ -2749,7 +2749,7 @@ msgstr "Toimendus #{id}"
 #: ../root/edit/edit_header.tt:73 ../root/edit/edit_header.tt:88
 #, perl-format
 msgid "Edit #{id} - {name}"
-msgstr ""
+msgstr "Toimendus #{id} - {name}"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -2833,7 +2833,7 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:13 ../root/edit/relationship/edit.tt:15
 #, perl-format
 msgid "Edit Relationship"
-msgstr ""
+msgstr "Seose toimetamine"
 
 #: ../root/relationship/linkattributetype/edit.tt:1
 #: ../root/relationship/linkattributetype/edit.tt:3
@@ -2865,7 +2865,7 @@ msgstr ""
 #: ../root/release_group/edit.tt:21
 #, perl-format
 msgid "Edit Release Group"
-msgstr ""
+msgstr "Väljalaskerühma toimetamine"
 
 #: ../root/release_group/edit_annotation.tt:1
 #, perl-format
@@ -3418,14 +3418,14 @@ msgstr "Unustasid oma {link1|kasutajanime} või {link2|parooli}?"
 #: ../root/release_group/releases-list.tt:20 ../root/release/lookup.tt:12
 #, perl-format
 msgid "Format"
-msgstr "Vorming"
+msgstr "Formaat"
 
 #: ../root/edit/details/add_medium.tt:25
 #: ../root/edit/details/edit_medium.tt:33
 #: ../root/edit/details/edit_release_label.tt:56 ../root/release/sidebar.tt:21
 #, perl-format
 msgid "Format:"
-msgstr "Vorming:"
+msgstr "Formaat:"
 
 #: ../root/layout/menu.tt:239 ../root/layout.tt:166
 #, perl-format
@@ -4448,49 +4448,49 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Medium.pm:7
 #, perl-format
 msgid "Medium"
-msgstr ""
+msgstr "Helikandja"
 
 #: ../root/tracklist/index.tt:28
 #, perl-format
 msgid "Medium #"
-msgstr ""
+msgstr "Helikandja #"
 
 #: ../root/edit/details/merge_releases.tt:36
 #, perl-format
 msgid "Medium {position} is now medium {new_position}"
-msgstr ""
+msgstr "Helikandja {position} on nüüd helikandja {new_position}"
 
 #: ../root/edit/details/merge_releases.tt:30
 #, perl-format
 msgid "Medium {position} is now medium {new_position}: {new_name}"
-msgstr ""
+msgstr "Helikandja {position} on nüüd helikandja {new_position}: „{new_name}”"
 
 #: ../root/edit/details/merge_releases.tt:24
 #, perl-format
 msgid "Medium {position}: {name} is now medium {new_position}"
-msgstr ""
+msgstr "Helikandja {position}: „{name}” on nüüd helikandja {new_position}"
 
 #: ../root/edit/details/merge_releases.tt:19
 #, perl-format
 msgid "Medium {position}: {name} is now medium {new_position}: {new_name}"
-msgstr ""
+msgstr "Helikandja {position}: „{name}” on nüüd helikandja {new_position}: „{new_name}”"
 
 #: ../root/edit/details/add_disc_id.tt:4 ../root/edit/details/edit_medium.tt:4
 #: ../root/edit/details/remove_disc_id.tt:3
 #: ../root/edit/details/remove_medium.tt:3
 #, perl-format
 msgid "Medium:"
-msgstr ""
+msgstr "Helikandja:"
 
 #: ../root/cdtoc/set_durations.tt:10
 #, perl-format
 msgid "Mediums"
-msgstr ""
+msgstr "Helikandjad"
 
 #: ../root/edit/details/reorder_mediums.tt:17
 #, perl-format
 msgid "Mediums:"
-msgstr ""
+msgstr "Helikandjad:"
 
 #: ../root/user/profile.tt:75
 #, perl-format
@@ -4611,7 +4611,7 @@ msgstr ""
 #: ../root/user/contact.tt:11
 #, perl-format
 msgid "Message:"
-msgstr ""
+msgstr "Sõnum:"
 
 #: ../root/report/set_in_different_rg.tt:1
 #: ../root/report/set_in_different_rg.tt:3
@@ -4694,7 +4694,7 @@ msgstr "MusicBrainz Picard"
 #: ../root/layout/menu.tt:133
 #, perl-format
 msgid "MusicBrainz Server"
-msgstr "MusicBrainz Server"
+msgstr "MusicBrainzi server"
 
 #: ../root/main/index.tt:48
 #, perl-format
@@ -4712,7 +4712,7 @@ msgstr ""
 #: ../root/cdtoc/lookup.tt:83
 #, perl-format
 msgid "MusicBrainz does not have any CDs with the TOC:"
-msgstr ""
+msgstr "MusicBrainzis pole CD-sid, mille sisukord on"
 
 #: ../root/layout/menu.tt:130
 #, perl-format
@@ -4822,7 +4822,7 @@ msgstr "Minu hääl: "
 #: ../root/edit/edit_header.tt:37
 #, perl-format
 msgid "N/A"
-msgstr ""
+msgstr "pole"
 
 #: ../root/artist/aliases.tt:13 ../root/artist/recordings-list.tt:22
 #: ../root/components/results-generic.tt:5
@@ -4934,7 +4934,7 @@ msgstr "Uus keel:"
 #: ../root/edit/details/change_wikidoc.tt:17
 #, perl-format
 msgid "New page"
-msgstr ""
+msgstr "Uus leht"
 
 #: ../root/account/change_password.tt:11
 #, perl-format
@@ -4944,33 +4944,33 @@ msgstr "Uus parool:"
 #: ../root/release/merge.tt:51
 #, perl-format
 msgid "New position:"
-msgstr ""
+msgstr "Uus asukoht:"
 
 #: ../root/edit/details/reorder_cover_art.tt:22
 #, perl-format
 msgid "New positions:"
-msgstr ""
+msgstr "Uued asukohad:"
 
 #: ../root/edit/details/edit_medium.tt:199
 #, perl-format
 msgid "New recording"
-msgstr ""
+msgstr "Uus salvestis"
 
 #: ../root/edit/details/historic/edit_relationship.tt:29
 #, perl-format
 msgid "New relationships:"
-msgstr ""
+msgstr "Uued seosed:"
 
 #: ../root/edit/details/edit_release_language.tt:30
 #, perl-format
 msgid "New script:"
-msgstr ""
+msgstr "Uus kirjasüsteem:"
 
 #: ../root/edit/details/change_wikidoc.tt:23
 #: ../root/edit/details/change_wikidoc.tt:28
 #, perl-format
 msgid "New version:"
-msgstr ""
+msgstr "Uus versioon:"
 
 #: ../root/scripts/text_strings.tt:35
 #, perl-format
@@ -5267,28 +5267,28 @@ msgstr "Vana parool:"
 #: ../root/edit/details/reorder_cover_art.tt:10
 #, perl-format
 msgid "Old positions:"
-msgstr ""
+msgstr "Vanad asukohad:"
 
 #: ../root/edit/details/edit_medium.tt:198
 #, perl-format
 msgid "Old recording"
-msgstr ""
+msgstr "Vana salvestis"
 
 #: ../root/edit/details/historic/edit_relationship.tt:6
 #, perl-format
 msgid "Old relationships:"
-msgstr ""
+msgstr "Vanad seosed:"
 
 #: ../root/edit/details/historic/merge_releases.tt:3
 #, perl-format
 msgid "Old releases:"
-msgstr ""
+msgstr "Vanad väljalasked:"
 
 #: ../root/edit/details/change_wikidoc.tt:11
 #: ../root/edit/details/change_wikidoc.tt:16
 #, perl-format
 msgid "Old version:"
-msgstr ""
+msgstr "Vana versioon:"
 
 #: ../root/edit/details/edit_release_language.tt:3
 #, perl-format
@@ -5407,7 +5407,7 @@ msgstr "PUID"
 #: ../root/puid/index.tt:1 ../root/puid/index.tt:3
 #, perl-format
 msgid "PUID “{puid}”"
-msgstr "PUID “{puid}”"
+msgstr "PUID „{puid}”"
 
 #: ../root/edit/details/remove_puid.tt:7 ../root/otherlookup/form.tt:3
 #: ../root/taglookup/form.tt:10
@@ -6109,7 +6109,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/not_found.tt:1
 #, perl-format
 msgid "Relationship Attributes"
-msgstr ""
+msgstr "Seose atribuudid"
 
 #: ../root/edit/relationship/create_batch.tt:30
 #: ../root/edit/relationship/create.tt:33
@@ -6117,12 +6117,12 @@ msgstr ""
 #: ../root/edit/relationship/edit.tt:59
 #, perl-format
 msgid "Relationship Details"
-msgstr ""
+msgstr "Seose üksikasjad"
 
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Relationship Type"
-msgstr ""
+msgstr "Seose tüüp"
 
 #: ../root/relationship/linktype/in_use.tt:1
 #: ../root/relationship/linktype/in_use.tt:3
@@ -6134,7 +6134,7 @@ msgstr ""
 #: ../root/relationship/linktype/index.tt:1
 #, perl-format
 msgid "Relationship Types"
-msgstr ""
+msgstr "Seosetüübid"
 
 #: ../root/relationship/linkattributetype/in_use.tt:1
 #, perl-format
@@ -6171,7 +6171,7 @@ msgstr ""
 #: ../root/edit/details/remove_relationship.tt:3
 #, perl-format
 msgid "Relationship:"
-msgstr ""
+msgstr "Seos:"
 
 #: ../root/artist/header.tt:1 ../root/artist/relationships.tt:1
 #: ../root/artist/relationships.tt:4 ../root/label/header.tt:1
@@ -6187,13 +6187,13 @@ msgstr ""
 #: ../root/work/relationships.tt:1 ../root/work/relationships.tt:3
 #, perl-format
 msgid "Relationships"
-msgstr ""
+msgstr "Seosed"
 
 #: ../root/edit/details/historic/add_relationship.tt:3
 #: ../root/edit/details/remove_relationship_(historic).tt:3
 #, perl-format
 msgid "Relationships:"
-msgstr ""
+msgstr "Seosed:"
 
 #: ../root/cdtoc/attach_artist_releases.tt:34
 #: ../root/cdtoc/attach_filter_release.tt:47 ../root/cdtoc/lookup.tt:36
@@ -6219,12 +6219,12 @@ msgstr ""
 #: ../root/recording/index.tt:14
 #, perl-format
 msgid "Release Date"
-msgstr ""
+msgstr "Väljalaskekuupäev"
 
 #: ../root/edit/details/historic/add_release.tt:70
 #, perl-format
 msgid "Release Events:"
-msgstr ""
+msgstr "Väljalaskesündmused:"
 
 #: ../root/components/common-macros.tt:485 ../root/edit/search_macros.tt:282
 #: ../root/report/release_group_list.tt:6
@@ -6238,12 +6238,12 @@ msgstr "Väljalaskerühm"
 #: ../root/release_group/edit_form.tt:6
 #, perl-format
 msgid "Release Group Details"
-msgstr ""
+msgstr "Väljalaskerühma üksikasjad"
 
 #: ../root/release_group/not_found.tt:1 ../root/release_group/not_found.tt:2
 #, perl-format
 msgid "Release Group Not Found"
-msgstr ""
+msgstr "Väljalaskerühma ei leitud"
 
 #: ../root/edit/details/add_release_group.tt:3
 #: ../root/edit/details/edit_release_group.tt:5
@@ -6251,12 +6251,12 @@ msgstr ""
 #: ../root/release/edit/information.tt:28
 #, perl-format
 msgid "Release Group:"
-msgstr ""
+msgstr "Väljalaskerühm:"
 
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Release Groups"
-msgstr ""
+msgstr "Väljalaskerühmad"
 
 #: ../root/edit/search_macros.tt:282
 #, perl-format
@@ -6266,17 +6266,17 @@ msgstr "Väljalaske keel"
 #: ../root/release/not_found.tt:1 ../root/release/not_found.tt:2
 #, perl-format
 msgid "Release Not Found"
-msgstr ""
+msgstr "Väljalaset ei leitud"
 
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Release Quality"
-msgstr ""
+msgstr "Väljalaske teabekvaliteet"
 
 #: ../root/recording/index.tt:12
 #, perl-format
 msgid "Release Title"
-msgstr ""
+msgstr "Väljalaske pealkiri"
 
 #: ../root/release/edits.tt:20 ../root/release/header.tt:8
 #, perl-format
@@ -6286,7 +6286,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:51
 #, perl-format
 msgid "Release event"
-msgstr ""
+msgstr "Väljalaskesündmus"
 
 #: ../root/report/release_group_url_list.tt:6
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
@@ -6307,17 +6307,17 @@ msgstr ""
 #: ../root/release_group/layout.tt:8
 #, perl-format
 msgid "Release group information"
-msgstr ""
+msgstr "Väljalaskerühma teave"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Release group ratings"
-msgstr ""
+msgstr "Väljalaskerühma hinnangud"
 
 #: ../root/release/relationships.tt:4
 #, perl-format
 msgid "Release group relationships"
-msgstr ""
+msgstr "Väljalaskerühma seosed"
 
 #: ../root/release_group/layout.tt:1
 #, perl-format
@@ -6332,12 +6332,12 @@ msgstr ""
 #: ../root/edit/details/remove_release_group.tt:3
 #, perl-format
 msgid "Release group:"
-msgstr ""
+msgstr "Väljalaskerühm:"
 
 #: ../root/report/index.tt:32
 #, perl-format
 msgid "Release groups"
-msgstr ""
+msgstr "Väljalaskerühmad"
 
 #: ../root/artist/browse_various.tt:5 ../root/browse/release_group.tt:8
 #, perl-format
@@ -6363,7 +6363,7 @@ msgstr "Väljalasketeave"
 #: ../root/cdtoc/attach_filter_release.tt:28 ../root/cdtoc/move_search.tt:13
 #, perl-format
 msgid "Release title:"
-msgstr ""
+msgstr "Väljalaske pealkiri:"
 
 #: ../root/release/layout.tt:1
 #, perl-format
@@ -6402,7 +6402,7 @@ msgstr "Väljalase:"
 #: ../root/user/collections.tt:10 ../root/user/tag.tt:4
 #, perl-format
 msgid "Releases"
-msgstr ""
+msgstr "Välalasked"
 
 #: ../root/report/tracks_named_with_sequence.tt:1
 #: ../root/report/tracks_named_with_sequence.tt:3
@@ -6566,7 +6566,7 @@ msgstr ""
 #: ../root/edit/details/set_track_lengths.tt:5
 #, perl-format
 msgid "Releases:"
-msgstr ""
+msgstr "Väljalasked:"
 
 #: ../root/account/edit.tt:40 ../root/account/edit.tt:49
 #: ../root/admin/wikidoc/index.tt:109 ../root/artist/relationships.tt:73
@@ -6604,12 +6604,12 @@ msgstr ""
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr ""
+msgstr "Eemalda kaanepilt"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
 msgid "Remove Disc ID"
-msgstr ""
+msgstr "Eemalda plaadi-ID"
 
 #: ../root/isrc/delete.tt:1 ../root/isrc/delete.tt:3
 #, perl-format
@@ -6619,17 +6619,17 @@ msgstr "Eemalda ISRC „{isrc}”"
 #: ../root/iswc/delete.tt:1 ../root/iswc/delete.tt:3
 #, perl-format
 msgid "Remove ISWC “{iswc}”"
-msgstr ""
+msgstr "Eemalda ISWC „{iswc}”"
 
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:82
 #, perl-format
 msgid "Remove Label"
-msgstr ""
+msgstr "Eemalda plaadifirma"
 
 #: ../root/label/delete_alias.tt:1
 #, perl-format
 msgid "Remove Label Alias"
-msgstr ""
+msgstr "Eemalda plaadifirma alias"
 
 #: ../root/recording/delete_puid.tt:1
 #: ../lib/MusicBrainz/Server/Edit/PUID/Delete.pm:14
@@ -6640,125 +6640,125 @@ msgstr "Eemalda PUID"
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 #, perl-format
 msgid "Remove Page"
-msgstr ""
+msgstr "Eemalda leht"
 
 #: ../root/recording/delete.tt:2
 #, perl-format
 msgid "Remove Recording"
-msgstr ""
+msgstr "Eemalda salvestis"
 
 #: ../root/edit/relationship/delete.tt:1 ../root/edit/relationship/delete.tt:3
 #, perl-format
 msgid "Remove Relationship"
-msgstr ""
+msgstr "Eemalda seos"
 
 #: ../root/relationship/linkattributetype/delete.tt:1
 #: ../root/relationship/linkattributetype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Attribute"
-msgstr ""
+msgstr "Eemalda seoseatribuut"
 
 #: ../root/relationship/linktype/delete.tt:1
 #: ../root/relationship/linktype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Type"
-msgstr ""
+msgstr "Eemalda seosetüüp"
 
 #: ../root/release/delete.tt:2
 #, perl-format
 msgid "Remove Release"
-msgstr ""
+msgstr "Eemalda väljalase"
 
 #: ../root/release_group/delete.tt:1
 #, perl-format
 msgid "Remove Release Group"
-msgstr ""
+msgstr "Eemalda väljalaskerühm"
 
 #: ../root/release_group/delete.tt:2
 #, perl-format
 msgid "Remove Release Group "
-msgstr ""
+msgstr "Eemalda väljalaskerühm "
 
 #: ../root/work/delete_alias.tt:1
 #, perl-format
 msgid "Remove Work Alias"
-msgstr ""
+msgstr "Eemalda teose alias"
 
 #: ../root/collection/delete.tt:2 ../root/collection/delete.tt:7
 #, perl-format
 msgid "Remove collection"
-msgstr ""
+msgstr "Eemalda kogu"
 
 #: ../root/release/edit/tracklist.tt:407
 #, perl-format
 msgid "Remove disc"
-msgstr ""
+msgstr "Eemalda plaat"
 
 #: ../root/release/sidebar.tt:126
 #, perl-format
 msgid "Remove from my collection"
-msgstr ""
+msgstr "Eemalda mu kogust"
 
 #: ../root/release/sidebar.tt:128
 #, perl-format
 msgid "Remove from {collection}"
-msgstr ""
+msgstr "Eemalda kogust {collection}"
 
 #: ../root/label/layout.tt:72
 #: ../lib/MusicBrainz/Server/Edit/Label/Delete.pm:12
 #, perl-format
 msgid "Remove label"
-msgstr ""
+msgstr "Eemalda plaadifirma"
 
 #: ../root/recording/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
 #, perl-format
 msgid "Remove recording"
-msgstr ""
+msgstr "Eemalda salvestis"
 
 #: ../root/release/sidebar.tt:84
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 #, perl-format
 msgid "Remove release"
-msgstr ""
+msgstr "Eemlda väljalase"
 
 #: ../root/release_group/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 #, perl-format
 msgid "Remove release group"
-msgstr ""
+msgstr "Eemalda väljalaskerühm"
 
 #: ../root/layout/merge-helper.tt:33
 #, perl-format
 msgid "Remove selected entities"
-msgstr ""
+msgstr "Eemalda valitud üksused"
 
 #: ../root/collection/index.tt:47
 #, perl-format
 msgid "Remove selected releases from collection"
-msgstr ""
+msgstr "Eemalda valitud väljalasked kogust"
 
 #: ../root/collection/layout.tt:10
 #, perl-format
 msgid "Remove this collection"
-msgstr ""
+msgstr "Eemalda see kogu"
 
 #: ../root/release/edit/tracklist.tt:338
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
 #, perl-format
 msgid "Remove track"
-msgstr ""
+msgstr "Eemalda rada"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
 msgid "Remove your rating"
-msgstr ""
+msgstr "Eemalda oma hinnang"
 
 #: ../root/components/forms.tt:108 ../root/components/forms.tt:109
 #, perl-format
 msgid "Remove {item}"
-msgstr ""
+msgstr "Eemalda {item}"
 
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
