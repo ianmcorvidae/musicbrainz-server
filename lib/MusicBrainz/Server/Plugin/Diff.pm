@@ -115,7 +115,7 @@ sub _link_artist_credit_name {
     else {
         return $h->span({
             class => 'deleted tooltip',
-            title => l('This entity has been removed, and cannot be displayed correctly.')
+            title => l('This entity has been removed or merged, and cannot be displayed correctly.')
         }, $name || html_filter($acn->name));
     }
 }
