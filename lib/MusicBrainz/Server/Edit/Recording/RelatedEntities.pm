@@ -10,7 +10,7 @@ around '_build_related_entities' => sub
     my $self = shift;
 
     my @recordings = values %{
-        $self->c->model('Recording')->get_by_ids($self->recording_ids)
+        $self->c->model('Recording')->get_by_any_ids($self->recording_ids)
     };
 
     my @releases = $self->c->model('Release')->find_by_recording(

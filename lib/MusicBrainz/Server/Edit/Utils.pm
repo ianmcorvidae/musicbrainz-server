@@ -47,7 +47,7 @@ sub verify_artist_credits
         }
     }
 
-    my @artists = values %{ $c->model('Artist')->get_by_ids(@artist_ids) };
+    my @artists = values %{ $c->model('Artist')->get_by_any_ids(@artist_ids) };
 
     if (@artists != uniq @artist_ids) {
         MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(

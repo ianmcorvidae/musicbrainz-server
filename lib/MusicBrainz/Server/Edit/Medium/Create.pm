@@ -94,7 +94,7 @@ sub build_display_data
 {
     my ($self, $loaded) = @_;
 
-    my $medium = $self->entity_id && $self->c->model('Medium')->get_by_id($self->entity_id);
+    my $medium = $self->entity_id && $self->c->model('Medium')->get_by_any_id($self->entity_id);
     if ($medium)
     {
         $self->c->model('Release')->load($medium);

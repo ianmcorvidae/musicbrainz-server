@@ -155,7 +155,7 @@ sub _build_relationship
                 map {
                     my $attr    = $loaded->{LinkAttributeType}{ $_ };
                     my $root_id = $self->c->model('LinkAttributeType')->find_root($attr->id);
-                    $attr->root( $self->c->model('LinkAttributeType')->get_by_id($root_id) );
+                    $attr->root( $self->c->model('LinkAttributeType')->get_by_any_id($root_id) );
                     $attr;
                 } @$attributes
             ]
@@ -310,7 +310,7 @@ sub accept
 
     my $data = clone($self->data);
 
-    my $relationship = $self->c->model('Relationship')->get_by_id(
+    my $relationship = $self->c->model('Relationship')->get_by_any_id(
         $data->{type0}, $data->{type1},
         $data->{relationship_id}
     );
@@ -346,8 +346,8 @@ sub accept
 
     MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(
         'One of the end points of this relationship no longer exists'
-    ) if !$self->c->model(type_to_model($data->{type0}))->get_by_id($values->{entity0_id}) ||
-         !$self->c->model(type_to_model($data->{type1}))->get_by_id($values->{entity1_id});
+    ) if !$self->c->model(type_to_model($data->{type0}))->get_by_any_id($values->{entity0_id}) ||
+         !$self->c->model(type_to_model($data->{type1}))->get_by_any_id($values->{entity1_id});
 
     $self->c->model('Relationship')->update(
         $data->{type0},
@@ -356,17 +356,17 @@ sub accept
         $values
     );
 
-    my $link_type = $self->c->model('LinkType')->get_by_id(
+    my $link_type = $self->c->model('LinkType')->get_by_any_id(
         $values->{link_type_id}
     );
 
     if ($self->c->model('CoverArt')->can_parse($link_type->name)) {
-        my $relationship = $self->c->model('Relationship')->get_by_id(
+        my $relationship = $self->c->model('Relationship')->get_by_any_id(
             $data->{type0}, $data->{type1},
             $data->{relationship_id}
         );
 
-        my $release = $self->c->model('Release')->get_by_id(
+        my $release = $self->c->model('Release')->get_by_any_id(
             $relationship->entity0_id
         );
         $self->c->model('Relationship')->load_subset([ 'url' ], $release);

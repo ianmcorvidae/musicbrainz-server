@@ -192,7 +192,7 @@ around extract_property => sub {
 
 sub current_instance {
     my $self = shift;
-    my $rg = $self->c->model('ReleaseGroup')->get_by_id($self->entity_id);
+    my $rg = $self->c->model('ReleaseGroup')->get_by_any_id($self->entity_id);
     $self->c->model('ReleaseGroupSecondaryType')->load_for_release_groups($rg);
     return $rg;
 }
@@ -214,7 +214,7 @@ before accept => sub {
     verify_artist_credits($self->c, $self->data->{new}{artist_credit});
 
     if (my $type_id = $self->data->{new}{type_id}) {
-        if (!$self->c->model('ReleaseGroupType')->get_by_id($type_id)) {
+        if (!$self->c->model('ReleaseGroupType')->get_by_any_id($type_id)) {
             MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(
                 "This edit changes the release group's primary type to a type that no longer exists."
             );

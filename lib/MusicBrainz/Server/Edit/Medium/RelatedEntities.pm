@@ -8,7 +8,7 @@ around '_build_related_entities' => sub
 {
     my $orig = shift;
     my ($self) = shift;
-    my $medium = $self->c->model('Medium')->get_by_id($self->medium_id);
+    my $medium = $self->c->model('Medium')->get_by_any_id($self->medium_id);
     $self->c->model('Release')->load($medium);
     $self->c->model('ReleaseGroup')->load($medium->release);
 

@@ -10,7 +10,7 @@ around '_build_related_entities' => sub
     my $self = shift;
 
     my @works = values %{
-        $self->c->model('Work')->get_by_ids($self->work_ids)
+        $self->c->model('Work')->get_by_any_ids($self->work_ids)
     };
 
     $self->c->model('Relationship')->load_subset([ 'artist' ], @works);

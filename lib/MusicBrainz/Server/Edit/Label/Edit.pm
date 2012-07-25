@@ -173,7 +173,7 @@ sub allow_auto_edit
 
 sub current_instance {
     my $self = shift;
-    $self->c->model('Label')->get_by_id($self->entity_id),
+    $self->c->model('Label')->get_by_any_id($self->entity_id),
 }
 
 sub _edit_hash {

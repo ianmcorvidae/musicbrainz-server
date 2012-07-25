@@ -12,7 +12,7 @@ use MusicBrainz::Server::Data::Editor;
 use MusicBrainz::Server::EditRegistry;
 use MusicBrainz::Server::Edit::Exceptions;
 use MusicBrainz::Server::Constants qw( :edit_status $VOTE_YES $AUTO_EDITOR_FLAG $UNTRUSTED_FLAG $VOTE_APPROVE );
-use MusicBrainz::Server::Data::Utils qw( placeholders query_to_list query_to_list_limited );
+use MusicBrainz::Server::Data::Utils qw( placeholders query_to_list query_to_list_limited type_to_model );
 use JSON::Any;
 
 use aliased 'MusicBrainz::Server::Entity::EditorSubscription';
@@ -417,7 +417,8 @@ sub create
 
     my $ents = $edit->related_entities;
     while (my ($type, $ids) = each %$ents) {
-        $ids = [ uniq grep { defined } @$ids ];
+        $ids = [ uniq map { $_->id } 
+                 values %{$self->c->model(type_to_model($type))->get_by_any_ids(grep { defined } @$ids)} ];
         @$ids or next;
         my $query = "INSERT INTO edit_$type (edit, $type) VALUES ";
         $query .= join ", ", ("(?, ?)") x @$ids;
@@ -465,7 +466,7 @@ sub load_all
     my $load_arguments = {};
     while (my ($model, $ids) = each %$objects_to_load) {
         my $m = ref $model ? $model : $self->c->model($model);
-        $loaded->{$model} = $m->get_by_ids(@$ids);
+        $loaded->{$model} = $m->get_by_any_ids(@$ids);
 
         # Now we need to load any extra information about each object
         for my $id (@$ids) {

@@ -49,8 +49,8 @@ sub _build_related_entities
 {
     my $self = shift;
 
-    my @releases = values %{ $self->c->model('Release')->get_by_ids($self->data->{release}{id}) };
-    my @groups = values %{ $self->c->model('ReleaseGroup')->get_by_ids($self->data->{old_release_group}{id},
+    my @releases = values %{ $self->c->model('Release')->get_by_any_ids($self->data->{release}{id}) };
+    my @groups = values %{ $self->c->model('ReleaseGroup')->get_by_any_ids($self->data->{old_release_group}{id},
                                                                        $self->data->{new_release_group}{id}) };
 
     $self->c->model('ArtistCredit')->load(@releases, @groups);
@@ -116,7 +116,7 @@ sub initialize
 sub accept
 {
     my $self = shift;
-    my $target = $self->c->model('ReleaseGroup')->get_by_id($self->data->{new_release_group}{id})
+    my $target = $self->c->model('ReleaseGroup')->get_by_any_id($self->data->{new_release_group}{id})
         or MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(
             'The destination release group no longer exists'
         );

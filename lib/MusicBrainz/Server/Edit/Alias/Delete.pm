@@ -38,7 +38,7 @@ sub build_display_data
         alias => $self->data->{name},
         locale => $self->data->{locale},
         sort_name => $self->data->{sort_name},
-        type => $self->_alias_model->parent->alias_type->get_by_id($self->data->{type_id}),
+        type => $self->_alias_model->parent->alias_type->get_by_any_id($self->data->{type_id}),
         begin_date => PartialDate->new($self->data->{begin_date}),
         end_date => PartialDate->new($self->data->{end_date}),
         primary_for_locale => $self->data->{primary_for_locale}

@@ -85,10 +85,10 @@ sub initialize {
     $self->c->model('Release')->load(@$mediums);
     $self->c->model('ArtistCredit')->load(map { $_->release } @$mediums);
 
-    my $tracklist = $self->c->model('Tracklist')->get_by_id($tracklist_id);
+    my $tracklist = $self->c->model('Tracklist')->get_by_any_id($tracklist_id);
     $self->c->model('Track')->load_for_tracklists($tracklist);
 
-    my $cdtoc = $self->c->model('CDTOC')->get_by_id($cdtoc_id);
+    my $cdtoc = $self->c->model('CDTOC')->get_by_any_id($cdtoc_id);
 
     $self->data({
         tracklist_id => $tracklist_id,
@@ -111,7 +111,7 @@ sub accept {
     my $self = shift;
 
     my $tracklist_id = $self->data->{tracklist_id};
-    if (!$self->c->model('Tracklist')->get_by_id($tracklist_id)) {
+    if (!$self->c->model('Tracklist')->get_by_any_id($tracklist_id)) {
         MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(
             'The tracklist to set track times no longer exists. It may have '.
             'been merged into another identical tracklist, or been changed '.

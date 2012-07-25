@@ -133,7 +133,7 @@ sub accept {
 
     verify_artist_credits($self->c, $self->data->{new_artist_credit});
 
-    my $release = $self->c->model('Release')->get_by_id($self->data->{release}{id});
+    my $release = $self->c->model('Release')->get_by_any_id($self->data->{release}{id});
 
     if (!$release) {
         MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(

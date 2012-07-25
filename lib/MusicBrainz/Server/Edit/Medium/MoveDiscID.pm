@@ -132,12 +132,12 @@ sub initialize
 sub accept
 {
     my $self = shift;
-    my $medium = $self->c->model('Medium')->get_by_id($self->data->{new_medium}{id})
+    my $medium = $self->c->model('Medium')->get_by_any_id($self->data->{new_medium}{id})
         or MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(
             'The target medium no longer exists'
         );
 
-    my $medium_cdtoc = $self->c->model('MediumCDTOC')->get_by_id($self->data->{medium_cdtoc}{id});
+    my $medium_cdtoc = $self->c->model('MediumCDTOC')->get_by_any_id($self->data->{medium_cdtoc}{id});
     $self->c->model('CDTOC')->load($medium_cdtoc);
 
     if (!$medium_cdtoc || !$medium_cdtoc->cdtoc) {

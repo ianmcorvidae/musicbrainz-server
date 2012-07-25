@@ -9,7 +9,7 @@ around '_build_related_entities' => sub
     my $orig = shift;
     my $self = shift;
 
-    my @releases = values %{ $self->c->model('Release')->get_by_ids($self->release_ids) };
+    my @releases = values %{ $self->c->model('Release')->get_by_any_ids($self->release_ids) };
     $self->c->model('ReleaseGroup')->load(@releases);
     $self->c->model('ArtistCredit')->load(
         @releases, map { $_->release_group } @releases);

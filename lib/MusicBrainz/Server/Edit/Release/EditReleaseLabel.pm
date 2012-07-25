@@ -181,7 +181,7 @@ sub accept
     if (my $label_id = $args{label_id}) {
         MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(
             'The new label no longer exists'
-        ) unless $self->c->model('Label')->get_by_id($label_id);
+        ) unless $self->c->model('Label')->get_by_any_id($label_id);
     }
 
     $self->c->model('ReleaseLabel')->update($self->release_label_id, \%args);

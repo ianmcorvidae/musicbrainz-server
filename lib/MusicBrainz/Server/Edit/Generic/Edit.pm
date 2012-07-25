@@ -59,7 +59,7 @@ override 'accept' => sub
 {
     my $self = shift;
 
-    if (!$self->c->model($self->_edit_model)->get_by_id($self->entity_id)) {
+    if (!$self->c->model($self->_edit_model)->get_by_any_id($self->entity_id)) {
         MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(
             'This entity no longer exists'
         )

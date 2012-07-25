@@ -311,7 +311,7 @@ sub track_column {
 sub accept {
     my $self = shift;
 
-    if (!$self->c->model('Medium')->get_by_id($self->entity_id)) {
+    if (!$self->c->model('Medium')->get_by_any_id($self->entity_id)) {
         MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(
             'This edit cannot be applied, as the medium being edited no longer exists.'
         )
@@ -321,8 +321,8 @@ sub accept {
 
     if ($self->data->{new}{tracklist}) {
         my $data_new_tracklist = clone ($self->data->{new}{tracklist});
-        my $medium = $self->c->model('Medium')->get_by_id($self->medium_id);
-        my $tracklist = $self->c->model('Tracklist')->get_by_id($medium->tracklist_id);
+        my $medium = $self->c->model('Medium')->get_by_any_id($self->medium_id);
+        my $tracklist = $self->c->model('Tracklist')->get_by_any_id($medium->tracklist_id);
         $self->c->model('Track')->load_for_tracklists($tracklist);
         $self->c->model('ArtistCredit')->load($tracklist->all_tracks);
 
@@ -364,7 +364,7 @@ sub accept {
 
         # Create the final merged tracklist
         my @final_tracklist;
-        my $existing_recordings = $self->c->model('Recording')->get_by_ids(@merged_recordings);
+        my $existing_recordings = $self->c->model('Recording')->get_by_any_ids(@merged_recordings);
         while(1) {
             last unless @merged_artist_credits &&
                         @merged_lengths &&

@@ -55,7 +55,7 @@ has alias => (
 
 sub _load_alias {
     my $self = shift;
-    return $self->_alias_model->get_by_id($self->alias_id);
+    return $self->_alias_model->get_by_any_id($self->alias_id);
 }
 
 sub alias_id { shift->data->{alias_id} }
@@ -94,8 +94,8 @@ sub build_display_data
                 name => $self->data->{entity}{name}
             ),
         type => {
-            new => $self->_alias_model->parent->alias_type->get_by_id($self->data->{new}{type_id}),
-            old => $self->_alias_model->parent->alias_type->get_by_id($self->data->{old}{type_id}),
+            new => $self->_alias_model->parent->alias_type->get_by_any_id($self->data->{new}{type_id}),
+            old => $self->_alias_model->parent->alias_type->get_by_any_id($self->data->{old}{type_id}),
         },
         begin_date => {
             new => partial_date_from_row($self->data->{new}{begin_date}),

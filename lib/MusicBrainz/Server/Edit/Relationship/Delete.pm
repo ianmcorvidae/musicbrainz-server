@@ -197,7 +197,7 @@ sub accept
 {
     my $self = shift;
 
-    my $relationship = $self->c->model('Relationship')->get_by_id(
+    my $relationship = $self->c->model('Relationship')->get_by_any_id(
         $self->data->{relationship}{link}{type}{entity0_type},
         $self->data->{relationship}{link}{type}{entity1_type},
         $self->data->{relationship}{id}
@@ -211,7 +211,7 @@ sub accept
     if ($self->data->{relationship}{link}{type}{entity0_type} eq 'release' &&
         $self->data->{relationship}{link}{type}{entity1_type} eq 'url')
     {
-        my $release = $self->c->model('Release')->get_by_id(
+        my $release = $self->c->model('Release')->get_by_any_id(
             $relationship->entity0_id
         );
         $self->c->model('Relationship')->load_subset([ 'url' ], $release);

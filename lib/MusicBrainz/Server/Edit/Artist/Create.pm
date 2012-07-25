@@ -84,7 +84,7 @@ sub _insert_hash
 
 after insert => sub {
     my ($self) = @_;
-    my $editor = $self->c->model('Editor')->get_by_id($self->editor_id);
+    my $editor = $self->c->model('Editor')->get_by_any_id($self->editor_id);
     $self->c->model('Editor')->load_preferences($editor);
 
     if ($editor->preferences->subscribe_to_created_artists) {

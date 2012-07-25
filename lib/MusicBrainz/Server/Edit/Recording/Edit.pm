@@ -68,7 +68,7 @@ has '+data' => (
 
 sub current_instance {
     my $self = shift;
-    return $self->c->model('Recording')->get_by_id($self->entity_id);
+    return $self->c->model('Recording')->get_by_any_id($self->entity_id);
 }
 
 sub foreign_keys

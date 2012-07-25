@@ -25,11 +25,11 @@ sub _create_model { 'Relationship' }
 has '+data' => (
     isa => Dict[
         entity0      => Dict[
-            id   => Int,
+            id   => Str,
             name => Str
         ],
         entity1      => Dict[
-            id   => Int,
+            id   => Str,
             name => Str
         ],
         link_type    => Dict[
@@ -56,12 +56,12 @@ sub initialize
     my $lt = delete $opts{link_type} or die "No link type";
 
     $opts{entity0} = {
-        id => $e0->id,
+        id => $e0->gid,
         name => $e0->name,
     };
 
     $opts{entity1} = {
-        id => $e1->id,
+        id => $e1->gid,
         name => $e1->name,
     };
 
@@ -110,7 +110,7 @@ sub build_display_data
                     map {
                         my $attr    = $loaded->{LinkAttributeType}{ $_ };
                         my $root_id = $self->c->model('LinkAttributeType')->find_root($attr->id);
-                        $attr->root( $self->c->model('LinkAttributeType')->get_by_id($root_id) );
+                        $attr->root( $self->c->model('LinkAttributeType')->get_by_any_id($root_id) );
                         $attr;
                     } @{ $self->data->{attributes} }
                 ]
@@ -163,8 +163,8 @@ sub insert
     my $relationship = $self->c->model('Relationship')->insert(
         $self->data->{type0},
         $self->data->{type1}, {
-            entity0_id   => $self->data->{entity0}{id},
-            entity1_id   => $self->data->{entity1}{id},
+            entity0_id   => $self->c->model(type_to_model($self->data->{type0}))->get_by_any_id($self->data->{entity0}{id})->id,
+            entity1_id   => $self->c->model(type_to_model($self->data->{type1}))->get_by_any_id($self->data->{entity1}{id})->id,
             attributes   => $self->data->{attributes},
             link_type_id => $self->data->{link_type}{id},
             begin_date   => $self->data->{begin_date},
@@ -174,12 +174,12 @@ sub insert
 
     $self->entity_id($relationship->id);
 
-    my $link_type = $self->c->model('LinkType')->get_by_id(
+    my $link_type = $self->c->model('LinkType')->get_by_any_id(
         $self->data->{link_type}{id},
     );
 
     if ($self->c->model('CoverArt')->can_parse($link_type->name)) {
-        my $release = $self->c->model('Release')->get_by_id(
+        my $release = $self->c->model('Release')->get_by_any_id(
             $self->data->{entity0}{id}
         );
         $self->c->model('Relationship')->load_subset([ 'url' ], $release);
@@ -196,12 +196,12 @@ sub reject
         $self->entity_id
     );
 
-    my $link_type = $self->c->model('LinkType')->get_by_id(
+    my $link_type = $self->c->model('LinkType')->get_by_any_id(
         $self->data->{link_type}{id},
     );
 
     if ($self->c->model('CoverArt')->can_parse($link_type->name)) {
-        my $release = $self->c->model('Release')->get_by_id(
+        my $release = $self->c->model('Release')->get_by_any_id(
             $self->data->{entity0}{id}
         );
         $self->c->model('Relationship')->load_subset([ 'url' ], $release);

@@ -81,7 +81,7 @@ around accept => sub {
 
     MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(
         l('This URL has already been merged into another URL')
-    ) unless $self->c->model('URL')->get_by_id($self->url_id);
+    ) unless $self->c->model('URL')->get_by_any_id($self->url_id);
 
     my $new_id = $self->c->model( $self->_edit_model )->update(
         $self->entity_id,
@@ -96,7 +96,7 @@ around accept => sub {
 
 sub current_instance {
     my $self = shift;
-    $self->c->model('URL')->get_by_id($self->url_id),
+    $self->c->model('URL')->get_by_any_id($self->url_id),
 }
 
 around extract_property => sub {

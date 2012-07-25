@@ -6,6 +6,7 @@ use Class::MOP;
 use List::MoreUtils qw( uniq );
 use MusicBrainz::Server::Data::Utils qw( placeholders );
 use Carp qw( confess );
+use Scalar::Util qw( looks_like_number );
 
 with 'MusicBrainz::Server::Data::Role::Sql';
 with 'MusicBrainz::Server::Data::Role::NewFromRow';
@@ -78,6 +79,33 @@ sub get_by_ids
     return {} unless @ids;
 
     return $self->_get_by_keys($self->_id_column, uniq(@ids));
+}
+
+sub get_by_any_id {
+    my $self = shift;
+    my $some_id = $_[-1];
+    return unless $some_id;
+    if (looks_like_number($some_id) or !$self->can('get_by_gid')) {
+        return $self->get_by_id(@_)
+    } else {
+        return $self->get_by_gid(@_)
+    }
+}
+
+sub get_by_any_ids {
+    my $self = shift;
+
+    if (!$self->can('get_by_gids')) {
+        return $self->get_by_ids(@_);
+    } else {
+        my @ids = grep { looks_like_number($_) } @_;
+        my @gids = grep { ! looks_like_number($_) } @_;
+
+        my %by_id = %{$self->get_by_ids(@ids)};
+        my %by_gid = %{$self->get_by_gids(@gids)};
+        @by_id{ keys %by_gid } = values %by_gid;
+        return \%by_id;
+    }
 }
 
 sub _get_by_key

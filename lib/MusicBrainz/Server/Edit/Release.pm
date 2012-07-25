@@ -13,7 +13,7 @@ sub determine_quality { }
 around determine_quality => sub {
     my ($orig, $self) = @_;
 
-    return max map { $_->quality } values %{ $self->c->model('Release')->get_by_ids( $self->release_ids ) };
+    return max map { $_->quality } values %{ $self->c->model('Release')->get_by_any_ids( $self->release_ids ) };
 };
 
 1;

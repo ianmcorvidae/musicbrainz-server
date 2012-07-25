@@ -215,7 +215,7 @@ around extract_property => sub {
 
 sub current_instance {
     my $self = shift;
-    return $self->c->model('Release')->get_by_id($self->entity_id);
+    return $self->c->model('Release')->get_by_any_id($self->entity_id);
 }
 
 sub _edit_hash
@@ -237,7 +237,7 @@ before accept => sub {
 
     if ($self->data->{new}{release_group_id} &&
         $self->data->{new}{release_group_id} != $self->data->{old}{release_group_id} &&
-       !$self->c->model('ReleaseGroup')->get_by_id($self->data->{new}{release_group_id})) {
+       !$self->c->model('ReleaseGroup')->get_by_any_id($self->data->{new}{release_group_id})) {
         MusicBrainz::Server::Edit::Exceptions::FailedDependency->throw(
             'The new release group does not exist.'
         );

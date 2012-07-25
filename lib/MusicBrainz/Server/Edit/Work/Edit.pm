@@ -101,7 +101,7 @@ sub allow_auto_edit
 
 sub current_instance {
     my $self = shift;
-    $self->c->model('Work')->get_by_id($self->entity_id),
+    $self->c->model('Work')->get_by_any_id($self->entity_id),
 }
 
 around new_data => sub {
