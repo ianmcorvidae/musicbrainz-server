@@ -29,11 +29,11 @@ has '+data' => (
         relationship => Dict[
             id => Int,
             entity0 => Dict[
-                id => Int,
+                id => Str,
                 name => Str,
             ],
             entity1 => Dict[
-                id => Int,
+                id => Str,
                 name => Str,
             ],
             phrase     => Str,
@@ -173,11 +173,11 @@ sub initialize
         relationship => {
             id => $relationship->id,
             entity0 => {
-                id => $relationship->entity0_id,
+                id => $relationship->entity0->gid,
                 name => $relationship->entity0->name
             },
             entity1 => {
-                id => $relationship->entity1_id,
+                id => $relationship->entity1->gid,
                 name => $relationship->entity1->name
             },
             phrase => $relationship->verbose_phrase,
