@@ -43,11 +43,11 @@ subtype 'LinkHash'
         end_date => Nullable[PartialDateHash],
         ended => Optional[Bool],
         entity0 => Nullable[Dict[
-            id => Int,
+            id => Str,
             name => Str,
         ]],
         entity1 => Nullable[Dict[
-            id => Int,
+            id => Str,
             name => Str,
         ]]
     ];
@@ -66,11 +66,11 @@ subtype 'RelationshipHash'
         end_date => Nullable[PartialDateHash],
         ended => Optional[Bool],
         entity0 => Nullable[Dict[
-            id => Int,
+            id => Str,
             name => Str,
         ]],
         entity1 => Nullable[Dict[
-            id => Int,
+            id => Str,
             name => Str,
         ]]
     ];
@@ -255,12 +255,12 @@ sub initialize
     }
 
     $opts{entity0} = {
-        id => $opts{entity0}->id,
+        id => $opts{entity0}->gid,
         name => $opts{entity0}->name
     } if $opts{entity0};
 
     $opts{entity1} = {
-        id => $opts{entity1}->id,
+        id => $opts{entity1}->gid,
         name => $opts{entity1}->name
     } if $opts{entity1};
 
@@ -325,8 +325,10 @@ sub accept
     # dict should be complete.  If a value isn't defined in $values in doesn't
     # change, so take the original value as it was stored in $link.
     my $values = {
-        entity0_id   => $data->{new}{entity0}{id}   // $relationship->entity0_id,
-        entity1_id   => $data->{new}{entity1}{id}   // $relationship->entity1_id,
+        entity0_id   => 
+	    $self->c->model(type_to_model($data->{type0}))->get_by_any_id($data->{new}{entity0}{id})->id   // $relationship->entity0_id,
+        entity1_id   => 
+	    $self->c->model(type_to_model($data->{type1}))->get_by_any_id($data->{new}{entity1}{id})->id   // $relationship->entity0_id,
         attributes   => $data->{new}{attributes}    // [
             map { $_->id } $relationship->link->all_attributes
         ],
