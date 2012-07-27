@@ -15,9 +15,9 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-07-15 20:27+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
-"Language-Team: Spanish (Castilian) (http://www.transifex.com/projects/p/musicbrainz/language/es/)\n"
+"PO-Revision-Date: 2012-07-27 10:45+0000\n"
+"Last-Translator: Nicolás Tamargo <email address hidden>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -352,7 +352,7 @@ msgid ""
 "<strong>Warning:</strong> Some of the recordings you're merging have "
 "different ISRCs. Please make sure they are indeed the same recordings and "
 "you wish to continue with the merge."
-msgstr ""
+msgstr "<strong>Atención:</strong> Varias de las grabaciones que quieres fusionar tienen diferentes ISRCs. Por favor, asegúrate de que son realmente la misma grabación antes de continuar."
 
 #: ../root/components/common-macros.tt:666 ../root/recording/edit.tt:41
 #: ../root/release/edit/tracklist.tt:131
@@ -2621,13 +2621,13 @@ msgstr "Discografía"
 #: ../root/report/discogs_links_with_multiple_artists.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Artists"
-msgstr ""
+msgstr "URLs de Discogs asociadas a más de un artista"
 
 #: ../root/report/discogs_links_with_multiple_labels.tt:1
 #: ../root/report/discogs_links_with_multiple_labels.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Labels"
-msgstr ""
+msgstr "URLs de Discogs asociadas a más de una discográfica"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
@@ -2644,12 +2644,12 @@ msgstr "URLs de Discogs asociadas a más de una publicación"
 #: ../root/report/index.tt:23
 #, perl-format
 msgid "Discogs URLs linked to multiple artists"
-msgstr ""
+msgstr "URLs de Discogs asociadas a más de un artista"
 
 #: ../root/report/index.tt:29
 #, perl-format
 msgid "Discogs URLs linked to multiple labels"
-msgstr ""
+msgstr "URLs de Discogs asociadas a más de una discográfica"
 
 #: ../root/report/index.tt:37
 #, perl-format
@@ -2755,7 +2755,7 @@ msgstr "Edición #{id}"
 #: ../root/edit/edit_header.tt:73 ../root/edit/edit_header.tt:88
 #, perl-format
 msgid "Edit #{id} - {name}"
-msgstr ""
+msgstr "Edición #{id} - {name}"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -6277,7 +6277,7 @@ msgstr "Publicación no encontrada"
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Release Quality"
-msgstr ""
+msgstr "Calidad de publicación"
 
 #: ../root/recording/index.tt:12
 #, perl-format
@@ -6846,12 +6846,12 @@ msgstr "Frase de enlace inversa:"
 #: ../root/release/edit/information.tt:142
 #, perl-format
 msgid "Review the {doc|list of packaging types} for help."
-msgstr ""
+msgstr "Consulta la {doc|lista de tipos de empaquetado} para saber más."
 
 #: ../root/layout.tt:81
 #, perl-format
 msgid "Running: <abbr title=\"{msg}\">{branch} ({sha})</abbr>"
-msgstr ""
+msgstr "Ejecutando: <abbr title=\"{msg}\">{branch} ({sha})</abbr>"
 
 #: ../root/account/edit.tt:81 ../root/account/preferences.tt:57
 #: ../root/relationship/linkattributetype/form.tt:21
@@ -7026,12 +7026,12 @@ msgstr "Sectores"
 #: ../root/collection/header.tt:17
 #, perl-format
 msgid "See all of your collections"
-msgstr ""
+msgstr "Ver todas mis colecciones"
 
 #: ../root/collection/header.tt:17
 #, perl-format
 msgid "See all of {editor}'s public collections"
-msgstr ""
+msgstr "Ver todas las colecciones públicas de {editor}"
 
 #: ../root/tag/index.tt:20
 #, perl-format
@@ -7117,7 +7117,7 @@ msgstr "Mostrar créditos"
 #: ../root/report/filter_link.tt:4
 #, perl-format
 msgid "Show all results."
-msgstr ""
+msgstr "Ver todos los resultados."
 
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
@@ -7137,7 +7137,7 @@ msgstr "Mostrar mi Gravatar"
 #: ../root/report/filter_link.tt:6
 #, perl-format
 msgid "Show only results that are in my subscribed entities."
-msgstr ""
+msgstr "Ver solo resultados en mis suscripciones."
 
 #: ../root/artist/index.tt:125
 #, perl-format
@@ -7589,7 +7589,7 @@ msgstr "Enviar este CD usando el método simple."
 #: ../root/edit/list.tt:81
 #, perl-format
 msgid "Submit votes &amp; edit notes"
-msgstr ""
+msgstr "Enviar votos y notas"
 
 #: ../root/artist/layout.tt:128 ../root/label/layout.tt:98
 #, perl-format
@@ -7793,7 +7793,7 @@ msgstr "Gracias por contribuir a MusicBrainz."
 msgid ""
 "Thank you, your email address has now been verified! If you still can't "
 "edit, please try to log out and log in again."
-msgstr ""
+msgstr "Gracias, ¡hemos verificado tu dirección de correo! Si aún no puedes editar, prueba a cerrar sesión y volver a iniciarla."
 
 #: ../root/release/caa_darkened.tt:3 ../root/release/cover_art.tt:56
 #, perl-format
@@ -7974,7 +7974,7 @@ msgstr "¡Los artistas de las grabaciones no coinciden! ¿Quizás pretendías us
 msgid ""
 "The recordings that will be merged if you continue with the current merge "
 "strategy include the following, whose artists differ:"
-msgstr ""
+msgstr "Las grabaciones que serán fusionadas si aplicas esta estrategia de fusión incluyen las siguientes, cuyos artistas difieren."
 
 #: ../root/relationship/linktype/in_use.tt:4
 #, perl-format
@@ -8082,7 +8082,7 @@ msgid ""
 "at the bottom of the {alias_uri|aliases} tab and remove all existing "
 "{rel_uri|relationships} instead, which will allow ModBot to automatically "
 "remove this artist in the upcoming days."
-msgstr ""
+msgstr "No hay grabaciones, grupos de publicaciones, publicaciones o pistas asociadas solo a {name}. Si estás intentando eliminar {name}, edita todos los créditos de artista de la parte inferior de la pestaña de {alias_uri|alias} y elimina todas las {rel_uri|relaciones}, lo que permitirá a ModBot eliminar el artista automáticamente en unos días."
 
 #: ../root/label/subscriptions.tt:11
 #, perl-format
@@ -8490,7 +8490,7 @@ msgid ""
 "they're different, add {disambiguation_comment|disambiguation comments} to "
 "them (and once a group of similarly named artists have disambiguation "
 "comments, they will stop appearing here)."
-msgstr ""
+msgstr "Este informe muestra artistas con nombres muy similares. Si dos de ellos son realmente el mismo, fusiónalos (no olvides {how_to_write_edit_notes|dejar una nota} con las pruebas que tengas). Si son diferentes, añade {disambiguation_comment|comentarios de disambiguación}; cuando todos los artistas con el mismo nombre tengan comentarios de disambiguación, dejarán de aparecer en este informe."
 
 #: ../root/report/tracks_named_with_sequence.tt:6
 #, perl-format
@@ -8499,7 +8499,7 @@ msgid ""
 "track number, e.g. \"1) Some Name\" (instead of just \"Some Name\"). Notice "
 "that sometimes this is justified and correct, don't automatically assume it "
 "is a mistake! If you confirm it is a mistake, please correct it."
-msgstr ""
+msgstr "Este informe muestra publicaciones cuyos títulos de pista incluyen su propio número de pista, como \"1) Título\" en vez de \"Título\". Ten en cuenta que algunas veces esto es correcto, ¡no asumas que debe ser un error! Pero si tienes la seguridad de que se trata de un error, corrígelo."
 
 #: ../root/report/releases_to_convert.tt:7
 #, perl-format
@@ -8508,7 +8508,7 @@ msgid ""
 "artists (because the track artists are on the title field, for example). "
 "Currently it does this by looking for releases where every track contains "
 "\"/\" or \"-\"."
-msgstr ""
+msgstr "Este informe intenta encontrar publicaciones que necesitan ser convertidas en publicaciones de múltiples artistas (porque los artistas están actualmente en los títulos). Para ello, busca publicaciones que contengan \"/\" o \"-\" en todos los títulos de pista."
 
 #: ../root/report/mediums_with_sequence_issues.tt:6
 #, perl-format
@@ -8609,12 +8609,12 @@ msgstr ""
 #: ../root/report/discogs_links_with_multiple_artists.tt:6
 #, perl-format
 msgid "This report shows Discogs URLs which are linked to multiple artists."
-msgstr ""
+msgstr "Este informe muestra URLs de Discogs asociadas a más de un artista."
 
 #: ../root/report/discogs_links_with_multiple_labels.tt:6
 #, perl-format
 msgid "This report shows Discogs URLs which are linked to multiple labels."
-msgstr ""
+msgstr "Este informe muestra URLs de Discogs asociadas a más de una discográfica."
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:6
 #, perl-format
@@ -8632,7 +8632,7 @@ msgid ""
 "etc.). You might also find some Discogs URLs linked to several discs of a "
 "multi-disc release: just merge those (see {how_to_merge_releases|How to "
 "Merge Releases})."
-msgstr ""
+msgstr "Este informe muestra URLs de Discogs asociadas a más de una publicación. En la mayoría de los casos una publicación de Discogs equivale a una y solo una publicación de MusicBrainz, así que solo uno de los enlaces será correcto. Comprueba cuál de las publicaciones en MusicBrainz coincide con la de Discogs (en formato, pistas, país, etc.) y elimina la relación con las demás. Es posible que encuentres una URL de Discogs asociada a varios discos de una publicación con múltiples discos; en ese caso, fusiónalos (comprueba {how_to_merge_releases|Cómo fusionar publicaciones})"
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:6
 #, perl-format
@@ -8652,7 +8652,7 @@ msgid ""
 "inherited from an older version of MusicBrainz and should be fixed (both at "
 "the recordings at the tracks!). Consult the {featured_artists|page about "
 "featured artists} to know more."
-msgstr ""
+msgstr "Este informe muestra grabaciones con (feat. Artista) en el título. En las grabaciones de música clásica, no cambies nada (salvo que estés familiarizado con las convenciones de música clásica). En los demás casos, esto proviene de una versión anterior de MusicBrainz y debe ser modificado tanto en las grabaciones como en las pistas asociadas. Consulta la {featured_artists|página sobre \"feat.\" en artistas}."
 
 #: ../root/report/featuring_release_groups.tt:6
 #, perl-format
@@ -8661,7 +8661,7 @@ msgid ""
 "classical releases, don't change anything. For non-classical releases, this "
 "is inherited from an older version of MusicBrainz and should be fixed. "
 "Consult the {featured_artists|page about featured artists} to know more."
-msgstr ""
+msgstr "Este informe muestra grupos de publicaciones con (feat. Artista) en el título. En los grupos de publicaciones de música clásica, no cambies nada (salvo que estés familiarizado con las convenciones de música clásica). En los demás casos, esto proviene de una versión anterior de MusicBrainz y debe ser modificado. Consulta la {featured_artists|página sobre \"feat.\" en artistas}."
 
 #: ../root/report/set_in_different_rg.tt:6
 #, perl-format
@@ -8689,7 +8689,7 @@ msgid ""
 " be correct. Just check which ones do not fit the release (because of "
 "format, different number of tracks, etc). If the release has a barcode, you "
 "can search Amazon for it and see which ASIN matches."
-msgstr ""
+msgstr "Este informe muestra publicaciones asociadas a más de una ASIN de Amazon. En la mayoría de los casos una ASIN de Amazon corresponde a una y solo una publicación de MusicBrainz, así que solo uno de los enlaces será correcto. Comprueba cuáles no coinciden con la de MusicBrainz (en formato, número de pistas, etc.) y elíminalas."
 
 #: ../root/report/multiple_discogs_links.tt:6
 #, perl-format
@@ -8700,7 +8700,7 @@ msgid ""
 "release (because of format, different number of tracks, etc). Any \"master\""
 " Discogs page belongs at the {release_group|release group level}, not at the"
 " release level, and should be removed from releases too."
-msgstr ""
+msgstr "Este informe muestra publicaciones asociadas a más de una URL de Discogs. En la mayoría de los casos una publicación de Discogs equivale a una y solo una publicación de MusicBrainz, así que solo uno de los enlaces será correcto. Comprueba cuál de las publicaciones en Discogs coincide con la de MusicBrainz (en formato, pistas, país, etc.) y elimina el resto de las relaciones. Las páginas \"master\" de Discogs deben asociarse al {release_group|grupo de publicaciones}, no a una publicación específica, así que deberías eliminarlas si las ves."
 
 #: ../root/report/releases_without_language.tt:6
 #, perl-format
@@ -8708,7 +8708,7 @@ msgid ""
 "This report shows releases that have no language set. If you recognize the "
 "language, please set it! Do it only if you are pretty sure, don't just "
 "guess: not everything written in Cyrillic is Russian, for example."
-msgstr ""
+msgstr "Este informe muestra publicaciones cuyo idioma no ha sido indicado. Si reconoces el idioma, ¡indícalo! Hazlo solo si tienes la seguridad, no hagas suposiciones: por ejemplo, no todos los títulos escritos en cirílico están escritos en ruso."
 
 #: ../root/report/releases_without_script.tt:6
 #, perl-format
@@ -8716,7 +8716,7 @@ msgid ""
 "This report shows releases that have no script set. If you recognize the "
 "script, just add it! Remember that the script used for English (and most "
 "other European languages) is Latin."
-msgstr ""
+msgstr "Este informe muestra publicaciones cuyo alfabeto no ha sido indicado. Si reconoces el alfabeto, ¡indícalo! Recuerda que el alfabeto usado para el inglés, el español y la mayoría de los idiomas europeos es el latino."
 
 #: ../root/report/releases_with_cc_links.tt:6
 #, perl-format
@@ -8743,7 +8743,7 @@ msgid ""
 "others are unset. In most cases, it should be easy to find out which the "
 "correct formats are (don't just assume that they're all CDs because one is "
 "though!)."
-msgstr ""
+msgstr "Este informe muestra publicaciones en las que algunos medios tienen un formato indicado, pero otros no tienen ninguno. En la mayoría de los casos debería ser sencillo encontrar los formatos que faltan, ¡pero no asumas que si uno es un CD, todos deben serlo!"
 
 #: ../root/report/separate_discs.tt:6
 #, perl-format
@@ -8765,7 +8765,7 @@ msgid ""
 "This is almost always wrong: ASINs are just Amazon's entries for the "
 "releases and should be linked to the release with an Amazon URL relationship"
 " instead."
-msgstr ""
+msgstr "Este informe muestra publicaciones cuyos números de catálogo parecen ASINs. Esto suele ser incorrecto, ya que las ASINs son simplemente identificadores de Amazon para las publicaciones y deberían asociarse con una relación de URL, pero ten en cuenta que algunas discográficas usan números de catálogo similares a las ASINs."
 
 #: ../root/report/released_too_early.tt:6
 #, perl-format
@@ -8783,7 +8783,7 @@ msgid ""
 "releases, don't change anything. For non-classical releases, this is "
 "inherited from an older version of MusicBrainz and should be fixed. Consult "
 "the {featured_artists|page about featured artists} to know more."
-msgstr ""
+msgstr "Este informe muestra publicaciones con (feat. Artista) en el título. En las publicaciones de música clásica, no cambies nada (salvo que estés familiarizado con las convenciones de música clásica). En los demás casos, esto proviene de una versión anterior de MusicBrainz y debe ser modificado. Consulta la {featured_artists|página sobre \"feat.\" en artistas}."
 
 #: ../root/report/bad_amazon_urls.tt:6
 #, perl-format
@@ -8791,7 +8791,7 @@ msgid ""
 "This report shows releases with Amazon URLs which don't follow the expected "
 "format. They might still be correct if they're archive.org cover links, but "
 "in any other case they should probably be fixed or removed."
-msgstr ""
+msgstr "Este informe muestra publicaciones con URLs de Amazon que no tienen el formato habitual. Las URLs pueden ser correctas si son enlaces a imágenes a través de archive.org, pero en los demás casos lo más probable es que necesiten ser corregidas o eliminadas."
 
 #: ../root/report/unlinked_pseudo_releases.tt:6
 #, perl-format
@@ -8817,12 +8817,12 @@ msgstr "Esta tabla muestra un resumen de los votos de este editor."
 #: ../root/edit/edit_header.tt:97
 #, perl-format
 msgid "This user is automated."
-msgstr ""
+msgstr "Este usuario funciona de forma automatizada."
 
 #: ../root/edit/edit_header.tt:96
 #, perl-format
 msgid "This user is new to MusicBrainz."
-msgstr ""
+msgstr "Este usuario es nuevo en MusicBrainz."
 
 #: ../root/release/merge_search.tt:4
 #, perl-format
@@ -8947,7 +8947,7 @@ msgstr "Total de grupos duplicados: {count}"
 #: ../root/report/discogs_links_with_multiple_labels.tt:7
 #, perl-format
 msgid "Total labels found: {count}"
-msgstr ""
+msgstr "Discográficas encontradas: {count}"
 
 #: ../root/cdstub/index.tt:21 ../root/cdtoc/info.tt:23
 #, perl-format
@@ -10241,7 +10241,7 @@ msgstr "artistas"
 #: ../root/edit/edit_header.tt:50
 #, perl-format
 msgid "automatically applied"
-msgstr ""
+msgstr "aplicada automáticamente"
 
 #: ../root/edit/search_macros.tt:155
 #, perl-format
@@ -10256,7 +10256,7 @@ msgstr "entre"
 #: ../root/edit/edit_header.tt:97
 #, perl-format
 msgid "bot"
-msgstr ""
+msgstr "bot"
 
 #: ../root/release/edit/recordings.tt:81
 #: ../root/release/edit/recordings.tt:214
@@ -10381,7 +10381,7 @@ msgstr "discográficas"
 #: ../root/edit/edit_header.tt:96
 #, perl-format
 msgid "limited user"
-msgstr ""
+msgstr "usuario limitado"
 
 #: ../root/edit/relationship/edit.tt:37 ../root/scripts/text_strings.tt:86
 #, perl-format
@@ -10828,14 +10828,14 @@ msgstr "{user} aún no ha etiquetado nada."
 msgid ""
 "{valink|Various Artists} should very rarely be used on recordings, make sure"
 " that the artists has been entered correctly."
-msgstr ""
+msgstr "{valink|Various Artists} no debe usarse en grabaciones salvo en casos muy puntuales, asegúrate de que el artista ha sido indicado correctamente."
 
 #: ../root/release/edit/tracklist.tt:136
 #, perl-format
 msgid ""
 "{valink|Various Artists} should very rarely be used on tracks, make sure "
 "that the artists on these tracks have been entered correctly."
-msgstr ""
+msgstr "{valink|Various Artists} no debe usarse en pistas salvo en casos muy puntuales, asegúrate de que el artista de estas pistas ha sido indicado correctamente."
 
 #: ../root/edit/edit_header.tt:50 ../root/edit/index.tt:25
 #, perl-format
@@ -11351,7 +11351,7 @@ msgstr "Eliminar tipo de relación"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddCoverArt.pm:18
 msgid "Add cover art"
-msgstr ""
+msgstr "Añadir imagen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
@@ -11380,7 +11380,7 @@ msgstr "Editar código de barras"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditCoverArt.pm:19
 msgid "Edit cover art"
-msgstr ""
+msgstr "Editar imagen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
@@ -11388,15 +11388,15 @@ msgstr "Editar discográfica de la publicación"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
-msgstr ""
+msgstr "Eliminar imagen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderCoverArt.pm:22
 msgid "Reorder cover art"
-msgstr ""
+msgstr "Ordenar imágenes"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderMediums.pm:11
 msgid "Reorder mediums"
-msgstr ""
+msgstr "Reordenar medios"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
