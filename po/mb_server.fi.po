@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-07-27 10:24+0000\n"
+"PO-Revision-Date: 2012-07-27 11:04+0000\n"
 "Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -2678,7 +2678,7 @@ msgstr ""
 #: ../root/release/edit/duplicates.tt:40
 #, perl-format
 msgid "Do not use any of the above releases as a starting point"
-msgstr ""
+msgstr "Älä käytä ainuttakaan alta löytyvää julkaisua aloituspisteenä. "
 
 #: ../root/layout/menu.tt:206
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:46
@@ -4749,13 +4749,13 @@ msgstr "MusicBrainz-palvelua operoi {uri|MetaBrainz-säätiö}, Yhdysvaltain Kal
 #, perl-format
 msgid ""
 "MusicBrainz uses artist aliases mainly as variant names or search hints."
-msgstr ""
+msgstr "MusicBrainz käyttää artistien aliaksia pääsääntöisesti vaihtoehtoisina niminä tai hakuvihjeinä."
 
 #: ../root/label/add_alias.tt:4 ../root/label/edit_alias.tt:4
 #, perl-format
 msgid ""
 "MusicBrainz uses label aliases mainly as variant names or search hints."
-msgstr ""
+msgstr "MusicBrainz käyttää levymerkin aliaksia pääsääntöisesti vaihtoehtoisina niminä tai hakuvihjeinä."
 
 #: ../root/work/add_alias.tt:4 ../root/work/edit_alias.tt:4
 #, perl-format
@@ -6931,12 +6931,12 @@ msgstr "Hakutulokset"
 #: ../root/cdtoc/lookup.tt:56
 #, perl-format
 msgid "Search by artist"
-msgstr ""
+msgstr "Etsi artistin nimellä"
 
 #: ../root/cdtoc/lookup.tt:66
 #, perl-format
 msgid "Search by release"
-msgstr ""
+msgstr "Etsi julkaisun nimellä"
 
 #: ../root/edit/search_results.tt:24 ../root/edit/search_results.tt:26
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
@@ -6977,7 +6977,7 @@ msgid ""
 "Search indexes are updated every 3 hours. If you just added the content "
 "you're looking for and you can't find it here, go to {url|the search page} "
 "and select the \"direct database search\" option."
-msgstr ""
+msgstr "Hakuindeksis päivitetään joka kolmas tunti. Jos et löydä juuri lisäämääsi sisältöä, käytä hakuun {url|hakusivua} valitsemalla \"suora tietokantahaku\". "
 
 #: ../root/search/form.tt:20
 #, perl-format
@@ -7024,12 +7024,12 @@ msgstr "Sektorit"
 #: ../root/collection/header.tt:17
 #, perl-format
 msgid "See all of your collections"
-msgstr ""
+msgstr "Näytä kaikki kokoelmasi"
 
 #: ../root/collection/header.tt:17
 #, perl-format
 msgid "See all of {editor}'s public collections"
-msgstr ""
+msgstr "Näytä kaikki editorin {editor} julkiset kokoelmat"
 
 #: ../root/tag/index.tt:20
 #, perl-format
@@ -7209,7 +7209,7 @@ msgstr "Sosiaalinen sopimus"
 msgid ""
 "Some FreeDB results may not be immediately available since they are only "
 "able to be updated after FreeDB's monthly database export."
-msgstr ""
+msgstr "Osa FreeDB-haun tuloksista ei ole välittömästi saatavilla, sillä tiedot voidaan päivittää vasta FreeDB:n kuukausittaisen tietokantapäivityksen yhteydessä. "
 
 #: ../root/scripts/text_strings.tt:31
 #, perl-format
@@ -7451,7 +7451,7 @@ msgstr ""
 #: ../root/search/error/uri-too-large.tt:3
 #, perl-format
 msgid "Sorry, your query was too large."
-msgstr ""
+msgstr "Hakusi oli liian laaja."
 
 #: ../root/doc/bare_error.tt:5 ../root/doc/error.tt:11
 #, perl-format
@@ -7572,7 +7572,7 @@ msgstr "Tyylioppaat"
 #: ../root/user/contact.tt:8
 #, perl-format
 msgid "Subject:"
-msgstr ""
+msgstr "Aihe:"
 
 #: ../root/cdstub/edit.tt:72
 #, perl-format
@@ -7803,7 +7803,7 @@ msgstr ""
 #: ../root/user/profile.tt:77
 #, perl-format
 msgid "The Dawn of the Project"
-msgstr ""
+msgstr "Projektin synty"
 
 #: ../root/release/edit/information.tt:186
 #, perl-format
@@ -7815,7 +7815,7 @@ msgstr "Lisätietokenttä toimii mini-wikinä."
 msgid ""
 "The artist you are trying to edit is a special purpose artist, and you may "
 "not make direct changes to this data."
-msgstr ""
+msgstr "Artisti jota yrität muokata on erityiskäyttöön tarkoitettu artisti (ns. special purpose artist), etkä voi tehdä suoria muokkauksia tähän tietoon. "
 
 #: ../root/release/cover_art.tt:41
 #, perl-format
@@ -7886,7 +7886,7 @@ msgstr ""
 msgid ""
 "The data you have submitted does not make any changes to the data already "
 "present."
-msgstr ""
+msgstr "Lähettämäsi data ei tee muutoksia nykyiseen dataan nähden. "
 
 #: ../root/tag/cloud.tt:9
 #, perl-format
@@ -7896,7 +7896,7 @@ msgstr "Tietokannasta ei löydy luokituksia."
 #: ../root/user/profile.tt:79
 #, perl-format
 msgid "The early days of the project"
-msgstr ""
+msgstr "Projektin alkutaipale"
 
 #: ../root/edit/cannot_approve.tt:6
 #, perl-format
@@ -7921,12 +7921,12 @@ msgstr "Seuraavat {count} käyttäjää ovat yhteyseditoreja:"
 #: ../root/user/privileged.tt:37
 #, perl-format
 msgid "The following {count} users are transclusion editors:"
-msgstr ""
+msgstr "Seuraavat {count} käyttäjää ovat sisällyttäjä-editoreja:"
 
 #: ../root/user/privileged.tt:23
 #, perl-format
 msgid "The following {count} users have auto-editor privileges:"
-msgstr ""
+msgstr "Seuraavat {count} käyttäjää ovat auto-editoreja:"
 
 #: ../root/layout.tt:100
 #, perl-format
@@ -7979,24 +7979,24 @@ msgstr ""
 msgid ""
 "The relationship type \"{type}\" can not be deleted because it is is still "
 "in use."
-msgstr ""
+msgstr "Yhteyden tyyppiä \"{type}\" ei voi poistaa sillä se on silti vielä käytössä. "
 
 #: ../root/search/error/internal-error.tt:3
 #, perl-format
 msgid ""
 "The search server could not fulfill your request due to an internal error. "
 "This is usually only temporary, so please retry your search again later."
-msgstr ""
+msgstr "Hakupalvelin ei täyttänyt hakupyyntöäsi sisäisen virheen vuoksi. Tämä on yleensä väliaikaista, joten voit yrittää hakuasi myöhemmin uudelleen. "
 
 #: ../root/layout.tt:131
 #, perl-format
 msgid "The server is temporary in read-only mode for database maintainance."
-msgstr ""
+msgstr "Palvelin on väliaikaisesti vain luku-tilassa, tietokannan ylläpitotoimenpiteistä johtuen. "
 
 #: ../root/main/503.tt:5
 #, perl-format
 msgid "The system is overloaded or you are making requests too fast."
-msgstr ""
+msgstr "Järjestelmä on ylikuormittunut tai teet pyyntöjä liian nopeasti."
 
 #: ../root/elections/show.tt:26
 #, perl-format
@@ -8237,13 +8237,13 @@ msgstr "Tämä muokkaus epäonnistui, sillä data jota olit muokkaamassa, on muu
 #: ../root/components/common-macros.tt:529
 #, perl-format
 msgid "This edit failed because there were insufficient \"yes\" votes."
-msgstr ""
+msgstr "Tämä muokkaus epäonnistui, johtuen riittämättömästä kyllä-äänien määrästä. "
 
 #: ../root/components/common-macros.tt:529
 #, perl-format
 msgid ""
 "This edit failed due to an internal error and may need to be entered again."
-msgstr ""
+msgstr "Tämä muokkaus epäonnistui sisäisestä virheestä johtuen ja täytyy mahdollisesti lisätä uudelleen. "
 
 #: ../root/components/common-macros.tt:529
 #, perl-format
