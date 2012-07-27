@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-07-27 08:12+0000\n"
+"PO-Revision-Date: 2012-07-27 10:24+0000\n"
 "Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -1856,7 +1856,7 @@ msgstr "CD-tyngän tuonti"
 #: ../root/cdstub/layout.tt:1
 #, perl-format
 msgid "CD stub “{title}” by {artist}"
-msgstr ""
+msgstr "CD-tynkä {artist}:{title}"
 
 #: ../root/cdstub/logged_in.tt:7
 #, perl-format
@@ -1864,7 +1864,7 @@ msgid ""
 "CD stubs are a feature to allow anonymous users to submit data to "
 "MusicBrainz. For more information, see {cdstub|the documentation on CD "
 "stubs}."
-msgstr ""
+msgstr "CD-tynkä on ominaisuus joka sallii anonyymien käyttäjien lähettävän dataa MusicBrainziin. Saadaksesi lisätietoja, katso {cdstub|dokumentaatio CD-tyngästä}."
 
 #: ../root/doc/edit_type.tt:65
 #, perl-format
@@ -2070,7 +2070,7 @@ msgstr "Valitse tiedosto:"
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
 msgid "Choose one or more cover art types for this image"
-msgstr ""
+msgstr "Valitse kuvalle yksi tai useampi kansitaiteen tyyppi"
 
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
@@ -2085,12 +2085,12 @@ msgstr "Tyhjennä levymerkki"
 #: ../root/scripts/text_strings.tt:81
 #, perl-format
 msgid "Clear recording"
-msgstr ""
+msgstr "Tyhjennä äänitteen tiedot"
 
 #: ../root/scripts/text_strings.tt:82
 #, perl-format
 msgid "Clear release"
-msgstr ""
+msgstr "Tyhjennä julkaisun tiedot"
 
 #: ../root/scripts/text_strings.tt:83
 #, perl-format
@@ -2105,7 +2105,7 @@ msgstr "Tyhjennä teos"
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
 msgid "Click Edit to edit the recording associations for this disc."
-msgstr ""
+msgstr "Valitse \"Muokkaa\", muokataksesi tähän levyyn liittyvien äänitteiden yhteyksiä. "
 
 #: ../root/account/edit_ok.tt:12
 #, perl-format
@@ -2155,7 +2155,7 @@ msgstr ""
 #: ../root/relationship/linktype/tree.tt:49
 #, perl-format
 msgid "Collapse all descriptions"
-msgstr ""
+msgstr "Supista kaikki kuvaukset"
 
 #: ../root/user/collections.tt:9
 #, perl-format
@@ -2436,7 +2436,7 @@ msgstr "Kuolinaika:"
 #: ../root/label/layout.tt:22 ../root/label/layout.tt:29
 #, perl-format
 msgid "Defunct:"
-msgstr ""
+msgstr "Lopetettu:"
 
 #: ../root/edit/search_macros.tt:106
 #, perl-format
@@ -2793,7 +2793,7 @@ msgstr "Muokkaa kokoelmaa"
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
 msgid "Edit Cover Art"
-msgstr ""
+msgstr "Muokkaa kansitaidetta"
 
 #: ../root/layout/menu.tt:58
 #, perl-format
@@ -3135,7 +3135,7 @@ msgstr ""
 #: ../root/elections/not_found.tt:1 ../root/elections/not_found.tt:2
 #, perl-format
 msgid "Election Not Found"
-msgstr ""
+msgstr "Vaalitulosta ei löytynyt"
 
 #: ../root/account/preferences.tt:37
 #, perl-format
@@ -3319,7 +3319,7 @@ msgstr "Laajenna levyä"
 #: ../root/relationship/linktype/tree.tt:48
 #, perl-format
 msgid "Expand all descriptions"
-msgstr ""
+msgstr "Laajenna kaikki kuvaukset"
 
 #: ../root/doc/edit_type.tt:55
 #, perl-format
@@ -3510,7 +3510,7 @@ msgstr ""
 #: ../root/layout/menu.tt:148
 #, perl-format
 msgid "FreeDB Gateway"
-msgstr ""
+msgstr "FreeDB-yhdyskäytävä"
 
 #: ../root/search/results-freedb.tt:13
 #, perl-format
@@ -3843,7 +3843,7 @@ msgid ""
 "{cancel|how to cancel pending edits}, to cancel the pending add alias edit. "
 "Removing pending edits, rather than entering new edits helps reduce the "
 "amount of open edits in the system."
-msgstr ""
+msgstr "Jos lisäsit tämän aliaksen vahingossa virheellisesti, seuraa ohjetta {cancel|kuinka peruuttaa avoimia muokkauksia), peruuttaaksesi avoimen muokkauksen aliaksen lisäämisestä. Vireillä olevien muokkausten poistaminen, uusien muokkauksien lisäämisen sijasta, auttaa vähentämään avointen muokkauksien määrää järjestelmässä."
 
 #: ../root/cdtoc/attach_artist_releases.tt:63
 #, perl-format
@@ -4008,7 +4008,7 @@ msgstr ""
 msgid ""
 "In order to log in or make changes to the database you must visit the main "
 "server at {uri}."
-msgstr ""
+msgstr "Voidaksesi sisäänkirjautua ja tehdä muutoksia tietokantaan, sinun tulee vierailla pääpalvelimellamme osoitteessa {uri}."
 
 #: ../root/main/mirror_404.tt:9
 #, perl-format
@@ -4071,7 +4071,7 @@ msgstr "Virheellinen levyn tunniste."
 msgid ""
 "It looks like you're using Internet Explorer.<br/>To get the most out of "
 "this website we highly recommend the use of {uri|Google Chrome Frame}."
-msgstr "Käytät selaimenasi Internet Exploreria.<br/>Suosittelemme käyttämäään {uri|Google Chrome Frame-liitännäistä} saadaksesi kaiken irti palvelustamme."
+msgstr "Käytät selaimenasi Internet Exploreria.<br/>Suosittelemme käyttämään {uri|Google Chrome Frame}-liitännäistä saadaksesi kaiken irti palvelustamme."
 
 #: ../root/layout/menu.tt:124 ../root/main/index.tt:23
 #, perl-format
@@ -4355,7 +4355,7 @@ msgstr "Sisäänkirjaudu muokataksesi"
 #: ../root/release/cover_art.tt:60
 #, perl-format
 msgid "Log in to upload cover art"
-msgstr ""
+msgstr "Sisäänkirjaudu lisätäksesi kansitaidetta"
 
 #: ../root/doc/bare_error.tt:11 ../root/doc/error.tt:17 ../root/main/400.tt:18
 #: ../root/main/404.tt:18
@@ -4366,12 +4366,12 @@ msgstr "Tarvitsetko apua? Tutustu {doc|dokumentaatioomme} tai {faq|Usein Kysytty
 #: ../root/scripts/text_strings.tt:45
 #, perl-format
 msgid "Lookup"
-msgstr ""
+msgstr "Haku"
 
 #: ../root/cdtoc/lookup.tt:1 ../root/cdtoc/lookup.tt:2
 #, perl-format
 msgid "Lookup CD"
-msgstr ""
+msgstr "CD-haku"
 
 #: ../root/cdstub/browse.tt:11
 #, perl-format
@@ -4381,7 +4381,7 @@ msgstr "Hakukerrat"
 #: ../root/cdstub/layout.tt:11
 #, perl-format
 msgid "Lookup count:"
-msgstr ""
+msgstr "Hakujen määrä:"
 
 #: ../root/account/lost_password_sent.tt:1 ../root/account/lost_password.tt:1
 #: ../root/account/lost_password.tt:3
@@ -4435,7 +4435,7 @@ msgstr "Lahjoita!"
 #: ../root/release/edit/tracklist.tt:172
 #, perl-format
 msgid "Manual entry"
-msgstr ""
+msgstr "Manuaalinen lisäys"
 
 #: ../root/release/lookup.tt:8
 #, perl-format
@@ -4688,7 +4688,7 @@ msgstr "MusicBrainz blogi"
 #: ../root/layout/menu.tt:136 ../root/main/index.tt:93
 #, perl-format
 msgid "MusicBrainz Database"
-msgstr "MusicBrainz tietokanta"
+msgstr "MusicBrainz-tietokanta"
 
 #: ../root/layout/menu.tt:121 ../root/main/index.tt:22
 #, perl-format
@@ -4698,7 +4698,7 @@ msgstr "MusicBrainz Picard"
 #: ../root/layout/menu.tt:133
 #, perl-format
 msgid "MusicBrainz Server"
-msgstr "MusicBrainz palvelin"
+msgstr "MusicBrainz-palvelin"
 
 #: ../root/main/index.tt:48
 #, perl-format
@@ -5111,7 +5111,7 @@ msgstr "Kokoelmasta ei löytynyt julkaisuja."
 #: ../root/recording/index.tt:43
 #, perl-format
 msgid "No releases found which feature this recording."
-msgstr ""
+msgstr "Julkaisuja, jotka sisältävät tämän äänitteen, ei löydy. "
 
 #: ../root/release_group/index.tt:78
 #, perl-format
@@ -5151,7 +5151,7 @@ msgstr "Tuloksia ei löytynyt."
 #: ../root/search/results-work.tt:56
 #, perl-format
 msgid "No results found. Try refining your search query."
-msgstr ""
+msgstr "Ei hakutuloksia. Yritä uudelleenmäärittää hakukyselysi. "
 
 #: ../root/user/subscriptions/subscriptions.tt:38
 #, perl-format
@@ -6778,7 +6778,7 @@ msgstr ""
 #: ../root/release/reorder_cover_art.tt:6
 #, perl-format
 msgid "Reorder Cover Art"
-msgstr ""
+msgstr "Uudelleenjärjestä kansitaide"
 
 #: ../root/layout/menu.tt:244
 #, perl-format
@@ -7115,7 +7115,7 @@ msgstr ""
 #: ../root/report/filter_link.tt:4
 #, perl-format
 msgid "Show all results."
-msgstr ""
+msgstr "Näytä kaikki hakutulokset."
 
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
@@ -7135,7 +7135,7 @@ msgstr "Näytä Gravatar-avatarini"
 #: ../root/report/filter_link.tt:6
 #, perl-format
 msgid "Show only results that are in my subscribed entities."
-msgstr ""
+msgstr "Näytä kaikki tulokset liittyen tilauksiini."
 
 #: ../root/artist/index.tt:125
 #, perl-format
