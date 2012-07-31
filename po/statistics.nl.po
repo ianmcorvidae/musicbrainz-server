@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-07-15 20:30+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-07-31 20:51+0000\n"
+"Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -535,7 +535,7 @@ msgstr "Bevestigd:"
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Artist"
-msgstr ""
+msgstr "Artiest"
 
 #: ../root/statistics/view_js.tt:28
 #, perl-format
@@ -666,7 +666,7 @@ msgstr "Basisgegevens"
 #: ../root/statistics/coverart.tt:12
 #, perl-format
 msgid "Basics"
-msgstr ""
+msgstr "Algemeen"
 
 #: ../root/statistics/coverart.tt:86
 #, perl-format
@@ -1157,7 +1157,7 @@ msgstr "Bewerk informatie"
 #: ../root/statistics/editors.tt:13 ../root/statistics/editors.tt:33
 #, perl-format
 msgid "Editor"
-msgstr ""
+msgstr "Redacteur"
 
 #: ../root/statistics/editors.tt:1 ../root/statistics/editors.tt:7
 #: ../root/statistics/index.tt:488 ../root/statistics/layout.tt:5
@@ -1227,7 +1227,7 @@ msgstr "Exacte waardes (objecten uitgezet tegen de datum)"
 #: ../root/statistics/relationships.tt:37
 #, perl-format
 msgid "Exclusive"
-msgstr ""
+msgstr "Exclusief"
 
 #: ../root/statistics/index.tt:545
 #, perl-format
@@ -1274,7 +1274,7 @@ msgstr "vrouw:"
 msgid ""
 "For the vote statistics, only yes or no votes are counted, abstain votes are"
 " not counted."
-msgstr ""
+msgstr "Voor de stemstatistieken worden alleen voor- en tegenstemmen geteld, geen onthoudingsstemmen."
 
 #: ../root/statistics/formats.tt:28
 #, perl-format
@@ -1354,12 +1354,12 @@ msgstr "Identificatoren"
 #: ../root/statistics/relationships.tt:37
 #, perl-format
 msgid "Inclusive"
-msgstr ""
+msgstr "Inclusief"
 
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Label"
-msgstr ""
+msgstr "Platenmaatschappij"
 
 #: ../root/statistics/view_js.tt:29
 #, perl-format
@@ -1419,7 +1419,7 @@ msgstr "Talen en schriften"
 #: ../root/statistics/layout.tt:5
 #, perl-format
 msgid "Languages/Scripts"
-msgstr ""
+msgstr "Talen/Schriften"
 
 #: ../root/statistics/index.tt:574 ../root/statistics/index.tt:626
 #, perl-format
@@ -1499,12 +1499,12 @@ msgstr "Media:"
 #: ../root/statistics/editors.tt:8
 #, perl-format
 msgid "Most active editors in the past week"
-msgstr ""
+msgstr "Meest actieve redacteuren in de afgelopen week (bewerken)"
 
 #: ../root/statistics/editors.tt:51
 #, perl-format
 msgid "Most active voters in the past week"
-msgstr ""
+msgstr "Meest actieve redacteuren in de afgelopen week (stemmen)"
 
 #: ../root/statistics/timeline.tt:64
 #, perl-format
@@ -1574,7 +1574,7 @@ msgstr "Openstaande bewerkingen"
 #: ../root/statistics/editors.tt:14
 #, perl-format
 msgid "Open and applied edits in past week"
-msgstr ""
+msgstr "Open en doorgevoerde bewerkingen in de afgelopen week"
 
 #: ../root/statistics/index.tt:527
 #, perl-format
@@ -1715,7 +1715,7 @@ msgstr "Beoordelingen en etiketten"
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Recording"
-msgstr ""
+msgstr "Opname"
 
 #: ../root/statistics/view_js.tt:160
 #, perl-format
@@ -1796,7 +1796,7 @@ msgstr "Verwantschappen:"
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Release"
-msgstr ""
+msgstr "Uitgave"
 
 #: ../root/statistics/view_js.tt:30
 #, perl-format
@@ -1811,7 +1811,7 @@ msgstr "Gegevenskwaliteit van de uitgave"
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Release Group"
-msgstr ""
+msgstr "Uitgavegroep"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
@@ -1844,7 +1844,7 @@ msgstr[1] "Uitgavegroepen met {n} uitgaves"
 #: ../root/statistics/index.tt:402
 #, perl-format
 msgid "Release Groups:"
-msgstr ""
+msgstr "Uitgavegroepen:"
 
 #: ../root/statistics/view_js.tt:32
 #, perl-format
@@ -1864,7 +1864,7 @@ msgstr "Schriften van de uitgave"
 #: ../root/statistics/index.tt:213
 #, perl-format
 msgid "Release Status"
-msgstr ""
+msgstr "Uitgavestatus"
 
 #: ../root/statistics/view_js.tt:175
 #, perl-format
@@ -1993,7 +1993,7 @@ msgstr ""
 #: ../root/statistics/layout.tt:5
 #, perl-format
 msgid "Timeline"
-msgstr ""
+msgstr "Tijdslijn"
 
 #: ../root/statistics/timeline.tt:83
 #, perl-format
@@ -2039,7 +2039,7 @@ msgstr "Nummers"
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../root/statistics/countries.tt:16 ../root/statistics/view_js.tt:78
 #: ../root/statistics/view_js.tt:79 ../root/statistics/view_js.tt:80
@@ -2110,12 +2110,12 @@ msgstr "weggestemd:"
 #: ../root/statistics/editors.tt:56 ../root/statistics/editors.tt:76
 #, perl-format
 msgid "Voter"
-msgstr ""
+msgstr "Stemmer"
 
 #: ../root/statistics/editors.tt:50
 #, perl-format
 msgid "Voters"
-msgstr ""
+msgstr "Stemmers"
 
 #: ../root/statistics/index.tt:588 ../root/statistics/view_js.tt:65
 #, perl-format
@@ -2125,7 +2125,7 @@ msgstr "Stemmen"
 #: ../root/statistics/editors.tt:57
 #, perl-format
 msgid "Votes in past week"
-msgstr ""
+msgstr "Stemmen in de afgelopen week"
 
 #: ../root/statistics/view_js.tt:66
 #, perl-format
@@ -2145,7 +2145,7 @@ msgstr "Stemmen:"
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Work"
-msgstr ""
+msgstr "Compositie"
 
 #: ../root/statistics/view_js.tt:162
 #, perl-format
@@ -2381,7 +2381,7 @@ msgstr "uitgaves met het {script} schrift"
 #: ../root/statistics/relationships.tt:47
 #, perl-format
 msgid "{type0}-{type1}"
-msgstr ""
+msgstr "{type0}-{type1}"
 
 #: ../root/statistics/relationships.tt:50
 #, perl-format
