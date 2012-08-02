@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-07-31 15:54+0000\n"
+"PO-Revision-Date: 2012-08-02 14:26+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -2622,7 +2622,7 @@ msgstr "Discogs URL's die aan meerdere artiesten zijn gekoppeld"
 #: ../root/report/discogs_links_with_multiple_labels.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Labels"
-msgstr ""
+msgstr "Discogs URL's die aan meerdere platenmaatschappijen zijn gekoppeld"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
@@ -3253,7 +3253,7 @@ msgid ""
 "is highly recommended. Not only does it make it clear where you got your "
 "information, but it can also encourage other users to vote on your edit "
 "&mdash; thus making your edit get applied faster."
-msgstr "Het toevoegen van een {note|bewerksnotitie} die beschrijft waar u uw informatie vandaan heeft wordt sterk aangeraden. Niet alleen maakt dit duidelijk waar u uw informatie vandaan heeft, maar het kan ook gebruikers aansporen om op uw bewerking te stemmen, waardoor bewerkingen sneller worden doorgevoerd."
+msgstr "Het toevoegen van een {note|bewerkingsnotitie} die beschrijft waar u uw informatie vandaan heeft wordt sterk aangeraden. Niet alleen maakt dit duidelijk waar u uw informatie vandaan heeft, maar het kan ook gebruikers aansporen om op uw bewerking te stemmen, waardoor bewerkingen sneller worden doorgevoerd."
 
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
@@ -5033,7 +5033,7 @@ msgstr "Geen hoesafbeelding beschikbaar."
 #: ../root/edit/notes.tt:35
 #, perl-format
 msgid "No edit notes have been added."
-msgstr "Geen bewerksnotities toegevoegd."
+msgstr "Geen bewerkingsnotities toegevoegd."
 
 #: ../root/edit/list.tt:88
 #, perl-format
@@ -6841,7 +6841,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:142
 #, perl-format
 msgid "Review the {doc|list of packaging types} for help."
-msgstr ""
+msgstr "Bekijk de {doc|lijst van verpakkingstypes} voor hulp."
 
 #: ../root/layout.tt:81
 #, perl-format
@@ -8530,7 +8530,7 @@ msgid ""
 " If you find that an artist here is indeed a person, change its type. If it "
 "is not, please make sure that all the relationships are correct and make "
 "sense."
-msgstr ""
+msgstr "Dit rapport toont artiesten van het type <em>onbekend</em> of <em>groep</em> die personen zouden kunnen zijn. Dit is gebaseerd op alle verwantschappen behalve \"samenwerking\". Een artiest verschijnt hier bijvoorbeeld als het bekend staat als lid van een andere artiest. Verander het type als u weet dat deze artiest inderdaad een persoon is. Controleer of alle verwantschappen kloppen en logisch zijn als de artiest geen persoon is."
 
 #: ../root/report/artists_that_may_be_groups.tt:6
 #, perl-format
@@ -8667,7 +8667,7 @@ msgid ""
 "them. If the releases are discs linked with \"part of set\" relationships, "
 "you might want to merge them too into one multi-disc release (see "
 "{how_to_merge_releases|How to Merge Releases})."
-msgstr ""
+msgstr "Dit rapport toont uitgavegroepen met uitgaves die gekoppeld zijn aan uitgaves in andere uitgavegroepen met deel van een set of transcriptie verwantschappen. Als er hier een paar van uitgavegroepen tussen staat moeten deze waarschijnlijk samengevoegd worden. Als de uitgaves media zijn die met deel van een set verwantschappen gekoppeld zijn, moeten ze misschien ook samengevoegd worden in een uitgave met meerdere media. Zie {how_to_merge_releases|Hoe uitgaves samen te voegen}."
 
 #: ../root/report/releases_with_unlikely_language_script.tt:6
 #, perl-format
@@ -8795,7 +8795,7 @@ msgid ""
 " the translation/transliteration relationship to an original version. This "
 "could be because the original version is missing, or just that the release "
 "status is set wrong."
-msgstr ""
+msgstr "Dit rapport toont uitgaves met de status Pseudo-uitgave die niet met een vertaling of transcriptie verwantschap aan de originele uitgave zijn gekoppeld. Dit kan zijn omdat de originele uitgave ontbreekt of dat de status van de uitgave verkeerd is ingesteld."
 
 #: ../root/release/merge.tt:88
 #, perl-format
@@ -9250,7 +9250,7 @@ msgstr "Loskoppelen"
 #: ../root/report/unlinked_pseudo_releases.tt:3
 #, perl-format
 msgid "Unlinked Pseudo-Releases"
-msgstr ""
+msgstr "Pseudo-uitgaves zonder koppelingen"
 
 #: ../root/artist/layout.tt:126 ../root/label/layout.tt:96
 #: ../root/user/subscriptions/subscriptions.tt:32
@@ -11817,7 +11817,7 @@ msgstr "Een onofficiële/underground uitgave die niet door de artiest en/of de p
 msgid ""
 "A pseudo-release is a duplicate release for translation/transliteration "
 "purposes."
-msgstr "Een pseudo-uitgave is een kopie van een uitgave voor vertalings- of transliteratiedoeleinden."
+msgstr "Een pseudo-uitgave is een kopie van een uitgave voor vertalings- of transcriptiedoeleinden."
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"

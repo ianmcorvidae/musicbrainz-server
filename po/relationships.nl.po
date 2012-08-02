@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-02 13:44+0000\n"
+"PO-Revision-Date: 2012-08-02 14:27+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -672,7 +672,7 @@ msgid ""
 "two albums are identical, and each of the titles corresponds in meaning. (<a"
 " "
 "href=\"http://musicbrainz.org/doc/Translation_Transliteration_Relationship_Type\">Details</a>)"
-msgstr "Geeft aan dat een album titels heeft die vertaald of getranslitereerd zijn van een andere uitgave. Deze verwantschap geldt niet voor een cover waarbij de tekst vertaald is (deze moet worden aangegeven met een cover-verwantschap, hoewel beide verwantschappen in sommige gevallen kunnen). Deze verwantschap moet alleen gebruikt worden wanneer het aantal, de volgorde en de audio van de nummers op twee albums identiek zijn en de titels van beide hetzelfde betekenen. (<a href=\"http://musicbrainz.org/doc/Translation_Transliteration_Relationship_Type\">Details</a>)"
+msgstr "Geeft aan dat een album titels heeft die vertaald of getranscribeerd zijn van een andere uitgave. Deze verwantschap geldt niet voor een cover waarbij de tekst vertaald is (deze moet worden aangegeven met een cover-verwantschap, hoewel beide verwantschappen in sommige gevallen kunnen). Deze verwantschap moet alleen gebruikt worden wanneer het aantal, de volgorde en de audio van de nummers op twee albums identiek zijn en de titels van beide hetzelfde betekenen. (<a href=\"http://musicbrainz.org/doc/Translation_Transliteration_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:9
 msgid ""
@@ -3153,12 +3153,12 @@ msgstr "orkestreerde {additional:aanvullend}"
 
 #: DB:link_type/reverse_link_phrase:40
 msgid "{additional:additionally} orchestrator"
-msgstr ""
+msgstr "{additional:aanvullend} orkestrator"
 
 #: DB:link_type/link_phrase:47 DB:link_type/link_phrase:153
 #: DB:link_type/short_link_phrase:47 DB:link_type/short_link_phrase:153
 msgid "{additional:additionally} remixed"
-msgstr ""
+msgstr "{additional:aanvullend} geremixt"
 
 #: DB:link_type/reverse_link_phrase:231
 msgid "{additional:additionally} sampled by"
