@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-02 14:27+0000\n"
+"PO-Revision-Date: 2012-08-04 12:44+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1395,7 +1395,7 @@ msgid ""
 "This link points to a site that contains a catalog (eg: list) of records "
 "published by the label. (<a "
 "href=\"http://musicbrainz.org/doc/Catalog_Site_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Deze koppeling verwijst naar een internetpagina met een catalogus van uitgaves van een platenmaatschappij. (<a href=\"http://musicbrainz.org/doc/Catalog_Site_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:77
 msgid ""
@@ -1404,13 +1404,13 @@ msgid ""
 "right ASIN link already. <p/> Paste any URL to any Amazon product page that "
 "contains an Amazon ASIN and the ASIN will be parsed from that URL. (<a "
 "href=\"http://musicbrainz.org/doc/Amazon_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Deze koppeling wordt gebruikt voor ASIN's van Amazon. Hiermee kunnen gebruikers koppelen naar pagina's op Amazon om de juiste hoesafbeelding te tonen op MusicBrainz. <p/>Plak een URL van een productpagina op Amazon en de ASIN zal uit de URL worden gehaald. (<a href=\"http://musicbrainz.org/doc/Amazon_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:304
 msgid ""
 "This links a label to a channel, playlist, or user page on a video sharing "
 "site containing videos curated by it."
-msgstr ""
+msgstr "Dit koppelt een platenmaatschappij aan een kanaal, afspeellijst of gebruikerspagina op een videosite met video's die door de platenmaatschappij wordt bijgehouden."
 
 #: DB:link_type/description:290
 msgid ""
@@ -1443,7 +1443,7 @@ msgstr "Dit koppelt een (fictieve) artiest aan de persoon die deze heeft ingespr
 msgid ""
 "This links an artist to a channel, playlist, or user page on a video sharing"
 " site containing videos curated by it."
-msgstr ""
+msgstr "Dit koppelt een artiest aan een kanaal, afspeellijst of gebruikerspagina op een videosite met video's die door de artiest wordt bijgehouden."
 
 #: DB:link_type/description:291
 msgid ""
