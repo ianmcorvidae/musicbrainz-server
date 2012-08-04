@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-04 18:57+0000\n"
+"PO-Revision-Date: 2012-08-04 19:34+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -181,7 +181,7 @@ msgid ""
 "For works that have lyrics, this indicates that those lyrics are not "
 "relevant to this recording. Examples include instrumental arrangements, or "
 "\"beats\" from hip-hop songs which may be reused with different lyrics."
-msgstr ""
+msgstr "Dit geeft bij composities met teksten aan dat deze teksten niet relevant zijn voor deze opname. Dit is bijvoorbeeld bij instrumentale uitvoeringen of \"beats\" van hiphopnummers."
 
 #: DB:link_type/link_phrase:99 DB:link_type/link_phrase:195
 msgid "IBDb"
@@ -584,7 +584,7 @@ msgid ""
 " original works were rearranged to create a new recording in the form of a "
 "medley. (<a "
 "href=\"http://musicbrainz.org/doc/Medley_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een opname een medley is van verschillende nummers. Dit betekent dat de originele composities opnieuw gearrangeerd zijn om een nieuwe opname in de vorm van een medley te creëren. (<a href=\"http://musicbrainz.org/doc/Medley_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:11
 msgid ""
@@ -640,7 +640,7 @@ msgid ""
 "the original songs were rearranged to create a new work in the form of a "
 "medley. (<a "
 "href=\"http://musicbrainz.org/doc/Medley_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een compositie een medley is van verschillende nummers. Dit betekent dat de originele composities opnieuw gearrangeerd zijn om een nieuwe compositie in de vorm van een medley te creëren. (<a href=\"http://musicbrainz.org/doc/Medley_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:10
 msgid ""
@@ -679,7 +679,7 @@ msgid ""
 "Indicates that an album includes remixed versions of all (or most of) the "
 "tracks of the other album. (<a "
 "href=\"http://musicbrainz.org/doc/Remix_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een uitgave geremixte versies van alle (of de meeste) nummers van de andere uitgave bevat. (<a href=\"http://musicbrainz.org/doc/Remix_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:6
 msgid ""
@@ -719,7 +719,7 @@ msgid ""
 "and mixed together with other material to form a new track. Remixes of "
 "multiple tracks or albums are usually called mash-ups. (<a "
 "href=\"http://musicbrainz.org/doc/Remix_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een of meer originele opnames substantieel veranderd zijn en samengevoegd met ander materiaal om een nieuwe opname te maken. Remixes van meerdere opnames of uitgaves worden meestal mash-ups genoemd. (<a href=\"http://musicbrainz.org/doc/Remix_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:49
 msgid ""
@@ -727,7 +727,7 @@ msgid ""
 "performed by another artist. Use this only if you really cannot figure out "
 "the particular track that has been sampled. (<a "
 "href=\"http://musicbrainz.org/doc/Samples_Artist_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een uitgave samples bevat van materiaal dat eerder door een andere artiest is uitgevoerd. Gebruik dit alleen als niet duidelijk is welke specifieke opname is gesampled. (<a href=\"http://musicbrainz.org/doc/Samples_Artist_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:232
 msgid ""
@@ -744,7 +744,7 @@ msgid ""
 "performed by another artist. Use this only if you really cannot figure out "
 "the particular track that has been sampled. (<a "
 "href=\"http://musicbrainz.org/doc/Samples_Artist_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een opname samples bevat van materiaal dat eerder door een andere artiest is uitgevoerd. Gebruik dit alleen als niet duidelijk is welke specifieke opname is gesampled. (<a href=\"http://musicbrainz.org/doc/Samples_Artist_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:108
 msgid ""
@@ -760,7 +760,7 @@ msgid ""
 "Indicates that two persons were romantically involved with each other "
 "without being married. (<a "
 "href=\"http://musicbrainz.org/doc/Involved_With_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat twee personen een relatie hadden zonder getrouwd te zijn geweest. (<a href=\"http://musicbrainz.org/doc/Involved_With_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:293 DB:link_type/description:294
 #: DB:link_type/description:282 DB:link_type/description:295
@@ -777,7 +777,7 @@ msgstr "Geeft een artiest aan die een melodie heeft aangepast naar een vorm die 
 msgid ""
 "Indicates the audio engineer for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de geluidstechnicus voor deze compositie aan. (<a href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:168
 msgid ""
@@ -802,7 +802,7 @@ msgstr ""
 msgid ""
 "Indicates the engineer for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de technicus voor deze compositie aan. (<a href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:57 DB:link_type/description:169
 msgid ""
@@ -820,7 +820,7 @@ msgstr "Geeft de tekstschrijver van deze compositie aan. (<a href=\"http://music
 msgid ""
 "Indicates the mastering engineer for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de mastertechnicus voor deze compositie aan. (<a href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:143
 msgid ""
@@ -854,7 +854,7 @@ msgid ""
 "compilation for the album. If the tracks are pitched or blended into each "
 "other, it is more appropriate to credit this person as a Mix-DJ. (<a "
 "href=\"http://musicbrainz.org/doc/Compiler_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de persoon aan die de opnames selecteerde en de volgorde bepaalde voor een verzamelalbum. Als de opnames in elkaar overlopen kan deze persoon beter als Mix-DJ worden beschreven. (<a href=\"http://musicbrainz.org/doc/Compiler_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:147
 msgid ""
@@ -863,7 +863,7 @@ msgid ""
 "one after the other. If the tracks are pitched or blended into each other, "
 "it is more appropriate to credit the person as a Mix-DJ. (<a "
 "href=\"http://musicbrainz.org/doc/Compiler_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de persoon aan die de opnames selecteerde en de volgorde bepaalde voor een verzamelalbum. Dit is van toepassing op een lang nummer dat meerdere nummers bevat. Als de opnames in elkaar overlopen kan deze persoon beter als Mix-DJ worden beschreven. (<a href=\"http://musicbrainz.org/doc/Compiler_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:43
 msgid ""
