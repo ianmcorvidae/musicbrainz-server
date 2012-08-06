@@ -11,9 +11,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-06-09 18:23+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
-"Language-Team: Spanish (Castilian) (http://www.transifex.net/projects/p/musicbrainz/language/es/)\n"
+"PO-Revision-Date: 2012-08-06 21:24+0000\n"
+"Last-Translator: Héctor Arroyo <email address hidden>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: ENCODING\n"
@@ -53,7 +53,7 @@ msgstr "Aria"
 #: DB:artist_alias_type/name:1
 msgctxt "alias_type"
 msgid "Artist name"
-msgstr ""
+msgstr "Nombre de artista"
 
 #: DB:release_group_secondary_type/name:5
 msgctxt "release_group_secondary_type"
@@ -213,17 +213,17 @@ msgstr "Entrevista"
 #: DB:release_packaging/name:1
 msgctxt "release_packaging"
 msgid "Jewel Case"
-msgstr ""
+msgstr "Caja de plástico"
 
 #: DB:release_packaging/name:6
 msgctxt "release_packaging"
 msgid "Keep Case"
-msgstr ""
+msgstr "Keep case"
 
 #: DB:label_alias_type/name:1
 msgctxt "alias_type"
 msgid "Label name"
-msgstr ""
+msgstr "Nombre de discográfica"
 
 #: DB:medium_format/name:5
 msgctxt "medium_format"
@@ -233,7 +233,7 @@ msgstr "LaserDisc"
 #: DB:artist_alias_type/name:2
 msgctxt "alias_type"
 msgid "Legal name"
-msgstr ""
+msgstr "Nombre legal"
 
 #: DB:release_group_secondary_type/name:6
 msgctxt "release_group_secondary_type"
@@ -300,8 +300,8 @@ msgctxt "artist_type"
 msgid "Other"
 msgstr "Otro"
 
-#: DB:release_group_primary_type/name:11
-msgctxt "release_group_primary_type"
+#: DB:gender/name:3
+msgctxt "gender"
 msgid "Other"
 msgstr "Otro"
 
@@ -310,13 +310,13 @@ msgctxt "medium_format"
 msgid "Other"
 msgstr "Otro"
 
-#: DB:release_packaging/name:5
-msgctxt "release_packaging"
+#: DB:release_group_primary_type/name:11
+msgctxt "release_group_primary_type"
 msgid "Other"
 msgstr "Otro"
 
-#: DB:gender/name:3
-msgctxt "gender"
+#: DB:release_packaging/name:5
+msgctxt "release_packaging"
 msgid "Other"
 msgstr "Otro"
 
@@ -358,7 +358,7 @@ msgstr "Promocional"
 #: DB:release_status/name:4
 msgctxt "release_status"
 msgid "Pseudo-Release"
-msgstr ""
+msgstr "Pseudo-Lanzamiento"
 
 #: DB:label_type/name:7
 msgctxt "label_type"
@@ -399,7 +399,7 @@ msgstr "SVCD"
 #: DB:work_alias_type/name:2
 msgctxt "alias_type"
 msgid "Search hint"
-msgstr ""
+msgstr "Indicio de búsqueda"
 
 #: DB:release_group_primary_type/name:2
 msgctxt "release_group_primary_type"
@@ -409,7 +409,7 @@ msgstr "Single"
 #: DB:release_packaging/name:2
 msgctxt "release_packaging"
 msgid "Slim Jewel Case"
-msgstr ""
+msgstr "Caja de plástico delgada"
 
 #: DB:work_type/name:5
 msgctxt "work_type"
@@ -434,7 +434,7 @@ msgstr "Banda sonora"
 #: DB:release_group_secondary_type/name:3
 msgctxt "release_group_secondary_type"
 msgid "Spokenword"
-msgstr ""
+msgstr "Texto hablado"
 
 #: DB:work_type/name:6
 msgctxt "work_type"
@@ -489,7 +489,7 @@ msgstr "Cilindro de fonógrafo"
 #: DB:work_alias_type/name:1
 msgctxt "alias_type"
 msgid "Work name"
-msgstr ""
+msgstr "Nombre de Trabajo"
 
 #: DB:work_type/name:19
 msgctxt "work_type"
