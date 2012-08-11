@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-08-11 19:59+0000\n"
+"PO-Revision-Date: 2012-08-11 20:34+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -8600,7 +8600,7 @@ msgid ""
 " barcode, you can also search Amazon for it and see which ASIN matches. You "
 "might also find some ASINs linked to several discs of a multi-disc release: "
 "just merge those (see {how_to_merge_releases|How to Merge Releases})."
-msgstr ""
+msgstr "Questo report mostra gli URL di Amazon che sono collegati a più pubblicazioni. Nella maggior parte dei casi un ASIN di Amazon dovrebbe corrispondere ad una sola pubblicazione di MusicBrainz, quindi solo uno dei link sarà corretto. Controlla quale pubblicazione di MusicBrainz corrisponde a quella di Amazon (per formato, tracce, ecc.). Se la pubblicazione ha un codice a barre, puoi anche cercarlo su Amazon e vedere a quale ASIN corrisponde. Potresti anche trovare qualche ASIN collegato a diversi dischi di una pubblicazione con più dischi: in quel caso, potrebbe essere necessario unirle (visualizza {how_to_merge_releases|Come unire pubblicazioni})."
 
 #: ../root/report/discogs_links_with_multiple_artists.tt:6
 #, perl-format
@@ -8628,7 +8628,7 @@ msgid ""
 "etc.). You might also find some Discogs URLs linked to several discs of a "
 "multi-disc release: just merge those (see {how_to_merge_releases|How to "
 "Merge Releases})."
-msgstr ""
+msgstr "Questo report mostra gli URL di Discogs che sono collegati a più pubblicazioni. Nella maggior parte dei casi una pubblicazione di Discogs dovrebbe corrispondere ad una sola pubblicazione di MusicBrainz, quindi solo uno dei link sarà corretto. Controlla quale pubblicazione di MusicBrainz corrisponde a quella di Discogs (per formato, tracce, Paese, ecc.). Potresti anche trovare qualche URL di Discogs collegato a diversi dischi di una pubblicazione con più dischi: in quel caso, potrebbe essere necessario unirle (visualizza {how_to_merge_releases|Come unire pubblicazioni})."
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:6
 #, perl-format
@@ -8638,7 +8638,7 @@ msgid ""
 " they're not, the relationship should be removed. Please, do not merge "
 "recordings blindly just because the lengths fit, and do not merge recordings"
 " with very different times!"
-msgstr ""
+msgstr "Questo report mostra le registrazioni che hanno la relazione obsoleta di \"prima pubblicazione\". Dovrebbero essere unite solo se si tratta davvero della stessa registrazione; se non lo sono, la relazione dovrebbe essere rimossa. Non unire le registrazioni alla cieca solo perché le durate corrispondono e non unire registrazioni con durate molto diverse!"
 
 #: ../root/report/featuring_recordings.tt:6
 #, perl-format
