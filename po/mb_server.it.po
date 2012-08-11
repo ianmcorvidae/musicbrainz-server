@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-08-11 20:34+0000\n"
+"PO-Revision-Date: 2012-08-11 21:40+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -8559,7 +8559,7 @@ msgid ""
 "collaboration, it should be split if possible (see {how_to_split_artists|How"
 " to Split Artists}). If it is a collaboration with its own name and can't be"
 " split, collaboration relationships should be added to it."
-msgstr "Questo report elenca gli artisti che hanno una \"&\" nei loro nomi, ma nessuna relazione di collaborazione né membri. Se l'artista è solitamente ritenuto essere effettivamente un gruppo, bisognerebbe aggiungere relazioni con i membri. Se si tratta di una collaborazione a breve termine, dovrebbe essere divisa ove possibile (visualizza {how_to_split_artists|Come dividere artisti}). Se si tratta di una collaborazione con un proprio nome che non può essere divisa, bisognerebbe aggiungerle le opportune relazioni di collaborazione."
+msgstr "Questo report elenca gli artisti che hanno una \"&\" nei loro nomi, ma nessuna relazione di collaborazione né membri. Se l'artista è solitamente ritenuto essere effettivamente un gruppo, bisognerebbe aggiungere relazioni con i membri. Se si tratta di una collaborazione a breve termine, dovrebbe essere divisa ove possibile (controlla {how_to_split_artists|come dividere gli artisti}). Se si tratta di una collaborazione con un proprio nome che non può essere divisa, bisognerebbe aggiungerle le opportune relazioni di collaborazione."
 
 #: ../root/report/collaboration_relationships.tt:4
 #, perl-format
@@ -8568,7 +8568,7 @@ msgid ""
 "relationships. If the collaboration has its own independent name, do "
 "nothing. If it is in a format like \"X with Y\" or \"X & Y\", you should "
 "probably split it. See {how_to_split_artists|How to Split Artists}."
-msgstr "Questo report elenca gli artisti che hanno relazioni di collaborazione ma nessuna relazione con URL. Se la collaborazione possiede un proprio nome indipendente, non fare nulla. Se invece è nel formato \"X con Y\" o \"X & Y\", dovresti probabilmente dividerla. Visualizza {how_to_split_artists|Come dividere artisti}."
+msgstr "Questo report elenca gli artisti che hanno relazioni di collaborazione ma nessuna relazione con URL. Se la collaborazione possiede un proprio nome indipendente, non fare nulla. Se invece è nel formato \"X con Y\" o \"X & Y\", dovresti probabilmente dividerla. Controlla {how_to_split_artists|come dividere gli artisti}."
 
 #: ../root/report/superfluous_data_tracks.tt:6
 #, perl-format
@@ -8600,7 +8600,7 @@ msgid ""
 " barcode, you can also search Amazon for it and see which ASIN matches. You "
 "might also find some ASINs linked to several discs of a multi-disc release: "
 "just merge those (see {how_to_merge_releases|How to Merge Releases})."
-msgstr "Questo report mostra gli URL di Amazon che sono collegati a più pubblicazioni. Nella maggior parte dei casi un ASIN di Amazon dovrebbe corrispondere ad una sola pubblicazione di MusicBrainz, quindi solo uno dei link sarà corretto. Controlla quale pubblicazione di MusicBrainz corrisponde a quella di Amazon (per formato, tracce, ecc.). Se la pubblicazione ha un codice a barre, puoi anche cercarlo su Amazon e vedere a quale ASIN corrisponde. Potresti anche trovare qualche ASIN collegato a diversi dischi di una pubblicazione con più dischi: in quel caso, potrebbe essere necessario unirle (visualizza {how_to_merge_releases|Come unire pubblicazioni})."
+msgstr "Questo report mostra gli URL di Amazon che sono collegati a più pubblicazioni. Nella maggior parte dei casi un ASIN di Amazon dovrebbe corrispondere ad una sola pubblicazione di MusicBrainz, quindi solo uno dei link sarà corretto. Controlla quale pubblicazione di MusicBrainz corrisponde a quella di Amazon (per formato, tracce, ecc.). Se la pubblicazione ha un codice a barre, puoi anche cercarlo su Amazon e vedere a quale ASIN corrisponde. Potresti anche trovare qualche ASIN collegato a diversi dischi di una pubblicazione con più dischi: in quel caso, potrebbe essere necessario unirle (controlla {how_to_merge_releases|come unire le pubblicazioni})."
 
 #: ../root/report/discogs_links_with_multiple_artists.tt:6
 #, perl-format
@@ -8628,7 +8628,7 @@ msgid ""
 "etc.). You might also find some Discogs URLs linked to several discs of a "
 "multi-disc release: just merge those (see {how_to_merge_releases|How to "
 "Merge Releases})."
-msgstr "Questo report mostra gli URL di Discogs che sono collegati a più pubblicazioni. Nella maggior parte dei casi una pubblicazione di Discogs dovrebbe corrispondere ad una sola pubblicazione di MusicBrainz, quindi solo uno dei link sarà corretto. Controlla quale pubblicazione di MusicBrainz corrisponde a quella di Discogs (per formato, tracce, Paese, ecc.). Potresti anche trovare qualche URL di Discogs collegato a diversi dischi di una pubblicazione con più dischi: in quel caso, potrebbe essere necessario unirle (visualizza {how_to_merge_releases|Come unire pubblicazioni})."
+msgstr "Questo report mostra gli URL di Discogs che sono collegati a più pubblicazioni. Nella maggior parte dei casi una pubblicazione di Discogs dovrebbe corrispondere ad una sola pubblicazione di MusicBrainz, quindi solo uno dei link sarà corretto. Controlla quale pubblicazione di MusicBrainz corrisponde a quella di Discogs (per formato, tracce, Paese, ecc.). Potresti anche trovare qualche URL di Discogs collegato a diversi dischi di una pubblicazione con più dischi: in quel caso, potrebbe essere necessario unirle (controlla {how_to_merge_releases|come unire le pubblicazioni})."
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:6
 #, perl-format
@@ -8648,7 +8648,7 @@ msgid ""
 "inherited from an older version of MusicBrainz and should be fixed (both at "
 "the recordings at the tracks!). Consult the {featured_artists|page about "
 "featured artists} to know more."
-msgstr ""
+msgstr "Questo report mostra le registrazioni con (feat. Artista) nel titolo. Per le pubblicazioni di musica classica, non modificare nulla. Per le altre pubblicazioni, ciò deriva da una versione precedente di MusicBrainz e deve essere corretto (sia nelle registrazioni che nelle tracce!). Consulta la {featured_artists|pagina sugli artisti con \"feat.\"} per saperne di più."
 
 #: ../root/report/featuring_release_groups.tt:6
 #, perl-format
@@ -8657,7 +8657,7 @@ msgid ""
 "classical releases, don't change anything. For non-classical releases, this "
 "is inherited from an older version of MusicBrainz and should be fixed. "
 "Consult the {featured_artists|page about featured artists} to know more."
-msgstr ""
+msgstr "Questo report mostra i gruppi di pubblicazioni con (feat. Artista) nel titolo. Per le pubblicazioni di musica classica, non modificare nulla. Per le altre pubblicazioni, ciò deriva da una versione precedente di MusicBrainz e deve essere corretto. Consulta la {featured_artists|pagina sugli artisti con \"feat.\"} per saperne di più."
 
 #: ../root/report/set_in_different_rg.tt:6
 #, perl-format
@@ -8668,7 +8668,7 @@ msgid ""
 "them. If the releases are discs linked with \"part of set\" relationships, "
 "you might want to merge them too into one multi-disc release (see "
 "{how_to_merge_releases|How to Merge Releases})."
-msgstr ""
+msgstr "Questo report mostra i gruppi di pubblicazioni con pubblicazioni che sono collegate ad altre pubblicazioni in gruppi diversi da relazioni di \"parte di un set\" o di traslitterazione. Se trovi elencata una coppia di gruppi di pubblicazioni, è probabile che essi debbano essere uniti. Se le pubblicazioni sono dischi collegati con relazioni di \"parte di un set\", potresti doverle unire in una pubblicazione con più dischi (controlla {how_to_merge_releases|come unire le pubblicazioni})."
 
 #: ../root/report/releases_with_unlikely_language_script.tt:6
 #, perl-format
@@ -8685,7 +8685,7 @@ msgid ""
 " be correct. Just check which ones do not fit the release (because of "
 "format, different number of tracks, etc). If the release has a barcode, you "
 "can search Amazon for it and see which ASIN matches."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno più di un ASIN di Amazon. Nella maggior parte dei casi un ASIN dovrebbe corrispondere ad una sola pubblicazione di MusicBrainz, quindi solo uno di loro sarà corretto. Controlla quali non corrispondono alla pubblicazione (per formato, numero di tracce, ecc.) e rimuovili. Se la pubblicazione ha un codice a barre, puoi cercarlo su Amazon e vedere a quale ASIN corrisponde."
 
 #: ../root/report/multiple_discogs_links.tt:6
 #, perl-format
@@ -8696,7 +8696,7 @@ msgid ""
 "release (because of format, different number of tracks, etc). Any \"master\""
 " Discogs page belongs at the {release_group|release group level}, not at the"
 " release level, and should be removed from releases too."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno più di un link di Discogs. Nella maggior parte dei casi una pubblicazione di MusicBrainz dovrebbe corrispondere ad una sola pubblicazione di Discogs, quindi solo uno dei link sarà corretto. Controlla quali non corrispondono alla pubblicazione (per formato, numero di tracce, ecc.) e rimuovile. Le pagine \"master\" di Discogs devono essere associate al {release_group|gruppo di pubblicazioni}, non ad una specifica pubblicazione, quindi rimuovi anche quelle dalle pubblicazioni."
 
 #: ../root/report/releases_without_language.tt:6
 #, perl-format
@@ -8730,7 +8730,7 @@ msgid ""
 " releases}. If the releases are not really part of a set (for example, if "
 "they are independently-released volumes in a series) just remove the "
 "relationship."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno ancora la relazione obsoleta di \"parte di un set\" e dovrebbero probabilmente essere unite. Per istruzioni su come correggerle, consulta la documentazione su {how_to_merge_releases|come unire le pubblicazioni}. Se le pubblicazioni non sono davvero parte di un set (per esempio, se sono volumi di una serie pubblicati separatamente), rimuovi semplicemente la relazione."
 
 #: ../root/report/some_formats_unset.tt:6
 #, perl-format
@@ -8779,7 +8779,7 @@ msgid ""
 "releases, don't change anything. For non-classical releases, this is "
 "inherited from an older version of MusicBrainz and should be fixed. Consult "
 "the {featured_artists|page about featured artists} to know more."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni con (feat. Artista) nel titolo. Per le pubblicazioni di musica classica, non modificare nulla. Per le altre pubblicazioni, ciò deriva da una versione precedente di MusicBrainz e deve essere corretto. Consulta la {featured_artists|pagina sugli artisti con \"feat.\"} per saperne di più."
 
 #: ../root/report/bad_amazon_urls.tt:6
 #, perl-format
@@ -8787,7 +8787,7 @@ msgid ""
 "This report shows releases with Amazon URLs which don't follow the expected "
 "format. They might still be correct if they're archive.org cover links, but "
 "in any other case they should probably be fixed or removed."
-msgstr "Questo report mostra le pubblicazioni con URL di Amazon che non seguono il formato previsto. Potrebbero comunque essere corretti se sono link a copertine presenti su archive.org, ma in qualunque altro caso dovrebbero essere sistemati o rimossi."
+msgstr "Questo report mostra le pubblicazioni con URL di Amazon che non seguono il formato previsto. Potrebbero comunque essere corretti se sono link a copertine presenti su archive.org, ma in qualunque altro caso dovrebbero essere corretti o rimossi."
 
 #: ../root/report/unlinked_pseudo_releases.tt:6
 #, perl-format
