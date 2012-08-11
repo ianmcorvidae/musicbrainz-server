@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-08-11 17:59+0000\n"
+"PO-Revision-Date: 2012-08-11 18:57+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -8531,7 +8531,7 @@ msgid ""
 " If you find that an artist here is indeed a person, change its type. If it "
 "is not, please make sure that all the relationships are correct and make "
 "sense."
-msgstr ""
+msgstr "Questo report elenca gli artisti di tipo <em>sconosciuto</em> o <em>gruppo</em> che potrebbero essere una persona, in base a tutte le relazioni eccetto quelle di collaborazione. Per esempio, un artista apparirà qui se figura come membro di un altro. Se scopri che un artista tra questi è davvero una persona, modificane il tipo. Se non lo è, assicurati che tutte le relazioni siano corrette e abbiano senso."
 
 #: ../root/report/artists_that_may_be_groups.tt:6
 #, perl-format
@@ -8541,7 +8541,7 @@ msgid ""
 "listed as members. If you find that an artist here is indeed a group, change"
 " its type. If it is not, please make sure that the \"member of\" "
 "relationships are in the right direction and are correct."
-msgstr ""
+msgstr "Questo report elenca gli artisti di tipo <em>sconosciuto</em> o <em>persona</em> che potrebbero essere <em>gruppi</em> poiché hanno altri artisti elencati come membri. Se scopri che un artista tra questi è davvero un gruppo, modificane il tipo. Se non lo è, assicurati che le relazioni \"membro di\" siano state inserite nella giusta direzione e siano corrette."
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:6
 #, perl-format
@@ -8559,7 +8559,7 @@ msgid ""
 "collaboration, it should be split if possible (see {how_to_split_artists|How"
 " to Split Artists}). If it is a collaboration with its own name and can't be"
 " split, collaboration relationships should be added to it."
-msgstr ""
+msgstr "Questo report elenca gli artisti che hanno una \"&\" nei loro nomi, ma nessuna relazione di collaborazione né membri. Se l'artista è solitamente ritenuto essere effettivamente un gruppo, bisognerebbe aggiungere relazioni con i membri. Se si tratta di una collaborazione a breve termine, dovrebbe essere divisa ove possibile (visualizza {how_to_split_artists|Come dividere artisti}). Se si tratta di una collaborazione con un proprio nome che non può essere divisa, bisognerebbe aggiungerle le opportune relazioni di collaborazione."
 
 #: ../root/report/collaboration_relationships.tt:4
 #, perl-format
@@ -8568,7 +8568,7 @@ msgid ""
 "relationships. If the collaboration has its own independent name, do "
 "nothing. If it is in a format like \"X with Y\" or \"X & Y\", you should "
 "probably split it. See {how_to_split_artists|How to Split Artists}."
-msgstr ""
+msgstr "Questo report elenca gli artisti che hanno relazioni di collaborazione ma nessuna relazione con URL. Se la collaborazione possiede un proprio nome indipendente, non fare nulla. Se invece è nel formato \"X con Y\" o \"X & Y\", dovresti probabilmente dividerla. Visualizza {how_to_split_artists|Come dividere artisti}."
 
 #: ../root/report/superfluous_data_tracks.tt:6
 #, perl-format
@@ -8588,7 +8588,7 @@ msgid ""
 "recording, the ISRCs are probably correct and should be left alone. If the "
 "same ISRC appears on two unrelated recordings on the same release, this is "
 "usually means there was an error when reading the disc."
-msgstr ""
+msgstr "Questo report elenca gli {isrc|ISRC} che sono associati a più di una registrazione. Se le registrazioni sono uguali, ciò vuole solitamente dire che dovrebbero essere unite (gli ISRC possono essere associati in modo errato, quindi presta particolare attenzione ed assicurati che si tratti davvero della stessa registrazione). Se le registrazioni sono parti di una registrazione più ampia, gli ISRC sono probabilmente corretti e vanno lasciati stare. Se lo stesso ISRC compare su due registrazioni non collegate presenti sulla stessa pubblicazione, ciò vuole solitamente dire che c'è stato un errore durante la lettura del disco."
 
 #: ../root/report/asins_with_multiple_releases.tt:6
 #, perl-format
@@ -8704,7 +8704,7 @@ msgid ""
 "This report shows releases that have no language set. If you recognize the "
 "language, please set it! Do it only if you are pretty sure, don't just "
 "guess: not everything written in Cyrillic is Russian, for example."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che non hanno alcuna lingua impostata. Se riconosci la lingua, impostala, ma solo se ne sei sicuro! Non tirare a indovinare: non tutto ciò che è scritto in cirillico è russo, per esempio."
 
 #: ../root/report/releases_without_script.tt:6
 #, perl-format
@@ -8712,7 +8712,7 @@ msgid ""
 "This report shows releases that have no script set. If you recognize the "
 "script, just add it! Remember that the script used for English (and most "
 "other European languages) is Latin."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che non hanno alcuno script impostato. Se riconosci lo script, impostalo! Ricorda che lo script (alfabeto) utilizzato per l'inglese (e per la maggior parte delle lingue europee) è quello latino."
 
 #: ../root/report/releases_with_cc_links.tt:6
 #, perl-format
@@ -8739,7 +8739,7 @@ msgid ""
 "others are unset. In most cases, it should be easy to find out which the "
 "correct formats are (don't just assume that they're all CDs because one is "
 "though!)."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni in cui solo alcuni dei formati dei supporti sono impostati. Nella maggior parte dei casi dovrebbe essere semplice determinare i formati mancanti, ma non supporre che siano tutti CD solo perché uno dei supporti lo è!"
 
 #: ../root/report/separate_discs.tt:6
 #, perl-format
@@ -8761,7 +8761,7 @@ msgid ""
 "This is almost always wrong: ASINs are just Amazon's entries for the "
 "releases and should be linked to the release with an Amazon URL relationship"
 " instead."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno numeri di catalogo che assomigliano agli ASIN. Ciò è quasi sempre sbagliato: gli ASIN sono solo le voci di Amazon per le pubblicazioni e dovrebbero essere collegate alla pubblicazione con una relazione con URL di Amazon."
 
 #: ../root/report/released_too_early.tt:6
 #, perl-format
@@ -8787,7 +8787,7 @@ msgid ""
 "This report shows releases with Amazon URLs which don't follow the expected "
 "format. They might still be correct if they're archive.org cover links, but "
 "in any other case they should probably be fixed or removed."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni con URL di Amazon che non seguono il formato previsto. Potrebbero comunque essere corretti se sono link a copertine presenti su archive.org, ma in qualunque altro caso dovrebbero essere sistemati o rimossi."
 
 #: ../root/report/unlinked_pseudo_releases.tt:6
 #, perl-format
