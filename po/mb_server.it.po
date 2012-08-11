@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-08-10 23:35+0000\n"
+"PO-Revision-Date: 2012-08-11 17:59+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -8486,7 +8486,7 @@ msgid ""
 "they're different, add {disambiguation_comment|disambiguation comments} to "
 "them (and once a group of similarly named artists have disambiguation "
 "comments, they will stop appearing here)."
-msgstr ""
+msgstr "Questo report mira a identificare gli artisti con nomi molto simili. Se due artisti sono in realtà lo stesso, uniscili (non ti dimenticare di {how_to_write_edit_notes|scrivere una nota di modifica} con le prove che hai a disposizione). Se sono diversi, aggiungi loro dei {disambiguation_comment|commenti di disambiguazione} (quando tutti gli artisti con un nome simile avranno un commento di disambiguazione, essi non appariranno più in questo report)."
 
 #: ../root/report/tracks_named_with_sequence.tt:6
 #, perl-format
@@ -8495,7 +8495,7 @@ msgid ""
 "track number, e.g. \"1) Some Name\" (instead of just \"Some Name\"). Notice "
 "that sometimes this is justified and correct, don't automatically assume it "
 "is a mistake! If you confirm it is a mistake, please correct it."
-msgstr ""
+msgstr "Questo report mira a identificare le pubblicazioni in cui i titoli delle tracce includono il loro numero di traccia, ad es. \"1) Nome\" anziché solo \"Nome\". Tieni in considerazione che a volte ciò è corretto, non ritenere automaticamente che sia un errore! Se hai la certezza che si tratti di un errore, correggilo."
 
 #: ../root/report/releases_to_convert.tt:7
 #, perl-format
@@ -8504,7 +8504,7 @@ msgid ""
 "artists (because the track artists are on the title field, for example). "
 "Currently it does this by looking for releases where every track contains "
 "\"/\" or \"-\"."
-msgstr ""
+msgstr "Questo report mira a identificare le pubblicazioni che necessitano di essere convertite in pubblicazioni di artisti multipli (ad es. perché gli artisti si trovano nei titoli delle tracce). Al momento elenca le pubblicazioni in cui il titolo di ogni traccia contiene \"/\" o \"-\"."
 
 #: ../root/report/mediums_with_sequence_issues.tt:6
 #, perl-format
@@ -8576,7 +8576,7 @@ msgid ""
 "This report lists releases without any disc IDs that probably contain data "
 "tracks (like videos). A data track should be deleted if it is the last track"
 " of the CD and there is no disc ID."
-msgstr ""
+msgstr "Questo report elenca le pubblicazioni senza alcun ID disco che probabilmente contengono tracce dati (ad es. video). Una traccia dati dovrebbe essere eliminata se è l'ultima traccia del CD e non c'è un ID disco."
 
 #: ../root/report/isrc_with_many_recordings.tt:6
 #, perl-format
