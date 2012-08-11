@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-07-17 00:44+0000\n"
+"PO-Revision-Date: 2012-08-10 23:35+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -348,7 +348,7 @@ msgid ""
 "<strong>Warning:</strong> Some of the recordings you're merging have "
 "different ISRCs. Please make sure they are indeed the same recordings and "
 "you wish to continue with the merge."
-msgstr ""
+msgstr "<strong>Attenzione:</strong> alcune delle registrazioni che stai unendo hanno ISRC diversi. Assicurati che si tratti davvero delle stesse registrazioni prima di proseguire."
 
 #: ../root/components/common-macros.tt:666 ../root/recording/edit.tt:41
 #: ../root/release/edit/tracklist.tt:131
@@ -2617,13 +2617,13 @@ msgstr "Discografia"
 #: ../root/report/discogs_links_with_multiple_artists.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Artists"
-msgstr ""
+msgstr "URL di Discogs collegati a più artisti"
 
 #: ../root/report/discogs_links_with_multiple_labels.tt:1
 #: ../root/report/discogs_links_with_multiple_labels.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Labels"
-msgstr ""
+msgstr "URL di Discogs collegati a più etichette"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
@@ -2640,12 +2640,12 @@ msgstr "URL di Discogs collegati a più pubblicazioni"
 #: ../root/report/index.tt:23
 #, perl-format
 msgid "Discogs URLs linked to multiple artists"
-msgstr ""
+msgstr "URL di Discogs collegati a più artisti"
 
 #: ../root/report/index.tt:29
 #, perl-format
 msgid "Discogs URLs linked to multiple labels"
-msgstr ""
+msgstr "URL di Discogs collegati a più etichette"
 
 #: ../root/report/index.tt:37
 #, perl-format
@@ -6842,7 +6842,7 @@ msgstr "Frase di collegamento inversa:"
 #: ../root/release/edit/information.tt:142
 #, perl-format
 msgid "Review the {doc|list of packaging types} for help."
-msgstr ""
+msgstr "Consulta la {doc|lista di tipi di confezione} per saperne di più."
 
 #: ../root/layout.tt:81
 #, perl-format
@@ -7970,7 +7970,7 @@ msgstr "Gli artisti delle registrazioni non corrispondono! Forse intendevi usare
 msgid ""
 "The recordings that will be merged if you continue with the current merge "
 "strategy include the following, whose artists differ:"
-msgstr ""
+msgstr "Le registrazioni che saranno unite se prosegui con l'attuale strategia di unione includono le seguenti, i cui artisti sono diversi:"
 
 #: ../root/relationship/linktype/in_use.tt:4
 #, perl-format
@@ -8078,7 +8078,7 @@ msgid ""
 "at the bottom of the {alias_uri|aliases} tab and remove all existing "
 "{rel_uri|relationships} instead, which will allow ModBot to automatically "
 "remove this artist in the upcoming days."
-msgstr ""
+msgstr "Non ci sono registrazioni, gruppi di pubblicazioni, pubblicazioni o tracce associate solo a {name}. Se stai cercando di rimuovere {name}, modifica tutti gli accreditamenti artista in fondo alla scheda {alias_uri|alias} e rimuovi tutte le {rel_uri|relazioni} esistenti, così da permettere a ModBot di rimuovere automaticamente questo artista nei prossimi giorni."
 
 #: ../root/label/subscriptions.tt:11
 #, perl-format
@@ -8605,12 +8605,12 @@ msgstr ""
 #: ../root/report/discogs_links_with_multiple_artists.tt:6
 #, perl-format
 msgid "This report shows Discogs URLs which are linked to multiple artists."
-msgstr ""
+msgstr "Questo report mostra gli URL di Discogs che sono collegati a più artisti."
 
 #: ../root/report/discogs_links_with_multiple_labels.tt:6
 #, perl-format
 msgid "This report shows Discogs URLs which are linked to multiple labels."
-msgstr ""
+msgstr "Questo report mostra gli URL di Discogs che sono collegati a più etichette."
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:6
 #, perl-format
@@ -10824,14 +10824,14 @@ msgstr "{user} non ha taggato niente."
 msgid ""
 "{valink|Various Artists} should very rarely be used on recordings, make sure"
 " that the artists has been entered correctly."
-msgstr ""
+msgstr "{valink|Artisti vari} non va normalmente usato nelle registrazioni: assicurati che gli artisti siano stati inseriti correttamente."
 
 #: ../root/release/edit/tracklist.tt:136
 #, perl-format
 msgid ""
 "{valink|Various Artists} should very rarely be used on tracks, make sure "
 "that the artists on these tracks have been entered correctly."
-msgstr ""
+msgstr "{valink|Artisti vari} non va normalmente usato nelle tracce: assicurati che gli artisti di queste tracce siano stati inseriti correttamente."
 
 #: ../root/edit/edit_header.tt:50 ../root/edit/index.tt:25
 #, perl-format
