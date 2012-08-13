@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-05 14:14+0000\n"
+"PO-Revision-Date: 2012-08-13 13:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -86,11 +86,11 @@ msgstr "Creative Commons Sampling Plus licentie"
 
 #: DB:link_type/link_phrase:84
 msgid "Creative Commons {license} licensed download"
-msgstr ""
+msgstr "Creative Commons {license} gelicenseerde download"
 
 #: DB:link_type/reverse_link_phrase:84
 msgid "Creative Commons {license} licensed download page for"
-msgstr ""
+msgstr "Creative Commons {license} gelicenseerde downloadpagina van"
 
 #: DB:link_attribute_type/description:255
 msgid "Creative commons attribution license"
@@ -117,11 +117,11 @@ msgstr "DJ-mix van"
 
 #: DB:link_type/link_phrase:155 DB:link_type/short_link_phrase:155
 msgid "DJ-mixed"
-msgstr ""
+msgstr "DJ-mix"
 
 #: DB:link_type/reverse_link_phrase:8
 msgid "DJ-mixed versions"
-msgstr ""
+msgstr "DJ-mixversies"
 
 #: DB:link_type/short_link_phrase:43
 msgid "DJ-mixed {medium:% of}"
@@ -141,7 +141,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:227
 msgid "DJ-mixes"
-msgstr ""
+msgstr "DJ-mixes"
 
 #: DB:link_type/description:117
 msgid ""
@@ -324,7 +324,7 @@ msgstr "Geeft een persoon of agentschap aan die fotografie leverde voor dit albu
 msgid ""
 "Indicates a person or agency that did the art direction for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft aan dat een persoon of agentschap de artistieke leiding had over deze compositie. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:63
 msgid ""
@@ -522,7 +522,7 @@ msgstr "Geeft een andere versie van dezelfde compositie aan. Let op: Dit moet al
 msgid ""
 "Indicates publishing support was included in this work. (<a "
 "href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de publicitaire ondersteuning aan voor deze compositie. (<a href=\"http://musicbrainz.org/doc/Publisher_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:123
 msgid ""
@@ -707,7 +707,7 @@ msgstr ""
 msgid ""
 "Indicates that legal representation was included in this work. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de juridische representatie voor deze compositie aan. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_attribute_type/description:567
 msgid "Indicates that one entity is a cover of another entity"
@@ -827,13 +827,13 @@ msgid ""
 "Indicates the mix engineer for this work, i.e. the person who did the final "
 "audio mixing. This is not a remixer! (<a "
 "href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de mixtechnicus voor dit werk aan, d.w.z. de persoon die het laatste audio-mixwerk deed. Dit is geen remixer! (<a href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:26
 msgid ""
 "Indicates the mix engineer for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de mixtechnicus voor dit werk aan.  (<a href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:183
 msgid ""
@@ -846,7 +846,7 @@ msgid ""
 "Indicates the person or agency that did the travel arrangements for this "
 "album. (<a "
 "href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de persoon of het agentschap aan dat reizen voor deze uitgave verzorgde. (<a href=\"http://musicbrainz.org/doc/Miscellaneous_Production_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:48
 msgid ""
@@ -873,7 +873,7 @@ msgid ""
 "pitching (so that the tempo of one track matches the tempo of the following "
 "track). (<a href=\"http://musicbrainz.org/doc/Mix-"
 "DJ_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de persoon aan die het DJ-mixalbum (of mixtape) maakte. Deze persoon selecteert meestal de nummers, kiest de volgorde en verandert ze een beetje door te faden (zodat een nummer soepel in het volgende overloopt) of te pitchen (zodat het tempo van een nummer overeenkomt met dat van het volgende nummer). (<a href=\"http://musicbrainz.org/doc/Mix-DJ_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:155
 msgid ""
@@ -884,7 +884,7 @@ msgid ""
 "track). This applies to a 'Mixtape' in which all tracks were DJ-mixed "
 "together into one single long track. (<a href=\"http://musicbrainz.org/doc"
 "/Mix-DJ_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de persoon aan die het DJ-mixalbum (of mixtape) maakte. Deze persoon selecteert meestal de nummers, kiest de volgorde en verandert ze een beetje door te faden (zodat een nummer soepel in het volgende overloopt) of te pitchen (zodat het tempo van een nummer overeenkomt met dat van het volgende nummer). Dit is van toepassing op mixtapes waarbij alle nummers aan elkaar gemixt werden om één lang nummer te maken. (<a href=\"http://musicbrainz.org/doc/Mix-DJ_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:40 DB:link_type/description:164
 msgid ""
@@ -1025,7 +1025,7 @@ msgstr "Geeft de opnamestudio aan waar (een deel van) deze compositie is opgenom
 msgid ""
 "Indicates the sound engineer for this work. (<a "
 "href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Geeft de geluidstechnicus voor dit werk aan. (<a href=\"http://musicbrainz.org/doc/Engineer_Relationship_Type\">Details</a>)"
 
 #: DB:link_attribute_type/description:4
 msgid "Lead or solo vocal"
@@ -1108,7 +1108,7 @@ msgid ""
 "movie, show or game of which it is a soundtrack. URLs should follow the "
 "format <code>http://www.imdb.com/title/&lt;ID&gt;/</code>. (<a "
 "href=\"http://musicbrainz.org/doc/IMDb_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Koppelt een soundtrack album aan een film, tv-programma of spel in de Internet Movie Database waar het een soundtrack voor is. URL's moeten de opmaak <code>http://www.imdb.com/title/&lt;ID&gt;/</code> hebben. (<a href=\"http://musicbrainz.org/doc/IMDb_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/reverse_link_phrase:280
 msgid "SecondHandSongs"
@@ -1162,7 +1162,7 @@ msgstr ""
 
 #: DB:link_attribute_type/description:371
 msgid "The linked music has been placed into the Public Domain"
-msgstr ""
+msgstr "De gekoppelde muziek is in het Publieke Domein geplaatst."
 
 #: DB:link_attribute_type/description:243
 msgid "This attribute describes a type of orchestra."
@@ -1194,7 +1194,7 @@ msgstr "Deze eigenschap geeft aan dat een gast meespeelt die normaal geen deel u
 msgid ""
 "This attribute indicates a version with satirical, ironic, or otherwise "
 "humorous intent. Parodies in most cases have altered lyrics."
-msgstr ""
+msgstr "Deze eigenschap geeft een versie aan met satirische, ironische of anderszins humoristische bedoeling. Parodieën hebben meestal aangepaste teksten."
 
 #: DB:link_attribute_type/description:517
 msgid ""
@@ -1330,7 +1330,7 @@ msgstr "Dit wordt gebruikt om een platenmaatschappij te koppelen aan een equival
 msgid ""
 "This is used to link a label to its corresponding Wikipedia page. (<a "
 "href=\"http://musicbrainz.org/doc/Wikipedia_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Dit koppelt een platenmaatschappij aan haar Wikipediapagina. (<a href=\"http://musicbrainz.org/doc/Wikipedia_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:278
 msgid ""
@@ -1369,7 +1369,7 @@ msgstr "Dit wordt gebruikt om een artiest te koppelen aan de /music-pagina's op 
 msgid ""
 "This link is used to relate to a label's fans site (<a "
 "href=\"http://musicbrainz.org/doc/Fanpage_Relationship_Type\">Details</a>)."
-msgstr ""
+msgstr "Dit koppelt een platenmaatschappij aan haar fansite. (<a href=\"http://musicbrainz.org/doc/Fanpage_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:219
 msgid ""
@@ -1527,11 +1527,11 @@ msgstr ""
 
 #: DB:link_type/description:210
 msgid "This relationship links a label to its corresponding page on VGMdb."
-msgstr "Deze verwantschap koppelt een platenmaatschappij aan de overeenkomstige pagina op VGMdb."
+msgstr "Deze verwantschap koppelt een platenmaatschappij aan haar VGMdb-pagina."
 
 #: DB:link_type/description:86
 msgid "This relationship links a release to its corresponding page on VGMdb."
-msgstr "Deze verwantschap koppelt een uitgave aan de overeenkomstige pagina op VGMdb."
+msgstr "Deze verwantschap koppelt een uitgave aan haar VGMdb-pagina."
 
 #: DB:link_type/description:37 DB:link_type/description:132
 msgid ""
@@ -1545,11 +1545,11 @@ msgid ""
 "This relationship links a work to its corresponding page in SecondHandSongs "
 "database. (<a "
 "href=\"http://musicbrainz.org/doc/Secondhandsongs_Relationship_Type\">Details</a>)"
-msgstr "Deze verwantschap koppelt een compositie aan de overeenkomstige pagina op SecondHandSongs. (<a href=\"http://musicbrainz.org/doc/Secondhandsongs_Relationship_Type\">Details</a>)"
+msgstr "Deze verwantschap koppelt een compositie aan haar SecondHandSongs-pagina. (<a href=\"http://musicbrainz.org/doc/Secondhandsongs_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:191
 msgid "This relationship links an artist to its corresponding page on VGMdb."
-msgstr "Deze verwantschap koppelt een artiest aan de overeenkomstige pagina op VGMdb."
+msgstr "Deze verwantschap koppelt een artiest aan zijn VGMdb-pagina."
 
 #: DB:link_type/description:283 DB:link_type/description:284
 #: DB:link_type/description:286 DB:link_type/description:285
@@ -1557,7 +1557,7 @@ msgid ""
 "This relationship links an artist, release group, work or recording to its "
 "corresponding page on allmusic. (<a "
 "href=\"http://musicbrainz.org/doc/Allmusic_Relationship_Type\">Details</a>)"
-msgstr "Deze verwantschap koppelt een artiest, uitgavegroep, compositie of opname aan de overeenkomstige pagina op Allmusic. (<a href=\"http://musicbrainz.org/doc/Allmusic_Relationship_Type\">Details</a>)"
+msgstr "Deze verwantschap koppelt een artiest, uitgavegroep, compositie of opname aan zijn Allmusic-pagina. (<a href=\"http://musicbrainz.org/doc/Allmusic_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:189
 msgid ""
@@ -1639,7 +1639,7 @@ msgstr "Dit type verwantschap kan gebruikt worden om een artiest op MusicBrainz 
 msgid ""
 "This relationship type can be used to link an artist to their blog (<a "
 "href=\"http://musicbrainz.org/doc/Blog_Relationship_Type\">Details</a>)."
-msgstr ""
+msgstr "Deze verwantschap kan gebruikt worden om een artiest aan zijn of haar weblog te koppelen (<a href=\"http://musicbrainz.org/doc/Blog_Relationship_Type\">Details</a>)."
 
 #: DB:link_type/description:238
 msgid ""
@@ -1698,7 +1698,7 @@ msgid ""
 "directlyrics.com, lyricstatus.com, kasi-time.com or wikisource.org ONLY! (<a"
 " "
 "href=\"http://musicbrainz.org/doc/Has_Lyrics_At_Relationship_Type\">Details</a>)"
-msgstr ""
+msgstr "Gebruik dit verwantschap ALLEEN om te koppelen naar liedteksten op lyrics.wikia.org, directlyrics.com, lyricstatus.com, kasi-time.com of wikisource.org! (<a href=\"http://musicbrainz.org/doc/Has_Lyrics_At_Relationship_Type\">Details</a>)"
 
 #: DB:link_type/description:227
 msgid ""
@@ -2009,7 +2009,7 @@ msgstr "discografie"
 
 #: DB:link_type/link_phrase:288
 msgid "discography entry"
-msgstr ""
+msgstr "discografisch lemma"
 
 #: DB:link_type/reverse_link_phrase:288
 msgid "discography entry for"
@@ -2033,11 +2033,11 @@ msgstr "distributeurs"
 
 #: DB:link_type/short_link_phrase:105
 msgid "does/did {instrument} support for"
-msgstr ""
+msgstr "speelt/speelde ondersteunend {instrument} voor"
 
 #: DB:link_type/short_link_phrase:107
 msgid "does/did {vocal} vocal support for"
-msgstr ""
+msgstr "levert/leverde {vocal} vocale ondersteuning voor"
 
 #: DB:link_type/link_phrase:75 DB:link_type/link_phrase:255
 msgid "download for free"
@@ -2050,7 +2050,7 @@ msgstr "download gratis muziek"
 #: DB:link_type/reverse_link_phrase:74 DB:link_type/reverse_link_phrase:176
 #: DB:link_type/reverse_link_phrase:254
 msgid "download purchase page for"
-msgstr ""
+msgstr "betaalde downloadpagina van"
 
 #: DB:link_type/reverse_link_phrase:238
 msgid "earliest release"
@@ -2100,7 +2100,7 @@ msgstr "gratis download pagina voor"
 #: DB:link_type/reverse_link_phrase:85 DB:link_type/reverse_link_phrase:268
 #: DB:link_type/reverse_link_phrase:194
 msgid "free music {video} streaming page for"
-msgstr ""
+msgstr "gratis muziek{video} streamingpagina van"
 
 #: DB:link_type/link_phrase:73 DB:link_type/link_phrase:187
 #: DB:link_type/link_phrase:257 DB:link_type/reverse_link_phrase:73
@@ -2136,7 +2136,7 @@ msgstr "heeft een technische functie bij"
 
 #: DB:link_type/reverse_link_phrase:11
 msgid "had associated {EP:EP|single}(s)"
-msgstr ""
+msgstr "heeft geassocieerde {EP:EP|single}(s)"
 
 #: DB:link_type/short_link_phrase:77
 msgid "has Amazon ASIN"
@@ -2187,11 +2187,11 @@ msgstr "heeft een weblog op"
 
 #: DB:link_type/short_link_phrase:212
 msgid "has a catalog of records at"
-msgstr ""
+msgstr "heeft een catalogus van uitgaves op"
 
 #: DB:link_type/short_link_phrase:288
 msgid "has a discography entry at"
-msgstr ""
+msgstr "heeft een discografisch lemma op"
 
 #: DB:link_type/short_link_phrase:184
 msgid "has a discography page at"
@@ -2216,7 +2216,7 @@ msgstr "heeft een microblog op"
 #: DB:link_type/short_link_phrase:25 DB:link_type/short_link_phrase:129
 #: DB:link_type/short_link_phrase:162
 msgid "has a miscellaneous role on"
-msgstr ""
+msgstr "heeft een diverse rol op"
 
 #: DB:link_type/short_link_phrase:96 DB:link_type/short_link_phrase:82
 #: DB:link_type/short_link_phrase:306 DB:link_type/short_link_phrase:222
@@ -2230,11 +2230,11 @@ msgstr "heeft een afbeelding op"
 
 #: DB:link_type/short_link_phrase:94
 msgid "has a review page at"
-msgstr ""
+msgstr "heeft een recensie op"
 
 #: DB:link_type/short_link_phrase:192 DB:link_type/short_link_phrase:218
 msgid "has a social networking page at"
-msgstr ""
+msgstr "heeft een sociaal netwerkpagina op"
 
 #: DB:link_type/short_link_phrase:283 DB:link_type/short_link_phrase:284
 #: DB:link_type/short_link_phrase:285
@@ -2316,11 +2316,11 @@ msgstr "heeft broer(s) of zus(sen)"
 
 #: DB:link_type/reverse_link_phrase:3
 msgid "has supporting release(s)"
-msgstr ""
+msgstr "heeft ondersteunende uitgave(s)"
 
 #: DB:link_type/short_link_phrase:65
 msgid "has tribute album(s)"
-msgstr ""
+msgstr "heeft hommage-album(s)"
 
 #: DB:link_type/short_link_phrase:250
 msgid "has {additional} photography by"
@@ -2976,11 +2976,11 @@ msgstr "getekend door"
 
 #: DB:link_type/link_phrase:192 DB:link_type/link_phrase:218
 msgid "social networking"
-msgstr ""
+msgstr "sociale netwerken"
 
 #: DB:link_type/reverse_link_phrase:192 DB:link_type/reverse_link_phrase:218
 msgid "social networking page for"
-msgstr ""
+msgstr "sociaal netwerkpagina van"
 
 #: DB:link_attribute_type/name:596
 msgid "solo"
@@ -3013,11 +3013,11 @@ msgstr "ondersteunende artiesten"
 
 #: DB:link_type/reverse_link_phrase:105
 msgid "supporting {instrument} by"
-msgstr ""
+msgstr "ondersteunend {instrument} door"
 
 #: DB:link_type/link_phrase:105
 msgid "supporting {instrument} for"
-msgstr ""
+msgstr "ondersteunend {instrument} voor"
 
 #: DB:link_attribute_type/name:244
 msgid "symphony"
@@ -3167,7 +3167,7 @@ msgstr "{additional:aanvullend} gesampled door"
 #: DB:link_type/link_phrase:54 DB:link_type/link_phrase:167
 #: DB:link_type/short_link_phrase:54 DB:link_type/short_link_phrase:167
 msgid "{additional:additionally} wrote"
-msgstr ""
+msgstr "schreef {additional|aanvullend}"
 
 #: DB:link_type/short_link_phrase:37 DB:link_type/short_link_phrase:132
 msgid ""
@@ -3328,11 +3328,11 @@ msgstr ""
 #: DB:link_type/link_phrase:42 DB:link_type/link_phrase:136
 #: DB:link_type/reverse_link_phrase:42 DB:link_type/reverse_link_phrase:136
 msgid "{additional} {assistant} {associate} {co:co-}mastering"
-msgstr ""
+msgstr "{aanvullend} {assistent} {geassocieerd} {co:co-}mastering"
 
 #: DB:link_type/reverse_link_phrase:143 DB:link_type/reverse_link_phrase:26
 msgid "{additional} {assistant} {associate} {co:co-}mixer"
-msgstr ""
+msgstr "{aanvullend} {assistent} {geassocieerd} {co:co-}mixer"
 
 #: DB:link_type/reverse_link_phrase:29 DB:link_type/reverse_link_phrase:133
 msgid "{additional} {assistant} {associate} {co:co-}sound engineer"
@@ -3346,7 +3346,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:30 DB:link_type/reverse_link_phrase:141
 msgid ""
 "{additional} {assistant} {associate} {co:co-}{executive:executive }producer"
-msgstr ""
+msgstr "{aanvullend} {assistent} {geassocieerd} {co:co-}{executive:uitvoerend} producent"
 
 #: DB:link_type/link_phrase:37 DB:link_type/link_phrase:132
 #: DB:link_type/reverse_link_phrase:37 DB:link_type/reverse_link_phrase:132
@@ -3378,7 +3378,7 @@ msgstr "{aanvullende} {gast} {solo} {vocal} vocalen"
 #: DB:link_type/reverse_link_phrase:282 DB:link_type/reverse_link_phrase:158
 #: DB:link_type/reverse_link_phrase:41
 msgid "{additional} {instrument} arranger"
-msgstr ""
+msgstr "{aanvullend} {instrument} arrangeur"
 
 #: DB:link_type/link_phrase:39 DB:link_type/link_phrase:166
 #: DB:link_type/link_phrase:299 DB:link_type/reverse_link_phrase:39
