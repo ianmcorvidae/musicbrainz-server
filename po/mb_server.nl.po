@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-08-13 12:51+0000\n"
+"PO-Revision-Date: 2012-08-13 14:57+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1269,7 +1269,7 @@ msgstr "Toeschrijvingen aan artiesten"
 #: ../root/edit/details/add_medium.tt:43
 #, perl-format
 msgid "Artist Credits:"
-msgstr ""
+msgstr "Vermeldingen van artiesten:"
 
 #: ../root/artist/edit_form.tt:37
 #, perl-format
@@ -1304,7 +1304,7 @@ msgstr "Artiesten zoals ze op dit nummer genoemd worden"
 #: ../root/components/filter-form.tt:11
 #, perl-format
 msgid "Artist credit:"
-msgstr ""
+msgstr "Vermelding van de artiest:"
 
 #: ../root/edit/details/edit_medium.tt:223
 #, perl-format
@@ -2876,7 +2876,7 @@ msgstr "Bewerk de aantekening van de uitgavegroep"
 #: ../root/release/edit/layout.tt:2
 #, perl-format
 msgid "Edit Release: {name}"
-msgstr "Bewerk uitgave: {naam}"
+msgstr "Bewerk uitgave: {name}"
 
 #: ../root/doc/edit_types.tt:1 ../root/doc/edit_types.tt:3
 #: ../root/doc/edit_type.tt:17 ../root/edit/info.tt:59
@@ -3353,7 +3353,7 @@ msgstr "Externe verwijzingen"
 #: ../root/release/edit/information.tt:43
 #, perl-format
 msgid "Extra Types:"
-msgstr ""
+msgstr "Extra Types:"
 
 #: ../root/layout/menu.tt:215 ../root/main/index.tt:35
 #, perl-format
@@ -4305,7 +4305,7 @@ msgstr "Koppelzin:"
 #: ../root/layout/menu.tt:145
 #, perl-format
 msgid "Live Data Feed"
-msgstr ""
+msgstr "Live gegevensfeed"
 
 #: ../root/components/aliases.tt:11
 #, perl-format
@@ -5928,7 +5928,7 @@ msgstr "Snel starten"
 #: ../root/edit/list_header.tt:4
 #, perl-format
 msgid "Quick links:"
-msgstr ""
+msgstr "Snelkoppelingen:"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -7139,7 +7139,7 @@ msgstr "Toon alleen resultaten in mijn abonnementen."
 msgid ""
 "Showing Various Artist release groups. {show_subset|Show release groups by "
 "this artist instead}."
-msgstr ""
+msgstr "Laat uitgaves van Diverse Artiesten zien. {show_subset|Laat in plaats hiervan uitgaves van deze artiest zien.}"
 
 #: ../root/artist/releases.tt:31
 #, perl-format
@@ -7179,7 +7179,7 @@ msgstr "Laat uitgaves van deze artiest zien. {show_all|Laat in plaats hiervan ui
 msgid ""
 "Showing results <strong>{start}</strong>&ndash;<strong>{end}</strong> of "
 "<strong>{matches}</strong>"
-msgstr ""
+msgstr "Laat resultaten <strong>{start}</strong>&<strong>{end</strong> van <strong>{matches}</strong> zien."
 
 #: ../root/release/edit/duplicates.tt:12
 #, perl-format
@@ -7211,7 +7211,7 @@ msgstr "Sommige resultaten van FreeDB kunnen niet onmiddellijk beschikbaar zijn 
 #: ../root/scripts/text_strings.tt:31
 #, perl-format
 msgid "Some artists credited with alternative names"
-msgstr ""
+msgstr "Sommige artiesten worden met alternatieve namen vermeld."
 
 #: ../root/release/edit/recordings.tt:179
 #, perl-format
@@ -7554,7 +7554,7 @@ msgstr "Status:"
 #: ../root/watch/list.tt:28
 #, perl-format
 msgid "Stop watching selected artists"
-msgstr ""
+msgstr "Stop met het volgen van de geselecteerde artiesten."
 
 #: ../root/layout/menu.tt:212
 #, perl-format
@@ -7579,7 +7579,7 @@ msgstr "Indienen"
 #: ../root/cdtoc/lookup.tt:104
 #, perl-format
 msgid "Submit this CD using the simple method."
-msgstr ""
+msgstr "Voeg dit medium met de eenvoudige methode toe."
 
 #: ../root/edit/list.tt:81
 #, perl-format
@@ -8077,7 +8077,7 @@ msgid ""
 "at the bottom of the {alias_uri|aliases} tab and remove all existing "
 "{rel_uri|relationships} instead, which will allow ModBot to automatically "
 "remove this artist in the upcoming days."
-msgstr ""
+msgstr "Er zijn geen nummers, opnames, uitgavegroepen en uitgaves die alleen onder {name} worden vermeld. Als u {name} probeert te verwijderen, bewerk dan in plaats van dat alle vermeldingen onderaan de {alias_uri|tab aliassen} en verwijder alle bestaande {rel_uri|verwantschappen}, zodat ModBot deze artiest in de komende dagen automatisch kan verwijderen."
 
 #: ../root/label/subscriptions.tt:11
 #, perl-format
@@ -8306,7 +8306,7 @@ msgid ""
 "This form allows you to edit the artist credit \"{ac}\". When the edit is "
 "accepted, all tracks, recordings, releases and release groups using this "
 "artist credit will be update to use the new one."
-msgstr ""
+msgstr "Dit formulier laat u de vermelding van een artiest „{ac}“ bewerken. Als deze bewerking wordt doorgevoerd zullen alle nummers, opnames, uitgaves en uitgavegroepen die deze vermelding gebruiken worden gewijzigd naar de nieuwe vermelding."
 
 #: ../root/artist/split.tt:43
 #, perl-format
@@ -8637,7 +8637,7 @@ msgid ""
 " they're not, the relationship should be removed. Please, do not merge "
 "recordings blindly just because the lengths fit, and do not merge recordings"
 " with very different times!"
-msgstr "Dit rapport toont opnames met het verouderde verwantschapstype \"vroegste uitgave\". Als deze opnames echt hetzelfde zijn moeten ze worden samengevoegd. Als ze niet hetzelfde zijn moet de verwantschap worden verwijderd. Voeg geen opnames samen alleen omdat ze dezelfde lengte hebben, en zeker niet als de opnames niet even lang zijn!"
+msgstr "Dit rapport toont opnames met het verouderde verwantschapstype „vroegste uitgave“. Als deze opnames echt hetzelfde zijn moeten ze worden samengevoegd. Als ze niet hetzelfde zijn moet de verwantschap worden verwijderd. Voeg geen opnames samen alleen omdat ze dezelfde lengte hebben, en zeker niet als de opnames niet even lang zijn!"
 
 #: ../root/report/featuring_recordings.tt:6
 #, perl-format
@@ -8729,7 +8729,7 @@ msgid ""
 " releases}. If the releases are not really part of a set (for example, if "
 "they are independently-released volumes in a series) just remove the "
 "relationship."
-msgstr ""
+msgstr "Dit rapport toont uitgaves die nog steeds de verouderde „deel van een set“ verwantschap hebben en waarschijnlijk samengevoegd moeten worden. Zie de documentatie voor {how_to_merge_releases|het samenvoegen van uitgaves} voor instructies. Als de uitgaves niet een deel van een set zijn (bijvoorbeeld omdat het onafhankelijk van elkaar uitgebrachte delen van een serie zijn) kan de verwantschap gewoon verwijderd worden."
 
 #: ../root/report/some_formats_unset.tt:6
 #, perl-format
@@ -8905,7 +8905,7 @@ msgstr "{login_url|Meld u aan} om te zien of u op deze kandidaat kunt stemmen."
 msgid ""
 "To watch an artist and be notified of new releases, {search_url|search} for "
 "them and select 'Watch this artist for new releases' from the sidebar."
-msgstr ""
+msgstr "Om een artiest te volgen en op de hoogte te worden gehouden van nieuwe uitgaves, {search_url|zoek} naar ze en selecteer „Volg deze artiest voor nieuwe uitgaves“ in het zijmenu."
 
 #: ../root/edit/details/historic/move_disc_id.tt:19
 #: ../root/edit/details/move_disc_id.tt:19
@@ -9296,7 +9296,7 @@ msgstr "Werkt etiketten bij"
 #: ../root/artist/merge.tt:19
 #, perl-format
 msgid "Update artist credits to use the new artist's name"
-msgstr ""
+msgstr "Werk de vermeldingen van de artiest bij met de nieuwe naam van de artiest."
 
 #: ../root/collection/edit_form.tt:13
 #, perl-format
@@ -9717,7 +9717,7 @@ msgstr "Als u klaar bent om deze samen te voegen, klik dan op de knop Samenvoege
 msgid ""
 "When you have found the release that you would like to merge {recording} "
 "into, please select that entity and click <em>merge</em>."
-msgstr ""
+msgstr "Als u een uitgave heeft gevonden waar u {recording} in wilt samenvoegen, selecteer die uitgave dan en klik op <em>samenvoegen</em>."
 
 #: ../root/release/move_search.tt:5
 #, perl-format
@@ -10271,7 +10271,7 @@ msgstr "door {artist}"
 #: ../root/release/edit/tracklist.tt:326
 #, perl-format
 msgid "credits"
-msgstr ""
+msgstr "vermeldingen"
 
 #: ../root/release/edit/recordings.tt:64
 #: ../root/release/edit/recordings.tt:140
