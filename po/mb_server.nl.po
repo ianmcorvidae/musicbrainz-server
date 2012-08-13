@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-07-15 13:19-0700\n"
-"PO-Revision-Date: 2012-08-13 09:18+0000\n"
+"PO-Revision-Date: 2012-08-13 11:58+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -3507,7 +3507,7 @@ msgstr "FreeDB lemma niet gevonden"
 #: ../root/layout/menu.tt:148
 #, perl-format
 msgid "FreeDB Gateway"
-msgstr ""
+msgstr "FreeDB toegang"
 
 #: ../root/search/results-freedb.tt:13
 #, perl-format
@@ -5505,7 +5505,7 @@ msgstr "Permanente verwijzing:"
 #: ../root/edit/details/remove_relationship_type.tt:11
 #, perl-format
 msgid "Phrase:"
-msgstr ""
+msgstr "Zin:"
 
 #: ../root/account/registered.tt:7
 #, perl-format
@@ -5563,7 +5563,7 @@ msgstr "Voert u alstublieft de streepjescode van de uitgave die u aan het toevoe
 msgid ""
 "Please enter the {name|release name} of the recording into which you would "
 "like to merge this recording, and press <em>search</em> to start the search."
-msgstr ""
+msgstr "Voer de {name|naam} van de opname in waarmee je deze opname wilt samenvoegen en klik <em>zoeken</em> om te beginnen met zoeken."
 
 #: ../root/account/change_password.tt:5
 #, perl-format
@@ -5809,7 +5809,7 @@ msgstr "Mogelijke waarden:"
 #: ../root/report/index.tt:19
 #, perl-format
 msgid "Possibly duplicate artists"
-msgstr ""
+msgstr "Mogelijk dubbele artiesten"
 
 #: ../root/account/preferences_ok.tt:1 ../root/account/preferences_ok.tt:3
 #: ../root/account/preferences.tt:2 ../root/account/preferences.tt:4
@@ -7731,7 +7731,7 @@ msgstr "Geef deze compositie een etiket"
 #: ../root/tag/header.tt:11 ../root/tag/layout.tt:1
 #, perl-format
 msgid "Tag “{tag}”"
-msgstr ""
+msgstr "Etiket „{tag}“"
 
 #: ../root/cdtoc/attach_artist_releases.tt:41
 #: ../root/cdtoc/attach_filter_release.tt:55 ../root/cdtoc/list.tt:14
@@ -7743,7 +7743,7 @@ msgstr ""
 #: ../root/search/lib/inline-results-release.tt:15
 #, perl-format
 msgid "Tagger"
-msgstr ""
+msgstr "Tagger"
 
 #: ../root/artist/header.tt:1 ../root/artist/tags.tt:1
 #: ../root/collection/tags.tt:1 ../root/components/tags.tt:5
@@ -8540,7 +8540,7 @@ msgid ""
 "listed as members. If you find that an artist here is indeed a group, change"
 " its type. If it is not, please make sure that the \"member of\" "
 "relationships are in the right direction and are correct."
-msgstr ""
+msgstr "Dit rapport toont artiesten van het type <em>onbekend</em> of <em>persoon</em> maar misschien een <em>groep</em> zijn omdat ze andere artiesten als lid hebben. Verander het type als de artiest inderdaad een groep is. Controleer anders of de „lid van“ verwantschappen correct zijn en in de juiste richting staan."
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:6
 #, perl-format
@@ -8558,7 +8558,7 @@ msgid ""
 "collaboration, it should be split if possible (see {how_to_split_artists|How"
 " to Split Artists}). If it is a collaboration with its own name and can't be"
 " split, collaboration relationships should be added to it."
-msgstr ""
+msgstr "Dit rapport toont artiesten met „&“ in de naam maar geen lid- of samenwerkingsverwantschap. Als de artiest doorgaans als groep wordt gezien moeten er ledenverwantschappen worden toegevoegd. Als het een kort bestaande samenwerking is, moet het indien mogelijk worden gesplitst (zie {how_to_split_artists|artiesten splitsen}). Als het een samenwerking met een eigen naam en niet kan worden gesplitst, moeten er samenwerkingsverwantschappen worden toegevoegd."
 
 #: ../root/report/collaboration_relationships.tt:4
 #, perl-format
@@ -8567,7 +8567,7 @@ msgid ""
 "relationships. If the collaboration has its own independent name, do "
 "nothing. If it is in a format like \"X with Y\" or \"X & Y\", you should "
 "probably split it. See {how_to_split_artists|How to Split Artists}."
-msgstr ""
+msgstr "Dit rapport toont artiesten die een samenwerkingsverwantschap hebben maar geen URL-verwantschappen. Als de samenwerking zijn eigen unieke naam heeft moet er niets gebeuren. Als het lijkt op „X met Y“ of „X & Y“ moet de artiest waarschijnlijk gesplitst worden. Zie {how_to_split_artists|artiesten splitsen}."
 
 #: ../root/report/superfluous_data_tracks.tt:6
 #, perl-format
@@ -8575,7 +8575,7 @@ msgid ""
 "This report lists releases without any disc IDs that probably contain data "
 "tracks (like videos). A data track should be deleted if it is the last track"
 " of the CD and there is no disc ID."
-msgstr ""
+msgstr "Dit rapport toont uitgaves zonder disc-id's die waarschijnlijk gegevensnummers (zoals video's) hebben. Een gegevensnummer moet verwijderd worden als het het laatste nummer van een cd is en er geen disc-id is."
 
 #: ../root/report/isrc_with_many_recordings.tt:6
 #, perl-format
@@ -8647,7 +8647,7 @@ msgid ""
 "inherited from an older version of MusicBrainz and should be fixed (both at "
 "the recordings at the tracks!). Consult the {featured_artists|page about "
 "featured artists} to know more."
-msgstr ""
+msgstr "Dit rapport toont opnames met (feat. Artiest) in de titel. Verander niets bij klassieke opnames. Bij niet-klassieke opnames is dit een erfenis van een oudere versie van MusicBrainz en moet dit verbeterd worden (zowel op opnames als de bijbehorende nummers). Lees de {featured_artists|pagina over gastartiesten} om meer te weten te komen."
 
 #: ../root/report/featuring_release_groups.tt:6
 #, perl-format
@@ -8656,7 +8656,7 @@ msgid ""
 "classical releases, don't change anything. For non-classical releases, this "
 "is inherited from an older version of MusicBrainz and should be fixed. "
 "Consult the {featured_artists|page about featured artists} to know more."
-msgstr ""
+msgstr "Dit rapport toont uitgavegroepen met (feat. Artiest) in de titel. Verander niets bij klassieke uitgavegroepen. Bij niet-klassieke uitgavegroepen is dit een erfenis van een oudere versie van MusicBrainz en moet dit verbeterd worden. Lees de {featured_artists|pagina over gastartiesten} om meer te weten te komen."
 
 #: ../root/report/set_in_different_rg.tt:6
 #, perl-format
@@ -8684,7 +8684,7 @@ msgid ""
 " be correct. Just check which ones do not fit the release (because of "
 "format, different number of tracks, etc). If the release has a barcode, you "
 "can search Amazon for it and see which ASIN matches."
-msgstr ""
+msgstr "Dit rapport toont uitgaves die meer dan een ASIN van Amazon hebben. In de meeste gevallen moeten ASIN's één op één overeenkomen met uitgaves op MusicBrainz en zal er dus maar één koppeling correct zijn. Controleer welke niet bij de uitgave passen (vanwege het medium of het aantal nummers bijvoorbeeld) en verwijder deze. Als de uitgave een streepjescode heeft kunt u op Amazon daarna zoeken en kijken of de ASIN overeenkomt."
 
 #: ../root/report/multiple_discogs_links.tt:6
 #, perl-format
@@ -8695,7 +8695,7 @@ msgid ""
 "release (because of format, different number of tracks, etc). Any \"master\""
 " Discogs page belongs at the {release_group|release group level}, not at the"
 " release level, and should be removed from releases too."
-msgstr ""
+msgstr "Dit rapport toont uitgaves die meer dan een koppeling naar Discogs hebben. In de meeste gevallen hoort een uitgave op MusicBrainz maar één equivalent te hebben op Discogs, dus zal er maar één koppeling correct zijn. Controleer welke niet bij de uitgave passen (vanwege het medium of het aantal nummers bijvoorbeeld) en verwijder deze. Een „master“ Discogspagina hoort bij de {release_group|uitgavegroep} en moet ook verwijderd worden van uitgaves."
 
 #: ../root/report/releases_without_language.tt:6
 #, perl-format
@@ -8703,7 +8703,7 @@ msgid ""
 "This report shows releases that have no language set. If you recognize the "
 "language, please set it! Do it only if you are pretty sure, don't just "
 "guess: not everything written in Cyrillic is Russian, for example."
-msgstr ""
+msgstr "Dit rapport toont uitgaves waarvan de taal niet is ingesteld. Stel de taal in als u deze herkent. Doe dit alleen als u zeker bent en doe geen gok: niet alles dat in het cyrillisch is geschreven is bijvoorbeeld Russisch."
 
 #: ../root/report/releases_without_script.tt:6
 #, perl-format
@@ -8711,7 +8711,7 @@ msgid ""
 "This report shows releases that have no script set. If you recognize the "
 "script, just add it! Remember that the script used for English (and most "
 "other European languages) is Latin."
-msgstr ""
+msgstr "Dit rapport toont uitgaves waarvan het schrift niet is ingesteld. Als u het schrift herkent, voeg het dan toe! Onthoudt dat het schrift dat voor Engels (en de meeste Europese talen) wordt gebruikt Latijn is."
 
 #: ../root/report/releases_with_cc_links.tt:6
 #, perl-format
@@ -8738,7 +8738,7 @@ msgid ""
 "others are unset. In most cases, it should be easy to find out which the "
 "correct formats are (don't just assume that they're all CDs because one is "
 "though!)."
-msgstr ""
+msgstr "Dit rapport toont uitgaves waarbij sommige media het type is ingesteld, maar niet bij allemaal. In de meeste gevallen moet het simpel zijn om te achterhalen wat de correcte types zijn (maar ga er niet gewoon vanuit dat het allemaal cd's zijn omdat één medium een cd is)."
 
 #: ../root/report/separate_discs.tt:6
 #, perl-format
@@ -8760,7 +8760,7 @@ msgid ""
 "This is almost always wrong: ASINs are just Amazon's entries for the "
 "releases and should be linked to the release with an Amazon URL relationship"
 " instead."
-msgstr ""
+msgstr "Dit rapport toont uitgaves die catalogusnummers hebben die lijken op ASIN's van Amazon. Dit is bijna altijd verkeerd: ASIN's zijn alleen verwijzingen naar uitgaves op Amazon en moeten aan een uitgave op MusicBrainz worden gekoppeld door middel van een Amazon URL verwantschap."
 
 #: ../root/report/released_too_early.tt:6
 #, perl-format
@@ -8778,7 +8778,7 @@ msgid ""
 "releases, don't change anything. For non-classical releases, this is "
 "inherited from an older version of MusicBrainz and should be fixed. Consult "
 "the {featured_artists|page about featured artists} to know more."
-msgstr ""
+msgstr "Dit rapport toont uitgaves met (feat. Artiest) in de titel. Verander niets bij klassieke uitgaves. Bij niet-klassieke uitgaves is dit een erfenis van een oudere versie van MusicBrainz en moet dit verbeterd worden. Lees de {featured_artists|pagina over gastartiesten} om meer te weten te komen."
 
 #: ../root/report/bad_amazon_urls.tt:6
 #, perl-format
@@ -10593,7 +10593,7 @@ msgstr "{collection} van {owner}"
 #: ../root/user/profile.tt:95
 #, perl-format
 msgid "{count} ({url|view list})"
-msgstr "{count} ({url|bekijk lijst})"
+msgstr "{count} ({url|view list})"
 
 #: ../root/user/profile.tt:145 ../root/user/profile.tt:149
 #: ../root/user/profile.tt:153 ../root/user/profile.tt:157
