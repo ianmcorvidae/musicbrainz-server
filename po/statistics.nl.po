@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-02 14:39+0000\n"
+"PO-Revision-Date: 2012-08-13 10:54+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -114,11 +114,11 @@ msgstr "Programmeerfouten verbeterd"
 
 #: DB:statistic_event/description:2004-03-09
 msgid "Caching (memcached) and bugs fixed."
-msgstr ""
+msgstr "Gecacht en programmeerfouten verbeterd."
 
 #: DB:statistic_event/title:2004-03-09
 msgid "Caching/bug fixes"
-msgstr ""
+msgstr "Cachen/verbeterde programmeerfouten"
 
 #: DB:statistic_event/title:2003-03-02 DB:statistic_event/title:2003-06-07
 #: DB:statistic_event/title:2003-06-15
@@ -146,7 +146,7 @@ msgstr "Toegewijde gegevensbankserver"
 msgid ""
 "Edit display improvements, turned off RDF dumps, new install scripts "
 "released."
-msgstr ""
+msgstr "Verbeteringen in het weergeven van bewerkingen, RDF dumps uitgeschakeld en nieuwe installatiescripts uitgebracht."
 
 #: DB:statistic_event/title:2003-11-10
 msgid "Edit search"
@@ -251,7 +251,7 @@ msgstr "Last.fm tekent een contract met MetaBrainz en begint gegevens van MusicB
 #: DB:statistic_event/description:2003-12-28
 msgid ""
 "Link to MusicBrainz feature, release events and edit suggestions released."
-msgstr ""
+msgstr "Koppeling naar MusicBrainz mogelijkheden, uitgavegebeurtenissen en suggesties voor bewerkingen uitgebracht."
 
 #: DB:statistic_event/description:2007-01-20
 msgid "Linkara Musica becomes first commercial customer of MetaBrainz."
@@ -419,7 +419,7 @@ msgstr "Verbeteringen aan de zoekfunctie en de webienst worden uigebracht."
 msgid ""
 "Top menu navigation improved, duplicate artists, album edit all, track time editing features\n"
 "\treleased."
-msgstr ""
+msgstr "Verbeterde menunavigatie, dubbele artiesten, bewerkingen voor hele uitgaves en de lengte van nummers uitgebracht."
 
 #: DB:statistic_event/title:2007-12-07
 msgid "Track times set from DiscIDs"
@@ -431,7 +431,7 @@ msgstr "Verbeteringen voor gebruikers"
 
 #: DB:statistic_event/description:2004-07-24
 msgid "Voting logic was improved, web based autoeditor elections released."
-msgstr ""
+msgstr "Logica voor stemmen verbeterd en verkiezingen voor autoredacteurs uitgebracht."
 
 #: DB:statistic_event/title:2010-02-08
 msgid "mb_server now hosted on Git"
@@ -525,7 +525,7 @@ msgstr "Toegepaste bewerkingen"
 #: ../root/statistics/index.tt:533
 #, perl-format
 msgid "Applied:"
-msgstr "doorgevoerd:"
+msgstr "Doorgevoerd:"
 
 #: ../root/statistics/index.tt:597
 #, perl-format
@@ -560,12 +560,12 @@ msgstr "Waarderingen van de artiest"
 #: ../root/statistics/view_js.tt:164
 #, perl-format
 msgid "Artist Ratings (raw)"
-msgstr ""
+msgstr "Waarderingen van artiesten (totaal)"
 
 #: ../root/statistics/view_js.tt:172
 #, perl-format
 msgid "Artist Tags (raw)"
-msgstr ""
+msgstr "Etiketten van artiesten (totaal)"
 
 #: ../root/statistics/view_js.tt:33
 #, perl-format
@@ -761,12 +761,12 @@ msgstr "Totaal aantal waarderingen van artiesten"
 #: ../root/statistics/view_js.tt:164
 #, perl-format
 msgid "Count of all Artist Ratings (raw)"
-msgstr ""
+msgstr "Aantal waarderingen van artiesten (totaal)"
 
 #: ../root/statistics/view_js.tt:172
 #, perl-format
 msgid "Count of all Artist Tags (raw)"
-msgstr ""
+msgstr "Aantal etiketten van artiesten (totaal)"
 
 #: ../root/statistics/view_js.tt:118
 #, perl-format
@@ -826,12 +826,12 @@ msgstr "Totaal aantal waarderingen van platenmaatschappijen"
 #: ../root/statistics/view_js.tt:165
 #, perl-format
 msgid "Count of all Label Ratings (raw)"
-msgstr ""
+msgstr "Aantal waarderingen van platenmaatschappijen (totaal)"
 
 #: ../root/statistics/view_js.tt:173
 #, perl-format
 msgid "Count of all Label Tags (raw)"
-msgstr ""
+msgstr "Aantal etiketten van platenmaatschappijen (totaal)"
 
 #: ../root/statistics/view_js.tt:137
 #, perl-format
@@ -866,7 +866,7 @@ msgstr "Totaal aantal waarderingen"
 #: ../root/statistics/view_js.tt:163
 #, perl-format
 msgid "Count of all Ratings (raw)"
-msgstr ""
+msgstr "Aantal waarderingen (totaal)"
 
 #: ../root/statistics/view_js.tt:160
 #, perl-format
@@ -876,12 +876,12 @@ msgstr "Totaal aantal waarderingen van opnames"
 #: ../root/statistics/view_js.tt:166
 #, perl-format
 msgid "Count of all Recording Ratings (raw)"
-msgstr ""
+msgstr "Aantal waarderingen van opnames (totaal)"
 
 #: ../root/statistics/view_js.tt:174
 #, perl-format
 msgid "Count of all Recording Tags (raw)"
-msgstr ""
+msgstr "Aantal etiketten van opnames (totaal)"
 
 #: ../root/statistics/view_js.tt:139
 #, perl-format
@@ -916,12 +916,12 @@ msgstr "Totaal aantal waarderingen van uitgavegroepen"
 #: ../root/statistics/view_js.tt:167
 #, perl-format
 msgid "Count of all Release Group Ratings (raw)"
-msgstr ""
+msgstr "Aantal waarderingen van uitgavegroepen (totaal)"
 
 #: ../root/statistics/view_js.tt:176
 #, perl-format
 msgid "Count of all Release Group Tags (raw)"
-msgstr ""
+msgstr "Aantal etiketten van uitgavegroepen (totaal)"
 
 #: ../root/statistics/view_js.tt:147
 #, perl-format
@@ -931,7 +931,7 @@ msgstr "Totaal aantal uitgavegroepen met {n} uitgaves"
 #: ../root/statistics/view_js.tt:175
 #, perl-format
 msgid "Count of all Release Tags (raw)"
-msgstr ""
+msgstr "Aantal etiketten van uitgaves (totaal)"
 
 #: ../root/statistics/view_js.tt:151
 #, perl-format
@@ -986,7 +986,7 @@ msgstr "Totaal aantal etiketten"
 #: ../root/statistics/view_js.tt:171
 #, perl-format
 msgid "Count of all Tags (raw)"
-msgstr ""
+msgstr "Aantal etiketten (totaal)"
 
 #: ../root/statistics/view_js.tt:119
 #, perl-format
@@ -1001,12 +1001,12 @@ msgstr "Totaal aantal waarderingen voor composities"
 #: ../root/statistics/view_js.tt:168
 #, perl-format
 msgid "Count of all Work Ratings (raw)"
-msgstr ""
+msgstr "Aantal waarderingen van composities (totaal)"
 
 #: ../root/statistics/view_js.tt:177
 #, perl-format
 msgid "Count of all Work Tags (raw)"
-msgstr ""
+msgstr "Aantal etiketten van composities (totaal)"
 
 #: ../root/statistics/view_js.tt:69
 #, perl-format
@@ -1379,12 +1379,12 @@ msgstr "Waarderingen van de platenmaatschappij"
 #: ../root/statistics/view_js.tt:165
 #, perl-format
 msgid "Label Ratings (raw)"
-msgstr ""
+msgstr "Waarderingen van platenmaatschappijen (totaal)"
 
 #: ../root/statistics/view_js.tt:173
 #, perl-format
 msgid "Label Tags (raw)"
-msgstr ""
+msgstr "Etiketten van platenmaatschappijen (totaal)"
 
 #: ../root/statistics/countries.tt:37 ../root/statistics/view_js.tt:49
 #, perl-format
@@ -1529,7 +1529,7 @@ msgstr "Geen mediumtype"
 #: ../root/statistics/index.tt:254
 #, perl-format
 msgid "No packaging set"
-msgstr ""
+msgstr "Geen verpakking ingesteld"
 
 #: ../root/statistics/coverart.tt:58
 #, perl-format
@@ -1539,7 +1539,7 @@ msgstr "Geen status"
 #: ../root/statistics/index.tt:230
 #, perl-format
 msgid "No status set"
-msgstr ""
+msgstr "Geen status ingesteld"
 
 #: ../root/statistics/coverart.tt:42 ../root/statistics/coverart.tt:96
 #, perl-format
@@ -1599,12 +1599,12 @@ msgstr "andere geslachten:"
 #: ../root/statistics/view_js.tt:107
 #, perl-format
 msgid "Other-gender Artists"
-msgstr ""
+msgstr "Artiest met overig geslacht"
 
 #: ../root/statistics/view_js.tt:111
 #, perl-format
 msgid "Other-type Artists"
-msgstr ""
+msgstr "Artiest met overig type"
 
 #: ../root/statistics/index.tt:1 ../root/statistics/layout.tt:5
 #, perl-format
@@ -1671,7 +1671,7 @@ msgstr "Aantal hoesafbeeldingen:"
 #: ../root/statistics/index.tt:383
 #, perl-format
 msgid "Primary Types"
-msgstr ""
+msgstr "Primaire types"
 
 #: ../root/statistics/countries.tt:33 ../root/statistics/editors.tt:12
 #: ../root/statistics/editors.tt:32 ../root/statistics/editors.tt:55
@@ -1700,12 +1700,12 @@ msgstr "Waarderingen"
 #: ../root/statistics/index.tt:69
 #, perl-format
 msgid "Ratings (raw / aggregated):"
-msgstr ""
+msgstr "Waarderingen (totaal / verzameld):"
 
 #: ../root/statistics/view_js.tt:163
 #, perl-format
 msgid "Ratings (raw)"
-msgstr ""
+msgstr "Waarderingen (totaal)"
 
 #: ../root/statistics/view_js.tt:36
 #, perl-format
@@ -1725,12 +1725,12 @@ msgstr "Waarderingen van de opname"
 #: ../root/statistics/view_js.tt:166
 #, perl-format
 msgid "Recording Ratings (raw)"
-msgstr ""
+msgstr "Waarderingen van opnames (totaal)"
 
 #: ../root/statistics/view_js.tt:174
 #, perl-format
 msgid "Recording Tags (raw)"
-msgstr ""
+msgstr "Etiketten van opnames (totaal)"
 
 #: ../root/statistics/index.tt:421 ../root/statistics/view_js.tt:44
 #, perl-format
@@ -1821,12 +1821,12 @@ msgstr "Waarderingen van de uitgavegroep"
 #: ../root/statistics/view_js.tt:167
 #, perl-format
 msgid "Release Group Ratings (raw)"
-msgstr ""
+msgstr "Waarderingen van uitgavegroepen (totaal)"
 
 #: ../root/statistics/view_js.tt:176
 #, perl-format
 msgid "Release Group Tags (raw)"
-msgstr ""
+msgstr "Etiketten van uitgavegroepen (totaal)"
 
 #: ../root/statistics/index.tt:379 ../root/statistics/view_js.tt:48
 #, perl-format
@@ -1854,7 +1854,7 @@ msgstr "Talen van de uitgave"
 #: ../root/statistics/index.tt:237
 #, perl-format
 msgid "Release Packaging"
-msgstr ""
+msgstr "Verpakking van een uitgave"
 
 #: ../root/statistics/view_js.tt:31
 #, perl-format
@@ -1869,7 +1869,7 @@ msgstr "Uitgavestatus"
 #: ../root/statistics/view_js.tt:175
 #, perl-format
 msgid "Release Tags (raw)"
-msgstr ""
+msgstr "Waarderingen van uitgaves (totaal)"
 
 #: ../root/statistics/formats.tt:18 ../root/statistics/formats.tt:23
 #, perl-format
@@ -1978,17 +1978,17 @@ msgstr "Schriften"
 #: ../root/statistics/index.tt:399
 #, perl-format
 msgid "Secondary Types"
-msgstr ""
+msgstr "Secundaire types"
 
 #: ../root/statistics/index.tt:61
 #, perl-format
 msgid "Tags (raw / aggregated):"
-msgstr ""
+msgstr "Etiketten (totaal / verzameld):"
 
 #: ../root/statistics/view_js.tt:171
 #, perl-format
 msgid "Tags (raw)"
-msgstr ""
+msgstr "Etiketten (totaal)"
 
 #: ../root/statistics/layout.tt:5
 #, perl-format
@@ -2008,12 +2008,12 @@ msgstr "Bewerkingen die geannuleerd gaan worden"
 #: ../root/statistics/editors.tt:28
 #, perl-format
 msgid "Top editors overall"
-msgstr ""
+msgstr "Topredacteurs (altijd)"
 
 #: ../root/statistics/editors.tt:71
 #, perl-format
 msgid "Top voters overall"
-msgstr ""
+msgstr "Topstemmers (altijd)"
 
 #: ../root/statistics/countries.tt:38 ../root/statistics/formats.tt:38
 #: ../root/statistics/languages_scripts.tt:53
@@ -2024,12 +2024,12 @@ msgstr "Totaal"
 #: ../root/statistics/editors.tt:34
 #, perl-format
 msgid "Total applied edits"
-msgstr ""
+msgstr "Totaal aantal doorgevoerde stemmen"
 
 #: ../root/statistics/editors.tt:77
 #, perl-format
 msgid "Total votes"
-msgstr ""
+msgstr "Totaal aantal stemmen"
 
 #: ../root/statistics/view_js.tt:119
 #, perl-format
@@ -2155,12 +2155,12 @@ msgstr "Compositiewaarderingen"
 #: ../root/statistics/view_js.tt:168
 #, perl-format
 msgid "Work Ratings (raw)"
-msgstr ""
+msgstr "Waarderingen van composities (totaal)"
 
 #: ../root/statistics/view_js.tt:177
 #, perl-format
 msgid "Work Tags (raw)"
-msgstr ""
+msgstr "Etiketten van composities (totaal)"
 
 #: ../root/statistics/languages_scripts.tt:52 ../root/statistics/view_js.tt:45
 #, perl-format
@@ -2328,7 +2328,7 @@ msgstr "uitgaves in het {language}"
 #: ../root/statistics/view_js.tt:101
 #, perl-format
 msgid "{name} mediums"
-msgstr ""
+msgstr "{name} media"
 
 #: ../root/statistics/view_js.tt:100
 #, perl-format
@@ -2386,4 +2386,4 @@ msgstr "{type0}-{type1}"
 #: ../root/statistics/relationships.tt:50
 #, perl-format
 msgid "{type0}-{type1} relationships:"
-msgstr ""
+msgstr "{type0}-{type1} verwantschappen:"
