@@ -74,7 +74,8 @@ __PACKAGE__->config(
     },
     stacktrace => {
         enable => 1
-    }
+    },
+    use_request_uri_for_path => 1
 );
 
 if ($ENV{'MUSICBRAINZ_USE_PROXY'})
@@ -244,6 +245,8 @@ around 'dispatch' => sub {
     my $orig = shift;
     my $c = shift;
 
+    $c->model('MB')->context->connector->refresh;
+
     $_->instance->build_languages_from_header($c->req->headers) 
         for qw( MusicBrainz::Server::Translation 
 	        MusicBrainz::Server::Translation::Statistics 
@@ -274,6 +277,9 @@ around 'dispatch' => sub {
                                        $max_request_time));
                 $c->log->error(Devel::StackTrace->new->as_string);
                 $c->log->_flush;
+                if (my $sth = $c->model('MB')->context->sql->sth) {
+                    $sth->cancel;
+                }
                 exit(42)
             }));
 
@@ -321,6 +327,8 @@ sub finalize_error {
     my $c = shift;
 
     $c->next::method(@_);
+
+    $c->model('MB')->context->connector->disconnect;
 
     if (!$c->debug && scalar @{ $c->error }) {
         $c->stash->{errors} = $c->error;

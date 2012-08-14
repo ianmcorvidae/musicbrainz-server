@@ -384,6 +384,10 @@ sub create
     # Save quality level
     $edit->quality($quality);
 
+    # Serialize transactions per-editor. Should only be necessary for autoedits,
+    # since only they update the editor table but for now we've enabled it for everything
+    $self->c->model('Editor')->lock_row($edit->editor_id);
+
     $edit->insert;
 
     my $now = DateTime->now;
@@ -413,6 +417,8 @@ sub create
 
     $self->c->sql->update_row('edit', $post_insert_update, { id => $edit_id });
 
+    $edit->adjust_edit_pending(+1);
+
     my $ents = $edit->related_entities;
     while (my ($type, $ids) = each %$ents) {
         $ids = [ uniq grep { defined } @$ids ];
@@ -422,8 +428,6 @@ sub create
         my @all_ids = ($edit_id) x @$ids;
         $self->c->sql->do($query, zip @all_ids, @$ids);
     }
-
-    $edit->adjust_edit_pending(+1);
 
     # Automatically accept auto-edits on insert
     $edit = $self->get_by_id($edit->id);
