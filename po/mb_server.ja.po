@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-14 00:48+0000\n"
+"PO-Revision-Date: 2012-08-14 16:17+0000\n"
 "Last-Translator: Nozomu Kurasawa <email address hidden>\n"
 "Language-Team: Japanese (http://www.transifex.com/projects/p/musicbrainz/language/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -191,7 +191,7 @@ msgstr ""
 #: ../root/layout/menu.tt:24
 #, perl-format
 msgid "(reset language)"
-msgstr ""
+msgstr "(言語をリセット)"
 
 #: ../root/search/lib/inline-results-recording.tt:60
 #, perl-format
@@ -764,7 +764,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAlias.pm:15
 #, perl-format
 msgid "Add work alias"
-msgstr ""
+msgstr "ワークの別名を追加"
 
 #: ../root/components/forms.tt:114
 #, perl-format
@@ -972,7 +972,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:39
 #, perl-format
 msgid "Annotation"
-msgstr ""
+msgstr "注釈"
 
 #: ../root/annotation/edit.tt:34
 #, perl-format
@@ -1942,7 +1942,7 @@ msgstr ""
 #: ../root/account/register.tt:5
 #, perl-format
 msgid "Captcha incorrect. Try again."
-msgstr ""
+msgstr "Captchaが間違っています。もう一度おねがいします。"
 
 #: ../root/release/edit/information.tt:87
 #, perl-format
@@ -2382,7 +2382,7 @@ msgstr ""
 #: ../root/layout/menu.tt:278
 #, perl-format
 msgid "Data Removal Policy"
-msgstr ""
+msgstr "データの削除ポリシー"
 
 #: ../root/annotation/history.tt:9 ../root/artist/relationships.tt:13
 #: ../root/cdtoc/attach_artist_releases.tt:35
@@ -2963,7 +2963,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
 #, perl-format
 msgid "Edit recording"
-msgstr ""
+msgstr "レコーディングを編集"
 
 #: ../root/recording/edit_annotation.tt:2
 #, perl-format
@@ -2989,7 +2989,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Work/EditAlias.pm:13
 #, perl-format
 msgid "Edit work alias"
-msgstr ""
+msgstr "ワークの別名を編集"
 
 #: ../root/work/edit_annotation.tt:2
 #, perl-format
@@ -4536,7 +4536,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
 #, perl-format
 msgid "Merge mediums and recordings"
-msgstr ""
+msgstr "メディアやレコーディングをマージ"
 
 #: ../root/release/merge_confirm.tt:10
 #, perl-format
@@ -5943,7 +5943,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:36
 #, perl-format
 msgid "Recording"
-msgstr ""
+msgstr "レコーディング"
 
 #: ../root/recording/edit_form.tt:6
 #, perl-format
@@ -5995,7 +5995,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:65
 #, perl-format
 msgid "Recordings"
-msgstr ""
+msgstr "レコーディング"
 
 #: ../root/artist/browse_various_recordings.tt:5
 #, perl-format
@@ -9738,7 +9738,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:37
 #, perl-format
 msgid "Work"
-msgstr ""
+msgstr "ワーク"
 
 #: ../root/work/edit_form.tt:6
 #, perl-format
@@ -10058,7 +10058,7 @@ msgstr ""
 #: ../root/user/collections.tt:35
 #, perl-format
 msgid "You have no collections."
-msgstr ""
+msgstr "コレクションがありません"
 
 #: ../root/recording/edit.tt:42
 #, perl-format
@@ -11334,7 +11334,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddCoverArt.pm:18
 msgid "Add cover art"
-msgstr ""
+msgstr "カバーアートを追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
@@ -11363,7 +11363,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditCoverArt.pm:19
 msgid "Edit cover art"
-msgstr ""
+msgstr "カバーアートを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
@@ -11371,15 +11371,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
-msgstr ""
+msgstr "カバーアートを削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderCoverArt.pm:22
 msgid "Reorder cover art"
-msgstr ""
+msgstr "カバーアートを並べ替え"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderMediums.pm:11
 msgid "Reorder mediums"
-msgstr ""
+msgstr "メディアを並べ替え"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
