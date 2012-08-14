@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-14 13:46+0000\n"
+"PO-Revision-Date: 2012-08-14 14:54+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -907,7 +907,7 @@ msgstr "Al verlopen"
 #: ../root/release/edit/recordings.tt:358
 #, perl-format
 msgid "Also update the recording with track changes"
-msgstr "Pas bewerkingen aan nummers ook toe op de opnames"
+msgstr "Bewerkingen aan nummers ook op de opnames toepassen"
 
 #: ../root/search/results-artist.tt:7
 #, perl-format
@@ -1988,12 +1988,12 @@ msgstr "Catalogus#"
 #: ../root/release/edit/recordings.tt:325 ../root/scripts/text_strings.tt:28
 #, perl-format
 msgid "Change"
-msgstr "Verander"
+msgstr "Veranderen"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Change Data Quality"
-msgstr "Verander de gegevenskwaliteitsscore"
+msgstr "Gegevenskwaliteitsscore veranderen"
 
 #: ../root/account/change_password_ok.tt:1
 #: ../root/account/change_password_ok.tt:3
@@ -2001,7 +2001,7 @@ msgstr "Verander de gegevenskwaliteitsscore"
 #: ../root/account/change_password.tt:15 ../root/layout/menu.tt:37
 #, perl-format
 msgid "Change Password"
-msgstr "Verander wachtwoord"
+msgstr "Wachtwoord veranderen"
 
 #: ../root/edit/relationship/create.tt:50
 #: ../root/edit/relationship/create.tt:54 ../root/edit/relationship/edit.tt:76
@@ -2013,26 +2013,26 @@ msgstr "Keer richting om"
 #: ../root/release/change_quality.tt:1 ../root/release/change_quality.tt:2
 #, perl-format
 msgid "Change release data quality"
-msgstr "Verander de gegevenskwaliteitsscore van de uitgave"
+msgstr "Gegevenskwaliteitsscore van de uitgave veranderen"
 
 #: ../root/release/sidebar.tt:78
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseGroup.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Release/Move.pm:17
 #, perl-format
 msgid "Change release group"
-msgstr "Verander de uitgavegroep"
+msgstr "Van uitgavegroep veranderen"
 
 #: ../root/release/sidebar.tt:77
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseQuality.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Release/ChangeQuality.pm:18
 #, perl-format
 msgid "Change release quality"
-msgstr "Verander de gegevenskwaliteitsscore van de uitgave"
+msgstr "Gegevenskwaliteitsscore van de uitgave veranderen"
 
 #: ../root/edit/vote.tt:27
 #, perl-format
 msgid "Change vote"
-msgstr "Verander stem"
+msgstr "Stem veranderen"
 
 #: ../root/annotation/common.tt:9 ../root/annotation/edit.tt:21
 #: ../root/edit/details/add_artist_annotation.tt:7
@@ -2217,7 +2217,7 @@ msgid ""
 "Confirm by activating the checkbox below that you have read the "
 "{doc_artistcomment|artist comment guideline}, understood how we distinguish "
 "artists with the same name, and that you know what you are doing."
-msgstr "Bevestig door het onderstaande vakje aan te vinken dat u de {doc_artistcomment|richtlijn voor artiestopmerkingen} heeft gelezen, dat u begrijpt hoe we artiesten met dezelfde naam onderscheiden en dat u weet wat u doet."
+msgstr "Bevestig door het onderstaande vakje aan te vinken dat u de {doc_artistcomment|richtlijn voor artiestverduidelijking} heeft gelezen, dat u begrijpt hoe we artiesten met dezelfde naam onderscheiden en dat u weet wat u doet."
 
 #: ../root/label/edit_form.tt:25
 #, perl-format
@@ -2225,13 +2225,13 @@ msgid ""
 "Confirm by activating the checkbox below that you have read the "
 "{doc_labelcomment|label comment guideline}, understood how we distinguish "
 "labels with the same name, and that you know what you are doing."
-msgstr "Bevestig door het onderstaande vakje aan te vinken dat u de {doc_labelcomment|richtlijn voor platenmaatschappij-opmerkingen} heeft gelezen, dat u begrijpt hoe we platenmaatschappijen met dezelfde naam onderscheiden en dat u weet wat u doet."
+msgstr "Bevestig door het onderstaande vakje aan te vinken dat u de {doc_labelcomment|richtlijn voor platenmaatschappij-verduidelijking} heeft gelezen, dat u begrijpt hoe we platenmaatschappijen met dezelfde naam onderscheiden en dat u weet wat u doet."
 
 #: ../root/account/change_password.tt:12 ../root/account/register.tt:30
 #: ../root/account/reset_password.tt:11
 #, perl-format
 msgid "Confirm password:"
-msgstr "Bevestig wachtwoord:"
+msgstr "Wachtwoord bevestigen:"
 
 #: ../root/account/registered.tt:4
 #, perl-format
@@ -3790,7 +3790,7 @@ msgid ""
 " will be prompted to {doc_addcomment|add a disambiguation comment to this "
 "artist}, which will allow users to distinguish this entry from the other "
 "artist(s) with the same name."
-msgstr "Als één of meer artiesten met dezelfde naam in de gegevensbank staan, wordt u gevraagd om {doc_addcomment|een opmerking aan de artiest toe te voegen}. Hiermee kunnen gebruikers het verschil zien tussen dit lemma en dat van andere artiest(en) met dezelfde naam."
+msgstr "Als één of meer artiesten met dezelfde naam in de gegevensbank staan, wordt u gevraagd om {doc_addcomment|een verduidelijking aan de artiest toe te voegen}. Hiermee kunnen gebruikers het verschil zien tussen dit lemma en dat van andere artiest(en) met dezelfde naam."
 
 #: ../root/label/edit_form.tt:3
 #, perl-format
@@ -3799,7 +3799,7 @@ msgid ""
 "will be prompted to add a {doc_comment|disambiguation comment to this label}"
 " that will allow users to distinguish this entry from the other label(s) "
 "with the same name."
-msgstr "Als één of meer platenmaatschappijen met dezelfde naam in de gegevensbank staan, wordt u gevraagd om {doc_comment|een opmerking aan de platenmaatschappij toe te voegen}. Hiermee kunnen gebruikers het verschil zien tussen dit lemma en dat van andere platenmaatschappij(en) met dezelfde naam."
+msgstr "Als één of meer platenmaatschappijen met dezelfde naam in de gegevensbank staan, wordt u gevraagd om {doc_comment|een verduidelijking aan de platenmaatschappij toe te voegen}. Hiermee kunnen gebruikers het verschil zien tussen dit lemma en dat van andere platenmaatschappij(en) met dezelfde naam."
 
 #: ../root/main/500.tt:55
 #, perl-format
@@ -7859,7 +7859,7 @@ msgstr "Het controlegetal is #checkdigit#."
 msgid ""
 "The comment field is used to help users distinguish between identically "
 "named releases."
-msgstr "Het commentaarveld wordt gebruikt door gebruikers om het verschil tussen uitgaves met dezelfde naam aan te geven."
+msgstr "Het verduidelijkingsveld wordt gebruikt door gebruikers om het verschil tussen uitgaves met dezelfde naam aan te geven."
 
 #: ../root/edit/details/merge_releases.tt:52
 #, perl-format
@@ -8487,7 +8487,7 @@ msgid ""
 "they're different, add {disambiguation_comment|disambiguation comments} to "
 "them (and once a group of similarly named artists have disambiguation "
 "comments, they will stop appearing here)."
-msgstr "Dit rapport probeert artiesten te identificeren met sterk gelijkende namen. Als twee artiesten hetzelfde zijn, voeg deze dan samen (denk er aan om {how_to_write_edit_notes|een bewerkingsnotitie} te schrijven met bewijs). Als ze verschillend zijn, voeg dan {disambiguation_comment|opmerkingen} toe (als een groep van artiesten met sterk gelijkende namen opmerkingen hebben, verschijnen ze niet meer in dit rapport)."
+msgstr "Dit rapport probeert artiesten te identificeren met sterk gelijkende namen. Als twee artiesten hetzelfde zijn, voeg deze dan samen (denk er aan om {how_to_write_edit_notes|een bewerkingsnotitie} te schrijven met bewijs). Als ze verschillend zijn, voeg dan {disambiguation_comment|verduidelijkingen} toe (als een groep van artiesten met sterk gelijkende namen verduidelijkingen hebben, verschijnen ze niet meer in dit rapport)."
 
 #: ../root/report/tracks_named_with_sequence.tt:6
 #, perl-format
@@ -8549,7 +8549,7 @@ msgstr "Dit rapport toont artiesten van het type <em>onbekend</em> of <em>persoo
 msgid ""
 "This report lists artists that may have disambiguation comments in their "
 "name, rather than the actual disambiguation comment field."
-msgstr "Dit rapport laat artiesten zien die misschien opmerkingen in hun naam hebben, in plaats van het daarvoor bedoelde veld."
+msgstr "Dit rapport laat artiesten zien die misschien verduidelijkingen in hun naam hebben, in plaats van het daarvoor bedoelde veld."
 
 #: ../root/report/possible_collaborations.tt:6
 #, perl-format
@@ -10010,7 +10010,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this artist from the other artists with the same name, if the "
 "final artist name is similar to an existing artist."
-msgstr "U moet een opmerking toevoegen dat de gebruikers in staat stelt om artiesten met dezelfde naam uit elkaar te houden."
+msgstr "U moet een verduidelijking toevoegen die de gebruikers in staat stelt om artiesten met dezelfde naam uit elkaar te houden."
 
 #: ../root/label/edit_form.tt:24
 #, perl-format
@@ -10018,7 +10018,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this label from the other labels with the same name, if the "
 "final label name is similar to an existing label."
-msgstr "U moet een opmerking toevoegen dat de gebruikers in staat stelt om platenmaatschappijen met dezelfde naam uit elkaar te houden."
+msgstr "U moet een verduidelijking toevoegen die de gebruikers in staat stelt om platenmaatschappijen met dezelfde naam uit elkaar te houden."
 
 #: ../root/cdtoc/attach_artist_releases.tt:24
 #, perl-format
@@ -10149,7 +10149,7 @@ msgstr "U heeft {label} geselecteerd."
 #: ../root/release/edit/information.tt:134
 #, perl-format
 msgid "You selected {releasegroup}."
-msgstr "U heeft {releasegroep} geselecteerd"
+msgstr "U heeft {releasegroup} geselecteerd"
 
 #: ../root/account/donation.tt:22
 #, perl-format
@@ -10222,7 +10222,7 @@ msgstr "[onbekend]"
 #: ../root/scripts/text_strings.tt:34
 #, perl-format
 msgid "add a disambiguation comment"
-msgstr "Opmerking toevoegen"
+msgstr "Verduidelijking toevoegen"
 
 #: ../root/edit/search_macros.tt:155
 #, perl-format
@@ -10491,7 +10491,7 @@ msgstr "verstuur de verificatie e-mail opnieuw"
 #: ../root/release/edit/tracklist.tt:445 ../root/release/edit/tracklist.tt:446
 #, perl-format
 msgid "reset track numbers"
-msgstr "Wis nummerposities"
+msgstr "Nummerposities wissen"
 
 #: ../root/layout.tt:65
 #, perl-format
@@ -11188,11 +11188,11 @@ msgstr "Nummer toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeArtistQuality.pm:10
 msgid "Change artist quality (historic)"
-msgstr "Verander de gegevenskwaliteit van de artiest (historisch)"
+msgstr "Gegevenskwaliteit van de artiest veranderen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeTrackArtist.pm:12
 msgid "Change track artist (historic)"
-msgstr "Verander de artiest van het nummer (historisch)"
+msgstr "Artiest van het nummer veranderen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLink.pm:17
 msgid "Edit relationship (historic)"
