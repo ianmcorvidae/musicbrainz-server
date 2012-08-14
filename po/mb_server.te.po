@@ -3,20 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Nozomu Kurasawa <email address hidden>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-14 00:48+0000\n"
-"Last-Translator: Nozomu Kurasawa <email address hidden>\n"
-"Language-Team: Japanese (http://www.transifex.com/projects/p/musicbrainz/language/ja/)\n"
+"PO-Revision-Date: 2012-08-13 21:29+0000\n"
+"Last-Translator: Ian McEwen <email address hidden>\n"
+"Language-Team: Telugu (http://www.transifex.com/projects/p/musicbrainz/language/te/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ja\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Language: te\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:38
 #, perl-format
@@ -205,7 +204,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/Release.pm:191
 #, perl-format
 msgid "(unknown)"
-msgstr "(不明)"
+msgstr ""
 
 #: ../root/user/profile.tt:24
 #, perl-format
@@ -250,6 +249,7 @@ msgstr ""
 msgid "1 vote"
 msgid_plural "{n} unanimous votes"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/user/profile.tt:211 ../root/user/profile.tt:215
 #, perl-format
@@ -382,6 +382,7 @@ msgstr ""
 msgid "A private collection"
 msgid_plural "{n} private collections"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/edit/relationship/create_batch.tt:23
 #: ../root/edit/relationship/create.tt:26
@@ -656,7 +657,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAlias.pm:14
 #, perl-format
 msgid "Add artist alias"
-msgstr "アーティストの別名を追加"
+msgstr ""
 
 #: ../root/relationship/linkattributetype/common.tt:24
 #, perl-format
@@ -677,7 +678,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAlias.pm:14
 #, perl-format
 msgid "Add label alias"
-msgstr "レーベルの別名を追加"
+msgstr ""
 
 #: ../root/release/edit/missing_entities.tt:68
 #, perl-format
@@ -710,7 +711,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 #, perl-format
 msgid "Add release"
-msgstr "リリースを追加"
+msgstr ""
 
 #: ../root/artist/layout.tt:64
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Create.pm:23
@@ -949,6 +950,7 @@ msgstr ""
 msgid "An anonymous user"
 msgid_plural "{n} anonymous users"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/edit/index.tt:13 ../root/edit/list.tt:97
 #: ../root/release/edit/editnote.tt:27
@@ -1036,7 +1038,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:50
 #, perl-format
 msgid "Append mediums to target release"
-msgstr "ターゲットリリースにメディアを追加"
+msgstr ""
 
 #: ../root/edit/search_macros.tt:237
 #, perl-format
@@ -1239,7 +1241,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:33
 #, perl-format
 msgid "Artist"
-msgstr "アーティスト"
+msgstr ""
 
 #: ../root/edit/search_macros.tt:282
 #, perl-format
@@ -1432,12 +1434,14 @@ msgstr ""
 msgid "Associated with {num} recording"
 msgid_plural "Associated with {num} recordings"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/iswc/index.tt:5
 #, perl-format
 msgid "Associated with {num} work"
 msgid_plural "Associated with {num} works"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/cdtoc/attach_artist_releases.tt:22
 #: ../root/cdtoc/attach_artist_releases.tt:23
@@ -1797,7 +1801,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:40
 #, perl-format
 msgid "CD Stub"
-msgstr "CDスタブ"
+msgstr ""
 
 #: ../root/cdstub/error.tt:2
 #, perl-format
@@ -2014,14 +2018,14 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/Move.pm:17
 #, perl-format
 msgid "Change release group"
-msgstr "リリースグループを変更"
+msgstr ""
 
 #: ../root/release/sidebar.tt:77
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseQuality.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Release/ChangeQuality.pm:18
 #, perl-format
 msgid "Change release quality"
-msgstr "リリース品質を変更"
+msgstr ""
 
 #: ../root/edit/vote.tt:27
 #, perl-format
@@ -2815,7 +2819,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:80
 #, perl-format
 msgid "Edit Note"
-msgstr "メモを編集"
+msgstr ""
 
 #: ../root/account/edit_ok.tt:1 ../root/account/edit_ok.tt:3
 #: ../root/account/edit.tt:1 ../root/account/edit.tt:3
@@ -2888,7 +2892,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:22
 #, perl-format
 msgid "Edit URL"
-msgstr "URLを編集"
+msgstr ""
 
 #: ../root/user/profile/layout.tt:27
 #, perl-format
@@ -2921,7 +2925,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditAlias.pm:12
 #, perl-format
 msgid "Edit artist alias"
-msgstr "アーティストの別名を編集"
+msgstr ""
 
 #: ../root/artist/edit_annotation.tt:2
 #, perl-format
@@ -2937,7 +2941,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/EditAlias.pm:12
 #, perl-format
 msgid "Edit label alias"
-msgstr "レーベルの別名を編集"
+msgstr ""
 
 #: ../root/label/edit_annotation.tt:2
 #, perl-format
@@ -3037,7 +3041,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:41
 #, perl-format
 msgid "Editor"
-msgstr "編集者"
+msgstr ""
 
 #: ../root/user/not_found.tt:1 ../root/user/not_found.tt:2
 #, perl-format
@@ -3285,6 +3289,7 @@ msgstr ""
 msgid "Error:"
 msgid_plural "Errors:"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/components/common-macros.tt:113
 #, perl-format
@@ -3463,6 +3468,7 @@ msgstr ""
 msgid "Found in {num} user collection"
 msgid_plural "Found in {num} user collections"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/release/lookup.tt:4
 #, perl-format
@@ -3474,18 +3480,21 @@ msgstr ""
 msgid "Found {n} edit"
 msgid_plural "Found at least {n} edits"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/components/with-pager.tt:5
 #, perl-format
 msgid "Found {n} result"
 msgid_plural "Found {n} results"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/components/with-pager.tt:7
 #, perl-format
 msgid "Found {n} result for \"{q}\""
 msgid_plural "Found {n} results for \"{q}\""
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/label/layout.tt:14 ../root/scripts/text_strings.tt:73
@@ -4098,7 +4107,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:38
 #, perl-format
 msgid "Label"
-msgstr "レーベル"
+msgstr ""
 
 #: ../root/edit/search_macros.tt:282
 #, perl-format
@@ -4421,7 +4430,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Medium.pm:7
 #, perl-format
 msgid "Medium"
-msgstr "メディア"
+msgstr ""
 
 #: ../root/tracklist/index.tt:28
 #, perl-format
@@ -4562,7 +4571,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
 #, perl-format
 msgid "Merge release groups"
-msgstr "リリースグループをマージ"
+msgstr ""
 
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
@@ -5906,6 +5915,7 @@ msgstr ""
 msgid "Rate: {rating} star"
 msgid_plural "Rate: {rating} stars"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/artist/browse_various.tt:16 ../root/artist/index.tt:72
 #: ../root/artist/recordings-list.tt:27 ../root/artist/works-list.tt:16
@@ -6180,7 +6190,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:35
 #, perl-format
 msgid "Release"
-msgstr "リリース"
+msgstr ""
 
 #: ../root/recording/index.tt:13
 #, perl-format
@@ -6204,7 +6214,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:34
 #, perl-format
 msgid "Release Group"
-msgstr "リリースグループ"
+msgstr ""
 
 #: ../root/release_group/edit_form.tt:6
 #, perl-format
@@ -6606,7 +6616,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/PUID/Delete.pm:14
 #, perl-format
 msgid "Remove PUID"
-msgstr "PUIDを削除"
+msgstr ""
 
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 #, perl-format
@@ -6719,7 +6729,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
 #, perl-format
 msgid "Remove track"
-msgstr "トラックを削除"
+msgstr ""
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -7041,7 +7051,7 @@ msgstr ""
 #: ../root/user/contact.tt:3 ../lib/MusicBrainz/Server/Controller/User.pm:243
 #, perl-format
 msgid "Send Email"
-msgstr "emilを送信"
+msgstr ""
 
 #: ../root/user/contact.tt:17
 #, perl-format
@@ -7634,7 +7644,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:43
 #, perl-format
 msgid "Tag"
-msgstr "タグ"
+msgstr ""
 
 #: ../root/taglookup/index.tt:1 ../root/taglookup/index.tt:3
 #, perl-format
@@ -8074,12 +8084,14 @@ msgstr ""
 msgid "There is also one anonymous subscriber."
 msgid_plural "There are also {num} anonymous subscribers."
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/artist/subscribe.tt:15
 #, perl-format
 msgid "There is also {num} anonymous subscriber"
 msgid_plural "There are also {num} anonymous subscribers"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/user/subscribers.tt:4
 #, perl-format
@@ -8087,18 +8099,21 @@ msgid "There is currently {num} user subscribed to edits that {user} makes:"
 msgid_plural ""
 "There are currently {num} users subscribed to edits that {user} makes:"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/artist/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {artist}:"
 msgid_plural "There are currently {num} users subscribed to {artist}:"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/label/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {label}:"
 msgid_plural "There are currently {num} users subscribed to {label}:"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/search/editor-not-found.tt:4
 #, perl-format
@@ -8849,7 +8864,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:12
 #, perl-format
 msgid "Title"
-msgstr "タイトル"
+msgstr ""
 
 #: ../root/cdstub/edit.tt:54 ../root/edit/details/add_track_kv.tt:3
 #: ../root/release/edit/information.tt:24
@@ -9052,7 +9067,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:58
 #, perl-format
 msgid "Tracklist"
-msgstr "トラックリスト"
+msgstr ""
 
 #: ../root/edit/details/add_medium.tt:31
 #: ../root/edit/details/remove_medium.tt:17
@@ -9187,7 +9202,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/URL.pm:7
 #, perl-format
 msgid "URL"
-msgstr "URL"
+msgstr ""
 
 #: ../root/url/index.tt:2
 #, perl-format
@@ -10431,12 +10446,14 @@ msgstr ""
 msgid "plus {n} other anonymous user"
 msgid_plural "Plus {n} other anonymous users"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/release/collections.tt:15
 #, perl-format
 msgid "plus {n} other private collection"
 msgid_plural "plus {n} other private collections"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/edit/search_macros.tt:19
 #, perl-format
@@ -10567,6 +10584,7 @@ msgstr ""
 msgid "{artist} has no releases which have only {n} track."
 msgid_plural "{artist} has no releases which have {n} tracks."
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:34
 #, perl-format
@@ -10604,6 +10622,7 @@ msgstr ""
 msgid "{count} private rating not listed."
 msgid_plural "{count} private ratings not listed."
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/user/profile.tt:45
 #, perl-format
@@ -10675,66 +10694,77 @@ msgstr ""
 msgid "{num} artist found"
 msgid_plural "{num} artists found"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/tag/collection.tt:1
 #, perl-format
 msgid "{num} collection found"
 msgid_plural "{num} collections found"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/components/common-macros.tt:46
 #, perl-format
 msgid "{num} day"
 msgid_plural "{num}&nbsp;days"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/tag/label.tt:1
 #, perl-format
 msgid "{num} label found"
 msgid_plural "{num} labels found"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/components/common-macros.tt:46
 #, perl-format
 msgid "{num} month"
 msgid_plural "{num}&nbsp;months"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/tag/recording.tt:1
 #, perl-format
 msgid "{num} recording found"
 msgid_plural "{num} recordings found"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/tag/release.tt:1
 #, perl-format
 msgid "{num} release found"
 msgid_plural "{num} releases found"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/cdtoc/attach_filter_release.tt:39
 #, perl-format
 msgid "{num} release found matching your query."
 msgid_plural "{num} release found matching your query."
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/tag/release_group.tt:1
 #, perl-format
 msgid "{num} release group found"
 msgid_plural "{num} release groups found"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/tag/work.tt:1
 #, perl-format
 msgid "{num} work found"
 msgid_plural "{num} works found"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/components/common-macros.tt:46
 #, perl-format
 msgid "{num} year"
 msgid_plural "{num}&nbsp;years"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/user/profile.tt:194 ../root/user/profile.tt:198
 #, perl-format
@@ -10752,6 +10782,7 @@ msgstr ""
 msgid "{release} has been added to {num} collection:"
 msgid_plural "{release} has been added to {num} collections:"
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../root/release/collections.tt:23
 #, perl-format
@@ -10833,7 +10864,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
 msgid "'{id}' is not a valid MusicBrainz ID"
-msgstr "'{id}' は有効な MusicBrainz ID ではありません"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller.pm:115
 msgid ""
@@ -11112,11 +11143,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/DeleteAlias.pm:14
 msgid "Remove artist alias"
-msgstr "アーティストの別名を削除"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Edit.pm:31
 msgid "Edit artist"
-msgstr "アーティストを編集"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
@@ -11124,17 +11155,17 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Merge.pm:13
 msgid "Merge artists"
-msgstr "アーティストをマージ"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/AddDiscID.pm:10
 msgid "Add disc ID"
-msgstr "ディスクIDを追加"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLink.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Create.pm:22
 msgid "Add relationship"
-msgstr "関連を追加"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:13
@@ -11250,7 +11281,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
 msgid "Add label"
-msgstr "レーベルを追加"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:29
 msgid "Edit label"
@@ -11278,11 +11309,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddISRCs.pm:21
 msgid "Add ISRCs"
-msgstr "ISRCを追加"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddPUIDs.pm:13
 msgid "Add PUIDs"
-msgstr "PUIDを追加"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Create.pm:24
 msgid "Add standalone recording"
@@ -11302,11 +11333,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkAttribute.pm:13
 msgid "Add relationship attribute"
-msgstr "関連属性を追加"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkType.pm:13
 msgid "Add relationship type"
-msgstr "関連タイプを追加"
+msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Delete.pm:25
 msgid "Remove relationship"
@@ -11655,6 +11686,7 @@ msgstr ""
 msgid "This medium has a Disc ID, it should have exactly {n} track."
 msgid_plural "This medium has a Disc ID, it should have exactly {n} tracks."
 msgstr[0] ""
+msgstr[1] ""
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
