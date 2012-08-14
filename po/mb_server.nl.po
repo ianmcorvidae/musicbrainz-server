@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-13 21:29+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-08-14 08:59+0000\n"
+"Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -192,7 +192,7 @@ msgstr "(privé)"
 #: ../root/layout/menu.tt:24
 #, perl-format
 msgid "(reset language)"
-msgstr ""
+msgstr "(taal terugzetten)"
 
 #: ../root/search/lib/inline-results-recording.tt:60
 #, perl-format
@@ -1876,7 +1876,7 @@ msgstr "Kan goedgekeurd worden"
 #: ../root/work/merge.tt:19
 #, perl-format
 msgid "Cancel"
-msgstr "Annuleer"
+msgstr "Annuleren"
 
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
@@ -1948,7 +1948,7 @@ msgstr "Kan niet bewerken"
 #: ../root/account/register.tt:5
 #, perl-format
 msgid "Captcha incorrect. Try again."
-msgstr ""
+msgstr "De captcha is incorrect. Probeer het opnieuw."
 
 #: ../root/release/edit/information.tt:87
 #, perl-format
@@ -2388,7 +2388,7 @@ msgstr "Gegevenskwaliteitsscore:"
 #: ../root/layout/menu.tt:278
 #, perl-format
 msgid "Data Removal Policy"
-msgstr ""
+msgstr "Beleid voor gegevensverwijdering"
 
 #: ../root/annotation/history.tt:9 ../root/artist/relationships.tt:13
 #: ../root/cdtoc/attach_artist_releases.tt:35
@@ -3750,7 +3750,7 @@ msgstr "ISWC"
 #: ../root/iswc/not_found.tt:1 ../root/iswc/not_found.tt:2
 #, perl-format
 msgid "ISWC Not Currently Used"
-msgstr ""
+msgstr "De ISWC wordt nu niet gebruikt"
 
 #: ../root/edit/details/add_iswcs.tt:8
 #, perl-format
@@ -6828,7 +6828,7 @@ msgstr "Bekijk de {doc|lijst van verpakkingstypes} voor hulp."
 #: ../root/layout.tt:73
 #, perl-format
 msgid "Running: <span class=\"tooltip\" title=\"{msg}\">{branch} ({sha})</span>"
-msgstr ""
+msgstr "Draait <span class=\"tooltip\" title=\"{msg}\">{branch} ({sha})</span>"
 
 #: ../root/account/edit.tt:79 ../root/account/preferences.tt:57
 #: ../root/relationship/linkattributetype/form.tt:21
@@ -7233,7 +7233,7 @@ msgid ""
 "Sorry, but your query (<code>{query}</code>) could not be performed, because"
 " it appears you've been rate-limited. Either the server is overloaded or "
 "you're making a lot of requests all at once!"
-msgstr ""
+msgstr "Excuus, maar uw zoekopdracht (<code>{query}</code> kon niet worden uitgevoerd omdat uw snelheid is gelimiteerd. Dit komt omdat de server overbelast is of omdat u te veel gelijktijdige verzoeken doet!"
 
 #: ../root/search/error/general.tt:3
 #, perl-format
@@ -8141,7 +8141,7 @@ msgstr "Er waren één of meer foutmeldingen, controleer de volgende velden: {fi
 #: ../root/release/cover_art.tt:34
 #, perl-format
 msgid "These images provided by the {caa|Cover Art Archive}."
-msgstr ""
+msgstr "Deze afbeeldingen worden geleverd door de {caa|Cover Art Archive}."
 
 #: ../root/cdstub/edit.tt:58
 #, perl-format
@@ -11506,7 +11506,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:103
 msgid "Cancelled"
-msgstr ""
+msgstr "Geannuleerd"
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
