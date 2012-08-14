@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-14 12:59+0000\n"
+"PO-Revision-Date: 2012-08-14 13:46+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -226,7 +226,7 @@ msgstr "(was medium {position}: {name} op uitgave {release})"
 #: ../root/recording/layout.tt:19 ../root/work/layout.tt:21
 #, perl-format
 msgid "({delete_uri|remove})"
-msgstr "({delete_uri|verwijder})"
+msgstr "({delete_uri|verwijderen})"
 
 #: ../root/release/lookup.tt:31
 #, perl-format
@@ -479,7 +479,7 @@ msgstr "Alias voor deze artiest toevoegen"
 #: ../root/release/edit/tracklist.tt:84 ../root/release/edit/tracklist.tt:89
 #, perl-format
 msgid "Add Artist Credit"
-msgstr "Voeg toeschrijving aan artiest toe"
+msgstr "Vermelding aan artiest toevoegen"
 
 #: ../root/cdstub/logged_in.tt:1 ../root/cdstub/logged_in.tt:2
 #, perl-format
@@ -490,19 +490,19 @@ msgstr "CD-beginsel toevoegen"
 #: ../root/release/cover_art.tt:49
 #, perl-format
 msgid "Add Cover Art"
-msgstr "Voeg hoesafbeelding toe"
+msgstr "Hoesafbeelding toevoegen"
 
 #: ../root/release/edit/tracklist.tt:167 ../root/release/edit/tracklist.tt:293
 #: ../root/release/edit/tracklist.tt:492
 #, perl-format
 msgid "Add Disc"
-msgstr "Voeg medium toe"
+msgstr "Medium toevoegen"
 
 #: ../root/recording/add_isrc.tt:1 ../root/recording/add_isrc.tt:2
 #: ../root/recording/layout.tt:34
 #, perl-format
 msgid "Add ISRC"
-msgstr "Voeg ISRC toe"
+msgstr "ISRC toevoegen"
 
 #: ../root/work/add_iswc.tt:1 ../root/work/add_iswc.tt:2
 #: ../root/work/layout.tt:37
@@ -638,12 +638,12 @@ msgstr "Bewerkingsnotitie toevoegen"
 #: ../root/release/sidebar.tt:74 ../root/work/layout.tt:40
 #, perl-format
 msgid "Add annotation"
-msgstr "Voeg aantekening toe"
+msgstr "Aantekening toevoegen"
 
 #: ../root/scripts/text_strings.tt:42
 #, perl-format
 msgid "Add another"
-msgstr "Nog een toevoegen"
+msgstr "Nog één toevoegen"
 
 #: ../root/scripts/text_strings.tt:48
 #, perl-format
@@ -653,7 +653,7 @@ msgstr "Ander medium toevoegen"
 #: ../root/scripts/text_strings.tt:47
 #, perl-format
 msgid "Add another track"
-msgstr "Voeg nog een nummer toe"
+msgstr "Nog een nummer toevoegen"
 
 #: ../root/artist/add_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAlias.pm:14
@@ -680,7 +680,7 @@ msgstr "Bewerkingsnotitie toevoegen"
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAlias.pm:14
 #, perl-format
 msgid "Add label alias"
-msgstr "Voeg platenmaatschappijen samen"
+msgstr "Platenmaatschappijen samenvoegen"
 
 #: ../root/release/edit/missing_entities.tt:68
 #, perl-format
@@ -695,12 +695,12 @@ msgstr "Nieuwe platenmaatschappij toevoegen"
 #: ../root/release/edit/recordings.tt:96
 #, perl-format
 msgid "Add new recording"
-msgstr "Voeg nieuwe opname toe"
+msgstr "Nieuwe opname toevoegen"
 
 #: ../root/edit/index.tt:79
 #, perl-format
 msgid "Add note and votes"
-msgstr "Voeg de notitie toe en breng de stem uit"
+msgstr "De notitie toevoegen en de stem uitbrengen"
 
 #: ../root/artist/layout.tt:74
 #, perl-format
@@ -724,38 +724,38 @@ msgstr "Uitgavegroep toevoegen"
 #: ../root/report/duplicate_artists.tt:51
 #, perl-format
 msgid "Add selected artists for merging"
-msgstr "Voeg geselecteerde artiesten toe om samen te voegen"
+msgstr "Geselecteerde artiesten toevoegen om samen te voegen"
 
 #: ../root/artist/recordings.tt:13 ../root/isrc/index.tt:37
 #, perl-format
 msgid "Add selected recordings for merging"
-msgstr "Voeg geselecteerde opnames toe voor samenvoeging"
+msgstr "Geselecteerde opnames toevoegen om samen te voegen"
 
 #: ../root/artist/releases.tt:13 ../root/label/index.tt:9
 #: ../root/release_group/index.tt:75
 #, perl-format
 msgid "Add selected releases for merging"
-msgstr "Voeg de geselecteerde uitgaves toe om samen te voegen"
+msgstr "Geselecteerde uitgaves toevoegen om samen te voegen"
 
 #: ../root/artist/works.tt:8 ../root/iswc/index.tt:56
 #, perl-format
 msgid "Add selected works for merging"
-msgstr "Voeg de geselecteerde composities toe om samen te voegen"
+msgstr "Geselecteerde composities toevoegen om samen te voegen"
 
 #: ../root/release/sidebar.tt:134
 #, perl-format
 msgid "Add to my collection"
-msgstr "Voeg toe aan mijn collectie"
+msgstr "Aan mijn collectie toevoegen"
 
 #: ../root/release/sidebar.tt:136
 #, perl-format
 msgid "Add to {collection}"
-msgstr "Voeg toe aan {collection}"
+msgstr "Aan {collection} toevoegen"
 
 #: ../root/release/edit/tracklist.tt:454
 #, perl-format
 msgid "Add track(s)"
-msgstr "Voeg nummer(s) toe"
+msgstr "Nummer(s) toevoegen"
 
 #: ../root/artist/layout.tt:79
 #: ../lib/MusicBrainz/Server/Edit/Work/Create.pm:16
@@ -772,12 +772,12 @@ msgstr "Alias voor deze compositie toevoegen"
 #: ../root/components/forms.tt:114
 #, perl-format
 msgid "Add {item}"
-msgstr "Voeg {item} toe"
+msgstr "{item} toevoegen"
 
 #: ../root/release/edit/tracklist.tt:451
 #, perl-format
 msgid "Add {num} track(s)"
-msgstr "Voeg {num} nummer(s) toe"
+msgstr "{num} nummer(s) toevoegen"
 
 #: ../root/edit/details/edit_release_events.tt:16
 #, perl-format
@@ -1456,7 +1456,7 @@ msgstr[1] "Geassocieerd met {num} composities"
 #: ../root/cdtoc/attach_filter_release.tt:69
 #, perl-format
 msgid "Attach CD TOC"
-msgstr "Voeg TOC van de CD toe."
+msgstr "TOC van de CD toevoegen"
 
 #: ../root/cdtoc/lookup.tt:51
 #, perl-format
@@ -1881,7 +1881,7 @@ msgstr "Annuleren"
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 #, perl-format
 msgid "Cancel Edit"
-msgstr "Annuleer bewerking"
+msgstr "Bewerking annuleren"
 
 #: ../root/components/common-macros.tt:460
 #, perl-format
@@ -1892,12 +1892,12 @@ msgstr "Annuleer het maken van een verwantschap met {name}"
 #: ../root/edit/info.tt:21
 #, perl-format
 msgid "Cancel edit"
-msgstr "Annuleer bewerking"
+msgstr "Bewerking annuleren"
 
 #: ../root/elections/show.tt:97
 #, perl-format
 msgid "Cancel the election"
-msgstr "Annuleer verkiezing"
+msgstr "Annuleer de verkiezing"
 
 #: ../root/artist/delete_alias.tt:17 ../root/label/delete_alias.tt:16
 #, perl-format
@@ -2324,7 +2324,7 @@ msgstr "Verwantschap toevoegen"
 #: ../root/release/sidebar.tt:145 ../root/user/collections.tt:42
 #, perl-format
 msgid "Create a new collection"
-msgstr "Creëer een nieuwe collectie"
+msgstr "Een nieuwe collectie creëren"
 
 #: ../root/relationship/linkattributetype/instruments.tt:8
 #, perl-format
@@ -2344,12 +2344,12 @@ msgstr "Creëer een nieuwe {type0}-{type1} verwantschap"
 #: ../root/account/register.tt:1 ../root/account/register.tt:8
 #, perl-format
 msgid "Create an Account"
-msgstr "Maak een gebruikersaccount aan"
+msgstr "Een gebruikersaccount aanmaken"
 
 #: ../root/collection/edit_form.tt:11
 #, perl-format
 msgid "Create collection"
-msgstr "Creëer een collectie"
+msgstr "Een collectie creëren"
 
 #: ../root/components/common-macros.tt:515
 #, perl-format
@@ -2449,17 +2449,17 @@ msgstr "Verwijderen"
 #: ../root/admin/delete_user.tt:14
 #, perl-format
 msgid "Delete Account"
-msgstr "Verwijder gebruikersaccount"
+msgstr "Gebruikersaccount verwijderen"
 
 #: ../root/admin/delete_user.tt:2 ../root/user/profile/layout.tt:39
 #, perl-format
 msgid "Delete User"
-msgstr "Verwijder gebruiker"
+msgstr "Gebruiker verwijderen"
 
 #: ../root/admin/delete_user.tt:23
 #, perl-format
 msgid "Delete my account"
-msgstr "Verwijder mijn gebruikersaccount"
+msgstr "Mijn gebruikersaccount verwijderen"
 
 #: ../root/admin/delete_user.tt:8
 #, perl-format
@@ -2790,7 +2790,7 @@ msgstr "Bewerk toeschrijvingen aan artiesten"
 #: ../root/collection/edit.tt:1
 #, perl-format
 msgid "Edit Collection"
-msgstr "Bewerk collectie"
+msgstr "Collectie bewerken"
 
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
@@ -2899,7 +2899,7 @@ msgstr "Bewerk URL"
 #: ../root/user/profile/layout.tt:27
 #, perl-format
 msgid "Edit User"
-msgstr "Bewerk gebruiker"
+msgstr "Gebruiker bewerken"
 
 #: ../root/work/edit.tt:15
 #, perl-format
@@ -2989,7 +2989,7 @@ msgstr "Bewerk de aantekening van de uitgavegroep"
 #: ../root/admin/edit_user.tt:40
 #, perl-format
 msgid "Edit user"
-msgstr "Bewerk gebruiker"
+msgstr "Gebruiker bewerken"
 
 #: ../root/work/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/EditAlias.pm:13
@@ -3606,24 +3606,24 @@ msgstr "Verkrijg versies van de wiki"
 #: ../root/release/edit/missing_entities.tt:20
 #, perl-format
 msgid "Guess Sort Name"
-msgstr "Gok de sorteernaam"
+msgstr "Sorteernaam gokken"
 
 #: ../root/components/forms.tt:165 ../root/components/forms.tt:167
 #: ../root/components/forms.tt:188 ../root/release/edit/tracklist.tt:465
 #: ../root/release/edit/tracklist.tt:483
 #, perl-format
 msgid "Guess case"
-msgstr "Gok hoofdlettergebruik"
+msgstr "Hoofdlettergebruik gokken"
 
 #: ../root/release/edit/tracklist.tt:385
 #, perl-format
 msgid "Guess case disc title"
-msgstr "Gok het hoofdlettergebruik van de mediumtitel"
+msgstr "Hoofdlettergebruik van de mediumtitel gokken"
 
 #: ../root/release/edit/tracklist.tt:333
 #, perl-format
 msgid "Guess case track"
-msgstr "Gok het hoofdlettergebruik in de nummers"
+msgstr "Hoofdlettergebruik in de nummers gokken"
 
 #: ../root/edit/list_header.tt:18
 #, perl-format
@@ -4489,12 +4489,12 @@ msgstr "Samenvoegen"
 #: ../root/artist/merge.tt:1 ../root/artist/merge.tt:3
 #, perl-format
 msgid "Merge Artists"
-msgstr "Voeg artiesten samen"
+msgstr "Artiesten samenvoegen"
 
 #: ../root/label/merge.tt:1 ../root/label/merge.tt:3
 #, perl-format
 msgid "Merge Labels"
-msgstr "Voeg platenmaatschappijen samen"
+msgstr "Platenmaatschappijen samenvoegen"
 
 #: ../root/layout/merge-helper.tt:3
 #, perl-format
@@ -4504,19 +4504,19 @@ msgstr "Samenvoegingsproces"
 #: ../root/recording/merge.tt:1 ../root/recording/merge.tt:3
 #, perl-format
 msgid "Merge Recordings"
-msgstr "Voeg opnames samen"
+msgstr "Opnames samenvoegen"
 
 #: ../root/release_group/merge.tt:1 ../root/release_group/merge.tt:3
 #, perl-format
 msgid "Merge Release Groups"
-msgstr "Voeg uitgavegroepen samen"
+msgstr "Uitgavegroepen samenvoegen"
 
 #: ../root/release/merge_confirm.tt:1 ../root/release/merge_confirm.tt:2
 #: ../root/release/merge_search.tt:1 ../root/release/merge_search.tt:2
 #: ../root/release/merge.tt:15 ../root/release/merge.tt:17
 #, perl-format
 msgid "Merge Releases"
-msgstr "Voeg uitgaves samen"
+msgstr "Uitgaves samenvoegen"
 
 #: ../root/work/merge.tt:1 ../root/work/merge.tt:3
 #, perl-format
@@ -4526,22 +4526,22 @@ msgstr "Composities samenvoegen"
 #: ../root/artist/layout.tt:97
 #, perl-format
 msgid "Merge artist"
-msgstr "Voeg artiest samen"
+msgstr "Artiest samenvoegen"
 
 #: ../root/edit/details/historic/merge_releases.tt:25
 #, perl-format
 msgid "Merge attributes:"
-msgstr "Voeg eigenschappen samen:"
+msgstr "Eigenschappen samenvoegen:"
 
 #: ../root/label/layout.tt:69
 #, perl-format
 msgid "Merge label"
-msgstr "Voeg platenmaatschappij samen"
+msgstr "Platenmaatschappij samenvoegen"
 
 #: ../root/edit/details/historic/merge_releases.tt:30
 #, perl-format
 msgid "Merge language &amp; script:"
-msgstr "Voeg taal &amp; schrift samen:"
+msgstr "Taal &amp; schrift samenvoegen:"
 
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
@@ -4557,23 +4557,23 @@ msgstr "Samenvoegingsmethode:"
 #: ../root/recording/layout.tt:42
 #, perl-format
 msgid "Merge recording"
-msgstr "Voeg opname samen"
+msgstr "Opname samenvoegen"
 
 #: ../root/release/sidebar.tt:81
 #, perl-format
 msgid "Merge release"
-msgstr "Voeg uitgave samen"
+msgstr "Uitgave samenvoegen"
 
 #: ../root/release_group/layout.tt:41
 #, perl-format
 msgid "Merge release group"
-msgstr "Voeg uitgavegroep samen"
+msgstr "Uitgavegroep samenvoegen"
 
 #: ../root/artist/index.tt:106
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
 #, perl-format
 msgid "Merge release groups"
-msgstr "Voeg uitgavegroepen samen"
+msgstr "Uitgavegroepen samenvoegen"
 
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
@@ -4590,7 +4590,7 @@ msgstr "Compositie samenvoegen"
 #: ../root/edit/details/merge_works.tt:3
 #, perl-format
 msgid "Merge:"
-msgstr "Voeg samen:"
+msgstr "Samenvoegen:"
 
 #: ../root/user/contact.tt:11
 #, perl-format
@@ -5723,12 +5723,12 @@ msgstr "Werk alstublieft wat langzamer en probeer het dan opnieuw"
 #: ../root/components/forms.tt:185
 #, perl-format
 msgid "Please use the Guess Case button to fix common style errors."
-msgstr "Gebruik de knop Gok hoofdlettergebruik om veel voorkomende stijlfouten te repareren."
+msgstr "Gebruik de knop „Hoofdlettergebruik gokken“ om veel voorkomende stijlfouten te repareren."
 
 #: ../root/components/forms.tt:219
 #, perl-format
 msgid "Please use the Sort Name button to guess the sort name."
-msgstr "Gebruik de Gok de sorteernaam-knop om de sorteernaam te gokken."
+msgstr "Gebruik de knop „Sorteernaam gokken“ om de sorteernaam te gokken."
 
 #: ../root/main/503.tt:8
 #, perl-format
@@ -6566,182 +6566,182 @@ msgstr "Uitgaves:"
 #: ../root/user/collections.tt:26
 #, perl-format
 msgid "Remove"
-msgstr "Verwijder"
+msgstr "Verwijderen"
 
 #: ../root/artist/delete_alias.tt:2 ../root/label/delete_alias.tt:2
 #: ../root/work/delete_alias.tt:2
 #, perl-format
 msgid "Remove Alias"
-msgstr "Verwijder de alias"
+msgstr "Alias verwijderen"
 
 #: ../root/artist/delete_alias.tt:1
 #, perl-format
 msgid "Remove Artist Alias"
-msgstr "Verwijder de alias van de artiest"
+msgstr "Alias van de artiest verwijderen"
 
 #: ../root/components/forms.tt:259 ../root/release/edit/tracklist.tt:73
 #, perl-format
 msgid "Remove Artist Credit"
-msgstr "Verwijder toeschrijving aan artiest"
+msgstr "Vermelding van artiest verwijderen"
 
 #: ../root/release/remove_cover_art.tt:1 ../root/release/remove_cover_art.tt:2
 #, perl-format
 msgid "Remove Cover Art"
-msgstr "Verwijder hoesafbeelding"
+msgstr "Hoesafbeelding verwijderen"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 #, perl-format
 msgid "Remove Disc ID"
-msgstr "Verwijder disc-id"
+msgstr "Disc-id verwijderen"
 
 #: ../root/isrc/delete.tt:1 ../root/isrc/delete.tt:3
 #, perl-format
 msgid "Remove ISRC “{isrc}”"
-msgstr "Verwijder ISRC “{isrc}”"
+msgstr "ISRC “{isrc}” verwijderen"
 
 #: ../root/iswc/delete.tt:1 ../root/iswc/delete.tt:3
 #, perl-format
 msgid "Remove ISWC “{iswc}”"
-msgstr "Verwijder ISWC „{iswc}“"
+msgstr "ISWC „{iswc}“ verwijderen"
 
 #: ../root/label/delete.tt:2 ../root/release/edit/information.tt:93
 #, perl-format
 msgid "Remove Label"
-msgstr "Verwijder platenmaatschappij"
+msgstr "Platenmaatschappij verwijderen"
 
 #: ../root/label/delete_alias.tt:1
 #, perl-format
 msgid "Remove Label Alias"
-msgstr "Verwijder de alias van de platenmaatschappij"
+msgstr "Alias van de platenmaatschappij verwijderen"
 
 #: ../root/recording/delete_puid.tt:1
 #: ../lib/MusicBrainz/Server/Edit/PUID/Delete.pm:14
 #, perl-format
 msgid "Remove PUID"
-msgstr "Verwijder PUID's"
+msgstr "PUID's verwijderen"
 
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 #, perl-format
 msgid "Remove Page"
-msgstr "Verwijder pagina"
+msgstr "Pagina verwijderen"
 
 #: ../root/recording/delete.tt:2
 #, perl-format
 msgid "Remove Recording"
-msgstr "Verwijder opname"
+msgstr "Opname verwijderen"
 
 #: ../root/edit/relationship/delete.tt:1 ../root/edit/relationship/delete.tt:3
 #, perl-format
 msgid "Remove Relationship"
-msgstr "Verwijder verwantschap"
+msgstr "Verwantschap verwijderen"
 
 #: ../root/relationship/linkattributetype/delete.tt:1
 #: ../root/relationship/linkattributetype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Attribute"
-msgstr "Verwijder verwantschapseigenschap"
+msgstr "Verwantschapseigenschap verwijderen"
 
 #: ../root/relationship/linktype/delete.tt:1
 #: ../root/relationship/linktype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Type"
-msgstr "Verwijder verwantschapstype"
+msgstr "Verwantschapstype verwijderen"
 
 #: ../root/release/delete.tt:2
 #, perl-format
 msgid "Remove Release"
-msgstr "Verwijder uitgave"
+msgstr "Uitgave verwijderen"
 
 #: ../root/release_group/delete.tt:1
 #, perl-format
 msgid "Remove Release Group"
-msgstr "Verwijder uitgavegroep"
+msgstr "Uitgavegroep verwijderen"
 
 #: ../root/release_group/delete.tt:2
 #, perl-format
 msgid "Remove Release Group "
-msgstr "Verwijder uitgavegroep"
+msgstr "Uitgavegroep verwijderen"
 
 #: ../root/work/delete_alias.tt:1
 #, perl-format
 msgid "Remove Work Alias"
-msgstr "Verwijder de alias van deze compositie"
+msgstr "Alias van deze compositie verwijderen"
 
 #: ../root/collection/delete.tt:2 ../root/collection/delete.tt:7
 #, perl-format
 msgid "Remove collection"
-msgstr "Verwijder collectie"
+msgstr "Collectie verwijderen"
 
 #: ../root/release/edit/tracklist.tt:407
 #, perl-format
 msgid "Remove disc"
-msgstr "Verwijder medium"
+msgstr "Medium verwijderen"
 
 #: ../root/release/sidebar.tt:126
 #, perl-format
 msgid "Remove from my collection"
-msgstr "Verwijder uit mijn collectie"
+msgstr "Uit mijn collectie verwijderen"
 
 #: ../root/release/sidebar.tt:128
 #, perl-format
 msgid "Remove from {collection}"
-msgstr "Verwijder uit {collection}"
+msgstr "Uit {collection} verwijderen"
 
 #: ../root/label/layout.tt:72
 #: ../lib/MusicBrainz/Server/Edit/Label/Delete.pm:12
 #, perl-format
 msgid "Remove label"
-msgstr "Verwijder platenmaatschappij"
+msgstr "Platenmaatschappij verwijderen"
 
 #: ../root/recording/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
 #, perl-format
 msgid "Remove recording"
-msgstr "Verwijder opname"
+msgstr "Opname verwijderen"
 
 #: ../root/release/sidebar.tt:84
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 #, perl-format
 msgid "Remove release"
-msgstr "Verwijder uitgave"
+msgstr "Uitgave verwijderen"
 
 #: ../root/release_group/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 #, perl-format
 msgid "Remove release group"
-msgstr "Verwijder uitgavegroep"
+msgstr "Uitgavegroep verwijderen"
 
 #: ../root/layout/merge-helper.tt:33
 #, perl-format
 msgid "Remove selected entities"
-msgstr "Verwijder de geselecteerde objecten"
+msgstr "Geselecteerde objecten verwijderen"
 
 #: ../root/collection/index.tt:47
 #, perl-format
 msgid "Remove selected releases from collection"
-msgstr "Verwijder de geselecteerde uitgaves uit de collectie"
+msgstr "Geselecteerde uitgaves uit de collectie verwijderen"
 
 #: ../root/collection/layout.tt:10
 #, perl-format
 msgid "Remove this collection"
-msgstr "Verwijder deze collectie"
+msgstr "Deze collectie verwijderen"
 
 #: ../root/release/edit/tracklist.tt:338
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
 #, perl-format
 msgid "Remove track"
-msgstr "Verwijder nummer"
+msgstr "Nummer verwijderen"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
 msgid "Remove your rating"
-msgstr "Verwijder uw waardering"
+msgstr "Uw waardering verwijderen"
 
 #: ../root/components/forms.tt:108 ../root/components/forms.tt:109
 #, perl-format
 msgid "Remove {item}"
-msgstr "Verwijder {item}"
+msgstr "{item} verwijderen"
 
 #: ../root/edit/details/edit_release_events.tt:37
 #, perl-format
@@ -7035,7 +7035,7 @@ msgstr "Selecteren"
 #: ../root/release/edit/tracklist.tt:99
 #, perl-format
 msgid "Select a disc from the search results below and then click \"Add Disc\"."
-msgstr "Selecteer een medium uit de zoekresultaten hieronder en klik dan „Voeg medium toe“."
+msgstr "Selecteer een medium uit de zoekresultaten hieronder en klik dan „Medium toevoegen“."
 
 #: ../root/cdtoc/move_search.tt:4
 #, perl-format
@@ -7574,7 +7574,7 @@ msgstr "Voeg dit medium met de eenvoudige methode toe."
 #: ../root/edit/list.tt:110
 #, perl-format
 msgid "Submit votes &amp; edit notes"
-msgstr "Dien stemmen & bewerkingsnotities in"
+msgstr "Stemmen & bewerkingsnotities indienen"
 
 #: ../root/artist/layout.tt:128 ../root/label/layout.tt:98
 #, perl-format
@@ -7676,12 +7676,12 @@ msgstr "Tag opzoeken"
 #: ../root/release/sidebar.tt:63
 #, perl-format
 msgid "Tag release"
-msgstr "Geef de uitgave een etiket"
+msgstr "Uitgave een etiket geven"
 
 #: ../root/release_group/layout.tt:18
 #, perl-format
 msgid "Tag release group"
-msgstr "Geef de uitgavegroep een etiket"
+msgstr "Uitgavegroep een etiket geven"
 
 #: ../root/artist/layout.tt:53 ../root/artist/tags.tt:3
 #, perl-format
@@ -7691,7 +7691,7 @@ msgstr "Etiketteer deze artiest"
 #: ../root/collection/tag.tt:2
 #, perl-format
 msgid "Tag this collection"
-msgstr "Geeft deze collectie een etiket"
+msgstr "Deze collectie een etiket geven"
 
 #: ../root/label/layout.tt:46 ../root/label/tags.tt:3
 #, perl-format
@@ -7706,17 +7706,17 @@ msgstr "Etiketteer deze opname"
 #: ../root/release/tags.tt:3
 #, perl-format
 msgid "Tag this release"
-msgstr "Geef deze uitgave een etiket"
+msgstr "Deze uitgave een etiket geven"
 
 #: ../root/release_group/tags.tt:3
 #, perl-format
 msgid "Tag this release group"
-msgstr "Geef de uitgavegroep een etiket"
+msgstr "Deze uitgavegroep een etiket geven"
 
 #: ../root/work/layout.tt:29 ../root/work/tags.tt:3
 #, perl-format
 msgid "Tag this work"
-msgstr "Geef deze compositie een etiket"
+msgstr "Deze compositie een etiket geven"
 
 #: ../root/tag/header.tt:11 ../root/tag/layout.tt:1
 #, perl-format
@@ -9299,7 +9299,7 @@ msgstr "Pagina bijwerken"
 #: ../root/components/tag.tt:3
 #, perl-format
 msgid "Update Tags"
-msgstr "Werkt etiketten bij"
+msgstr "Etiketten bijwerken"
 
 #: ../root/artist/merge.tt:19
 #, perl-format
@@ -9309,7 +9309,7 @@ msgstr "Werk de vermeldingen van de artiest bij met de nieuwe naam van de arties
 #: ../root/collection/edit_form.tt:13
 #, perl-format
 msgid "Update collection"
-msgstr "Werk collectie bij"
+msgstr "Collectie bijwerken"
 
 #: ../root/components/forms.tt:176 ../root/components/forms.tt:200
 #: ../root/release/edit/tracklist.tt:479
@@ -9330,7 +9330,7 @@ msgstr "Aantal keren gebruikt"
 #: ../root/components/common-macros.tt:460
 #, perl-format
 msgid "Use in a relationship"
-msgstr "Gebruik in een verwantschap"
+msgstr "In een verwantschap gebruiken"
 
 #: ../root/main/index.tt:104
 #, perl-format
@@ -9342,7 +9342,7 @@ msgstr "Gebruik onze <strong>XML webdienst</strong> of <strong>ontwikkelingsbibl
 #: ../root/release/edit/recordings.tt:94
 #, perl-format
 msgid "Use suggested recording"
-msgstr "Gebruik de gesuggereerde opname"
+msgstr "De gesuggereerde opname gebruiken"
 
 #: ../root/components/forms.tt:235
 #, perl-format
@@ -9718,7 +9718,7 @@ msgid ""
 "When you are ready to merge these, just click the Merge button. You may "
 "still add more to this merge queue by simply browsing to the entities page "
 "and following the merge link."
-msgstr "Als u klaar bent om deze samen te voegen, klik dan op de knop Samenvoegen. U kunt ook nog meer aan deze lijst samen te voegen objecten toevoegen door naar de pagina van het object te gaan en de link samenvoegen te volgen."
+msgstr "Als u klaar bent om deze samen te voegen, klik dan op de knop „Samenvoegen“. U kunt ook nog meer aan deze lijst samen te voegen objecten toevoegen door naar de pagina van het object te gaan en de link samenvoegen te volgen."
 
 #: ../root/release/merge_search.tt:7
 #, perl-format
@@ -11141,11 +11141,11 @@ msgstr "Artiest toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Delete.pm:11
 msgid "Remove artist"
-msgstr "Verwijder een artiest"
+msgstr "Artiest verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/DeleteAlias.pm:14
 msgid "Remove artist alias"
-msgstr "Verwijder dit alias van deze artiest"
+msgstr "Deze alias van deze artiest verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Edit.pm:31
 msgid "Edit artist"
@@ -11157,26 +11157,26 @@ msgstr "Bewerk toeschrijving aan artiest"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Merge.pm:13
 msgid "Merge artists"
-msgstr "Voeg artiesten samen"
+msgstr "Artiesten samenvoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/AddDiscID.pm:10
 msgid "Add disc ID"
-msgstr "Voeg disc-id toe"
+msgstr "Disc-id toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLink.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Create.pm:22
 msgid "Add relationship"
-msgstr "Voeg verwantschap toe"
+msgstr "Verwantschap toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:13
 msgid "Add release annotation"
-msgstr "Voeg aantekening toe aan de uitgave"
+msgstr "Aantekening toevoegen aan de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseEvents.pm:11
 msgid "Add release events (historic)"
-msgstr "Voeg uitgavegebeurtenissen toe (historisch)"
+msgstr "Uitgavegebeurtenissen toevoegen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrack.pm:11
 msgid "Add track (historic)"
@@ -11184,7 +11184,7 @@ msgstr "Nummer toevoegen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
 msgid "Add track"
-msgstr "Voeg nummer toe"
+msgstr "Nummer toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeArtistQuality.pm:10
 msgid "Change artist quality (historic)"
@@ -11235,7 +11235,7 @@ msgstr "Zet uitgave om naar één artiest (historisch)"
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Release/Merge.pm:49
 msgid "Merge releases"
-msgstr "Voeg uitgaves samen"
+msgstr "Uitgaves samenvoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:18
@@ -11249,24 +11249,24 @@ msgstr "Verplaats de uitgave (historisch)"
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:10
 msgid "Remove disc ID"
-msgstr "Verwijder disc-id"
+msgstr "Disc-id verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabelAlias.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Label/DeleteAlias.pm:14
 msgid "Remove label alias"
-msgstr "Verwijder alias van platenmaatschappij"
+msgstr "Alias van platenmaatschappij verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLink.pm:10
 msgid "Remove relationship (historic)"
-msgstr "Verwijder verwantschap (historisch)"
+msgstr "Verwantschap verwijderen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
-msgstr "Verwijder uitgavegebeurtenissen (historisch)"
+msgstr "Uitgavegebeurtenissen verwijderen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases (historic)"
-msgstr "Verwijder de uitgaves (historisch)"
+msgstr "Uitgaves verwijderen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists (historic)"
@@ -11291,15 +11291,15 @@ msgstr "Bewerk platenmaatschappij"
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
 msgid "Merge labels"
-msgstr "Voeg platenmaatschappijen samen"
+msgstr "Platenmaatschappijen samenvoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
-msgstr "Voeg medium toe"
+msgstr "Medium toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Delete.pm:18
 msgid "Remove medium"
-msgstr "Verwijder medium"
+msgstr "Medium verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Edit.pm:39
 msgid "Edit medium"
@@ -11307,27 +11307,27 @@ msgstr "Bewerk medium"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
-msgstr "Voeg aantekening voor opname toe"
+msgstr "Aantekening voor opname toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddISRCs.pm:21
 msgid "Add ISRCs"
-msgstr "Voeg ISRC's toe"
+msgstr "ISRC's toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddPUIDs.pm:13
 msgid "Add PUIDs"
-msgstr "Voeg PUID's toe"
+msgstr "PUID's toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Create.pm:24
 msgid "Add standalone recording"
-msgstr "Voeg losstaande opname toe"
+msgstr "Losstaande opname toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Merge.pm:13
 msgid "Merge recordings"
-msgstr "Voeg opnames samen"
+msgstr "Opnames samenvoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/RemoveISRC.pm:17
 msgid "Remove ISRC"
-msgstr "Verwijder ISRC"
+msgstr "ISRC verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship.pm:7
 msgid "Relationship"
@@ -11339,11 +11339,11 @@ msgstr "Verwantschapseigenschap toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkType.pm:13
 msgid "Add relationship type"
-msgstr "Voeg verwantschapstype toe"
+msgstr "Verwantschapstype toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Delete.pm:25
 msgid "Remove relationship"
-msgstr "Verwijder verwantschap"
+msgstr "Verwantschap verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Edit.pm:28
 msgid "Edit relationship"
@@ -11359,15 +11359,15 @@ msgstr "Bewerk verwantschapstype"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkAttribute.pm:13
 msgid "Remove relationship attribute"
-msgstr "Verwijder verwantschapseigenschap"
+msgstr "Verwantschapseigenschap verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkType.pm:13
 msgid "Remove relationship type"
-msgstr "Verwijder verwantschapstype"
+msgstr "Verwantschapstype verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddCoverArt.pm:18
 msgid "Add cover art"
-msgstr "Voeg hoesafbeeldingen toe"
+msgstr "Hoesafbeeldingen toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
@@ -11375,7 +11375,7 @@ msgstr "Platenmaatschappij aan de uitgave toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/DeleteReleaseLabel.pm:16
 msgid "Remove release label"
-msgstr "Verwijder de platenmaatschappij van de uitgave"
+msgstr "De platenmaatschappij van de uitgave verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
@@ -11404,7 +11404,7 @@ msgstr "Bewerk de platenmaatschappij van de uitgave"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
-msgstr "Verwijder hoesafbeelding"
+msgstr "Hoesafbeelding verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderCoverArt.pm:22
 msgid "Reorder cover art"
@@ -11436,19 +11436,19 @@ msgstr "WikiDoc veranderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
-msgstr "Voeg aantekening toe aan deze compositie"
+msgstr "Aantekening aan deze compositie toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddISWCs.pm:22
 msgid "Add ISWCs"
-msgstr "Voeg ISWC's toe"
+msgstr "ISWC's toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
-msgstr "Verwijder compositie"
+msgstr "Compositie verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/DeleteAlias.pm:15
 msgid "Remove work alias"
-msgstr "Verwijder alias van deze compositie"
+msgstr "Alias van deze compositie verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:25
 msgid "Edit work"
@@ -11456,11 +11456,11 @@ msgstr "Bewerk compositie"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
-msgstr "Voeg composities samen"
+msgstr "Composities samenvoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/RemoveISWC.pm:16
 msgid "Remove ISWC"
-msgstr "Verwijder ISWC"
+msgstr "ISWC verwijderen"
 
 #: ../lib/MusicBrainz/Server/EditSearch/Predicate.pm:66
 msgid "This operator is not supported"
@@ -11645,7 +11645,7 @@ msgstr "Deze streepjescode is ongeldig, controleer alstublieft of u de streepjes
 msgid ""
 "You must select an existing release group. If you wish to move this release,\n"
 "           use the \"change release group\" action from the sidebar."
-msgstr "U moet een bestaande uitgavegroep selecteren. Als u deze uitgave wilt verplaatsen,\ngebruik dan de „Verander uitgavegroep“ link in de zijbalk."
+msgstr "U moet een bestaande uitgavegroep selecteren. Als u deze uitgave wilt verplaatsen,\ngebruik dan de „Uitgavegroep veranderen“ link in de zijbalk."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:60
 msgid "New tracklisting contains an empty track"
@@ -11888,7 +11888,7 @@ msgstr "Informatie over de uitgave"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
-msgstr "Voeg ontbrekende objecten toe"
+msgstr "Ontbrekende objecten toevoegen"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:128
 msgid "Release Duplicates"
