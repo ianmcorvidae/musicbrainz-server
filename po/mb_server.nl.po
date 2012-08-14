@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-14 09:20+0000\n"
+"PO-Revision-Date: 2012-08-14 12:59+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -3237,7 +3237,7 @@ msgstr "Vul hieronder de nummerlijst in:"
 #: ../root/release/edit/editnote.tt:42
 #, perl-format
 msgid "Enter edit"
-msgstr "Voer bewerking in"
+msgstr "Bewerking invoeren"
 
 #: ../root/edit/vote.tt:29
 #, perl-format
@@ -3258,7 +3258,7 @@ msgid ""
 "is highly recommended. Not only does it make it clear where you got your "
 "information, but it can also encourage other users to vote on your edit "
 "&mdash; thus making your edit get applied faster."
-msgstr "Het toevoegen van een {note|bewerkingsnotitie} die beschrijft waar u uw informatie vandaan heeft wordt sterk aangeraden. Niet alleen maakt dit duidelijk waar u uw informatie vandaan heeft, maar het kan ook gebruikers aansporen om op uw bewerking te stemmen, waardoor bewerkingen sneller worden doorgevoerd."
+msgstr "Het toevoegen van een {note|bewerkingsnotitie} die beschrijft waar u uw informatie vandaan heeft wordt sterk aangeraden. Niet alleen maakt dit duidelijk waar u uw informatie vandaan heeft, maar het kan ook gebruikers aansporen om op uw bewerking te stemmen, waardoor bewerkingen sneller worden doorgevoerd. Let op dat dit een internationale gemeenschap is: u wordt aangemoedigd om uw notitie in het Engels te schrijven, ook als u Nederlandse artiesten bewerkt."
 
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
@@ -7121,14 +7121,14 @@ msgstr "Toon alleen resultaten in mijn abonnementen."
 msgid ""
 "Showing Various Artist release groups. {show_subset|Show release groups by "
 "this artist instead}."
-msgstr "Laat uitgaves van Diverse Artiesten zien. {show_subset|Laat in plaats hiervan uitgaves van deze artiest zien.}"
+msgstr "De pagina laat nu uitgavegroepen van Diverse Artiesten zien. {show_subset|Laat in plaats hiervan uitgavegroepen van alleen deze artiest zien.}"
 
 #: ../root/artist/releases.tt:31
 #, perl-format
 msgid ""
 "Showing Various Artist releases. {show_subset|Show releases by this artist "
 "instead}."
-msgstr "Laat uitgaves van Diverse Artiesten zien. {show_subset|Laat in plaats hiervan uitgaves van deze artiest zien}."
+msgstr "De pagina laat nu uitgaves van Diverse Artiesten zien. {show_subset|Laat in plaats hiervan uitgaves van alleen deze artiest zien}."
 
 #: ../root/artist/recordings.tt:23
 #, perl-format
@@ -7147,14 +7147,14 @@ msgstr "Alleen losstaande opnames worden weergegeven. {show_all|Laat alle opname
 msgid ""
 "Showing release groups by this artist. {show_all|Show Various Artist release"
 " groups instead}."
-msgstr "Laat uitgavegroepen van deze artiest zien. {show_all|Laat in plaats hiervan uitgavegroepen van diverse artiesten zien}."
+msgstr "De pagina laat nu uitgavegroepen van alleen deze artiest zien. {show_all|Laat in plaats hiervan uitgavegroepen van diverse artiesten zien}."
 
 #: ../root/artist/releases.tt:28
 #, perl-format
 msgid ""
 "Showing releases by this artist. {show_all|Show Various Artist releases "
 "instead}."
-msgstr "Laat uitgaves van deze artiest zien. {show_all|Laat in plaats hiervan uitgaves van diverse artiesten zien}."
+msgstr "De pagina laat nu uitgaves van alleen deze artiest zien. {show_all|Laat in plaats hiervan uitgaves van diverse artiesten zien}."
 
 #: ../root/scripts/text_strings.tt:38
 #, perl-format
