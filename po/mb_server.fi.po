@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-13 21:29+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-08-14 12:28+0000\n"
+"Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3753,7 +3753,7 @@ msgstr "ISWC"
 #: ../root/iswc/not_found.tt:1 ../root/iswc/not_found.tt:2
 #, perl-format
 msgid "ISWC Not Currently Used"
-msgstr ""
+msgstr "ISWC-koodi ei parhaillaan käytössä"
 
 #: ../root/edit/details/add_iswcs.tt:8
 #, perl-format
@@ -4502,7 +4502,7 @@ msgstr "Yhdistä levymerkit"
 #: ../root/layout/merge-helper.tt:3
 #, perl-format
 msgid "Merge Process"
-msgstr ""
+msgstr "Yhdistämisprosessi"
 
 #: ../root/recording/merge.tt:1 ../root/recording/merge.tt:3
 #, perl-format
@@ -4544,7 +4544,7 @@ msgstr "Yhdistä levymerkit"
 #: ../root/edit/details/historic/merge_releases.tt:30
 #, perl-format
 msgid "Merge language &amp; script:"
-msgstr ""
+msgstr "Yhdistä kieli &amp; merkistö"
 
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
@@ -4581,7 +4581,7 @@ msgstr "Yhdistä julkaisuryhmät"
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
 msgid "Merge strategy:"
-msgstr ""
+msgstr "Yhdistämismenetelmä:"
 
 #: ../root/work/layout.tt:45
 #, perl-format
@@ -5293,7 +5293,7 @@ msgstr ""
 msgid ""
 "Only the user who created an edit can cancel it, either you did not create "
 "{edit} or perhaps it has already been closed."
-msgstr ""
+msgstr "Muokkauksen voi peruuttaa ainoastaan sen luonut käyttäjä. Joko et luonut muokkausta {edit} tai muokkaus voi olla suljettu. "
 
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
@@ -5497,7 +5497,7 @@ msgstr ""
 msgid ""
 "Please <a href=\"{uri}\">update your profile</a> when you get time, to let "
 "other editors know a bit more about you."
-msgstr ""
+msgstr "Kun vain ehdit, <a href=\"{uri}\">päivitäthän profiiliasi</a>, jotta muut editorit tietäisivät sinusta hieman enemmän. "
 
 #: ../root/main/500.tt:60
 #, perl-format
@@ -5510,7 +5510,7 @@ msgstr ""
 msgid ""
 "Please choose a valid image. Currently the Cover Art Archive only supports "
 "JPEG files."
-msgstr ""
+msgstr "Valitse oikeantyyppinen kuva. Cover Art Archive (kansikuva-arkisto) tukee vain JPEG-tiedostoja. "
 
 #: ../root/scripts/text_strings.tt:44
 #, perl-format
@@ -5680,7 +5680,7 @@ msgstr ""
 #: ../root/cdstub/import.tt:3
 #, perl-format
 msgid "Please search for the artist you wish to create a new release for:"
-msgstr ""
+msgstr "Etsi artisti, jolle olet luomassa uutta julkaisua:"
 
 #: ../root/release/cover_art_fields.tt:8
 #, perl-format
@@ -5913,7 +5913,7 @@ msgstr "Pika-aloitus"
 #: ../root/edit/list_header.tt:4
 #, perl-format
 msgid "Quick links:"
-msgstr ""
+msgstr "Pikalinkit:"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -6826,7 +6826,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:153
 #, perl-format
 msgid "Review the {doc|list of packaging types} for help."
-msgstr ""
+msgstr "Tutustu {doc|listaan pakkaustyypeistä} saadaksesi apua."
 
 #: ../root/layout.tt:73
 #, perl-format
@@ -7436,7 +7436,7 @@ msgid ""
 " to carry out a search. If you are attempting to find something that "
 "contains nothing but punctuation characters (e.g. !!!) then you need to use "
 "the {uri|browse page}, since this search ignores punctuation characters."
-msgstr ""
+msgstr "Kyselysi (<code>{query}</code>) ei sisällä riittävästi informaatioa haun jatkamiseksi. Mikäli etsit jotakin joka sisältää lukuisia välimerkkejä (esim. huutomerkki), sinun tulee käyttää {uri|hakusivua}. Tämä haku ei huomioi välimerkkejä. "
 
 #: ../root/search/error/uri-too-large.tt:3
 #, perl-format
@@ -7577,7 +7577,7 @@ msgstr "Lähetä tämän CD-levyn tiedot käyttäen yksinkertaista menetelmää.
 #: ../root/edit/list.tt:110
 #, perl-format
 msgid "Submit votes &amp; edit notes"
-msgstr ""
+msgstr "Äänestä &amp; muokkaa huomautuksia"
 
 #: ../root/artist/layout.tt:128 ../root/label/layout.tt:98
 #, perl-format
@@ -7781,7 +7781,7 @@ msgstr "Kiitokset avustasi MusicBrainz-palvelulle."
 msgid ""
 "Thank you, your email address has now been verified! If you still can't "
 "edit, please try to log out and log in again."
-msgstr ""
+msgstr "Kiitokset! Sähköpostiosoitteesi on nyt varmennetty! Jos et voi vieläkään muokata, kokeile uloskirjautua ja sisäänkirjaudu uudelleen."
 
 #: ../root/release/caa_darkened.tt:3 ../root/release/cover_art.tt:56
 #, perl-format
@@ -8817,17 +8817,17 @@ msgstr "Taulukko näyttää yhteenvedon tämän editorin antamista äänistä."
 #: ../root/components/common-macros.tt:373
 #, perl-format
 msgid "This user is automated."
-msgstr ""
+msgstr "Tämä on automatisoitu käyttäjä."
 
 #: ../root/components/common-macros.tt:372
 #, perl-format
 msgid "This user is new to MusicBrainz."
-msgstr ""
+msgstr "Tämä on MusicBrainzin uusi käyttäjä."
 
 #: ../root/release/merge_search.tt:4
 #, perl-format
 msgid "This wizard allows you to merge {release} into another release."
-msgstr ""
+msgstr "Velho sallii sinun yhdistää julkaisun {release} toiseen julkaisuun."
 
 #: ../root/work/index.tt:4
 #, perl-format
@@ -8882,7 +8882,7 @@ msgstr "Otsikko:"
 msgid ""
 "To aid in testing, the following features have been made available on "
 "testing servers:"
-msgstr ""
+msgstr "Testaamisen helpottamiseksi seuraavat ominaisuudet ovat saatavilla testipalvelimillamme: "
 
 #: ../root/artist/browse_various_recordings.tt:20
 #: ../root/artist/browse_various_releases.tt:20
@@ -8903,12 +8903,12 @@ msgstr ""
 #: ../root/release/edit/information.tt:50
 #, perl-format
 msgid "To edit types, please edit the release group."
-msgstr ""
+msgstr "Muokataksesi tyyppejä, muokkaa julkaisuryhmää. "
 
 #: ../root/elections/show.tt:88
 #, perl-format
 msgid "To find out if you can vote for this candidate, please {url|log in}."
-msgstr ""
+msgstr "Selvittääksesi voitko äänestää tätä ehdokasta, {url|sisäänkirjaudu}."
 
 #: ../root/watch/list.tt:36
 #, perl-format
@@ -8952,7 +8952,7 @@ msgstr "Samannimisiä yhtyeitä yhteensä: {count}"
 #: ../root/report/discogs_links_with_multiple_labels.tt:7
 #, perl-format
 msgid "Total labels found: {count}"
-msgstr ""
+msgstr "Levymerkkejä löytyi yhteensä: {count}"
 
 #: ../root/cdstub/index.tt:21 ../root/cdtoc/info.tt:23
 #, perl-format
@@ -9093,7 +9093,7 @@ msgstr "Kappaleet"
 #: ../root/report/index.tt:71
 #, perl-format
 msgid "Tracks whose names include their sequence numbers"
-msgstr ""
+msgstr "Kappaleita joiden nimet sisältävät niiden järjestysnumeroita"
 
 #: ../root/edit/details/historic/add_release.tt:44
 #, perl-format
@@ -10078,7 +10078,7 @@ msgstr "Sinulla ei ole kokoelmia!"
 #: ../root/user/collections.tt:35
 #, perl-format
 msgid "You have no collections."
-msgstr ""
+msgstr "Sinulla ei ole kokoelmia"
 
 #: ../root/recording/edit.tt:42
 #, perl-format
@@ -11370,7 +11370,7 @@ msgstr "Poista suhteen tyyppi"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddCoverArt.pm:18
 msgid "Add cover art"
-msgstr ""
+msgstr "Lisää kansitaidetta"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
@@ -11399,7 +11399,7 @@ msgstr "Muokkaa viivakoodeja"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditCoverArt.pm:19
 msgid "Edit cover art"
-msgstr ""
+msgstr "Muokkaa kansitaidetta"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
@@ -11407,15 +11407,15 @@ msgstr "Muokkaa julkaisun levymerkkiä"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
-msgstr ""
+msgstr "Poista kansitaidetta"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderCoverArt.pm:22
 msgid "Reorder cover art"
-msgstr ""
+msgstr "Uudelleenjärjestä kansitaide"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderMediums.pm:11
 msgid "Reorder mediums"
-msgstr ""
+msgstr "Uudelleenjärjestä tallenteet"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
@@ -11482,34 +11482,34 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:91
 #, perl-brace-format
 msgid "Voting open since {date}"
-msgstr ""
+msgstr "Äänestys avoinna {date} alkaen"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:92
 #, perl-brace-format
 msgid "Accepted at {date}"
-msgstr ""
+msgstr "Hyväksytty {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:93
 #, perl-brace-format
 msgid "Declined at {date}"
-msgstr ""
+msgstr "Hylätty {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:94
 #, perl-brace-format
 msgid "Cancelled at {date}"
-msgstr ""
+msgstr "Peruutettu {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:100
 msgid "Voting open"
-msgstr ""
+msgstr "Äänestys avoinna"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:102
 msgid "Declined"
-msgstr ""
+msgstr "Hylätty"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:103
 msgid "Cancelled"
-msgstr ""
+msgstr "Peruutettu"
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
