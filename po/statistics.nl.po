@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-13 15:07+0000\n"
+"PO-Revision-Date: 2012-08-14 09:27+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -251,7 +251,7 @@ msgstr "Last.fm tekent een contract met MetaBrainz en begint gegevens van MusicB
 #: DB:statistic_event/description:2003-12-28
 msgid ""
 "Link to MusicBrainz feature, release events and edit suggestions released."
-msgstr "Koppeling naar MusicBrainz mogelijkheden, uitgavegebeurtenissen en suggesties voor bewerkingen uitgebracht."
+msgstr "Mogelijkheden voor koppeling naar MusicBrainz, uitgavegebeurtenissen en suggesties voor bewerkingen uitgebracht."
 
 #: DB:statistic_event/description:2007-01-20
 msgid "Linkara Musica becomes first commercial customer of MetaBrainz."
@@ -259,11 +259,11 @@ msgstr "Linkara Musica wordt de eerste commerciële klant van MetaBrainz."
 
 #: DB:statistic_event/title:2003-12-28
 msgid "Linking"
-msgstr ""
+msgstr "Koppeling"
 
 #: DB:statistic_event/title:2005-10-23
 msgid "Menus/Client scripting"
-msgstr ""
+msgstr "Scripting voor menu's en programma's"
 
 #: DB:statistic_event/description:2008-04-21
 msgid "MetaBrainz accepts three students for Google Summer of Code."
@@ -482,7 +482,7 @@ msgstr "Actieve gebruikers"
 msgid "Active Voters"
 msgstr "Actieve stemmers"
 
-#: ../root/statistics/timeline.tt:75
+#: ../root/statistics/timeline.tt:77
 #, perl-format
 msgid "Add/remove lines:"
 msgstr "Lijnen toevoegen of verwijderen:"
@@ -718,17 +718,17 @@ msgstr "Geannuleerde bewerkingen"
 msgid "Cancelled:"
 msgstr "geannuleerd:"
 
-#: ../root/statistics/timeline.tt:75
+#: ../root/statistics/timeline.tt:77
 #, perl-format
 msgid "Check boxes above"
 msgstr "Bovenstaande selectievakjes"
 
-#: ../root/statistics/timeline.tt:74
+#: ../root/statistics/timeline.tt:76
 #, perl-format
 msgid "Click to deselect"
 msgstr "Klik ergens in de grafiek"
 
-#: ../root/statistics/timeline.tt:71
+#: ../root/statistics/timeline.tt:73
 #, perl-format
 msgid "Controls"
 msgstr "Bediening"
@@ -746,7 +746,7 @@ msgstr "Aantal actieve redacteuren (bewerken of stemmen) gedurende de afgelopen 
 #: ../root/statistics/view_js.tt:71
 #, perl-format
 msgid "Count of all Am-nais votes"
-msgstr ""
+msgstr "Totaal aantal onthoudingen"
 
 #: ../root/statistics/view_js.tt:117
 #, perl-format
@@ -1144,7 +1144,7 @@ msgstr "Disc-id's"
 msgid "Disc IDs:"
 msgstr "Disc-id's:"
 
-#: ../root/statistics/timeline.tt:73
+#: ../root/statistics/timeline.tt:75
 #, perl-format
 msgid "Draw a rectangle on either graph"
 msgstr "Trek een rechthoek op een grafiek"
@@ -1207,19 +1207,19 @@ msgstr "Bewerkingen:"
 #: ../root/statistics/view_js.tt:59
 #, perl-format
 msgid "Error edits"
-msgstr ""
+msgstr "Foute bewerkingen"
 
 #: ../root/statistics/view_js.tt:63
 #, perl-format
 msgid "Evalnochange Edits"
-msgstr ""
+msgstr "Evalnochange Edits"
 
 #: ../root/statistics/view_js.tt:63
 #, perl-format
 msgid "Evalnochange edits"
-msgstr ""
+msgstr "Evalnochange edits"
 
-#: ../root/statistics/timeline.tt:85
+#: ../root/statistics/timeline.tt:87
 #, perl-format
 msgid "Exact Values (items vs. day)"
 msgstr "Exacte waardes (objecten uitgezet tegen de datum)"
@@ -1301,7 +1301,7 @@ msgstr "hoge gegevenskwaliteit"
 msgid "High Data Quality:"
 msgstr "hoge gegevenskwaliteit:"
 
-#: ../root/statistics/timeline.tt:76
+#: ../root/statistics/timeline.tt:78
 #, perl-format
 msgid "Hover and click on vertical lines"
 msgstr "Beweeg over de verticale lijnen en klik er op"
@@ -1434,7 +1434,7 @@ msgstr "vorige week:"
 msgid "Last updated: {date}"
 msgstr "Het laatst bijgewerkt op {date}"
 
-#: ../root/statistics/timeline.tt:60
+#: ../root/statistics/timeline.tt:62
 #, perl-format
 msgid "Legend"
 msgstr "Legenda"
@@ -1506,12 +1506,12 @@ msgstr "Meest actieve redacteuren in de afgelopen week (bewerken)"
 msgid "Most active voters in the past week"
 msgstr "Meest actieve redacteuren in de afgelopen week (stemmen)"
 
-#: ../root/statistics/timeline.tt:64
+#: ../root/statistics/timeline.tt:66
 #, perl-format
 msgid "MusicBrainz Events"
 msgstr "Gebeurtenissen op MusicBrainz"
 
-#: ../root/statistics/timeline.tt:76
+#: ../root/statistics/timeline.tt:78
 #, perl-format
 msgid "MusicBrainz Events:"
 msgstr "Gebeurtenissen op MusicBrainz:"
@@ -1682,12 +1682,12 @@ msgstr "Primaire types"
 msgid "Rank"
 msgstr "Rang"
 
-#: ../root/statistics/timeline.tt:87
+#: ../root/statistics/timeline.tt:89
 #, perl-format
 msgid "Rate of Change (average items/day vs. day)"
 msgstr "Veranderingssnelheid (gemiddeld aantal objecten per dag uitgezet tegen de datum)"
 
-#: ../root/statistics/timeline.tt:68
+#: ../root/statistics/timeline.tt:70
 #, perl-format
 msgid "Rate of Change Graph"
 msgstr "Veranderingssnelheidsgrafiek"
@@ -1960,7 +1960,7 @@ msgstr "Uitgaves, gegevenskwaliteit en disc-id's"
 msgid "Releases:"
 msgstr "Uitgaves:"
 
-#: ../root/statistics/timeline.tt:74
+#: ../root/statistics/timeline.tt:76
 #, perl-format
 msgid "Reset:"
 msgstr "Originele grootte:"
@@ -1995,7 +1995,7 @@ msgstr "Etiketten (totaal)"
 msgid "Timeline"
 msgstr "Tijdslijn"
 
-#: ../root/statistics/timeline.tt:83
+#: ../root/statistics/timeline.tt:85
 #, perl-format
 msgid "Timeline Graph"
 msgstr "Tijdslijngrafiek"
@@ -2187,7 +2187,7 @@ msgstr "voor:"
 msgid "Yesterday:"
 msgstr "gisteren:"
 
-#: ../root/statistics/timeline.tt:73
+#: ../root/statistics/timeline.tt:75
 #, perl-format
 msgid "Zoom:"
 msgstr "Vergroten:"
