@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-14 15:03+0000\n"
+"PO-Revision-Date: 2012-08-15 13:57+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -91,7 +91,7 @@ msgstr "&#10005;"
 #: ../root/relationship/linktype/tree.tt:38
 #, perl-format
 msgid "&lt; Back to all relationship types"
-msgstr "&lt; Terug naar alle verwantschapstypes"
+msgstr "&lt; Terug naar alle relatietypes"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:29
 #, perl-format
@@ -392,19 +392,19 @@ msgstr[1] "{n} privécollecties"
 msgid ""
 "A relationship between {entity0} and {entity1} already exists with these "
 "attributes"
-msgstr "Een verwantschap met deze eigenschappen tussen {entity0} en {entity1} bestaat al."
+msgstr "Een relatie met deze eigenschappen tussen {entity0} en {entity1} bestaat al."
 
 #: ../root/edit/relationship/edit.tt:52
 #, perl-format
 msgid ""
 "A relationship between {entity0} and {entity1} already exists with these "
 "attributes."
-msgstr "Een verwantschap met deze eigenschappen tussen {entity0} en {entity1} bestaat al."
+msgstr "Een relatie met deze eigenschappen tussen {entity0} en {entity1} bestaat al."
 
 #: ../root/edit/relationship/create_url.tt:30
 #, perl-format
 msgid "A relationship between {entity} and {url} already exists."
-msgstr "Er bestaat al een verwantschap tussen {entity} en {url}."
+msgstr "Er bestaat al een relatie tussen {entity} en {url}."
 
 #: ../root/layout/menu.tt:104
 #, perl-format
@@ -539,7 +539,7 @@ msgstr "Pagina toevoegen"
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Add Relationship"
-msgstr "Verwantschap toevoegen"
+msgstr "Relatie toevoegen"
 
 #: ../root/layout/menu.tt:212 ../root/release/edit/layout.tt:4
 #, perl-format
@@ -561,7 +561,7 @@ msgstr "Losstaande opname toevoegen"
 #: ../root/edit/relationship/create_url.tt:17
 #, perl-format
 msgid "Add URL Relationship"
-msgstr "URL-verwantschap toevoegen"
+msgstr "URL-relatie toevoegen"
 
 #: ../root/layout/menu.tt:215
 #, perl-format
@@ -1149,14 +1149,14 @@ msgstr "Weet u zeker dat u <strong>{page}</strong> van de transclusietabel wilt 
 msgid ""
 "Are you sure you wish to remove the <strong>{link_attr_type}</strong> "
 "relationship attribute?"
-msgstr "Weet u zeker dat u de <strong>{link_attr_type}</strong> verwantschapseigenschap wilt verwijderen?"
+msgstr "Weet u zeker dat u de <strong>{link_attr_type}</strong> relatie-eigenschap wilt verwijderen?"
 
 #: ../root/relationship/linktype/delete.tt:6
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the <strong>{link_type}</strong> "
 "relationship type?"
-msgstr "Weet u zeker dat u het <strong>{link_type}</strong> verwantschapstype wilt verwijderen?"
+msgstr "Weet u zeker dat u het <strong>{link_type}</strong> relatietype wilt verwijderen?"
 
 #: ../root/isrc/delete.tt:5
 #, perl-format
@@ -1193,7 +1193,7 @@ msgstr "Weet u zeker dat u de opname {recording} van MusicBrainz wilt verwijdere
 #, perl-format
 msgid ""
 "Are you sure you wish to remove the relationship: {entity0} {relationship}?"
-msgstr "Weet u zeker of u de verwantschap {entity0} {relationship} wilt verwijderen?"
+msgstr "Weet u zeker of u de relatie {entity0} {relationship} wilt verwijderen?"
 
 #: ../root/release_group/delete.tt:5
 #, perl-format
@@ -1403,7 +1403,7 @@ msgstr "Artiesten die één enkel persoon zouden kunnen zijn"
 #: ../root/report/index.tt:20
 #, perl-format
 msgid "Artists which have collaboration relationships"
-msgstr "Artiesten met samenwerkingsverwantschappen"
+msgstr "Artiesten met samenwerkingsrelaties"
 
 #: ../root/report/index.tt:21
 #, perl-format
@@ -1414,7 +1414,7 @@ msgstr "Artiesten die samenwerkingen lijken te zijn"
 #: ../root/report/collaboration_relationships.tt:3
 #, perl-format
 msgid "Artists with Collaboration Relationships"
-msgstr "Artiesten met samenwerkingsverwantschappen"
+msgstr "Artiesten met samenwerkingsrelaties"
 
 #: ../root/recording/fingerprints.tt:3
 #, perl-format
@@ -1886,7 +1886,7 @@ msgstr "Bewerking annuleren"
 #: ../root/components/common-macros.tt:460
 #, perl-format
 msgid "Cancel creating relationship with {name}"
-msgstr "Annuleer het maken van een verwantschap met {name}"
+msgstr "Het relateren aan {name} annuleren"
 
 #: ../root/edit/cancel.tt:24 ../root/edit/edit_header.tt:83
 #: ../root/edit/info.tt:21
@@ -1933,7 +1933,7 @@ msgstr "Kan geen hoesafbeelding toevoegen"
 #: ../root/edit/relationship/cannot_create.tt:2
 #, perl-format
 msgid "Cannot Create Relationship"
-msgstr "Kan geen verwantschap creëren"
+msgstr "Kan geen relatie creëren"
 
 #: ../root/recording/cannot_add.tt:1
 #, perl-format
@@ -2319,7 +2319,7 @@ msgstr "Registreren"
 #: ../root/edit/relationship/create.tt:15
 #, perl-format
 msgid "Create Relationship"
-msgstr "Verwantschap toevoegen"
+msgstr "Relatie toevoegen"
 
 #: ../root/release/sidebar.tt:145 ../root/user/collections.tt:42
 #, perl-format
@@ -2334,12 +2334,12 @@ msgstr "Nieuw instrument toevoegen"
 #: ../root/relationship/linkattributetype/index.tt:8
 #, perl-format
 msgid "Create a new relationship attribute"
-msgstr "Creëer een nieuwe verwantschapseigenschap"
+msgstr "Een nieuwe relatie-eigenschap creëren"
 
 #: ../root/relationship/linktype/tree.tt:43
 #, perl-format
 msgid "Create a new {type0}-{type1} relationship"
-msgstr "Creëer een nieuwe {type0}-{type1} verwantschap"
+msgstr "Een nieuwe {type0}-{type1}-relatie creëren"
 
 #: ../root/account/register.tt:1 ../root/account/register.tt:8
 #, perl-format
@@ -2354,12 +2354,12 @@ msgstr "Een collectie creëren"
 #: ../root/components/common-macros.tt:515
 #, perl-format
 msgid "Create relationship"
-msgstr "Verwantschap toevoegen"
+msgstr "Relatie toevoegen"
 
 #: ../root/components/common-macros.tt:460
 #, perl-format
 msgid "Create relationship with {other}"
-msgstr "Creëer een verwantschap met {other}"
+msgstr "Een relatie met {other} creëren"
 
 #: ../root/edit/search_macros.tt:282
 #, perl-format
@@ -2839,29 +2839,29 @@ msgstr "Bewerk de aantekening van de opname"
 #: ../root/edit/relationship/edit.tt:13 ../root/edit/relationship/edit.tt:15
 #, perl-format
 msgid "Edit Relationship"
-msgstr "Bewerk de verwantschap"
+msgstr "Relatie bewerken"
 
 #: ../root/relationship/linkattributetype/edit.tt:1
 #: ../root/relationship/linkattributetype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Attribute"
-msgstr "Bewerk de verwantschapseigenschap"
+msgstr "Relatie-eigenschap bewerken"
 
 #: ../root/admin/index.tt:7
 #, perl-format
 msgid "Edit Relationship Attributes"
-msgstr "Bewerk de verwantschapseigenschappen"
+msgstr "Relatie-eigenschappen bewerken"
 
 #: ../root/relationship/linktype/edit.tt:1
 #: ../root/relationship/linktype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Type"
-msgstr "Bewerk het verwantschapstype"
+msgstr "Relatietype bewerken"
 
 #: ../root/admin/index.tt:6 ../root/layout/menu.tt:82
 #, perl-format
 msgid "Edit Relationship Types"
-msgstr "Bewerk de verwantschapstypes"
+msgstr "Relatietypes bewerken"
 
 #: ../root/release/edit_annotation.tt:1
 #, perl-format
@@ -3813,7 +3813,7 @@ msgstr "Als het probleem zich blijft voordoen, {report|rapporteer dan een bug} e
 msgid ""
 "If this is an Amazon ASIN, please do not enter it in the catalog number "
 "field, but add it as a URL relationship later."
-msgstr "Als dit een Amazon ASIN is, voer dit dan niet in als catalogusnummer, maar voeg later een URL-verwantschap toe."
+msgstr "Als dit een Amazon ASIN is, voer dit dan niet in als catalogusnummer, maar voeg later een URL-relatie toe."
 
 #: ../root/release/edit/recordings.tt:107
 #, perl-format
@@ -4876,13 +4876,13 @@ msgstr "Nieuwe toeschrijving aan de artiest"
 #: ../root/relationship/linkattributetype/create.tt:3
 #, perl-format
 msgid "New Relationship Attribute"
-msgstr "Nieuwe verwantschapseigenschap"
+msgstr "Nieuwe relatie-eigenschap"
 
 #: ../root/relationship/linktype/create.tt:1
 #: ../root/relationship/linktype/create.tt:3
 #, perl-format
 msgid "New Relationship Type"
-msgstr "Nieuw verwantschapstype"
+msgstr "Nieuw relatietype"
 
 #: ../root/edit/details/historic/merge_releases.tt:14
 #, perl-format
@@ -4942,7 +4942,7 @@ msgstr "Nieuwe opname"
 #: ../root/edit/details/historic/edit_relationship.tt:29
 #, perl-format
 msgid "New relationships:"
-msgstr "Nieuwe verwantschappen:"
+msgstr "Nieuwe relaties:"
 
 #: ../root/edit/details/historic/edit_release_language.tt:30
 #, perl-format
@@ -5065,7 +5065,7 @@ msgstr "Geen opnames met dit etiket gevonden."
 #: ../root/relationship/linkattributetype/index.tt:32
 #, perl-format
 msgid "No relationship attributes found."
-msgstr "Geen verwantschapseigenschappen gevonden."
+msgstr "Geen relatie-eigenschappen gevonden."
 
 #: ../root/artist/index.tt:115
 #, perl-format
@@ -5160,7 +5160,7 @@ msgstr "Geen composities met dit etiket gevonden."
 #: ../root/relationship/linktype/tree.tt:58
 #, perl-format
 msgid "No {type0}-{type1} relationship types found."
-msgstr "Geen {type0}-{type1} verwantschapstypes gevonden."
+msgstr "Geen {type0}-{type1}relatie-types gevonden."
 
 #: ../root/elections/nominate.tt:1 ../root/elections/nominate.tt:3
 #, perl-format
@@ -5205,7 +5205,7 @@ msgstr "Let op:"
 msgid ""
 "Note: this currently only searches edits that add or edit relationships, "
 "created after 2011-05-16"
-msgstr "Let op: dit zoekt nu alleen naar bewerkingen die verwantschappen toevoegen of wijzigen en gecreëerd zijn na 16 mei 2011"
+msgstr "Let op: dit zoekt nu alleen naar bewerkingen die relaties toevoegen of wijzigen en gecreëerd zijn na 16 mei 2011"
 
 #: ../root/account/preferences.tt:44
 #, perl-format
@@ -5260,7 +5260,7 @@ msgstr "Oude opname"
 #: ../root/edit/details/historic/edit_relationship.tt:6
 #, perl-format
 msgid "Old relationships:"
-msgstr "Oude verwantschappen:"
+msgstr "Oude relaties:"
 
 #: ../root/edit/details/historic/merge_releases.tt:3
 #, perl-format
@@ -5469,7 +5469,7 @@ msgstr "Vul de artiesten van de nummers in"
 #: ../root/report/part_of_set_relationships.tt:3
 #, perl-format
 msgid "Part of Set Relationships"
-msgstr "Deel van een stelverwantschappen"
+msgstr "Deel van een stel-relaties"
 
 #: ../root/account/register.tt:29 ../root/account/reset_password.tt:10
 #: ../root/user/login.tt:24
@@ -5557,7 +5557,7 @@ msgstr "Voer alstublieft uw oude wachtwoord hieronder in, en daarna uw nieuwe wa
 msgid ""
 "Please first navigate to the page of the artist who you wish to relate  to "
 "recordings on this release and select \"use in relationship\""
-msgstr "Navigeer eerst naar de pagina van de artiest die u wilt relateren aan opnames op deze uitgave en selecteer „Gebruik in een verwantschap“."
+msgstr "Navigeer eerst naar de pagina van de artiest die u wilt relateren aan opnames op deze uitgave en selecteer „In een relatie gebruiken“."
 
 #: ../root/freedb/show.tt:48 ../root/freedb/show.tt:106
 #, perl-format
@@ -5689,14 +5689,14 @@ msgstr "Lees de <a href=\"{doc}\" target=\"_blank\">documentatie over hoesafbeel
 #: ../root/scripts/text_strings.tt:41
 #, perl-format
 msgid "Please select a relationship type."
-msgstr "Selecteer een verwantschapstype"
+msgstr "Selecteer een relatietype"
 
 #: ../root/scripts/text_strings.tt:40
 #, perl-format
 msgid ""
 "Please select a subtype of the currently selected relationship type. The "
 "selected relationship type is only used for grouping subtypes."
-msgstr "Selecteer een subtype van het nu gebruikte verwantschapstype. Het geselecteerde verwantschapstype wordt alleen gebruikt om subtypes te groeperen."
+msgstr "Selecteer een subtype van het nu gebruikte relatietype. Het geselecteerde relatietype wordt alleen gebruikt om subtypes te groeperen."
 
 #: ../root/edit/relationship/create_batch.tt:88
 #, perl-format
@@ -6018,12 +6018,12 @@ msgstr "Opnames waarvan de naam beginnen met „{index}“"
 #: ../root/report/recordings_with_earliest_release_relationships.tt:3
 #, perl-format
 msgid "Recordings with Earliest Release Relationships"
-msgstr "Opnames met eerste uitgaveverwantschappen."
+msgstr "Opnames met eerste uitgave-relaties"
 
 #: ../root/report/index.tt:70
 #, perl-format
 msgid "Recordings with earliest release relationships"
-msgstr "Opnames met eerste uitgaveverwantschappen"
+msgstr "Opnames met eerste uitgave-relaties"
 
 #: ../root/report/featuring_recordings.tt:1
 #: ../root/report/featuring_recordings.tt:3 ../root/report/index.tt:72
@@ -6092,7 +6092,7 @@ msgstr "Gerelateerde composities"
 #: ../root/relationship/linkattributetype/not_found.tt:1
 #, perl-format
 msgid "Relationship Attributes"
-msgstr "Verwantschapseigenschappen"
+msgstr "Relatie-eigenschappen"
 
 #: ../root/edit/relationship/create_batch.tt:30
 #: ../root/edit/relationship/create.tt:33
@@ -6100,44 +6100,44 @@ msgstr "Verwantschapseigenschappen"
 #: ../root/edit/relationship/edit.tt:59
 #, perl-format
 msgid "Relationship Details"
-msgstr "Verwantschapsdetails"
+msgstr "Relatiedetails"
 
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Relationship Type"
-msgstr "Verwantschapstype"
+msgstr "Relatietype"
 
 #: ../root/relationship/linktype/in_use.tt:1
 #: ../root/relationship/linktype/in_use.tt:3
 #, perl-format
 msgid "Relationship Type In Use"
-msgstr "Verwantschapstype in gebruik"
+msgstr "Relatietype in gebruik"
 
 #: ../root/layout/menu.tt:248 ../root/relationship/header.tt:2
 #: ../root/relationship/linktype/index.tt:1
 #, perl-format
 msgid "Relationship Types"
-msgstr "Verwantschapstypes"
+msgstr "Relatietypes"
 
 #: ../root/relationship/linkattributetype/in_use.tt:1
 #, perl-format
 msgid "Relationship attribute in use"
-msgstr "Verwantschapseigenschap in gebruik"
+msgstr "Relatie-eigenschap in gebruik"
 
 #: ../root/relationship/linkattributetype/in_use.tt:2
 #, perl-format
 msgid "Relationship attribute still in use"
-msgstr "Verwantschapseigenschap nog in gebruik"
+msgstr "Relatie-eigenschap nog in gebruik"
 
 #: ../root/admin/edit_user.tt:8
 #, perl-format
 msgid "Relationship editor"
-msgstr "Verwantschapsredacteur"
+msgstr "Relatieredacteur"
 
 #: ../root/user/privileged.tt:26
 #, perl-format
 msgid "Relationship editors"
-msgstr "Verwantschapsredacteurs"
+msgstr "Relatieredacteurs"
 
 #: ../root/user/privileged.tt:27
 #, perl-format
@@ -6146,7 +6146,7 @@ msgid ""
 "the database. If you would like to propose a new relationship, please do so "
 "through the {url|Style Council}. Relationship editors will only make changes"
 " that have been approved by the Style Council."
-msgstr "Verwantschapsredacteurs zijn gebruikers die verwantschapstypes in de gegevensbank kunnen toevoegen of bewerken. Als u een nieuwe verwantschap wilt voorstellen, moet dat via de {url|Stijlraad}. Verwantschapsredacteurs zullen alleen veranderingen doorvoeren die door de Stijlraad zijn goedgekeurd."
+msgstr "Relatieredacteurs zijn gebruikers die relatietypes in de gegevensbank kunnen toevoegen of bewerken. Als u een nieuwe relatie wilt voorstellen, moet dat via de {url|Stijlraad}. Relatieredacteurs zullen alleen veranderingen doorvoeren die door de Stijlraad zijn goedgekeurd."
 
 #: ../root/edit/details/add_relationship.tt:3
 #: ../root/edit/details/edit_relationship.tt:8
@@ -6154,7 +6154,7 @@ msgstr "Verwantschapsredacteurs zijn gebruikers die verwantschapstypes in de geg
 #: ../root/edit/details/remove_relationship.tt:3
 #, perl-format
 msgid "Relationship:"
-msgstr "Verwantschap:"
+msgstr "Relatie:"
 
 #: ../root/artist/header.tt:1 ../root/artist/relationships.tt:1
 #: ../root/artist/relationships.tt:4 ../root/label/header.tt:1
@@ -6170,13 +6170,13 @@ msgstr "Verwantschap:"
 #: ../root/work/relationships.tt:1 ../root/work/relationships.tt:3
 #, perl-format
 msgid "Relationships"
-msgstr "Verwantschappen"
+msgstr "Relaties"
 
 #: ../root/edit/details/historic/add_relationship.tt:3
 #: ../root/edit/details/remove_relationship_(historic).tt:3
 #, perl-format
 msgid "Relationships:"
-msgstr "Verwantschappen:"
+msgstr "Relaties:"
 
 #: ../root/cdtoc/attach_artist_releases.tt:34
 #: ../root/cdtoc/attach_filter_release.tt:47 ../root/cdtoc/lookup.tt:36
@@ -6300,7 +6300,7 @@ msgstr "Waarderingen van de uitgavegroep"
 #: ../root/release/relationships.tt:4
 #, perl-format
 msgid "Release group relationships"
-msgstr "Verwantschappen van de uitgavegroep"
+msgstr "Relaties van de uitgavegroep"
 
 #: ../root/release_group/layout.tt:1
 #, perl-format
@@ -6421,7 +6421,7 @@ msgstr "Uitgaves waarbij sommige mediumtypes ontbreken."
 #, perl-format
 msgid ""
 "Releases in the Cover Art Archive that still have cover art relationships"
-msgstr "Uitgaves in de Cover Art Archive die nog steeds verwantschappen hebben voor hoesafbeeldingen."
+msgstr "Uitgaves in de Cover Art Archive die nog steeds relaties hebben voor hoesafbeeldingen."
 
 #: ../root/report/index.tt:57 ../root/report/released_too_early.tt:1
 #: ../root/report/released_too_early.tt:3
@@ -6452,7 +6452,7 @@ msgstr "Uitgaves met meerdere Discogs-verwijzingen"
 #: ../root/report/index.tt:52
 #, perl-format
 msgid "Releases which have part of set relationships"
-msgstr "Uitgaves met deel van een stelverwantschappen"
+msgstr "Uitgaves met deel van een stel-relaties"
 
 #: ../root/report/index.tt:47
 #, perl-format
@@ -6469,7 +6469,7 @@ msgstr "Uitgaves die misschien moeten worden omgezet naar „diverse artiesten�
 #: ../root/report/releases_with_cc_links.tt:3
 #, perl-format
 msgid "Releases with Creative Commons Download relationships"
-msgstr "Uitgaves met Creative Commons downloadverwantschappen."
+msgstr "Uitgaves met Creative Commons downloadrelaties"
 
 #: ../root/report/index.tt:59
 #, perl-format
@@ -6633,19 +6633,19 @@ msgstr "Opname verwijderen"
 #: ../root/edit/relationship/delete.tt:1 ../root/edit/relationship/delete.tt:3
 #, perl-format
 msgid "Remove Relationship"
-msgstr "Verwantschap verwijderen"
+msgstr "Relatie verwijderen"
 
 #: ../root/relationship/linkattributetype/delete.tt:1
 #: ../root/relationship/linkattributetype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Attribute"
-msgstr "Verwantschapseigenschap verwijderen"
+msgstr "Relatie-eigenschap verwijderen"
 
 #: ../root/relationship/linktype/delete.tt:1
 #: ../root/relationship/linktype/delete.tt:3
 #, perl-format
 msgid "Remove Relationship Type"
-msgstr "Verwantschapstype verwijderen"
+msgstr "Relatietype verwijderen"
 
 #: ../root/release/delete.tt:2
 #, perl-format
@@ -7343,7 +7343,7 @@ msgstr "Onze excuses, we konden geen opname vinden met die MBID. U kunt ook prob
 #, perl-format
 msgid ""
 "Sorry, we could not find a relationship attribute with that MusicBrainz ID."
-msgstr "Excuus, we konden geen verwantschapseigenschap met die MusicBrainz ID vinden."
+msgstr "Excuus, we konden geen relatie-eigenschap met die MusicBrainz ID vinden."
 
 #: ../root/release_group/not_found.tt:4
 #, perl-format
@@ -7903,7 +7903,7 @@ msgstr "De volgende {count} gebruikersaccounts zijn robots:"
 #: ../root/user/privileged.tt:31
 #, perl-format
 msgid "The following {count} users are relationship editors:"
-msgstr "De volgende {count} gebruikers zijn verwantschapsredacteurs:"
+msgstr "De volgende {count} gebruikers zijn relatieredacteurs:"
 
 #: ../root/user/privileged.tt:37
 #, perl-format
@@ -7966,7 +7966,7 @@ msgstr "De opnames die zullen worden samengevoegd als u met de huidige samenvoeg
 msgid ""
 "The relationship type \"{type}\" can not be deleted because it is is still "
 "in use."
-msgstr "Het verwantschap type „{type}“ kan niet worden verwijderd omdat het nog steeds in gebruik is."
+msgstr "Het relatietype „{type}“ kan niet worden verwijderd omdat het nog steeds in gebruik is."
 
 #: ../root/search/error/internal-error.tt:3
 #, perl-format
@@ -8067,7 +8067,7 @@ msgid ""
 "at the bottom of the {alias_uri|aliases} tab and remove all existing "
 "{rel_uri|relationships} instead, which will allow ModBot to automatically "
 "remove this artist in the upcoming days."
-msgstr "Er zijn geen nummers, opnames, uitgavegroepen en uitgaves die alleen onder {name} worden vermeld. Als u {name} probeert te verwijderen, bewerk dan in plaats van dat alle vermeldingen onderaan de {alias_uri|tab aliassen} en verwijder alle bestaande {rel_uri|verwantschappen}, zodat ModBot deze artiest in de komende dagen automatisch kan verwijderen."
+msgstr "Er zijn geen nummers, opnames, uitgavegroepen en uitgaves die alleen onder {name} worden vermeld. Als u {name} probeert te verwijderen, bewerk dan in plaats van dat alle vermeldingen onderaan de {alias_uri|tab aliassen} en verwijder alle bestaande {rel_uri|relaties}, zodat ModBot deze artiest in de komende dagen automatisch kan verwijderen."
 
 #: ../root/label/subscriptions.tt:11
 #, perl-format
@@ -8079,7 +8079,7 @@ msgstr "Er zijn momenteel geen redacteurs geabonneerd op deze platenmaatschappij
 msgid ""
 "There are not currently any relationship types available between {types0} "
 "and {types1}."
-msgstr "Er zijn momenteel geen verwantschapstypes beschikbaar tussen {types0} en {ypes1}."
+msgstr "Er zijn momenteel geen relatietypes beschikbaar tussen {types0} en {ypes1}."
 
 #: ../root/label/subscriptions.tt:16
 #, perl-format
@@ -8183,7 +8183,7 @@ msgid ""
 "This artist has no relationships, recordings, releases or release groups, "
 "and will be removed automatically in the next few days. If this is not "
 "intended, please add more data to this artist."
-msgstr "Deze artiest heeft geen verwantschappen, opnames, uitgaves of uitgavegroepen en zal in de komende paar dagen worden verwijderd. Als dit niet de bedoeling is, voeg dan meer gegevens toe aan deze artiest."
+msgstr "Deze artiest heeft geen relaties, opnames, uitgaves of uitgavegroepen en zal in de komende paar dagen worden verwijderd. Voeg meer gegevens toe aan deze artiest als dit niet de bedoeling is."
 
 #: ../root/artist/tags.tt:2
 #, perl-format
@@ -8196,7 +8196,7 @@ msgid ""
 "This artist has relationships other than collaboration relationships, and "
 "cannot be split until these are removed. {relationships|View all "
 "relationships}."
-msgstr "Deze artiest heeft andere verwantschappen behalve de samenwerkingsverwantschap, en kan niet worden gesplitst tot deze zijn verwijderd. {relationships|Bekijk alle verwantschappen}."
+msgstr "Deze artiest heeft andere relaties behalve de samenwerkingsverwantschap, en kan niet worden gesplitst tot deze zijn verwijderd. {relationships|Bekijk alle relaties}."
 
 #: ../root/artist/works.tt:11
 #, perl-format
@@ -8316,7 +8316,7 @@ msgid ""
 "This form allows you to split {artist} into separate artists. When the edit "
 "is accepted, existing artist credits will be updated, and collaboration "
 "relationships will be removed"
-msgstr "Dit formulier laat u {artist} splitsen in afzonderlijke artiesten. Als de bewerking wordt doorgevoerd, worden bestaande artiesttoewijzingen bijgewerkt en samenwerkingsverwantschappen verwijderd."
+msgstr "Dit formulier laat u {artist} splitsen in afzonderlijke artiesten. Als de bewerking wordt doorgevoerd, worden bestaande artiestvermeldingen bijgewerkt en samenwerkingsrelaties verwijderd."
 
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
@@ -8364,7 +8364,7 @@ msgstr "Dit is het primaire alias voor deze locatie"
 msgid ""
 "This label cannot be removed because there are still releases, recordings "
 "and/or relationships attributed to it."
-msgstr "Deze platenmaatschappij kan niet worden verwijderd omdat er nog steeds uitgaves, opnames en/of verwantschappen aan verbonden zijn."
+msgstr "Deze platenmaatschappij kan niet worden verwijderd omdat er nog steeds uitgaves, opnames en/of relaties aan verbonden zijn."
 
 #: ../root/label/index.tt:12
 #, perl-format
@@ -8454,7 +8454,7 @@ msgstr "Deze opname heeft geen etiketten."
 #: ../root/edit/relationship/edit.tt:139
 #, perl-format
 msgid "This relationship has ended."
-msgstr "Deze verwantschap is beëindigd."
+msgstr "Deze relatie is beëindigd."
 
 #: ../root/release/edit/information.tt:111
 #, perl-format
@@ -8466,7 +8466,7 @@ msgstr "Deze uitgave heeft geen streepjescode"
 msgid ""
 "This release group cannot be removed, because there are still releases, "
 "tracks and/or relationships attributed to it."
-msgstr "Deze uitgavegroep kan niet worden verwijderd, omdat er nog steeds uitgaves, nummers en/of verwantschappen aan gekoppeld zijn."
+msgstr "Deze uitgavegroep kan niet worden verwijderd, omdat er nog steeds uitgaves, nummers en/of relaties aan gekoppeld zijn."
 
 #: ../root/release_group/tags.tt:2
 #, perl-format
@@ -8532,7 +8532,7 @@ msgid ""
 " If you find that an artist here is indeed a person, change its type. If it "
 "is not, please make sure that all the relationships are correct and make "
 "sense."
-msgstr "Dit rapport toont artiesten van het type <em>onbekend</em> of <em>groep</em> die personen zouden kunnen zijn. Dit is gebaseerd op alle verwantschappen behalve „samenwerking“. Een artiest verschijnt hier bijvoorbeeld als het bekend staat als lid van een andere artiest. Verander het type als u weet dat deze artiest inderdaad een persoon is. Controleer of alle verwantschappen kloppen en logisch zijn als de artiest geen persoon is."
+msgstr "Dit rapport toont artiesten van het type <em>onbekend</em> of <em>groep</em> die personen zouden kunnen zijn. Dit is gebaseerd op alle relaties behalve „samenwerking“. Een artiest verschijnt hier bijvoorbeeld als het bekend staat als lid van een andere artiest. Verander het type als u weet dat deze artiest inderdaad een persoon is. Controleer of alle relaties kloppen en logisch zijn als de artiest geen persoon is."
 
 #: ../root/report/artists_that_may_be_groups.tt:6
 #, perl-format
@@ -8542,7 +8542,7 @@ msgid ""
 "listed as members. If you find that an artist here is indeed a group, change"
 " its type. If it is not, please make sure that the \"member of\" "
 "relationships are in the right direction and are correct."
-msgstr "Dit rapport toont artiesten van het type <em>onbekend</em> of <em>persoon</em> maar misschien een <em>groep</em> zijn omdat ze andere artiesten als lid hebben. Verander het type als de artiest inderdaad een groep is. Controleer anders of de „lid van“ verwantschappen correct zijn en in de juiste richting staan."
+msgstr "Dit rapport toont artiesten van het type <em>onbekend</em> of <em>persoon</em> maar misschien een <em>groep</em> zijn omdat ze andere artiesten als lid hebben. Verander het type als de artiest inderdaad een groep is. Controleer anders of de „lid van“ relaties correct zijn en in de juiste richting staan."
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:6
 #, perl-format
@@ -8560,7 +8560,7 @@ msgid ""
 "collaboration, it should be split if possible (see {how_to_split_artists|How"
 " to Split Artists}). If it is a collaboration with its own name and can't be"
 " split, collaboration relationships should be added to it."
-msgstr "Dit rapport toont artiesten met „&“ in de naam maar geen lid- of samenwerkingsverwantschap. Als de artiest doorgaans als groep wordt gezien moeten er ledenverwantschappen worden toegevoegd. Als het een kort bestaande samenwerking is, moet het indien mogelijk worden gesplitst (zie {how_to_split_artists|artiesten splitsen}). Als het een samenwerking met een eigen naam en niet kan worden gesplitst, moeten er samenwerkingsverwantschappen worden toegevoegd."
+msgstr "Dit rapport toont artiesten met „&“ in de naam maar geen lid- of samenwerkingsrelatie. Als de artiest doorgaans als groep wordt gezien moeten er ledenrelaties worden toegevoegd. Als het een kort bestaande samenwerking is, moet het indien mogelijk worden gesplitst (zie {how_to_split_artists|artiesten splitsen}). Als het een samenwerking met een eigen naam en niet kan worden gesplitst, moeten er samenwerkingsrelaties worden toegevoegd."
 
 #: ../root/report/collaboration_relationships.tt:4
 #, perl-format
@@ -8569,7 +8569,7 @@ msgid ""
 "relationships. If the collaboration has its own independent name, do "
 "nothing. If it is in a format like \"X with Y\" or \"X & Y\", you should "
 "probably split it. See {how_to_split_artists|How to Split Artists}."
-msgstr "Dit rapport toont artiesten die een samenwerkingsverwantschap hebben maar geen URL-verwantschappen. Als de samenwerking zijn eigen unieke naam heeft moet er niets gebeuren. Als het lijkt op „X met Y“ of „X & Y“ moet de artiest waarschijnlijk gesplitst worden. Zie {how_to_split_artists|artiesten splitsen}."
+msgstr "Dit rapport toont artiesten die een samenwerkingsverwantschap hebben maar geen URL-relaties. Als de samenwerking zijn eigen unieke naam heeft moet er niets gebeuren. Als het lijkt op „X met Y“ of „X & Y“ moet de artiest waarschijnlijk gesplitst worden. Zie {how_to_split_artists|artiesten splitsen}."
 
 #: ../root/report/superfluous_data_tracks.tt:6
 #, perl-format
@@ -8639,7 +8639,7 @@ msgid ""
 " they're not, the relationship should be removed. Please, do not merge "
 "recordings blindly just because the lengths fit, and do not merge recordings"
 " with very different times!"
-msgstr "Dit rapport toont opnames met het verouderde verwantschapstype „vroegste uitgave“. Als deze opnames echt hetzelfde zijn moeten ze worden samengevoegd. Als ze niet hetzelfde zijn moet de verwantschap worden verwijderd. Voeg geen opnames samen alleen omdat ze dezelfde lengte hebben, en zeker niet als de opnames niet even lang zijn!"
+msgstr "Dit rapport toont opnames met het verouderde relatietype „vroegste uitgave“. Als deze opnames echt hetzelfde zijn moeten ze worden samengevoegd. Als ze niet hetzelfde zijn moet de relatie worden verwijderd. Voeg geen opnames samen alleen omdat ze dezelfde lengte hebben, en zeker niet als de opnames niet even lang zijn!"
 
 #: ../root/report/featuring_recordings.tt:6
 #, perl-format
@@ -8669,7 +8669,7 @@ msgid ""
 "them. If the releases are discs linked with \"part of set\" relationships, "
 "you might want to merge them too into one multi-disc release (see "
 "{how_to_merge_releases|How to Merge Releases})."
-msgstr "Dit rapport toont uitgavegroepen met uitgaves die gekoppeld zijn aan uitgaves in andere uitgavegroepen met deel van een set of transcriptie verwantschappen. Als er hier een paar van uitgavegroepen tussen staat moeten deze waarschijnlijk samengevoegd worden. Als de uitgaves media zijn die met deel van een set verwantschappen gekoppeld zijn, moeten ze misschien ook samengevoegd worden in een uitgave met meerdere media. Zie {how_to_merge_releases|Hoe uitgaves samen te voegen}."
+msgstr "Dit rapport toont uitgavegroepen met uitgaves die gekoppeld zijn aan uitgaves in andere uitgavegroepen met deel van een set of transcriptie relaties. Als er hier een paar uitgavegroepen tussen staat moeten deze waarschijnlijk samengevoegd worden. Als de uitgaves media zijn die met deel van een set-relatie gekoppeld zijn, moeten ze misschien ook samengevoegd worden in een uitgave met meerdere media. Zie {how_to_merge_releases|Hoe uitgaves samen te voegen}."
 
 #: ../root/report/releases_with_unlikely_language_script.tt:6
 #, perl-format
@@ -8720,7 +8720,7 @@ msgstr "Dit rapport toont uitgaves waarvan het schrift niet is ingesteld. Als u 
 msgid ""
 "This report shows releases that still have Creative Commons Download "
 "relationships."
-msgstr "Dit rapport toont uitgaves die nog steeds Creative Commons download verwantschappen hebben."
+msgstr "Dit rapport toont uitgaves die nog steeds Creative Commons download relaties hebben."
 
 #: ../root/report/part_of_set_relationships.tt:6
 #, perl-format
@@ -8731,7 +8731,7 @@ msgid ""
 " releases}. If the releases are not really part of a set (for example, if "
 "they are independently-released volumes in a series) just remove the "
 "relationship."
-msgstr "Dit rapport toont uitgaves die nog steeds de verouderde „deel van een set“ verwantschap hebben en waarschijnlijk samengevoegd moeten worden. Zie de documentatie voor {how_to_merge_releases|het samenvoegen van uitgaves} voor instructies. Als de uitgaves niet een deel van een set zijn (bijvoorbeeld omdat het onafhankelijk van elkaar uitgebrachte delen van een serie zijn) kan de verwantschap gewoon verwijderd worden."
+msgstr "Dit rapport toont uitgaves die nog steeds de verouderde „deel van een set“ relatie hebben en waarschijnlijk samengevoegd moeten worden. Zie de documentatie voor {how_to_merge_releases|het samenvoegen van uitgaves} voor instructies. Als de uitgaves niet een deel van een set zijn (bijvoorbeeld omdat het onafhankelijk van elkaar uitgebrachte delen van een serie zijn) kan de relatie gewoon verwijderd worden."
 
 #: ../root/report/some_formats_unset.tt:6
 #, perl-format
@@ -8753,7 +8753,7 @@ msgstr "Dit rapport laat uitgaves zien die (disc n) of (bonus disc) in de titel 
 msgid ""
 "This report shows releases which have artwork in the Cover Ar Archive, but "
 "still have a cover art relationship (pointing to a URL)."
-msgstr "Dit rapport laat uitgaves zien die hoesafbeeldingen in de Cover Art Archive hebben, maar nog steeds verwantschappen voor hoesafbeeldingen hebben die naar een URL verwijzen."
+msgstr "Dit rapport laat uitgaves zien die hoesafbeeldingen in de Cover Art Archive hebben, maar nog steeds relaties voor hoesafbeeldingen hebben die naar een URL verwijzen."
 
 #: ../root/report/cat_no_looks_like_asin.tt:6
 #, perl-format
@@ -8762,7 +8762,7 @@ msgid ""
 "This is almost always wrong: ASINs are just Amazon's entries for the "
 "releases and should be linked to the release with an Amazon URL relationship"
 " instead."
-msgstr "Dit rapport toont uitgaves die catalogusnummers hebben die lijken op ASIN's van Amazon. Dit is bijna altijd verkeerd: ASIN's zijn alleen verwijzingen naar uitgaves op Amazon en moeten aan een uitgave op MusicBrainz worden gekoppeld door middel van een Amazon URL verwantschap."
+msgstr "Dit rapport toont uitgaves die catalogusnummers hebben die lijken op ASIN's van Amazon. Dit is bijna altijd verkeerd: ASIN's zijn alleen verwijzingen naar uitgaves op Amazon en moeten aan een uitgave op MusicBrainz worden gekoppeld door middel van een Amazon URL-relatie."
 
 #: ../root/report/released_too_early.tt:6
 #, perl-format
@@ -8797,7 +8797,7 @@ msgid ""
 " the translation/transliteration relationship to an original version. This "
 "could be because the original version is missing, or just that the release "
 "status is set wrong."
-msgstr "Dit rapport toont uitgaves met de status Pseudo-uitgave die niet met een vertaling of transcriptie verwantschap aan de originele uitgave zijn gekoppeld. Dit kan zijn omdat de originele uitgave ontbreekt of dat de status van de uitgave verkeerd is ingesteld."
+msgstr "Dit rapport toont uitgaves met de status Pseudo-uitgave die niet met een vertaling of transcriptie-relatie aan de originele uitgave zijn gekoppeld. Dit kan zijn omdat de originele uitgave ontbreekt of dat de status van de uitgave verkeerd is ingesteld."
 
 #: ../root/release/merge.tt:88
 #, perl-format
@@ -8831,7 +8831,7 @@ msgstr "Deze assistent laat u {release} in een andere uitgave samenvoegen."
 msgid ""
 "This work has no relationships and will be removed automatically in the next"
 " few days. If this is not intended, please add relationships to this work."
-msgstr "Deze compositie heeft geen verwantschappen en zal in de komende dagen automatisch verwijderd worden. Als dit niet de bedoeling is, voeg dan verwantschappen toe aan deze compositie."
+msgstr "Deze compositie heeft geen relaties en zal in de komende dagen automatisch verwijderd worden. Voeg relaties toe aan deze compositie als dit niet de bedoeling is."
 
 #: ../root/work/tags.tt:2
 #, perl-format
@@ -9224,7 +9224,7 @@ msgstr "URL niet gevonden"
 #: ../root/url/relationships.tt:1
 #, perl-format
 msgid "URL Relationships"
-msgstr "URL-verwantschappen"
+msgstr "URL-relaties"
 
 #: ../root/components/common-macros.tt:449 ../root/edit/details/edit_url.tt:9
 #: ../root/edit/details/edit_url.tt:15
@@ -9330,7 +9330,7 @@ msgstr "Aantal keren gebruikt"
 #: ../root/components/common-macros.tt:460
 #, perl-format
 msgid "Use in a relationship"
-msgstr "In een verwantschap gebruiken"
+msgstr "In een relatie gebruiken"
 
 #: ../root/main/index.tt:104
 #, perl-format
@@ -9432,7 +9432,7 @@ msgstr "Versie:"
 #: ../root/layout/sidebar/sidebar-favicons.tt:27
 #, perl-format
 msgid "View all relationships"
-msgstr "Bekijk alle verwantschappen"
+msgstr "Alle relaties bekijken"
 
 #: ../root/annotation/common.tt:21
 #, perl-format
@@ -10048,7 +10048,7 @@ msgstr "U kunt geen cd-beginsel beginnen als u bent aangemeld bij MusicBrainz. G
 msgid ""
 "You cannot remove the relationship attribute \"{type}\" as it is still in "
 "use by other relationships."
-msgstr "U kunt de verwantschapseigenschap „{type}“ niet verwijderen, omdat het nog steeds wordt gebruikt door andere verwantschappen."
+msgstr "U kunt de relatie-eigenschap „{type}“ niet verwijderen, omdat het nog steeds wordt gebruikt door andere relaties."
 
 #: ../root/elections/show.tt:79
 #, perl-format
@@ -10639,7 +10639,7 @@ msgstr "{doc|disc-id}"
 #: ../root/user/profile.tt:47
 #, perl-format
 msgid "{doc|Relationship Editor}"
-msgstr "{doc|Verwantschapsredacteur}"
+msgstr "{doc|Relatieredacteur}"
 
 #: ../root/user/profile.tt:48
 #, perl-format
@@ -10677,7 +10677,7 @@ msgstr "{link} heeft geen waarderingen"
 #: ../root/components/relationships.tt:69
 #, perl-format
 msgid "{link} has no relationships."
-msgstr "{link} heeft geen verwantschappen."
+msgstr "{link} heeft geen relaties."
 
 #: ../root/artist/details.tt:9 ../root/label/details.tt:9
 #: ../root/recording/details.tt:9 ../root/release/details.tt:9
@@ -10794,12 +10794,12 @@ msgstr "{release} is niet toegevoegd aan collecties."
 #: ../root/relationship/linktype/tree.tt:34
 #, perl-format
 msgid "{type0}-{type1} Relationship Types"
-msgstr "{type0}-{type1} Verwantschapstypes"
+msgstr "{type0}-{type1}-relatietypes"
 
 #: ../root/relationship/linktype/tree.tt:40
 #, perl-format
 msgid "{type0}-{type1} relationship types"
-msgstr "{type0}-{type1} verwantschapstypes"
+msgstr "{type0}-{type1}-relatietypes"
 
 #: ../root/work/layout.tt:1
 #, perl-format
@@ -11003,7 +11003,7 @@ msgstr "Ongeldige objecten"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:326
 msgid "A relationship requires 2 different entities"
-msgstr "Een verwantschap heeft twee verschillende objecten nodig"
+msgstr "Een relatie heeft twee verschillende objecten nodig"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:430
 msgid "Release not found"
@@ -11042,7 +11042,7 @@ msgstr "Deze opname heeft deze ISRC al"
 #: ../lib/MusicBrainz/Server/Controller/Relationship/LinkType.pm:48
 #, perl-brace-format
 msgid "'{types}' is not a valid pair of types for relationships."
-msgstr "„{types}“ is geen geldig paar verwantschapstypes."
+msgstr "„{types}“ is geen geldig paar relatietypes."
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:320
 msgid "This release is already in the selected release group"
@@ -11125,7 +11125,7 @@ msgstr "Er is al een cd-beginsel met deze disc-id"
 #: ../lib/MusicBrainz/Server/Data/LinkType.pm:149
 #, perl-brace-format
 msgid "{t0}-{t1} relationships"
-msgstr "{t0}-{t1}-verwantschappen"
+msgstr "{t0}-{t1}-relaties"
 
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:180
 msgid "Total"
@@ -11167,7 +11167,7 @@ msgstr "Disc-id toevoegen"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLink.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Create.pm:22
 msgid "Add relationship"
-msgstr "Verwantschap toevoegen"
+msgstr "Relatie toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:13
@@ -11196,7 +11196,7 @@ msgstr "Artiest van het nummer veranderen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLink.pm:17
 msgid "Edit relationship (historic)"
-msgstr "Bewerk verwantschap (historisch)"
+msgstr "Relatie bewerken (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseAttrs.pm:15
 msgid "Edit release attributes (historic)"
@@ -11258,7 +11258,7 @@ msgstr "Alias van platenmaatschappij verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLink.pm:10
 msgid "Remove relationship (historic)"
-msgstr "Verwantschap verwijderen (historisch)"
+msgstr "Relatie verwijderen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
@@ -11331,39 +11331,39 @@ msgstr "ISRC verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship.pm:7
 msgid "Relationship"
-msgstr "Verwantschap"
+msgstr "Relatie"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkAttribute.pm:13
 msgid "Add relationship attribute"
-msgstr "Verwantschapseigenschap toevoegen"
+msgstr "Relatie-eigenschap toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkType.pm:13
 msgid "Add relationship type"
-msgstr "Verwantschapstype toevoegen"
+msgstr "Relatietype toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Delete.pm:25
 msgid "Remove relationship"
-msgstr "Verwantschap verwijderen"
+msgstr "Relatie verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Edit.pm:28
 msgid "Edit relationship"
-msgstr "Bewerk verwantschap"
+msgstr "Relatie bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkAttribute.pm:14
 msgid "Edit relationship attribute"
-msgstr "Bewerk verwantschapseigenschap "
+msgstr "Relatie-eigenschap bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkType.pm:14
 msgid "Edit relationship type"
-msgstr "Bewerk verwantschapstype"
+msgstr "Relatietype bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkAttribute.pm:13
 msgid "Remove relationship attribute"
-msgstr "Verwantschapseigenschap verwijderen"
+msgstr "Relatie-eigenschap verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkType.pm:13
 msgid "Remove relationship type"
-msgstr "Verwantschapstype verwijderen"
+msgstr "Relatietype verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddCoverArt.pm:18
 msgid "Add cover art"
@@ -11610,15 +11610,15 @@ msgstr "Linktype is vereist."
 msgid ""
 "This relationship type is used to group other relationships. Please select a"
 " subtype of the currently selected relationship type."
-msgstr "Dit verwantschapstype word gebruikt om verwantschappen te groeperen. Selecteer een subtype van het nu geselecteerde verwantschapstype."
+msgstr "Dit relatietype word gebruikt om andere relaties te groeperen. Selecteer een subtype van het nu geselecteerde relatietype."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:95
 msgid "This relationship type is deprecated."
-msgstr "Deze verwantschap is verouderd."
+msgstr "Deze relatie is verouderd."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:115
 msgid "This attribute is not supported for the selected relationship type."
-msgstr "Deze eigenschap wordt niet ondersteund voor het geselecteerde verwantschapstype."
+msgstr "Deze eigenschap wordt niet ondersteund voor het geselecteerde relatietype."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:126
 msgid "This attribute is required."
