@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-14 16:17+0000\n"
+"PO-Revision-Date: 2012-08-15 00:47+0000\n"
 "Last-Translator: Nozomu Kurasawa <email address hidden>\n"
 "Language-Team: Japanese (http://www.transifex.com/projects/p/musicbrainz/language/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -716,7 +716,7 @@ msgstr "リリースを追加"
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Create.pm:23
 #, perl-format
 msgid "Add release group"
-msgstr ""
+msgstr "リリースグループを追加"
 
 #: ../root/report/duplicate_artists.tt:51
 #, perl-format
@@ -758,7 +758,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Work/Create.pm:16
 #, perl-format
 msgid "Add work"
-msgstr ""
+msgstr "ワークを追加"
 
 #: ../root/work/add_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAlias.pm:15
@@ -3632,7 +3632,7 @@ msgstr ""
 #: ../root/doc/edit_types.tt:20 ../lib/MusicBrainz/Server/Edit/Historic.pm:12
 #, perl-format
 msgid "Historic"
-msgstr ""
+msgstr "歴史的"
 
 #: ../root/user/profile.tt:90
 #, perl-format
@@ -6263,7 +6263,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
 #, perl-format
 msgid "Release group"
-msgstr ""
+msgstr "リリースグループ"
 
 #: ../root/release_group/edits.tt:20 ../root/release_group/header.tt:13
 #, perl-format
@@ -10961,16 +10961,16 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:304
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:418
 msgid "Invalid arguments"
-msgstr ""
+msgstr "不正な引数です"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:318
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:424
 msgid "Invalid entities"
-msgstr ""
+msgstr "不正なエンティティです"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:326
 msgid "A relationship requires 2 different entities"
-msgstr ""
+msgstr "関連には、2つの異なるエンティティが必要です"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:430
 msgid "Release not found"
@@ -10983,11 +10983,11 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:541
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:549
 msgid "Invalid type"
-msgstr ""
+msgstr "不正なタイプです"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:555
 msgid "Entity not found"
-msgstr ""
+msgstr "エンティティが見つかりません"
 
 #: ../lib/MusicBrainz/Server/Controller/FreeDB.pm:37
 #, perl-brace-format
@@ -10996,7 +10996,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/ISRC.pm:58
 msgid "This ISRC does not exist"
-msgstr ""
+msgstr "この ISRC は存在しません"
 
 #: ../lib/MusicBrainz/Server/Controller/ISWC.pm:56
 msgid "This ISWC does not exist"
@@ -11013,7 +11013,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:320
 msgid "This release is already in the selected release group"
-msgstr ""
+msgstr "このリリースは、既に選択したリリースグループ内にあります"
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:638
 msgid ""
@@ -11022,20 +11022,20 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Role/Annotation.pm:170
 msgid "The old and new annotation ids must be unique, positive integers."
-msgstr ""
+msgstr "新旧の注釈IDは、ユニークな正の整数でなければなりません。"
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:244
 #, perl-brace-format
 msgid "The editor {name} has no email address attached to their account."
-msgstr ""
+msgstr "この編集者 {name} は、アカウントに email アドレスを関連付けていません。"
 
 #: ../lib/MusicBrainz/Server/Controller/User.pm:272
 msgid "Your message could not be sent"
-msgstr ""
+msgstr "あなたのメッセージを送信できません"
 
 #: ../lib/MusicBrainz/Server/Controller/WS/2/DiscID.pm:87
 msgid "Invalid TOC"
-msgstr ""
+msgstr "不正なTOCです"
 
 #: ../lib/MusicBrainz/Server/Controller/Work.pm:111
 msgid "This ISWC already exists for this work"
@@ -11043,11 +11043,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:106
 msgid "No title provided"
-msgstr ""
+msgstr "タイトルを入力していません"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:109
 msgid "No artist names provided"
-msgstr ""
+msgstr "アーティスト名を入力していません"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:112
 msgid "Not all tracks specify an artist"
@@ -11067,11 +11067,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:124
 msgid "Missing disc ID"
-msgstr ""
+msgstr "ディスクIDがありません。"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:127
 msgid "Disc ID does match parsed TOC"
-msgstr ""
+msgstr "解析したTOCとディスクIDが一致しません"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:130
 msgid "Number of submitted tracks does not match track count in TOC"
@@ -11079,15 +11079,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:133
 msgid "Invalid barcode"
-msgstr ""
+msgstr "不正なバーコードです"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:142
 msgid "There are already MusicBrainz releases with this disc ID"
-msgstr ""
+msgstr "このディスクIDに対する MusicBrainz リリースが、既にあります"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:149
 msgid "There is already a CD stub with this disc ID"
-msgstr ""
+msgstr "このディスクIDに対するCDスタブが、既にあります"
 
 #: ../lib/MusicBrainz/Server/Data/LinkType.pm:149
 #, perl-brace-format
@@ -11100,15 +11100,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAnnotation.pm:12
 msgid "Add artist annotation"
-msgstr ""
+msgstr "アーティストの注釈を追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Create.pm:18
 msgid "Add artist"
-msgstr ""
+msgstr "アーティストを追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Delete.pm:11
 msgid "Remove artist"
-msgstr ""
+msgstr "アーティストを削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/DeleteAlias.pm:14
 msgid "Remove artist alias"
@@ -11139,11 +11139,11 @@ msgstr "関連を追加"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:13
 msgid "Add release annotation"
-msgstr ""
+msgstr "リリースの注釈を追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseEvents.pm:11
 msgid "Add release events (historic)"
-msgstr ""
+msgstr "リリースイベントを追加 (歴史的)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrack.pm:11
 msgid "Add track (historic)"
@@ -11151,7 +11151,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
 msgid "Add track"
-msgstr ""
+msgstr "トラックを追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeArtistQuality.pm:10
 msgid "Change artist quality (historic)"
@@ -11246,7 +11246,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAnnotation.pm:12
 msgid "Add label annotation"
-msgstr ""
+msgstr "レーベルの注釈を追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
 msgid "Add label"
@@ -11254,7 +11254,7 @@ msgstr "レーベルを追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:29
 msgid "Edit label"
-msgstr ""
+msgstr "レーベルを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
 msgid "Merge labels"
@@ -11346,11 +11346,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
-msgstr ""
+msgstr "リリースを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:28
 msgid "Edit release artist"
-msgstr ""
+msgstr "リリースアーティストを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:140
 msgid ""
@@ -11359,7 +11359,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditBarcodes.pm:19
 msgid "Edit barcodes"
-msgstr ""
+msgstr "バーコードを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditCoverArt.pm:19
 msgid "Edit cover art"
@@ -11367,7 +11367,7 @@ msgstr "カバーアートを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
-msgstr ""
+msgstr "リリースレーベルを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
@@ -11383,11 +11383,11 @@ msgstr "メディアを並べ替え"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
-msgstr ""
+msgstr "リリースグループの注釈を追加"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Edit.pm:34
 msgid "Edit release group"
-msgstr ""
+msgstr "リリースグループを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
@@ -11395,7 +11395,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
-msgstr ""
+msgstr "Wiki ドキュメント"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
@@ -11403,7 +11403,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
-msgstr ""
+msgstr "ワークの注釈を追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddISWCs.pm:22
 msgid "Add ISWCs"
@@ -11411,19 +11411,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
-msgstr ""
+msgstr "ワークを削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/DeleteAlias.pm:15
 msgid "Remove work alias"
-msgstr ""
+msgstr "ワークの別名を削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:25
 msgid "Edit work"
-msgstr ""
+msgstr "ワークを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
-msgstr ""
+msgstr "ワークをマージ"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/RemoveISWC.pm:16
 msgid "Remove ISWC"
@@ -11530,12 +11530,12 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid "This is not a valid ISRC"
-msgstr ""
+msgstr "有効なISRCではありません"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:12
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:16
 msgid "This is not a valid ISWC"
-msgstr ""
+msgstr "有効なISWCではありません"
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
@@ -11543,11 +11543,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/Length.pm:31
 msgid "Not a valid time. Must be in the format MM:SS"
-msgstr ""
+msgstr "有効な時間ではありません。形式は MM:SS としてください"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:21
 msgid "Enter a valid url e.g. \"http://google.com/\""
-msgstr ""
+msgstr "有効な URL を入力してください。 例: \"http://google.com/\""
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
