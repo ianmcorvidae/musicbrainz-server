@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-15 15:58+0000\n"
+"PO-Revision-Date: 2012-08-15 16:11+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -3173,7 +3173,7 @@ msgstr "schreef {additional:aanvullend}"
 msgid ""
 "{additional:additionally} {assistant} {associate} programmed {instrument:% "
 "on}"
-msgstr ""
+msgstr "programmeerde {additional:aanvullend|additionally:aanvullend} {assitant:assisterend} {associate:geassocieerd} {instrument:% op}"
 
 #: DB:link_type/link_phrase:140 DB:link_type/link_phrase:31
 #: DB:link_type/short_link_phrase:140 DB:link_type/short_link_phrase:31
@@ -3241,16 +3241,16 @@ msgstr "{additional:aanvullend|additionally:aanvullend} {instrument:instrument} 
 #: DB:link_type/short_link_phrase:57 DB:link_type/short_link_phrase:169
 msgid ""
 "{additional:additionally} {translated:translated|wrote} the libretto for"
-msgstr ""
+msgstr "{translated:vertaalde|schreef} {additional:aanvullend|additionally:aanvullend} het libretto van"
 
 #: DB:link_type/short_link_phrase:56 DB:link_type/short_link_phrase:165
 msgid "{additional:additionally} {translated:translated|wrote} the lyrics for"
-msgstr ""
+msgstr "{translated:vertaalde|schreef} {additional:aanvullend|additionally:aanvullend} de tekst van"
 
 #: DB:link_type/link_phrase:294 DB:link_type/link_phrase:296
 #: DB:link_type/link_phrase:298
 msgid "{additional:additionally} {vocal} vocal arranged"
-msgstr ""
+msgstr "arrangeerde {additional:aanvullende|additionally:aanvullende} {vocal:vokaal} vocalen voor"
 
 #: DB:link_type/reverse_link_phrase:293 DB:link_type/reverse_link_phrase:295
 #: DB:link_type/reverse_link_phrase:297
@@ -3368,7 +3368,7 @@ msgstr ""
 #: DB:link_type/link_phrase:44 DB:link_type/link_phrase:148
 #: DB:link_type/reverse_link_phrase:44 DB:link_type/reverse_link_phrase:148
 msgid "{additional} {guest} {solo} {instrument}"
-msgstr ""
+msgstr "{additional:aanvullend} {guest:gast} {solo:solo} {instrument:instrument}"
 
 #: DB:link_type/link_phrase:60 DB:link_type/link_phrase:149
 #: DB:link_type/reverse_link_phrase:60 DB:link_type/reverse_link_phrase:149
@@ -3384,11 +3384,11 @@ msgstr "{aanvullend} {instrument} arrangeur"
 #: DB:link_type/link_phrase:299 DB:link_type/reverse_link_phrase:39
 #: DB:link_type/reverse_link_phrase:166 DB:link_type/reverse_link_phrase:299
 msgid "{additional} {instrument} instrumentation"
-msgstr ""
+msgstr "{additional:aanvullende} {instrument:instrument} instrumentatie"
 
 #: DB:link_type/link_phrase:69
 msgid "{additional} {instrument} samples from"
-msgstr ""
+msgstr "{additional:aanvullende} {instrument:instrument} samples van"
 
 #: DB:link_type/link_phrase:102
 msgid "{additional} {minor} collaborator on"
@@ -3396,7 +3396,7 @@ msgstr "{additional:aanvullend} {minor:secundair} samenwerker op"
 
 #: DB:link_type/reverse_link_phrase:102
 msgid "{additional} {minor} collaborators"
-msgstr ""
+msgstr "{additional:aanvullende} {minor:secundaire} samenwerkers"
 
 #: DB:link_type/link_phrase:45 DB:link_type/link_phrase:150
 #: DB:link_type/reverse_link_phrase:45 DB:link_type/reverse_link_phrase:150
