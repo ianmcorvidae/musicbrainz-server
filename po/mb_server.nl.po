@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-15 13:57+0000\n"
+"PO-Revision-Date: 2012-08-15 14:19+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -425,7 +425,7 @@ msgstr "Accepteren"
 #: ../root/edit/index.tt:65
 #, perl-format
 msgid "Accept edit"
-msgstr "Accepteer bewerking"
+msgstr "Bewerking accepteren"
 
 #: ../root/components/common-macros.tt:528
 #, perl-format
@@ -1253,12 +1253,12 @@ msgstr "Nationaliteit"
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
 msgid "Artist Credit:"
-msgstr "Toeschrijving aan artiest:"
+msgstr "Vermelding van artiest:"
 
 #: ../root/artist/aliases.tt:8 ../root/artist/edit_form.tt:59
 #, perl-format
 msgid "Artist Credits"
-msgstr "Toeschrijvingen aan artiesten"
+msgstr "Vermelding van artiesten"
 
 #: ../root/edit/details/add_medium.tt:43
 #, perl-format
@@ -1288,12 +1288,12 @@ msgstr "Abonnementen op artiesten"
 #: ../root/components/forms.tt:265
 #, perl-format
 msgid "Artist as credited"
-msgstr "Artiest zoals toegeschreven"
+msgstr "Artiest zoals vermeld"
 
 #: ../root/release/edit/tracklist.tt:45
 #, perl-format
 msgid "Artist as credited on this track"
-msgstr "Artiesten zoals ze op dit nummer genoemd worden"
+msgstr "Artiesten zoals ze op dit nummer vermeld worden"
 
 #: ../root/components/filter-form.tt:11
 #, perl-format
@@ -1303,7 +1303,7 @@ msgstr "Vermelding van de artiest:"
 #: ../root/edit/details/edit_medium.tt:223
 #, perl-format
 msgid "Artist credits:"
-msgstr "Toeschrijvingen aan artiesten:"
+msgstr "Vermeldingen van artiesten:"
 
 #: ../root/components/forms.tt:249 ../root/release/edit/tracklist.tt:44
 #, perl-format
@@ -2760,32 +2760,32 @@ msgstr "Bewerking #{id} - {name}"
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Edit All"
-msgstr "Bewerk alles"
+msgstr "Alles bewerken"
 
 #: ../root/label/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Annotation"
-msgstr "Bewerk aantekening"
+msgstr "Aantekening bewerken"
 
 #: ../root/artist/edit.tt:17
 #, perl-format
 msgid "Edit Artist"
-msgstr "Bewerk artiest"
+msgstr "Artiest bewerken"
 
 #: ../root/artist/edit_alias.tt:1
 #, perl-format
 msgid "Edit Artist Alias"
-msgstr "Bewerk de alias van de artiest"
+msgstr "Alias van de artiest bewerken"
 
 #: ../root/artist/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Artist Annotation"
-msgstr "Bewerk de aantekening van de artiest"
+msgstr "Aantekening van de artiest bewerken"
 
 #: ../root/artist/edit_credit.tt:15 ../root/artist/edit_credit.tt:20
 #, perl-format
 msgid "Edit Artist Credit"
-msgstr "Bewerk toeschrijvingen aan artiesten"
+msgstr "Vermeldingen van artiesten bewerken"
 
 #: ../root/collection/edit.tt:1
 #, perl-format
@@ -2795,22 +2795,22 @@ msgstr "Collectie bewerken"
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
 msgid "Edit Cover Art"
-msgstr "Bewerk hoesafbeelding"
+msgstr "Hoesafbeelding bewerken"
 
 #: ../root/layout/menu.tt:85
 #, perl-format
 msgid "Edit Instrument Tree"
-msgstr "Bewerk de instrumententabel"
+msgstr "Instrumententabel bewerken"
 
 #: ../root/label/edit.tt:15
 #, perl-format
 msgid "Edit Label"
-msgstr "Bewerk platenmaatschappij"
+msgstr "Platenmaatschappij bewerken"
 
 #: ../root/label/edit_alias.tt:1
 #, perl-format
 msgid "Edit Label Alias"
-msgstr "Bewerk de alias van de platenmaatschappij"
+msgstr "Alias van de platenmaatschappij bewerken"
 
 #: ../root/edit/not_found.tt:1 ../root/edit/not_found.tt:2
 #, perl-format
@@ -2828,12 +2828,12 @@ msgstr "Bewerkingsnotitie"
 #: ../root/layout/menu.tt:34
 #, perl-format
 msgid "Edit Profile"
-msgstr "Bewerk het profiel"
+msgstr "Profiel bewerken"
 
 #: ../root/recording/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Recording Annotation"
-msgstr "Bewerk de aantekening van de opname"
+msgstr "Aantekening van de opname bewerken"
 
 #: ../root/edit/relationship/create_batch.tt:10
 #: ../root/edit/relationship/edit.tt:13 ../root/edit/relationship/edit.tt:15
@@ -2866,22 +2866,22 @@ msgstr "Relatietypes bewerken"
 #: ../root/release/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Release Annotation"
-msgstr "Bewerk de aantekening van de uitgave"
+msgstr "Aantekening van de uitgave bewerken"
 
 #: ../root/release_group/edit.tt:21
 #, perl-format
 msgid "Edit Release Group"
-msgstr "Bewerk de uitgavegroep"
+msgstr "Uitgavegroep bewerken"
 
 #: ../root/release_group/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Release Group Annotation"
-msgstr "Bewerk de aantekening van de uitgavegroep"
+msgstr "Aantekening van de uitgavegroep bewerken"
 
 #: ../root/release/edit/layout.tt:2
 #, perl-format
 msgid "Edit Release: {name}"
-msgstr "Bewerk uitgave: {name}"
+msgstr "Uitgave {name} bewerken"
 
 #: ../root/doc/edit_types.tt:1 ../root/doc/edit_types.tt:3
 #: ../root/doc/edit_type.tt:17 ../root/edit/info.tt:59
@@ -2894,7 +2894,7 @@ msgstr "Bewerkingstypes"
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:22
 #, perl-format
 msgid "Edit URL"
-msgstr "Bewerk URL"
+msgstr "URL bewerken"
 
 #: ../root/user/profile/layout.tt:27
 #, perl-format
@@ -2904,24 +2904,24 @@ msgstr "Gebruiker bewerken"
 #: ../root/work/edit.tt:15
 #, perl-format
 msgid "Edit Work"
-msgstr "Bewerk compositie"
+msgstr "Compositie bewerken"
 
 #: ../root/work/edit_alias.tt:1
 #, perl-format
 msgid "Edit Work Alias"
-msgstr "Bewerk alias voor deze compositie"
+msgstr "Alias van deze compositie bewerken"
 
 #: ../root/work/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Work Annotation"
-msgstr "Bewerk de aantekening van de compositie"
+msgstr "Aantekening van de compositie bewerken"
 
 #: ../root/artist/layout.tt:87 ../root/label/layout.tt:64
 #: ../root/recording/layout.tt:37 ../root/release_group/layout.tt:36
 #: ../root/release/sidebar.tt:74 ../root/work/layout.tt:40
 #, perl-format
 msgid "Edit annotation"
-msgstr "Bewerk aantekening"
+msgstr "Aantekening bewerken"
 
 #: ../root/artist/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditAlias.pm:12
@@ -2932,7 +2932,7 @@ msgstr "Alias voor deze artiest bewerken"
 #: ../root/artist/edit_annotation.tt:2
 #, perl-format
 msgid "Edit artist annotation"
-msgstr "Bewerk de aantekening van de artiest"
+msgstr "Aantekening van de artiest bewerken"
 
 #: ../root/edit/edit_header.tt:94
 #, perl-format
@@ -2948,7 +2948,7 @@ msgstr "Alias voor deze platenmaatschappij bewerken"
 #: ../root/label/edit_annotation.tt:2
 #, perl-format
 msgid "Edit label annotation"
-msgstr "Bewerk de aantekening van de platenmaatschappij"
+msgstr "Aantekening van de platenmaatschappij bewerken"
 
 #: ../root/edit/cancel.tt:19 ../root/forms/edit-note.tt:13
 #, perl-format
@@ -2963,7 +2963,7 @@ msgstr "Bewerkingsnotities"
 #: ../root/admin/edit_user.tt:30
 #, perl-format
 msgid "Edit profile"
-msgstr "Bewerk profiel"
+msgstr "Profiel bewerken"
 
 #: ../root/recording/edit.tt:32
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
@@ -2974,17 +2974,17 @@ msgstr "Opname bewerken"
 #: ../root/recording/edit_annotation.tt:2
 #, perl-format
 msgid "Edit recording annotation"
-msgstr "Bewerk de aantekening van de opname"
+msgstr "Aantekening van de opname bewerken"
 
 #: ../root/release/edit_annotation.tt:2
 #, perl-format
 msgid "Edit release annotation"
-msgstr "Bewerk de aantekening van de uitgave"
+msgstr "Aantekening van de uitgave bewerken"
 
 #: ../root/release_group/edit_annotation.tt:2
 #, perl-format
 msgid "Edit release group annotation"
-msgstr "Bewerk de aantekening van de uitgavegroep"
+msgstr "Aantekening van de uitgavegroep bewerken"
 
 #: ../root/admin/edit_user.tt:40
 #, perl-format
@@ -3000,7 +3000,7 @@ msgstr "Alias voor deze compositie bewerken"
 #: ../root/work/edit_annotation.tt:2
 #, perl-format
 msgid "Edit work annotation"
-msgstr "Bewerk de aantekening van de compositie"
+msgstr "Aantekening van de compositie bewerken"
 
 #: ../root/release/edit-links.tt:13
 #, perl-format
@@ -3633,7 +3633,7 @@ msgstr "Help:"
 #: ../root/release/index.tt:12
 #, perl-format
 msgid "Hide Credits"
-msgstr "Verberg toeschrijvingen"
+msgstr "Vermeldingen verbergen"
 
 #: ../root/components/common-macros.tt:521
 #, perl-format
@@ -3774,7 +3774,7 @@ msgstr "ISWC:"
 msgid ""
 "If none of these artists match the artist you intended, you can still create"
 " a new artist."
-msgstr "Als geen van deze artiesten overeenkomt met de artiest die u bedoelt, kunt u nog steeds een nieuwe artiest aanmaken."
+msgstr "Als geen van deze artiesten overeenkomt met de artiest die u bedoelt, kunt u nog steeds een nieuwe artiest toevoegen."
 
 #: ../root/release/edit/missing_entities.tt:128
 #, perl-format
@@ -4870,7 +4870,7 @@ msgstr "Nieuwe artiest"
 #: ../root/artist/edit_credit.tt:32 ../root/artist/split.tt:49
 #, perl-format
 msgid "New Artist Credit"
-msgstr "Nieuwe toeschrijving aan de artiest"
+msgstr "Nieuwe vermelding van een artiest"
 
 #: ../root/relationship/linkattributetype/create.tt:1
 #: ../root/relationship/linkattributetype/create.tt:3
@@ -5708,7 +5708,7 @@ msgstr "Selecteer alstublieft ten minste één opname om {entity} aan te relater
 msgid ""
 "Please select the artist credits that you want to rename to follow the new "
 "artist name."
-msgstr "Selecteer de toeschrijvingen die u wilt hernoemen naar de nieuwe artiestennaam."
+msgstr "Selecteer de vermeldingen die u wilt hernoemen naar de nieuwe artiestennaam."
 
 #: ../root/cdtoc/attach_artist_releases.tt:26
 #, perl-format
@@ -6050,7 +6050,7 @@ msgstr "Verwerpen"
 #: ../root/edit/index.tt:66
 #, perl-format
 msgid "Reject edit"
-msgstr "Verwerp bewerking"
+msgstr "Bewerking verwerpen"
 
 #: ../root/components/common-macros.tt:528
 #, perl-format
@@ -6751,13 +6751,13 @@ msgstr "Verwijderd"
 #: ../root/edit/details/merge_artists.tt:4
 #, perl-format
 msgid "Rename artist credits"
-msgstr "Hernoem toeschrijving aan artiest"
+msgstr "Vermelding van artiest hernoemen"
 
 #: ../root/release/cover_art.tt:51 ../root/release/reorder_cover_art.tt:5
 #: ../root/release/reorder_cover_art.tt:6
 #, perl-format
 msgid "Reorder Cover Art"
-msgstr "Bewerk de volgorde van de hoesafbeeldingen"
+msgstr "Volgorde van de hoesafbeeldingen bewerken"
 
 #: ../root/layout/menu.tt:271
 #, perl-format
@@ -7089,7 +7089,7 @@ msgstr "Korte koppelzin:"
 #: ../root/release/index.tt:11
 #, perl-format
 msgid "Show Credits"
-msgstr "Toon toeschrijvingen"
+msgstr "Vermeldingen tonen"
 
 #: ../root/report/filter_link.tt:4
 #, perl-format
@@ -9437,32 +9437,32 @@ msgstr "Alle relaties bekijken"
 #: ../root/annotation/common.tt:21
 #, perl-format
 msgid "View annotation history"
-msgstr "Bekijk de geschiedenis van de aantekening"
+msgstr "Geschiedenis van de aantekening bekijken"
 
 #: ../root/annotation/diff.tt:19
 #, perl-format
 msgid "View annotation history."
-msgstr "Bekijk de geschiedenis van de aantekening"
+msgstr "Geschiedenis van de aantekening bekijken"
 
 #: ../root/elections/index.tt:23
 #, perl-format
 msgid "View details"
-msgstr "Bekijk de details"
+msgstr "Details bekijken"
 
 #: ../root/admin/wikidoc/index.tt:110
 #, perl-format
 msgid "View on wiki"
-msgstr "Bekijk op de wiki"
+msgstr "Op de wiki bekijken"
 
 #: ../root/annotation/history.tt:29
 #, perl-format
 msgid "View this version"
-msgstr "Bekijk deze versie"
+msgstr "Deze versie bekijken"
 
 #: ../root/admin/wikidoc/index.tt:63
 #, perl-format
 msgid "View transclusion history"
-msgstr "Bekijk de transclusiegeschiedenis"
+msgstr "Transclusiegeschiedenis bekijken"
 
 #: ../root/elections/show.tt:109
 #, perl-format
@@ -9482,7 +9482,7 @@ msgstr "Stem voor"
 #: ../root/layout/menu.tt:224
 #, perl-format
 msgid "Vote on Edits"
-msgstr "Stem op bewerkingen"
+msgstr "Op bewerkingen stemmen"
 
 #: ../root/edit/index.tt:23
 #, perl-format
@@ -11149,11 +11149,11 @@ msgstr "Deze alias van deze artiest verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Edit.pm:31
 msgid "Edit artist"
-msgstr "Bewerk artiest"
+msgstr "Artiest bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
-msgstr "Bewerk toeschrijving aan artiest"
+msgstr "Vermelding van artiest bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Merge.pm:13
 msgid "Merge artists"
@@ -11205,27 +11205,27 @@ msgstr "Bewerk uitgave-eigenschappen (historisch)"
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEvents.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseEventsOld.pm:17
 msgid "Edit release events (historic)"
-msgstr "Bewerk uitgavegebeurtenissen (historisch)"
+msgstr "Uitgavegebeurtenissen bewerkingen (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseLanguage.pm:13
 msgid "Edit release language (historic)"
-msgstr "Bewerk de taal van de uitgave (historisch)"
+msgstr "Taal van de uitgave bewerken (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditReleaseName.pm:10
 msgid "Edit release name (historic)"
-msgstr "Bewerk de naam van de uitgave (historisch)"
+msgstr "Naam van de uitgave bewerken (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length (historic)"
-msgstr "Bewerk de lengte van het nummer (historisch)"
+msgstr "Lengte van het nummer bewerken (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackName.pm:20
 msgid "Edit track name (historic)"
-msgstr "Bewerk de naam van het nummer (historisch)"
+msgstr "Naam van het nummer bewerken (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackNum.pm:11
 msgid "Edit track number (historic)"
-msgstr "Bewerk de positie van het nummer (historisch)"
+msgstr "Positie van het nummer bewerken (historisch)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MACToSAC.pm:12
 msgid "Convert release to single artist (historic)"
@@ -11287,7 +11287,7 @@ msgstr "Platenmaatschappij toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:29
 msgid "Edit label"
-msgstr "Bewerk platenmaatschappij"
+msgstr "Platenmaatschappij bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
 msgid "Merge labels"
@@ -11303,7 +11303,7 @@ msgstr "Medium verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Edit.pm:39
 msgid "Edit medium"
-msgstr "Bewerk medium"
+msgstr "Medium bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
@@ -11379,11 +11379,11 @@ msgstr "De platenmaatschappij van de uitgave verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
-msgstr "Bewerk uitgave"
+msgstr "Uitgave bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:28
 msgid "Edit release artist"
-msgstr "Bewerk de artiest van de uitgave"
+msgstr "Artiest van de uitgave bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:140
 msgid ""
@@ -11392,15 +11392,15 @@ msgstr "Deze bewerking kan niet doorgevoerd worden omdat de uitgave die wordt be
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditBarcodes.pm:19
 msgid "Edit barcodes"
-msgstr "Bewerk streepjescodes"
+msgstr "Streepjescodes bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditCoverArt.pm:19
 msgid "Edit cover art"
-msgstr "Bewerk hoesafbeelding"
+msgstr "Hoesafbeelding bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
-msgstr "Bewerk de platenmaatschappij van de uitgave"
+msgstr "Platenmaatschappij van de uitgave bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
@@ -11408,11 +11408,11 @@ msgstr "Hoesafbeelding verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderCoverArt.pm:22
 msgid "Reorder cover art"
-msgstr "Bewerk de volgorde van de hoesafbeeldingen"
+msgstr "Volgorde van de hoesafbeeldingen bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderMediums.pm:11
 msgid "Reorder mediums"
-msgstr "Bewerk de volgorde van de media"
+msgstr "Volgorde van de media bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
@@ -11420,7 +11420,7 @@ msgstr "Aantekening aan de uitgavegroep toevoegen"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Edit.pm:34
 msgid "Edit release group"
-msgstr "Bewerk uitgavegroep"
+msgstr "Uitgavegroep bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
@@ -11452,7 +11452,7 @@ msgstr "Alias van deze compositie verwijderen"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:25
 msgid "Edit work"
-msgstr "Bewerk compositie"
+msgstr "Compositie bewerken"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
