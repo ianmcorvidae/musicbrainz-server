@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-15 09:41+0000\n"
+"PO-Revision-Date: 2012-08-15 14:31+0000\n"
 "Last-Translator: Nozomu Kurasawa <email address hidden>\n"
 "Language-Team: Japanese (http://www.transifex.com/projects/p/musicbrainz/language/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -6685,20 +6685,20 @@ msgstr "レーベルを削除"
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
 #, perl-format
 msgid "Remove recording"
-msgstr ""
+msgstr "レコーディングを削除"
 
 #: ../root/release/sidebar.tt:84
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 #, perl-format
 msgid "Remove release"
-msgstr ""
+msgstr "リリースを削除"
 
 #: ../root/release_group/layout.tt:45
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 #, perl-format
 msgid "Remove release group"
-msgstr ""
+msgstr "リリースグループを削除"
 
 #: ../root/layout/merge-helper.tt:33
 #, perl-format
@@ -11059,7 +11059,7 @@ msgstr "全トラックにタイトルを指定していません。"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:118
 msgid "Cannot add a CD stub with no tracks"
-msgstr ""
+msgstr "トラックのないCDスタブは登録できません"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:121
 msgid "Incomplete TOC data"
@@ -11225,11 +11225,11 @@ msgstr "レーベルの別名を削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLink.pm:10
 msgid "Remove relationship (historic)"
-msgstr ""
+msgstr "関連を削除 (歴史的)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
-msgstr ""
+msgstr "リリースイベントを削除 (歴史的)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases (historic)"
@@ -11262,19 +11262,19 @@ msgstr "レーベルをマージ"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
-msgstr ""
+msgstr "メディアを追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Delete.pm:18
 msgid "Remove medium"
-msgstr ""
+msgstr "メディアを削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Edit.pm:39
 msgid "Edit medium"
-msgstr ""
+msgstr "メディアを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
-msgstr ""
+msgstr "レコーディングの注釈を追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddISRCs.pm:21
 msgid "Add ISRCs"
@@ -11290,7 +11290,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Merge.pm:13
 msgid "Merge recordings"
-msgstr ""
+msgstr "レコーディングをマージ"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/RemoveISRC.pm:17
 msgid "Remove ISRC"
@@ -11298,7 +11298,7 @@ msgstr "ISRCを削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship.pm:7
 msgid "Relationship"
-msgstr ""
+msgstr "関連"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkAttribute.pm:13
 msgid "Add relationship attribute"
@@ -11310,11 +11310,11 @@ msgstr "関連タイプを追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Delete.pm:25
 msgid "Remove relationship"
-msgstr ""
+msgstr "関連を削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Edit.pm:28
 msgid "Edit relationship"
-msgstr ""
+msgstr "関連を編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkAttribute.pm:14
 msgid "Edit relationship attribute"
@@ -11326,11 +11326,11 @@ msgstr "関連タイプを編集"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkAttribute.pm:13
 msgid "Remove relationship attribute"
-msgstr ""
+msgstr "関連属性を削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkType.pm:13
 msgid "Remove relationship type"
-msgstr ""
+msgstr "関連タイプを削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddCoverArt.pm:18
 msgid "Add cover art"
@@ -11338,11 +11338,11 @@ msgstr "カバーアートを追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
-msgstr ""
+msgstr "リリースレーベルを追加"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/DeleteReleaseLabel.pm:16
 msgid "Remove release label"
-msgstr ""
+msgstr "リリースレーベルを削除"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
@@ -11399,7 +11399,7 @@ msgstr "Wiki ドキュメント"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
-msgstr ""
+msgstr "WikiDocを変更"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
@@ -11654,7 +11654,7 @@ msgstr "トラックリストが必須です"
 #, perl-brace-format
 msgid "This medium has a Disc ID, it should have exactly {n} track."
 msgid_plural "This medium has a Disc ID, it should have exactly {n} tracks."
-msgstr[0] ""
+msgstr[0] "メディアにディスクIDがあります。{n} トラックあるはずです。"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
