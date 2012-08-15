@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-15 10:59+0000\n"
+"PO-Revision-Date: 2012-08-15 11:19+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -7234,7 +7234,7 @@ msgid ""
 "Sorry, but your query (<code>{query}</code>) could not be performed, because"
 " it appears you've been rate-limited. Either the server is overloaded or "
 "you're making a lot of requests all at once!"
-msgstr ""
+msgstr "Spiacenti, ma non è stato possibile eseguire la tua ricerca (<code>{query}</code>) poiché la tua frequenza di connessione è stata limitata. O il server è sovraccarico oppure stai effettuando troppe richieste tutte insieme!"
 
 #: ../root/search/error/general.tt:3
 #, perl-format
