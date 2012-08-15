@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-15 00:47+0000\n"
+"PO-Revision-Date: 2012-08-15 01:21+0000\n"
 "Last-Translator: Nozomu Kurasawa <email address hidden>\n"
 "Language-Team: Japanese (http://www.transifex.com/projects/p/musicbrainz/language/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -11648,7 +11648,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:156
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:198
 msgid "A tracklist is required"
-msgstr ""
+msgstr "トラックリストが必須です"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:165
 #, perl-brace-format
@@ -11677,7 +11677,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
 msgid "FreeDB"
-msgstr ""
+msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:55
 msgid "Indexed search with advanced query syntax"
@@ -11685,11 +11685,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/ChangePassword.pm:37
 msgid "The old password is incorrect"
-msgstr ""
+msgstr "旧いパスワードが正しくありません"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:22
 msgid "Invalid URL format"
-msgstr ""
+msgstr "不正なURL形式です"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
@@ -11729,19 +11729,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
-msgstr ""
+msgstr "1日"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:36
 msgid "A week"
-msgstr ""
+msgstr "1週間"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:37
 msgid "2 weeks"
-msgstr ""
+msgstr "2週間"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:38
 msgid "A month"
-msgstr ""
+msgstr "1ヶ月"
 
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:155
@@ -11792,13 +11792,13 @@ msgstr ""
 msgid ""
 "A compilation is a collection of previously released tracks by one or more "
 "artists."
-msgstr ""
+msgstr "コンピレーションは、一人または複数のアーティストが以前リリースした、トラックをまとめたものです。"
 
 #: ../lib/MusicBrainz/Server/Release.pm:62
 msgid ""
 "A soundtrack is the musical score to a movie, TV series, stage show, "
 "computer game etc."
-msgstr ""
+msgstr "サウンドトラックは、映画、TVシリーズ、ステージショー、コンピューターゲームなどの楽譜です。"
 
 #: ../lib/MusicBrainz/Server/Release.pm:63
 msgid "Non-music spoken word releases."
@@ -11806,19 +11806,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:64
 msgid "An interview release contains an interview with the Artist."
-msgstr ""
+msgstr "インタビューリリースには、アーティストへのインタビューが収録されています。"
 
 #: ../lib/MusicBrainz/Server/Release.pm:65
 msgid "An audiobook is a book read by a narrator without music."
-msgstr ""
+msgstr "オーディオブックは、音楽ではなく、ナレーターによる本の朗読です。"
 
 #: ../lib/MusicBrainz/Server/Release.pm:66
 msgid "A release that was recorded live."
-msgstr ""
+msgstr "ライブを録音したリリースです。"
 
 #: ../lib/MusicBrainz/Server/Release.pm:67
 msgid "A release that was (re)mixed from previously released material."
-msgstr ""
+msgstr "以前リリースした素材をリミックスしたリリースです。"
 
 #: ../lib/MusicBrainz/Server/Release.pm:68
 msgid "Any release that does not fit any of the categories above."
