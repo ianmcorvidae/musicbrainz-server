@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-16 12:22+0000\n"
+"PO-Revision-Date: 2012-08-16 13:29+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -125,7 +125,7 @@ msgstr "DJ-mixversies"
 
 #: DB:link_type/short_link_phrase:43
 msgid "DJ-mixed {medium:% of}"
-msgstr ""
+msgstr "DJ-mixte {medium:% of|medium:% van}"
 
 #: DB:link_type/link_phrase:43
 msgid "DJ-mixed {medium}"
@@ -137,7 +137,7 @@ msgstr "DJ-mixer"
 
 #: DB:link_type/reverse_link_phrase:43
 msgid "DJ-mixer {medium}"
-msgstr ""
+msgstr "DJ-mixer van {medium}"
 
 #: DB:link_type/reverse_link_phrase:227
 msgid "DJ-mixes"
