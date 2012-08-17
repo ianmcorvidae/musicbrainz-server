@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-15 14:31+0000\n"
+"PO-Revision-Date: 2012-08-17 09:42+0000\n"
 "Last-Translator: Nozomu Kurasawa <email address hidden>\n"
 "Language-Team: Japanese (http://www.transifex.com/projects/p/musicbrainz/language/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -80,12 +80,12 @@ msgstr ""
 #: ../root/doc/edit_type.tt:67
 #, perl-format
 msgid "&#10004;"
-msgstr ""
+msgstr "&#10004;"
 
 #: ../root/doc/edit_type.tt:67
 #, perl-format
 msgid "&#10005;"
-msgstr ""
+msgstr "&#10005;"
 
 #: ../root/relationship/linktype/tree.tt:38
 #, perl-format
@@ -303,7 +303,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:144
 #, perl-format
 msgid "<strong>Error</strong>:"
-msgstr ""
+msgstr "<strong>エラー</strong>:"
 
 #: ../root/account/register.tt:10
 #, perl-format
@@ -481,7 +481,7 @@ msgstr ""
 #: ../root/cdstub/logged_in.tt:1 ../root/cdstub/logged_in.tt:2
 #, perl-format
 msgid "Add CD Stub"
-msgstr ""
+msgstr "CDスタブを追加"
 
 #: ../root/release/add_cover_art.tt:5 ../root/release/add_cover_art.tt:6
 #: ../root/release/cover_art.tt:49
@@ -493,13 +493,13 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:492
 #, perl-format
 msgid "Add Disc"
-msgstr ""
+msgstr "ディスクを追加"
 
 #: ../root/recording/add_isrc.tt:1 ../root/recording/add_isrc.tt:2
 #: ../root/recording/layout.tt:34
 #, perl-format
 msgid "Add ISRC"
-msgstr ""
+msgstr "ISRCを追加"
 
 #: ../root/work/add_iswc.tt:1 ../root/work/add_iswc.tt:2
 #: ../root/work/layout.tt:37
@@ -511,12 +511,12 @@ msgstr ""
 #: ../root/release/edit/information.tt:104
 #, perl-format
 msgid "Add Label"
-msgstr ""
+msgstr "レーベルを追加"
 
 #: ../root/label/add_alias.tt:1
 #, perl-format
 msgid "Add Label Alias"
-msgstr ""
+msgstr "レーベルの別名を追加"
 
 #: ../root/release_group/create.tt:16
 #, perl-format
@@ -526,27 +526,27 @@ msgstr ""
 #: ../root/edit/info.tt:13
 #, perl-format
 msgid "Add Note"
-msgstr ""
+msgstr "メモを追加"
 
 #: ../root/admin/wikidoc/create.tt:1 ../root/admin/wikidoc/create.tt:3
 #, perl-format
 msgid "Add Page"
-msgstr ""
+msgstr "ページを追加"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Add Relationship"
-msgstr ""
+msgstr "関連を追加"
 
 #: ../root/layout/menu.tt:212 ../root/release/edit/layout.tt:4
 #, perl-format
 msgid "Add Release"
-msgstr ""
+msgstr "リリースを追加"
 
 #: ../root/layout/menu.tt:209
 #, perl-format
 msgid "Add Release Group"
-msgstr ""
+msgstr "リリースグループを追加"
 
 #: ../root/layout/menu.tt:218 ../root/recording/create.tt:16
 #: ../root/recording/create.tt:18
@@ -558,7 +558,7 @@ msgstr ""
 #: ../root/edit/relationship/create_url.tt:17
 #, perl-format
 msgid "Add URL Relationship"
-msgstr ""
+msgstr "URLの関連を追加"
 
 #: ../root/layout/menu.tt:215
 #, perl-format
@@ -569,7 +569,7 @@ msgstr ""
 #: ../root/work/create.tt:16
 #, perl-format
 msgid "Add Work"
-msgstr ""
+msgstr "ワークを追加"
 
 #: ../root/work/add_alias.tt:1
 #, perl-format
@@ -579,22 +579,22 @@ msgstr ""
 #: ../root/artist/create.tt:16 ../root/artist/create.tt:18
 #, perl-format
 msgid "Add a New Artist"
-msgstr ""
+msgstr "新しいアーティストを追加"
 
 #: ../root/collection/create.tt:1 ../root/collection/create.tt:3
 #, perl-format
 msgid "Add a New Collection"
-msgstr ""
+msgstr "新しいコレクションを追加"
 
 #: ../root/label/create.tt:15 ../root/label/create.tt:17
 #, perl-format
 msgid "Add a New Label"
-msgstr ""
+msgstr "新しいレーベルを追加"
 
 #: ../root/release_group/create.tt:23
 #, perl-format
 msgid "Add a New Release Group"
-msgstr ""
+msgstr "新しいリリースグループを追加"
 
 #: ../root/account/edit.tt:43
 #, perl-format
@@ -604,12 +604,12 @@ msgstr ""
 #: ../root/components/aliases.tt:63
 #, perl-format
 msgid "Add a new alias"
-msgstr ""
+msgstr "新しい別名を追加"
 
 #: ../root/admin/wikidoc/index.tt:62
 #, perl-format
 msgid "Add a new entry"
-msgstr ""
+msgstr "新しいエントリーを追加"
 
 #: ../root/release/edit/recordings.tt:165
 #, perl-format
@@ -10846,7 +10846,7 @@ msgstr "ありがとうございます。あなたの編集を受け付け、適
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:45
 msgid "The user ID is missing or is in an invalid format."
-msgstr ""
+msgstr "ユーザーIDが入力されていないか、形式が不正です。"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:52
 msgid "The email address is missing."
@@ -10974,11 +10974,11 @@ msgstr "関連には、2つの異なるエンティティが必要です"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:430
 msgid "Release not found"
-msgstr ""
+msgstr "リリースが見つかりません"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:444
 msgid "Target entity not found"
-msgstr ""
+msgstr "目的のエンティティが見つかりません"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:541
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:549
@@ -10992,7 +10992,7 @@ msgstr "エンティティが見つかりません"
 #: ../lib/MusicBrainz/Server/Controller/FreeDB.pm:37
 #, perl-brace-format
 msgid "'{id}' is not a valid FreeDB ID"
-msgstr ""
+msgstr "'{id}' は有効な FreeDB の IDではありません"
 
 #: ../lib/MusicBrainz/Server/Controller/ISRC.pm:58
 msgid "This ISRC does not exist"
@@ -11242,7 +11242,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/SetTrackLengthsFromCDTOC.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Medium/SetTrackLengths.pm:18
 msgid "Set track lengths"
-msgstr ""
+msgstr "トラック長をセット"
 
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAnnotation.pm:12
 msgid "Add label annotation"
@@ -11502,7 +11502,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"
-msgstr ""
+msgstr "有効なバーコードでなければなりません"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:42
 #, perl-brace-format
@@ -11518,15 +11518,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/DiscID.pm:12
 msgid "This is not a valid disc ID"
-msgstr ""
+msgstr "有効なディスクIDではありません"
 
 #: ../lib/MusicBrainz/Server/Form/Field/FreeDBID.pm:12
 msgid "This is not a valid FreeDB ID"
-msgstr ""
+msgstr "有効な FreeDB の IDではありません"
 
 #: ../lib/MusicBrainz/Server/Form/Field/GID.pm:12
 msgid "This is not a valid MBID"
-msgstr ""
+msgstr "有効な MBIDではありません"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid "This is not a valid ISRC"
@@ -11551,7 +11551,7 @@ msgstr "有効な URL を入力してください。 例: \"http://google.com/\"
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
-msgstr ""
+msgstr "URLのプロトコルは HTTP, HTTPS, FTP でなければなりません"
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
@@ -11631,7 +11631,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:75
 #, perl-brace-format
 msgid "\"{name1}\" and \"{name2}\" have the same position"
-msgstr ""
+msgstr "\"{name1}\" と \"{name2}\" が同じ場所を指しています"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:88
 #, perl-brace-format
@@ -11659,7 +11659,7 @@ msgstr[0] "メディアにディスクIDがあります。{n} トラックある
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
 msgid "Track {pos} is missing."
-msgstr ""
+msgstr "トラック {pos} がありません。"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:213
 msgid ""
@@ -11755,15 +11755,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:247
 msgid "YYYY"
-msgstr ""
+msgstr "YYYY"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:248
 msgid "MM"
-msgstr ""
+msgstr "MM"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:249
 msgid "DD"
-msgstr ""
+msgstr "DD"
 
 #: ../lib/MusicBrainz/Server/Release.pm:57
 msgid "(Special case)"
@@ -11850,7 +11850,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"
-msgstr ""
+msgstr "リリース情報"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
