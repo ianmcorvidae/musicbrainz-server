@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-13 21:29+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-08-21 21:19+0000\n"
+"Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,36 +34,36 @@ msgstr "Sisesta allpool oma kasutajanimi ja e-post. Saadame sulle e-kirja koos l
 #: ../root/work/add_iswc.tt:8
 #, perl-format
 msgid "\"C\" is a single check digit."
-msgstr ""
+msgstr "„C” on ühekohaline kontrollnumber."
 
 #: ../root/recording/add_isrc.tt:8
 #, perl-format
 msgid "\"CC\" is the appropriate for the registrant two-character country code."
-msgstr "\"CC\" on registreerija kahetäheline maakood."
+msgstr "„CC” on registreerija kahetäheline maakood."
 
 #: ../root/work/add_iswc.tt:7
 #, perl-format
 msgid "\"DDD\" is a nine digit work identifier."
-msgstr ""
+msgstr "„DDD” on üheksakohaline teoseidentifikaator."
 
 #: ../root/recording/add_isrc.tt:12
 #, perl-format
 msgid ""
 "\"NNNNN\" is a unique 5-digit number identifying the particular sound "
 "recording."
-msgstr "\"NNNNN\" on unikaalne viiekohaline number konkreetse helisalvestise tuvastamiseks."
+msgstr "„NNNNN” on unikaalne viiekohaline number konkreetse helisalvestise tuvastamiseks."
 
 #: ../root/recording/add_isrc.tt:9
 #, perl-format
 msgid ""
 "\"XXX\" is a three character alphanumeric registrant code, uniquely "
 "identifying the organisation which registered the code."
-msgstr "\"XXX\" on kolmest tähest ja/või numbrist koosnev registreerija kood ISRC registreerinud asutuse tuvastamiseks."
+msgstr "„XXX” on kolmest tähest ja/või numbrist koosnev registreerija kood ISRC registreerinud asutuse tuvastamiseks."
 
 #: ../root/recording/add_isrc.tt:11
 #, perl-format
 msgid "\"YY\" is the last two digits of the year of registration."
-msgstr "\"YY\" on registreerimisaasta kaks viimast numbrit."
+msgstr "„YY” on registreerimisaasta kaks viimast numbrit."
 
 #: ../root/cdstub/cdstub.tt:4 ../root/edit/details/add_medium.tt:48
 #: ../root/edit/details/edit_medium.tt:47
@@ -435,7 +435,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:101
 #, perl-format
 msgid "Accepted"
-msgstr ""
+msgstr "Vastuvõetud"
 
 #: ../root/account/registered.tt:1 ../root/account/registered.tt:2
 #, perl-format
@@ -668,7 +668,7 @@ msgstr ""
 #: ../root/cdstub/layout.tt:23
 #, perl-format
 msgid "Add disc ID to an existing release"
-msgstr ""
+msgstr "Lisa plaadi-ID olemasolevale väljalaskele"
 
 #: ../root/edit/add_note.tt:4
 #, perl-format
@@ -957,7 +957,7 @@ msgstr[1] ""
 #: ../root/release/edit/editnote.tt:27
 #, perl-format
 msgid "An error occured while loading this edit"
-msgstr "Toimenduse laadimisel tekkis tõrge"
+msgstr "Toimetuse laadimisel tekkis tõrge"
 
 #: ../root/release/edit/tracklist.tt:118
 #, perl-format
@@ -1519,7 +1519,7 @@ msgstr ""
 #: ../root/user/profile.tt:152
 #, perl-format
 msgid "Auto-edits"
-msgstr ""
+msgstr "Isetoimetused"
 
 #: ../root/account/preferences.tt:50
 #, perl-format
@@ -1802,7 +1802,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:40
 #, perl-format
 msgid "CD Stub"
-msgstr ""
+msgstr "Pooleldi sisestatud CD"
 
 #: ../root/cdstub/error.tt:2
 #, perl-format
@@ -1832,7 +1832,7 @@ msgstr ""
 #: ../root/cdstub/header.tt:5
 #, perl-format
 msgid "CD stub by {artist}"
-msgstr ""
+msgstr "Pooleldi sisestatud CD — {artist}"
 
 #: ../root/cdstub/edit.tt:53
 #, perl-format
@@ -1915,12 +1915,12 @@ msgstr ""
 #: ../root/elections/index.tt:9
 #, perl-format
 msgid "Candidate"
-msgstr ""
+msgstr "Kandidaat"
 
 #: ../root/elections/show.tt:11
 #, perl-format
 msgid "Candidate:"
-msgstr ""
+msgstr "Kandidaat:"
 
 #: ../root/release/caa_darkened.tt:1 ../root/release/caa_darkened.tt:2
 #: ../root/release/cover_art.tt:55
@@ -2301,7 +2301,7 @@ msgstr "Kaanepiltidega varustab {caa|Kaanepildiarhiiv}. Serveris hoiab {host|Dig
 #: ../root/edit/details/macros.tt:86
 #, perl-format
 msgid "Cover art:"
-msgstr ""
+msgstr "Kaanepilt:"
 
 #: ../root/admin/wikidoc/create.tt:12
 #, perl-format
@@ -2373,7 +2373,7 @@ msgstr "Andmelitsentsid"
 #: ../root/doc/edit_type.tt:35
 #, perl-format
 msgid "Data Quality"
-msgstr ""
+msgstr "Andmekvaliteet"
 
 #: ../root/edit/details/change_release_quality.tt:7
 #: ../root/edit/details/historic/change_artist_quality.tt:7
@@ -2382,7 +2382,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:34
 #, perl-format
 msgid "Data Quality:"
-msgstr ""
+msgstr "Andmekvaliteet:"
 
 #: ../root/layout/menu.tt:278
 #, perl-format
@@ -2556,12 +2556,12 @@ msgstr "Täpsustus:"
 #: ../root/release/discids.tt:8
 #, perl-format
 msgid "Disc ID"
-msgstr "Plaadi ID"
+msgstr "Plaadi-ID"
 
 #: ../root/cdstub/index.tt:10
 #, perl-format
 msgid "Disc ID information"
-msgstr "Plaadi ID teave:"
+msgstr "Plaadi-ID teave:"
 
 #: ../root/cdtoc/index.tt:3
 #, perl-format
@@ -2583,7 +2583,7 @@ msgstr "Plaadi-ID „{discid}”"
 #: ../root/edit/details/set_track_lengths.tt:16 ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Disc ID:"
-msgstr "Plaadi ID:"
+msgstr "Plaadi-ID:"
 
 #: ../root/release/discids.tt:3 ../root/release/tabs.tt:1
 #, perl-format
@@ -2749,12 +2749,12 @@ msgstr "Toimeta"
 #: ../root/edit/index.tt:1
 #, perl-format
 msgid "Edit #{id}"
-msgstr "Toimendus #{id}"
+msgstr "Toimetus #{id}"
 
 #: ../root/edit/edit_header.tt:73 ../root/edit/edit_header.tt:88
 #, perl-format
 msgid "Edit #{id} - {name}"
-msgstr "Toimendus #{id} - {name}"
+msgstr "Toimetus #{id} - {name}"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -3077,7 +3077,7 @@ msgstr ""
 #: ../root/user/profile.tt:143
 #, perl-format
 msgid "Edits ({view_url|view})"
-msgstr ""
+msgstr "Toimetused ({view_url|vaata})"
 
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
@@ -3367,7 +3367,7 @@ msgstr "KKK"
 #: ../root/user/profile.tt:160
 #, perl-format
 msgid "Failed"
-msgstr ""
+msgstr "Nurjunud"
 
 #: ../root/edit/details/remove_cover_art.tt:22 ../root/taglookup/form.tt:9
 #, perl-format
@@ -3511,7 +3511,7 @@ msgstr ""
 #: ../root/layout/menu.tt:175
 #, perl-format
 msgid "FreeDB Gateway"
-msgstr ""
+msgstr "FreeDB lüüs"
 
 #: ../root/search/results-freedb.tt:13
 #, perl-format
@@ -3637,7 +3637,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:521
 #, perl-format
 msgid "High"
-msgstr ""
+msgstr "Kõrge"
 
 #: ../root/doc/edit_types.tt:20 ../lib/MusicBrainz/Server/Edit/Historic.pm:12
 #, perl-format
@@ -3982,7 +3982,7 @@ msgstr ""
 #: ../root/cdstub/layout.tt:21
 #, perl-format
 msgid "Import as MusicBrainz release"
-msgstr ""
+msgstr "Impordi MusicBrainzi väljalaskena"
 
 #: ../root/freedb/show.tt:5
 #, perl-format
@@ -4213,7 +4213,7 @@ msgstr "Keeled:"
 #: ../root/user/profile.tt:178
 #, perl-format
 msgid "Last 28 days"
-msgstr ""
+msgstr "Viimased 28 päeva"
 
 #: ../root/cdstub/layout.tt:9
 #, perl-format
@@ -4329,7 +4329,7 @@ msgstr "Logi sisse"
 #: ../root/work/layout.tt:64
 #, perl-format
 msgid "Log in to edit"
-msgstr ""
+msgstr "Toimetamiseks logi sisse"
 
 #: ../root/release/cover_art.tt:60
 #, perl-format
@@ -4355,12 +4355,12 @@ msgstr "CD päring"
 #: ../root/cdstub/browse.tt:11
 #, perl-format
 msgid "Lookup count"
-msgstr ""
+msgstr "Päringute arv"
 
 #: ../root/cdstub/layout.tt:11
 #, perl-format
 msgid "Lookup count:"
-msgstr ""
+msgstr "Päringute arv:"
 
 #: ../root/account/lost_password_sent.tt:1 ../root/account/lost_password.tt:1
 #: ../root/account/lost_password.tt:3
@@ -4377,7 +4377,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:521
 #, perl-format
 msgid "Low"
-msgstr ""
+msgstr "Madal"
 
 #: ../root/work/edit_form.tt:10 ../root/work/layout.tt:11
 #, perl-format
@@ -4478,7 +4478,7 @@ msgstr "Helikandjad:"
 #: ../root/user/profile.tt:79
 #, perl-format
 msgid "Member since:"
-msgstr "Liitus:"
+msgstr "Liitunud:"
 
 #: ../root/layout/merge-helper.tt:30 ../root/release/merge_search.tt:14
 #, perl-format
@@ -4605,12 +4605,12 @@ msgstr ""
 #: ../root/cdstub/browse.tt:12
 #, perl-format
 msgid "Modify count"
-msgstr ""
+msgstr "Muutmiste arv"
 
 #: ../root/cdstub/layout.tt:13
 #, perl-format
 msgid "Modify count:"
-msgstr ""
+msgstr "Muutmiste arv:"
 
 #: ../root/release/discids.tt:42 ../root/release/edit-links.tt:3
 #: ../root/release/move_search.tt:12
@@ -5009,7 +5009,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:8 ../root/release/sidebar.tt:15
 #, perl-format
 msgid "No cover art available."
-msgstr ""
+msgstr "Kaanepilti pole lisatud."
 
 #: ../root/edit/notes.tt:36
 #, perl-format
@@ -5174,7 +5174,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:521
 #, perl-format
 msgid "Normal"
-msgstr ""
+msgstr "Tavaline"
 
 #: ../root/user/profile.tt:52
 #, perl-format
@@ -5367,7 +5367,7 @@ msgstr ""
 #: ../root/user/profile.tt:181
 #, perl-format
 msgid "Overall"
-msgstr ""
+msgstr "Üldse"
 
 #: ../root/artist/header.tt:1 ../root/cdstub/header.tt:9
 #: ../root/collection/header.tt:1 ../root/release_group/header.tt:1
@@ -6059,7 +6059,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:481
 #, perl-format
 msgid "Relate to ..."
-msgstr ""
+msgstr "Seosta..."
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -6091,7 +6091,7 @@ msgstr ""
 #: ../root/relationship/linkattributetype/not_found.tt:1
 #, perl-format
 msgid "Relationship Attributes"
-msgstr "Seose atribuudid"
+msgstr "Seoseatribuudid"
 
 #: ../root/edit/relationship/create_batch.tt:30
 #: ../root/edit/relationship/create.tt:33
@@ -6284,7 +6284,7 @@ msgstr ""
 #: ../root/layout/sidebar/sidebar-favicons.tt:42
 #, perl-format
 msgid "Release group external links"
-msgstr ""
+msgstr "Väljalaskerühma välislingid"
 
 #: ../root/release_group/layout.tt:8
 #, perl-format
@@ -6965,7 +6965,7 @@ msgstr "Otsingumeetod:"
 #: ../root/cdstub/layout.tt:33
 #, perl-format
 msgid "Search the database for this CD"
-msgstr ""
+msgstr "Otsi seda CD-d andmebaasist"
 
 #: ../root/components/common-macros.tt:726
 #, perl-format
@@ -7612,18 +7612,18 @@ msgstr ""
 #: ../root/user/subscribers.tt:2
 #, perl-format
 msgid "Subscribers"
-msgstr ""
+msgstr "Tellijad"
 
 #: ../root/user/profile.tt:97
 #, perl-format
 msgid "Subscribers:"
-msgstr ""
+msgstr "Tellijaid:"
 
 #: ../root/artist/layout.tt:122 ../root/label/layout.tt:92
 #: ../root/layout/menu.tt:43 ../root/user/profile/layout.tt:12
 #, perl-format
 msgid "Subscriptions"
-msgstr ""
+msgstr "Tellimused"
 
 #: ../root/release/edit/recordings.tt:77
 #, perl-format
@@ -7765,7 +7765,7 @@ msgstr ""
 #: ../root/edit/details/add_release_annotation.tt:13
 #, perl-format
 msgid "Text:"
-msgstr ""
+msgstr "Tekst:"
 
 #: ../root/account/donation.tt:14
 #, perl-format
@@ -8195,7 +8195,7 @@ msgid ""
 "This artist has relationships other than collaboration relationships, and "
 "cannot be split until these are removed. {relationships|View all "
 "relationships}."
-msgstr ""
+msgstr "Sel artistil on muid seoseid peale koostöö ning enne nende eemaldamist seda tükeldada ei saa. {relationships|Vaata kõiki seoseid}."
 
 #: ../root/artist/works.tt:11
 #, perl-format
@@ -8813,12 +8813,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:373
 #, perl-format
 msgid "This user is automated."
-msgstr ""
+msgstr "See kasutaja on automaat."
 
 #: ../root/components/common-macros.tt:372
 #, perl-format
 msgid "This user is new to MusicBrainz."
-msgstr ""
+msgstr "See kasutaja on MusicBrainzis uus."
 
 #: ../root/release/merge_search.tt:4
 #, perl-format
@@ -8830,12 +8830,12 @@ msgstr ""
 msgid ""
 "This work has no relationships and will be removed automatically in the next"
 " few days. If this is not intended, please add relationships to this work."
-msgstr ""
+msgstr "Sel teosel pole seoseid, niisiis eemaldatakse see järgmise paari päeva jooksul automaatselt andmebaasist. Selle takistamiseks lisa palun teosele seoseid."
 
 #: ../root/work/tags.tt:2
 #, perl-format
 msgid "This work has no tags."
-msgstr ""
+msgstr "Sel teosel pole silte."
 
 #: ../root/cdtoc/info.tt:37 ../root/cdtoc/info.tt:39 ../root/cdtoc/info.tt:41
 #, perl-format
@@ -8923,7 +8923,7 @@ msgstr ""
 #: ../root/layout/menu.tt:194
 #, perl-format
 msgid "Top CD Stubs"
-msgstr ""
+msgstr "Pooleldi sisestatud CD-d"
 
 #: ../root/report/isrc_with_many_recordings.tt:14
 #, perl-format
@@ -8953,7 +8953,7 @@ msgstr ""
 #: ../root/cdstub/index.tt:21 ../root/cdtoc/info.tt:23
 #, perl-format
 msgid "Total length:"
-msgstr ""
+msgstr "Kogupikkus:"
 
 #: ../root/report/featuring_recordings.tt:12
 #: ../root/report/recordings_with_earliest_release_relationships.tt:11
@@ -9003,13 +9003,13 @@ msgstr ""
 #: ../root/cdstub/index.tt:17 ../root/cdtoc/info.tt:19
 #, perl-format
 msgid "Total tracks:"
-msgstr ""
+msgstr "Radade arv:"
 
 #: ../root/cdtoc/info.tt:31 ../root/freedb/show.tt:11
 #: ../root/freedb/show.tt:63 ../root/search/lib/inline-results-recording.tt:15
 #, perl-format
 msgid "Track"
-msgstr ""
+msgstr "Rada"
 
 #: ../root/release/edit/tracklist.tt:152 ../root/release/edit/tracklist.tt:394
 #: ../root/release/edit/tracklist.tt:395
@@ -9020,12 +9020,12 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:219
 #, perl-format
 msgid "Track count:"
-msgstr ""
+msgstr "Radade arv:"
 
 #: ../root/cdtoc/info.tt:27
 #, perl-format
 msgid "Track details:"
-msgstr ""
+msgstr "Raja üksikasjad:"
 
 #: ../root/edit/details/historic/edit_track_length.tt:13
 #, perl-format
@@ -9049,18 +9049,18 @@ msgstr ""
 #: ../root/taglookup/form.tt:6
 #, perl-format
 msgid "Track number:"
-msgstr ""
+msgstr "Raja number:"
 
 #: ../root/cdstub/edit.tt:64
 #, perl-format
 msgid "Track {n}:"
-msgstr ""
+msgstr "Rada {n}:"
 
 #: ../root/edit/details/historic/remove_track.tt:14
 #: ../root/taglookup/form.tt:7
 #, perl-format
 msgid "Track:"
-msgstr ""
+msgstr "Rada:"
 
 #: ../root/cdstub/edit.tt:61 ../root/cdstub/index.tt:7
 #: ../root/release/edit/recordings.tt:253 ../root/release/index.tt:4
@@ -9068,13 +9068,13 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:58
 #, perl-format
 msgid "Tracklist"
-msgstr ""
+msgstr "Rajaloend"
 
 #: ../root/edit/details/add_medium.tt:31
 #: ../root/edit/details/remove_medium.tt:17
 #, perl-format
 msgid "Tracklist:"
-msgstr ""
+msgstr "Rajaloend:"
 
 #: ../root/collection/index.tt:13 ../root/otherlookup/results-release.tt:9
 #: ../root/release/discids.tt:9 ../root/release_group/index.tt:14
@@ -9084,7 +9084,7 @@ msgstr ""
 #: ../root/tracklist/index.tt:5
 #, perl-format
 msgid "Tracks"
-msgstr ""
+msgstr "Rajad"
 
 #: ../root/report/index.tt:71
 #, perl-format
@@ -9094,7 +9094,7 @@ msgstr ""
 #: ../root/edit/details/historic/add_release.tt:44
 #, perl-format
 msgid "Tracks:"
-msgstr ""
+msgstr "Rajad:"
 
 #: ../root/admin/index.tt:11 ../root/layout/menu.tt:90
 #, perl-format
@@ -9208,22 +9208,22 @@ msgstr "URL"
 #: ../root/url/index.tt:2
 #, perl-format
 msgid "URL Details"
-msgstr ""
+msgstr "URL-i üksikasjad"
 
 #: ../root/url/index.tt:1
 #, perl-format
 msgid "URL Information"
-msgstr ""
+msgstr "URL-i teave"
 
 #: ../root/url/not_found.tt:1 ../root/url/not_found.tt:2
 #, perl-format
 msgid "URL Not Found"
-msgstr ""
+msgstr "URL-i ei leitud"
 
 #: ../root/url/relationships.tt:1
 #, perl-format
 msgid "URL Relationships"
-msgstr ""
+msgstr "URL-i seosed"
 
 #: ../root/components/common-macros.tt:449 ../root/edit/details/edit_url.tt:9
 #: ../root/edit/details/edit_url.tt:15
@@ -9319,7 +9319,7 @@ msgstr ""
 #: ../root/url/edits.tt:19
 #, perl-format
 msgid "Url"
-msgstr ""
+msgstr "URL"
 
 #: ../root/components/tags.tt:12
 #, perl-format
@@ -9329,7 +9329,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:460
 #, perl-format
 msgid "Use in a relationship"
-msgstr ""
+msgstr "Kasuta seoses"
 
 #: ../root/main/index.tt:104
 #, perl-format
@@ -9431,7 +9431,7 @@ msgstr "Versioon:"
 #: ../root/layout/sidebar/sidebar-favicons.tt:27
 #, perl-format
 msgid "View all relationships"
-msgstr ""
+msgstr "Vaata kõiki seoseid"
 
 #: ../root/annotation/common.tt:21
 #, perl-format
@@ -9491,7 +9491,7 @@ msgstr ""
 #: ../root/user/profile.tt:156
 #, perl-format
 msgid "Voted down"
-msgstr ""
+msgstr "Mahahääletatud"
 
 #: ../root/elections/show.tt:108
 #, perl-format
@@ -9506,7 +9506,7 @@ msgstr ""
 #: ../root/user/profile.tt:170
 #, perl-format
 msgid "Votes ({view_url|view})"
-msgstr ""
+msgstr "Hääled ({view_url|vaata})"
 
 #: ../root/elections/show.tt:33
 #, perl-format
@@ -9563,12 +9563,12 @@ msgid ""
 "Warning! \"1990-10-25\" is the bogus date that Amazon gives to all releases "
 "for which they don't know the actual date. <b>Please use this date only if "
 "you're certain this date is correct!</b>"
-msgstr ""
+msgstr "Hoiatus! „1990-10-25” on libaväljalaskekuupäev, mille Amazon määrab kõigile väljalasetele, mille tegelikku väljalaskekuupäeva nad ei tea. <b>Enne selle sisestamist palun veendu, et see on tõesti õige.</b>"
 
 #: ../root/artist/edit_form.tt:18 ../root/label/edit_form.tt:14
 #, perl-format
 msgid "Warning:"
-msgstr ""
+msgstr "Hoiatus:"
 
 #: ../root/watch/list.tt:1 ../root/watch/list.tt:2
 #, perl-format
@@ -9759,22 +9759,22 @@ msgstr "Teos"
 #: ../root/work/edit_form.tt:6
 #, perl-format
 msgid "Work Details"
-msgstr ""
+msgstr "Teose üksikasjad"
 
 #: ../root/work/not_found.tt:1 ../root/work/not_found.tt:2
 #, perl-format
 msgid "Work Not Found"
-msgstr ""
+msgstr "Teost ei leitud"
 
 #: ../root/work/layout.tt:9
 #, perl-format
 msgid "Work information"
-msgstr ""
+msgstr "Teose teave"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Work ratings"
-msgstr ""
+msgstr "Teose hinnangud"
 
 #: ../root/edit/details/edit_work.tt:23
 #, perl-format
@@ -9791,7 +9791,7 @@ msgstr "Teose liik:"
 #: ../root/edit/details/remove_work.tt:3
 #, perl-format
 msgid "Work:"
-msgstr ""
+msgstr "Teos:"
 
 #: ../root/artist/header.tt:1 ../root/artist/works.tt:2
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
@@ -10216,7 +10216,7 @@ msgstr "[eemaldatud]"
 #: ../root/search/results-label.tt:30
 #, perl-format
 msgid "[unknown]"
-msgstr ""
+msgstr "[teadmata]"
 
 #: ../root/scripts/text_strings.tt:34
 #, perl-format
@@ -10330,7 +10330,7 @@ msgstr ""
 #: ../root/components/rdfa-macros.tt:718 ../root/components/rdfa-macros.tt:731
 #, perl-format
 msgid "info"
-msgstr "info"
+msgstr "teave"
 
 #: ../root/edit/search_macros.tt:121 ../root/edit/search_macros.tt:138
 #: ../root/edit/search_macros.tt:172 ../root/edit/search_macros.tt:184
@@ -10339,37 +10339,37 @@ msgstr "info"
 #: ../root/edit/search_macros.tt:266
 #, perl-format
 msgid "is"
-msgstr ""
+msgstr "on"
 
 #: ../root/edit/search_macros.tt:121
 #, perl-format
 msgid "is after"
-msgstr ""
+msgstr "on pärast"
 
 #: ../root/edit/search_macros.tt:121
 #, perl-format
 msgid "is before"
-msgstr ""
+msgstr "on enne"
 
 #: ../root/edit/search_macros.tt:121 ../root/edit/search_macros.tt:138
 #, perl-format
 msgid "is between"
-msgstr ""
+msgstr "on vahemikus"
 
 #: ../root/edit/search_macros.tt:251
 #, perl-format
 msgid "is in my subscriptions"
-msgstr ""
+msgstr "on minu tellimustes"
 
 #: ../root/edit/search_macros.tt:138
 #, perl-format
 msgid "is less than"
-msgstr ""
+msgstr "on vähem kui"
 
 #: ../root/edit/search_macros.tt:138
 #, perl-format
 msgid "is more than"
-msgstr ""
+msgstr "on rohkem kui"
 
 #: ../root/edit/search_macros.tt:121 ../root/edit/search_macros.tt:138
 #: ../root/edit/search_macros.tt:155 ../root/edit/search_macros.tt:172
@@ -10378,7 +10378,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:266
 #, perl-format
 msgid "is not"
-msgstr ""
+msgstr "ei ole"
 
 #: ../root/components/common-macros.tt:113
 #, perl-format
@@ -10388,7 +10388,7 @@ msgstr "plaadifirmad"
 #: ../root/components/common-macros.tt:372
 #, perl-format
 msgid "limited user"
-msgstr ""
+msgstr "piiratud kasutaja"
 
 #: ../root/edit/relationship/edit.tt:37 ../root/scripts/text_strings.tt:86
 #, perl-format
@@ -10409,7 +10409,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:17
 #, perl-format
 msgid "newest first"
-msgstr ""
+msgstr "uusimad enne"
 
 #: ../root/user/profile.tt:55
 #, perl-format
@@ -10424,7 +10424,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:18
 #, perl-format
 msgid "oldest first"
-msgstr ""
+msgstr "vanimad enne"
 
 #: ../root/edit/search_macros.tt:155
 #, perl-format
@@ -10459,7 +10459,7 @@ msgstr[1] ""
 #: ../root/edit/search_macros.tt:19
 #, perl-format
 msgid "randomly"
-msgstr ""
+msgstr "juhuslikult"
 
 #: ../root/release/edit/recordings.tt:191
 #: ../root/release/edit/recordings.tt:262
@@ -10500,7 +10500,7 @@ msgstr "Otsitav"
 #: ../root/layout/sidebar/sidebar-rating.tt:5
 #, perl-format
 msgid "see all ratings"
-msgstr ""
+msgstr "vaata kõiki"
 
 #: ../root/release/header.tt:10
 #, perl-format
@@ -10633,7 +10633,7 @@ msgstr "{doc|Isetoimetaja}"
 #: ../root/cdstub/index.tt:13
 #, perl-format
 msgid "{doc|Disc ID}:"
-msgstr "{doc|Plaadi ID}:"
+msgstr "{doc|Plaadi-ID}:"
 
 #: ../root/user/profile.tt:47
 #, perl-format
@@ -11128,7 +11128,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:180
 msgid "Total"
-msgstr ""
+msgstr "Kokku"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAnnotation.pm:12
 msgid "Add artist annotation"
@@ -11514,7 +11514,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:116
 #, perl-brace-format
 msgid "{b} and {a}"
-msgstr ""
+msgstr "{b} ja {a}"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:25
 msgid "Filter release groups"
@@ -11746,19 +11746,19 @@ msgstr "Vanuse näitamiseks pead sisestama täieliku sünnikuupäeva."
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Daily"
-msgstr ""
+msgstr "Iga päev"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:82
 msgid "Weekly"
-msgstr ""
+msgstr "Iga nädal"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:83
 msgid "Never"
-msgstr ""
+msgstr "Mitte kunagi"
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
-msgstr ""
+msgstr "See kastajanimi on juba võetud, palun vali uus."
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
