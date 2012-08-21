@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-21 21:19+0000\n"
+"PO-Revision-Date: 2012-08-21 22:08+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -489,7 +489,7 @@ msgstr ""
 #: ../root/release/cover_art.tt:49
 #, perl-format
 msgid "Add Cover Art"
-msgstr ""
+msgstr "Lisa kaanepilt"
 
 #: ../root/release/edit/tracklist.tt:167 ../root/release/edit/tracklist.tt:293
 #: ../root/release/edit/tracklist.tt:492
@@ -2007,31 +2007,31 @@ msgstr "Parooli muutmine"
 #: ../root/edit/relationship/edit.tt:80
 #, perl-format
 msgid "Change direction"
-msgstr ""
+msgstr "Muuda suunda"
 
 #: ../root/release/change_quality.tt:1 ../root/release/change_quality.tt:2
 #, perl-format
 msgid "Change release data quality"
-msgstr ""
+msgstr "Muuda väljalaske andmekvaliteeti"
 
 #: ../root/release/sidebar.tt:78
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseGroup.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Release/Move.pm:17
 #, perl-format
 msgid "Change release group"
-msgstr ""
+msgstr "Muuda väljalaskerühma"
 
 #: ../root/release/sidebar.tt:77
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseQuality.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Release/ChangeQuality.pm:18
 #, perl-format
 msgid "Change release quality"
-msgstr ""
+msgstr "Muuda väljalaske andmekvaliteeti"
 
 #: ../root/edit/vote.tt:27
 #, perl-format
 msgid "Change vote"
-msgstr ""
+msgstr "Muuda hääl"
 
 #: ../root/annotation/common.tt:9 ../root/annotation/edit.tt:21
 #: ../root/edit/details/add_artist_annotation.tt:7
@@ -2042,12 +2042,12 @@ msgstr ""
 #: ../root/edit/details/historic/add_release_annotation.tt:19
 #, perl-format
 msgid "Changelog:"
-msgstr ""
+msgstr "Muutuste logi:"
 
 #: ../root/edit/index.tt:9
 #, perl-format
 msgid "Changes"
-msgstr ""
+msgstr "Muutused"
 
 #: ../root/edit/details/add_relationship_attribute.tt:11
 #: ../root/edit/details/edit_relationship_attribute.tt:16
@@ -2061,7 +2061,7 @@ msgstr ""
 #: ../root/release/cover_art_uploader.tt:15
 #, perl-format
 msgid "Choose file:"
-msgstr ""
+msgstr "Vali fail:"
 
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
@@ -2111,7 +2111,7 @@ msgstr ""
 #: ../root/edit/details/add_puids.tt:3
 #, perl-format
 msgid "Client:"
-msgstr ""
+msgstr "Klient:"
 
 #: ../root/edit/search_macros.tt:282
 #, perl-format
@@ -2306,7 +2306,7 @@ msgstr "Kaanepilt:"
 #: ../root/admin/wikidoc/create.tt:12
 #, perl-format
 msgid "Create"
-msgstr ""
+msgstr "Loo"
 
 #: ../root/account/register.tt:43 ../root/layout/menu.tt:98
 #, perl-format
@@ -2318,12 +2318,12 @@ msgstr "Loo konto"
 #: ../root/edit/relationship/create.tt:15
 #, perl-format
 msgid "Create Relationship"
-msgstr ""
+msgstr "Loo seos"
 
 #: ../root/release/sidebar.tt:145 ../root/user/collections.tt:42
 #, perl-format
 msgid "Create a new collection"
-msgstr ""
+msgstr "Loo uus kogu"
 
 #: ../root/relationship/linkattributetype/instruments.tt:8
 #, perl-format
@@ -2419,7 +2419,7 @@ msgstr "Ajavorming:"
 #: ../root/release/edit/information.tt:65 ../root/release/sidebar.tt:21
 #, perl-format
 msgid "Date:"
-msgstr "Kuupäev"
+msgstr "Kuupäev:"
 
 #: ../root/alias/edit_form.tt:18 ../root/artist/edit_form.tt:50
 #: ../root/label/edit_form.tt:50
@@ -3180,7 +3180,7 @@ msgstr ""
 #: ../root/components/forms.tt:13
 #, perl-format
 msgid "Enable {autoed|auto-editor} privileges for this edit."
-msgstr ""
+msgstr "Kasutatakse {autoed|isetoimetaja} õigusi"
 
 #: ../root/cdtoc/info.tt:34 ../root/search/lib/inline-results-artist.tt:11
 #: ../root/search/results-label.tt:15
@@ -3236,12 +3236,12 @@ msgstr ""
 #: ../root/release/edit/editnote.tt:42
 #, perl-format
 msgid "Enter edit"
-msgstr ""
+msgstr "Toimeta"
 
 #: ../root/edit/vote.tt:29
 #, perl-format
 msgid "Enter vote"
-msgstr ""
+msgstr "Hääleta"
 
 #: ../root/account/lost_username.tt:7
 #, perl-format
@@ -3289,8 +3289,8 @@ msgstr "Veateade: "
 #, perl-format
 msgid "Error:"
 msgid_plural "Errors:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Viga:"
+msgstr[1] "Vead:"
 
 #: ../root/components/common-macros.tt:113
 #, perl-format
@@ -3300,7 +3300,7 @@ msgstr ""
 #: ../root/forms/edit-note.tt:9
 #, perl-format
 msgid "Even just providing a URL or two is helpful!"
-msgstr ""
+msgstr "Isegi lihtsalt üks-kaks internetiaadressi on abiks!"
 
 #: ../root/release/edit/tracklist.tt:173
 #, perl-format
@@ -3310,7 +3310,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:249
 #, perl-format
 msgid "Expand"
-msgstr ""
+msgstr "Laienda"
 
 #: ../root/release/edit/tracklist.tt:361
 #, perl-format
@@ -3468,8 +3468,8 @@ msgstr ""
 #, perl-format
 msgid "Found in {num} user collection"
 msgid_plural "Found in {num} user collections"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Leidub {num} kasutaja kogus"
+msgstr[1] "Leidub {num} kasutaja kogus"
 
 #: ../root/release/lookup.tt:4
 #, perl-format
@@ -6064,17 +6064,17 @@ msgstr "Seosta..."
 #: ../root/release/edit-links.tt:3
 #, perl-format
 msgid "Relate to <abbr title=\"Uniform Resource Locator\">URL</abbr>"
-msgstr ""
+msgstr "Seosta <abbr title=\"Uniform Resource Locator, internetiaadress\">URL</abbr>-iga"
 
 #: ../root/components/common-macros.tt:504
 #, perl-format
 msgid "Relate to recordings"
-msgstr ""
+msgstr "Seosta salvestistega"
 
 #: ../root/components/common-macros.tt:504
 #, perl-format
 msgid "Relate to release"
-msgstr ""
+msgstr "Seosta väljalaskega"
 
 #: ../root/release/sidebar.tt:100
 #, perl-format
@@ -6859,7 +6859,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:57 ../root/release/sidebar.tt:34
 #, perl-format
 msgid "Script:"
-msgstr "Kirjasüsteem"
+msgstr "Kirjasüsteem:"
 
 #: ../root/cdtoc/attach_filter_artist.tt:10
 #: ../root/cdtoc/attach_filter_release.tt:30 ../root/cdtoc/lookup.tt:62
@@ -7529,7 +7529,7 @@ msgstr "Statistika"
 #: ../root/release/lookup.tt:14
 #, perl-format
 msgid "Status"
-msgstr ""
+msgstr "Staatus"
 
 #: ../root/edit/details/add_release.tt:39
 #: ../root/edit/details/edit_release.tt:46
@@ -7538,7 +7538,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:55 ../root/release/sidebar.tt:34
 #, perl-format
 msgid "Status:"
-msgstr ""
+msgstr "Staatus:"
 
 #: ../root/watch/list.tt:28
 #, perl-format
@@ -9563,7 +9563,7 @@ msgid ""
 "Warning! \"1990-10-25\" is the bogus date that Amazon gives to all releases "
 "for which they don't know the actual date. <b>Please use this date only if "
 "you're certain this date is correct!</b>"
-msgstr "Hoiatus! „1990-10-25” on libaväljalaskekuupäev, mille Amazon määrab kõigile väljalasetele, mille tegelikku väljalaskekuupäeva nad ei tea. <b>Enne selle sisestamist palun veendu, et see on tõesti õige.</b>"
+msgstr "Hoiatus! „25.10.1990” on libaväljalaskekuupäev, mille Amazon määrab kõigile väljalasetele, mille tegelikku väljalaskekuupäeva nad ei tea. <b>Enne selle sisestamist palun veendu, et see on tõesti õige.</b>"
 
 #: ../root/artist/edit_form.tt:18 ../root/label/edit_form.tt:14
 #, perl-format
@@ -9604,7 +9604,7 @@ msgstr ""
 #: ../root/release/cover_art.tt:38
 #, perl-format
 msgid "We do not currently have any cover art for {release}."
-msgstr ""
+msgstr "„{release}” on hetkel ilma kaanepildita."
 
 #: ../root/cdtoc/lookup.tt:78
 #, perl-format
@@ -10069,7 +10069,7 @@ msgstr ""
 #: ../root/release/sidebar.tt:143
 #, perl-format
 msgid "You have no collections!"
-msgstr ""
+msgstr "Sul pole kogusid."
 
 #: ../root/user/collections.tt:35
 #, perl-format
@@ -10505,7 +10505,7 @@ msgstr "vaata kõiki"
 #: ../root/release/header.tt:10
 #, perl-format
 msgid "see all versions of this release, {count} available"
-msgstr ""
+msgstr "vaata väljalaske kõiki variante, {count} saadaval"
 
 #: ../root/user/profile.tt:36
 #, perl-format
