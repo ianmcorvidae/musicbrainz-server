@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-21 22:08+0000\n"
+"PO-Revision-Date: 2012-08-22 09:46+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:38
 #, perl-format
 msgid " &ndash; ????"
-msgstr " &ndash; ?"
+msgstr " – ?"
 
 #: ../root/account/lost_password.tt:7
 #, perl-format
@@ -95,7 +95,7 @@ msgstr ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:29
 #, perl-format
 msgid "&ndash; {enddate}"
-msgstr "&ndash; {enddate}"
+msgstr "– {enddate}"
 
 #: ../root/components/tag-cloud.tt:26
 #, perl-format
@@ -3805,7 +3805,7 @@ msgstr ""
 msgid ""
 "If the problem persists, please {report|report a bug} and include any error "
 "message that is shown above."
-msgstr ""
+msgstr "Kui aga probleem püsib, siis palun {report|teata veast} ja kui ülalpool on mõni veateade, lisa see vea kirjeldusse."
 
 #: ../root/release/edit/information.tt:168
 #, perl-format
@@ -4266,7 +4266,7 @@ msgid ""
 "Like Wikipedia, MusicBrainz is maintained by a global community of users and"
 " we want everyone &mdash; including you &mdash; to {doc|participate and "
 "contribute}."
-msgstr "Nagu Wikipediat, hooldab ka MusicBrainzi üleilmne kasutajate kogukond ja me tahame, et kõik &mdash; ka sina &mdash; {doc|osaleks ja aitaks kaasa}."
+msgstr "Nagu Wikipediat, hooldab ka MusicBrainzi üleilmne kasutajate kogukond ja me tahame, et kõik — ka sina — {doc|osaleks ja aitaks kaasa}."
 
 #: ../root/user/profile.tt:49
 #, perl-format
@@ -5499,7 +5499,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Please be sure to include the stack trace and request data shown above!"
-msgstr ""
+msgstr "Kindlasti pane kirja ka ülaltoodud pinu tagasijälitus ning päringuandmed."
 
 #: ../root/release/cover_art_uploader.tt:19
 #, perl-format
@@ -5938,7 +5938,7 @@ msgstr "Hinnangud"
 #: ../root/main/index.tt:13
 #, perl-format
 msgid "Read more &raquo;"
-msgstr "Loe veel &raquo;"
+msgstr "Loe veel »"
 
 #: ../root/admin/wikidoc/index.tt:56
 #, perl-format
@@ -6777,7 +6777,7 @@ msgstr ""
 #: ../root/main/500.tt:27
 #, perl-format
 msgid "Request data:"
-msgstr ""
+msgstr "Päringuandmed:"
 
 #: ../root/edit/info.tt:48
 #, perl-format
@@ -7503,7 +7503,7 @@ msgstr "Sponsorid"
 #: ../root/main/500.tt:19
 #, perl-format
 msgid "Stack trace:"
-msgstr ""
+msgstr "Pinu tagasijälitus:"
 
 #: ../root/cdtoc/info.tt:32
 #, perl-format
@@ -9673,7 +9673,7 @@ msgstr "Seda kasutatakse kasutajalehel vanuse näitamiseks."
 msgid ""
 "We're terribly sorry for this problem. Please wait a few minutes and repeat "
 "your request &mdash; the problem may go away."
-msgstr ""
+msgstr "Meil on selle probleemi pärast kohutavalt kahju. Palun oota paar minutit ja proovi siis uuesti — probleem võib olla lahenenud."
 
 #: ../root/account/lost_username_sent.tt:5
 #, perl-format
@@ -10562,7 +10562,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "{about|More Information} &mdash; {faq|FAQs} &mdash; {contact|Contact Us}"
-msgstr "{about|Lisateave} &mdash; {faq|KKK} &mdash; {contact|Kontakt}"
+msgstr "{about|Lisateave} — {faq|KKK} — {contact|Kontakt}"
 
 #: ../root/artist/works-list.tt:36 ../root/iswc/index.tt:36
 #: ../root/otherlookup/results-work.tt:20 ../root/search/results-work.tt:26
@@ -10590,17 +10590,17 @@ msgstr[1] ""
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:34
 #, perl-format
 msgid "{begindate} &ndash;"
-msgstr "{begindate} &ndash;"
+msgstr "{begindate} –"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:32
 #, perl-format
 msgid "{begindate} &ndash; ????"
-msgstr "{begindate} &ndash; ?"
+msgstr "{begindate} – ?"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:27
 #, perl-format
 msgid "{begindate} &ndash; {enddate}"
-msgstr "{begindate} &ndash; {enddate}"
+msgstr "{begindate} – {enddate}"
 
 #: ../root/release/collections.tt:10
 #, perl-format
@@ -11779,7 +11779,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:155
 msgid "Frequently used"
-msgstr ""
+msgstr "Sageli kasutatavad"
 
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:155
@@ -11887,8 +11887,8 @@ msgstr "Väljalasketeave"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
-msgstr ""
+msgstr "Puuduvate olemite lisamine"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:128
 msgid "Release Duplicates"
-msgstr ""
+msgstr "Väljalaske duplikaadid"
