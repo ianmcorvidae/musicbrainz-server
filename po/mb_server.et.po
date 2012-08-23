@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-23 20:11+0000\n"
+"PO-Revision-Date: 2012-08-23 22:23+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -314,7 +314,7 @@ msgid ""
 "license. Furthermore, you give the MetaBrainz Foundation the right to "
 "license this data for commercial use. Please read our {doc|license page} for"
 " more details.</strong>"
-msgstr ""
+msgstr "<strong>Pane tähele, et kogu kaastöö MusicBrainzile läheb avalikku omandisse ja/või avaldatakse Creative Commonsi by-nc-sa litsentsiga (autorile viitamine + mitteäriline eesmärk + jagamine samadel tingimustel). Veelgi enam, sa annad MetaBrainz Foundationile õiguse neid andmeid ärikasutuseks edasi litsentsida. Üksikasjade saamiseks loe palun läbi meie {doc|litsentsileht}.</strong>"
 
 #: ../root/admin/wikidoc/index.tt:68
 #, perl-format
@@ -1307,27 +1307,27 @@ msgstr ""
 #: ../root/components/forms.tt:249 ../root/release/edit/tracklist.tt:44
 #, perl-format
 msgid "Artist in MusicBrainz"
-msgstr ""
+msgstr "Artist MusicBrainzis"
 
 #: ../root/artist/layout.tt:4
 #, perl-format
 msgid "Artist information"
-msgstr ""
+msgstr "Artisti teave"
 
 #: ../root/edit/details/historic/add_track_old.tt:20
 #, perl-format
 msgid "Artist name:"
-msgstr ""
+msgstr "Artisti nimi:"
 
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Artist ratings"
-msgstr ""
+msgstr "Artisti hinnangud"
 
 #: ../root/cdstub/edit.tt:67
 #, perl-format
 msgid "Artist {n}:"
-msgstr ""
+msgstr "Artist {n}:"
 
 #: ../root/cdstub/edit.tt:55 ../root/cdstub/import.tt:7
 #: ../root/cdtoc/attach_filter_artist.tt:8 ../root/cdtoc/lookup.tt:60
@@ -1358,7 +1358,7 @@ msgstr ""
 #: ../root/taglookup/form.tt:4
 #, perl-format
 msgid "Artist:"
-msgstr ""
+msgstr "Artist:"
 
 #: ../root/artist/works-list.tt:11 ../root/iswc/index.tt:18
 #: ../root/otherlookup/results-work.tt:9
@@ -1367,7 +1367,7 @@ msgstr ""
 #: ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #, perl-format
 msgid "Artists"
-msgstr ""
+msgstr "Artistid"
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:1
 #: ../root/report/artists_containing_disambiguation_comments.tt:3
@@ -2387,7 +2387,7 @@ msgstr "Andmekvaliteet:"
 #: ../root/layout/menu.tt:278
 #, perl-format
 msgid "Data Removal Policy"
-msgstr ""
+msgstr "Andmete eemaldamise põhimõtted"
 
 #: ../root/annotation/history.tt:9 ../root/artist/relationships.tt:13
 #: ../root/cdtoc/attach_artist_releases.tt:35
@@ -2814,7 +2814,7 @@ msgstr ""
 #: ../root/edit/not_found.tt:1 ../root/edit/not_found.tt:2
 #, perl-format
 msgid "Edit Not Found"
-msgstr ""
+msgstr "Toimetust ei leitud"
 
 #: ../root/forms/edit-note.tt:2
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:80
@@ -2887,7 +2887,7 @@ msgstr ""
 #: ../root/layout/menu.tt:245
 #, perl-format
 msgid "Edit Types"
-msgstr ""
+msgstr "Toimetusetüübid"
 
 #: ../root/url/edit.tt:14 ../root/url/edit.tt:15
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:22
@@ -3884,7 +3884,7 @@ msgstr ""
 msgid ""
 "If you have any questions, please review the {faq|FAQs} or "
 "{doc|documentation} before {con|contacting us}. "
-msgstr ""
+msgstr "Kui sul on küsimusi, vaata palun {faq|KKK}-d ja {doc|dokumentatsiooni}, enne kui meiega {con|ühendust võtad}. "
 
 #: ../root/artist/add_alias.tt:6 ../root/artist/edit_alias.tt:6
 #, perl-format
@@ -4690,7 +4690,7 @@ msgid ""
 "MusicBrainz believes strongly in the privacy of its users! Any personal "
 "information you choose to provide will not be sold or shared with anyone "
 "else. For full details, please read our {doc|Privacy Policy}."
-msgstr ""
+msgstr "MusicBrainz usub tugevalt oma kasutajate privaatsusse. Ükskõik millist sisestatud isiklikku teavet ei müüda ega jagata kellegi teisega. Täielikud üksikasjad leiad meie {doc|privaatsuspõhimõtetest}."
 
 #: ../root/cdtoc/lookup.tt:83
 #, perl-format
@@ -4707,7 +4707,7 @@ msgstr "MusicBrainz Androidile"
 msgid ""
 "MusicBrainz has one account type for all users. If you represent an artist "
 "or label, please use the above form to create an account."
-msgstr ""
+msgstr "MusicBrainzis on kõigile kasutajatele sama kontotüüp. Kui esindad artisti või plaadifirmat, kasuta konto loomiseks sedasama ülalolevat vormi."
 
 #: ../root/main/index.tt:44
 #, perl-format
@@ -6772,7 +6772,7 @@ msgstr "Teata autoriõiguse rikkumisest"
 #: ../root/report/index.tt:3
 #, perl-format
 msgid "Reports"
-msgstr ""
+msgstr "Ettekanded"
 
 #: ../root/main/500.tt:27
 #, perl-format
@@ -6876,7 +6876,7 @@ msgstr "Otsi"
 #: ../root/layout/menu.tt:184
 #, perl-format
 msgid "Search Edits"
-msgstr ""
+msgstr "Otsi toimetusi"
 
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 #, perl-format
@@ -6920,7 +6920,7 @@ msgstr "Otsi väljalaske järgi"
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
 #, perl-format
 msgid "Search for Edits"
-msgstr ""
+msgstr "Toimetuste otsimine"
 
 #: ../root/search/editor.tt:1
 #, perl-format
@@ -7382,7 +7382,7 @@ msgstr ""
 msgid ""
 "Sorry, we could not find an edit with that edit ID. You may wish to try and "
 "perform an {search_url|edit search} instead."
-msgstr ""
+msgstr "Vabandust, selle ID-ga toimetust ei leitud. Võibolla tahad proovida {search_url|toimetusi otsida}."
 
 #: ../root/user/not_found.tt:4
 #, perl-format
@@ -10124,7 +10124,7 @@ msgstr ""
 msgid ""
 "You must provide a working email address if you wish to contribute to the "
 "database."
-msgstr ""
+msgstr "Kui soovid andmebaasile kaastööd teha, pead sisestama töötava e-posti aadressi."
 
 #: ../root/cdtoc/remove.tt:11
 #, perl-format
@@ -10199,7 +10199,7 @@ msgstr ""
 #: ../root/account/register.tt:27
 #, perl-format
 msgid "Your username will be publicly visible."
-msgstr ""
+msgstr "Sinu kasutajanimi saab avalikult nähtavaks."
 
 #: ../root/scripts/text_strings.tt:33
 #, perl-format
