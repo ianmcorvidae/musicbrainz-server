@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-23 17:32+0000\n"
+"PO-Revision-Date: 2012-08-23 19:57+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -445,7 +445,7 @@ msgstr ""
 #: ../root/admin/edit_user.tt:23 ../root/admin/edit_user.tt:27
 #, perl-format
 msgid "Account admin"
-msgstr ""
+msgstr "Kontoadministraator"
 
 #: ../root/search/results-freedb.tt:15
 #, perl-format
@@ -467,18 +467,18 @@ msgstr "Lisa <abbr title=\"Creative Commons\">CC</abbr>-litsents"
 #: ../root/layout/menu.tt:203
 #, perl-format
 msgid "Add Artist"
-msgstr ""
+msgstr "Lisa artist"
 
 #: ../root/artist/add_alias.tt:1
 #, perl-format
 msgid "Add Artist Alias"
-msgstr ""
+msgstr "Artisti aliase lisamine"
 
 #: ../root/components/forms.tt:285 ../root/components/forms.tt:289
 #: ../root/release/edit/tracklist.tt:84 ../root/release/edit/tracklist.tt:89
 #, perl-format
 msgid "Add Artist Credit"
-msgstr ""
+msgstr "Lisa artisti nimekuju"
 
 #: ../root/cdstub/logged_in.tt:1 ../root/cdstub/logged_in.tt:2
 #, perl-format
@@ -565,7 +565,7 @@ msgstr "Lisa seos URL-iga"
 #: ../root/layout/menu.tt:215
 #, perl-format
 msgid "Add Various Artists Release"
-msgstr ""
+msgstr "Lisa eri esitajate väljalase"
 
 #: ../root/layout/menu.tt:221 ../root/work/create.tt:15
 #: ../root/work/create.tt:16
@@ -581,7 +581,7 @@ msgstr "Lisa teose alias"
 #: ../root/artist/create.tt:16 ../root/artist/create.tt:18
 #, perl-format
 msgid "Add a New Artist"
-msgstr ""
+msgstr "Uue artisti lisamine"
 
 #: ../root/collection/create.tt:1 ../root/collection/create.tt:3
 #, perl-format
@@ -658,12 +658,12 @@ msgstr "Lisa veel üks rada"
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAlias.pm:14
 #, perl-format
 msgid "Add artist alias"
-msgstr ""
+msgstr "Artisti aliase lisamine"
 
 #: ../root/relationship/linkattributetype/common.tt:24
 #, perl-format
 msgid "Add child"
-msgstr ""
+msgstr "Lisa alamobjekt"
 
 #: ../root/cdstub/layout.tt:23
 #, perl-format
@@ -816,17 +816,17 @@ msgstr ""
 #: ../root/layout/menu.tt:78
 #, perl-format
 msgid "Admin"
-msgstr ""
+msgstr "Haldus"
 
 #: ../root/admin/index.tt:1 ../root/admin/index.tt:3
 #, perl-format
 msgid "Administration"
-msgstr ""
+msgstr "Haldamine"
 
 #: ../root/admin/edit_user.tt:15
 #, perl-format
 msgid "Administration flags"
-msgstr ""
+msgstr "Haldusvalikud"
 
 #: ../root/user/profile.tt:61
 #, perl-format
@@ -841,7 +841,7 @@ msgstr "Alias"
 #: ../root/alias/edit_form.tt:3
 #, perl-format
 msgid "Alias name:"
-msgstr ""
+msgstr "Aliase nimi:"
 
 #: ../root/edit/details/add_artist_alias.tt:7
 #: ../root/edit/details/add_label_alias.tt:7
@@ -1242,12 +1242,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:33
 #, perl-format
 msgid "Artist"
-msgstr ""
+msgstr "Artist"
 
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Artist Country"
-msgstr ""
+msgstr "Artisti riik"
 
 #: ../root/edit/details/edit_artist_credit.tt:5
 #, perl-format
@@ -1267,17 +1267,17 @@ msgstr ""
 #: ../root/artist/edit_form.tt:37
 #, perl-format
 msgid "Artist Details"
-msgstr ""
+msgstr "Artisti üksikasjad"
 
 #: ../root/otherlookup/form.tt:3
 #, perl-format
 msgid "Artist IPI:"
-msgstr ""
+msgstr "Artisti IPI:"
 
 #: ../root/artist/not_found.tt:1 ../root/artist/not_found.tt:2
 #, perl-format
 msgid "Artist Not Found"
-msgstr ""
+msgstr "Artisti ei leitud"
 
 #: ../root/user/subscriptions/artist.tt:1 ../root/user/subscriptions/menu.tt:3
 #, perl-format
@@ -2116,7 +2116,7 @@ msgstr "Klient:"
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Closed"
-msgstr ""
+msgstr "Suletud"
 
 #: ../root/edit/info.tt:42
 #, perl-format
@@ -2363,7 +2363,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Created"
-msgstr ""
+msgstr "Loodud"
 
 #: ../root/layout/menu.tt:113
 #, perl-format
@@ -2453,7 +2453,7 @@ msgstr ""
 #: ../root/admin/delete_user.tt:2 ../root/user/profile/layout.tt:39
 #, perl-format
 msgid "Delete User"
-msgstr ""
+msgstr "Kasutaja kustutamine"
 
 #: ../root/admin/delete_user.tt:23
 #, perl-format
@@ -2799,7 +2799,7 @@ msgstr ""
 #: ../root/layout/menu.tt:85
 #, perl-format
 msgid "Edit Instrument Tree"
-msgstr ""
+msgstr "Muuda instrumendipuud"
 
 #: ../root/label/edit.tt:15
 #, perl-format
@@ -2860,7 +2860,7 @@ msgstr ""
 #: ../root/admin/index.tt:6 ../root/layout/menu.tt:82
 #, perl-format
 msgid "Edit Relationship Types"
-msgstr ""
+msgstr "Muuda seosetüüpe"
 
 #: ../root/release/edit_annotation.tt:1
 #, perl-format
@@ -2898,7 +2898,7 @@ msgstr ""
 #: ../root/user/profile/layout.tt:27
 #, perl-format
 msgid "Edit User"
-msgstr ""
+msgstr "Kasutaja muutmine"
 
 #: ../root/work/edit.tt:15
 #, perl-format
@@ -3330,7 +3330,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Expired"
-msgstr ""
+msgstr "Aegunud"
 
 #: ../root/components/common-macros.tt:554
 #, perl-format
@@ -4113,7 +4113,7 @@ msgstr "Plaadifirma"
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Label Country"
-msgstr ""
+msgstr "Plaadifirma riik"
 
 #: ../root/label/edit_form.tt:33
 #, perl-format
@@ -5149,7 +5149,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "No vote count"
-msgstr ""
+msgstr "Vastuhäälte arv"
 
 #: ../root/tag/work.tt:1
 #, perl-format
@@ -6084,7 +6084,7 @@ msgstr ""
 #: ../root/recording/index.tt:51 ../root/recording/relationships.tt:6
 #, perl-format
 msgid "Related works"
-msgstr ""
+msgstr "Seotud teosed"
 
 #: ../root/relationship/header.tt:2
 #: ../root/relationship/linkattributetype/index.tt:3
@@ -6131,12 +6131,12 @@ msgstr ""
 #: ../root/admin/edit_user.tt:8
 #, perl-format
 msgid "Relationship editor"
-msgstr ""
+msgstr "Seosetoimetaja"
 
 #: ../root/user/privileged.tt:26
 #, perl-format
 msgid "Relationship editors"
-msgstr ""
+msgstr "Seosetoimetajad"
 
 #: ../root/user/privileged.tt:27
 #, perl-format
@@ -6145,7 +6145,7 @@ msgid ""
 "the database. If you would like to propose a new relationship, please do so "
 "through the {url|Style Council}. Relationship editors will only make changes"
 " that have been approved by the Style Council."
-msgstr ""
+msgstr "Seosetoimetajad on kasutajad, kes saavad lisada või muuta seosetüüpe andmebaasis. Kui tahaksid välja pakkuda uue seose, siis palun tee seda läbi {url|Stiilinõukogu}. Seosetoimetajad viivad sisse vaid need muudatused, mille Stiilinõukogu on heaks kiitnud."
 
 #: ../root/edit/details/add_relationship.tt:3
 #: ../root/edit/details/edit_relationship.tt:8
@@ -6196,7 +6196,7 @@ msgstr "Väljalase"
 #: ../root/recording/index.tt:13
 #, perl-format
 msgid "Release Artist"
-msgstr ""
+msgstr "Väljalaskeartist"
 
 #: ../root/recording/index.tt:14
 #, perl-format
@@ -9854,7 +9854,7 @@ msgstr "Poolt"
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Yes vote count"
-msgstr ""
+msgstr "Poolthäälte arv"
 
 #: ../root/elections/nominate.tt:11
 #, perl-format
@@ -10226,7 +10226,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:155
 #, perl-format
 msgid "after"
-msgstr ""
+msgstr "pärast"
 
 #: ../root/components/common-macros.tt:46
 #, perl-format
@@ -10253,12 +10253,12 @@ msgstr ""
 #: ../root/edit/search_macros.tt:155
 #, perl-format
 msgid "before"
-msgstr ""
+msgstr "enne"
 
 #: ../root/edit/search_macros.tt:155
 #, perl-format
 msgid "between"
-msgstr ""
+msgstr "vahemikus"
 
 #: ../root/components/common-macros.tt:373
 #, perl-format
