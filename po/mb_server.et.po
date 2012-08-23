@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-23 19:57+0000\n"
+"PO-Revision-Date: 2012-08-23 20:11+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -191,7 +191,7 @@ msgstr "(privaatne)"
 #: ../root/layout/menu.tt:24
 #, perl-format
 msgid "(reset language)"
-msgstr ""
+msgstr "(lähtesta keel)"
 
 #: ../root/search/lib/inline-results-recording.tt:60
 #, perl-format
@@ -6827,7 +6827,7 @@ msgstr ""
 #: ../root/layout.tt:73
 #, perl-format
 msgid "Running: <span class=\"tooltip\" title=\"{msg}\">{branch} ({sha})</span>"
-msgstr ""
+msgstr "Haru: <span class=\"tooltip\" title=\"{msg}\">{branch} ({sha})</span>"
 
 #: ../root/account/edit.tt:79 ../root/account/preferences.tt:57
 #: ../root/relationship/linkattributetype/form.tt:21
@@ -8899,7 +8899,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:50
 #, perl-format
 msgid "To edit types, please edit the release group."
-msgstr ""
+msgstr "Tüüpide muutmiseks toimeta väljalaskerühma."
 
 #: ../root/elections/show.tt:88
 #, perl-format
@@ -10074,7 +10074,7 @@ msgstr "Sul pole kogusid."
 #: ../root/user/collections.tt:35
 #, perl-format
 msgid "You have no collections."
-msgstr ""
+msgstr "Sul pole kogusid."
 
 #: ../root/recording/edit.tt:42
 #, perl-format
@@ -11179,7 +11179,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrack.pm:11
 msgid "Add track (historic)"
-msgstr ""
+msgstr "Lisa rada (ajalooline)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
 msgid "Add track"
@@ -11187,7 +11187,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeArtistQuality.pm:10
 msgid "Change artist quality (historic)"
-msgstr ""
+msgstr "Muuda artisti andmekvaliteeti (ajalooline)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeTrackArtist.pm:12
 msgid "Change track artist (historic)"
@@ -11216,7 +11216,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackLength.pm:10
 msgid "Edit track length (historic)"
-msgstr ""
+msgstr "Muuda raja pikkust (ajalooline)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditTrackName.pm:20
 msgid "Edit track name (historic)"
@@ -11243,7 +11243,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release (historic)"
-msgstr ""
+msgstr "Teisalda väljalase (ajalooline)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:10
@@ -11265,7 +11265,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases (historic)"
-msgstr ""
+msgstr "Eemlda väljalase (ajalooline)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists (historic)"
@@ -11468,12 +11468,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:89
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:98
 msgid "Awaiting 1st seconder"
-msgstr ""
+msgstr "Oodatakse 1. sekundanti"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:90
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:99
 msgid "Awaiting 2nd seconder"
-msgstr ""
+msgstr "Oodatakse 2. sekundanti"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:91
 #, perl-brace-format
@@ -11483,29 +11483,29 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:92
 #, perl-brace-format
 msgid "Accepted at {date}"
-msgstr ""
+msgstr "Vastuvõetud {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:93
 #, perl-brace-format
 msgid "Declined at {date}"
-msgstr ""
+msgstr "Keeldutud {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:94
 #, perl-brace-format
 msgid "Cancelled at {date}"
-msgstr ""
+msgstr "Loobutud {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:100
 msgid "Voting open"
-msgstr ""
+msgstr "Hääletamine avatud"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:102
 msgid "Declined"
-msgstr ""
+msgstr "Keeldutud"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:103
 msgid "Cancelled"
-msgstr ""
+msgstr "Loobutud"
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
