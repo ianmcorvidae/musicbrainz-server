@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-23 22:23+0000\n"
+"PO-Revision-Date: 2012-08-24 19:26+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -871,7 +871,7 @@ msgstr "Aliased"
 #: ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "All Edits"
-msgstr ""
+msgstr "Kõik toimetused"
 
 #: ../root/layout/menu.tt:66
 #, perl-format
@@ -938,12 +938,12 @@ msgstr ""
 #: ../root/report/asins_with_multiple_releases.tt:3
 #, perl-format
 msgid "Amazon URLs Linked to Multiple Releases"
-msgstr ""
+msgstr "Mitme väljalaskega lingitud Amazoni URL-id"
 
 #: ../root/report/index.tt:50
 #, perl-format
 msgid "Amazon URLs linked to multiple releases"
-msgstr ""
+msgstr "Mitme väljalaskega lingitud Amazoni URL-id"
 
 #: ../root/artist/subscribers.tt:17 ../root/label/subscribers.tt:17
 #: ../root/user/subscribers.tt:17
@@ -1374,7 +1374,7 @@ msgstr "Artistid"
 #: ../root/report/index.tt:22
 #, perl-format
 msgid "Artists containing disambiguation comments in their name"
-msgstr ""
+msgstr "Artistid, mille nimes on täpsustav märkus"
 
 #: ../root/browse/artist.tt:8
 #, perl-format
@@ -1385,35 +1385,35 @@ msgstr ""
 #: ../root/report/possible_collaborations.tt:3
 #, perl-format
 msgid "Artists that may be collaborations"
-msgstr ""
+msgstr "Artistid, mis võivad olla koostööd"
 
 #: ../root/report/artists_that_may_be_groups.tt:1
 #: ../root/report/artists_that_may_be_groups.tt:3 ../root/report/index.tt:17
 #, perl-format
 msgid "Artists that may be groups"
-msgstr ""
+msgstr "Artistid, mis võivad olla grupid"
 
 #: ../root/report/artists_that_may_be_persons.tt:1
 #: ../root/report/artists_that_may_be_persons.tt:3 ../root/report/index.tt:18
 #, perl-format
 msgid "Artists that may be persons"
-msgstr ""
+msgstr "Artistid, mis võivad olla isikud"
 
 #: ../root/report/index.tt:20
 #, perl-format
 msgid "Artists which have collaboration relationships"
-msgstr ""
+msgstr "Artistid koostöö-seostega"
 
 #: ../root/report/index.tt:21
 #, perl-format
 msgid "Artists which look like collaborations"
-msgstr ""
+msgstr "Artistid, mis näevad välja nagu koostööd"
 
 #: ../root/report/collaboration_relationships.tt:1
 #: ../root/report/collaboration_relationships.tt:3
 #, perl-format
 msgid "Artists with Collaboration Relationships"
-msgstr ""
+msgstr "Artistid koostöö-seostega"
 
 #: ../root/recording/fingerprints.tt:3
 #, perl-format
@@ -2620,55 +2620,55 @@ msgstr "Diskograafia"
 #: ../root/report/discogs_links_with_multiple_artists.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Artists"
-msgstr ""
+msgstr "Mitme artistiga lingitud Discogsi URL-id"
 
 #: ../root/report/discogs_links_with_multiple_labels.tt:1
 #: ../root/report/discogs_links_with_multiple_labels.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Labels"
-msgstr ""
+msgstr "Mitme plaadifirmaga lingitud Discogsi URL-id"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Release Groups"
-msgstr ""
+msgstr "Mitme väljalaskerühmaga lingitud Discogsi URL-id"
 
 #: ../root/report/discogs_links_with_multiple_releases.tt:1
 #: ../root/report/discogs_links_with_multiple_releases.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Releases"
-msgstr ""
+msgstr "Mitme väljalaskega lingitud Discogsi URL-id"
 
 #: ../root/report/index.tt:23
 #, perl-format
 msgid "Discogs URLs linked to multiple artists"
-msgstr ""
+msgstr "Mitme artistiga lingitud Discogsi URL-id"
 
 #: ../root/report/index.tt:29
 #, perl-format
 msgid "Discogs URLs linked to multiple labels"
-msgstr ""
+msgstr "Mitme plaadifirmaga lingitud Discogsi URL-id"
 
 #: ../root/report/index.tt:37
 #, perl-format
 msgid "Discogs URLs linked to multiple release groups"
-msgstr ""
+msgstr "Mitme väljalaskerühmaga lingitud Discogsi URL-id"
 
 #: ../root/report/index.tt:51
 #, perl-format
 msgid "Discogs URLs linked to multiple releases"
-msgstr ""
+msgstr "Mitme väljalaskega lingitud Discogsi URL-id"
 
 #: ../root/report/separate_discs.tt:1 ../root/report/separate_discs.tt:3
 #, perl-format
 msgid "Discs as Separate Releases"
-msgstr ""
+msgstr "Plaadid eraldi väljalasetena"
 
 #: ../root/report/index.tt:53
 #, perl-format
 msgid "Discs entered as separate releases"
-msgstr ""
+msgstr "Eraldi väljalasetena sisestatud plaadid"
 
 #: ../root/artist/index.tt:15 ../root/artist/layout.tt:26
 #: ../root/scripts/text_strings.tt:73
@@ -2706,7 +2706,7 @@ msgstr "Anneta"
 #: ../root/user/profile/layout.tt:33
 #, perl-format
 msgid "Donation Check"
-msgstr ""
+msgstr "Annetuse kontroll"
 
 #: ../root/release/edit/tracklist.tt:160 ../root/scripts/text_strings.tt:29
 #, perl-format
@@ -2962,7 +2962,7 @@ msgstr ""
 #: ../root/admin/edit_user.tt:30
 #, perl-format
 msgid "Edit profile"
-msgstr ""
+msgstr "Profiili muutmine"
 
 #: ../root/recording/edit.tt:32
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
@@ -2988,7 +2988,7 @@ msgstr ""
 #: ../root/admin/edit_user.tt:40
 #, perl-format
 msgid "Edit user"
-msgstr ""
+msgstr "Muuda kasutajat"
 
 #: ../root/work/edit_alias.tt:2
 #: ../lib/MusicBrainz/Server/Edit/Work/EditAlias.pm:13
@@ -3739,7 +3739,7 @@ msgstr "ISRC-d"
 #: ../root/report/isrc_with_many_recordings.tt:3
 #, perl-format
 msgid "ISRCs with multiple recordings"
-msgstr ""
+msgstr "Mitme salvestisega ISRC-d"
 
 #: ../root/artist/works-list.tt:12 ../root/search/results-work.tt:13
 #, perl-format
@@ -3944,7 +3944,7 @@ msgid ""
 "database looking for data that might require fixing, either to comply with "
 "the {style|style guidelines}, or in other cases where administrative \"clean"
 " up\" tasks are required."
-msgstr ""
+msgstr "Kui soovid toimetamises osaleda, aga ei tea, millest alustada, siis peaks järgnev loetelu kasulik olema. Linkide taga on andmebaasist automaatselt leitud andmed, mis võivad vajada parandamist, kas siis {style|stiilijuhistega} vastavusse viimiseks või muude „puhastustööde” korras."
 
 #: ../root/account/register.tt:53
 #, perl-format
@@ -4010,12 +4010,12 @@ msgstr "Vale kasutajanimi või parool"
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:54
 #, perl-format
 msgid "Indexed search"
-msgstr ""
+msgstr "Indekseeritud otsing"
 
 #: ../root/search/form.tt:29
 #, perl-format
 msgid "Indexed search with {doc|advanced query syntax}"
-msgstr ""
+msgstr "Indekseeritud otsing {doc|laiendatud päringusüntaksiga}"
 
 #: ../root/release/edit/recordings.tt:394
 #, perl-format
@@ -4037,7 +4037,7 @@ msgstr "Sisemine viga serveris"
 #: ../root/user/profile.tt:46
 #, perl-format
 msgid "Internal/Bot"
-msgstr ""
+msgstr "Sisemine/bot"
 
 #: ../root/edit/details/merge_common.tt:17
 #: ../root/edit/details/merge_recordings.tt:10
@@ -5312,7 +5312,7 @@ msgstr "Oih, midagi läks valesti!"
 #: ../root/user/profile/layout.tt:19
 #, perl-format
 msgid "Open Edits"
-msgstr ""
+msgstr "Lahtised toimetused"
 
 #: ../root/artist/layout.tt:112 ../root/edit/list_header.tt:11
 #: ../root/label/layout.tt:84 ../root/recording/layout.tt:57
@@ -5320,7 +5320,7 @@ msgstr ""
 #: ../root/url/layout.tt:14 ../root/work/layout.tt:60
 #, perl-format
 msgid "Open edits"
-msgstr ""
+msgstr "Lahtised toimetused"
 
 #: ../root/components/common-macros.tt:399
 #: ../root/components/common-macros.tt:404
@@ -5909,7 +5909,7 @@ msgstr "Hea algus"
 #: ../root/edit/list_header.tt:4
 #, perl-format
 msgid "Quick links:"
-msgstr ""
+msgstr "Kiirlingid:"
 
 #: ../root/components/rating-macros.tt:1
 #, perl-format
@@ -6017,12 +6017,12 @@ msgstr ""
 #: ../root/report/recordings_with_earliest_release_relationships.tt:3
 #, perl-format
 msgid "Recordings with Earliest Release Relationships"
-msgstr ""
+msgstr "Salvestised, millel on varaseima väljalaske seoseid"
 
 #: ../root/report/index.tt:70
 #, perl-format
 msgid "Recordings with earliest release relationships"
-msgstr ""
+msgstr "Salvestised, millel on varaseima väljalaske seoseid"
 
 #: ../root/report/featuring_recordings.tt:1
 #: ../root/report/featuring_recordings.tt:3 ../root/report/index.tt:72
@@ -6304,7 +6304,7 @@ msgstr "Väljalaskerühma seosed"
 #: ../root/release_group/layout.tt:1
 #, perl-format
 msgid "Release group “{name}” by {artist}"
-msgstr ""
+msgstr "Väljalaskerühm „{name}” — {artist}"
 
 #: ../root/components/common-macros.tt:449
 #: ../root/edit/details/add_release_group_annotation.tt:3
@@ -6329,7 +6329,7 @@ msgstr ""
 #: ../root/report/index.tt:35
 #, perl-format
 msgid "Release groups that might need to be merged"
-msgstr ""
+msgstr "Väljalaskerühmad, mis võivad vajada mestimist"
 
 #: ../root/report/featuring_release_groups.tt:1
 #: ../root/report/featuring_release_groups.tt:3 ../root/report/index.tt:36
@@ -6350,7 +6350,7 @@ msgstr "Väljalaske pealkiri:"
 #: ../root/release/layout.tt:1
 #, perl-format
 msgid "Release “{name}” by {artist}"
-msgstr ""
+msgstr "Väljalase „{name}” — {artist}"
 
 #: ../root/cdtoc/lookup.tt:70 ../root/components/common-macros.tt:449
 #: ../root/edit/details/add_cover_art.tt:5
@@ -6390,43 +6390,43 @@ msgstr "Välalasked"
 #: ../root/report/tracks_named_with_sequence.tt:3
 #, perl-format
 msgid "Releases Where Track Names Start With Their Track Number"
-msgstr ""
+msgstr "Väljalasked, kus rajanimed algavad nende järjekorranumbriga"
 
 #: ../root/report/cat_no_looks_like_asin.tt:1
 #: ../root/report/cat_no_looks_like_asin.tt:3
 #, perl-format
 msgid "Releases With Catalog Numbers That Look Like ASINs"
-msgstr ""
+msgstr "Väljalasked, mille katalooginumbrid näevad välja nagu ASIN-id"
 
 #: ../root/report/multiple_asins.tt:1 ../root/report/multiple_asins.tt:3
 #, perl-format
 msgid "Releases With Multiple ASINs"
-msgstr ""
+msgstr "Väljalasked mitme ASIN-iga"
 
 #: ../root/report/multiple_discogs_links.tt:1
 #: ../root/report/multiple_discogs_links.tt:3
 #, perl-format
 msgid "Releases With Multiple Discogs Links"
-msgstr ""
+msgstr "Väljalasked mitme Discogsi-lingiga"
 
 #: ../root/report/some_formats_unset.tt:1
 #: ../root/report/some_formats_unset.tt:3
 #, perl-format
 msgid "Releases With Some Formats Unset"
-msgstr ""
+msgstr "Väljalasked osaliselt määramata formaatidega"
 
 #: ../root/report/index.tt:62
 #: ../root/report/releases_in_caa_with_cover_art_relationships.tt:1
 #, perl-format
 msgid ""
 "Releases in the Cover Art Archive that still have cover art relationships"
-msgstr ""
+msgstr "Kaanepildiarhiivis leiduvad väljalasked, millel on ikka veel kaanepildiseos"
 
 #: ../root/report/index.tt:57 ../root/report/released_too_early.tt:1
 #: ../root/report/released_too_early.tt:3
 #, perl-format
 msgid "Releases released too early"
-msgstr ""
+msgstr "Liiga vara avaldatud väljalasked"
 
 #: ../root/artist/browse_various_releases.tt:5 ../root/browse/release.tt:8
 #, perl-format
@@ -6436,65 +6436,65 @@ msgstr ""
 #: ../root/report/index.tt:58
 #, perl-format
 msgid "Releases where some (but not all) mediums have no format set"
-msgstr ""
+msgstr "Väljalasked, kus ainult osade helikandjate formaat on määratud"
 
 #: ../root/report/index.tt:48
 #, perl-format
 msgid "Releases which have multiple ASINs"
-msgstr ""
+msgstr "Väljalasked, millel on mitu ASIN-i"
 
 #: ../root/report/index.tt:49
 #, perl-format
 msgid "Releases which have multiple Discogs links"
-msgstr ""
+msgstr "Väljalasked, millel on mitu Discogsi-linki"
 
 #: ../root/report/index.tt:52
 #, perl-format
 msgid "Releases which have part of set relationships"
-msgstr ""
+msgstr "Väljalasked, millel on „osa komplektist” seoseid"
 
 #: ../root/report/index.tt:47
 #, perl-format
 msgid "Releases which have unexpected Amazon URLs"
-msgstr ""
+msgstr "Väljalasked, millel on ootamatuid Amazoni URL-e"
 
 #: ../root/report/index.tt:44 ../root/report/releases_to_convert.tt:1
 #: ../root/report/releases_to_convert.tt:3
 #, perl-format
 msgid "Releases which might need converting to \"multiple artists\""
-msgstr ""
+msgstr "Väljalasked, mis võivad vajada teisendamist mitme artisti alla"
 
 #: ../root/report/index.tt:43 ../root/report/releases_with_cc_links.tt:1
 #: ../root/report/releases_with_cc_links.tt:3
 #, perl-format
 msgid "Releases with Creative Commons Download relationships"
-msgstr ""
+msgstr "Väljalasked, millel on Creative Commonsi allalaadimisseos"
 
 #: ../root/report/index.tt:59
 #, perl-format
 msgid "Releases with catalog numbers that look like ASINs"
-msgstr ""
+msgstr "Väljalasked, mille katalooginumbrid näevad välja nagu ASIN-id"
 
 #: ../root/report/mediums_with_sequence_issues.tt:1
 #: ../root/report/mediums_with_sequence_issues.tt:3
 #, perl-format
 msgid "Releases with medium number issues"
-msgstr ""
+msgstr "Väljalasked, millel on probleeme helikandjanumbritega"
 
 #: ../root/report/index.tt:63
 #, perl-format
 msgid "Releases with non-sequential mediums"
-msgstr ""
+msgstr "Mittejärjestikuste helikandjatega väljalasked"
 
 #: ../root/report/index.tt:54
 #, perl-format
 msgid "Releases with non-sequential track numbers"
-msgstr ""
+msgstr "Mittejärjestikuste rajanumbritega väljalasked"
 
 #: ../root/report/index.tt:55 ../root/report/superfluous_data_tracks.tt:3
 #, perl-format
 msgid "Releases with superfluous data tracks"
-msgstr ""
+msgstr "Liigsete andmeradadega väljalasked"
 
 #: ../root/report/featuring_releases.tt:1
 #: ../root/report/featuring_releases.tt:3 ../root/report/index.tt:56
@@ -6506,26 +6506,26 @@ msgstr ""
 #: ../root/report/tracks_with_sequence_issues.tt:3
 #, perl-format
 msgid "Releases with track number issues"
-msgstr ""
+msgstr "Väljalasked, millel on probleeme rajanumbritega"
 
 #: ../root/report/index.tt:64
 #: ../root/report/releases_with_unlikely_language_script.tt:1
 #: ../root/report/releases_with_unlikely_language_script.tt:3
 #, perl-format
 msgid "Releases with unlikely language/script pairs"
-msgstr ""
+msgstr "Ebatõenäolise keele ja kirja kombinatsiooniga väljalasked"
 
 #: ../root/report/index.tt:45 ../root/report/releases_without_language.tt:1
 #: ../root/report/releases_without_language.tt:3
 #, perl-format
 msgid "Releases without language"
-msgstr ""
+msgstr "Määramata keelega väljalasked"
 
 #: ../root/report/index.tt:46 ../root/report/releases_without_script.tt:1
 #: ../root/report/releases_without_script.tt:3
 #, perl-format
 msgid "Releases without script"
-msgstr ""
+msgstr "Määramata kirjasüsteemiga väljalasked"
 
 #: ../root/edit/details/historic/add_disc_id.tt:3
 #: ../root/edit/details/historic/add_release_annotation.tt:3
@@ -6772,7 +6772,7 @@ msgstr "Teata autoriõiguse rikkumisest"
 #: ../root/report/index.tt:3
 #, perl-format
 msgid "Reports"
-msgstr "Ettekanded"
+msgstr "Võimalikud vead"
 
 #: ../root/main/500.tt:27
 #, perl-format
@@ -6935,7 +6935,7 @@ msgstr ""
 #: ../root/edit/list_header.tt:8
 #, perl-format
 msgid "Search for edits"
-msgstr ""
+msgstr "Toimetuste otsing"
 
 #: ../root/release/edit/recordings.tt:95
 #, perl-format
@@ -7598,12 +7598,12 @@ msgstr ""
 #: ../root/edit/list_header.tt:15
 #, perl-format
 msgid "Subscribed editors"
-msgstr ""
+msgstr "Tellitud toimetajad"
 
 #: ../root/edit/list_header.tt:13
 #, perl-format
 msgid "Subscribed entities"
-msgstr ""
+msgstr "Tellitud olemid"
 
 #: ../root/artist/layout.tt:130 ../root/artist/subscribers.tt:1
 #: ../root/artist/subscribers.tt:2 ../root/label/layout.tt:100
@@ -7755,7 +7755,7 @@ msgstr "Meeskond"
 #: ../root/admin/edit_user.tt:10
 #, perl-format
 msgid "Technical flags"
-msgstr ""
+msgstr "Tehnilised valikud"
 
 #: ../root/edit/index.tt:62
 #, perl-format
@@ -9089,7 +9089,7 @@ msgstr "Rajad"
 #: ../root/report/index.tt:71
 #, perl-format
 msgid "Tracks whose names include their sequence numbers"
-msgstr ""
+msgstr "Rajad, mille nimed sisaldavad nende järjekorranumbrit"
 
 #: ../root/edit/details/historic/add_release.tt:44
 #, perl-format
@@ -9132,7 +9132,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "Translated/Transliterated Pseudo-Releases not linked to an original version"
-msgstr ""
+msgstr "Tõlgitud/translitereeritud pseudoväljalasked, mis pole originaaliga lingitud"
 
 #: ../root/layout.tt:148
 #, perl-format
@@ -9278,7 +9278,7 @@ msgstr ""
 #: ../root/admin/edit_user.tt:12
 #, perl-format
 msgid "Untrusted"
-msgstr ""
+msgstr "Mitteusaldatav"
 
 #: ../root/search/form.tt:13
 #, perl-format
