@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-24 20:59+0000\n"
+"PO-Revision-Date: 2012-08-24 22:15+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -679,7 +679,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAlias.pm:14
 #, perl-format
 msgid "Add label alias"
-msgstr "Lisa plaadifirma alias"
+msgstr "Plaadifirma aliase lisamine"
 
 #: ../root/release/edit/missing_entities.tt:68
 #, perl-format
@@ -2893,7 +2893,7 @@ msgstr "Toimetusetüübid"
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:22
 #, perl-format
 msgid "Edit URL"
-msgstr ""
+msgstr "URL-i muutmine"
 
 #: ../root/user/profile/layout.tt:27
 #, perl-format
@@ -2903,7 +2903,7 @@ msgstr "Kasutaja muutmine"
 #: ../root/work/edit.tt:15
 #, perl-format
 msgid "Edit Work"
-msgstr ""
+msgstr "Teose toimetamine"
 
 #: ../root/work/edit_alias.tt:1
 #, perl-format
@@ -2926,12 +2926,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditAlias.pm:12
 #, perl-format
 msgid "Edit artist alias"
-msgstr ""
+msgstr "Artisti aliase muutmine"
 
 #: ../root/artist/edit_annotation.tt:2
 #, perl-format
 msgid "Edit artist annotation"
-msgstr ""
+msgstr "Artisti annotatsiooni muutmine"
 
 #: ../root/edit/edit_header.tt:94
 #, perl-format
@@ -2942,22 +2942,22 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label/EditAlias.pm:12
 #, perl-format
 msgid "Edit label alias"
-msgstr ""
+msgstr "Plaadifirma aliase muutmine"
 
 #: ../root/label/edit_annotation.tt:2
 #, perl-format
 msgid "Edit label annotation"
-msgstr ""
+msgstr "Plaadifirma annotatsiooni muutmine"
 
 #: ../root/edit/cancel.tt:19 ../root/forms/edit-note.tt:13
 #, perl-format
 msgid "Edit note:"
-msgstr ""
+msgstr "Toimetusmärge:"
 
 #: ../root/edit/index.tt:76
 #, perl-format
 msgid "Edit notes"
-msgstr ""
+msgstr "Toimetusmärked"
 
 #: ../root/admin/edit_user.tt:30
 #, perl-format
@@ -2968,22 +2968,22 @@ msgstr "Profiili muutmine"
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
 #, perl-format
 msgid "Edit recording"
-msgstr ""
+msgstr "Salvestise toimetamine"
 
 #: ../root/recording/edit_annotation.tt:2
 #, perl-format
 msgid "Edit recording annotation"
-msgstr ""
+msgstr "Salvestise annotatsiooni muutmine"
 
 #: ../root/release/edit_annotation.tt:2
 #, perl-format
 msgid "Edit release annotation"
-msgstr ""
+msgstr "Väljalaske annotatsiooni muutmine"
 
 #: ../root/release_group/edit_annotation.tt:2
 #, perl-format
 msgid "Edit release group annotation"
-msgstr ""
+msgstr "Väljalaskerühma annotatsiooni muutmine"
 
 #: ../root/admin/edit_user.tt:40
 #, perl-format
@@ -2994,17 +2994,17 @@ msgstr "Muuda kasutajat"
 #: ../lib/MusicBrainz/Server/Edit/Work/EditAlias.pm:13
 #, perl-format
 msgid "Edit work alias"
-msgstr ""
+msgstr "Teose aliase muutmine"
 
 #: ../root/work/edit_annotation.tt:2
 #, perl-format
 msgid "Edit work annotation"
-msgstr ""
+msgstr "Teose annotatsiooni muutmine"
 
 #: ../root/release/edit-links.tt:13
 #, perl-format
 msgid "Edit:"
-msgstr ""
+msgstr "Toimetus:"
 
 #: ../root/edit/details/edit_release_events.tt:58
 #, perl-format
@@ -3047,7 +3047,7 @@ msgstr "Toimetaja"
 #: ../root/user/not_found.tt:1 ../root/user/not_found.tt:2
 #, perl-format
 msgid "Editor Not Found"
-msgstr ""
+msgstr "Toimetajat ei leitud"
 
 #: ../root/user/subscriptions/editor.tt:1 ../root/user/subscriptions/menu.tt:5
 #, perl-format
@@ -3072,7 +3072,7 @@ msgstr ""
 #: ../root/user/edits.tt:15
 #, perl-format
 msgid "Edits"
-msgstr ""
+msgstr "Toimetused"
 
 #: ../root/user/profile.tt:143
 #, perl-format
@@ -4488,44 +4488,44 @@ msgstr ""
 #: ../root/artist/merge.tt:1 ../root/artist/merge.tt:3
 #, perl-format
 msgid "Merge Artists"
-msgstr ""
+msgstr "Artistide mestimine"
 
 #: ../root/label/merge.tt:1 ../root/label/merge.tt:3
 #, perl-format
 msgid "Merge Labels"
-msgstr ""
+msgstr "Plaadifirmade mestimine"
 
 #: ../root/layout/merge-helper.tt:3
 #, perl-format
 msgid "Merge Process"
-msgstr ""
+msgstr "Mestimisprotsess"
 
 #: ../root/recording/merge.tt:1 ../root/recording/merge.tt:3
 #, perl-format
 msgid "Merge Recordings"
-msgstr ""
+msgstr "Salvestiste mestimine"
 
 #: ../root/release_group/merge.tt:1 ../root/release_group/merge.tt:3
 #, perl-format
 msgid "Merge Release Groups"
-msgstr ""
+msgstr "Väljalaskerühmade mestimine"
 
 #: ../root/release/merge_confirm.tt:1 ../root/release/merge_confirm.tt:2
 #: ../root/release/merge_search.tt:1 ../root/release/merge_search.tt:2
 #: ../root/release/merge.tt:15 ../root/release/merge.tt:17
 #, perl-format
 msgid "Merge Releases"
-msgstr ""
+msgstr "Väljalasete mestimine"
 
 #: ../root/work/merge.tt:1 ../root/work/merge.tt:3
 #, perl-format
 msgid "Merge Works"
-msgstr ""
+msgstr "Teoste mestimine"
 
 #: ../root/artist/layout.tt:97
 #, perl-format
 msgid "Merge artist"
-msgstr ""
+msgstr "Mesti artist"
 
 #: ../root/edit/details/historic/merge_releases.tt:25
 #, perl-format
@@ -4535,54 +4535,54 @@ msgstr ""
 #: ../root/label/layout.tt:69
 #, perl-format
 msgid "Merge label"
-msgstr ""
+msgstr "Mesti plaadifirma"
 
 #: ../root/edit/details/historic/merge_releases.tt:30
 #, perl-format
 msgid "Merge language &amp; script:"
-msgstr ""
+msgstr "Mestitakse keel ja kiri:"
 
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
 #, perl-format
 msgid "Merge mediums and recordings"
-msgstr ""
+msgstr "Mestitakse helikandjad ja salvestised"
 
 #: ../root/release/merge_confirm.tt:10
 #, perl-format
 msgid "Merge method:"
-msgstr ""
+msgstr "Mestimisviis:"
 
 #: ../root/recording/layout.tt:42
 #, perl-format
 msgid "Merge recording"
-msgstr ""
+msgstr "Mesti salvestis"
 
 #: ../root/release/sidebar.tt:81
 #, perl-format
 msgid "Merge release"
-msgstr ""
+msgstr "Mesti väljalase"
 
 #: ../root/release_group/layout.tt:41
 #, perl-format
 msgid "Merge release group"
-msgstr ""
+msgstr "Mesti väljalaskerühm"
 
 #: ../root/artist/index.tt:106
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
 #, perl-format
 msgid "Merge release groups"
-msgstr ""
+msgstr "Mesti väljalaskerühmad"
 
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:35
 #, perl-format
 msgid "Merge strategy:"
-msgstr ""
+msgstr "Mestimisstrateegia:"
 
 #: ../root/work/layout.tt:45
 #, perl-format
 msgid "Merge work"
-msgstr ""
+msgstr "Mesti teos"
 
 #: ../root/edit/details/merge_common.tt:2
 #: ../root/edit/details/merge_recordings.tt:3
@@ -4616,22 +4616,22 @@ msgstr "Muutmiste arv:"
 #: ../root/release/move_search.tt:12
 #, perl-format
 msgid "Move"
-msgstr ""
+msgstr "Teisalda"
 
 #: ../root/cdtoc/move_search.tt:1 ../root/cdtoc/move_search.tt:2
 #, perl-format
 msgid "Move Disc ID"
-msgstr ""
+msgstr "Plaadi-ID teisaldamine"
 
 #: ../root/release/edit/tracklist.tt:400
 #, perl-format
 msgid "Move disc down"
-msgstr ""
+msgstr "Vii plaat tahapoole"
 
 #: ../root/release/edit/tracklist.tt:403
 #, perl-format
 msgid "Move disc up"
-msgstr ""
+msgstr "Vii plaat ettepoole"
 
 #: ../root/release/move_confirm.tt:1 ../root/release/move_confirm.tt:2
 #: ../root/release/move_search.tt:1 ../root/release/move_search.tt:2
@@ -5790,7 +5790,7 @@ msgstr ""
 #: ../root/report/index.tt:19
 #, perl-format
 msgid "Possibly duplicate artists"
-msgstr ""
+msgstr "Võimalikud duplikaatartistid"
 
 #: ../root/account/preferences_ok.tt:1 ../root/account/preferences_ok.tt:3
 #: ../root/account/preferences.tt:2 ../root/account/preferences.tt:4
@@ -11243,7 +11243,7 @@ msgstr "Plaadi-ID teisaldamine"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release (historic)"
-msgstr "Teisalda väljalase (ajalooline)"
+msgstr "Väljalaske teisaldamine (ajalooline)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:10
@@ -11399,7 +11399,7 @@ msgstr "Kaanepildi muutmine"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
-msgstr "Väljalaskel plaadifirma muutmine"
+msgstr "Väljalaske plaadifirma muutmine"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
@@ -11423,15 +11423,15 @@ msgstr "Väljalaskerühma toimetamine"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
-msgstr ""
+msgstr "See URL on juba teise URL-i mestitud."
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
-msgstr ""
+msgstr "Wiki-dokumentatsioon"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
-msgstr ""
+msgstr "WikiDoci muutmine"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
@@ -11463,7 +11463,7 @@ msgstr "ISWC eemaldamine"
 
 #: ../lib/MusicBrainz/Server/EditSearch/Predicate.pm:66
 msgid "This operator is not supported"
-msgstr ""
+msgstr "Seda tehtemärki ei toetata"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:89
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:98
@@ -11478,7 +11478,7 @@ msgstr "Oodatakse 2. sekundanti"
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:91
 #, perl-brace-format
 msgid "Voting open since {date}"
-msgstr ""
+msgstr "Hääletamine avatud alates {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:92
 #, perl-brace-format
