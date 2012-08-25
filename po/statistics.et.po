@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-25 12:53+0000\n"
+"PO-Revision-Date: 2012-08-25 13:57+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr ""
 
 #: DB:statistic_event/title:2005-04-10
 msgid "Advanced relationships"
-msgstr ""
+msgstr "Täpsemad seosed"
 
 #: DB:statistic_event/description:2005-04-10
 msgid ""
@@ -67,15 +67,15 @@ msgstr ""
 
 #: DB:statistic_event/description:2004-11-14
 msgid "Annotation support released."
-msgstr ""
+msgstr "Lisati annotatsioonide võimalus."
 
 #: DB:statistic_event/title:2004-11-14
 msgid "Annotations"
-msgstr ""
+msgstr "Annotatsioonid"
 
 #: DB:statistic_event/title:2003-06-22
 msgid "Artist subscriptions"
-msgstr ""
+msgstr "Artistitellimused"
 
 #: DB:statistic_event/description:2005-02-13
 msgid ""
@@ -85,19 +85,19 @@ msgstr ""
 
 #: DB:statistic_event/description:2003-06-22
 msgid "Artist subscriptions."
-msgstr ""
+msgstr "Artistitellimused."
 
 #: DB:statistic_event/title:2008-07-30
 msgid "BBC dynamic artist pages"
-msgstr ""
+msgstr "BBC dünaamilised artistilehed"
 
 #: DB:statistic_event/description:2008-07-30
 msgid "BBC launches the dynamic artist pages based on MusicBrainz data."
-msgstr ""
+msgstr "BBC käivitas MusicBrainzi andmetel põhinevad dünaamilised artistilehed."
 
 #: DB:statistic_event/title:2007-06-28
 msgid "BBC partners with MetaBrainz"
-msgstr ""
+msgstr "BBC partnerlus MetaBrainziga"
 
 #: DB:statistic_event/description:2003-03-02
 #: DB:statistic_event/description:2003-06-30
@@ -122,24 +122,24 @@ msgstr ""
 #: DB:statistic_event/title:2003-03-02 DB:statistic_event/title:2003-06-07
 #: DB:statistic_event/title:2003-06-15
 msgid "Cleanup"
-msgstr ""
+msgstr "Puhastus"
 
 #: DB:statistic_event/description:2003-06-07
 #: DB:statistic_event/description:2003-06-15
 msgid "Cleanup release."
-msgstr ""
+msgstr "Puhastusväljalase."
 
 #: DB:statistic_event/title:2008-11-24
 msgid "Collection, Ratings, CDStubs"
-msgstr ""
+msgstr "Kogud, hinnangud, pooleldi sisestatud CD-d"
 
 #: DB:statistic_event/description:2008-11-24
 msgid "Collection, Ratings, CDStubs, LastUpdate released."
-msgstr ""
+msgstr "Lisati kogude, hinnangute, pooleldi lisatud CD-de ja viimase uuendusaja tugi."
 
 #: DB:statistic_event/title:2003-03-29
 msgid "Dedicated database server"
-msgstr ""
+msgstr "Eraldi andmebaasiserver"
 
 #: DB:statistic_event/description:2004-05-09
 msgid ""
@@ -290,11 +290,11 @@ msgstr ""
 
 #: DB:statistic_event/title:2006-02-27
 msgid "MusicBrainz Move"
-msgstr ""
+msgstr "MusicBrainzi kolimine"
 
 #: DB:statistic_event/description:2010-02-08
 msgid "MusicBrainz Server source code moved to Git from Subversion."
-msgstr ""
+msgstr "MusicBrainzi serveri lähtekood koliti Subversionist Git-i. "
 
 #: DB:statistic_event/description:2003-03-29
 msgid "MusicBrainz gets its first dedicated database server."
@@ -439,12 +439,12 @@ msgstr ""
 #: ../root/statistics/formats.tt:32
 #, perl-format
 msgid "% of total mediums"
-msgstr ""
+msgstr "% kõigist helikandjatest"
 
 #: ../root/statistics/formats.tt:30
 #, perl-format
 msgid "% of total releases"
-msgstr ""
+msgstr "% kõigist väljalasetest"
 
 #: ../root/statistics/view_js.tt:24
 #, perl-format
@@ -469,22 +469,22 @@ msgstr ""
 #: ../root/statistics/view_js.tt:74
 #, perl-format
 msgid "Active Editors"
-msgstr ""
+msgstr "Aktiivsed toimetajad"
 
 #: ../root/statistics/view_js.tt:76
 #, perl-format
 msgid "Active Users"
-msgstr ""
+msgstr "Aktiivsed kasutajad"
 
 #: ../root/statistics/view_js.tt:75
 #, perl-format
 msgid "Active Voters"
-msgstr ""
+msgstr "Aktiivsed hääletajad"
 
 #: ../root/statistics/timeline.tt:77
 #, perl-format
 msgid "Add/remove lines:"
-msgstr ""
+msgstr "Joonte lisamine/eemaldamine:"
 
 #: ../root/statistics/view_js.tt:58
 #, perl-format
@@ -665,7 +665,7 @@ msgstr "Põhilised metaandmed"
 #: ../root/statistics/coverart.tt:12
 #, perl-format
 msgid "Basics"
-msgstr ""
+msgstr "Põhiandmed"
 
 #: ../root/statistics/coverart.tt:86
 #, perl-format
@@ -720,17 +720,17 @@ msgstr "Loobutud:"
 #: ../root/statistics/timeline.tt:77
 #, perl-format
 msgid "Check boxes above"
-msgstr ""
+msgstr "Vali ülalolevaid märkeruute"
 
 #: ../root/statistics/timeline.tt:76
 #, perl-format
 msgid "Click to deselect"
-msgstr ""
+msgstr "Klõpsa valiku eemaldamiseks"
 
 #: ../root/statistics/timeline.tt:73
 #, perl-format
 msgid "Controls"
-msgstr ""
+msgstr "Juhtimine"
 
 #: ../root/statistics/index.tt:13 ../root/statistics/view_js.tt:26
 #, perl-format
@@ -1146,12 +1146,12 @@ msgstr "Plaadi-ID-sid:"
 #: ../root/statistics/timeline.tt:75
 #, perl-format
 msgid "Draw a rectangle on either graph"
-msgstr ""
+msgstr "Joonista ristkülik emmal-kummal graafikul"
 
 #: ../root/statistics/view_js.tt:27
 #, perl-format
 msgid "Edit Information"
-msgstr ""
+msgstr "Toimetuste teave"
 
 #: ../root/statistics/editors.tt:13 ../root/statistics/editors.tt:33
 #, perl-format
@@ -1190,12 +1190,12 @@ msgstr ""
 #: ../root/statistics/view_js.tt:53
 #, perl-format
 msgid "Edits per day"
-msgstr ""
+msgstr "Toimetusi päevas"
 
 #: ../root/statistics/view_js.tt:54
 #, perl-format
 msgid "Edits per week"
-msgstr ""
+msgstr "Toimetusi nädalas"
 
 #: ../root/statistics/edits.tt:13 ../root/statistics/index.tt:521
 #: ../root/statistics/index.tt:568
@@ -1221,7 +1221,7 @@ msgstr ""
 #: ../root/statistics/timeline.tt:87
 #, perl-format
 msgid "Exact Values (items vs. day)"
-msgstr ""
+msgstr "Täpsed väärtused (elementide arv vastaval päeval)"
 
 #: ../root/statistics/relationships.tt:37
 #, perl-format
@@ -1231,17 +1231,17 @@ msgstr ""
 #: ../root/statistics/index.tt:545
 #, perl-format
 msgid "Failed (dependency):"
-msgstr ""
+msgstr "Nurjunud (sõltuvus):"
 
 #: ../root/statistics/index.tt:557
 #, perl-format
 msgid "Failed (internal error):"
-msgstr ""
+msgstr "Nurjunud (sisemine viga):"
 
 #: ../root/statistics/index.tt:551
 #, perl-format
 msgid "Failed (prerequisite):"
-msgstr ""
+msgstr "Nurjunud (eeltingimus):"
 
 #: ../root/statistics/view_js.tt:60
 #, perl-format
@@ -1273,12 +1273,12 @@ msgstr "Naissoost:"
 msgid ""
 "For the vote statistics, only yes or no votes are counted, abstain votes are"
 " not counted."
-msgstr ""
+msgstr "Hääletamisstatistikas arvestatakse üksnes poolt- ja vastuhääli, erapooletuksjäämisi ei loeta."
 
 #: ../root/statistics/formats.tt:28
 #, perl-format
 msgid "Format"
-msgstr "Vorming"
+msgstr "Formaat"
 
 #: ../root/statistics/layout.tt:5 ../root/statistics/view_js.tt:37
 #, perl-format
@@ -1303,7 +1303,7 @@ msgstr "Kõrge andmekvaliteediga:"
 #: ../root/statistics/timeline.tt:78
 #, perl-format
 msgid "Hover and click on vertical lines"
-msgstr ""
+msgstr "Vii kursor püstjoonele ja klõpsa"
 
 #: ../root/statistics/view_js.tt:126
 #, perl-format
@@ -1498,22 +1498,22 @@ msgstr "Helikandjaid:"
 #: ../root/statistics/editors.tt:8
 #, perl-format
 msgid "Most active editors in the past week"
-msgstr ""
+msgstr "Nädala jooksul kõige aktiivsemad toimetajad"
 
 #: ../root/statistics/editors.tt:51
 #, perl-format
 msgid "Most active voters in the past week"
-msgstr ""
+msgstr "Nädala jooksul kõige aktiivsemad hääletajad"
 
 #: ../root/statistics/timeline.tt:66
 #, perl-format
 msgid "MusicBrainz Events"
-msgstr ""
+msgstr "MusicBrainzi sündmused"
 
 #: ../root/statistics/timeline.tt:78
 #, perl-format
 msgid "MusicBrainz Events:"
-msgstr ""
+msgstr "MusicBrainzi sündmused:"
 
 #: ../root/statistics/view_js.tt:70
 #, perl-format
@@ -1553,7 +1553,7 @@ msgstr "Ei:"
 #: ../root/statistics/index.tt:156
 #, perl-format
 msgid "Non-group artists:"
-msgstr ""
+msgstr "Mittegruppe:"
 
 #: ../root/statistics/view_js.tt:153
 #, perl-format
@@ -1563,7 +1563,7 @@ msgstr ""
 #: ../root/statistics/index.tt:283
 #, perl-format
 msgid "Normal Data Quality:"
-msgstr ""
+msgstr "Tavalise andmekvaliteediga:"
 
 #: ../root/statistics/view_js.tt:52
 #, perl-format
@@ -1573,7 +1573,7 @@ msgstr ""
 #: ../root/statistics/editors.tt:14
 #, perl-format
 msgid "Open and applied edits in past week"
-msgstr ""
+msgstr "Lahtisi ja rakendatud toimetusi nädala jooksul"
 
 #: ../root/statistics/index.tt:527
 #, perl-format
@@ -1679,17 +1679,17 @@ msgstr "Põhitüübid"
 #: ../root/statistics/languages_scripts.tt:70
 #, perl-format
 msgid "Rank"
-msgstr ""
+msgstr "Koht"
 
 #: ../root/statistics/timeline.tt:89
 #, perl-format
 msgid "Rate of Change (average items/day vs. day)"
-msgstr ""
+msgstr "Muutumiskiirus (keskmine elementide arvu muutus vastaval päeval)"
 
 #: ../root/statistics/timeline.tt:70
 #, perl-format
 msgid "Rate of Change Graph"
-msgstr ""
+msgstr "Muutumiskiiruse graafik"
 
 #: ../root/statistics/view_js.tt:157
 #, perl-format
@@ -1962,7 +1962,7 @@ msgstr "Väljalaskeid:"
 #: ../root/statistics/timeline.tt:76
 #, perl-format
 msgid "Reset:"
-msgstr ""
+msgstr "Lähtestamine:"
 
 #: ../root/statistics/languages_scripts.tt:71
 #, perl-format
@@ -2007,28 +2007,28 @@ msgstr ""
 #: ../root/statistics/editors.tt:28
 #, perl-format
 msgid "Top editors overall"
-msgstr ""
+msgstr "Tegusaimad toimetajad üldse"
 
 #: ../root/statistics/editors.tt:71
 #, perl-format
 msgid "Top voters overall"
-msgstr ""
+msgstr "Aktiivseimad hääletajad üldse"
 
 #: ../root/statistics/countries.tt:38 ../root/statistics/formats.tt:38
 #: ../root/statistics/languages_scripts.tt:53
 #, perl-format
 msgid "Total"
-msgstr ""
+msgstr "Kokku"
 
 #: ../root/statistics/editors.tt:34
 #, perl-format
 msgid "Total applied edits"
-msgstr ""
+msgstr "Rakendatud toimetusi kokku"
 
 #: ../root/statistics/editors.tt:77
 #, perl-format
 msgid "Total votes"
-msgstr ""
+msgstr "Hääli kokku"
 
 #: ../root/statistics/view_js.tt:119
 #, perl-format
@@ -2059,7 +2059,7 @@ msgstr "Teadmata andmekvaliteediga:"
 #: ../root/statistics/formats.tt:5
 #, perl-format
 msgid "Unknown Format"
-msgstr ""
+msgstr "Määramata"
 
 #: ../root/statistics/view_js.tt:98
 #, perl-format
@@ -2084,12 +2084,12 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:14
 #, perl-format
 msgid "Unknown language"
-msgstr ""
+msgstr "[Keel määramata]"
 
 #: ../root/statistics/languages_scripts.tt:21
 #, perl-format
 msgid "Unknown script"
-msgstr ""
+msgstr "[Kiri määramata]"
 
 #: ../root/statistics/view_js.tt:104
 #, perl-format
@@ -2114,7 +2114,7 @@ msgstr ""
 #: ../root/statistics/editors.tt:50
 #, perl-format
 msgid "Voters"
-msgstr ""
+msgstr "Toimetajad"
 
 #: ../root/statistics/index.tt:588 ../root/statistics/view_js.tt:65
 #, perl-format
@@ -2124,17 +2124,17 @@ msgstr "Hääled"
 #: ../root/statistics/editors.tt:57
 #, perl-format
 msgid "Votes in past week"
-msgstr ""
+msgstr "Hääli nädala jooksul"
 
 #: ../root/statistics/view_js.tt:66
 #, perl-format
 msgid "Votes per day"
-msgstr ""
+msgstr "Hääli päevas"
 
 #: ../root/statistics/view_js.tt:67
 #, perl-format
 msgid "Votes per week"
-msgstr ""
+msgstr "Hääli nädalas"
 
 #: ../root/statistics/index.tt:591 ../root/statistics/index.tt:620
 #, perl-format
@@ -2164,7 +2164,7 @@ msgstr ""
 #: ../root/statistics/languages_scripts.tt:52 ../root/statistics/view_js.tt:45
 #, perl-format
 msgid "Works"
-msgstr ""
+msgstr "Teosed"
 
 #: ../root/statistics/index.tt:40
 #, perl-format
@@ -2189,7 +2189,7 @@ msgstr "Eile:"
 #: ../root/statistics/timeline.tt:75
 #, perl-format
 msgid "Zoom:"
-msgstr ""
+msgstr "Suurendamine:"
 
 #: ../root/statistics/index.tt:497
 #, perl-format
