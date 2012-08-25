@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-07-15 20:30+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-08-25 17:58+0000\n"
+"Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: DB:link_attribute_type/description:12
 msgid "Background vocal"
-msgstr ""
+msgstr "Taustavokaal"
 
 #: DB:link_attribute_type/description:245
 msgid "Chamber orchestra"
@@ -47,30 +47,30 @@ msgstr "Kammerorkester"
 
 #: DB:link_attribute_type/name:254
 msgid "Creative Commons"
-msgstr ""
+msgstr "Creative Commons"
 
 #: DB:link_attribute_type/description:256
 msgid "Creative Commons Attribution No Derivatives (by-nd) license"
-msgstr ""
+msgstr "Creative Commonsi by-nd litsents (autorile viitamine + tuletatud teoste keeld)"
 
 #: DB:link_attribute_type/description:257
 msgid "Creative Commons Attribution Non-commercial (by-nc) license"
-msgstr ""
+msgstr "Creative Commonsi by-nc litsents (autorile viitamine + mitteäriline eesmärk)"
 
 #: DB:link_attribute_type/description:258
 msgid ""
 "Creative Commons Attribution Non-commercial No Derivatives (by-nc-nd) "
 "license"
-msgstr ""
+msgstr "Creative Commonsi by-nc-nd litsents (autorile viitamine + mitteäriline eesmärk + tuletatud teoste keeld)"
 
 #: DB:link_attribute_type/description:259
 msgid ""
 "Creative Commons Attribution Non-commercial Share Alike (by-nc-sa) license"
-msgstr ""
+msgstr "Creative Commonsi by-nc-sa litsents (autorile viitamine + mitteäriline eesmärk + jagamine samadel tingimustel)"
 
 #: DB:link_attribute_type/description:260
 msgid "Creative Commons Attribution Share Alike (by-sa) license"
-msgstr ""
+msgstr "Creative Commonsi by-sa litsents (autorile viitamine + jagamine samadel tingimustel)"
 
 #: DB:link_attribute_type/description:374
 msgid "Creative Commons Noncommercial Sampling Plus licenses"
@@ -98,7 +98,7 @@ msgstr ""
 
 #: DB:link_attribute_type/description:254
 msgid "Creative commons licenses"
-msgstr ""
+msgstr "Creative Commonsi litsentsid"
 
 #: DB:link_type/description:24 DB:link_type/description:131
 msgid ""
@@ -141,7 +141,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:227
 msgid "DJ-mixes"
-msgstr ""
+msgstr "DJ-miksid"
 
 #: DB:link_type/description:117
 msgid ""
@@ -501,7 +501,7 @@ msgstr ""
 msgid ""
 "Indicates an artist that performed on this work. (<a "
 "href=\"http://musicbrainz.org/doc/Performer_Relationship_Type\">Details</a>)"
-msgstr "Viitab artistile, kes seda teost esitas. (<a href=\"http://musicbrainz.org/doc/Performer_Relationship_Type\">Täpsemalt</a>)"
+msgstr "Viitab artistile, kes seda teost esitas. (<a href=\"http://musicbrainz.org/doc/Performer_Relationship_Type\">Üksikasjad</a>)"
 
 #: DB:link_type/description:45 DB:link_type/description:150
 msgid ""
@@ -1041,7 +1041,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:189 DB:link_type/link_phrase:215
 msgid "Myspace"
-msgstr ""
+msgstr "Myspace"
 
 #: DB:link_type/reverse_link_phrase:189 DB:link_type/reverse_link_phrase:215
 msgid "Myspace page for"
@@ -1049,7 +1049,7 @@ msgstr ""
 
 #: DB:link_attribute_type/description:246
 msgid "Other orchestra"
-msgstr ""
+msgstr "Muu orkester"
 
 #: DB:link_attribute_type/description:461
 msgid "Other vocalizations"
@@ -1112,7 +1112,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:280
 msgid "SecondHandSongs"
-msgstr ""
+msgstr "SecondHandSongs"
 
 #: DB:link_type/link_phrase:280
 msgid "SecondHandSongs page for"
@@ -1645,20 +1645,20 @@ msgstr ""
 msgid ""
 "This relationship type is <strong>deprecated</strong>! If two recordings are"
 " identical, please merge them."
-msgstr ""
+msgstr "See seosetüüp on <strong>iganenud</strong>! Kui kaks salvestist on identsed, siis palun mesti nad."
 
 #: DB:link_type/description:1
 msgid ""
 "This relationship type is <strong>deprecated</strong>! Please enter a "
 "release with multiple discs as a single release containing multiple discs."
-msgstr ""
+msgstr "See seosetüüp on <strong>iganenud</strong>! Mitmeplaadiline väljalase tuleb sisestada ühe väljalaskena, milles on mitu plaati."
 
 #: DB:link_type/description:84
 msgid ""
 "This relationship type is <strong>deprecated</strong>! Please enter separate"
 " relationships using the license relationship type and either the free "
 "download or paid download relationship type."
-msgstr ""
+msgstr "See seosetüüp on <strong>iganenud</strong>! Palun sisesta eraldi litsentsi seos ning tasuta või tasulise allalaadimise seos."
 
 #: DB:link_attribute_type/description:596
 msgid ""
@@ -1740,7 +1740,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:225 DB:link_type/link_phrase:193
 msgid "YouTube channels"
-msgstr ""
+msgstr "YouTube’i kanalid"
 
 #: DB:link_attribute_type/description:253
 msgid "a license used to release music under"
@@ -1748,11 +1748,11 @@ msgstr ""
 
 #: DB:link_attribute_type/name:1
 msgid "additional"
-msgstr ""
+msgstr "täiendav"
 
 #: DB:link_attribute_type/description:5 DB:link_attribute_type/name:5
 msgid "alto"
-msgstr ""
+msgstr "alt"
 
 #: DB:link_type/link_phrase:265 DB:link_type/reverse_link_phrase:265
 msgid "art direction"
@@ -1766,7 +1766,7 @@ msgstr ""
 
 #: DB:link_attribute_type/name:526
 msgid "assistant"
-msgstr ""
+msgstr "assistent"
 
 #: DB:link_attribute_type/name:527
 msgid "associate"
@@ -1798,7 +1798,7 @@ msgstr ""
 
 #: DB:link_attribute_type/name:12
 msgid "background"
-msgstr ""
+msgstr "taust-"
 
 #: DB:link_attribute_type/description:6 DB:link_attribute_type/name:6
 msgid "baritone"
@@ -1806,15 +1806,15 @@ msgstr "bariton"
 
 #: DB:link_attribute_type/description:7 DB:link_attribute_type/name:7
 msgid "bass"
-msgstr ""
+msgstr "bass"
 
 #: DB:link_attribute_type/description:231 DB:link_attribute_type/name:231
 msgid "bass-baritone"
-msgstr ""
+msgstr "bassbariton"
 
 #: DB:link_type/link_phrase:182
 msgid "biographies"
-msgstr ""
+msgstr "biograafiad"
 
 #: DB:link_type/reverse_link_phrase:182
 msgid "biography of"
@@ -1826,11 +1826,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:224 DB:link_type/link_phrase:199
 msgid "blogs"
-msgstr ""
+msgstr "blogid"
 
 #: DB:link_attribute_type/name:516
 msgid "bonus"
-msgstr ""
+msgstr "boonus"
 
 #: DB:link_type/link_phrase:23 DB:link_type/link_phrase:134
 #: DB:link_type/link_phrase:262 DB:link_type/reverse_link_phrase:23
@@ -1865,11 +1865,11 @@ msgstr ""
 
 #: DB:link_attribute_type/name:245
 msgid "chamber"
-msgstr ""
+msgstr "kammer-"
 
 #: DB:link_type/link_phrase:109
 msgid "children"
-msgstr ""
+msgstr "lapsed"
 
 #: DB:link_attribute_type/description:13 DB:link_attribute_type/name:13
 msgid "choir"
@@ -1919,7 +1919,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:58 DB:link_type/reverse_link_phrase:170
 #: DB:link_type/short_link_phrase:58 DB:link_type/short_link_phrase:170
 msgid "composition"
-msgstr ""
+msgstr "heliloome"
 
 #: DB:link_type/short_link_phrase:261
 msgid "contains miscellaneous support from"
@@ -1951,7 +1951,7 @@ msgstr ""
 
 #: DB:link_attribute_type/description:8 DB:link_attribute_type/name:8
 msgid "contra-tenor"
-msgstr ""
+msgstr "kontratenor"
 
 #: DB:link_type/link_phrase:119 DB:link_type/reverse_link_phrase:119
 #: DB:link_type/short_link_phrase:119
@@ -1964,7 +1964,7 @@ msgstr ""
 
 #: DB:link_attribute_type/name:567
 msgid "cover"
-msgstr ""
+msgstr "kaver"
 
 #: DB:link_type/link_phrase:78
 msgid "cover art"
@@ -1976,14 +1976,14 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:12 DB:link_type/short_link_phrase:245
 msgid "covers and versions"
-msgstr ""
+msgstr "kaverid ja versioonid"
 
 #: DB:link_type/link_phrase:12 DB:link_type/link_phrase:4
 #: DB:link_type/link_phrase:245 DB:link_type/reverse_link_phrase:12
 #: DB:link_type/reverse_link_phrase:4 DB:link_type/reverse_link_phrase:245
 #: DB:link_type/short_link_phrase:4
 msgid "covers or other versions"
-msgstr ""
+msgstr "kaverid või teised versioonid"
 
 #: DB:link_type/link_phrase:264 DB:link_type/reverse_link_phrase:264
 msgid "creative direction"
@@ -1999,17 +1999,17 @@ msgstr ""
 
 #: DB:link_type/link_phrase:248 DB:link_type/reverse_link_phrase:248
 msgid "design/illustration"
-msgstr ""
+msgstr "disain/illustratsioon"
 
 #: DB:link_type/link_phrase:88 DB:link_type/link_phrase:171
 #: DB:link_type/reverse_link_phrase:88 DB:link_type/reverse_link_phrase:171
 #: DB:link_type/short_link_phrase:88 DB:link_type/short_link_phrase:171
 msgid "discography"
-msgstr ""
+msgstr "diskograafia"
 
 #: DB:link_type/link_phrase:288
 msgid "discography entry"
-msgstr ""
+msgstr "diskograafiakirje"
 
 #: DB:link_type/reverse_link_phrase:288
 msgid "discography entry for"
@@ -2021,7 +2021,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:184
 msgid "discography pages"
-msgstr ""
+msgstr "diskograafialehed"
 
 #: DB:link_type/link_phrase:203
 msgid "distributor for"
@@ -2029,7 +2029,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:203
 msgid "distributors"
-msgstr ""
+msgstr "levitajad"
 
 #: DB:link_type/short_link_phrase:105
 msgid "does/did {instrument} support for"
@@ -2054,7 +2054,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:238
 msgid "earliest release"
-msgstr ""
+msgstr "varaseim väljalase"
 
 #: DB:link_attribute_type/name:617
 msgid "emeritus"
@@ -2078,19 +2078,19 @@ msgstr ""
 
 #: DB:link_type/link_phrase:172 DB:link_type/link_phrase:214
 msgid "fan pages"
-msgstr ""
+msgstr "fännilehed"
 
 #: DB:link_type/link_phrase:116 DB:link_type/short_link_phrase:116
 msgid "founded"
-msgstr ""
+msgstr "asutas"
 
 #: DB:link_attribute_type/name:525
 msgid "founder"
-msgstr ""
+msgstr "asutaja"
 
 #: DB:link_type/reverse_link_phrase:116
 msgid "founders"
-msgstr ""
+msgstr "asutajad"
 
 #: DB:link_type/reverse_link_phrase:75 DB:link_type/reverse_link_phrase:177
 #: DB:link_type/reverse_link_phrase:255
@@ -2136,54 +2136,54 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:11
 msgid "had associated {EP:EP|single}(s)"
-msgstr ""
+msgstr "evib seotud {EP:EP-(si)d|singlit/singleid}"
 
 #: DB:link_type/short_link_phrase:77
 msgid "has Amazon ASIN"
-msgstr ""
+msgstr "evib Amazoni ASIN-i"
 
 #: DB:link_type/short_link_phrase:190
 msgid "has a BBC Music page at"
-msgstr ""
+msgstr "evib BBC Musicu lehte"
 
 #: DB:link_type/short_link_phrase:76 DB:link_type/short_link_phrase:180
 #: DB:link_type/short_link_phrase:217 DB:link_type/short_link_phrase:90
 msgid "has a Discogs page at"
-msgstr ""
+msgstr "evib Discogsi lehte"
 
 #: DB:link_type/short_link_phrase:91 DB:link_type/short_link_phrase:181
 msgid "has a MusicMoz page at"
-msgstr ""
+msgstr "evib MusicMozi lehte"
 
 #: DB:link_type/short_link_phrase:189 DB:link_type/short_link_phrase:215
 msgid "has a Myspace page at"
-msgstr ""
+msgstr "evib Myspace’i lehte"
 
 #: DB:link_type/short_link_phrase:174
 msgid "has a PureVolume page at"
-msgstr ""
+msgstr "evib PureVolume’i lehte"
 
 #: DB:link_type/short_link_phrase:290 DB:link_type/short_link_phrase:291
 msgid "has a SoundCloud page at"
-msgstr ""
+msgstr "evib SoundCloudi lehte"
 
 #: DB:link_type/short_link_phrase:86 DB:link_type/short_link_phrase:191
 #: DB:link_type/short_link_phrase:210
 msgid "has a VGMdb page at"
-msgstr ""
+msgstr "evib VGMdb lehte"
 
 #: DB:link_type/short_link_phrase:89 DB:link_type/short_link_phrase:179
 #: DB:link_type/short_link_phrase:216
 msgid "has a Wikipedia page at"
-msgstr ""
+msgstr "evib Wikipedia lehte"
 
 #: DB:link_type/short_link_phrase:182
 msgid "has a biography page at"
-msgstr ""
+msgstr "evib biograafialehte"
 
 #: DB:link_type/short_link_phrase:224 DB:link_type/short_link_phrase:199
 msgid "has a blog at"
-msgstr ""
+msgstr "evib blogi"
 
 #: DB:link_type/short_link_phrase:212
 msgid "has a catalog of records at"
@@ -2191,27 +2191,27 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:288
 msgid "has a discography entry at"
-msgstr ""
+msgstr "evib diskograafiakirjet"
 
 #: DB:link_type/short_link_phrase:184
 msgid "has a discography page at"
-msgstr ""
+msgstr "evib diskograafialehte"
 
 #: DB:link_type/short_link_phrase:172 DB:link_type/short_link_phrase:214
 msgid "has a fan page at"
-msgstr ""
+msgstr "evib fännilehte"
 
 #: DB:link_type/short_link_phrase:226
 msgid "has a karaoke version"
-msgstr ""
+msgstr "evib karaokeversiooni"
 
 #: DB:link_type/short_link_phrase:213
 msgid "has a logo at"
-msgstr ""
+msgstr "evib logo"
 
 #: DB:link_type/short_link_phrase:198 DB:link_type/short_link_phrase:223
 msgid "has a microblog at"
-msgstr ""
+msgstr "evib mikroblogi"
 
 #: DB:link_type/short_link_phrase:25 DB:link_type/short_link_phrase:129
 #: DB:link_type/short_link_phrase:162
@@ -2222,49 +2222,49 @@ msgstr ""
 #: DB:link_type/short_link_phrase:306 DB:link_type/short_link_phrase:222
 #: DB:link_type/short_link_phrase:188
 msgid "has a page in a database at"
-msgstr ""
+msgstr "evib lehte andmebaasis"
 
 #: DB:link_type/short_link_phrase:173
 msgid "has a picture at"
-msgstr ""
+msgstr "evib pilti"
 
 #: DB:link_type/short_link_phrase:94
 msgid "has a review page at"
-msgstr ""
+msgstr "evib ülevaatelehte"
 
 #: DB:link_type/short_link_phrase:192 DB:link_type/short_link_phrase:218
 msgid "has a social networking page at"
-msgstr ""
+msgstr "evib sotsiaalvõrgustiku lehte"
 
 #: DB:link_type/short_link_phrase:283 DB:link_type/short_link_phrase:284
 #: DB:link_type/short_link_phrase:285
 msgid "has an Allmusic page at"
-msgstr ""
+msgstr "evib Allmusicu lehte"
 
 #: DB:link_type/short_link_phrase:99 DB:link_type/short_link_phrase:195
 msgid "has an IBDb page at"
-msgstr ""
+msgstr "evib IBDb lehte"
 
 #: DB:link_type/short_link_phrase:97 DB:link_type/short_link_phrase:178
 msgid "has an IMDb page at"
-msgstr ""
+msgstr "evib IMDb lehte"
 
 #: DB:link_type/short_link_phrase:100 DB:link_type/short_link_phrase:196
 msgid "has an IOBDb page at"
-msgstr ""
+msgstr "evib IOBDb lehte"
 
 #: DB:link_type/short_link_phrase:225 DB:link_type/short_link_phrase:193
 msgid "has an official YouTube channel at"
-msgstr ""
+msgstr "evib ametlikku YouTube’i kanalit"
 
 #: DB:link_type/short_link_phrase:287 DB:link_type/short_link_phrase:183
 #: DB:link_type/short_link_phrase:219
 msgid "has an official homepage at"
-msgstr ""
+msgstr "evib ametlikku kodulehte"
 
 #: DB:link_type/short_link_phrase:303 DB:link_type/short_link_phrase:304
 msgid "has an official video channel at"
-msgstr ""
+msgstr "evib ametlikku videokanalit"
 
 #: DB:link_type/short_link_phrase:185
 msgid "has an online community page at"
@@ -2308,19 +2308,19 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:281
 msgid "has part"
-msgstr ""
+msgstr "evib osa"
 
 #: DB:link_type/short_link_phrase:110
 msgid "has sibling(s)"
-msgstr ""
+msgstr "evib õve(sid)"
 
 #: DB:link_type/reverse_link_phrase:3
 msgid "has supporting release(s)"
-msgstr ""
+msgstr "evib toetusväljalaset/-väljalaskeid"
 
 #: DB:link_type/short_link_phrase:65
 msgid "has tribute album(s)"
-msgstr ""
+msgstr "evib tribuutalbumit/-albumeid"
 
 #: DB:link_type/short_link_phrase:250
 msgid "has {additional} photography by"
@@ -2332,7 +2332,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:211
 msgid "history page"
-msgstr ""
+msgstr "ajaloolehekülg"
 
 #: DB:link_type/reverse_link_phrase:211
 msgid "history page for"
@@ -2340,7 +2340,7 @@ msgstr ""
 
 #: DB:link_attribute_type/name:580
 msgid "instrumental"
-msgstr ""
+msgstr "instrumentaalne"
 
 #: DB:link_type/link_phrase:112 DB:link_type/reverse_link_phrase:112
 msgid "involved with"
@@ -2352,15 +2352,15 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:280
 msgid "is a SecondHandSongs page for"
-msgstr ""
+msgstr "on SecondHandSongsi leht teosele"
 
 #: DB:link_type/short_link_phrase:289
 msgid "is a Songfacts page for"
-msgstr ""
+msgstr "on Songfactsi leht teosele"
 
 #: DB:link_type/short_link_phrase:279
 msgid "is a Wikipedia page for"
-msgstr ""
+msgstr "on Wikipedia leht olemile"
 
 #: DB:link_type/short_link_phrase:228
 msgid "is a compilation of"
@@ -2433,7 +2433,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:11 DB:link_type/short_link_phrase:11
 msgid "is {EP:an|a} {EP:EP|single} which was taken from"
-msgstr ""
+msgstr "on {EP:EP|singel}, mis võeti väljalaskelt"
 
 #: DB:link_type/short_link_phrase:104
 msgid "is/was a supporting artist for"
@@ -2475,11 +2475,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:226
 msgid "karaoke versions"
-msgstr ""
+msgstr "karaokeversioonid"
 
 #: DB:link_type/link_phrase:238
 msgid "later releases"
-msgstr ""
+msgstr "hilisemad väljalasked"
 
 #: DB:link_type/link_phrase:241
 msgid "later {translated} {parody} versions"
@@ -2491,7 +2491,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:108
 msgid "legal name"
-msgstr ""
+msgstr "kodanikunimi"
 
 #: DB:link_type/link_phrase:22 DB:link_type/link_phrase:142
 #: DB:link_type/link_phrase:259 DB:link_type/reverse_link_phrase:22
@@ -2506,7 +2506,7 @@ msgstr ""
 #: DB:link_attribute_type/name:253 DB:link_type/link_phrase:302
 #: DB:link_type/link_phrase:301
 msgid "license"
-msgstr ""
+msgstr "litsents"
 
 #: DB:link_type/reverse_link_phrase:302 DB:link_type/reverse_link_phrase:301
 msgid "license for"
@@ -2527,7 +2527,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:17
 msgid "live performances"
-msgstr ""
+msgstr "kontsertesitused"
 
 #: DB:link_type/reverse_link_phrase:213
 msgid "logo of"
@@ -2535,12 +2535,12 @@ msgstr ""
 
 #: DB:link_type/link_phrase:213
 msgid "logos"
-msgstr ""
+msgstr "logod"
 
 #: DB:link_type/link_phrase:93 DB:link_type/link_phrase:197
 #: DB:link_type/reverse_link_phrase:271
 msgid "lyrics page"
-msgstr ""
+msgstr "sõnade leht"
 
 #: DB:link_type/link_phrase:271 DB:link_type/reverse_link_phrase:93
 #: DB:link_type/reverse_link_phrase:197
@@ -2553,7 +2553,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:111 DB:link_type/reverse_link_phrase:111
 msgid "married"
-msgstr ""
+msgstr "abielus"
 
 #: DB:link_type/link_phrase:232 DB:link_type/link_phrase:10
 msgid "mash-up of"
@@ -2565,43 +2565,43 @@ msgstr ""
 
 #: DB:link_attribute_type/name:568
 msgid "medium"
-msgstr ""
+msgstr "helikandja"
 
 #: DB:link_attribute_type/name:570
 msgid "medium 1"
-msgstr ""
+msgstr "1. helikandja"
 
 #: DB:link_attribute_type/name:569
 msgid "medium 2"
-msgstr ""
+msgstr "2. helikandja"
 
 #: DB:link_attribute_type/name:571
 msgid "medium 3"
-msgstr ""
+msgstr "3. helikandja"
 
 #: DB:link_attribute_type/name:577
 msgid "medium 4"
-msgstr ""
+msgstr "4. helikandja"
 
 #: DB:link_attribute_type/name:576
 msgid "medium 5"
-msgstr ""
+msgstr "5. helikandja"
 
 #: DB:link_attribute_type/name:575
 msgid "medium 6"
-msgstr ""
+msgstr "6. helikandja"
 
 #: DB:link_attribute_type/name:574
 msgid "medium 7"
-msgstr ""
+msgstr "7. helikandja"
 
 #: DB:link_attribute_type/name:573
 msgid "medium 8"
-msgstr ""
+msgstr "8. helikandja"
 
 #: DB:link_attribute_type/name:572
 msgid "medium 9"
-msgstr ""
+msgstr "9. helikandja"
 
 #: DB:link_type/link_phrase:239 DB:link_type/link_phrase:244
 msgid "medley of"
@@ -2617,7 +2617,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:198 DB:link_type/link_phrase:223
 msgid "microblogs"
-msgstr ""
+msgstr "mikroblogid"
 
 #: DB:link_attribute_type/name:2
 msgid "minor"
@@ -2627,13 +2627,13 @@ msgstr ""
 #: DB:link_type/link_phrase:162 DB:link_type/link_phrase:270
 #: DB:link_type/reverse_link_phrase:261
 msgid "miscellaneous roles"
-msgstr ""
+msgstr "mitmesugused rollid"
 
 #: DB:link_type/link_phrase:261 DB:link_type/reverse_link_phrase:25
 #: DB:link_type/reverse_link_phrase:129 DB:link_type/reverse_link_phrase:162
 #: DB:link_type/reverse_link_phrase:270
 msgid "miscellaneous support"
-msgstr ""
+msgstr "mitmesugune toetus"
 
 #: DB:link_type/short_link_phrase:177
 msgid "music can be downloaded for free at"
@@ -2654,7 +2654,7 @@ msgstr ""
 #: DB:link_type/link_phrase:106 DB:link_type/reverse_link_phrase:106
 #: DB:link_type/short_link_phrase:106
 msgid "musical relationship"
-msgstr ""
+msgstr "muusikaline seos"
 
 #: DB:link_attribute_type/name:374
 msgid "noncommercial sampling plus"
@@ -2668,11 +2668,11 @@ msgstr ""
 #: DB:link_type/link_phrase:287 DB:link_type/link_phrase:183
 #: DB:link_type/link_phrase:219
 msgid "official homepages"
-msgstr ""
+msgstr "ametlikud kodulehed"
 
 #: DB:link_type/link_phrase:185
 msgid "online communities"
-msgstr ""
+msgstr "võrgukogukonnad"
 
 #: DB:link_type/reverse_link_phrase:185
 msgid "online community page for"
@@ -2703,15 +2703,15 @@ msgstr "muud andmebaasid"
 #: DB:link_type/link_phrase:233 DB:link_type/reverse_link_phrase:233
 #: DB:link_type/short_link_phrase:233
 msgid "other versions"
-msgstr ""
+msgstr "teised versioonid"
 
 #: DB:link_type/reverse_link_phrase:200
 msgid "parent label"
-msgstr ""
+msgstr "emafirma"
 
 #: DB:link_type/reverse_link_phrase:109
 msgid "parents"
-msgstr ""
+msgstr "vanemad"
 
 #: DB:link_attribute_type/name:511
 msgid "parody"
@@ -2723,17 +2723,17 @@ msgstr ""
 
 #: DB:link_attribute_type/name:579
 msgid "partial"
-msgstr ""
+msgstr "osaline"
 
 #: DB:link_type/link_phrase:281
 msgid "parts"
-msgstr ""
+msgstr "osad"
 
 #: DB:link_type/link_phrase:34 DB:link_type/link_phrase:122
 #: DB:link_type/reverse_link_phrase:34 DB:link_type/reverse_link_phrase:122
 #: DB:link_type/short_link_phrase:34 DB:link_type/short_link_phrase:122
 msgid "performance"
-msgstr ""
+msgstr "esitus"
 
 #: DB:link_type/short_link_phrase:292
 msgid "performed the voice of"
@@ -2757,12 +2757,12 @@ msgstr ""
 
 #: DB:link_type/link_phrase:108 DB:link_type/short_link_phrase:108
 msgid "performs as"
-msgstr ""
+msgstr "esineb kui"
 
 #: DB:link_type/link_phrase:113 DB:link_type/reverse_link_phrase:113
 #: DB:link_type/short_link_phrase:113
 msgid "personal relationship"
-msgstr ""
+msgstr "isiklik suhe"
 
 #: DB:link_type/reverse_link_phrase:173
 msgid "picture of"
@@ -2770,11 +2770,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:173
 msgid "pictures"
-msgstr ""
+msgstr "pildid"
 
 #: DB:link_type/reverse_link_phrase:1
 msgid "previous disc"
-msgstr ""
+msgstr "eelmine plaat"
 
 #: DB:link_attribute_type/name:618
 msgid "principal"
@@ -2795,7 +2795,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:117
 msgid "producers"
-msgstr ""
+msgstr "produtsendid"
 
 #: DB:link_type/link_phrase:59 DB:link_type/link_phrase:72
 #: DB:link_type/link_phrase:87 DB:link_type/link_phrase:160
@@ -2890,7 +2890,7 @@ msgstr ""
 #: DB:link_type/link_phrase:98 DB:link_type/link_phrase:260
 #: DB:link_type/reverse_link_phrase:98 DB:link_type/reverse_link_phrase:260
 msgid "recording studio"
-msgstr ""
+msgstr "salvestusstuudio"
 
 #: DB:link_type/reverse_link_phrase:239 DB:link_type/reverse_link_phrase:244
 msgid "referred to in medleys"
@@ -2906,11 +2906,11 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:6
 msgid "remastered versions"
-msgstr ""
+msgstr "remasterdatud versioonid"
 
 #: DB:link_type/reverse_link_phrase:236
 msgid "remasters"
-msgstr ""
+msgstr "remasterid"
 
 #: DB:link_type/link_phrase:9 DB:link_type/link_phrase:230
 msgid "remix of"
@@ -2924,7 +2924,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:13 DB:link_type/short_link_phrase:50
 #: DB:link_type/short_link_phrase:157 DB:link_type/short_link_phrase:234
 msgid "remixes"
-msgstr ""
+msgstr "remiksid"
 
 #: DB:link_type/reverse_link_phrase:202
 msgid "renamed from"
@@ -2940,7 +2940,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:94
 msgid "reviews"
-msgstr ""
+msgstr "ülevaated"
 
 #: DB:link_type/link_phrase:83 DB:link_type/link_phrase:258
 msgid "samples IMDb entry"
@@ -2964,7 +2964,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:110 DB:link_type/reverse_link_phrase:110
 msgid "siblings"
-msgstr ""
+msgstr "õved"
 
 #: DB:link_type/reverse_link_phrase:121
 msgid "signed"
@@ -2976,7 +2976,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:192 DB:link_type/link_phrase:218
 msgid "social networking"
-msgstr ""
+msgstr "sotsiaalvõrgustik"
 
 #: DB:link_type/reverse_link_phrase:192 DB:link_type/reverse_link_phrase:218
 msgid "social networking page for"
@@ -2984,15 +2984,15 @@ msgstr ""
 
 #: DB:link_attribute_type/name:596
 msgid "solo"
-msgstr ""
+msgstr "soolo"
 
 #: DB:link_attribute_type/description:10 DB:link_attribute_type/name:10
 msgid "soprano"
-msgstr ""
+msgstr "sopran"
 
 #: DB:link_attribute_type/name:561
 msgid "spoken"
-msgstr ""
+msgstr "kõneldud"
 
 #: DB:link_type/link_phrase:85 DB:link_type/link_phrase:268
 #: DB:link_type/link_phrase:194
@@ -3029,11 +3029,11 @@ msgstr "tenor"
 
 #: DB:link_attribute_type/name:517
 msgid "translated"
-msgstr ""
+msgstr "tõlgitud"
 
 #: DB:link_attribute_type/name:477
 msgid "transliterated"
-msgstr ""
+msgstr "translitereeritud"
 
 #: DB:link_type/reverse_link_phrase:2
 msgid "transl{transliterated:iter}ated track listing of"
@@ -3041,11 +3041,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:2
 msgid "transl{transliterated:iter}ated track listings"
-msgstr ""
+msgstr "{translitereeritud:translitereeritud|tõlgitud} rajaloendid"
 
 #: DB:link_type/reverse_link_phrase:61
 msgid "travel arrangements"
-msgstr ""
+msgstr "reisikorraldused"
 
 #: DB:link_type/link_phrase:61
 msgid "travel arrangements for"
@@ -3053,7 +3053,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:65
 msgid "tribute albums"
-msgstr ""
+msgstr "tribuutalbumid"
 
 #: DB:link_type/reverse_link_phrase:65
 msgid "tribute to"
@@ -3061,11 +3061,11 @@ msgstr ""
 
 #: DB:link_attribute_type/name:582
 msgid "video"
-msgstr ""
+msgstr "video"
 
 #: DB:link_type/link_phrase:303 DB:link_type/link_phrase:304
 msgid "video channel"
-msgstr ""
+msgstr "videokanal"
 
 #: DB:link_type/reverse_link_phrase:303 DB:link_type/reverse_link_phrase:304
 msgid "video channel for"
@@ -3073,7 +3073,7 @@ msgstr ""
 
 #: DB:link_attribute_type/name:3
 msgid "vocal"
-msgstr ""
+msgstr "vokaal"
 
 #: DB:link_type/link_phrase:292
 msgid "voice of"
@@ -3363,17 +3363,17 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:51 DB:link_type/reverse_link_phrase:156
 msgid "{additional} {guest} {solo} performer"
-msgstr "{täiendav} {külalis} {soolo} esitaja"
+msgstr "{täiendav} {külalis-} {soolo-} esitaja"
 
 #: DB:link_type/link_phrase:44 DB:link_type/link_phrase:148
 #: DB:link_type/reverse_link_phrase:44 DB:link_type/reverse_link_phrase:148
 msgid "{additional} {guest} {solo} {instrument}"
-msgstr ""
+msgstr "{täiendav} {külalis-} {soolo-} {instrument}"
 
 #: DB:link_type/link_phrase:60 DB:link_type/link_phrase:149
 #: DB:link_type/reverse_link_phrase:60 DB:link_type/reverse_link_phrase:149
 msgid "{additional} {guest} {solo} {vocal} vocals"
-msgstr ""
+msgstr "{täiendav} {külalis-} {soolo-} {vokaal} vokaal"
 
 #: DB:link_type/reverse_link_phrase:282 DB:link_type/reverse_link_phrase:158
 #: DB:link_type/reverse_link_phrase:41
@@ -3410,7 +3410,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:56 DB:link_type/reverse_link_phrase:165
 msgid "{additional} {translated:translator|lyricist}"
-msgstr ""
+msgstr "{täiendav} {tõlkis:tõlkija|sõnade autor}"
 
 #: DB:link_type/link_phrase:169
 msgid "{additional} {translated} libretto"
@@ -3435,11 +3435,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:1
 msgid "{bonus:bonus|next} disc"
-msgstr ""
+msgstr "{boonus:boonus-|järgmine} plaat"
 
 #: DB:link_type/short_link_phrase:1
 msgid "{bonus:may be|is} part of a set, the next disc in the set is"
-msgstr ""
+msgstr "{boonus:võib olla|on} osa komplektist, mille järgmine plaat on"
 
 #: DB:link_type/short_link_phrase:45 DB:link_type/short_link_phrase:150
 msgid "{orchestra} orchestra {additional:additionally} performed"

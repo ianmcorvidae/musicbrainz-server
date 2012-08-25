@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-25 13:57+0000\n"
+"PO-Revision-Date: 2012-08-25 17:49+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -1461,7 +1461,7 @@ msgstr "Meessoost:"
 #: ../root/statistics/formats.tt:31 ../root/statistics/view_js.tt:46
 #, perl-format
 msgid "Mediums"
-msgstr ""
+msgstr "Helikandjad"
 
 #: ../root/statistics/view_js.tt:143
 #, perl-format
@@ -1568,7 +1568,7 @@ msgstr "Tavalise andmekvaliteediga:"
 #: ../root/statistics/view_js.tt:52
 #, perl-format
 msgid "Open Edits"
-msgstr ""
+msgstr "Lahtised toimetused"
 
 #: ../root/statistics/editors.tt:14
 #, perl-format
@@ -2044,7 +2044,7 @@ msgstr ""
 #: ../root/statistics/view_js.tt:79 ../root/statistics/view_js.tt:80
 #, perl-format
 msgid "Unknown Country"
-msgstr "Riik teadmata"
+msgstr "[Riik määramata]"
 
 #: ../root/statistics/view_js.tt:152
 #, perl-format
@@ -2059,7 +2059,7 @@ msgstr "Teadmata andmekvaliteediga:"
 #: ../root/statistics/formats.tt:5
 #, perl-format
 msgid "Unknown Format"
-msgstr "Määramata"
+msgstr "[Formaat määramata]"
 
 #: ../root/statistics/view_js.tt:98
 #, perl-format
@@ -2370,7 +2370,7 @@ msgstr ""
 #: ../root/statistics/relationships.tt:52
 #, perl-format
 msgid "{n}%"
-msgstr "{n} %"
+msgstr "{n}%"
 
 #: ../root/statistics/view_js.tt:89
 #, perl-format
@@ -2380,9 +2380,9 @@ msgstr ""
 #: ../root/statistics/relationships.tt:47
 #, perl-format
 msgid "{type0}-{type1}"
-msgstr ""
+msgstr "{type0}-{type1}"
 
 #: ../root/statistics/relationships.tt:50
 #, perl-format
 msgid "{type0}-{type1} relationships:"
-msgstr ""
+msgstr "Seoseid, milles üks osapool on {type0} ja teine {type1}:"
