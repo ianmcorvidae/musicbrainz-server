@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-25 17:49+0000\n"
+"PO-Revision-Date: 2012-08-25 18:55+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -534,7 +534,7 @@ msgstr "Heakskiidetud:"
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Artist"
-msgstr ""
+msgstr "artisti"
 
 #: ../root/statistics/view_js.tt:28
 #, perl-format
@@ -1358,7 +1358,7 @@ msgstr ""
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Label"
-msgstr ""
+msgstr "plaadifirma"
 
 #: ../root/statistics/view_js.tt:29
 #, perl-format
@@ -1714,7 +1714,7 @@ msgstr ""
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Recording"
-msgstr ""
+msgstr "salvestise"
 
 #: ../root/statistics/view_js.tt:160
 #, perl-format
@@ -1795,7 +1795,7 @@ msgstr "Seoseid:"
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Release"
-msgstr ""
+msgstr "väljalaske"
 
 #: ../root/statistics/view_js.tt:30
 #, perl-format
@@ -1810,7 +1810,7 @@ msgstr ""
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Release Group"
-msgstr ""
+msgstr "väljalaskerühma"
 
 #: ../root/statistics/view_js.tt:161
 #, perl-format
@@ -2038,7 +2038,7 @@ msgstr ""
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "URL"
-msgstr ""
+msgstr "URL-i"
 
 #: ../root/statistics/countries.tt:16 ../root/statistics/view_js.tt:78
 #: ../root/statistics/view_js.tt:79 ../root/statistics/view_js.tt:80
@@ -2144,7 +2144,7 @@ msgstr "Hääli:"
 #: ../root/statistics/relationships.tt:3
 #, perl-format
 msgid "Work"
-msgstr ""
+msgstr "teose"
 
 #: ../root/statistics/view_js.tt:162
 #, perl-format
@@ -2380,9 +2380,9 @@ msgstr ""
 #: ../root/statistics/relationships.tt:47
 #, perl-format
 msgid "{type0}-{type1}"
-msgstr "{type0}-{type1}"
+msgstr "Seosed {type0} ja {type1} vahel"
 
 #: ../root/statistics/relationships.tt:50
 #, perl-format
 msgid "{type0}-{type1} relationships:"
-msgstr "Seoseid, milles üks osapool on {type0} ja teine {type1}:"
+msgstr "Seoseid {type0} ja {type1} vahel:"
