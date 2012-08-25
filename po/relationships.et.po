@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-25 17:58+0000\n"
+"PO-Revision-Date: 2012-08-25 21:34+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -2461,7 +2461,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:103
 msgid "is/was {additional:an additional|a} member of {founder:and founded|}"
-msgstr ""
+msgstr "on/oli {täiendav:täiendav|} liige {asutaja:ja asutas grupi|grupis}"
 
 #: DB:link_type/short_link_phrase:305
 msgid ""
@@ -3029,7 +3029,7 @@ msgstr "tenor"
 
 #: DB:link_attribute_type/name:517
 msgid "translated"
-msgstr "tõlgitud"
+msgstr "tõlkis"
 
 #: DB:link_attribute_type/name:477
 msgid "transliterated"
@@ -3138,7 +3138,7 @@ msgstr ""
 #: DB:link_type/link_phrase:55 DB:link_type/link_phrase:168
 #: DB:link_type/short_link_phrase:55 DB:link_type/short_link_phrase:168
 msgid "{additional:additionally} composed"
-msgstr ""
+msgstr "{täiendav:täiendavalt} kirjutas muusika teosele"
 
 #: DB:link_type/link_phrase:46 DB:link_type/link_phrase:151
 #: DB:link_type/short_link_phrase:46 DB:link_type/short_link_phrase:151
@@ -3167,7 +3167,7 @@ msgstr ""
 #: DB:link_type/link_phrase:54 DB:link_type/link_phrase:167
 #: DB:link_type/short_link_phrase:54 DB:link_type/short_link_phrase:167
 msgid "{additional:additionally} wrote"
-msgstr ""
+msgstr "{täiendav:täiendavalt} kirjutas teose"
 
 #: DB:link_type/short_link_phrase:37 DB:link_type/short_link_phrase:132
 msgid ""
@@ -3227,7 +3227,7 @@ msgstr ""
 #: DB:link_type/link_phrase:51 DB:link_type/link_phrase:156
 #: DB:link_type/short_link_phrase:51 DB:link_type/short_link_phrase:156
 msgid "{additional:additionally} {guest} {solo} performed"
-msgstr ""
+msgstr "oli {täiendav:täiendav} {külaline:külalis-} {soolo:soolo-} esitaja salvestisel"
 
 #: DB:link_type/link_phrase:282 DB:link_type/link_phrase:158
 #: DB:link_type/link_phrase:41
@@ -3241,11 +3241,11 @@ msgstr ""
 #: DB:link_type/short_link_phrase:57 DB:link_type/short_link_phrase:169
 msgid ""
 "{additional:additionally} {translated:translated|wrote} the libretto for"
-msgstr ""
+msgstr "{täiendav:täiendavalt} {tõlkis:tõlkis|kirjutas} libreto teosele"
 
 #: DB:link_type/short_link_phrase:56 DB:link_type/short_link_phrase:165
 msgid "{additional:additionally} {translated:translated|wrote} the lyrics for"
-msgstr ""
+msgstr "{täiendav:täiendavalt} {tõlkis:tõlkis|kirjutas} sõnad teosele"
 
 #: DB:link_type/link_phrase:294 DB:link_type/link_phrase:296
 #: DB:link_type/link_phrase:298
@@ -3255,7 +3255,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:293 DB:link_type/reverse_link_phrase:295
 #: DB:link_type/reverse_link_phrase:297
 msgid "{additional} arranger"
-msgstr ""
+msgstr "{additional} arranžeerija"
 
 #: DB:link_type/link_phrase:137 DB:link_type/link_phrase:18
 #: DB:link_type/reverse_link_phrase:137 DB:link_type/reverse_link_phrase:18
@@ -3269,11 +3269,11 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:55 DB:link_type/reverse_link_phrase:168
 msgid "{additional} composer"
-msgstr ""
+msgstr "{additional} helilooja"
 
 #: DB:link_type/reverse_link_phrase:46 DB:link_type/reverse_link_phrase:151
 msgid "{additional} conductor"
-msgstr ""
+msgstr "{additional} dirigent"
 
 #: DB:link_type/link_phrase:63 DB:link_type/link_phrase:146
 #: DB:link_type/reverse_link_phrase:63 DB:link_type/reverse_link_phrase:146
@@ -3307,7 +3307,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:47 DB:link_type/reverse_link_phrase:153
 msgid "{additional} remixer"
-msgstr ""
+msgstr "{additional} remiksija"
 
 #: DB:link_type/link_phrase:231
 msgid "{additional} samples"
@@ -3315,7 +3315,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:54 DB:link_type/reverse_link_phrase:167
 msgid "{additional} writer"
-msgstr ""
+msgstr "{additional} autor"
 
 #: DB:link_type/reverse_link_phrase:140 DB:link_type/reverse_link_phrase:31
 msgid "{additional} {assistant} {associate} {co:co-}audio engineer"
@@ -3355,30 +3355,30 @@ msgstr ""
 
 #: DB:link_type/link_phrase:103
 msgid "{additional} {founder:founding} member of"
-msgstr ""
+msgstr "{additional} {founder:asutaja| }liige grupis"
 
 #: DB:link_type/reverse_link_phrase:103
 msgid "{additional} {founder:founding} members"
-msgstr ""
+msgstr "{additional:täiendavad|} {founder:asutaja| }liikmed"
 
 #: DB:link_type/reverse_link_phrase:51 DB:link_type/reverse_link_phrase:156
 msgid "{additional} {guest} {solo} performer"
-msgstr "{täiendav} {külalis-} {soolo-} esitaja"
+msgstr "{additional} {guest}{solo}esitaja"
 
 #: DB:link_type/link_phrase:44 DB:link_type/link_phrase:148
 #: DB:link_type/reverse_link_phrase:44 DB:link_type/reverse_link_phrase:148
 msgid "{additional} {guest} {solo} {instrument}"
-msgstr "{täiendav} {külalis-} {soolo-} {instrument}"
+msgstr "{additional} {guest}{solo}{instrument}"
 
 #: DB:link_type/link_phrase:60 DB:link_type/link_phrase:149
 #: DB:link_type/reverse_link_phrase:60 DB:link_type/reverse_link_phrase:149
 msgid "{additional} {guest} {solo} {vocal} vocals"
-msgstr "{täiendav} {külalis-} {soolo-} {vokaal} vokaal"
+msgstr "{additional} {guest}{solo}{vocal}vokaal"
 
 #: DB:link_type/reverse_link_phrase:282 DB:link_type/reverse_link_phrase:158
 #: DB:link_type/reverse_link_phrase:41
 msgid "{additional} {instrument} arranger"
-msgstr ""
+msgstr "{additional} {instrument} arranžeerija"
 
 #: DB:link_type/link_phrase:39 DB:link_type/link_phrase:166
 #: DB:link_type/link_phrase:299 DB:link_type/reverse_link_phrase:39
@@ -3410,7 +3410,7 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:56 DB:link_type/reverse_link_phrase:165
 msgid "{additional} {translated:translator|lyricist}"
-msgstr "{täiendav} {tõlkis:tõlkija|sõnade autor}"
+msgstr "sõnade {additional} {translated:tõlkija|autor}"
 
 #: DB:link_type/link_phrase:169
 msgid "{additional} {translated} libretto"
@@ -3418,7 +3418,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:56 DB:link_type/link_phrase:165
 msgid "{additional} {translated} lyrics"
-msgstr ""
+msgstr "{additional} {translated} sõnad"
 
 #: DB:link_type/reverse_link_phrase:294 DB:link_type/reverse_link_phrase:296
 #: DB:link_type/reverse_link_phrase:298
@@ -3435,7 +3435,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:1
 msgid "{bonus:bonus|next} disc"
-msgstr "{boonus:boonus-|järgmine} plaat"
+msgstr "{bonus:boonus|järgmine }plaat"
 
 #: DB:link_type/short_link_phrase:1
 msgid "{bonus:may be|is} part of a set, the next disc in the set is"
@@ -3447,23 +3447,23 @@ msgstr ""
 
 #: DB:link_type/link_phrase:278
 msgid "{partial} {live} {instrumental} {cover} recording of"
-msgstr ""
+msgstr "{partial} {instrumental} {cover}{live:kontsert}salvestis teosest"
 
 #: DB:link_type/reverse_link_phrase:278
 msgid "{partial} {live} {instrumental} {cover} recordings"
-msgstr ""
+msgstr "{partial:osalised} {instrumental:instrumentaalsed} {cover}{live:kontsert}salvestised"
 
 #: DB:link_type/reverse_link_phrase:15
 msgid "{translated} {parody:parodies|covers}"
-msgstr ""
+msgstr "{translated:tõlgitud} {parody:paroodiad|kaverid}"
 
 #: DB:link_type/link_phrase:15
 msgid "{translated} {parody:parody|cover} of"
-msgstr ""
+msgstr "{translated:tõlgitud} {parody:paroodia|kaver} teosest"
 
 #: DB:link_type/reverse_link_phrase:241
 msgid "{translated} {parody} version of"
-msgstr ""
+msgstr "{translated:tõlgitud} {parody}versioon teosest"
 
 #: DB:link_type/short_link_phrase:85 DB:link_type/short_link_phrase:268
 msgid "{video} can be streamed for free at"
