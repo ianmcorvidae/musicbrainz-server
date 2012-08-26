@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-26 21:58+0000\n"
+"PO-Revision-Date: 2012-08-26 22:08+0000\n"
 "Last-Translator: Shepard <email address hidden>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/musicbrainz/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -175,7 +175,7 @@ msgstr "(kein Änderungsprotokoll)"
 #: ../root/release/add_cover_art.tt:26
 #, perl-format
 msgid "(no other cover art)"
-msgstr ""
+msgstr "(kein weiteres Cover-Art)"
 
 #: ../root/edit/details/add_relationship_type.tt:9
 #: ../root/edit/details/historic/add_release_annotation.tt:21
@@ -203,7 +203,7 @@ msgstr "(Sprache zurücksetzen)"
 #: ../root/search/lib/inline-results-recording.tt:60
 #, perl-format
 msgid "(standalone recording)"
-msgstr ""
+msgstr "(alleinstehende Aufnahme)"
 
 #: ../root/edit/details/historic/convert_release_to_multiple_artists.tt:11
 #: ../root/edit/details/historic/mac_to_sac.tt:8
@@ -2894,7 +2894,7 @@ msgstr "Veröffentlichung bearbeiten: {name}"
 #: ../root/layout/menu.tt:245
 #, perl-format
 msgid "Edit Types"
-msgstr "Typen bearbeiten"
+msgstr "Bearbeitungstypen"
 
 #: ../root/url/edit.tt:14 ../root/url/edit.tt:15
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:22
@@ -3884,7 +3884,7 @@ msgstr ""
 msgid ""
 "If you followed a link on our site to get here, please {report|report a bug}"
 " and the URL of the page that sent you here."
-msgstr ""
+msgstr "Wenn Du durch einen Link auf unserer Seite hier gelandet bist, {report|melde bitte einen Bug} und gib die URL der Seite an, die Dich hierher geführt hat."
 
 #: ../root/account/register.tt:47
 #, perl-format
@@ -4273,7 +4273,7 @@ msgid ""
 "Like Wikipedia, MusicBrainz is maintained by a global community of users and"
 " we want everyone &mdash; including you &mdash; to {doc|participate and "
 "contribute}."
-msgstr "Wie Wikipedia wird auch MusicBrainz von einer globalen Gemeinschaft von Benutzer betrieben und wir würden usn freuen, wenn alle - inklusive Dir - {doc|daran teilnehmen und beitragen}."
+msgstr "Wie auch Wikipedia wird MusicBrainz von einer globalen Gemeinschaft von Benutzern betrieben und wir würden usn freuen, wenn alle - inklusive Dir - {doc|daran teilnehmen und beitragen}."
 
 #: ../root/user/profile.tt:49
 #, perl-format
