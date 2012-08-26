@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-26 14:36+0000\n"
+"PO-Revision-Date: 2012-08-26 15:10+0000\n"
 "Last-Translator: Shepard <email address hidden>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/musicbrainz/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -1381,7 +1381,7 @@ msgstr "Künstler"
 #: ../root/report/index.tt:22
 #, perl-format
 msgid "Artists containing disambiguation comments in their name"
-msgstr ""
+msgstr "Künstler mit Unterscheidungskommentaren im Namen"
 
 #: ../root/browse/artist.tt:8
 #, perl-format
@@ -2540,7 +2540,7 @@ msgstr "Direkte Datenbanksuche"
 #: ../root/cdstub/index.tt:3
 #, perl-format
 msgid "Disambiguation"
-msgstr ""
+msgstr "Unterscheidung"
 
 #: ../root/artist/edit_form.tt:40 ../root/cdstub/edit.tt:57
 #: ../root/edit/details/add_artist.tt:19 ../root/edit/details/add_label.tt:20
@@ -2558,7 +2558,7 @@ msgstr ""
 #: ../root/release_group/edit_form.tt:9 ../root/work/edit_form.tt:8
 #, perl-format
 msgid "Disambiguation:"
-msgstr ""
+msgstr "Unterscheidung:"
 
 #: ../root/release/discids.tt:8
 #, perl-format
@@ -3796,7 +3796,7 @@ msgid ""
 " will be prompted to {doc_addcomment|add a disambiguation comment to this "
 "artist}, which will allow users to distinguish this entry from the other "
 "artist(s) with the same name."
-msgstr ""
+msgstr "Wenn es einen oder mehrere Künstler mit dem selben Namen bereits in der Datenbank gibt, wirst Du gebeten werden, einen {doc_addcomment|Unterscheidungskommentar zu diesem Künstler hinzuzufügen}, der es anderen Benutzern ermöglicht, diesen Eintrag von anderen Künstlern mit dem gleichen Namen zu unterscheiden."
 
 #: ../root/label/edit_form.tt:3
 #, perl-format
@@ -3805,14 +3805,14 @@ msgid ""
 "will be prompted to add a {doc_comment|disambiguation comment to this label}"
 " that will allow users to distinguish this entry from the other label(s) "
 "with the same name."
-msgstr ""
+msgstr "Wenn es ein oder mehrere Labels mit dem selben Namen bereits in der Datenbank gibt, wirst Du gebeten werden, einen {doc_comment|Unterscheidungskommentar zu diesem Label hinzuzufügen}, der es anderen Benutzern ermöglicht, diesen Eintrag von anderen Labels mit dem gleichen Namen zu unterscheiden."
 
 #: ../root/main/500.tt:55
 #, perl-format
 msgid ""
 "If the problem persists, please {report|report a bug} and include any error "
 "message that is shown above."
-msgstr ""
+msgstr "Falls das Problem weiterhin besteht, {report|melde bitte einen Bug} und füge die obige Fehlermeldung hinzu."
 
 #: ../root/release/edit/information.tt:168
 #, perl-format
@@ -10047,7 +10047,7 @@ msgstr ""
 msgid ""
 "You cannot add a CD stub while logged in to MusicBrainz. Please {add_rel|add"
 " a new release instead}."
-msgstr ""
+msgstr "Du kannst keinen CD-Stub hinzufügen, während Du in MusicBrainz eingeloggt bist. Bitte {add_rel|füge stattdessen eine neue Veröffentlichung hinzu}."
 
 #: ../root/relationship/linkattributetype/in_use.tt:3
 #, perl-format
@@ -10088,19 +10088,19 @@ msgstr "Du hast keine Sammlungen."
 msgid ""
 "You have used the {valink|Various Artists} special purpose artist on this "
 "recording."
-msgstr ""
+msgstr "Du hast den {valink|Diverse Interpreten}-Spezialkünstler auf dieser Aufnahme verwendet."
 
 #: ../root/release/edit/tracklist.tt:132
 #, perl-format
 msgid "You have used the {valink|Various Artists} special purpose artist on:"
-msgstr ""
+msgstr "Du hast den {valink|Diverse Interpreten}-Spezialkünstler verwendet für:"
 
 #: ../root/edit/cancel.tt:14
 #, perl-format
 msgid ""
 "You may enter an edit note while cancelling this edit. This can be useful to"
 " point editors to another edit."
-msgstr ""
+msgstr "Du kannst einen Bearbeitungsvermerk zum Abbrechvorgang anhängen. Das kann hilfreich sein, um Bearbeiter auf eine andere Bearbeitung hinzuweisen."
 
 #: ../root/artist/special_purpose.tt:2
 #, perl-format
@@ -10140,7 +10140,7 @@ msgid ""
 "erroneously, since a release can have multiple valid disc IDs, and each disc"
 " ID can belong to more than one release. For more in-depth information about"
 " this topic, please see our {doc|CD submission guide}."
-msgstr ""
+msgstr "Du musst Dir sicher sein, dass diese Disc-ID fehlerhafterweise zu dieser Veröffentlichung hinzugefügt wurde, da eine Veröffentlichung mehrere gültige Disc-IDs haben kann und jede Disc-ID zu mehr als einer Veröffentlichung gehören kann. Unser {doc|Anleitung zum Einreichen von CDs} enthält tiefergehende Informationen zu diesem Thema."
 
 #: ../root/user/login.tt:7
 #, perl-format
@@ -10233,7 +10233,7 @@ msgstr "Unterscheidungskommentar hinzufügen"
 #: ../root/edit/search_macros.tt:155
 #, perl-format
 msgid "after"
-msgstr ""
+msgstr "nach"
 
 #: ../root/components/common-macros.tt:46
 #, perl-format
@@ -10260,17 +10260,17 @@ msgstr "automatisch angewandt"
 #: ../root/edit/search_macros.tt:155
 #, perl-format
 msgid "before"
-msgstr ""
+msgstr "vor"
 
 #: ../root/edit/search_macros.tt:155
 #, perl-format
 msgid "between"
-msgstr ""
+msgstr "zwischen"
 
 #: ../root/components/common-macros.tt:373
 #, perl-format
 msgid "bot"
-msgstr ""
+msgstr "Bot"
 
 #: ../root/release/edit/recordings.tt:81
 #: ../root/release/edit/recordings.tt:214
@@ -10296,7 +10296,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:140
 #, perl-format
 msgid "disambiguation:"
-msgstr ""
+msgstr "Unterscheidung:"
 
 #: ../root/components/common-macros.tt:113
 #, perl-format
@@ -10306,7 +10306,7 @@ msgstr "Bearbeiter"
 #: ../root/components/common-macros.tt:607
 #, perl-format
 msgid "ended"
-msgstr ""
+msgstr "beendet"
 
 #: ../root/components/common-macros.tt:594 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10331,13 +10331,13 @@ msgstr "importieren"
 #: ../root/components/common-macros.tt:591 ../root/edit/details/macros.tt:28
 #, perl-format
 msgid "in {date}"
-msgstr ""
+msgstr "in {date}"
 
 #: ../root/components/common-macros.tt:287
 #: ../root/components/rdfa-macros.tt:718 ../root/components/rdfa-macros.tt:731
 #, perl-format
 msgid "info"
-msgstr ""
+msgstr "Info"
 
 #: ../root/edit/search_macros.tt:121 ../root/edit/search_macros.tt:138
 #: ../root/edit/search_macros.tt:172 ../root/edit/search_macros.tt:184
@@ -10346,37 +10346,37 @@ msgstr ""
 #: ../root/edit/search_macros.tt:266
 #, perl-format
 msgid "is"
-msgstr ""
+msgstr "ist"
 
 #: ../root/edit/search_macros.tt:121
 #, perl-format
 msgid "is after"
-msgstr ""
+msgstr "ist nach"
 
 #: ../root/edit/search_macros.tt:121
 #, perl-format
 msgid "is before"
-msgstr ""
+msgstr "ist vor"
 
 #: ../root/edit/search_macros.tt:121 ../root/edit/search_macros.tt:138
 #, perl-format
 msgid "is between"
-msgstr ""
+msgstr "ist zwischen"
 
 #: ../root/edit/search_macros.tt:251
 #, perl-format
 msgid "is in my subscriptions"
-msgstr ""
+msgstr "ist von mir abonniert"
 
 #: ../root/edit/search_macros.tt:138
 #, perl-format
 msgid "is less than"
-msgstr ""
+msgstr "ist weniger als"
 
 #: ../root/edit/search_macros.tt:138
 #, perl-format
 msgid "is more than"
-msgstr ""
+msgstr "ist mehr als"
 
 #: ../root/edit/search_macros.tt:121 ../root/edit/search_macros.tt:138
 #: ../root/edit/search_macros.tt:155 ../root/edit/search_macros.tt:172
@@ -10385,7 +10385,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:266
 #, perl-format
 msgid "is not"
-msgstr ""
+msgstr "ist nicht"
 
 #: ../root/components/common-macros.tt:113
 #, perl-format
@@ -10395,7 +10395,7 @@ msgstr "Labels"
 #: ../root/components/common-macros.tt:372
 #, perl-format
 msgid "limited user"
-msgstr ""
+msgstr "eingeschränkter Benutzer"
 
 #: ../root/edit/relationship/edit.tt:37 ../root/scripts/text_strings.tt:86
 #, perl-format
@@ -10411,7 +10411,7 @@ msgstr "mehr"
 #: ../root/layout/sidebar/sidebar-tags.tt:16
 #, perl-format
 msgid "more..."
-msgstr ""
+msgstr "mehr …"
 
 #: ../root/edit/search_macros.tt:17
 #, perl-format
@@ -10436,7 +10436,7 @@ msgstr "älteste zuerst"
 #: ../root/edit/search_macros.tt:155
 #, perl-format
 msgid "on"
-msgstr ""
+msgstr "am"
 
 #: ../root/components/common-macros.tt:589 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10512,7 +10512,7 @@ msgstr "alle Bewertungen ansehen"
 #: ../root/release/header.tt:10
 #, perl-format
 msgid "see all versions of this release, {count} available"
-msgstr ""
+msgstr "alle Versionen dieser Veröffentlichung ansehen, {count} vorhanden"
 
 #: ../root/user/profile.tt:36
 #, perl-format
@@ -11791,7 +11791,7 @@ msgstr "Oft benutzt"
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:155
 msgid "Other"
-msgstr ""
+msgstr "Andere"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:247
 msgid "YYYY"
