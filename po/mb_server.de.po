@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-26 15:10+0000\n"
+"PO-Revision-Date: 2012-08-26 16:08+0000\n"
 "Last-Translator: Shepard <email address hidden>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/musicbrainz/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -8820,7 +8820,7 @@ msgstr "Diese Tabelle zeigt eine Zusammenfassung der Stimmabgaben dieses Bearbei
 #: ../root/components/common-macros.tt:373
 #, perl-format
 msgid "This user is automated."
-msgstr ""
+msgstr "Dieser Benutzer ist automatisiert."
 
 #: ../root/components/common-macros.tt:372
 #, perl-format
@@ -8837,7 +8837,7 @@ msgstr "Mithilfe dieses Wizards kannst Du {release} in eine andere Veröffentlic
 msgid ""
 "This work has no relationships and will be removed automatically in the next"
 " few days. If this is not intended, please add relationships to this work."
-msgstr ""
+msgstr "Dieses Werk hat keine Beziehungen und wird innerhalb der nächsten Tage automatisch entfernt. Wenn Du das nicht wünschst, füge bitte Beziehungen zu diesem Werk hinzu."
 
 #: ../root/work/tags.tt:2
 #, perl-format
@@ -8852,7 +8852,7 @@ msgstr "Zeit"
 #: ../root/layout/menu.tt:134
 #, perl-format
 msgid "Timeline Graph"
-msgstr ""
+msgstr "Zeitleistengraph"
 
 #: ../root/account/preferences.tt:25
 #, perl-format
@@ -8901,24 +8901,24 @@ msgstr "Um mit dem Stöbern anzufangen, klicke bitte auf einen Buchstaben oben."
 msgid ""
 "To create a new tracklist, use an existing tracklist or import a disc from a"
 " CD stub or FreeDB, select the appropriate tab."
-msgstr ""
+msgstr "Um eine neue Titelliste zu erstellen, eine existierende Titelliste zu verwenden oder eine CD von einem CD-Stub oder FreeDB zu importieren, wähle den entsprechenden Reiter."
 
 #: ../root/release/edit/information.tt:50
 #, perl-format
 msgid "To edit types, please edit the release group."
-msgstr ""
+msgstr "Um die Typen zu bearbeiten, bearbeite bitte die Veröffentlichungsgruppe."
 
 #: ../root/elections/show.tt:88
 #, perl-format
 msgid "To find out if you can vote for this candidate, please {url|log in}."
-msgstr ""
+msgstr "Um herauszufinden, ob Du für diesen Kandidaten stimmen kannst, {url|logge Dich bitte ein}."
 
 #: ../root/watch/list.tt:36
 #, perl-format
 msgid ""
 "To watch an artist and be notified of new releases, {search_url|search} for "
 "them and select 'Watch this artist for new releases' from the sidebar."
-msgstr "Um einen Künstler zu beobachten und über neue Veröffentlichungen benachrichtigt zu werden, {search_url|suche} nach dem Künstler und wähle ‚Diesen Künstler auf neue Veröffentlichungen hin beobachten‘ in der Seitenleiste."
+msgstr "Um einen Künstler zu beobachten und über neue Veröffentlichungen benachrichtigt zu werden, {search_url|suche} nach dem Künstler und wähle „Diesen Künstler auf neue Veröffentlichungen hin beobachten“ in der Seitenleiste."
 
 #: ../root/edit/details/historic/move_disc_id.tt:19
 #: ../root/edit/details/move_disc_id.tt:15
@@ -8930,7 +8930,7 @@ msgstr "Nach:"
 #: ../root/layout/menu.tt:194
 #, perl-format
 msgid "Top CD Stubs"
-msgstr ""
+msgstr "Top-CD-Stubs"
 
 #: ../root/report/isrc_with_many_recordings.tt:14
 #, perl-format
@@ -9139,7 +9139,7 @@ msgstr "Transklusionsbearbeiter sind Benutzer, die Einträge in die {uri|WikiDoc
 #, perl-format
 msgid ""
 "Translated/Transliterated Pseudo-Releases not linked to an original version"
-msgstr ""
+msgstr "Übersetzte / transliterierte Pseudo-Veröffentlichungen, die nicht mit einer Originalversion verbunden sind"
 
 #: ../root/layout.tt:148
 #, perl-format
@@ -9258,13 +9258,13 @@ msgstr "Unbekannt"
 #: ../root/recording/fingerprints.tt:73
 #, perl-format
 msgid "Unlink"
-msgstr ""
+msgstr "Entfernen"
 
 #: ../root/report/unlinked_pseudo_releases.tt:1
 #: ../root/report/unlinked_pseudo_releases.tt:3
 #, perl-format
 msgid "Unlinked Pseudo-Releases"
-msgstr ""
+msgstr "Unverbundene Pseudo-Veröffentlichungen"
 
 #: ../root/artist/layout.tt:126 ../root/label/layout.tt:96
 #: ../root/user/subscriptions/subscriptions.tt:32
@@ -9310,7 +9310,7 @@ msgstr "Tags ändern"
 #: ../root/artist/merge.tt:19
 #, perl-format
 msgid "Update artist credits to use the new artist's name"
-msgstr ""
+msgstr "Künstlernennungen aktualisieren, um den neuen Künstlernamen zu verwenden"
 
 #: ../root/collection/edit_form.tt:13
 #, perl-format
@@ -9343,7 +9343,7 @@ msgstr "In einer Beziehung verwenden"
 msgid ""
 "Use our <strong>XML web service</strong> or <strong>development "
 "libraries</strong> to create your own MusicBrainz-enabled applications."
-msgstr ""
+msgstr "Benutze unseren <strong>XML-Web-Service</strong> oder die <strong>Entwicklungsbibliotheken</strong> um Deine eigenen auf MusicBrainz aufbauenden Anwendungen zu bauen."
 
 #: ../root/release/edit/recordings.tt:94
 #, perl-format
@@ -9355,27 +9355,27 @@ msgstr "Vorgeschlagene Aufnahme wählen"
 msgid ""
 "Use the following fields to enter collaborations, see the <a "
 "href=\"{url}\">Artist Credit</a> documentation for more information."
-msgstr "Benutze die folgenden Felder, um Zusammenarbeiten einzugeben. Siehe die <a href=\"{url}\">Artist Credit</a> Dokumentation zu weiteren Informationen."
+msgstr "Benutze die folgenden Felder, um Zusammenarbeiten einzugeben. Weitere Informationen findest Du in der Dokumentation zu <a href=\"{url}\">Künstlernennungen</a>."
 
 #: ../root/release/edit/tracklist.tt:233
 #, perl-format
 msgid "Use the following fields to search for a CD stub."
-msgstr ""
+msgstr "Benutze die folgenden Felder, um nach einem CD-Stub zu suchen."
 
 #: ../root/release/edit/tracklist.tt:240
 #, perl-format
 msgid "Use the following fields to search for a FreeDB entry."
-msgstr ""
+msgstr "Benutze die folgenden Felder, um nach einem FreeDB-Eintrag zu suchen."
 
 #: ../root/release/edit/tracklist.tt:205
 #, perl-format
 msgid "Use the following fields to search for an existing tracklist."
-msgstr ""
+msgstr "Benutze die folgenden Felder, um nach einer bestehenden Titelliste zu suchen."
 
 #: ../root/admin/wikidoc/index.tt:78
 #, perl-format
 msgid "Use this button to fetch page versions from the wiki."
-msgstr ""
+msgstr "Benutze diesen Button, um Seitenversionen aus dem Wiki zu holen."
 
 #: ../root/search/form.tt:39
 #, perl-format
@@ -9411,14 +9411,14 @@ msgid ""
 "may specify the new order of mediums. The order does not have to be "
 "continuous, but all medium positions must be positive, and multiple mediums "
 "cannot be in the same position"
-msgstr ""
+msgstr "Bei diesem Vereinigungsverfahren werden alle Medien von allen Veröffentlichungen benutzt. Du kannst die neue Reihenfolge der Medien angeben. Die Reihenfolge muss nicht lückenlos sein, aber alle Mediumspositionen müssen positiv sein und eine Position kann nicht von mehreren Medien besetzt sein."
 
 #: ../root/search/form.tt:54
 #, perl-format
 msgid ""
 "Using {doc|advanced query syntax} while performing a direct database search "
 "will result in inaccurate results."
-msgstr "Das Benutzen von {doc|erweiterter Suchsyntax} in der direkten Datenbanksuche wird ungenaue Ergebnisse liefern."
+msgstr "Das Benutzen von {doc|erweiterter Abfragesyntax} in der direkten Datenbanksuche wird ungenaue Ergebnisse liefern."
 
 #: ../root/cdstub/browse.tt:19 ../root/cdstub/layout.tt:25
 #, perl-format
@@ -9557,7 +9557,7 @@ msgid ""
 " second their nomination. If you do not support this candidate, please note "
 "that you cannot cast a \"No\" vote (or abstain) until two seconders have "
 "been found."
-msgstr ""
+msgstr "Die Abstimmung ist noch nicht offen. Wenn Du diesen Kandidaten unterstützen willst, kannst Du seine Nominierung befürworten. Wenn Du diesen Kandidaten nicht unterstützt, beachte bitte, dass Du nicht mit dagegen stimmen oder Dich enthalten kannst, bis zwei Befürworter gefunden wurden."
 
 #: ../root/doc/edit_type.tt:43
 #, perl-format
@@ -9592,7 +9592,7 @@ msgstr "Tut uns Leid, aber zur Zeit stehen für diesen Report keine Daten zur Ve
 msgid ""
 "We are unable to display history for cover art. For a current listing of "
 "cover art, please see the {coverart|releases cover art page}."
-msgstr ""
+msgstr "Wir können leider keine Historie für Cover-Art anzeigen. Eine aktuelle Auflistung von Cover-Art findest Du auf der {coverart|Cover-Art-Seite der Veröffentlichung}."
 
 #: ../root/release/edit/missing_entities.tt:82
 #, perl-format
@@ -9611,7 +9611,7 @@ msgstr "Wir konnten kein Label mit dem von Dir eingegebenen Namen finden. Wenn D
 #: ../root/release/cover_art.tt:38
 #, perl-format
 msgid "We do not currently have any cover art for {release}."
-msgstr ""
+msgstr "Wir haben derzeit noch kein Cover-Art für {release}."
 
 #: ../root/cdtoc/lookup.tt:78
 #, perl-format
@@ -9619,7 +9619,7 @@ msgid ""
 "We found discs matching the information you requested, listed below. If none"
 " of these are the release you are looking for, please see the instructions "
 "below."
-msgstr ""
+msgstr "Wir haben Medien gefunden, die auf die von Dir angefragten Informationen passen. Wenn keine davon die von Dir gewünschte Veröffentlichung ist, folge bitte den unten stehenden Anweisungen."
 
 #: ../root/cdtoc/lookup.tt:6
 #, perl-format
@@ -9680,7 +9680,7 @@ msgstr "Wir verwenden Dein Geburtsdatum, um Dein Alter in Jahren auf Deinem Prof
 msgid ""
 "We're terribly sorry for this problem. Please wait a few minutes and repeat "
 "your request &mdash; the problem may go away."
-msgstr ""
+msgstr "Es tut uns fürchterlich Leid, dass dieses Problem aufgetreten ist! Bitte warte ein paar Minuten und wiederhole Deine Anfrage - das Problem löst sich dann vielleicht einfach von selbst."
 
 #: ../root/account/lost_username_sent.tt:5
 #, perl-format
@@ -9688,7 +9688,7 @@ msgid ""
 "We've sent you information about your MusicBrainz account. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr "Wir haben Dir Informationen zu Deinem MusicBrainz-Benutzerkonto geschickt. Wenn Du diese Nachricht nicht erhältst oder immer noch Probleme beim Einloggen hast, so {link|kontaktiere} uns bitte."
+msgstr "Wir haben Dir Informationen zu Deinem MusicBrainz-Konto geschickt. Wenn Du diese Nachricht nicht erhältst oder immer noch Probleme beim Einloggen hast, so {link|kontaktiere} uns bitte."
 
 #: ../root/account/lost_password_sent.tt:5
 #, perl-format
@@ -9724,7 +9724,7 @@ msgid ""
 "When you are ready to merge these, just click the Merge button. You may "
 "still add more to this merge queue by simply browsing to the entities page "
 "and following the merge link."
-msgstr "Wenn Du bereit bist, diese zu vereinen, klicke einfach auf den Vereinen-Button. Du kannst aber auch mehr zu dieser Vereinigungs-Liste hinzufügen, indem Du einfach zu den Seiten der Entitäten browst und dort den Vereinen-Link benutzt."
+msgstr "Wenn Du bereit bist, diese zu vereinen, klicke einfach auf den Vereinen-Button. Du kannst aber auch mehr zu dieser Vereinigungsliste hinzufügen, indem Du einfach zu den Seiten der Objekte gehst und dort den Vereinen-Link benutzt."
 
 #: ../root/release/merge_search.tt:7
 #, perl-format
@@ -9815,7 +9815,7 @@ msgstr "Mit „{index}“ beginnende Werke"
 #: ../root/otherlookup/results-work.tt:8 ../root/search/results-work.tt:11
 #, perl-format
 msgid "Writers"
-msgstr ""
+msgstr "Autoren"
 
 #: ../root/layout/menu.tt:169
 #, perl-format
@@ -9890,26 +9890,26 @@ msgstr "Ja, ich bin sicher"
 msgid ""
 "You are about to add an ISRC to {recording} by {ac}. The ISRC must be "
 "entered in standard <code>CCXXXYYNNNNNN</code> format:"
-msgstr "Du bist dabei, einen ISRC zu {recording} von {ac} hinzuzufügen. Der ISRC muss im Standardformat <code>CCXXXYYNNNNNN</code> eingegeben werden."
+msgstr "Du bist im Begriff einen ISRC zu {recording} von {ac} hinzuzufügen. Der ISRC muss im Standardformat <code>CCXXXYYNNNNNN</code> eingegeben werden:"
 
 #: ../root/work/add_iswc.tt:3
 #, perl-format
 msgid ""
 "You are about to add an ISWC to {work}. The ISWC must be entered in standard"
 " <code>T-DDD.DDD.DDD-C</code> format:"
-msgstr ""
+msgstr "Du bist im Begriff einen ISWC to {work} hinzuzufügen. Der ISWC muss im Standardformat <code>T-DDD.DDD.DDD-C</code> eingegeben werden:"
 
 #: ../root/artist/edit_form.tt:3
 #, perl-format
 msgid "You are about to add an artist to MusicBrainz."
-msgstr "Du bist dabei, einen Künstler zu MusicBrainz hinzuzufügen."
+msgstr "Du bist Begriff einen Künstler zu MusicBrainz hinzuzufügen."
 
 #: ../root/cdtoc/set_durations.tt:4
 #, perl-format
 msgid ""
 "You are about to enter an edit that will change the durations of tracks to "
 "match that of the below disc ID."
-msgstr "Du bist dabei, eine Bearbeitung einzugeben, die die Längen von Titel so ändert, dass sie mit der Disc-ID unten zusammenpassen."
+msgstr "Du bist im Begriff eine Bearbeitung einzugeben, die die Längen von Titeln so ändert, dass sie mit der Disc-ID unten zusammenpassen."
 
 #: ../root/artist/merge.tt:4
 #, perl-format
@@ -10016,7 +10016,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this artist from the other artists with the same name, if the "
 "final artist name is similar to an existing artist."
-msgstr ""
+msgstr "Du musst einen Unterscheidungskommentar angeben, der es Benutzern ermöglicht, diesen Künstler von anderen Künstlern mit dem selben Namen zu unterscheiden, wenn der finale Künstlername dem eines bestehenden Künstlers ähnelt."
 
 #: ../root/label/edit_form.tt:24
 #, perl-format
@@ -10024,7 +10024,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this label from the other labels with the same name, if the "
 "final label name is similar to an existing label."
-msgstr ""
+msgstr "Du musst einen Unterscheidungskommentar angeben, der es Benutzern ermöglicht, dieses Label von anderen Labels mit dem selben Namen zu unterscheiden, wenn der finale Labelname dem eines bestehenden Labels ähnelt."
 
 #: ../root/cdtoc/attach_artist_releases.tt:24
 #, perl-format
@@ -10040,7 +10040,7 @@ msgid ""
 "main MusicBrainz database until an editor decides to take your submitted "
 "information, ensures it meets our standards and inserts it into the main "
 "database."
-msgstr ""
+msgstr "Du kannst die Daten zur CD direkt so eingeben, wie sie auf der CD erscheinend, und musst Dir keinen Kopf um den Rest von MusicBrainz machen. So eingegebene CDs sind dann von Client-Programme auslesbar. Allerdings werden sie nicht Teil der Hauptdatenbank bis ein Bearbeiter sich dazu entschließt, sich die von Dir eingegebenen Informationen anzuschauen, sicherzustellen, dass sie unseren Richtlinien entsprechen und sie zur Hauptdatenbank hinzuzufügen."
 
 #: ../root/cdstub/logged_in.tt:3
 #, perl-format
