@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-26 16:08+0000\n"
+"PO-Revision-Date: 2012-08-26 19:57+0000\n"
 "Last-Translator: Shepard <email address hidden>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/musicbrainz/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -8166,7 +8166,7 @@ msgstr "Dieser ISRC ist mit keiner Aufnahme verbunden. Wenn Du ihn mit einer Auf
 msgid ""
 "This ISWC is not associated with any works. If you wish to associate it with"
 " a work, please {search_url|search for the work} and add it."
-msgstr ""
+msgstr "Dieser ISWC ist mit keinen Werken verbunden. Wenn Du ihn mit einem Werk verbinden willst, {search_url|suche bitte nach dem Werk} und füge ihn hinzu."
 
 #: ../root/artist/index.tt:112
 #, perl-format
@@ -8189,7 +8189,7 @@ msgid ""
 "This artist has no relationships, recordings, releases or release groups, "
 "and will be removed automatically in the next few days. If this is not "
 "intended, please add more data to this artist."
-msgstr ""
+msgstr "Dieser Künstler hat keine Beziehungen, Aufnahmen, Veröffentlichungen oder Veröffentlichungsgruppen und wird innerhalb der nächsten Tage automatisch entfernt werden. Wenn das nicht beabsichtigt ist, füge mehr Daten zu diesem Künstler hinzu."
 
 #: ../root/artist/tags.tt:2
 #, perl-format
@@ -8202,7 +8202,7 @@ msgid ""
 "This artist has relationships other than collaboration relationships, and "
 "cannot be split until these are removed. {relationships|View all "
 "relationships}."
-msgstr ""
+msgstr "Dieser Künstler hat außer Zusammenarbeitsbeziehungen noch weitere Beziehungen und kann nicht aufgeteilt werden, bis diese entfernt wurden. {relationships|Alle Beziehungen ansehen.}"
 
 #: ../root/artist/works.tt:11
 #, perl-format
@@ -8229,7 +8229,7 @@ msgstr "Diese Sammlung hat keine Tags."
 msgid ""
 "This edit failed because it affected high quality data and did not receive "
 "any votes."
-msgstr ""
+msgstr "Diese Bearbeitung ist fehlgeschlagen, weil sie sich auf hochqualitative Daten bezog und keine Stimmen erhielt."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
@@ -8237,25 +8237,25 @@ msgid ""
 "This edit failed because the data it was changing was modified after this "
 "edit was created. This may happen when the same edit is entered in twice; "
 "one will pass but the other will fail."
-msgstr ""
+msgstr "Diese Bearbeitung ist fehlgeschlagen, weil die davon zu modifizierenden Daten zwischenzeitlich schon geändert wurden. Das kann passieren, wenn die gleiche Bearbeitung doppelt eingereicht wurde; eine davon wird durchgeführt, aber die andere wird fehlschlagen."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
 msgid "This edit failed because there were insufficient \"yes\" votes."
-msgstr ""
+msgstr "Diese Bearbeitung ist fehlgeschlagen, weil es nicht genügend „Ja“-Stimmen gab."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
 msgid ""
 "This edit failed due to an internal error and may need to be entered again."
-msgstr ""
+msgstr "Diese Bearbeitung ist aufgrund eines internen Fehlers fehlgeschlagen und sollte vielleicht neu eingegeben werden."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
 msgid ""
 "This edit failed either because an entity it was modifying no longer exists,"
 " or the entity can not be modified in this manner anymore."
-msgstr ""
+msgstr "Diese Bearbeitung ist fehlgeschlagen, entweder weil sie ein Objekt modifizieren sollte, das es nicht mehr gibt, oder weil das Objekt nicht mehr auf diese Art bearbeitet werden kann."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
@@ -8270,7 +8270,7 @@ msgstr "Diese Bearbeitung ist offen und wartet auf Stimmen, bevor sie angewandt 
 #: ../root/edit/details/set_track_lengths.tt:59
 #, perl-format
 msgid "This edit makes subsecond changes to track lengths"
-msgstr ""
+msgstr "Diese Bearbeitung führt Änderungen an den Titellängen durch, die sich im Bereich < 1 Sekunde aufhalten"
 
 #: ../root/doc/edit_type.tt:29
 #, perl-format
@@ -8346,7 +8346,7 @@ msgstr "Dies ist ein MusicBrainz-Spiegelserver. Um die Daten zu bearbeiten oder 
 msgid ""
 "This is a development server. Your email address is not private or secure. "
 "Proceed with caution!"
-msgstr ""
+msgstr "Dies ist ein Entwicklungsserver. Deine E-Mail-Adresse ist nicht privat oder gesichert. Gehe vorsichtig vor!"
 
 #: ../root/user/login.tt:27
 #, perl-format
@@ -8363,7 +8363,7 @@ msgstr "Dies ist eine {history|alte Revision} dieser Anmerkungen, bearbeitet von
 #: ../root/alias/edit_form.tt:11
 #, perl-format
 msgid "This is the primary alias for this locale"
-msgstr ""
+msgstr "Dies ist der Primäralias für dieses Locale."
 
 #: ../root/label/delete.tt:17
 #, perl-format
@@ -8397,7 +8397,7 @@ msgstr "Dieses Mediumsformat kann keine Disc-IDs haben"
 msgid ""
 "This medium has one or more discids which prevent this information from "
 "being changed."
-msgstr ""
+msgstr "Dieses Medium hat eine oder mehrere Disc-IDs, die verhindern, dass diese Informationen geändert werden können."
 
 #: ../root/release/merge.tt:86
 #, perl-format
@@ -8612,18 +8612,18 @@ msgstr ""
 #: ../root/report/discogs_links_with_multiple_artists.tt:6
 #, perl-format
 msgid "This report shows Discogs URLs which are linked to multiple artists."
-msgstr ""
+msgstr "Dieser Report zeigt Discogs-URLs, die mit mehreren Künstlern verlinkt sind."
 
 #: ../root/report/discogs_links_with_multiple_labels.tt:6
 #, perl-format
 msgid "This report shows Discogs URLs which are linked to multiple labels."
-msgstr ""
+msgstr "Dieser Report zeigt Discogs-URLs, die mit mehreren Labels verlinkt sind."
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:6
 #, perl-format
 msgid ""
 "This report shows Discogs URLs which are linked to multiple release groups."
-msgstr ""
+msgstr "Dieser Report zeigt Discogs-URLs, die mit mehreren Veröffentlichungsgruppen verlinkt sind."
 
 #: ../root/report/discogs_links_with_multiple_releases.tt:6
 #, perl-format
@@ -8675,14 +8675,14 @@ msgid ""
 "them. If the releases are discs linked with \"part of set\" relationships, "
 "you might want to merge them too into one multi-disc release (see "
 "{how_to_merge_releases|How to Merge Releases})."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungsgruppen mit Veröffentlichungen, die mit Veröffentlichungen in unterschiedlichen Veröffentlichungsgruppen durch Teil-eines-Sets- oder Transliterationsbeziehungen verlinkt sind. Wenn hier ein paar von Veröffentlichungsgruppen aufgelistet ist, sollten sie wahrscheinlich zusammengeführt werden. Wenn die Veröffentlichungen einzelne Medien darstellen, die mit „Teil eines Sets“-Beziehungen verbunden sind, solltest Du sie wahrscheinlich als Veröffentlichungen mit mehreren Medien zusammenführen (siehe {how_to_merge_releases|Wie man Veröffentlichungen zusammenführt})."
 
 #: ../root/report/releases_with_unlikely_language_script.tt:6
 #, perl-format
 msgid ""
 "This report shows releases that have an unlikely combination of language and"
 " script properties, such as German and Ethiopic."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen, die eine unwahrscheinliche Kombination von Sprache und Schrift aufweisen, z.&nbsp;B. Deutsch und Äthiopische Schrift."
 
 #: ../root/report/multiple_asins.tt:6
 #, perl-format
@@ -8692,7 +8692,7 @@ msgid ""
 " be correct. Just check which ones do not fit the release (because of "
 "format, different number of tracks, etc). If the release has a barcode, you "
 "can search Amazon for it and see which ASIN matches."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen, die mehr als eine Amazon-ASIN haben. In den meisten Fällen sollten ASINs 1:1 zu MusicBrainz-Veröffentlichungen zugeordnet werden können, daher sollte nur eine davon richtig sein. Überprüfe einfach, welche davon nicht auf die Veröffentlichung passt (wegen unterschiedlichem Format, Anzahl Titeln etc.). Wenn die Veröffentlichung einen Strichcode hat, kannst Du Amazon danach durchsuchen und herausfinden, welche ASIN dazu passt."
 
 #: ../root/report/multiple_discogs_links.tt:6
 #, perl-format
@@ -8703,7 +8703,7 @@ msgid ""
 "release (because of format, different number of tracks, etc). Any \"master\""
 " Discogs page belongs at the {release_group|release group level}, not at the"
 " release level, and should be removed from releases too."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen, die mehr als einen Link zu Discogs haben. In den meisten Fällen sollte eine MusicBrainz-Veröffentlichung nur ein Äquivalent in Discogs haben und es sollte daher nur einer der Links korrekt sein. Überprüfe einfach, welcher davon nicht auf die Veröffentlichung passt (wegen unterschiedlichem Format, Anzahl Titeln etc.). „Master“-Discogs-Seiten gehören auf die Ebene der {release_group|Veröffentlichungsgruppen}, nicht auf die Veröffentlichungsebene, und sollten auch von Veröffentlichungen entfernt werden."
 
 #: ../root/report/releases_without_language.tt:6
 #, perl-format
@@ -8711,7 +8711,7 @@ msgid ""
 "This report shows releases that have no language set. If you recognize the "
 "language, please set it! Do it only if you are pretty sure, don't just "
 "guess: not everything written in Cyrillic is Russian, for example."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen, bei denen keine Sprache gesetzt ist. Wenn Du die Sprache erkennst, so setze sie bitte! Du solltest Dir aber ziemlich sicher sein und nicht einfach raten, denn es ist z.&nbsp;B. nicht alles, was in Kyrillisch geschrieben ist, Russisch."
 
 #: ../root/report/releases_without_script.tt:6
 #, perl-format
@@ -8719,14 +8719,14 @@ msgid ""
 "This report shows releases that have no script set. If you recognize the "
 "script, just add it! Remember that the script used for English (and most "
 "other European languages) is Latin."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen, bei denen keine Schrift gesetzt wurde. Wenn Du die Schrift erkennst, kannst Du sie einfach setzen! Denk dran, dass die Schrift für Englisch, Deutsch und die meisten anderen europäischen Sprachen Lateinisch ist."
 
 #: ../root/report/releases_with_cc_links.tt:6
 #, perl-format
 msgid ""
 "This report shows releases that still have Creative Commons Download "
 "relationships."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen, die noch Creative Commons Download-Beziehungen haben."
 
 #: ../root/report/part_of_set_relationships.tt:6
 #, perl-format
@@ -8737,7 +8737,7 @@ msgid ""
 " releases}. If the releases are not really part of a set (for example, if "
 "they are independently-released volumes in a series) just remove the "
 "relationship."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen, die immer noch die veraltete „Teil eines Sets“-Beziehung benutzen und wahrscheinlich zusammengeführt werden sollten. Anweisungen, wie diese Veröffentlichungen korrigiert werden können, findest Du in der Dokumentation unter {how_to_merge_releases|Wie man Veröffentlichungen zusammenführt}. Wenn die Veröffentlichungen nicht wirklich Teil eines Sets sind (zum Beispiel, wenn sie unabhängig voneinander veröffentlichte Volumes einer Serie sind), entferne einfach die Beziehung."
 
 #: ../root/report/some_formats_unset.tt:6
 #, perl-format
@@ -8746,20 +8746,20 @@ msgid ""
 "others are unset. In most cases, it should be easy to find out which the "
 "correct formats are (don't just assume that they're all CDs because one is "
 "though!)."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen, bei denen einige Medienformate gesetzt sind, aber andere nicht. In den meisten Fällen sollte es einfach sein, die korrekten Formate herauszufinden. (Nimm allerdings nicht an, dass alle Medien CDs sind, nur weil eines eine CD ist!)"
 
 #: ../root/report/separate_discs.tt:6
 #, perl-format
 msgid ""
 "This report shows releases which have (disc n) or (bonus disc) in the title."
-msgstr "Dieser Report zeigt Veröffentlichungen, die (disc n) oder (bonus disc) im Titel enthalten."
+msgstr "Dieser Report zeigt Veröffentlichungen, die „(disc n)“ oder „(bonus disc)“ im Titel enthalten."
 
 #: ../root/report/releases_in_caa_with_cover_art_relationships.tt:7
 #, perl-format
 msgid ""
 "This report shows releases which have artwork in the Cover Ar Archive, but "
 "still have a cover art relationship (pointing to a URL)."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen, die Artwork im Cover-Art-Archiv haben, aber trotzdem noch eine Cover-Art-Beziehung (mit einer URL)."
 
 #: ../root/report/cat_no_looks_like_asin.tt:6
 #, perl-format
@@ -8768,7 +8768,7 @@ msgid ""
 "This is almost always wrong: ASINs are just Amazon's entries for the "
 "releases and should be linked to the release with an Amazon URL relationship"
 " instead."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen mit Katalognummern, die wie ASINs aussehen. Das ist fast immer ein Fehler: ASINs sind nur Amazons Einträge für die Veröffentlichungen und sollten stattdessen durch eine Amazon-URL-Beziehung mit der Veröffentlichung verbunden werden."
 
 #: ../root/report/released_too_early.tt:6
 #, perl-format
@@ -8777,7 +8777,7 @@ msgid ""
 "released too early to have disc IDs, where one of the medium formats didn't "
 "exist at the time the release was released or where a disc ID is attached to"
 " a medium whose format does not have disc IDs."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen mit Disc-IDs, die zu früh veröffentlicht wurden, um Disc-IDs zu haben, d.&nbsp;h. eins der Medienformate existierte zum Veröffentlichungszeitpunkt noch nicht oder eine Disc-ID wurde mit einem Medium verbunden, dessen Format keine Disc-IDs hat."
 
 #: ../root/report/featuring_releases.tt:6
 #, perl-format
@@ -8786,7 +8786,7 @@ msgid ""
 "releases, don't change anything. For non-classical releases, this is "
 "inherited from an older version of MusicBrainz and should be fixed. Consult "
 "the {featured_artists|page about featured artists} to know more."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen, die „(feat. Künstler)“ im Titel enthalten. Klassische Veröffentlichung benötigen keine Änderung. Bei nicht-klassischen Veröffentlichungen stammt dies noch aus einer älteren Version von MusicBrainz und sollte korrigiert werden. Mehr darüber erfährst Du auf der {featured_artists|Seite über „featured“ Künstler}."
 
 #: ../root/report/bad_amazon_urls.tt:6
 #, perl-format
@@ -8794,7 +8794,7 @@ msgid ""
 "This report shows releases with Amazon URLs which don't follow the expected "
 "format. They might still be correct if they're archive.org cover links, but "
 "in any other case they should probably be fixed or removed."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen mit Amazon-URLs, die nicht dem erwarteten Format entsprechen. Sie könnten trotzdem korrekt sein, falls sie archive.org-Cover-Links sind, aber in jedem anderen Fall sollten sie wahrscheinlich korrigiert oder entfernt werden."
 
 #: ../root/report/unlinked_pseudo_releases.tt:6
 #, perl-format
@@ -8803,7 +8803,7 @@ msgid ""
 " the translation/transliteration relationship to an original version. This "
 "could be because the original version is missing, or just that the release "
 "status is set wrong."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungen mit dem Status Pseudo-Veröffentlichung, die nicht mittels einer Übersetzung-/Transliteration-Beziehung mit der Originalversion verbunden sind. Der grund könnte sein, dass die Originalversion noch fehlt, oder auch einfach nur, dass der Veröffentlichungsstatus falsch gesetzt wurde."
 
 #: ../root/release/merge.tt:88
 #, perl-format
