@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-26 13:36+0000\n"
+"PO-Revision-Date: 2012-08-26 14:36+0000\n"
 "Last-Translator: Shepard <email address hidden>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/musicbrainz/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -10569,7 +10569,7 @@ msgstr "Werke"
 #, perl-format
 msgid ""
 "{about|More Information} &mdash; {faq|FAQs} &mdash; {contact|Contact Us}"
-msgstr ""
+msgstr "{about|Mehr Informationen} &mdash; {faq|FAQs} &mdash; {contact|Kontaktiere uns}"
 
 #: ../root/artist/works-list.tt:36 ../root/iswc/index.tt:36
 #: ../root/otherlookup/results-work.tt:20 ../root/search/results-work.tt:26
@@ -10591,8 +10591,8 @@ msgstr "{artist} als {name}"
 #, perl-format
 msgid "{artist} has no releases which have only {n} track."
 msgid_plural "{artist} has no releases which have {n} tracks."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{artist} hat keine Veröffentlichungen mit nur einem Titel."
+msgstr[1] "{artist} hat keine Veröffentlichungen mit {n} Titeln."
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:34
 #, perl-format
@@ -10629,7 +10629,7 @@ msgstr "{count} ({view_url|ansehen})"
 #, perl-format
 msgid "{count} private rating not listed."
 msgid_plural "{count} private ratings not listed."
-msgstr[0] "{count} private Bewertung nicht angezeigt."
+msgstr[0] "Eine private Bewertung nicht angezeigt."
 msgstr[1] "{count} private Bewertungen nicht angezeigt."
 
 #: ../root/user/profile.tt:45
@@ -10657,7 +10657,7 @@ msgstr "{doc|Transklusionsbearbeiter}"
 msgid ""
 "{edit} has received one or more \"no\" votes, you must leave an edit note "
 "before you can approve it."
-msgstr "{edit} hat eine oder mehrere „nein“-Stimmen bekommen. Du musst eine Bearbeitungsbemerkung schreiben, bevor Du die Bearbeitung absegnen kannst."
+msgstr "{edit} hat eine oder mehrere „Nein“-Stimmen bekommen. Du musst eine Bearbeitungsbemerkung schreiben, bevor Du die Bearbeitung absegnen kannst."
 
 #: ../root/components/common-macros.tt:197
 #: ../root/components/relationships.tt:18
@@ -10847,14 +10847,14 @@ msgstr "{user} hat nicht nichts getaggt."
 msgid ""
 "{valink|Various Artists} should very rarely be used on recordings, make sure"
 " that the artists has been entered correctly."
-msgstr ""
+msgstr "{valink|Diverse Interpreten} sollten so gut wie nie für einzelne Aufnahmen verwendet werden. Stelle sicher, dass die Künstler richtig eingegeben wurden."
 
 #: ../root/release/edit/tracklist.tt:136
 #, perl-format
 msgid ""
 "{valink|Various Artists} should very rarely be used on tracks, make sure "
 "that the artists on these tracks have been entered correctly."
-msgstr ""
+msgstr "{valink|Diverse Interpreten} sollten so gut wie nie für einzelne Titel verwendet werden. Stelle sicher, dass die Künstler auf diesen Titeln richtig eingegeben wurden."
 
 #: ../root/edit/edit_header.tt:50 ../root/edit/index.tt:25
 #, perl-format
@@ -10917,7 +10917,7 @@ msgstr "Der Benutzer mit der ID „{user_id}“ konnte nicht gefunden werden."
 msgid ""
 "We were unable to send login information to your email address.  Please try again,\n"
 "             however if you continue to experience difficulty contact us at support@musicbrainz.org."
-msgstr ""
+msgstr "Wir konnten leider keine Einlog-Informationen an Deine E-Mail-Adresse schicken. Bitte versuch es noch einmal; wenn es allerdings weiterhin nicht klappt, kontaktiere uns unter support@musicbrainz.org."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:158
 msgid "There is no user with this username"
@@ -10949,7 +10949,7 @@ msgid ""
 "<strong>We were unable to send a confirmation email to you.</strong><br/>Please confirm that you have entered a valid\n"
 "             address by editing your {settings|account settings}. If the problem still persists, please contact us at\n"
 "             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
-msgstr ""
+msgstr "<strong>Wir konnten Dir keine Bestätigungs-Mail schicken.</strong><br/>Bitte schau doch noch mal in Deinen {settings|Kontoeinstellungen}, ob Du eome gültige Adresse angegeben hast. Wenn das Problem weiterhin besteht, kontaktiere uns unter <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:475
 #, perl-brace-format
@@ -11098,7 +11098,7 @@ msgstr "Einige Titel haben keine Namen"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:118
 msgid "Cannot add a CD stub with no tracks"
-msgstr ""
+msgstr "Kann keinen CD-Stub ohne Titel hinzufügen"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:121
 msgid "Incomplete TOC data"
@@ -11126,7 +11126,7 @@ msgstr "Es gibt bereits Veröffentlichungen mit dieser Disc-ID in MusicBrainz"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:149
 msgid "There is already a CD stub with this disc ID"
-msgstr ""
+msgstr "Es gibt bereits einen CD-Stub mit dieser Disc-ID"
 
 #: ../lib/MusicBrainz/Server/Data/LinkType.pm:149
 #, perl-brace-format
@@ -11159,7 +11159,7 @@ msgstr "Künstler bearbeiten"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
-msgstr ""
+msgstr "Künstlernennung bearbeiten"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Merge.pm:13
 msgid "Merge artists"
@@ -11325,7 +11325,7 @@ msgstr "PUIDs hinzufügen"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Create.pm:24
 msgid "Add standalone recording"
-msgstr ""
+msgstr "Alleinstehende Aufnahme hinzufügen"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Merge.pm:13
 msgid "Merge recordings"
@@ -11373,7 +11373,7 @@ msgstr "Beziehungstyp entfernen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddCoverArt.pm:18
 msgid "Add cover art"
-msgstr ""
+msgstr "Cover-Art hinzufügen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
@@ -11402,7 +11402,7 @@ msgstr "Strichcodes bearbeiten"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditCoverArt.pm:19
 msgid "Edit cover art"
-msgstr ""
+msgstr "Cover-Art bearbeiten"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
@@ -11410,11 +11410,11 @@ msgstr "Veröffentlichungslabel bearbeiten"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
-msgstr ""
+msgstr "Cover-Art entfernen"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderCoverArt.pm:22
 msgid "Reorder cover art"
-msgstr ""
+msgstr "Cover-Art umsortieren"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderMediums.pm:11
 msgid "Reorder mediums"
@@ -11430,7 +11430,7 @@ msgstr "Veröffentlichungsgruppe bearbeiten"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:83
 msgid "This URL has already been merged into another URL"
-msgstr ""
+msgstr "Diese URL wurde bereits mit einer anderen URL vereint"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
@@ -11537,7 +11537,7 @@ msgstr "Aufnahmen filtern"
 
 #: ../lib/MusicBrainz/Server/Form/Alias.pm:97
 msgid "This alias can only be a primary alias if a locale is selected"
-msgstr ""
+msgstr "Dieser Alias kann nur ein Primäralias werden, wenn ein Locale ausgewählt wurde"
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"
@@ -11546,14 +11546,14 @@ msgstr "Muss ein gültiger Strichcode sein"
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:42
 #, perl-brace-format
 msgid "Please add an artist name for {credit}"
-msgstr ""
+msgstr "Bitte wähle einen Künstlernamen für {credit}"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:55
 #, perl-brace-format
 msgid ""
 "Artist \"{artist}\" is unlinked, please select an existing artist.\n"
 "                       You may need to add a new artist to MusicBrainz first."
-msgstr ""
+msgstr "Künstler „{artist}“ ist nicht verbunden, bitte wähle einen bestehenden Künstler. Eventuell musst Du erst einen neuen Künstler zu MusicBrainz hinzufügen."
 
 #: ../lib/MusicBrainz/Server/Form/Field/DiscID.pm:12
 msgid "This is not a valid disc ID"
@@ -11606,17 +11606,17 @@ msgstr "Positionen müssen größer als 0 sein"
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
-msgstr ""
+msgstr "Du musst einen Bearbeitungsvermerk angeben, wenn Du eine alleinstehende Aufnahme hinzufügen willst"
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:13
 msgid "Link type is required"
-msgstr ""
+msgstr "Beziehungstyp ist erforderlich"
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:88
 msgid ""
 "This relationship type is used to group other relationships. Please select a"
 " subtype of the currently selected relationship type."
-msgstr ""
+msgstr "Dieser Beziehungstyp wird verwendet, um andere Beziehungen zu gruppieren. Bitte wähle einen Untertypen des aktuell gewählten Beziehungstyps."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:95
 msgid "This relationship type is deprecated."
@@ -11651,7 +11651,7 @@ msgstr "Dieser Strichcode ist ungültig, bitte überprüfe nochmal, ob Du ihn ri
 msgid ""
 "You must select an existing release group. If you wish to move this release,\n"
 "           use the \"change release group\" action from the sidebar."
-msgstr ""
+msgstr "Du musst eine bereits bestehende Veröffentlichungsgruppe auswählen. Wenn Du diese Veröffentlichung verschieben willst, benutze die Aktion „Veröffentlichungsgruppe ändern“ in der Seitenleiste."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:60
 msgid "New tracklisting contains an empty track"
@@ -11733,11 +11733,11 @@ msgstr "Ungültiges URL-Format"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
-msgstr ""
+msgstr "Anfänger"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:62
 msgid "Intermediate"
-msgstr ""
+msgstr "Fortgeschrittener Anfänger"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:63
 msgid "Advanced"
@@ -11813,44 +11813,44 @@ msgstr "(Spezialfall)"
 msgid ""
 "An album release primarily consists of previously unreleased material. This "
 "includes album re-issues, with or without bonus tracks."
-msgstr ""
+msgstr "Ein Album besteht hautpsächlich aus zuvor unveröffentlichtem Material. Dies umschließt Wiederveröffentlichungen, mit oder ohne Bonustracks."
 
 #: ../lib/MusicBrainz/Server/Release.pm:59
 msgid ""
 "A single typically has one main song and possibly a handful of additional "
 "tracks or remixes of the main track. A single is usually named after its "
 "main song."
-msgstr ""
+msgstr "Eine Single hat typischerweise einen Haupttitel und möglicherweise eine Handvoll zusätzlicher Titel oder Remixe des Haupttitels. Eine Single ist üblicherweise nach ihrem Haupttitel benannt."
 
 #: ../lib/MusicBrainz/Server/Release.pm:60
 msgid ""
 "An EP is an Extended Play release and often contains the letters EP in the "
 "title."
-msgstr ""
+msgstr "Eine EP ist eine Extended Play Veröffentlichung und trägt oft die Abkürzung EP im Namen."
 
 #: ../lib/MusicBrainz/Server/Release.pm:61
 msgid ""
 "A compilation is a collection of previously released tracks by one or more "
 "artists."
-msgstr ""
+msgstr "Eine Compilation ist eine Sammlung von bereits veröffentlichten Titeln von einem oder mehreren Künstlern."
 
 #: ../lib/MusicBrainz/Server/Release.pm:62
 msgid ""
 "A soundtrack is the musical score to a movie, TV series, stage show, "
 "computer game etc."
-msgstr ""
+msgstr "Ein Soundtrack ist die Filmmusik zu einem Film oder auch Musik zu einer TV-Serie, einer Bühnenshow, Computerspielen etc."
 
 #: ../lib/MusicBrainz/Server/Release.pm:63
 msgid "Non-music spoken word releases."
-msgstr ""
+msgstr "Veröffentlichungen mit gesprochenen Inhalten, ohne Musik"
 
 #: ../lib/MusicBrainz/Server/Release.pm:64
 msgid "An interview release contains an interview with the Artist."
-msgstr ""
+msgstr "Eine Interview-Veröffentlichung enthält ein Interview mit dem Künstler."
 
 #: ../lib/MusicBrainz/Server/Release.pm:65
 msgid "An audiobook is a book read by a narrator without music."
-msgstr ""
+msgstr "Ein Hörbuch ist ein von einem Erzähler vorgelesenes Buch ohne Musik."
 
 #: ../lib/MusicBrainz/Server/Release.pm:66
 msgid "A release that was recorded live."
@@ -11858,44 +11858,44 @@ msgstr "Eine Veröffentlichung, die live aufgenommen wurde"
 
 #: ../lib/MusicBrainz/Server/Release.pm:67
 msgid "A release that was (re)mixed from previously released material."
-msgstr ""
+msgstr "Eine Veröffentlichung, die von zuvor veröffentlichtem Material ge(re-)mixed wurde."
 
 #: ../lib/MusicBrainz/Server/Release.pm:68
 msgid "Any release that does not fit any of the categories above."
-msgstr ""
+msgstr "Eine Veröffentlichung, auf die keine der obigen Kategorien zutrifft."
 
 #: ../lib/MusicBrainz/Server/Release.pm:70
 msgid ""
 "Any release officially sanctioned by the artist and/or their record company."
 " (Most releases will fit into this category.)"
-msgstr ""
+msgstr "Jegliche vom Künstler und/oder dem Label offiziell abgesegnete Veröffentlichung. (Trifft auf die meisten Veröffentlichungen zu.)"
 
 #: ../lib/MusicBrainz/Server/Release.pm:71
 msgid ""
 "A giveaway release or a release intended to promote an upcoming official "
 "release. (e.g. prerelease albums or releases included with a magazine)"
-msgstr ""
+msgstr "Ein Werbegeschenk bzw. eine Veröffentlichung, die zu Promotionszwecken verteilt wird, um eine bevorstehende offizielle Veröffentlichung zu bewerben. (Z.&nbsp;B. Vorveröffentlichungsalben oder Magazinen beigelegte CDs)"
 
 #: ../lib/MusicBrainz/Server/Release.pm:72
 msgid ""
 "An unofficial/underground release that was not sanctioned by the artist "
 "and/or the record company."
-msgstr ""
+msgstr "Eine inoffizielle bzw. Szene-Veröffentlichung, die nicht vom Künstler und/oder dem Label abgesegnet wurde."
 
 #: ../lib/MusicBrainz/Server/Release.pm:73
 msgid ""
 "A pseudo-release is a duplicate release for translation/transliteration "
 "purposes."
-msgstr ""
+msgstr "Eine Pseudo-Veröffentlichung ist eine Veröffentlichung, die für Übersetzungen/Transliterationen dupliziert wurde."
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"
-msgstr "Veröffentlichungsinformationen"
+msgstr "Grundlegende Informationen"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
-msgstr "Fehlende Objekte hinzufügen"
+msgstr "Fehlendes hinzufügen"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:128
 msgid "Release Duplicates"
-msgstr ""
+msgstr "Ähnliche Veröffentlichungen"
