@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-25 21:34+0000\n"
+"PO-Revision-Date: 2012-08-26 08:39+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -2461,7 +2461,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:103
 msgid "is/was {additional:an additional|a} member of {founder:and founded|}"
-msgstr "on/oli {täiendav:täiendav|} liige {asutaja:ja asutas grupi|grupis}"
+msgstr "on/oli {additional:täiendav|} liige {founder:ja asutas grupi|grupis}"
 
 #: DB:link_type/short_link_phrase:305
 msgid ""
@@ -3029,7 +3029,7 @@ msgstr "tenor"
 
 #: DB:link_attribute_type/name:517
 msgid "translated"
-msgstr "tõlkis"
+msgstr "tõlge"
 
 #: DB:link_attribute_type/name:477
 msgid "transliterated"
@@ -3041,7 +3041,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:2
 msgid "transl{transliterated:iter}ated track listings"
-msgstr "{translitereeritud:translitereeritud|tõlgitud} rajaloendid"
+msgstr "{transliterated:translitereeritud|tõlgitud} rajaloendid"
 
 #: DB:link_type/reverse_link_phrase:61
 msgid "travel arrangements"
@@ -3138,7 +3138,7 @@ msgstr ""
 #: DB:link_type/link_phrase:55 DB:link_type/link_phrase:168
 #: DB:link_type/short_link_phrase:55 DB:link_type/short_link_phrase:168
 msgid "{additional:additionally} composed"
-msgstr "{täiendav:täiendavalt} kirjutas muusika teosele"
+msgstr "{additional:täiendavalt} kirjutas muusika teosele"
 
 #: DB:link_type/link_phrase:46 DB:link_type/link_phrase:151
 #: DB:link_type/short_link_phrase:46 DB:link_type/short_link_phrase:151
@@ -3167,7 +3167,7 @@ msgstr ""
 #: DB:link_type/link_phrase:54 DB:link_type/link_phrase:167
 #: DB:link_type/short_link_phrase:54 DB:link_type/short_link_phrase:167
 msgid "{additional:additionally} wrote"
-msgstr "{täiendav:täiendavalt} kirjutas teose"
+msgstr "{additional:täiendavalt} kirjutas teose"
 
 #: DB:link_type/short_link_phrase:37 DB:link_type/short_link_phrase:132
 msgid ""
@@ -3227,7 +3227,7 @@ msgstr ""
 #: DB:link_type/link_phrase:51 DB:link_type/link_phrase:156
 #: DB:link_type/short_link_phrase:51 DB:link_type/short_link_phrase:156
 msgid "{additional:additionally} {guest} {solo} performed"
-msgstr "oli {täiendav:täiendav} {külaline:külalis-} {soolo:soolo-} esitaja salvestisel"
+msgstr "oli {additional:täiendav} {guest:külalis}{soolo:soolo}esitaja salvestisel"
 
 #: DB:link_type/link_phrase:282 DB:link_type/link_phrase:158
 #: DB:link_type/link_phrase:41
@@ -3241,11 +3241,11 @@ msgstr ""
 #: DB:link_type/short_link_phrase:57 DB:link_type/short_link_phrase:169
 msgid ""
 "{additional:additionally} {translated:translated|wrote} the libretto for"
-msgstr "{täiendav:täiendavalt} {tõlkis:tõlkis|kirjutas} libreto teosele"
+msgstr "{additional:täiendavalt} {translated:tõlkis|kirjutas} libreto teosele"
 
 #: DB:link_type/short_link_phrase:56 DB:link_type/short_link_phrase:165
 msgid "{additional:additionally} {translated:translated|wrote} the lyrics for"
-msgstr "{täiendav:täiendavalt} {tõlkis:tõlkis|kirjutas} sõnad teosele"
+msgstr "{additional:täiendavalt} {translated:tõlkis|kirjutas} sõnad teosele"
 
 #: DB:link_type/link_phrase:294 DB:link_type/link_phrase:296
 #: DB:link_type/link_phrase:298
@@ -3378,7 +3378,7 @@ msgstr "{additional} {guest}{solo}{vocal}vokaal"
 #: DB:link_type/reverse_link_phrase:282 DB:link_type/reverse_link_phrase:158
 #: DB:link_type/reverse_link_phrase:41
 msgid "{additional} {instrument} arranger"
-msgstr "{additional} {instrument} arranžeerija"
+msgstr "{additional} arranžeerija ({instrument})"
 
 #: DB:link_type/link_phrase:39 DB:link_type/link_phrase:166
 #: DB:link_type/link_phrase:299 DB:link_type/reverse_link_phrase:39
@@ -3439,7 +3439,7 @@ msgstr "{bonus:boonus|järgmine }plaat"
 
 #: DB:link_type/short_link_phrase:1
 msgid "{bonus:may be|is} part of a set, the next disc in the set is"
-msgstr "{boonus:võib olla|on} osa komplektist, mille järgmine plaat on"
+msgstr "{bonus:võib olla|on} osa komplektist, mille järgmine plaat on"
 
 #: DB:link_type/short_link_phrase:45 DB:link_type/short_link_phrase:150
 msgid "{orchestra} orchestra {additional:additionally} performed"
