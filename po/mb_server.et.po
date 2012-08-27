@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-25 21:43+0000\n"
+"PO-Revision-Date: 2012-08-27 16:44+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -429,7 +429,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:528
 #, perl-format
 msgid "Accept upon expiration"
-msgstr ""
+msgstr "Aegumisel rakendatakse"
 
 #: ../root/user/profile.tt:148
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:101
@@ -440,7 +440,7 @@ msgstr "Vastuvõetud"
 #: ../root/account/registered.tt:1 ../root/account/registered.tt:2
 #, perl-format
 msgid "Account Created"
-msgstr ""
+msgstr "Konto loodud"
 
 #: ../root/admin/edit_user.tt:23 ../root/admin/edit_user.tt:27
 #, perl-format
@@ -560,7 +560,7 @@ msgstr "Lisa eraldiseisev salvestis"
 #: ../root/edit/relationship/create_url.tt:17
 #, perl-format
 msgid "Add URL Relationship"
-msgstr "Lisa seos URL-iga"
+msgstr "URL-iga seostamine"
 
 #: ../root/layout/menu.tt:215
 #, perl-format
@@ -1077,7 +1077,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to delete all information about {e}? This cannot be "
 "undone!"
-msgstr ""
+msgstr "Kas oled kindel, et soovid kustutada kogu teabe toimetaja {e} kohta? Hiljem ümber mõelda ei saa!"
 
 #: ../root/admin/delete_user.tt:20
 #, perl-format
@@ -1682,7 +1682,7 @@ msgstr ""
 #: ../root/user/profile.tt:114
 #, perl-format
 msgid "Bio:"
-msgstr ""
+msgstr "Enesetutvustus:"
 
 #: ../root/account/edit.tt:21
 #, perl-format
@@ -2121,12 +2121,12 @@ msgstr "Suletud"
 #: ../root/edit/info.tt:42
 #, perl-format
 msgid "Closed:"
-msgstr ""
+msgstr "Suletud:"
 
 #: ../root/search/results-label.tt:13
 #, perl-format
 msgid "Code"
-msgstr ""
+msgstr "Kood"
 
 #: ../root/layout/menu.tt:119
 #, perl-format
@@ -2448,7 +2448,7 @@ msgstr "Kustuta"
 #: ../root/admin/delete_user.tt:14
 #, perl-format
 msgid "Delete Account"
-msgstr ""
+msgstr "Konto kustutamine"
 
 #: ../root/admin/delete_user.tt:2 ../root/user/profile/layout.tt:39
 #, perl-format
@@ -3257,7 +3257,7 @@ msgid ""
 "is highly recommended. Not only does it make it clear where you got your "
 "information, but it can also encourage other users to vote on your edit "
 "&mdash; thus making your edit get applied faster."
-msgstr ""
+msgstr "Äärmiselt soovitatav on lisada {note|toimetusmärge} ja kirjutada, kust lisatav teave pärineb. Lisaks info algse allika selgekstegemisele julgustad niiviisi teisi kasutajaid sellele toimetusele oma poolthäält andma, kiirendades selle rakendumist."
 
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
@@ -3403,7 +3403,7 @@ msgstr ""
 #: ../root/edit/info.tt:55
 #, perl-format
 msgid "For more information:"
-msgstr ""
+msgstr "Lisateave:"
 
 #: ../root/main/403.tt:1 ../root/main/403.tt:3 ../root/main/mirror.tt:1
 #: ../root/main/mirror.tt:3
@@ -5014,7 +5014,7 @@ msgstr "Kaanepilti pole lisatud."
 #: ../root/edit/notes.tt:36
 #, perl-format
 msgid "No edit notes have been added."
-msgstr ""
+msgstr "Toimetusmärkeid pole lisatud."
 
 #: ../root/edit/list.tt:117
 #, perl-format
@@ -5331,7 +5331,7 @@ msgstr "Ava sildistajas"
 #: ../root/edit/info.tt:34
 #, perl-format
 msgid "Opened:"
-msgstr ""
+msgstr "Avatud:"
 
 #: ../root/release/edit/recordings.tt:391
 #: ../root/release/edit/tracklist.tt:156 ../root/release/edit/tracklist.tt:186
@@ -5688,7 +5688,7 @@ msgstr "Nende tüüpide kirjeldused leiad <a href=\"{doc}\" target=\"_blank\">ka
 #: ../root/scripts/text_strings.tt:41
 #, perl-format
 msgid "Please select a relationship type."
-msgstr ""
+msgstr "Palun vali seosetüüp."
 
 #: ../root/scripts/text_strings.tt:40
 #, perl-format
@@ -6054,7 +6054,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:528
 #, perl-format
 msgid "Reject upon expiration"
-msgstr ""
+msgstr "Aegumisel hüljatakse"
 
 #: ../root/components/common-macros.tt:481
 #, perl-format
@@ -6782,7 +6782,7 @@ msgstr "Päringuandmed:"
 #: ../root/edit/info.tt:48
 #, perl-format
 msgid "Requires:"
-msgstr ""
+msgstr "Eeldused:"
 
 #: ../root/account/lost_password.tt:17
 #: ../root/account/reset_password_error.tt:1
@@ -8253,12 +8253,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:534
 #, perl-format
 msgid "This edit has been successfully applied."
-msgstr ""
+msgstr "See toimetus on edukalt rakendatud."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
 msgid "This edit is open and awaiting votes before it can be applied."
-msgstr ""
+msgstr "See toimetus on lahtine ja ootab hääli, enne kui selle rakendada saab."
 
 #: ../root/edit/details/set_track_lengths.tt:59
 #, perl-format
@@ -8276,12 +8276,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:534
 #, perl-format
 msgid "This edit was cancelled."
-msgstr ""
+msgstr "See toimetus on tühistatud."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
 msgid "This edit was recently cancelled."
-msgstr ""
+msgstr "See toimetus on hiljuti tühistatud."
 
 #: ../root/components/common-macros.tt:188
 #: ../lib/MusicBrainz/Server/Plugin/Diff.pm:118
@@ -8292,7 +8292,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:188
 #, perl-format
 msgid "This entity will be created when edits are entered."
-msgstr ""
+msgstr "See olem luuakse, kui toimetused süsteemi sisestatakse."
 
 #: ../root/release/edit/information.tt:211
 #, perl-format
@@ -9486,7 +9486,7 @@ msgstr "Hääleta toimetusi"
 #: ../root/edit/index.tt:23
 #, perl-format
 msgid "Vote tally:"
-msgstr ""
+msgstr "Häältearvestus:"
 
 #: ../root/user/profile.tt:156
 #, perl-format
@@ -10248,7 +10248,7 @@ msgstr ""
 #: ../root/edit/edit_header.tt:50
 #, perl-format
 msgid "automatically applied"
-msgstr "automaatselt rakendatud"
+msgstr "Automaatselt rakendatud"
 
 #: ../root/edit/search_macros.tt:155
 #, perl-format
