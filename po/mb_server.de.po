@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-27 19:15+0000\n"
+"PO-Revision-Date: 2012-08-27 21:43+0000\n"
 "Last-Translator: Shepard <email address hidden>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/musicbrainz/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -2791,7 +2791,7 @@ msgstr "Anmerkungen zum Künstler bearbeiten"
 #: ../root/artist/edit_credit.tt:15 ../root/artist/edit_credit.tt:20
 #, perl-format
 msgid "Edit Artist Credit"
-msgstr ""
+msgstr "Künstlernennung bearbeiten"
 
 #: ../root/collection/edit.tt:1
 #, perl-format
@@ -8493,7 +8493,7 @@ msgid ""
 "they're different, add {disambiguation_comment|disambiguation comments} to "
 "them (and once a group of similarly named artists have disambiguation "
 "comments, they will stop appearing here)."
-msgstr ""
+msgstr "Dieser Report hat das Ziel, Künstler mit sehr ähnlichen Namen zu identifizieren. Wenn es sich bei zwei Künstlern eigentlich um den gleichen handelt, führe sie bitte zusammen (denk daran, {how_to_write_edit_notes|einen Bearbeitungsvermerk zu schreiben} und Deinen Nachweis mit anzugeben). Sind sie jedoch unterschiedlich, so gib ihnen {disambiguation_comment|Unterscheidungskommentare} (und sobald eine Gruppe von ähnlich benannten Künstlern Unterscheidungskommentare haben, werden sie hier nicht mehr auftauchen)."
 
 #: ../root/report/tracks_named_with_sequence.tt:6
 #, perl-format
@@ -8502,7 +8502,7 @@ msgid ""
 "track number, e.g. \"1) Some Name\" (instead of just \"Some Name\"). Notice "
 "that sometimes this is justified and correct, don't automatically assume it "
 "is a mistake! If you confirm it is a mistake, please correct it."
-msgstr ""
+msgstr "Dieser Report hat das Ziel, Veröffentlichungen zu identifizieren, bei denen die Titelnamen ihre eigenen Titelnummern enthalten, z.&nbsp;B. „1) Irgendein Name“ (statt einfach nur „Irgendein Name“). Beachte, dass das manchmal gerechtfertigt und richtig ist; nimm nicht automatisch an, dass es ein Fehler ist! Wenn Du es als Fehler bestätigen kannst, korrigiere es bitte."
 
 #: ../root/report/releases_to_convert.tt:7
 #, perl-format
@@ -8511,7 +8511,7 @@ msgid ""
 "artists (because the track artists are on the title field, for example). "
 "Currently it does this by looking for releases where every track contains "
 "\"/\" or \"-\"."
-msgstr ""
+msgstr "Dieser Report hat das Ziel, Veröffentlichungen zu identifizieren, die zu mehreren Künstlern konvertiert werden müssen (zum Beispiel weil die Titelkünstler im Titelfeld stehen). Zur Zeit schaut dieser Report dazu einfach nach Veröffentlichungen, bei denen jeder Titel „/“ oder „-“ enthält."
 
 #: ../root/report/mediums_with_sequence_issues.tt:6
 #, perl-format
@@ -8519,7 +8519,7 @@ msgid ""
 "This report lists all releases where the mediums are not continuous (e.g. "
 "there is no \"medium 2\"), or with duplicated mediums (e.g. there are two "
 "\"medium 4\"s)."
-msgstr ""
+msgstr "Dieser Report listet alle Veröffentlichungen auf, bei denen die Medien nicht durchgehend nummieriert sind (z.&nbsp;B. wenn es kein „Medium 2“ gibt), oder die doppelte Mediennummern haben (z.&nbsp;B. wenn es zwei „Medium 4“ gibt)."
 
 #: ../root/report/tracks_with_sequence_issues.tt:6
 #, perl-format
@@ -8527,7 +8527,7 @@ msgid ""
 "This report lists all releases where the track numbers are not continuous "
 "(e.g. there is no \"track 2\"), or with duplicated track numbers (e.g. there"
 " are two \"track 4\"s)."
-msgstr ""
+msgstr "Dieser Report listet alle Veröffentlichungen auf, bei denen die Titel nicht durchgehend nummieriert sind (z.&nbsp;B. wenn es keinen „Titel 2“ gibt), oder die doppelte Titelnummern haben (z.&nbsp;B. wenn es zwei „Titel 4“ gibt)."
 
 #: ../root/report/artists_that_may_be_persons.tt:6
 #, perl-format
@@ -8538,7 +8538,7 @@ msgid ""
 " If you find that an artist here is indeed a person, change its type. If it "
 "is not, please make sure that all the relationships are correct and make "
 "sense."
-msgstr ""
+msgstr "Dieser Report listet alle Künstler auf, die den Typ <em>Unbekannt</em> oder <em>Gruppe</em> haben, aber Personen sein könnten, basierend auf allen Beziehungen außer „Zusammenarbeit“. Zum Beispiel wird ein Künstler hier auftauchen, wenn er als Mitglied eines anderen eingetragen ist. Wenn Du herausfindest, dass ein Künstler hier tatsächlich eine Person ist, ändere seinen Typ. Wenn es das nicht ist, stelle bitte sicher, dass alle Beziehungen richtig sind und Sinn ergeben."
 
 #: ../root/report/artists_that_may_be_groups.tt:6
 #, perl-format
@@ -8548,14 +8548,14 @@ msgid ""
 "listed as members. If you find that an artist here is indeed a group, change"
 " its type. If it is not, please make sure that the \"member of\" "
 "relationships are in the right direction and are correct."
-msgstr ""
+msgstr "Dieser Report listet alle Künstler auf, die den Typ <em>Unbekannt</em> oder <em>Person</em> haben, aber <em>Gruppen</em> sein könnten, weil sie andere Künstler als Mitglieder eingetragen haben. Wenn Du herausfindest, dass ein Künstler hier tatsächlich eine Gruppe ist, ändere seinen Typ. Wenn es das nicht ist, stelle bitte sicher, dass die „Mitglied von“-Beziehungen in die richtige Richtung gehen und korrekt sind."
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:6
 #, perl-format
 msgid ""
 "This report lists artists that may have disambiguation comments in their "
 "name, rather than the actual disambiguation comment field."
-msgstr ""
+msgstr "Dieser Report listet alle Künstler auf, die eventuell Unterscheidungskommentare in ihren Namen haben, statt im eigentlichen Feld für Unterscheidungskommentare."
 
 #: ../root/report/possible_collaborations.tt:6
 #, perl-format
@@ -8566,7 +8566,7 @@ msgid ""
 "collaboration, it should be split if possible (see {how_to_split_artists|How"
 " to Split Artists}). If it is a collaboration with its own name and can't be"
 " split, collaboration relationships should be added to it."
-msgstr ""
+msgstr "Dieser Report listet alle Künstler auf, die „&“ im Namen enthalten, aber keine Mitglied- oder Zusammenarbeit-Beziehungen haben. Wenn der Künstler überlicherweise als eine richtige Gruppe angesehen wird, sollten Mitglied-Beziehungen hinzugefügt werden. Wenn es sich um eine kurzzeitige Zusammenarbeit handelt, sollte er nach Möglichkeit aufgeteilt werden (see {how_to_split_artists|Wie man Künstler aufteilt}). Wenn es eine Zusammenarbeit mit eigenem Namen ist und nicht aufgeteilt werden kann, sollten Zusammenarbeit-Beziehungen hinzugefügt werden."
 
 #: ../root/report/collaboration_relationships.tt:4
 #, perl-format
@@ -8575,7 +8575,7 @@ msgid ""
 "relationships. If the collaboration has its own independent name, do "
 "nothing. If it is in a format like \"X with Y\" or \"X & Y\", you should "
 "probably split it. See {how_to_split_artists|How to Split Artists}."
-msgstr ""
+msgstr "Dieser Report listet Künstler auf, die Zusammenarbeit-Beziehungen haben, aber keine URL-Beziehungen. Wenn diese Zusammenarbeit ihren eigenen unabhängigen Namen hat, tu nichts weiter. Wenn der Name in der Form „X mit Y“ oder „X & Y“ ist, solltest Du ihn wahrscheinlich aufteilen. Siehe {how_to_split_artists|Wie man Künstler aufteilt}."
 
 #: ../root/report/superfluous_data_tracks.tt:6
 #, perl-format
@@ -8583,7 +8583,7 @@ msgid ""
 "This report lists releases without any disc IDs that probably contain data "
 "tracks (like videos). A data track should be deleted if it is the last track"
 " of the CD and there is no disc ID."
-msgstr ""
+msgstr "Dieser Report listet alle Veröffentlichungen ohne jegliche Disc-IDs auf, die wahrscheinlich Datentracks (wie Videos) enthalten. Ein Datentrack sollte gelöscht werden, wenn er der letzt Track einer CD ist und es keine Disc-ID gibt."
 
 #: ../root/report/isrc_with_many_recordings.tt:6
 #, perl-format
@@ -8595,7 +8595,7 @@ msgid ""
 "recording, the ISRCs are probably correct and should be left alone. If the "
 "same ISRC appears on two unrelated recordings on the same release, this is "
 "usually means there was an error when reading the disc."
-msgstr ""
+msgstr "Dieser Report listet {isrc|ISRCs} auf, die mit mehr als einer Aufnahme verbunden sind. Wenn die Aufnahmen sich gleichen, bedeutet das üblicherweise, dass sie zusammengeführt werden sollten (ISRCs können falsch zugewiesen sein, also sollte man trotzdem vorsichtig sein, dass die Aufnahmen wirklich gleich sind). Wenn die Aufnahmen Teil einer größeren Aufnahme sind, sind die ISRCs wahrscheinlich richtig und sollten unberührt bleiben. Wenn der gleiche ISRC auf zwei völlig unterschiedlichen Aufnahmen auf der gleichen Veröffentlichung auftaucht, bedeutet das üblicherweise, dass es beim Einlesen der CD einen Fehler gab."
 
 #: ../root/report/asins_with_multiple_releases.tt:6
 #, perl-format
@@ -8607,7 +8607,7 @@ msgid ""
 " barcode, you can also search Amazon for it and see which ASIN matches. You "
 "might also find some ASINs linked to several discs of a multi-disc release: "
 "just merge those (see {how_to_merge_releases|How to Merge Releases})."
-msgstr ""
+msgstr "Dieser Report zeigt Amazon-URLs, die mit mehreren Veröffentlichungen verbunden sind. In den meisten Fällen sollten Amazon ASINs 1:1 mit MusicBrainz-Veröffentlichungen korrespondieren, daher sollte nur einer der Links richtig sein. Überprüfe einfach, welche MusicBrainz-Veröffentlichung auf die Veröffentlichung in Amazon passt (indem Du das Format, die Titelliste etc. vergleichst). Wenn die Veröffentlichung einen Strichcode hat, kannst Du Amazon auch danach durchsuchen und herausfinden, welche ASIN passt. Eventuell findest Du auch ASINs, die mit mehren CDs einer Multi-CD-Veröffentlichung verbunden sind: diese kannst Du einfach zu einer Veröffentlichung zusammenführen (siehe {how_to_merge_releases|Wie man Veröffentlichungen zusammenführt})."
 
 #: ../root/report/discogs_links_with_multiple_artists.tt:6
 #, perl-format
@@ -8635,7 +8635,7 @@ msgid ""
 "etc.). You might also find some Discogs URLs linked to several discs of a "
 "multi-disc release: just merge those (see {how_to_merge_releases|How to "
 "Merge Releases})."
-msgstr ""
+msgstr "Dieser Report zeigt Discogs-URLs, die mit mehreren Veröffentlichungen verbunden sind. In den meisten Fällen sollten Discogs-Veröffentlichungen 1:1 mit MusicBrainz-Veröffentlichungen korrespondieren, daher sollte nur einer der Links richtig sein. Überprüfe einfach, welche MusicBrainz-Veröffentlichung mit der Veröffentlichung in Discogs übereinstimmt (indem Du Dir das Format, die Titelliste, das Veröffentlichungsland etc. anguckst). Du wirst auch Discogs-URLs finden, die mit mehreren CDs einer Multi-CD-Veröffentlichung verbunden sind. Solche kannst Du einfach zu einer Veröffentlichung zusammenführen (siehe {how_to_merge_releases|Wie man Veröffentlichungen zusammenführt})."
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:6
 #, perl-format
@@ -8645,7 +8645,7 @@ msgid ""
 " they're not, the relationship should be removed. Please, do not merge "
 "recordings blindly just because the lengths fit, and do not merge recordings"
 " with very different times!"
-msgstr ""
+msgstr "Dieser Report zeigt Aufnahmen, die noch die veraltete „früheste Veröffentlichung“-Beziehung benutzen. Sie sollten zusammengeführt werden, wenn es sich wirklich um die gleiche Aufnahme handelt; wenn sie nicht gleich sind, sollte die Beziehung entfernt werden. Bitte führe Aufnahmen nicht blind zusammen, nur weil die Längen gleich sind, und führe nicht Aufnahmen mit sehr unterschiedlichen Längen zusammen!"
 
 #: ../root/report/featuring_recordings.tt:6
 #, perl-format
@@ -8655,7 +8655,7 @@ msgid ""
 "inherited from an older version of MusicBrainz and should be fixed (both at "
 "the recordings at the tracks!). Consult the {featured_artists|page about "
 "featured artists} to know more."
-msgstr ""
+msgstr "Dieser Report zeigt Aufnahmen, die „(feat. Künstler)“ im Titel enthalten. Bei klassischen Veröffentlichungen, ändere nichts weiter. Bei nicht-klassischen Veröffentlichungen stammt das noch aus einer älteren Version von MusicBrainz und sollte korrigiert werden (sowohl in den Aufnahmen als auch in den Titeln in der Veröffentlichung). Auf der {featured_artists|Seite über „featured“ Künstler} erfährst Du mehr."
 
 #: ../root/report/featuring_release_groups.tt:6
 #, perl-format
@@ -8664,7 +8664,7 @@ msgid ""
 "classical releases, don't change anything. For non-classical releases, this "
 "is inherited from an older version of MusicBrainz and should be fixed. "
 "Consult the {featured_artists|page about featured artists} to know more."
-msgstr ""
+msgstr "Dieser Report zeigt Veröffentlichungsgruppen, die „(feat. Künstler)“ im Titel enthalten. Bei klassischen Veröffentlichungen, ändere nichts weiter. Bei nicht-klassischen Veröffentlichungen stammt das noch aus einer älteren Version von MusicBrainz und sollte korrigiert werden. Auf der {featured_artists|Seite über „featured“ Künstler} erfährst Du mehr."
 
 #: ../root/report/set_in_different_rg.tt:6
 #, perl-format
@@ -9731,7 +9731,7 @@ msgstr "Wenn Du bereit bist, diese zu vereinen, klicke einfach auf den Vereinen-
 msgid ""
 "When you have found the release that you would like to merge {recording} "
 "into, please select that entity and click <em>merge</em>."
-msgstr ""
+msgstr "Wenn Du die Veröffentlichung gefunden hast, in die Du {recording} aufgehen lassen willst, wähle dieses Objekt und klicke <em>zusammenführen</em>."
 
 #: ../root/release/move_search.tt:5
 #, perl-format
@@ -9916,14 +9916,14 @@ msgstr "Du bist im Begriff eine Bearbeitung einzugeben, die die Längen von Tite
 msgid ""
 "You are about to merge the following artists into a single artist. Please "
 "select the artist which you would like other artists to be merged into:"
-msgstr ""
+msgstr "Du bist im Begriff, die folgenden Künstler in einen einzigen aufgehen zu lassen. Bitte wähle den Künstler, in den die anderen Künstler integriert werden sollen:"
 
 #: ../root/label/merge.tt:4
 #, perl-format
 msgid ""
 "You are about to merge the following labels into a single label. Please "
 "select the label which you would like other labels to be merged into:"
-msgstr ""
+msgstr "Du bist im Begriff, die folgenden Labels in ein einziges aufgehen zu lassen. Bitte wähle das Label, in das die anderen Labels integriert werden sollen:"
 
 #: ../root/recording/merge.tt:4
 #, perl-format
@@ -9931,7 +9931,7 @@ msgid ""
 "You are about to merge the following recordings into a single recording. "
 "Please select the recording which you would like other recordings to be "
 "merged into:"
-msgstr ""
+msgstr "Du bist im Begriff, die folgenden Aufnahmen in eine einzige aufgehen zu lassen. Bitte wähle die Aufnahme, in die die anderen Aufnahmen integriert werden sollen:"
 
 #: ../root/release_group/merge.tt:4
 #, perl-format
@@ -9939,7 +9939,7 @@ msgid ""
 "You are about to merge the following release groups into a single release "
 "group. Please select the release group which you would like other release "
 "groups to be merged into:"
-msgstr ""
+msgstr "Du bist im Begriff, die folgenden Veröffentlichungsgruppen in eine einzige aufgehen zu lassen. Bitte wähle die Veröffentlichungsgruppe, in die die anderen Veröffentlichungsgruppen integriert werden sollen:"
 
 #: ../root/release/merge.tt:18
 #, perl-format
@@ -9947,14 +9947,14 @@ msgid ""
 "You are about to merge the following releases into a single release. Please "
 "select the release which you would like the other releases to be merged "
 "into:"
-msgstr ""
+msgstr "Du bist im Begriff, die folgenden Veröffentlichungen in eine einzige aufgehen zu lassen. Bitte wähle die Veröffentlichung, in die die anderen Veröffentlichungen integriert werden sollen:"
 
 #: ../root/work/merge.tt:4
 #, perl-format
 msgid ""
 "You are about to merge the following works into a single work. Please select"
 " the work that you would like the other works merged into:"
-msgstr ""
+msgstr "Du bist im Begriff, die folgenden Werke in ein einziges aufgehen zu lassen. Bitte wähle das Werk, in das die anderen Werke integriert werden sollen:"
 
 #: ../root/label/edit_form.tt:15
 #, perl-format
@@ -10290,7 +10290,7 @@ msgstr "von {artist}"
 #: ../root/release/edit/tracklist.tt:326
 #, perl-format
 msgid "credits"
-msgstr ""
+msgstr "Nennungen"
 
 #: ../root/release/edit/recordings.tt:64
 #: ../root/release/edit/recordings.tt:140
