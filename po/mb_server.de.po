@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-27 18:22+0000\n"
+"PO-Revision-Date: 2012-08-27 19:15+0000\n"
 "Last-Translator: Shepard <email address hidden>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/musicbrainz/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -3264,7 +3264,7 @@ msgid ""
 "is highly recommended. Not only does it make it clear where you got your "
 "information, but it can also encourage other users to vote on your edit "
 "&mdash; thus making your edit get applied faster."
-msgstr ""
+msgstr "Das Eingeben eines {note|Bearbeitungsvermerks}, der beschreibt, wo Du Deine Informationen her hast, ist wärmstens empfohlen! Nicht nur, dass es deutlich macht, wie Du an die Informationen dran gekommen bist, sondern es bewegt andere Benutzer auch eher dazu, über Deine Bearbeitung abzustimmen - und sie damit schneller zur Anwendung zu bringen."
 
 #: ../root/otherlookup/not_found.tt:1 ../root/otherlookup/not_found.tt:2
 #, perl-format
@@ -3405,7 +3405,7 @@ msgstr "Weitere Informationen zum Kontolöschprozess findest Du in der {uri|Kont
 msgid ""
 "For instructions on how to fix them, please see the documentation about "
 "{howto|how to merge releases}."
-msgstr ""
+msgstr "Hinweise, wie man das korrigiert, findest Du in der Dokumentation über das {howto|Zusammenführen von Veröffentlichungen}."
 
 #: ../root/edit/info.tt:55
 #, perl-format
@@ -3455,27 +3455,27 @@ msgstr "Beziehungsphrase vorwärts:"
 msgid ""
 "Found a broken link on our site? Please let us know by {report|reporting a "
 "bug}."
-msgstr ""
+msgstr "Hast Du einen kaputten Link auf unserer Seite gefunden? Lass es uns bitte wissen, indem Du {report|einen Bug meldest}."
 
 #: ../root/main/404.tt:24
 #, perl-format
 msgid ""
 "Found a broken link on our site? Please {report|report a bug} and include "
 "any error message that is shown above."
-msgstr ""
+msgstr "Hast Du einen kaputten Link auf unserer Seite gefunden? Bitte {report|melde einen Bug} und gib die eventuell oben gezeigte Fehlermeldung mit an."
 
 #: ../root/main/400.tt:24
 #, perl-format
 msgid ""
 "Found a problem on our site? Please {report|report a bug} and include any "
 "error message that is shown above."
-msgstr ""
+msgstr "Hast Du ein Problem auf unserer Seite gefunden? Bitte {report|melde einen Bug} und gib die eventuell oben gezeigte Fehlermeldung mit an."
 
 #: ../root/release/sidebar.tt:146
 #, perl-format
 msgid "Found in {num} user collection"
 msgid_plural "Found in {num} user collections"
-msgstr[0] "In {num} Benutzersammlung gefunden"
+msgstr[0] "In einer Benutzersammlung gefunden"
 msgstr[1] "In {num} Benutzersammlungen gefunden"
 
 #: ../root/release/lookup.tt:4
@@ -3487,21 +3487,21 @@ msgstr "Mehr als einen Treffer für die CD mit der TOC {toc} gefunden: "
 #, perl-format
 msgid "Found {n} edit"
 msgid_plural "Found at least {n} edits"
-msgstr[0] "{n} Bearbeitung gefunden"
+msgstr[0] "Eine Bearbeitung gefunden"
 msgstr[1] "{n} Bearbeitungen gefunden"
 
 #: ../root/components/with-pager.tt:5
 #, perl-format
 msgid "Found {n} result"
 msgid_plural "Found {n} results"
-msgstr[0] "{n} Ergebnis gefunden"
+msgstr[0] "Ein Ergebnis gefunden"
 msgstr[1] "{n} Ergebnisse gefunden"
 
 #: ../root/components/with-pager.tt:7
 #, perl-format
 msgid "Found {n} result for \"{q}\""
 msgid_plural "Found {n} results for \"{q}\""
-msgstr[0] "{n} Ergebnis für „{q}“ gefunden"
+msgstr[0] "Ein Ergebnis für „{q}“ gefunden"
 msgstr[1] "{n} Ergebnisse für „{q}“ gefunden"
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
@@ -3607,7 +3607,7 @@ msgstr "Erzeugt am {date}"
 #: ../root/admin/wikidoc/index.tt:76
 #, perl-format
 msgid "Get wiki versions"
-msgstr ""
+msgstr "Wiki-Versionen abrufen"
 
 #: ../root/release/edit/missing_entities.tt:20
 #, perl-format
@@ -3639,7 +3639,7 @@ msgstr "Hilfe:"
 #: ../root/release/index.tt:12
 #, perl-format
 msgid "Hide Credits"
-msgstr ""
+msgstr "Nennungen verstecken"
 
 #: ../root/components/common-macros.tt:521
 #, perl-format
@@ -3836,7 +3836,7 @@ msgid ""
 "{cancel|how to cancel pending edits}, to cancel the pending add alias edit. "
 "Removing pending edits, rather than entering new edits helps reduce the "
 "amount of open edits in the system."
-msgstr ""
+msgstr "Wenn Du diesen Alias aus Versehen hinzugefügt hast, folge bitte den Anweisungen {cancel|wie man ausstehende Bearbeitungen abbricht} um die ausstehende Bearbeitung zum Hinzufügen des Aliases abzubrechen. Ausstehende Bearbeitungen zu entfernen statt neue einzugeben hält die Zahl der offenen Bearbeitungen im System niedriger."
 
 #: ../root/cdtoc/attach_artist_releases.tt:63
 #, perl-format
@@ -3868,7 +3868,7 @@ msgstr "Wenn Du den gewünschten Künstler nicht siehst, kannst Du trotzdem eine
 msgid ""
 "If you don't see the release you are looking for, you can still add a new "
 "one, using this CD TOC:"
-msgstr ""
+msgstr "Wenn Du die gesuchte Veröffentlichung nicht findest, kannst Du trotzdem mit dieser CD-TOC eine neue hinzufügen:"
 
 #: ../root/taglookup/nag.tt:16
 #, perl-format
@@ -3877,7 +3877,7 @@ msgid ""
 "We encourage people to donate $12 to make the nag screen disappear for 3 "
 "months. Or even better, sign up for a recurring donation every three months "
 "to not have to think about or see this nag again."
-msgstr ""
+msgstr "Wenn Du <b>4 $</b> spendest, wirst Du diesen Belästigungstext für einen <b>Monat</b> nicht sehen. Wir empfehlen, 12 $ zu spenden, um diese Meldung für drei Monate verschwinden zu lassen. Oder noch besser, lege eine Dauerspende im 3-Monats-Abstand an, um nie wieder belästigt werden zu müssen."
 
 #: ../root/main/403.tt:8
 #, perl-format
@@ -4067,7 +4067,7 @@ msgstr "Jaikoz Tagger"
 #: ../root/release/edit/layout.tt:22
 #, perl-format
 msgid "Javascript needs to be enabled to edit releases."
-msgstr "Javascript muss aktiviert sein, um Veröffentlichungen zu editieren."
+msgstr "JavaScript muss aktiviert sein, um Veröffentlichungen zu editieren."
 
 #: ../root/recording/edit.tt:35 ../root/release_group/create.tt:18
 #: ../root/release_group/edit.tt:24 ../root/work/create.tt:18
@@ -7095,7 +7095,7 @@ msgstr "Kurze Beziehungsphrase:"
 #: ../root/release/index.tt:11
 #, perl-format
 msgid "Show Credits"
-msgstr ""
+msgstr "Nennungen anzeigen"
 
 #: ../root/report/filter_link.tt:4
 #, perl-format
@@ -7239,7 +7239,7 @@ msgid ""
 "Sorry, but your query (<code>{query}</code>) could not be performed, because"
 " it appears you've been rate-limited. Either the server is overloaded or "
 "you're making a lot of requests all at once!"
-msgstr ""
+msgstr "Tut uns Leid, aber Deine Suchanfrage (<code>{query}</code>) konnte nicht ausgeführt werden, da anscheinend Deine Zugriffsgeschwindigkeit eingeschränkt wurde. Entweder ist der Server überlastet, oder Du stellst zu viele Anfragen auf einmal!"
 
 #: ../root/search/error/general.tt:3
 #, perl-format
@@ -7252,7 +7252,7 @@ msgstr "Tut uns Leid, aber Deine Suchanfrage (<code>{query}</code>) konnte nicht
 #, perl-format
 msgid ""
 "Sorry, but your requests are exceeding the allowable rate limit ({rlinfo})."
-msgstr "Tut uns Leid, aber Deine Anfragen überschreiten das erlaubte Limit ({rlinfo})."
+msgstr "Tut uns Leid, aber Deine Anfragen überschreiten das erlaubte Rate Limit ({rlinfo})."
 
 #: ../root/main/404.tt:8
 #, perl-format
@@ -8020,7 +8020,7 @@ msgstr "Die Benutzer machen MusicBrainz erst möglich und wir sind dankbar für 
 #: ../root/watch/list.tt:4
 #, perl-format
 msgid "The watch artist feature is currently not active."
-msgstr ""
+msgstr "Das Künstler-Beobachten-Feature ist derzeit nicht aktiv."
 
 #: ../root/edit/edit_header.tt:25
 #, perl-format
@@ -8073,7 +8073,7 @@ msgid ""
 "at the bottom of the {alias_uri|aliases} tab and remove all existing "
 "{rel_uri|relationships} instead, which will allow ModBot to automatically "
 "remove this artist in the upcoming days."
-msgstr ""
+msgstr "Es gibt keine Aufnahmen, Veröffentlichungsgruppe, Veröffentlichungen oder Titel, die nur {name} zugeschrieben werden. Solltest Du versuchen, {name} zu entfernen, so bearbeite alle Künstlernennungen am Ende der {alias_uri|Alias}-Registerkarte und entferne stattdessen alle bestehenden {rel_uri|Beziehungen}, damit ModBot diesen Künstler in den kommenden Tagen automatisch entfernen kann."
 
 #: ../root/label/subscriptions.tt:11
 #, perl-format
@@ -8181,7 +8181,7 @@ msgstr "Dieser Künstler hat keine Veröffentlichungen."
 #: ../root/artist/edit_form.tt:54 ../root/scripts/text_strings.tt:71
 #, perl-format
 msgid "This artist has ended."
-msgstr ""
+msgstr "Dieser Künstler ist beendet."
 
 #: ../root/artist/index.tt:38
 #, perl-format
@@ -8314,7 +8314,7 @@ msgid ""
 "This form allows you to edit the artist credit \"{ac}\". When the edit is "
 "accepted, all tracks, recordings, releases and release groups using this "
 "artist credit will be update to use the new one."
-msgstr ""
+msgstr "Über dieses Formular kannst Du die Künstlernennung „{ac}“ bearbeiten. Wenn die Bearbeitung angenommen wird, werden alle Titel, Aufnahmen, Veröffentlichungen und Veröffentlichungsgruppen, die diese Künstlernennung benutzen, auf die neue umgestellt."
 
 #: ../root/artist/split.tt:43
 #, perl-format
@@ -8322,7 +8322,7 @@ msgid ""
 "This form allows you to split {artist} into separate artists. When the edit "
 "is accepted, existing artist credits will be updated, and collaboration "
 "relationships will be removed"
-msgstr ""
+msgstr "Über dieses Formular kannst Du {artist} in mehrere Künstler aufteilen. Wenn die Bearbeitung angenommen wird, werden bestehende Künstlernennungen aktualisiert und Zusammenarbeit-Beziehungen werden entfernt"
 
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
@@ -8380,7 +8380,7 @@ msgstr "Dieses Label hat keine Veröffentlichungen."
 #: ../root/label/edit_form.tt:54
 #, perl-format
 msgid "This label has ended."
-msgstr ""
+msgstr "Dieses Label ist beendet."
 
 #: ../root/label/tags.tt:2
 #, perl-format
@@ -8405,7 +8405,7 @@ msgid ""
 "This merge strategy will merge all mediums together into a single set of "
 "mediums. Recordings between mediums will also be merged, into the recordings"
 " used on the target mediums."
-msgstr ""
+msgstr "Dieses Zusammenführ-Verfahren wird alle Medien zu einem einzigen Satz an Medien zusammenführen. Aufnahmen zwischen den Medien werden auch zusammengeführt und gehen in die Aufnahmen auf, die im Zielmedium benutzt werden."
 
 #: ../root/doc/page.tt:22
 #, perl-format
