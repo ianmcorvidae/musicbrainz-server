@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-26 22:08+0000\n"
+"PO-Revision-Date: 2012-08-27 18:22+0000\n"
 "Last-Translator: Shepard <email address hidden>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/musicbrainz/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -148,7 +148,7 @@ msgstr "(versteckt)"
 #: ../root/edit/details/reorder_mediums.tt:26
 #, perl-format
 msgid "(moved from position <span class=\"old\">{old}</span>)"
-msgstr ""
+msgstr "(verschoben von Position <span class=\"old\">{old}</span>)"
 
 #: ../root/edit/details/reorder_mediums.tt:24
 #, perl-format
@@ -358,7 +358,7 @@ msgid ""
 "<strong>Warning:</strong> Some of the recordings you're merging have "
 "different ISRCs. Please make sure they are indeed the same recordings and "
 "you wish to continue with the merge."
-msgstr ""
+msgstr "<strong>Achtung:</strong> Einige der Aufnahmen, die Du zusammenführst, haben unterschiedliche ISRCs. Bitte stelle sicher, dass es sich tatsächlich um die gleichen Aufnahmen handelt und dass Du die Zusammenführung durchführen willst."
 
 #: ../root/components/common-macros.tt:671 ../root/recording/edit.tt:41
 #: ../root/release/edit/tracklist.tt:131
@@ -383,7 +383,7 @@ msgid ""
 "A CD Stub was found that matches the disc ID you provided. If the below "
 "tracklist appears correct, you may use it as a starting point as a new "
 "MusicBrainz release"
-msgstr ""
+msgstr "Es wurde ein CD-Stub gefunden, der auf die von Dir angegebene Disc-ID passt. Wenn die unten angegebene Titelliste richtig aussieht, kannst Du den Stub aus Ausgangsbasis für eine neue MusicBrainz-Veröffentlichung benutzen."
 
 #: ../root/release/collections.tt:18
 #, perl-format
@@ -490,13 +490,13 @@ msgstr "Künstlernennung hinzufügen"
 #: ../root/cdstub/logged_in.tt:1 ../root/cdstub/logged_in.tt:2
 #, perl-format
 msgid "Add CD Stub"
-msgstr ""
+msgstr "CD-Stub hinzufügen"
 
 #: ../root/release/add_cover_art.tt:5 ../root/release/add_cover_art.tt:6
 #: ../root/release/cover_art.tt:49
 #, perl-format
 msgid "Add Cover Art"
-msgstr ""
+msgstr "Cover-Art hinzufügen"
 
 #: ../root/release/edit/tracklist.tt:167 ../root/release/edit/tracklist.tt:293
 #: ../root/release/edit/tracklist.tt:492
@@ -561,7 +561,7 @@ msgstr "Veröffentlichungsgruppe hinzufügen"
 #: ../root/recording/create.tt:18
 #, perl-format
 msgid "Add Standalone Recording"
-msgstr ""
+msgstr "Alleinstehende Aufnahme hinzufügen"
 
 #: ../root/edit/relationship/create_url.tt:15
 #: ../root/edit/relationship/create_url.tt:17
@@ -608,7 +608,7 @@ msgstr "Eine neue Veröffentlichungsgruppe hinzufügen"
 #: ../root/account/edit.tt:43
 #, perl-format
 msgid "Add a language"
-msgstr ""
+msgstr "Eine Sprache hinzufügen"
 
 #: ../root/components/aliases.tt:63
 #, perl-format
@@ -833,7 +833,7 @@ msgstr "Administration"
 #: ../root/admin/edit_user.tt:15
 #, perl-format
 msgid "Administration flags"
-msgstr ""
+msgstr "Administrationsattribute"
 
 #: ../root/user/profile.tt:61
 #, perl-format
@@ -1077,7 +1077,7 @@ msgstr "Bist Du sicher, dass Du {release} von {release_artist} zur Veröffentlic
 msgid ""
 "Are you sure that you wish to attach the disc ID <code>{discid}</code> to "
 "{format} {pos} of {release} by {artist}?"
-msgstr ""
+msgstr "Bist Du sicher, dass Du die Disc-ID <code>{discid}</code> mit {format} {pos} auf {release} von {artist} verbinden willst?"
 
 #: ../root/admin/delete_user.tt:4
 #, perl-format
@@ -1182,7 +1182,7 @@ msgstr "Bist Du sicher, dass Du den ISWC <code>{iswc}</code> vom Werk {work} ent
 msgid ""
 "Are you sure you wish to remove the below cover art from {release} by "
 "{artist}?"
-msgstr ""
+msgstr "Bist Du sicher, dass Du das Cover-Art unten von {release} von {artist} entfernen möchtest?"
 
 #: ../root/label/delete.tt:8
 #, perl-format
@@ -1294,7 +1294,7 @@ msgstr "Künstlerabonnements"
 #: ../root/components/forms.tt:265
 #, perl-format
 msgid "Artist as credited"
-msgstr ""
+msgstr "Künstler wie hier genannt"
 
 #: ../root/release/edit/tracklist.tt:45
 #, perl-format
@@ -1588,7 +1588,7 @@ msgstr "Strichcode:"
 msgid ""
 "Based on the above CD stub, we also found the following releases in "
 "MusicBrainz that may be related:"
-msgstr ""
+msgstr "Basierend auf dem obigen CD-Stub haben wir auch die folgenden Veröffentlichungen in MusicBrainz gefunden, die zutreffen könnten:"
 
 #: ../root/release/edit/duplicates.tt:13
 #, perl-format
@@ -1627,7 +1627,7 @@ msgid ""
 "review entered data to create the most accurate music database on the "
 "internet. If this appeals to you, please {reg|create an account} or "
 "{login_url|login}."
-msgstr ""
+msgstr "Werde ein Teil von MusicBrainz, indem Du ein Konto erstellst und mehr darüber liest, wie man {how|Informationen in MusicBrainz eingibt}. Finde heraus, wie wir die eingegebenen Daten zusammen begutachten, um die korrekteste Musikdatenbank im Internet zu erstellen. Wenn Dich das anspricht, {reg|erstelle doch einfach ein Konto} oder {login_url|logge Dich ein}."
 
 #: ../root/artist/index.tt:7 ../root/artist/layout.tt:19
 #: ../root/scripts/text_strings.tt:71
@@ -1849,7 +1849,7 @@ msgstr "CD-Stub-Details"
 #: ../root/release/edit/tracklist.tt:174
 #, perl-format
 msgid "CD stub import"
-msgstr ""
+msgstr "CD-Stub-Import"
 
 #: ../root/cdstub/layout.tt:1
 #, perl-format
@@ -1862,7 +1862,7 @@ msgid ""
 "CD stubs are a feature to allow anonymous users to submit data to "
 "MusicBrainz. For more information, see {cdstub|the documentation on CD "
 "stubs}."
-msgstr ""
+msgstr "CD-Stubs sind ein Feature, dass es anonymen Benutzern erlaubt, Daten in MusicBrainz einzureichen. Mehr Informationen darüber findest Du auf der {cdstub|Dokumentationsseite über CD-Stub}."
 
 #: ../root/doc/edit_type.tt:65
 #, perl-format
@@ -1933,7 +1933,7 @@ msgstr "Kandidat:"
 #: ../root/release/cover_art.tt:55
 #, perl-format
 msgid "Cannot Add Cover Art"
-msgstr ""
+msgstr "Kann kein Cover-Art hinzufügen"
 
 #: ../root/edit/relationship/cannot_create.tt:1
 #: ../root/edit/relationship/cannot_create.tt:2
@@ -2073,37 +2073,37 @@ msgstr "Datei auswählen:"
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
 msgid "Choose one or more cover art types for this image"
-msgstr ""
+msgstr "Wähle einen oder mehrere Cover-Art-Typen für dieses Bild"
 
 #: ../root/scripts/text_strings.tt:79
 #, perl-format
 msgid "Clear artist"
-msgstr ""
+msgstr "Künstler leeren"
 
 #: ../root/scripts/text_strings.tt:80
 #, perl-format
 msgid "Clear label"
-msgstr ""
+msgstr "Label leeren"
 
 #: ../root/scripts/text_strings.tt:81
 #, perl-format
 msgid "Clear recording"
-msgstr ""
+msgstr "Aufnahme leeren"
 
 #: ../root/scripts/text_strings.tt:82
 #, perl-format
 msgid "Clear release"
-msgstr ""
+msgstr "Veröffentlichung leeren"
 
 #: ../root/scripts/text_strings.tt:83
 #, perl-format
 msgid "Clear release group"
-msgstr ""
+msgstr "Veröffentlichungsgruppe leeren"
 
 #: ../root/scripts/text_strings.tt:84
 #, perl-format
 msgid "Clear work"
-msgstr ""
+msgstr "Werk leeren"
 
 #: ../root/release/edit/recordings.tt:372
 #, perl-format
@@ -2138,7 +2138,7 @@ msgstr "Code"
 #: ../root/layout/menu.tt:119
 #, perl-format
 msgid "Code of Conduct"
-msgstr ""
+msgstr "Verhaltensregeln"
 
 #: ../root/report/collaboration_relationships.tt:19
 #, perl-format
@@ -2223,7 +2223,7 @@ msgid ""
 "Confirm by activating the checkbox below that you have read the "
 "{doc_artistcomment|artist comment guideline}, understood how we distinguish "
 "artists with the same name, and that you know what you are doing."
-msgstr ""
+msgstr "Bestätige durch das Anwählen der Checkbox unten, dass Du die {doc_artistcomment|Richtlinie über Künstlerkommentare} gelesen hast, verstanden hast, wie wir Künstler mit dem gleichen Namen auseinander halten und dass Du weißt, was Du tust."
 
 #: ../root/label/edit_form.tt:25
 #, perl-format
@@ -2231,7 +2231,7 @@ msgid ""
 "Confirm by activating the checkbox below that you have read the "
 "{doc_labelcomment|label comment guideline}, understood how we distinguish "
 "labels with the same name, and that you know what you are doing."
-msgstr ""
+msgstr "Bestätige durch das Anwählen der Checkbox unten, dass Du die {doc_labelcomment|Richtlinie über Labelkommentare} gelesen hast, verstanden hast, wie wir Labels mit dem gleichen Namen auseinander halten und dass Du weißt, was Du tust."
 
 #: ../root/account/change_password.tt:12 ../root/account/register.tt:30
 #: ../root/account/reset_password.tt:11
@@ -2259,7 +2259,7 @@ msgstr "Kopieren"
 #: ../root/release/edit/missing_entities.tt:21
 #, perl-format
 msgid "Copy Name"
-msgstr ""
+msgstr "Namen kopieren"
 
 #: ../root/release/edit/recordings.tt:398
 #, perl-format
@@ -2296,19 +2296,19 @@ msgstr "Land:"
 #: ../root/release/cover_art.tt:3 ../root/release/tabs.tt:1
 #, perl-format
 msgid "Cover Art"
-msgstr "Cover-Bild"
+msgstr "Cover-Art"
 
 #: ../root/layout.tt:153
 #, perl-format
 msgid ""
 "Cover Art provided by the {caa|Cover Art Archive}. Hosted by {host|Digital "
 "West}. Sponsored by: {url1|Google}, {url2|OSUOSL} and {more|others...}. "
-msgstr ""
+msgstr "Cover-Art zur Verfügung gestellt vom {caa|Cover-Art-Archiv}. Gehostet von {host|Digital West}. Gesponsert von: {url1|Google}, {url2|OSUOSL} und {more|anderen …}. "
 
 #: ../root/edit/details/macros.tt:86
 #, perl-format
 msgid "Cover art:"
-msgstr ""
+msgstr "Cover-Art:"
 
 #: ../root/admin/wikidoc/create.tt:12
 #, perl-format
@@ -2394,7 +2394,7 @@ msgstr "Datenqualität:"
 #: ../root/layout/menu.tt:278
 #, perl-format
 msgid "Data Removal Policy"
-msgstr ""
+msgstr "Haltung zum Entfernen von Daten"
 
 #: ../root/annotation/history.tt:9 ../root/artist/relationships.tt:13
 #: ../root/cdtoc/attach_artist_releases.tt:35
@@ -2444,7 +2444,7 @@ msgstr "Verstorben:"
 #: ../root/label/layout.tt:22 ../root/label/layout.tt:29
 #, perl-format
 msgid "Defunct:"
-msgstr ""
+msgstr "Erloschen:"
 
 #: ../root/edit/search_macros.tt:106
 #, perl-format
@@ -2514,7 +2514,7 @@ msgstr "Titellängen erkennen"
 #: ../root/layout/menu.tt:166
 #, perl-format
 msgid "Developer Resources"
-msgstr ""
+msgstr "Entwicklerressourcen"
 
 #: ../root/main/index.tt:101
 #, perl-format
@@ -2801,7 +2801,7 @@ msgstr "Sammlung bearbeiten"
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
 msgid "Edit Cover Art"
-msgstr ""
+msgstr "Cover-Art bearbeiten"
 
 #: ../root/layout/menu.tt:85
 #, perl-format

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-27 16:44+0000\n"
+"PO-Revision-Date: 2012-08-27 18:52+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -328,7 +328,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:677
 #, perl-format
 msgid "<strong>Note</strong>:"
-msgstr ""
+msgstr "<strong>Pane tähele</strong>:"
 
 #: ../root/main/index.tt:53
 #, perl-format
@@ -630,7 +630,7 @@ msgstr "Lisa uus väljalase"
 #: ../root/edit/notes.tt:46
 #, perl-format
 msgid "Add an edit note"
-msgstr ""
+msgstr "Lisa toimetsmärge"
 
 #: ../root/artist/layout.tt:87 ../root/label/layout.tt:64
 #: ../root/recording/layout.tt:37 ../root/release_group/layout.tt:36
@@ -1891,7 +1891,7 @@ msgstr ""
 #: ../root/edit/info.tt:21
 #, perl-format
 msgid "Cancel edit"
-msgstr ""
+msgstr "Tühista"
 
 #: ../root/elections/show.tt:97
 #, perl-format
@@ -2042,12 +2042,12 @@ msgstr "Muuda hääl"
 #: ../root/edit/details/historic/add_release_annotation.tt:19
 #, perl-format
 msgid "Changelog:"
-msgstr "Muutuste logi:"
+msgstr "Muudatuste logi:"
 
 #: ../root/edit/index.tt:9
 #, perl-format
 msgid "Changes"
-msgstr "Muutused"
+msgstr "Muudatused"
 
 #: ../root/edit/details/add_relationship_attribute.tt:11
 #: ../root/edit/details/edit_relationship_attribute.tt:16
@@ -3335,19 +3335,19 @@ msgstr "Aegunud"
 #: ../root/components/common-macros.tt:554
 #, perl-format
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{days}</span>"
-msgstr ""
+msgstr "Aegumiseni <span class=\"tooltip\" title=\"{exactdate}\">{days}</span>"
 
 #: ../root/components/common-macros.tt:559
 #, perl-format
 msgid ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{hours}, "
 "{minutes}</span>"
-msgstr ""
+msgstr "Aegumiseni <span class=\"tooltip\" title=\"{exactdate}\">{hours}, {minutes}</span>"
 
 #: ../root/components/common-macros.tt:566
 #, perl-format
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>"
-msgstr ""
+msgstr "Aegumiseni <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:33
 #, perl-format
@@ -3448,14 +3448,14 @@ msgstr ""
 msgid ""
 "Found a broken link on our site? Please let us know by {report|reporting a "
 "bug}."
-msgstr ""
+msgstr "Leidsid saidil katkise lingi? Palun {report|teata sellest veast}."
 
 #: ../root/main/404.tt:24
 #, perl-format
 msgid ""
 "Found a broken link on our site? Please {report|report a bug} and include "
 "any error message that is shown above."
-msgstr ""
+msgstr "Leidsid saidil katkise lingi? Palun {report|teata veast} ja lisa sinna ka ülalolev veateade."
 
 #: ../root/main/400.tt:24
 #, perl-format
@@ -3956,7 +3956,7 @@ msgstr "Kui soovid MusicBrainzi meeskonnalt infokirju saada või teiste kasutaja
 #: ../root/components/common-macros.tt:81
 #, perl-format
 msgid "Image not available yet, please try again in a few minutes."
-msgstr ""
+msgstr "Pilt pole veel saadaval, palun proovi mõne minuti pärast uuesti."
 
 #: ../root/freedb/show.tt:45 ../root/freedb/show.tt:103
 #, perl-format
@@ -4165,7 +4165,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:76
 #, perl-format
 msgid "Label:"
-msgstr ""
+msgstr "Plaadifirma:"
 
 #: ../root/release/edit/missing_entities.tt:91 ../root/release/sidebar.tt:50
 #: ../root/report/index.tt:26 ../root/tag/header.tt:1 ../root/tag/index.tt:3
@@ -8287,7 +8287,7 @@ msgstr "See toimetus on hiljuti tühistatud."
 #: ../lib/MusicBrainz/Server/Plugin/Diff.pm:118
 #, perl-format
 msgid "This entity has been removed, and cannot be displayed correctly."
-msgstr ""
+msgstr "See olem on eemaldatud ja seda ei saa korralikult näidata."
 
 #: ../root/components/common-macros.tt:188
 #, perl-format
@@ -10231,7 +10231,7 @@ msgstr "pärast"
 #: ../root/components/common-macros.tt:46
 #, perl-format
 msgid "aged {num}"
-msgstr ""
+msgstr "{num}-aastaselt"
 
 #: ../root/release/edit/recordings.tt:43 ../root/release/edit/recordings.tt:50
 #: ../root/release/edit/recordings.tt:82
