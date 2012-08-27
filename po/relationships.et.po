@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-08-26 08:39+0000\n"
+"PO-Revision-Date: 2012-08-27 16:42+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -2396,11 +2396,11 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:278
 msgid "is a {partial} {live} {instrumental} {cover} recording of"
-msgstr ""
+msgstr "on {partial} {instrumental} {cover}{live:kontsert}salvestis teosest"
 
 #: DB:link_type/short_link_phrase:15
 msgid "is a {translated} {parody} cover of"
-msgstr ""
+msgstr "on {translated} {parody}kaver teosest"
 
 #: DB:link_type/short_link_phrase:286
 msgid "is an Allmusic page for"
@@ -2421,7 +2421,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:241
 msgid "is the earliest version of {translated} {parody}"
-msgstr ""
+msgstr "on varaseim versioon {translated:tõlgitud} {parody}teosest"
 
 #: DB:link_type/short_link_phrase:2
 msgid "is the original for the transl{transliterated:iter}ated track listing"
@@ -2449,7 +2449,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:111
 msgid "is/was married to"
-msgstr ""
+msgstr "on/oli abielus isikuga"
 
 #: DB:link_type/short_link_phrase:201
 msgid "is/was reissuing the catalog of"
@@ -2483,7 +2483,7 @@ msgstr "hilisemad väljalasked"
 
 #: DB:link_type/link_phrase:241
 msgid "later {translated} {parody} versions"
-msgstr ""
+msgstr "hilisemad {translated:tõlgitud} {parody}versioonid"
 
 #: DB:link_attribute_type/name:4
 msgid "lead"
@@ -2523,7 +2523,7 @@ msgstr "kontsertsalvestus"
 
 #: DB:link_type/link_phrase:17
 msgid "live performance of"
-msgstr ""
+msgstr "kontsertsalvestis teosest"
 
 #: DB:link_type/reverse_link_phrase:17
 msgid "live performances"
@@ -2605,7 +2605,7 @@ msgstr "9. helikandja"
 
 #: DB:link_type/link_phrase:239 DB:link_type/link_phrase:244
 msgid "medley of"
-msgstr ""
+msgstr "popurrii teostest"
 
 #: DB:link_attribute_type/description:9 DB:link_attribute_type/name:9
 msgid "mezzo-soprano"
@@ -2719,7 +2719,7 @@ msgstr "paroodia"
 
 #: DB:link_type/reverse_link_phrase:281
 msgid "part of"
-msgstr ""
+msgstr "osa teosest"
 
 #: DB:link_attribute_type/name:579
 msgid "partial"
@@ -2976,7 +2976,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:192 DB:link_type/link_phrase:218
 msgid "social networking"
-msgstr "sotsiaalvõrgustik"
+msgstr "sotsiaalvõrgustikud"
 
 #: DB:link_type/reverse_link_phrase:192 DB:link_type/reverse_link_phrase:218
 msgid "social networking page for"
