@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-27 18:52+0000\n"
+"PO-Revision-Date: 2012-08-28 00:38+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -723,23 +723,23 @@ msgstr "Lisa väljalaskerühm"
 #: ../root/report/duplicate_artists.tt:51
 #, perl-format
 msgid "Add selected artists for merging"
-msgstr ""
+msgstr "Vali märgitud artistid mestimiseks"
 
 #: ../root/artist/recordings.tt:13 ../root/isrc/index.tt:37
 #, perl-format
 msgid "Add selected recordings for merging"
-msgstr ""
+msgstr "Vali märgitud salvestised mestimiseks"
 
 #: ../root/artist/releases.tt:13 ../root/label/index.tt:9
 #: ../root/release_group/index.tt:75
 #, perl-format
 msgid "Add selected releases for merging"
-msgstr ""
+msgstr "Vali märgitud väljalasked mestimiseks"
 
 #: ../root/artist/works.tt:8 ../root/iswc/index.tt:56
 #, perl-format
 msgid "Add selected works for merging"
-msgstr ""
+msgstr "Vali märgitud teosed mestimiseks"
 
 #: ../root/release/sidebar.tt:134
 #, perl-format
@@ -1039,7 +1039,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:50
 #, perl-format
 msgid "Append mediums to target release"
-msgstr ""
+msgstr "Helikandjad lisatakse sihtväljalaskele"
 
 #: ../root/edit/search_macros.tt:237
 #, perl-format
@@ -1379,7 +1379,7 @@ msgstr "Artistid, mille nimes on täpsustav märkus"
 #: ../root/browse/artist.tt:8
 #, perl-format
 msgid "Artists starting with “{index}”"
-msgstr ""
+msgstr "Artistid, kelle nime alguses on „{index}”"
 
 #: ../root/report/possible_collaborations.tt:1
 #: ../root/report/possible_collaborations.tt:3
@@ -4177,7 +4177,7 @@ msgstr "Plaadifirmad"
 #: ../root/browse/label.tt:8
 #, perl-format
 msgid "Labels starting with “{index}”"
-msgstr ""
+msgstr "Plaadifirmad, mille nime alguses on „{index}”"
 
 #: ../root/artist/works-list.tt:14 ../root/otherlookup/results-release.tt:11
 #: ../root/search/lib/inline-results-release.tt:13
@@ -4999,12 +4999,12 @@ msgstr ""
 #: ../root/tag/artist.tt:1
 #, perl-format
 msgid "No artists with this tag were found."
-msgstr ""
+msgstr "Selle sildiga artiste ei leitud."
 
 #: ../root/tag/collection.tt:1
 #, perl-format
 msgid "No collections with this tag were found."
-msgstr ""
+msgstr "Selle sildiga kogusid ei leitud."
 
 #: ../root/release/sidebar.tt:8 ../root/release/sidebar.tt:15
 #, perl-format
@@ -5039,7 +5039,7 @@ msgstr ""
 #: ../root/tag/label.tt:1
 #, perl-format
 msgid "No labels with this tag were found."
-msgstr ""
+msgstr "Selle sildiga plaadifirmasid ei leitud."
 
 #: ../root/release/lookup.tt:33
 #, perl-format
@@ -5059,7 +5059,7 @@ msgstr ""
 #: ../root/tag/recording.tt:1
 #, perl-format
 msgid "No recordings with this tag were found."
-msgstr ""
+msgstr "Selle sildiga salvestisi ei leitud."
 
 #: ../root/relationship/linkattributetype/index.tt:32
 #, perl-format
@@ -5074,7 +5074,7 @@ msgstr "Väljalaskerühmi ei leitud"
 #: ../root/tag/release_group.tt:1
 #, perl-format
 msgid "No release groups with this tag were found."
-msgstr ""
+msgstr "Selle sildiga väljalaskerühmi ei leitud."
 
 #: ../root/artist/releases.tt:21
 #, perl-format
@@ -5099,7 +5099,7 @@ msgstr ""
 #: ../root/tag/release.tt:1
 #, perl-format
 msgid "No releases with this tag were found."
-msgstr ""
+msgstr "Selle sildiga väljalaskeid ei leitud."
 
 #: ../root/release/edit/tracklist.tt:114 ../root/scripts/text_strings.tt:37
 #, perl-format
@@ -5154,7 +5154,7 @@ msgstr "Vastuhäälte arv"
 #: ../root/tag/work.tt:1
 #, perl-format
 msgid "No works with this tag were found."
-msgstr ""
+msgstr "Selle sildiga teoseid ei leitud."
 
 #: ../root/relationship/linktype/tree.tt:58
 #, perl-format
@@ -5530,7 +5530,7 @@ msgstr ""
 msgid ""
 "Please enter tags in the text area below. Tags are comma separated, and you "
 "may wish to see the {tagsyn|tag syntax documentation} for more information"
-msgstr ""
+msgstr "Palun sisesta sildid allolevasse tekstialasse. Sildid tuleb eraldada komaga, lisateabe saamiseks võid vaadata {tagsyn|siltide süntaksi dokumentatsiooni}."
 
 #: ../root/release/edit/information.tt:177
 #, perl-format
@@ -6011,7 +6011,7 @@ msgstr "Salvestised"
 #: ../root/artist/browse_various_recordings.tt:5
 #, perl-format
 msgid "Recordings starting with “{index}”"
-msgstr ""
+msgstr "Salvestised, mille pealkirja alguses on „{index}”"
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:1
 #: ../root/report/recordings_with_earliest_release_relationships.tt:3
@@ -6324,7 +6324,7 @@ msgstr "Väljalaskerühmad"
 #: ../root/artist/browse_various.tt:5 ../root/browse/release_group.tt:8
 #, perl-format
 msgid "Release groups starting with “{index}”"
-msgstr ""
+msgstr "Väljalaskerühmad, mille pealkirja alguses on „{index}”"
 
 #: ../root/report/index.tt:35
 #, perl-format
@@ -6384,7 +6384,7 @@ msgstr "Väljalase:"
 #: ../root/user/collections.tt:10 ../root/user/tag.tt:4
 #, perl-format
 msgid "Releases"
-msgstr "Välalasked"
+msgstr "Väljalasked"
 
 #: ../root/report/tracks_named_with_sequence.tt:1
 #: ../root/report/tracks_named_with_sequence.tt:3
@@ -6431,7 +6431,7 @@ msgstr "Liiga vara avaldatud väljalasked"
 #: ../root/artist/browse_various_releases.tt:5 ../root/browse/release.tt:8
 #, perl-format
 msgid "Releases starting with “{index}”"
-msgstr ""
+msgstr "Väljalasked, mille pealkirja alguses on „{index}”"
 
 #: ../root/report/index.tt:58
 #, perl-format
@@ -7263,42 +7263,42 @@ msgstr "Vabandust, otsitud leht pole peegelserverist saadaval."
 msgid ""
 "Sorry, there are no artists starting with “{index}”. Please {pre|go back} "
 "and try again."
-msgstr ""
+msgstr "Vabandust, ei leitud ühtegi artisti, kelle nime alguses oleks „{index}”. Palun {pre|mine tagasi} ja proovi uuesti."
 
 #: ../root/browse/label.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no labels starting with “{index}”. Please {pre|go back} and"
 " try again."
-msgstr ""
+msgstr "Vabandust, ei leitud ühtegi plaadifirmat, mille nime alguses oleks „{index}”. Palun {pre|mine tagasi} ja proovi uuesti."
 
 #: ../root/artist/browse_various_recordings.tt:15
 #, perl-format
 msgid ""
 "Sorry, there are no recordings starting with “{index}”. Please {pre|go back}"
 " and try again."
-msgstr ""
+msgstr "Vabandust, ei leitud ühtegi salvestist, mille pealkirja alguses oleks „{index}”. Palun {pre|mine tagasi} ja proovi uuesti."
 
 #: ../root/artist/browse_various.tt:36 ../root/browse/release_group.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no release groups starting with “{index}”. Please {pre|go "
 "back} and try again."
-msgstr ""
+msgstr "Vabandust, ei leitud ühtegi väljalaskerühma, mille pealkirja alguses oleks „{index}”. Palun {pre|mine tagasi} ja proovi uuesti."
 
 #: ../root/artist/browse_various_releases.tt:15 ../root/browse/release.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no releases starting with “{index}”. Please {pre|go back} "
 "and try again."
-msgstr ""
+msgstr "Vabandust, ei leitud ühtegi väljalaset, mille pealkirja alguses oleks „{index}”. Palun {pre|mine tagasi} ja proovi uuesti."
 
 #: ../root/browse/work.tt:34
 #, perl-format
 msgid ""
 "Sorry, there are no works starting with “{index}”. Please {pre|go back} and "
 "try again."
-msgstr ""
+msgstr "Vabandust, ei leitud ühtegi teost, mille pealkirja alguses oleks „{index}”. Palun {pre|mine tagasi} ja proovi uuesti."
 
 #: ../root/main/400.tt:5
 #, perl-format
@@ -7685,37 +7685,37 @@ msgstr ""
 #: ../root/artist/layout.tt:53 ../root/artist/tags.tt:3
 #, perl-format
 msgid "Tag this artist"
-msgstr ""
+msgstr "Sildista artist"
 
 #: ../root/collection/tag.tt:2
 #, perl-format
 msgid "Tag this collection"
-msgstr ""
+msgstr "Sildista kogu"
 
 #: ../root/label/layout.tt:46 ../root/label/tags.tt:3
 #, perl-format
 msgid "Tag this label"
-msgstr ""
+msgstr "Sildista plaadifirma"
 
 #: ../root/recording/layout.tt:26 ../root/recording/tags.tt:3
 #, perl-format
 msgid "Tag this recording"
-msgstr ""
+msgstr "Sildista salvestis"
 
 #: ../root/release/tags.tt:3
 #, perl-format
 msgid "Tag this release"
-msgstr ""
+msgstr "Sildista väljalase"
 
 #: ../root/release_group/tags.tt:3
 #, perl-format
 msgid "Tag this release group"
-msgstr ""
+msgstr "Sildista väljalaskerühm"
 
 #: ../root/work/layout.tt:29 ../root/work/tags.tt:3
 #, perl-format
 msgid "Tag this work"
-msgstr ""
+msgstr "Sildista teos"
 
 #: ../root/tag/header.tt:11 ../root/tag/layout.tt:1
 #, perl-format
@@ -8222,7 +8222,7 @@ msgstr ""
 msgid ""
 "This edit failed because it affected high quality data and did not receive "
 "any votes."
-msgstr ""
+msgstr "See toimetus nurjus, kuna puudutas kõrge kvaliteediga andmeid ja ei saanud ühtki häält."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
@@ -8230,25 +8230,25 @@ msgid ""
 "This edit failed because the data it was changing was modified after this "
 "edit was created. This may happen when the same edit is entered in twice; "
 "one will pass but the other will fail."
-msgstr ""
+msgstr "See toimetus nurjus, kuna andmeid, mida see puudutas, muudeti pärast selle toimetuse loomist. Nii võib juhtuda siis, kui sama toimetus kaks korda sisestatakse — üks rakendatakse, aga teine nurjub."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
 msgid "This edit failed because there were insufficient \"yes\" votes."
-msgstr ""
+msgstr "See toimetus nurjus, kuna ei saanud piisavalt poolthääli."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
 msgid ""
 "This edit failed due to an internal error and may need to be entered again."
-msgstr ""
+msgstr "See toimetus nurjus sisemise vea tõttu ja tuleks võibolla uuesti sisestada."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
 msgid ""
 "This edit failed either because an entity it was modifying no longer exists,"
 " or the entity can not be modified in this manner anymore."
-msgstr ""
+msgstr "See toimetus nurjus, kuna olemit, mida see puudutas, pole enam olemas või ei saa seda enam sel viisil muuta."
 
 #: ../root/components/common-macros.tt:534
 #, perl-format
@@ -8398,7 +8398,7 @@ msgid ""
 "This merge strategy will merge all mediums together into a single set of "
 "mediums. Recordings between mediums will also be merged, into the recordings"
 " used on the target mediums."
-msgstr ""
+msgstr "See mestimisstrateegia mestib kõik helikandjad üheks helikandjakomplektiks. Ka salvestised mestitakse sihthelikandjal olevatesse salvestistesse."
 
 #: ../root/doc/page.tt:22
 #, perl-format
@@ -8803,7 +8803,7 @@ msgstr ""
 msgid ""
 "This requires that mediums over each release have corresponding track "
 "counts."
-msgstr ""
+msgstr "See eeldab, et iga väljalaske helikandjatel on vastavad radade arvud."
 
 #: ../root/user/profile.tt:166
 #, perl-format
@@ -8887,7 +8887,7 @@ msgstr "Testimise soodustamiseks on testserveritel sisse lülitatud järgmised f
 #: ../root/browse/release.tt:39 ../root/browse/work.tt:39
 #, perl-format
 msgid "To begin browsing, please select a letter above."
-msgstr ""
+msgstr "Sirvimise alustamiseks klõpsa mõnel tähel."
 
 #: ../root/release/edit/tracklist.tt:168
 #, perl-format
@@ -9084,7 +9084,7 @@ msgstr "Rajaloend:"
 #: ../root/tracklist/index.tt:5
 #, perl-format
 msgid "Tracks"
-msgstr "Rajad"
+msgstr "Radu"
 
 #: ../root/report/index.tt:71
 #, perl-format
@@ -9298,7 +9298,7 @@ msgstr ""
 #: ../root/components/tag.tt:3
 #, perl-format
 msgid "Update Tags"
-msgstr ""
+msgstr "Siltide uuendamine"
 
 #: ../root/artist/merge.tt:19
 #, perl-format
@@ -9324,7 +9324,7 @@ msgstr "URL"
 #: ../root/components/tags.tt:12
 #, perl-format
 msgid "Usage Count"
-msgstr ""
+msgstr "Kasutusarv"
 
 #: ../root/components/common-macros.tt:460
 #, perl-format
@@ -9404,7 +9404,7 @@ msgid ""
 "may specify the new order of mediums. The order does not have to be "
 "continuous, but all medium positions must be positive, and multiple mediums "
 "cannot be in the same position"
-msgstr ""
+msgstr "Selle mestimisstrateegiaga kasutatakse kõiki helikandjaid kõigilt väljalasetelt. Võid määrata helikandjate uue järjestuse. See ei pea olema järjestikune, aga kõik asukohad peavad olema positiivsed arvud ning mitu helikandjat ei saa olla sama asukohaga."
 
 #: ../root/search/form.tt:54
 #, perl-format
@@ -9802,7 +9802,7 @@ msgstr "Teosed"
 #: ../root/browse/work.tt:8
 #, perl-format
 msgid "Works starting with “{index}”"
-msgstr "Teosed, mille alguses on „{index}”"
+msgstr "Teosed, mille pealkirja alguses on „{index}”"
 
 #: ../root/artist/works-list.tt:10 ../root/iswc/index.tt:17
 #: ../root/otherlookup/results-work.tt:8 ../root/search/results-work.tt:11
@@ -9895,7 +9895,7 @@ msgstr ""
 #: ../root/artist/edit_form.tt:3
 #, perl-format
 msgid "You are about to add an artist to MusicBrainz."
-msgstr ""
+msgstr "Käsil on uue artisti lisamine MusicBrainzi."
 
 #: ../root/cdtoc/set_durations.tt:4
 #, perl-format
@@ -9909,14 +9909,14 @@ msgstr ""
 msgid ""
 "You are about to merge the following artists into a single artist. Please "
 "select the artist which you would like other artists to be merged into:"
-msgstr ""
+msgstr "Asusid järgnevaid artiste üheksainsaks artistiks mestima. Palun vali artist, millesse ülejäänud mestida:"
 
 #: ../root/label/merge.tt:4
 #, perl-format
 msgid ""
 "You are about to merge the following labels into a single label. Please "
 "select the label which you would like other labels to be merged into:"
-msgstr ""
+msgstr "Asusid järgnevaid plaadifirmasid üheksainsaks plaadifirmaks mestima. Palun vali plaadifirma, millesse ülejäänud mestida:"
 
 #: ../root/recording/merge.tt:4
 #, perl-format
@@ -9924,7 +9924,7 @@ msgid ""
 "You are about to merge the following recordings into a single recording. "
 "Please select the recording which you would like other recordings to be "
 "merged into:"
-msgstr ""
+msgstr "Asusid järgnevaid salvestisi üheksainsaks salvestiseks mestima. Palun vali salvestis, millesse ülejäänud mestida:"
 
 #: ../root/release_group/merge.tt:4
 #, perl-format
@@ -9932,7 +9932,7 @@ msgid ""
 "You are about to merge the following release groups into a single release "
 "group. Please select the release group which you would like other release "
 "groups to be merged into:"
-msgstr ""
+msgstr "Asusid järgnevaid väljalaskerühmi üheksainsaks väljalaskerühmaks mestima. Palun vali väljalaskerühm, millesse ülejäänud mestida:"
 
 #: ../root/release/merge.tt:18
 #, perl-format
@@ -9940,14 +9940,14 @@ msgid ""
 "You are about to merge the following releases into a single release. Please "
 "select the release which you would like the other releases to be merged "
 "into:"
-msgstr ""
+msgstr "Asusid järgnevaid väljalaskeid üheksainsaks väljalaskeks mestima. Palun vali väljalase, millesse ülejäänud mestida:"
 
 #: ../root/work/merge.tt:4
 #, perl-format
 msgid ""
 "You are about to merge the following works into a single work. Please select"
 " the work that you would like the other works merged into:"
-msgstr ""
+msgstr "Asusid järgnevaid teoseid üheksainsaks teoseks mestima. Palun vali teos, millesse ülejäänud mestida:"
 
 #: ../root/label/edit_form.tt:15
 #, perl-format
@@ -10688,21 +10688,21 @@ msgstr "{mbid|<abbr title=\"MusicBrainzi identifikaator\">MBID</abbr>}:"
 #: ../root/tag/entity-list.tt:10
 #, perl-format
 msgid "{name} by {artist}"
-msgstr ""
+msgstr "„{name}” — {artist}"
 
 #: ../root/tag/artist.tt:1
 #, perl-format
 msgid "{num} artist found"
 msgid_plural "{num} artists found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Leiti {num} artist"
+msgstr[1] "Leiti {num} artisti"
 
 #: ../root/tag/collection.tt:1
 #, perl-format
 msgid "{num} collection found"
 msgid_plural "{num} collections found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Leiti {num} kogu"
+msgstr[1] "Leiti {num} kogu"
 
 #: ../root/components/common-macros.tt:46
 #, perl-format
@@ -10715,8 +10715,8 @@ msgstr[1] "{num}&nbsp;päeva"
 #, perl-format
 msgid "{num} label found"
 msgid_plural "{num} labels found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Leiti {num} plaadifirma"
+msgstr[1] "Leiti {num} plaadifirmat"
 
 #: ../root/components/common-macros.tt:46
 #, perl-format
@@ -10729,15 +10729,15 @@ msgstr[1] "{num}&nbsp;kuud"
 #, perl-format
 msgid "{num} recording found"
 msgid_plural "{num} recordings found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Leiti {num} salvestis"
+msgstr[1] "Leiti {num} salvestist"
 
 #: ../root/tag/release.tt:1
 #, perl-format
 msgid "{num} release found"
 msgid_plural "{num} releases found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Leiti {num} väljalase"
+msgstr[1] "Leiti {num} väljalaset"
 
 #: ../root/cdtoc/attach_filter_release.tt:39
 #, perl-format
@@ -10750,15 +10750,15 @@ msgstr[1] ""
 #, perl-format
 msgid "{num} release group found"
 msgid_plural "{num} release groups found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Leiti {num} väljalaskerühm"
+msgstr[1] "Leiti {num} väljalaskerühma"
 
 #: ../root/tag/work.tt:1
 #, perl-format
 msgid "{num} work found"
 msgid_plural "{num} works found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Leiti {num} teos"
+msgstr[1] "Leiti {num} teost"
 
 #: ../root/components/common-macros.tt:46
 #, perl-format
@@ -10770,7 +10770,7 @@ msgstr[1] "{num}&nbsp;aastat"
 #: ../root/user/profile.tt:194 ../root/user/profile.tt:198
 #, perl-format
 msgid "{percentage}%"
-msgstr "{percentage} %"
+msgstr "{percentage}%"
 
 #: ../root/cdtoc/move_search.tt:31 ../root/cdtoc/set_durations.tt:16
 #: ../root/release/merge_search.tt:11 ../root/release/move_search.tt:9
