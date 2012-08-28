@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-28 17:49+0000\n"
+"PO-Revision-Date: 2012-08-28 19:58+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -141,7 +141,7 @@ msgstr "(peidetud)"
 #: ../root/edit/details/reorder_mediums.tt:26
 #, perl-format
 msgid "(moved from position <span class=\"old\">{old}</span>)"
-msgstr "(liigutati positsioonilt <span class=\"old\">{old}</span>)"
+msgstr "(teisaldati asukohalt <span class=\"old\">{old}</span>)"
 
 #: ../root/edit/details/reorder_mediums.tt:24
 #, perl-format
@@ -980,7 +980,7 @@ msgstr "Annotatsioon"
 #: ../root/annotation/edit.tt:34
 #, perl-format
 msgid "Annotation Formatting"
-msgstr ""
+msgstr "Annotatsiooni vormindus"
 
 #: ../root/annotation/diff.tt:2 ../root/artist/annotation_diff.tt:1
 #: ../root/label/annotation_diff.tt:1 ../root/recording/annotation_diff.tt:1
@@ -1023,7 +1023,7 @@ msgstr "Annotatsioon:"
 #: ../root/annotation/edit.tt:35
 #, perl-format
 msgid "Annotations support a limited set of wiki formatting options:"
-msgstr ""
+msgstr "Annotatsioones saab kasutada piiratud hulka wikivormindusvalikuid:"
 
 #: ../root/artist/relationships.tt:9
 #, perl-format
@@ -1885,7 +1885,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:460
 #, perl-format
 msgid "Cancel creating relationship with {name}"
-msgstr ""
+msgstr "Loobu seose loomisest: {name}"
 
 #: ../root/edit/cancel.tt:24 ../root/edit/edit_header.tt:83
 #: ../root/edit/info.tt:21
@@ -1896,7 +1896,7 @@ msgstr "Tühista"
 #: ../root/elections/show.tt:97
 #, perl-format
 msgid "Cancel the election"
-msgstr ""
+msgstr "Tühista valimine"
 
 #: ../root/artist/delete_alias.tt:17 ../root/label/delete_alias.tt:16
 #, perl-format
@@ -2358,7 +2358,7 @@ msgstr "Loo seos"
 #: ../root/components/common-macros.tt:460
 #, perl-format
 msgid "Create relationship with {other}"
-msgstr ""
+msgstr "Loo seos: {other}"
 
 #: ../root/edit/search_macros.tt:282
 #, perl-format
@@ -4483,7 +4483,7 @@ msgstr "Liitunud:"
 #: ../root/layout/merge-helper.tt:30 ../root/release/merge_search.tt:14
 #, perl-format
 msgid "Merge"
-msgstr ""
+msgstr "Mesti"
 
 #: ../root/artist/merge.tt:1 ../root/artist/merge.tt:3
 #, perl-format
@@ -4637,7 +4637,7 @@ msgstr "Liiguta plaat ülespoole"
 #: ../root/release/move_search.tt:1 ../root/release/move_search.tt:2
 #, perl-format
 msgid "Move release to another release group"
-msgstr ""
+msgstr "Väljalaske teisaldamine teise väljalaskerühma"
 
 #: ../root/release/edit/tracklist.tt:310
 #, perl-format
@@ -5556,7 +5556,7 @@ msgstr "Palun sisesta oma vana parool ja siis kaks korda uus."
 msgid ""
 "Please first navigate to the page of the artist who you wish to relate  to "
 "recordings on this release and select \"use in relationship\""
-msgstr ""
+msgstr "Palun mine esmalt selle artisti lehele, keda soovid selle väljalaske salvestistega seostada, ja klõpsa linki „Kasuta seoses”."
 
 #: ../root/freedb/show.tt:48 ../root/freedb/show.tt:106
 #, perl-format
@@ -5574,7 +5574,7 @@ msgstr ""
 msgid ""
 "Please navigate to the pages of other entities you wish to merge and select "
 "the \"merge\" link."
-msgstr ""
+msgstr "Olemite lisamiseks liigu nende lehele ja klõpsa mestimislinki."
 
 #: ../root/annotation/edit.tt:1
 #, perl-format
@@ -5582,7 +5582,7 @@ msgid ""
 "Please note that any content submitted to MusicBrainz will be made available"
 " to the public under {open|open licenses}, do not submit any copyrighted "
 "text here! "
-msgstr ""
+msgstr "Pane tähele, et kogu MusicBrainzi sisu on avalikkusele saadaval {open|vabade litsentsidega}, seega palun ära sisesta autoriõigusega kaitstud teksti."
 
 #: ../root/search/form.tt:49
 #, perl-format
@@ -5615,35 +5615,35 @@ msgstr ""
 msgid ""
 "Please review the documentation about the {doc_remove|remove release group "
 "edit-type}, before entering this edit"
-msgstr ""
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|väljalaskerühma eemaldamise toimetusetüübi} dokumentatsioon."
 
 #: ../root/artist/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|artist aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|artisti aliaste} dokumentatsioon."
 
 #: ../root/label/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|label aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|plaadifirma aliaste} dokumentatsioon."
 
 #: ../root/work/delete_alias.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {aliases|work aliases}, before "
 "entering this edit."
-msgstr ""
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|teose aliaste} dokumentatsioon."
 
 #: ../root/release/move_search.tt:4
 #, perl-format
 msgid ""
 "Please review the documentation about {doc|changing release groups}, before "
 "entering this edit."
-msgstr ""
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|väljalaskerühmade vahetamise} dokumentatsioon."
 
 #: ../root/account/register.tt:42
 #, perl-format
@@ -5657,21 +5657,21 @@ msgstr "Enne konto loomist loe palun läbi {coc|MusicBrainzi käitumiskoodeks}."
 msgid ""
 "Please review the {doc_remove|remove label edit-type} documentation before "
 "entering this edit."
-msgstr ""
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|plaadifirma eemaldamise toimetusetüübi} dokumentatsioon."
 
 #: ../root/recording/delete.tt:5
 #, perl-format
 msgid ""
 "Please review the {doc_remove|remove recording edit-type} documentation "
 "before entering this edit."
-msgstr ""
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|salvestise eemaldamise toimetusetüübi} dokumentatsioon."
 
 #: ../root/release/delete.tt:4
 #, perl-format
 msgid ""
 "Please review the {doc_remove|remove release edit-type} documentation before"
 " entering this edit."
-msgstr ""
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|väljalaske eemaldamise toimetusetüübi} dokumentatsioon."
 
 #: ../root/cdstub/import.tt:3
 #, perl-format
@@ -6079,7 +6079,7 @@ msgstr "Seosta väljalaskega"
 #: ../root/release/sidebar.tt:100
 #, perl-format
 msgid "Relate {what} to recordings"
-msgstr ""
+msgstr "Seosta {what} salvestistega"
 
 #: ../root/recording/index.tt:51 ../root/recording/relationships.tt:6
 #, perl-format
@@ -9731,7 +9731,7 @@ msgstr ""
 msgid ""
 "When you're ready, search for the release group to which you want to move "
 "the selected release below."
-msgstr ""
+msgstr "Kui oled valmis, otsi allpool väljalaskerühma, millesse tahad valitud väljalaske teisaldada."
 
 #: ../root/layout.tt:145
 #, perl-format
@@ -10053,7 +10053,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "You cannot vote for this candidate, because you are not an auto-editor."
-msgstr ""
+msgstr "Sa ei saa seda kandidaati hääletada, kuna sa pole isetoimetaja."
 
 #: ../root/elections/show.tt:81
 #, perl-format
@@ -10064,7 +10064,7 @@ msgstr ""
 #: ../root/layout/merge-helper.tt:4
 #, perl-format
 msgid "You currently have the following entities selected for merging:"
-msgstr ""
+msgstr "Hetkel on mestimiseks valitud järgmised olemid:"
 
 #: ../root/release/sidebar.tt:143
 #, perl-format
