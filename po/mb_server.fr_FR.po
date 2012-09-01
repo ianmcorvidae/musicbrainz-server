@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-09-01 14:59+0000\n"
+"PO-Revision-Date: 2012-09-01 15:12+0000\n"
 "Last-Translator: Dibou <email address hidden>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/musicbrainz/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -1510,7 +1510,7 @@ msgstr "Élections des auto-éditeurs"
 #: ../root/user/privileged.tt:18
 #, perl-format
 msgid "Auto-editors"
-msgstr "Robots"
+msgstr "Auto-éditeurs"
 
 #: ../root/user/privileged.tt:19
 #, perl-format
@@ -1524,7 +1524,7 @@ msgstr "Les Auto-Éditeurs sont des utilisateurs de confiance ayant le privilèg
 #: ../root/user/profile.tt:152
 #, perl-format
 msgid "Auto-edits"
-msgstr "Modifications par Robot"
+msgstr "Modifications par auto-éditeur"
 
 #: ../root/account/preferences.tt:50
 #, perl-format
@@ -1952,7 +1952,7 @@ msgstr "Impossible d'effectuer la modification"
 #: ../root/account/register.tt:5
 #, perl-format
 msgid "Captcha incorrect. Try again."
-msgstr ""
+msgstr "Captcha incorrect. Essayer de nouveau."
 
 #: ../root/release/edit/information.tt:87
 #, perl-format
@@ -2825,7 +2825,7 @@ msgstr "Modification non trouvée"
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:80
 #, perl-format
 msgid "Edit Note"
-msgstr "Notes d'édition"
+msgstr "Notes de modification"
 
 #: ../root/account/edit_ok.tt:1 ../root/account/edit_ok.tt:3
 #: ../root/account/edit.tt:1 ../root/account/edit.tt:3
@@ -3754,7 +3754,7 @@ msgstr "ISWC"
 #: ../root/iswc/not_found.tt:1 ../root/iswc/not_found.tt:2
 #, perl-format
 msgid "ISWC Not Currently Used"
-msgstr ""
+msgstr "L'ISWC n'est pas utilisé actuellement"
 
 #: ../root/edit/details/add_iswcs.tt:8
 #, perl-format
@@ -8018,7 +8018,7 @@ msgstr "Les utilisateurs sont ce qu'est MusicBrainz, et ils vous remercient de v
 #: ../root/watch/list.tt:4
 #, perl-format
 msgid "The watch artist feature is currently not active."
-msgstr ""
+msgstr "La fonctionnalité de surveillance d'artiste n'est pas encore activée."
 
 #: ../root/edit/edit_header.tt:25
 #, perl-format
@@ -8145,7 +8145,7 @@ msgstr "Il y a une ou plusieurs erreurs, veuillez vérifier les champs suivants 
 #: ../root/release/cover_art.tt:34
 #, perl-format
 msgid "These images provided by the {caa|Cover Art Archive}."
-msgstr ""
+msgstr "Ces images sont fournées par le {caa|Cover Art Archive}."
 
 #: ../root/cdstub/edit.tt:58
 #, perl-format
@@ -8312,7 +8312,7 @@ msgid ""
 "This form allows you to edit the artist credit \"{ac}\". When the edit is "
 "accepted, all tracks, recordings, releases and release groups using this "
 "artist credit will be update to use the new one."
-msgstr ""
+msgstr "Ce formulaire vous permet de modifier le crédit \"{ac}\". Quand la modification sera acceptée, toutes les pistes, enregistrements, release et release groups utilisant ce crédit seront mis à jour en conséquence."
 
 #: ../root/artist/split.tt:43
 #, perl-format
@@ -8320,7 +8320,7 @@ msgid ""
 "This form allows you to split {artist} into separate artists. When the edit "
 "is accepted, existing artist credits will be updated, and collaboration "
 "relationships will be removed"
-msgstr ""
+msgstr "Ce formulaire vous permet de diviser {artist] en plusieurs artistes. Quand la modification sera acceptée, les crédits existants seront mis à jour et les relations de collaboration seront supprimées."
 
 #: ../root/scripts/text_strings.tt:73
 #, perl-format
@@ -8818,12 +8818,12 @@ msgstr "Cette table affiche un résumé des votes effectués par cet éditeur."
 #: ../root/components/common-macros.tt:373
 #, perl-format
 msgid "This user is automated."
-msgstr ""
+msgstr "Cet utilisateur est automatique."
 
 #: ../root/components/common-macros.tt:372
 #, perl-format
 msgid "This user is new to MusicBrainz."
-msgstr ""
+msgstr "Cet utilisateur est nouveau dans MusicBrainz"
 
 #: ../root/release/merge_search.tt:4
 #, perl-format
@@ -8904,7 +8904,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:50
 #, perl-format
 msgid "To edit types, please edit the release group."
-msgstr ""
+msgstr "Pour modifier le type, merci de modifier le release group."
 
 #: ../root/elections/show.tt:88
 #, perl-format
@@ -10079,7 +10079,7 @@ msgstr "Vous n'avez aucune collection !"
 #: ../root/user/collections.tt:35
 #, perl-format
 msgid "You have no collections."
-msgstr ""
+msgstr "Vous n'avez pas de collection"
 
 #: ../root/recording/edit.tt:42
 #, perl-format
@@ -10148,12 +10148,12 @@ msgstr "Vous devez être connecté pour voir cette page."
 #: ../root/release/edit/information.tt:162
 #, perl-format
 msgid "You selected {label}."
-msgstr ""
+msgstr "Vous avez sélectionné {label}."
 
 #: ../root/release/edit/information.tt:134
 #, perl-format
 msgid "You selected {releasegroup}."
-msgstr ""
+msgstr "Vous avez sélectionné {releasegroup}."
 
 #: ../root/account/donation.tt:22
 #, perl-format
@@ -10253,7 +10253,7 @@ msgstr "artistes"
 #: ../root/edit/edit_header.tt:50
 #, perl-format
 msgid "automatically applied"
-msgstr ""
+msgstr "Appliqué automatiquement"
 
 #: ../root/edit/search_macros.tt:155
 #, perl-format
@@ -10268,7 +10268,7 @@ msgstr "entre"
 #: ../root/components/common-macros.tt:373
 #, perl-format
 msgid "bot"
-msgstr ""
+msgstr "robot"
 
 #: ../root/release/edit/recordings.tt:81
 #: ../root/release/edit/recordings.tt:214
@@ -10283,7 +10283,7 @@ msgstr "par"
 #: ../root/release/edit/recordings.tt:227
 #, perl-format
 msgid "by {artist}"
-msgstr ""
+msgstr "par {artist}"
 
 #: ../root/release/edit/tracklist.tt:326
 #, perl-format
@@ -10344,7 +10344,7 @@ msgstr "info"
 #: ../root/edit/search_macros.tt:266
 #, perl-format
 msgid "is"
-msgstr ""
+msgstr "est"
 
 #: ../root/edit/search_macros.tt:121
 #, perl-format
@@ -10369,12 +10369,12 @@ msgstr ""
 #: ../root/edit/search_macros.tt:138
 #, perl-format
 msgid "is less than"
-msgstr ""
+msgstr "est moins que"
 
 #: ../root/edit/search_macros.tt:138
 #, perl-format
 msgid "is more than"
-msgstr ""
+msgstr "est plus que"
 
 #: ../root/edit/search_macros.tt:121 ../root/edit/search_macros.tt:138
 #: ../root/edit/search_macros.tt:155 ../root/edit/search_macros.tt:172
@@ -10383,7 +10383,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:266
 #, perl-format
 msgid "is not"
-msgstr ""
+msgstr "n'est pas"
 
 #: ../root/components/common-macros.tt:113
 #, perl-format
@@ -10393,7 +10393,7 @@ msgstr "labels"
 #: ../root/components/common-macros.tt:372
 #, perl-format
 msgid "limited user"
-msgstr ""
+msgstr "Utilisateur limité"
 
 #: ../root/edit/relationship/edit.tt:37 ../root/scripts/text_strings.tt:86
 #, perl-format
@@ -10434,7 +10434,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:155
 #, perl-format
 msgid "on"
-msgstr ""
+msgstr "sur"
 
 #: ../root/components/common-macros.tt:589 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10475,12 +10475,12 @@ msgstr ""
 #: ../root/components/common-macros.tt:113
 #, perl-format
 msgid "recordings"
-msgstr ""
+msgstr "enregistrements"
 
 #: ../root/components/common-macros.tt:113
 #, perl-format
 msgid "release groups"
-msgstr ""
+msgstr "release groups"
 
 #: ../root/components/common-macros.tt:113
 #, perl-format
@@ -10490,7 +10490,7 @@ msgstr "sorties"
 #: ../root/user/profile.tt:32
 #, perl-format
 msgid "resend verification email"
-msgstr ""
+msgstr "Renvoyer l'e-mail de vérification"
 
 #: ../root/release/edit/tracklist.tt:445 ../root/release/edit/tracklist.tt:446
 #, perl-format
@@ -10947,7 +10947,7 @@ msgid ""
 "<strong>We were unable to send a confirmation email to you.</strong><br/>Please confirm that you have entered a valid\n"
 "             address by editing your {settings|account settings}. If the problem still persists, please contact us at\n"
 "             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
-msgstr "<strong>Nous n'avons pas pu vous envoyer un mail de confirmation d'adresse </strong><br/>Merci de vérifier que vous avez saisi une adresse valide en éditant {settings|account settings}. If the problem still persists, please contact us at\n             <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
+msgstr "<strong>Nous n'avons pas pu vous envoyer un mail de confirmation d'adresse </strong><br/> Merci de vérifier que vous avez saisi une adresse valide en éditant {settings|vos paramètres utilisateur}. Si le problème persiste, contactez nous à <a href=\"mailto:support@musicbrainz.org\">support@musicbrainz.org</a>."
 
 #: ../lib/MusicBrainz/Server/Controller/Artist.pm:475
 #, perl-brace-format
@@ -11129,7 +11129,7 @@ msgstr "Il y a déjà un modèle de CD avec cet ID de disque"
 #: ../lib/MusicBrainz/Server/Data/LinkType.pm:149
 #, perl-brace-format
 msgid "{t0}-{t1} relationships"
-msgstr ""
+msgstr "{t0}-{t1} relations"
 
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:180
 msgid "Total"
@@ -11157,7 +11157,7 @@ msgstr "Modifier l'artiste"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
-msgstr "Éditer le crédit"
+msgstr "Modifier le crédit"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Merge.pm:13
 msgid "Merge artists"
@@ -11371,7 +11371,7 @@ msgstr "Effacer le type de relation"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddCoverArt.pm:18
 msgid "Add cover art"
-msgstr ""
+msgstr "Ajouter une couverture"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
@@ -11400,7 +11400,7 @@ msgstr "Modifier le code-barre"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditCoverArt.pm:19
 msgid "Edit cover art"
-msgstr ""
+msgstr "Éditer une couverture"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:17
 msgid "Edit release label"
@@ -11408,15 +11408,15 @@ msgstr "Modifier le label de la sortie"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
-msgstr ""
+msgstr "Supprimer une couverture"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderCoverArt.pm:22
 msgid "Reorder cover art"
-msgstr ""
+msgstr "Réordonner les couvertures"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderMediums.pm:11
 msgid "Reorder mediums"
-msgstr ""
+msgstr "Réordonner les medias"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
@@ -11498,11 +11498,11 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:94
 #, perl-brace-format
 msgid "Cancelled at {date}"
-msgstr ""
+msgstr "Annulé le {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:100
 msgid "Voting open"
-msgstr ""
+msgstr "Vote ouvert"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:102
 msgid "Declined"
@@ -11510,7 +11510,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:103
 msgid "Cancelled"
-msgstr ""
+msgstr "Annulé"
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
