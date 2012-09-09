@@ -15,14 +15,14 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-08-13 14:25-0700\n"
-"PO-Revision-Date: 2012-08-13 21:50+0000\n"
-"Last-Translator: Nicolás Tamargo <email address hidden>\n"
+"PO-Revision-Date: 2012-09-09 12:45+0000\n"
+"Last-Translator: Héctor Arroyo <email address hidden>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:38
 #, perl-format
@@ -197,7 +197,7 @@ msgstr "(privado)"
 #: ../root/layout/menu.tt:24
 #, perl-format
 msgid "(reset language)"
-msgstr ""
+msgstr "(resetear idioma)"
 
 #: ../root/search/lib/inline-results-recording.tt:60
 #, perl-format
@@ -1268,7 +1268,7 @@ msgstr "Créditos de artista"
 #: ../root/edit/details/add_medium.tt:43
 #, perl-format
 msgid "Artist Credits:"
-msgstr ""
+msgstr "Créditos de artista:"
 
 #: ../root/artist/edit_form.tt:37
 #, perl-format
@@ -7238,7 +7238,7 @@ msgid ""
 "Sorry, but your query (<code>{query}</code>) could not be performed, because"
 " it appears you've been rate-limited. Either the server is overloaded or "
 "you're making a lot of requests all at once!"
-msgstr ""
+msgstr "Lo sentimos, pero tu consulta (<code>{query}</code>) no puede ser realizada, ya que parece ser que el número de solicitudes que se te permite hacer está limitado. O bien el servidor está sobrecargado o estás haciendo demasiadas solicitudes simultáneas!"
 
 #: ../root/search/error/general.tt:3
 #, perl-format
@@ -8582,7 +8582,7 @@ msgid ""
 "This report lists releases without any disc IDs that probably contain data "
 "tracks (like videos). A data track should be deleted if it is the last track"
 " of the CD and there is no disc ID."
-msgstr ""
+msgstr "Este informe lista lanzamientos sin discIDs que probablemente contienen pistas de datos (por ejemplo, vídeos). Las pistas de datos deben ser eliminadas si se trata de la última pista del CD y no hay discIDs asociados al lanzamiento."
 
 #: ../root/report/isrc_with_many_recordings.tt:6
 #, perl-format
