@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-11 13:30-0700\n"
-"PO-Revision-Date: 2012-09-11 20:38+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-09-19 17:59+0000\n"
+"Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -102,7 +102,7 @@ msgstr "&ndash; {enddate}"
 #: ../root/annotation/edit.tt:40
 #, perl-format
 msgid "''italics''; '''bold'''; '''''bold italics'''''; ---- horizontal rule"
-msgstr ""
+msgstr "''corsivo''; '''grassetto'''; '''''corsivo grassetto'''''; ---- riga orizzontale"
 
 #: ../root/components/tag-cloud.tt:26
 #, perl-format
@@ -213,7 +213,7 @@ msgstr "(registrazione indipendente)"
 #: ../lib/MusicBrainz/Server/Entity/Release.pm:191
 #, perl-format
 msgid "(unknown)"
-msgstr "(unknown)"
+msgstr "(sconosciuto)"
 
 #: ../root/user/profile.tt:24
 #, perl-format
@@ -293,7 +293,7 @@ msgstr "<em>nessun registro delle modifiche specificato</em>"
 #: ../root/edit/edit_header.tt:66
 #, perl-format
 msgid "<strong>Approved:</strong> {date}"
-msgstr ""
+msgstr "<strong>Approvata:</strong> {date}"
 
 #: ../root/edit/edit_header.tt:64
 #, perl-format
@@ -388,7 +388,7 @@ msgstr "<strong>Attenzione</strong>: #{disc} possiede un ID disco, non è possib
 msgid ""
 "=&nbsp;Title&nbsp;1&nbsp;=; ==&nbsp;Title&nbsp;2&nbsp;==; "
 "===&nbsp;Title&nbsp;3&nbsp;==="
-msgstr ""
+msgstr "=&nbsp;Titolo&nbsp;1&nbsp;=; ==&nbsp;Titolo&nbsp;2&nbsp;==; ===&nbsp;Titolo&nbsp;3&nbsp;==="
 
 #: ../root/cdtoc/lookup.tt:18
 #, perl-format
@@ -717,7 +717,7 @@ msgstr "Aggiungi nuova registrazione"
 #: ../root/edit/index.tt:79
 #, perl-format
 msgid "Add note and vote"
-msgstr ""
+msgstr "Aggiungi nota e voto"
 
 #: ../root/artist/layout.tt:72
 #, perl-format
@@ -762,7 +762,7 @@ msgstr "Aggiungi opere selezionate per unirle"
 #: ../root/release/sidebar.tt:143
 #, perl-format
 msgid "Add to a new collection"
-msgstr ""
+msgstr "Aggiungi ad una nuova collezione"
 
 #: ../root/release/sidebar.tt:132
 #, perl-format
@@ -864,7 +864,7 @@ msgstr "Alias"
 #: ../root/alias/edit_form.tt:5
 #, perl-format
 msgid "Alias Details"
-msgstr ""
+msgstr "Dettagli alias"
 
 #: ../root/alias/edit_form.tt:6
 #, perl-format
@@ -3213,7 +3213,7 @@ msgstr "Email:"
 #: ../root/annotation/edit.tt:39
 #, perl-format
 msgid "Emphasis:"
-msgstr ""
+msgstr "Enfasi:"
 
 #: ../root/release/edit/tracklist.tt:195
 #, perl-format
@@ -3670,7 +3670,7 @@ msgstr "Ritocca titoli tracce"
 #: ../root/annotation/edit.tt:43
 #, perl-format
 msgid "Headings:"
-msgstr ""
+msgstr "Intestazioni:"
 
 #: ../root/edit/list_header.tt:22
 #, perl-format
@@ -4344,12 +4344,12 @@ msgstr "Frase di collegamento:"
 #: ../root/annotation/edit.tt:53
 #, perl-format
 msgid "Links:"
-msgstr ""
+msgstr "Link:"
 
 #: ../root/annotation/edit.tt:48
 #, perl-format
 msgid "Lists:"
-msgstr ""
+msgstr "Elenchi:"
 
 #: ../root/layout/menu.tt:172
 #, perl-format
@@ -5574,7 +5574,7 @@ msgstr "Assicurati di includere lo stack trace e la richiesta di dati visualizza
 #: ../root/edit/search_macros.tt:282
 #, perl-format
 msgid "Please choose a condition"
-msgstr ""
+msgstr "Scegli una condizione"
 
 #: ../root/release/cover_art_uploader.tt:19
 #, perl-format
@@ -6116,7 +6116,7 @@ msgstr "Registrazioni:"
 #: ../root/edit/list_header.tt:12
 #, perl-format
 msgid "Refine this search"
-msgstr ""
+msgstr "Affina la ricerca"
 
 #: ../root/account/preferences.tt:12
 #, perl-format
@@ -7940,7 +7940,7 @@ msgstr "Il codice a barre inserito sembra essere un codice UPC senza la cifra di
 #: ../root/main/index.tt:42
 #, perl-format
 msgid "The blog is currently unavailable."
-msgstr ""
+msgstr "Il blog non è al momento disponibile."
 
 #: ../root/release/edit/information.tt:165
 #, perl-format
@@ -9343,7 +9343,7 @@ msgstr "URL:"
 #: ../root/annotation/edit.tt:55
 #, perl-format
 msgid "URL; [URL]; [URL|label]"
-msgstr ""
+msgstr "URL; [URL]; [URL|etichetta]"
 
 #: ../root/relationship/linktype/tree.tt:15
 #, perl-format
@@ -9492,7 +9492,7 @@ msgstr "Utilizza la {doc|sintassi di ricerca avanzata}"
 msgid ""
 "User accounts must be more than 2 weeks old, have a confirmed email address,"
 " and more than 10 accepted edits in order to vote on others' edits."
-msgstr ""
+msgstr "Gli account utente devono avere almeno 2 settimane, possedere un indirizzo email confermato e avere più di 10 modifiche accettate per poter votare sulle modifiche altrui."
 
 #: ../root/admin/edit_user.tt:6
 #, perl-format
@@ -9812,7 +9812,7 @@ msgstr "Sito web:"
 #: ../root/main/index.tt:48
 #, perl-format
 msgid "Welcome to MusicBrainz!"
-msgstr "Benvenuti su MusicBrainz!"
+msgstr "Benvenuto su MusicBrainz!"
 
 #: ../root/account/preferences.tt:40
 #, perl-format
@@ -10351,12 +10351,12 @@ msgstr "a {num} anni"
 #: ../root/edit/search_macros.tt:28
 #, perl-format
 msgid "all"
-msgstr ""
+msgstr "tutte"
 
 #: ../root/edit/search_macros.tt:28
 #, perl-format
 msgid "any"
-msgstr ""
+msgstr "una qualsiasi"
 
 #: ../root/release/edit/recordings.tt:43 ../root/release/edit/recordings.tt:50
 #: ../root/release/edit/recordings.tt:82
@@ -10373,7 +10373,7 @@ msgstr "artisti"
 #: ../root/edit/search_macros.tt:14
 #, perl-format
 msgid "auto-edits"
-msgstr ""
+msgstr "auto-modifiche"
 
 #: ../root/edit/edit_header.tt:50
 #, perl-format
@@ -10424,7 +10424,7 @@ msgstr "disambiguazione:"
 #: ../root/edit/search_macros.tt:24
 #, perl-format
 msgid "do not match"
-msgstr ""
+msgstr "non corrispondono a"
 
 #: ../root/components/common-macros.tt:122
 #, perl-format
@@ -10434,7 +10434,7 @@ msgstr "editor"
 #: ../root/edit/search_macros.tt:14
 #, perl-format
 msgid "edits"
-msgstr ""
+msgstr "modifiche"
 
 #: ../root/components/common-macros.tt:642
 #, perl-format
@@ -10538,7 +10538,7 @@ msgstr "link"
 #: ../root/edit/search_macros.tt:24
 #, perl-format
 msgid "match"
-msgstr ""
+msgstr "corrispondono a"
 
 #: ../root/relationship/linktype/tree.tt:7
 #, perl-format
@@ -10564,7 +10564,7 @@ msgstr "nomina al ruolo di auto-editor"
 #: ../root/edit/search_macros.tt:14
 #, perl-format
 msgid "non-auto-edits"
-msgstr ""
+msgstr "non auto-modifiche"
 
 #: ../root/relationship/linkattributetype/common.tt:19
 #, perl-format
@@ -10687,7 +10687,7 @@ msgstr "simbolo"
 msgid ""
 "tab or 4 spaces and: * bullets; 1., a., A., i., I. numbered items; spaces "
 "alone indent"
-msgstr ""
+msgstr "tab o 4 spazi e: * punti; 1., a., A., i., I. elementi numerati; spazi semplici rientro"
 
 #: ../root/release/edit/recordings.tt:191
 #: ../root/release/edit/recordings.tt:262
@@ -10857,8 +10857,8 @@ msgstr "{name} di {artist}"
 #, perl-format
 msgid "{num} artist"
 msgid_plural "{num} artists"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} artista"
+msgstr[1] "{num} artisti"
 
 #: ../root/tag/artist.tt:1
 #, perl-format
@@ -10885,15 +10885,15 @@ msgstr[1] "{num}&nbsp;giorni"
 #, perl-format
 msgid "{num} editor"
 msgid_plural "{num} editors"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} editor"
+msgstr[1] "{num} editor"
 
 #: ../root/user/subscriptions/subscriptions.tt:25
 #, perl-format
 msgid "{num} label"
 msgid_plural "{num} labels"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} etichetta"
+msgstr[1] "{num} etichette"
 
 #: ../root/tag/label.tt:1
 #, perl-format
@@ -10977,7 +10977,7 @@ msgstr "{release} non è stata aggiunta a nessuna collezione."
 #: ../root/relationship/linktype/index.tt:21
 #, perl-format
 msgid "{type0}-{type1}"
-msgstr ""
+msgstr "{type0}-{type1}"
 
 #: ../root/relationship/linktype/tree.tt:34
 #, perl-format
@@ -11181,7 +11181,7 @@ msgstr "L'ID artista fornito non è valido"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit.pm:182
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:304
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:418
