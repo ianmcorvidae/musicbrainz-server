@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-11 13:30-0700\n"
-"PO-Revision-Date: 2012-09-19 17:59+0000\n"
+"PO-Revision-Date: 2012-09-19 18:19+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -1638,7 +1638,7 @@ msgid ""
 "hyperlinks. Example: If you want to use [unknown] in the annotation, you'll "
 "have to write <code>&amp;#91;unknown&amp;#93;</code> then it will appear the"
 " way you intended it to show."
-msgstr ""
+msgstr "Poiché le parentesi quadre [] sono utilizzate per creare dei collegamenti ipertestuali, dovrai utilizzare i loro equivalenti codificati in html (<code>&amp;#91;</code> per [) e (<code>&amp;#93;</code> per ]) se non desideri vederle convertite in collegamenti ipertestuali. Esempio: se vuoi utilizzare [sconosciuto] nell'annotazione, dovrai scrivere <code>&amp;#91;sconosciuto&amp;#93;</code> per visualizzarlo nella forma desiderata."
 
 #: ../root/account/registered.tt:13
 #, perl-format
@@ -3981,7 +3981,7 @@ msgid ""
 "If you would like to delete your account, please see the <abbr "
 "title=\"Frequently Asked Questions\">FAQ</abbr> entry: {faq|How do I delete "
 "my account?}"
-msgstr ""
+msgstr "Se desideri eliminare il tuo account, consulta la voce delle domande frequenti: {faq|Come si elimina il mio account?}."
 
 #: ../root/account/donation.tt:10
 #, perl-format
@@ -7192,7 +7192,7 @@ msgstr "Mostra meno..."
 msgid ""
 "Show me {autoedit_select_block} sorted {sort_select_block} that "
 "{match_or_negation_block} {and_vs_or_block} of the following conditions:"
-msgstr ""
+msgstr "Mostrami le {autoedit_select_block} ordinate {sort_select_block} che {match_or_negation_block} {and_vs_or_block} le seguenti condizioni:"
 
 #: ../root/scripts/text_strings.tt:87
 #, perl-format
@@ -8377,7 +8377,7 @@ msgstr "Le condizioni di voto di questo tipo di modifica cambiano dinamicamente 
 msgid ""
 "This edit was a \"Merge Releases (Various Artists)\" edit which additionally"
 " set the release artist to Various Artists."
-msgstr ""
+msgstr "Questa modifica era una \"unione di pubblicazioni (Artisti vari)\" che inoltre impostava l'artista della pubblicazione come Artisti vari."
 
 #: ../root/components/common-macros.tt:569
 #, perl-format
@@ -9698,7 +9698,7 @@ msgstr "Spiacenti, ma i dati di questo report non sono al momento disponibili."
 msgid ""
 "We are unable to display history for cover art. For a current listing of "
 "cover art, please see the {coverart|release's cover art page}."
-msgstr ""
+msgstr "Non è possibile visualizzare la cronologia delle copertine. Per l'elenco attuale delle copertine, vai alla {coverart|pagina delle copertine della pubblicazione}."
 
 #: ../root/release/edit/missing_entities.tt:83
 #, perl-format
@@ -10806,7 +10806,7 @@ msgstr "{doc|Editor di transclusione}"
 #: ../root/user/subscriptions/subscriptions.tt:12
 #, perl-format
 msgid "{editor} is subscribed to:"
-msgstr ""
+msgstr "{editor} è sottoscritto a:"
 
 #: ../root/edit/require_note.tt:4
 #, perl-format
@@ -11620,27 +11620,27 @@ msgstr "Questo URL è già stato unito ad un altro"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:247
 msgid "Open"
-msgstr ""
+msgstr "Aperta"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:248
 msgid "Applied"
-msgstr ""
+msgstr "Applicata"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:249
 msgid "Failed vote"
-msgstr ""
+msgstr "Voto fallito"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:250
 msgid "Failed dependency"
-msgstr ""
+msgstr "Dipendenza fallita"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:252
 msgid "Failed prerequisite"
-msgstr ""
+msgstr "Prerequisito fallito"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:253
 msgid "No votes"
-msgstr ""
+msgstr "Nessun voto"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:254
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:103
@@ -11782,7 +11782,7 @@ msgstr "Questo non è un MBID valido"
 msgid ""
 "This is not a valid ISRC. If this code starts with \"TC\", it is a TuneCore "
 "ID, which should be put into the annotation instead."
-msgstr ""
+msgstr "Questo non è un ISRC valido. Se questo codice inizia per \"TC\", si tratta di un ID TuneCore, che va inserito nell'annotazione."
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:12
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:16
