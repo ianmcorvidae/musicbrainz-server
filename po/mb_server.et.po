@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-19 17:30-0700\n"
-"PO-Revision-Date: 2012-09-20 14:52+0000\n"
+"PO-Revision-Date: 2012-09-20 15:43+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -2307,7 +2307,7 @@ msgid ""
 "Confirm by activating the checkbox below that you have read the "
 "{doc_artistcomment|artist comment guideline}, understood how we distinguish "
 "artists with the same name, and that you know what you are doing."
-msgstr ""
+msgstr "Kinnita alloleva ruudu märkimisega, et oled läbi lugenud {doc_artistcomment|artisti täpsustuse juhise}, saanud aru, kuidas me samanimelisi artiste eristame, ning tead, mida teed."
 
 #: ../root/label/edit_form.tt:25
 #, perl-format
@@ -2315,7 +2315,7 @@ msgid ""
 "Confirm by activating the checkbox below that you have read the "
 "{doc_labelcomment|label comment guideline}, understood how we distinguish "
 "labels with the same name, and that you know what you are doing."
-msgstr ""
+msgstr "Kinnita alloleva ruudu märkimisega, et oled läbi lugenud {doc_labelcomment|plaadifirma täpsustuse juhise}, saanud aru, kuidas me samanimelisi plaadifirmasid eristame, ning tead, mida teed."
 
 #: ../root/account/change_password.tt:12 ../root/account/register.tt:30
 #: ../root/account/reset_password.tt:11
@@ -2328,7 +2328,7 @@ msgstr "Parooli kinnitus:"
 msgid ""
 "Congratulations, your new account has been created and you are now logged "
 "into MusicBrainz!"
-msgstr ""
+msgstr "Palju õnne! Sinu konto on loodud ja oled nüüd MusicBrainzi sisse logitud."
 
 #: ../root/layout/menu.tt:259
 #, perl-format
@@ -5934,22 +5934,22 @@ msgstr "Järjestus:"
 #: ../root/artist/edit_form.tt:16
 #, perl-format
 msgid "Possible Duplicate Artists"
-msgstr ""
+msgstr "Võimalikud duplikaatartistid"
 
 #: ../root/label/edit_form.tt:12
 #, perl-format
 msgid "Possible Duplicate Labels"
-msgstr ""
+msgstr "Võimalikud duplikaatplaadifirmad"
 
 #: ../root/cdtoc/lookup.tt:28
 #, perl-format
 msgid "Possible Mediums"
-msgstr ""
+msgstr "Võimalikud helikandjad"
 
 #: ../root/relationship/linkattributetype/index.tt:18
 #, perl-format
 msgid "Possible values:"
-msgstr ""
+msgstr "Võimalikud väärtused:"
 
 #: ../root/report/duplicate_artists.tt:1 ../root/report/duplicate_artists.tt:3
 #: ../root/report/index.tt:19
@@ -7517,86 +7517,86 @@ msgstr "Kahju küll, aga su päringuga oli midagi valesti."
 msgid ""
 "Sorry, we could not find a FreeDB entry with that ID. You may wish to try "
 "and {search_url|search for it} instead."
-msgstr ""
+msgstr "Vabandust, selle ID-ga FreeDB kirjet ei leitud. Võid proovida {search_url|seda otsida}."
 
 #: ../root/otherlookup/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a MusicBrainz entity with that MusicBrainz ID. You "
 "may wish to try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Vabandust, selle MusicBrainzi ID-ga MusicBrainzi olemit ei leitud. Võid proovida {search_url|seda otsida}."
 
 #: ../root/url/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find a URL with that MusicBrainz ID."
-msgstr ""
+msgstr "Vabandust, selle MusicBrainzi ID-ga URL-i ei leitud."
 
 #: ../root/label/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a label with that MusicBrainz ID. You may wish to "
 "try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Vabandust, selle MusicBrainzi ID-ga plaadifirmat ei leitud. Võid proovida {search_url|seda otsida}."
 
 #: ../root/recording/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a recording with that MusicBrainz ID. You may wish "
 "to try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Vabandust, selle MusicBrainzi ID-ga salvestist ei leitud. Võid proovida {search_url|seda otsida}."
 
 #: ../root/relationship/linkattributetype/not_found.tt:3
 #, perl-format
 msgid ""
 "Sorry, we could not find a relationship attribute with that MusicBrainz ID."
-msgstr ""
+msgstr "Vabandust, selle MusicBrainzi ID-ga seoseatribuuti ei leitud."
 
 #: ../root/release_group/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a release group with that MusicBrainz ID. You may "
 "wish to try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Vabandust, selle MusicBrainzi ID-ga väljalaskerühma ei leitud. Võid proovida {search_url|seda otsida}."
 
 #: ../root/release/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a release with that MusicBrainz ID. You may wish to"
 " try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Vabandust, selle MusicBrainzi ID-ga väljalaset ei leitud. Võid proovida {search_url|seda otsida}."
 
 #: ../root/work/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find a work with that MusicBrainz ID. You may wish to "
 "try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Vabandust, selle MusicBrainzi ID-ga teost ei leitud. Võid proovida {search_url|seda otsida}."
 
 #: ../root/artist/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find an artist with that MusicBrainz ID. You may wish to"
 " try and {search_url|search for it} instead."
-msgstr ""
+msgstr "Vabandust, selle MusicBrainzi ID-ga artisti ei leitud. Võid proovida {search_url|seda otsida}."
 
 #: ../root/collection/not_found.tt:4
 #, perl-format
 msgid "Sorry, we could not find an collection with that MusicBrainz ID."
-msgstr ""
+msgstr "Vabandust, selle MusicBrainzi ID-ga kogu ei leitud."
 
 #: ../root/edit/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find an edit with that edit ID. You may wish to try and "
 "perform an {search_url|edit search} instead."
-msgstr "Vabandust, selle ID-ga toimetust ei leitud. Võibolla tahad proovida {search_url|toimetusi otsida}."
+msgstr "Vabandust, selle ID-ga toimetust ei leitud. Võibolla tahad proovida {search_url|toimetusi otsida}?"
 
 #: ../root/user/not_found.tt:4
 #, perl-format
 msgid ""
 "Sorry, we could not find an editor with that name. You may wish to try and "
 "{search_url|search for them} instead."
-msgstr ""
+msgstr "Vabandust, selle nimega toimetajat ei leitud. Võid proovida {search_url|teda otsida}."
 
 #: ../root/search/editor.tt:18
 #, perl-format
@@ -10293,14 +10293,14 @@ msgstr "Asusid järgnevaid teoseid üheksainsaks teoseks mestima. Palun vali teo
 msgid ""
 "You are attempting to add a label which appears to be very similar, if not "
 "exactly the same, as these existing labels:"
-msgstr ""
+msgstr "üritad lisada plaadifirmat, mis on väga sarnane (kui mitte identne) järgmiste andmebaasis olevate plaadifirmadega:"
 
 #: ../root/artist/edit_form.tt:19
 #, perl-format
 msgid ""
 "You are attempting to add an artist which appears to be very similar, if not"
 " exactly the same, as these existing artists:"
-msgstr ""
+msgstr "üritad lisada artisti, kes on väga sarnane (kui mitte identne) järgmiste andmebaasis olevate artistidega:"
 
 #: ../root/browse/page_selector.tt:30
 #, perl-format
@@ -10308,7 +10308,7 @@ msgid ""
 "You are browsing the database using a query that is 6 characters long. We do"
 " not index data past this level of granularity, you may want to {uri|search "
 "the database} instead."
-msgstr ""
+msgstr "Sirvid andmebaasi 6 märgi pikkuse päringuga. Sellest detailsusastmest edasi me andmeid ei indekseeri — soovi korral kasuta {uri|andmebaasiotsingut}."
 
 #: ../root/artist/subscribers.tt:27 ../root/label/subscribers.tt:27
 #: ../root/user/subscribers.tt:32
@@ -10348,7 +10348,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this artist from the other artists with the same name, if the "
 "final artist name is similar to an existing artist."
-msgstr ""
+msgstr "Pead sisestama täpsustuse, mille järgi seda artisti teistest samanimelistest eristada saaks."
 
 #: ../root/label/edit_form.tt:24
 #, perl-format
@@ -10356,7 +10356,7 @@ msgid ""
 "You are required to enter a disambiguation comment which allows users to "
 "distinguish this label from the other labels with the same name, if the "
 "final label name is similar to an existing label."
-msgstr ""
+msgstr "Pead sisestama täpsustuse, mille järgi seda plaadifirmat teistest samanimelistest eristada saaks."
 
 #: ../root/cdtoc/attach_artist_releases.tt:24
 #, perl-format
