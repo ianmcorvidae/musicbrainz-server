@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-19 17:30-0700\n"
-"PO-Revision-Date: 2012-09-20 06:19+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-09-20 22:17+0000\n"
+"Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -573,7 +573,7 @@ msgstr "Aggiungi gruppo di pubblicazioni"
 #: ../root/release/edit/layout.tt:4 ../root/release/edit/layout.tt:13
 #, perl-format
 msgid "Add Release: {title}"
-msgstr ""
+msgstr "Aggiungi pubblicazione: {title}"
 
 #: ../root/layout/menu.tt:218 ../root/recording/create.tt:16
 #: ../root/recording/create.tt:18
@@ -10432,7 +10432,7 @@ msgstr "Hai utilizzato l'artista speciale {valink|Artisti vari} su:"
 #: ../root/scripts/text_strings.tt:120
 #, perl-format
 msgid "You haven't made any changes!"
-msgstr ""
+msgstr "Non hai effettuato nessuna modifica!"
 
 #: ../root/edit/cancel.tt:14
 #, perl-format
@@ -10675,7 +10675,7 @@ msgstr "inattivo"
 #: ../root/scripts/text_strings.tt:115
 #, perl-format
 msgid "from"
-msgstr ""
+msgstr "da"
 
 #: ../root/components/common-macros.tt:602 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -10945,7 +10945,7 @@ msgstr "annulla sottoscrizione"
 #: ../root/scripts/text_strings.tt:116
 #, perl-format
 msgid "until"
-msgstr ""
+msgstr "a"
 
 #: ../root/components/common-macros.tt:613 ../root/edit/details/macros.tt:28
 #, perl-format
@@ -11093,7 +11093,7 @@ msgstr "{mbid|<abbr title=\"Identificatore di MusicBrainz\">MBID</abbr>}:"
 #: ../root/release/edit/layout.tt:2
 #, perl-format
 msgid "{name} - Edit Release"
-msgstr ""
+msgstr "{name} - Modifica pubblicazione"
 
 #: ../root/tag/entity-list.tt:10
 #, perl-format
@@ -11202,15 +11202,15 @@ msgstr[1] "{num}&nbsp;anni"
 #, perl-format
 msgid "{n} recording selected"
 msgid_plural "{n} recordings selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{n} registrazione selezionata"
+msgstr[1] "{n} registrazioni selezionate"
 
 #: ../root/release/edit_relationships.tt:323
 #, perl-format
 msgid "{n} work selected"
 msgid_plural "{n} works selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{n} opera selezionata"
+msgstr[1] "{n} opere selezionate"
 
 #: ../root/user/profile.tt:194 ../root/user/profile.tt:198
 #, perl-format
@@ -12081,19 +12081,19 @@ msgstr "È necessario indicare il tipo di collegamento."
 
 #: ../lib/MusicBrainz/Server/Form/RelationshipEditor.pm:129
 msgid "The relationship is missing one or both entities."
-msgstr ""
+msgstr "Alla relazione manca un'entità o entrambe le entità."
 
 #: ../lib/MusicBrainz/Server/Form/RelationshipEditor.pm:141
 msgid "This entity has an invalid ID or MBID."
-msgstr ""
+msgstr "Questa entità ha un ID o un MBID non valido."
 
 #: ../lib/MusicBrainz/Server/Form/RelationshipEditor.pm:150
 msgid "This entity does not exist."
-msgstr ""
+msgstr "Questa entità non esiste."
 
 #: ../lib/MusicBrainz/Server/Form/RelationshipEditor.pm:176
 msgid "This relationship no longer exists."
-msgstr ""
+msgstr "Questa relazione non esiste più."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/EditNote.pm:27
 msgid ""
