@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-19 17:30-0700\n"
-"PO-Revision-Date: 2012-09-21 01:57+0000\n"
+"PO-Revision-Date: 2012-09-21 02:45+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -1651,17 +1651,17 @@ msgstr "Sulla base delle informazioni che hai fornito, abbiamo trovato che la se
 #: ../root/release/edit_relationships.tt:329
 #, perl-format
 msgid "Batch-add a relationship to recordings"
-msgstr ""
+msgstr "Aggiungi un batch di relazioni alle registrazioni"
 
 #: ../root/release/edit_relationships.tt:334
 #, perl-format
 msgid "Batch-add a relationship to works"
-msgstr ""
+msgstr "Aggiungi un batch di relazioni alle opere"
 
 #: ../root/release/edit_relationships.tt:339
 #, perl-format
 msgid "Batch-create new works"
-msgstr ""
+msgstr "Crea un batch di nuove opere"
 
 #: ../root/artist/subscribers.tt:30 ../root/label/subscribers.tt:30
 #: ../root/user/subscribers.tt:35
@@ -2188,12 +2188,12 @@ msgstr "Clicca su Modifica per modificare le associazioni con le registrazioni d
 #: ../root/scripts/text_strings.tt:119
 #, perl-format
 msgid "Click here to choose a vocal"
-msgstr ""
+msgstr "Clicca qui per scegliere il cantato"
 
 #: ../root/scripts/text_strings.tt:118
 #, perl-format
 msgid "Click here to choose an instrument"
-msgstr ""
+msgstr "Clicca qui per scegliere uno strumento"
 
 #: ../root/account/edit_ok.tt:12
 #, perl-format
@@ -5456,7 +5456,7 @@ msgstr "Solo l'utente che ha creato una modifica la può annullare: non hai crea
 msgid ""
 "Only use this option after you've tried searching for the work(s) you want "
 "to create, and are certain they do not already exist on MusicBrainz."
-msgstr ""
+msgstr "Utilizza questa opzione solo dopo aver cercato l'opera/e che intendi creare e se sei certo che essa non esiste già su MusicBrainz."
 
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
@@ -6233,7 +6233,7 @@ msgstr "Rifiuta alla scadenza"
 #: ../root/scripts/text_strings.tt:93
 #, perl-format
 msgid "Relate recording to work"
-msgstr ""
+msgstr "Metti in relazione registrazione con opera"
 
 #: ../root/components/common-macros.tt:501
 #, perl-format
@@ -6992,7 +6992,7 @@ msgstr "Reimposta password"
 #: ../root/release/edit/tracklist.tt:444 ../root/release/edit/tracklist.tt:445
 #, perl-format
 msgid "Reset track numbers"
-msgstr ""
+msgstr "Reimposta numeri di traccia"
 
 #: ../root/search/form.tt:7
 #, perl-format
@@ -7847,7 +7847,7 @@ msgstr "Riassunto:"
 #: ../root/release/edit/tracklist.tt:448 ../root/release/edit/tracklist.tt:449
 #, perl-format
 msgid "Swap track titles with artist credits"
-msgstr ""
+msgstr "Inverti titoli di traccia e accreditamenti artista"
 
 #: ../root/main/503.tt:1 ../root/main/503.tt:3
 #, perl-format
@@ -8121,7 +8121,7 @@ msgstr "Questa modifica è stata annullata."
 #: ../root/scripts/text_strings.tt:95
 #, perl-format
 msgid "The end date cannot preceed the begin date."
-msgstr ""
+msgstr "La data finale non può precedere quella iniziale."
 
 #: ../root/user/privileged.tt:41
 #, perl-format
@@ -9010,7 +9010,7 @@ msgstr "Questo report mostra le pubblicazioni che hanno (disc n) o (bonus disc) 
 msgid ""
 "This report shows releases which have artwork in the Cover Art Archive, but "
 "still have a cover art relationship (pointing to a URL)."
-msgstr ""
+msgstr "Questo report mostra le pubblicazioni che hanno una copertina nel Cover Art Archive, ma che hanno ancora una relazione di copertina con una URL."
 
 #: ../root/report/cat_no_looks_like_asin.tt:6
 #, perl-format
@@ -9074,7 +9074,7 @@ msgid ""
 "This tracklist has artist credits with information that will be lost if you "
 "swap artist credits with track titles. This cannot be undone. Do you wish to"
 " continue?"
-msgstr ""
+msgstr "Questo elenco di tracce contiene accreditamenti artista con informazioni che saranno perse se inverti gli accreditamenti con i titoli di traccia. Quest'operazione non può essere annullata. Sei sicuro di voler continuare?"
 
 #: ../root/components/common-macros.tt:382
 #, perl-format
@@ -9092,7 +9092,7 @@ msgid ""
 "This will add a relationship to all checked recordings. If the relationship "
 "already exists on one of the recordings, the attributes will be merged into "
 "the existing one."
-msgstr ""
+msgstr "Quest'operazione aggiungerà una relazione a tutte le registrazioni selezionate. Se la relazione esiste già su una delle registrazioni, gli attributi saranno uniti con quella esistente."
 
 #: ../root/release/edit_relationships.tt:32
 #, perl-format
@@ -9100,14 +9100,14 @@ msgid ""
 "This will add a relationship to all checked works. If the relationship "
 "already exists on one of the works, the attributes will be merged into the "
 "existing one."
-msgstr ""
+msgstr "Quest'operazione aggiungerà una relazione a tutte le opere selezionate. Se la relazione esiste già su una delle opere, gli attributi saranno uniti con quella esistente."
 
 #: ../root/release/edit_relationships.tt:39
 #, perl-format
 msgid ""
 "This will create a new work for each checked recording that has no work "
 "already. The work names will be the same as their respective recording."
-msgstr ""
+msgstr "Quest'operazione creerà una nuova opera per ogni registrazione selezionata che non possiede già un'opera. I nomi delle opere saranno gli stessi delle rispettive registrazioni."
 
 #: ../root/release/merge_search.tt:4
 #, perl-format
@@ -9206,7 +9206,7 @@ msgstr "{url|Accedi} per sapere se puoi votare per questo candidato."
 #, perl-format
 msgid ""
 "To use these tools, select some recordings or works using the checkboxes."
-msgstr ""
+msgstr "Per utilizzare questi strumenti, seleziona alcune registrazioni o opere utilizzando le caselle di controllo."
 
 #: ../root/watch/list.tt:36
 #, perl-format
@@ -9224,7 +9224,7 @@ msgstr "A:"
 #: ../root/release/edit_relationships.tt:317
 #, perl-format
 msgid "Tools:"
-msgstr ""
+msgstr "Strumenti:"
 
 #: ../root/cdstub/browse.tt:1 ../root/cdstub/browse.tt:4
 #: ../root/layout/menu.tt:194
@@ -10696,7 +10696,7 @@ msgstr "dal {date} a oggi"
 #: ../root/release/edit_relationships.tt:109
 #, perl-format
 msgid "help"
-msgstr ""
+msgstr "guida"
 
 #: ../root/search/results-freedb.tt:27
 #, perl-format
