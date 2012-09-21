@@ -11,14 +11,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-09-20 06:21+0000\n"
+"PO-Revision-Date: 2012-07-15 20:30+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
-"Language-Team: Spanish (http://www.transifex.com/projects/p/musicbrainz/language/es/)\n"
+"Language-Team: Spanish (Castilian) (http://www.transifex.com/projects/p/musicbrainz/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: ENCODING\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: DB:statistic_event/description:2006-08-15
 msgid "A rift in the MusicBrainz community leads to a Great Dispute."
@@ -462,7 +462,7 @@ msgstr ""
 msgid "100%"
 msgstr "100%"
 
-#: ../root/statistics/index.tt:619
+#: ../root/statistics/index.tt:615
 #, perl-format
 msgid "Abstain:"
 msgstr ""
@@ -487,7 +487,7 @@ msgstr "Usuarios activos"
 msgid "Active Voters"
 msgstr "Votantes activos"
 
-#: ../root/statistics/timeline.tt:77
+#: ../root/statistics/timeline.tt:75
 #, perl-format
 msgid "Add/remove lines:"
 msgstr ""
@@ -527,14 +527,19 @@ msgstr ""
 msgid "Applied edits"
 msgstr ""
 
-#: ../root/statistics/index.tt:537
+#: ../root/statistics/index.tt:533
 #, perl-format
 msgid "Applied:"
 msgstr ""
 
-#: ../root/statistics/index.tt:601
+#: ../root/statistics/index.tt:597
 #, perl-format
 msgid "Approve:"
+msgstr ""
+
+#: ../root/statistics/relationships.tt:3
+#, perl-format
+msgid "Artist"
 msgstr ""
 
 #: ../root/statistics/view_js.tt:28
@@ -572,8 +577,8 @@ msgstr ""
 msgid "Artist Types and Genders"
 msgstr ""
 
-#: ../root/statistics/countries.tt:35 ../root/statistics/index.tt:112
-#: ../root/statistics/index.tt:116 ../root/statistics/view_js.tt:43
+#: ../root/statistics/countries.tt:35 ../root/statistics/index.tt:108
+#: ../root/statistics/index.tt:112 ../root/statistics/view_js.tt:43
 #, perl-format
 msgid "Artists"
 msgstr "Artistas"
@@ -643,7 +648,7 @@ msgstr ""
 msgid "Artists with type unset"
 msgstr ""
 
-#: ../root/statistics/index.tt:16 ../root/statistics/index.tt:119
+#: ../root/statistics/index.tt:16 ../root/statistics/index.tt:115
 #, perl-format
 msgid "Artists:"
 msgstr "Artistas:"
@@ -653,7 +658,7 @@ msgstr "Artistas:"
 msgid "Barcodes"
 msgstr ""
 
-#: ../root/statistics/index.tt:102
+#: ../root/statistics/index.tt:98
 #, perl-format
 msgid "Barcodes:"
 msgstr "Códigos de barras:"
@@ -688,7 +693,7 @@ msgstr ""
 msgid "By Release Type"
 msgstr ""
 
-#: ../root/statistics/index.tt:61
+#: ../root/statistics/index.tt:57
 #, perl-format
 msgid "CD Stubs (all time / current):"
 msgstr ""
@@ -713,22 +718,22 @@ msgstr ""
 msgid "Cancelled edits"
 msgstr ""
 
-#: ../root/statistics/index.tt:567
+#: ../root/statistics/index.tt:563
 #, perl-format
 msgid "Cancelled:"
 msgstr "Canceladas:"
 
-#: ../root/statistics/timeline.tt:77
+#: ../root/statistics/timeline.tt:75
 #, perl-format
 msgid "Check boxes above"
 msgstr ""
 
-#: ../root/statistics/timeline.tt:76
+#: ../root/statistics/timeline.tt:74
 #, perl-format
 msgid "Click to deselect"
 msgstr ""
 
-#: ../root/statistics/timeline.tt:73
+#: ../root/statistics/timeline.tt:71
 #, perl-format
 msgid "Controls"
 msgstr ""
@@ -1114,42 +1119,37 @@ msgstr "País"
 msgid "Cover Art"
 msgstr "Portada"
 
-#: ../root/statistics/index.tt:265
+#: ../root/statistics/index.tt:261
 #, perl-format
 msgid "Data Quality"
 msgstr ""
 
-#: ../root/statistics/layout.tt:24 ../root/statistics/layout.tt:38
+#: ../root/statistics/layout.tt:21 ../root/statistics/layout.tt:35
 #, perl-format
 msgid "Database Statistics"
 msgstr "Estadísticas de la base de datos"
-
-#: ../root/statistics/layout.tt:16
-#, perl-format
-msgid "Database Statistics - {title}"
-msgstr ""
 
 #: ../root/statistics/view_js.tt:151
 #, perl-format
 msgid "Default Data Quality"
 msgstr ""
 
-#: ../root/statistics/index.tt:280
+#: ../root/statistics/index.tt:276
 #, perl-format
 msgid "Default Data Quality:"
 msgstr ""
 
-#: ../root/statistics/index.tt:307 ../root/statistics/view_js.tt:123
+#: ../root/statistics/index.tt:303 ../root/statistics/view_js.tt:123
 #, perl-format
 msgid "Disc IDs"
 msgstr "IDs de disco"
 
-#: ../root/statistics/index.tt:98 ../root/statistics/index.tt:310
+#: ../root/statistics/index.tt:94 ../root/statistics/index.tt:306
 #, perl-format
 msgid "Disc IDs:"
 msgstr "IDs de disco"
 
-#: ../root/statistics/timeline.tt:75
+#: ../root/statistics/timeline.tt:73
 #, perl-format
 msgid "Draw a rectangle on either graph"
 msgstr ""
@@ -1159,30 +1159,30 @@ msgstr ""
 msgid "Edit Information"
 msgstr ""
 
-#: ../root/statistics/editors.tt:39 ../root/statistics/editors.tt:40
+#: ../root/statistics/editors.tt:13 ../root/statistics/editors.tt:33
 #, perl-format
 msgid "Editor"
 msgstr ""
 
-#: ../root/statistics/editors.tt:2 ../root/statistics/editors.tt:38
-#: ../root/statistics/index.tt:492 ../root/statistics/layout.tt:5
+#: ../root/statistics/editors.tt:1 ../root/statistics/editors.tt:7
+#: ../root/statistics/index.tt:488 ../root/statistics/layout.tt:5
 #: ../root/statistics/view_js.tt:73
 #, perl-format
 msgid "Editors"
 msgstr ""
 
-#: ../root/statistics/index.tt:488
+#: ../root/statistics/index.tt:484
 #, perl-format
 msgid "Editors, Edits, and Votes"
 msgstr ""
 
-#: ../root/statistics/index.tt:53 ../root/statistics/index.tt:495
+#: ../root/statistics/index.tt:49 ../root/statistics/index.tt:491
 #, perl-format
 msgid "Editors:"
 msgstr ""
 
 #: ../root/statistics/edits.tt:2 ../root/statistics/edits.tt:9
-#: ../root/statistics/index.tt:522 ../root/statistics/layout.tt:5
+#: ../root/statistics/index.tt:518 ../root/statistics/layout.tt:5
 #: ../root/statistics/view_js.tt:51
 #, perl-format
 msgid "Edits"
@@ -1203,8 +1203,8 @@ msgstr ""
 msgid "Edits per week"
 msgstr ""
 
-#: ../root/statistics/edits.tt:13 ../root/statistics/index.tt:525
-#: ../root/statistics/index.tt:572
+#: ../root/statistics/edits.tt:13 ../root/statistics/index.tt:521
+#: ../root/statistics/index.tt:568
 #, perl-format
 msgid "Edits:"
 msgstr ""
@@ -1224,27 +1224,27 @@ msgstr ""
 msgid "Evalnochange edits"
 msgstr ""
 
-#: ../root/statistics/timeline.tt:87
+#: ../root/statistics/timeline.tt:85
 #, perl-format
 msgid "Exact Values (items vs. day)"
 msgstr ""
 
-#: ../root/statistics/relationships.tt:27
+#: ../root/statistics/relationships.tt:37
 #, perl-format
 msgid "Exclusive"
 msgstr ""
 
-#: ../root/statistics/index.tt:549
+#: ../root/statistics/index.tt:545
 #, perl-format
 msgid "Failed (dependency):"
 msgstr ""
 
-#: ../root/statistics/index.tt:561
+#: ../root/statistics/index.tt:557
 #, perl-format
 msgid "Failed (internal error):"
 msgstr ""
 
-#: ../root/statistics/index.tt:555
+#: ../root/statistics/index.tt:551
 #, perl-format
 msgid "Failed (prerequisite):"
 msgstr ""
@@ -1269,12 +1269,12 @@ msgstr ""
 msgid "Female Artists"
 msgstr ""
 
-#: ../root/statistics/index.tt:172
+#: ../root/statistics/index.tt:168
 #, perl-format
 msgid "Female:"
 msgstr ""
 
-#: ../root/statistics/editors.tt:34
+#: ../root/statistics/editors.tt:3
 #, perl-format
 msgid ""
 "For the vote statistics, only yes or no votes are counted, abstain votes are"
@@ -1301,12 +1301,12 @@ msgstr ""
 msgid "High Data Quality"
 msgstr ""
 
-#: ../root/statistics/index.tt:274
+#: ../root/statistics/index.tt:270
 #, perl-format
 msgid "High Data Quality:"
 msgstr ""
 
-#: ../root/statistics/timeline.tt:78
+#: ../root/statistics/timeline.tt:76
 #, perl-format
 msgid "Hover and click on vertical lines"
 msgstr ""
@@ -1316,7 +1316,7 @@ msgstr ""
 msgid "IPIs"
 msgstr ""
 
-#: ../root/statistics/index.tt:106
+#: ../root/statistics/index.tt:102
 #, perl-format
 msgid "IPIs:"
 msgstr ""
@@ -1326,7 +1326,7 @@ msgstr ""
 msgid "ISRCs"
 msgstr "ISRCs"
 
-#: ../root/statistics/index.tt:90
+#: ../root/statistics/index.tt:86
 #, perl-format
 msgid "ISRCs (all / unique):"
 msgstr ""
@@ -1341,7 +1341,7 @@ msgstr ""
 msgid "ISWCs"
 msgstr ""
 
-#: ../root/statistics/index.tt:94
+#: ../root/statistics/index.tt:90
 #, perl-format
 msgid "ISWCs (all / unique):"
 msgstr ""
@@ -1351,14 +1351,19 @@ msgstr ""
 msgid "ISWCs (all)"
 msgstr ""
 
-#: ../root/statistics/index.tt:83
+#: ../root/statistics/index.tt:79
 #, perl-format
 msgid "Identifiers"
 msgstr ""
 
-#: ../root/statistics/relationships.tt:27
+#: ../root/statistics/relationships.tt:37
 #, perl-format
 msgid "Inclusive"
+msgstr ""
+
+#: ../root/statistics/relationships.tt:3
+#, perl-format
+msgid "Label"
 msgstr ""
 
 #: ../root/statistics/view_js.tt:29
@@ -1421,21 +1426,20 @@ msgstr ""
 msgid "Languages/Scripts"
 msgstr ""
 
-#: ../root/statistics/index.tt:578 ../root/statistics/index.tt:630
+#: ../root/statistics/index.tt:574 ../root/statistics/index.tt:626
 #, perl-format
 msgid "Last Week:"
 msgstr ""
 
 #: ../root/statistics/countries.tt:28 ../root/statistics/coverart.tt:10
-#: ../root/statistics/editors.tt:32 ../root/statistics/edits.tt:7
-#: ../root/statistics/formats.tt:21 ../root/statistics/index.tt:7
-#: ../root/statistics/languages_scripts.tt:41
-#: ../root/statistics/relationships.tt:21
+#: ../root/statistics/edits.tt:7 ../root/statistics/formats.tt:21
+#: ../root/statistics/index.tt:7 ../root/statistics/languages_scripts.tt:41
+#: ../root/statistics/relationships.tt:31
 #, perl-format
 msgid "Last updated: {date}"
 msgstr "Última actualización: {date}"
 
-#: ../root/statistics/timeline.tt:62
+#: ../root/statistics/timeline.tt:60
 #, perl-format
 msgid "Legend"
 msgstr ""
@@ -1445,7 +1449,7 @@ msgstr ""
 msgid "Low Data Quality"
 msgstr ""
 
-#: ../root/statistics/index.tt:300
+#: ../root/statistics/index.tt:296
 #, perl-format
 msgid "Low Data Quality:"
 msgstr ""
@@ -1455,7 +1459,7 @@ msgstr ""
 msgid "Male Artists"
 msgstr ""
 
-#: ../root/statistics/index.tt:166
+#: ../root/statistics/index.tt:162
 #, perl-format
 msgid "Male:"
 msgstr ""
@@ -1477,12 +1481,12 @@ msgstr[1] ""
 msgid "Mediums with Disc IDs"
 msgstr ""
 
-#: ../root/statistics/index.tt:360
+#: ../root/statistics/index.tt:356
 #, perl-format
 msgid "Mediums with at least one disc ID:"
 msgstr ""
 
-#: ../root/statistics/index.tt:354
+#: ../root/statistics/index.tt:350
 #, perl-format
 msgid "Mediums with no disc IDs:"
 msgstr ""
@@ -1492,27 +1496,27 @@ msgstr ""
 msgid "Mediums with no format set"
 msgstr ""
 
-#: ../root/statistics/index.tt:28 ../root/statistics/index.tt:348
+#: ../root/statistics/index.tt:28 ../root/statistics/index.tt:344
 #, perl-format
 msgid "Mediums:"
 msgstr ""
 
-#: ../root/statistics/editors.tt:39
+#: ../root/statistics/editors.tt:8
 #, perl-format
 msgid "Most active editors in the past week"
 msgstr ""
 
-#: ../root/statistics/editors.tt:45
+#: ../root/statistics/editors.tt:51
 #, perl-format
 msgid "Most active voters in the past week"
 msgstr ""
 
-#: ../root/statistics/timeline.tt:66
+#: ../root/statistics/timeline.tt:64
 #, perl-format
 msgid "MusicBrainz Events"
 msgstr ""
 
-#: ../root/statistics/timeline.tt:78
+#: ../root/statistics/timeline.tt:76
 #, perl-format
 msgid "MusicBrainz Events:"
 msgstr ""
@@ -1527,7 +1531,7 @@ msgstr ""
 msgid "No format"
 msgstr ""
 
-#: ../root/statistics/index.tt:258
+#: ../root/statistics/index.tt:254
 #, perl-format
 msgid "No packaging set"
 msgstr ""
@@ -1537,7 +1541,7 @@ msgstr ""
 msgid "No status"
 msgstr ""
 
-#: ../root/statistics/index.tt:234
+#: ../root/statistics/index.tt:230
 #, perl-format
 msgid "No status set"
 msgstr ""
@@ -1547,12 +1551,12 @@ msgstr ""
 msgid "No type"
 msgstr ""
 
-#: ../root/statistics/index.tt:613
+#: ../root/statistics/index.tt:609
 #, perl-format
 msgid "No:"
 msgstr "No:"
 
-#: ../root/statistics/index.tt:160
+#: ../root/statistics/index.tt:156
 #, perl-format
 msgid "Non-group artists:"
 msgstr ""
@@ -1562,7 +1566,7 @@ msgstr ""
 msgid "Normal Data Quality"
 msgstr ""
 
-#: ../root/statistics/index.tt:287
+#: ../root/statistics/index.tt:283
 #, perl-format
 msgid "Normal Data Quality:"
 msgstr ""
@@ -1572,12 +1576,12 @@ msgstr ""
 msgid "Open Edits"
 msgstr "Ediciones abiertas"
 
-#: ../root/statistics/editors.tt:39
+#: ../root/statistics/editors.tt:14
 #, perl-format
 msgid "Open and applied edits in past week"
 msgstr ""
 
-#: ../root/statistics/index.tt:531
+#: ../root/statistics/index.tt:527
 #, perl-format
 msgid "Open:"
 msgstr ""
@@ -1587,12 +1591,12 @@ msgstr ""
 msgid "Other"
 msgstr ""
 
-#: ../root/statistics/index.tt:50
+#: ../root/statistics/index.tt:46
 #, perl-format
 msgid "Other Entities"
 msgstr ""
 
-#: ../root/statistics/index.tt:178
+#: ../root/statistics/index.tt:174
 #, perl-format
 msgid "Other gender:"
 msgstr ""
@@ -1612,7 +1616,7 @@ msgstr ""
 msgid "Overview"
 msgstr "Resumen"
 
-#: ../root/statistics/index.tt:459 ../root/statistics/view_js.tt:133
+#: ../root/statistics/index.tt:455 ../root/statistics/view_js.tt:133
 #, perl-format
 msgid "PUIDs"
 msgstr "PUIDs"
@@ -1622,17 +1626,17 @@ msgstr "PUIDs"
 msgid "PUIDs (IDs)"
 msgstr ""
 
-#: ../root/statistics/index.tt:86
+#: ../root/statistics/index.tt:82
 #, perl-format
 msgid "PUIDs (all / unique):"
 msgstr ""
 
-#: ../root/statistics/index.tt:467
+#: ../root/statistics/index.tt:463
 #, perl-format
 msgid "PUIDs (distinct IDs):"
 msgstr "PUIDs (IDs distintas):"
 
-#: ../root/statistics/index.tt:462
+#: ../root/statistics/index.tt:458
 #, perl-format
 msgid "PUIDs (on recordings):"
 msgstr "PUIDs (en grabaciones):"
@@ -1669,24 +1673,26 @@ msgstr ""
 msgid "Pieces of cover art:"
 msgstr ""
 
-#: ../root/statistics/index.tt:387
+#: ../root/statistics/index.tt:383
 #, perl-format
 msgid "Primary Types"
 msgstr ""
 
-#: ../root/statistics/countries.tt:33 ../root/statistics/editors.tt:11
-#: ../root/statistics/formats.tt:27 ../root/statistics/languages_scripts.tt:49
+#: ../root/statistics/countries.tt:33 ../root/statistics/editors.tt:12
+#: ../root/statistics/editors.tt:32 ../root/statistics/editors.tt:55
+#: ../root/statistics/editors.tt:75 ../root/statistics/formats.tt:27
+#: ../root/statistics/languages_scripts.tt:49
 #: ../root/statistics/languages_scripts.tt:70
 #, perl-format
 msgid "Rank"
 msgstr ""
 
-#: ../root/statistics/timeline.tt:89
+#: ../root/statistics/timeline.tt:87
 #, perl-format
 msgid "Rate of Change (average items/day vs. day)"
 msgstr ""
 
-#: ../root/statistics/timeline.tt:70
+#: ../root/statistics/timeline.tt:68
 #, perl-format
 msgid "Rate of Change Graph"
 msgstr ""
@@ -1696,7 +1702,7 @@ msgstr ""
 msgid "Ratings"
 msgstr "Valoraciones"
 
-#: ../root/statistics/index.tt:73
+#: ../root/statistics/index.tt:69
 #, perl-format
 msgid "Ratings (raw / aggregated):"
 msgstr ""
@@ -1709,6 +1715,11 @@ msgstr ""
 #: ../root/statistics/view_js.tt:36
 #, perl-format
 msgid "Ratings and Tags"
+msgstr ""
+
+#: ../root/statistics/relationships.tt:3
+#, perl-format
+msgid "Recording"
 msgstr ""
 
 #: ../root/statistics/view_js.tt:160
@@ -1726,12 +1737,12 @@ msgstr ""
 msgid "Recording Tags (raw)"
 msgstr ""
 
-#: ../root/statistics/index.tt:425 ../root/statistics/view_js.tt:44
+#: ../root/statistics/index.tt:421 ../root/statistics/view_js.tt:44
 #, perl-format
 msgid "Recordings"
 msgstr "Grabaciones"
 
-#: ../root/statistics/index.tt:421
+#: ../root/statistics/index.tt:417
 #, perl-format
 msgid "Recordings and PUIDs"
 msgstr ""
@@ -1760,32 +1771,37 @@ msgstr ""
 msgid "Recordings with PUIDs"
 msgstr ""
 
-#: ../root/statistics/index.tt:438
+#: ../root/statistics/index.tt:434
 #, perl-format
 msgid "Recordings with at least one PUID:"
 msgstr "Grabaciones con al menos una PUID:"
 
-#: ../root/statistics/index.tt:433
+#: ../root/statistics/index.tt:429
 #, perl-format
 msgid "Recordings with no PUIDs:"
 msgstr "Grabaciones sin PUIDs:"
 
-#: ../root/statistics/index.tt:32 ../root/statistics/index.tt:428
+#: ../root/statistics/index.tt:32 ../root/statistics/index.tt:424
 #, perl-format
 msgid "Recordings:"
 msgstr "Grabaciones:"
 
-#: ../root/statistics/layout.tt:5 ../root/statistics/relationships.tt:16
-#: ../root/statistics/relationships.tt:23 ../root/statistics/view_js.tt:34
+#: ../root/statistics/layout.tt:5 ../root/statistics/relationships.tt:26
+#: ../root/statistics/relationships.tt:33 ../root/statistics/view_js.tt:34
 #: ../root/statistics/view_js.tt:179
 #, perl-format
 msgid "Relationships"
 msgstr "Relaciones"
 
-#: ../root/statistics/index.tt:57 ../root/statistics/relationships.tt:30
+#: ../root/statistics/index.tt:53 ../root/statistics/relationships.tt:40
 #, perl-format
 msgid "Relationships:"
 msgstr "Relaciones:"
+
+#: ../root/statistics/relationships.tt:3
+#, perl-format
+msgid "Release"
+msgstr ""
 
 #: ../root/statistics/view_js.tt:30
 #, perl-format
@@ -1795,6 +1811,11 @@ msgstr ""
 #: ../root/statistics/view_js.tt:35
 #, perl-format
 msgid "Release Data Quality"
+msgstr ""
+
+#: ../root/statistics/relationships.tt:3
+#, perl-format
+msgid "Release Group"
 msgstr ""
 
 #: ../root/statistics/view_js.tt:161
@@ -1812,7 +1833,7 @@ msgstr ""
 msgid "Release Group Tags (raw)"
 msgstr ""
 
-#: ../root/statistics/index.tt:383 ../root/statistics/view_js.tt:48
+#: ../root/statistics/index.tt:379 ../root/statistics/view_js.tt:48
 #, perl-format
 msgid "Release Groups"
 msgstr "Grupos de publicaciones"
@@ -1824,8 +1845,8 @@ msgid_plural "Release Groups with {n} Releases"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../root/statistics/index.tt:20 ../root/statistics/index.tt:390
-#: ../root/statistics/index.tt:406
+#: ../root/statistics/index.tt:20 ../root/statistics/index.tt:386
+#: ../root/statistics/index.tt:402
 #, perl-format
 msgid "Release Groups:"
 msgstr ""
@@ -1835,7 +1856,7 @@ msgstr ""
 msgid "Release Languages"
 msgstr ""
 
-#: ../root/statistics/index.tt:241
+#: ../root/statistics/index.tt:237
 #, perl-format
 msgid "Release Packaging"
 msgstr ""
@@ -1845,7 +1866,7 @@ msgstr ""
 msgid "Release Scripts"
 msgstr ""
 
-#: ../root/statistics/index.tt:217
+#: ../root/statistics/index.tt:213
 #, perl-format
 msgid "Release Status"
 msgstr ""
@@ -1861,7 +1882,7 @@ msgid "Release/Medium Formats"
 msgstr ""
 
 #: ../root/statistics/countries.tt:36 ../root/statistics/coverart.tt:28
-#: ../root/statistics/formats.tt:29 ../root/statistics/index.tt:195
+#: ../root/statistics/formats.tt:29 ../root/statistics/index.tt:191
 #: ../root/statistics/languages_scripts.tt:51
 #: ../root/statistics/languages_scripts.tt:72 ../root/statistics/view_js.tt:47
 #, perl-format
@@ -1900,7 +1921,7 @@ msgstr ""
 msgid "Releases with a no-format medium"
 msgstr ""
 
-#: ../root/statistics/index.tt:327
+#: ../root/statistics/index.tt:323
 #, perl-format
 msgid "Releases with at least one disc ID:"
 msgstr "Publicaciones con al menos una ID de disco:"
@@ -1917,7 +1938,7 @@ msgstr ""
 msgid "Releases with no country set"
 msgstr ""
 
-#: ../root/statistics/index.tt:321
+#: ../root/statistics/index.tt:317
 #, perl-format
 msgid "Releases with no disc IDs:"
 msgstr "Publicaciones sin IDs de disco:"
@@ -1932,19 +1953,19 @@ msgstr ""
 msgid "Releases with no script set"
 msgstr ""
 
-#: ../root/statistics/index.tt:191
+#: ../root/statistics/index.tt:187
 #, perl-format
 msgid "Releases, Data Quality, and Disc IDs"
 msgstr ""
 
-#: ../root/statistics/index.tt:24 ../root/statistics/index.tt:198
-#: ../root/statistics/index.tt:220 ../root/statistics/index.tt:244
-#: ../root/statistics/index.tt:268 ../root/statistics/index.tt:315
+#: ../root/statistics/index.tt:24 ../root/statistics/index.tt:194
+#: ../root/statistics/index.tt:216 ../root/statistics/index.tt:240
+#: ../root/statistics/index.tt:264 ../root/statistics/index.tt:311
 #, perl-format
 msgid "Releases:"
 msgstr "Publicaciones:"
 
-#: ../root/statistics/timeline.tt:76
+#: ../root/statistics/timeline.tt:74
 #, perl-format
 msgid "Reset:"
 msgstr ""
@@ -1959,12 +1980,12 @@ msgstr ""
 msgid "Scripts"
 msgstr ""
 
-#: ../root/statistics/index.tt:403
+#: ../root/statistics/index.tt:399
 #, perl-format
 msgid "Secondary Types"
 msgstr ""
 
-#: ../root/statistics/index.tt:65
+#: ../root/statistics/index.tt:61
 #, perl-format
 msgid "Tags (raw / aggregated):"
 msgstr ""
@@ -1974,17 +1995,12 @@ msgstr ""
 msgid "Tags (raw)"
 msgstr ""
 
-#: ../root/statistics/editors.tt:19
-#, perl-format
-msgid "There is no data to display here."
-msgstr ""
-
 #: ../root/statistics/layout.tt:5
 #, perl-format
 msgid "Timeline"
 msgstr ""
 
-#: ../root/statistics/timeline.tt:85
+#: ../root/statistics/timeline.tt:83
 #, perl-format
 msgid "Timeline Graph"
 msgstr ""
@@ -1994,12 +2010,12 @@ msgstr ""
 msgid "To-be-cancelled edits"
 msgstr ""
 
-#: ../root/statistics/editors.tt:40
+#: ../root/statistics/editors.tt:28
 #, perl-format
 msgid "Top editors overall"
 msgstr ""
 
-#: ../root/statistics/editors.tt:46
+#: ../root/statistics/editors.tt:71
 #, perl-format
 msgid "Top voters overall"
 msgstr ""
@@ -2010,12 +2026,12 @@ msgstr ""
 msgid "Total"
 msgstr ""
 
-#: ../root/statistics/editors.tt:40
+#: ../root/statistics/editors.tt:34
 #, perl-format
 msgid "Total applied edits"
 msgstr ""
 
-#: ../root/statistics/editors.tt:46
+#: ../root/statistics/editors.tt:77
 #, perl-format
 msgid "Total votes"
 msgstr ""
@@ -2025,9 +2041,9 @@ msgstr ""
 msgid "Tracks"
 msgstr "Pistas"
 
-#: ../root/statistics/index.tt:44
+#: ../root/statistics/relationships.tt:3
 #, perl-format
-msgid "URLs:"
+msgid "URL"
 msgstr ""
 
 #: ../root/statistics/countries.tt:16 ../root/statistics/view_js.tt:78
@@ -2041,7 +2057,7 @@ msgstr ""
 msgid "Unknown Data Quality"
 msgstr ""
 
-#: ../root/statistics/index.tt:294
+#: ../root/statistics/index.tt:290
 #, perl-format
 msgid "Unknown Data Quality:"
 msgstr ""
@@ -2091,27 +2107,27 @@ msgstr ""
 msgid "Unknown-type Artists"
 msgstr ""
 
-#: ../root/statistics/index.tt:543
+#: ../root/statistics/index.tt:539
 #, perl-format
 msgid "Voted down:"
 msgstr ""
 
-#: ../root/statistics/editors.tt:45 ../root/statistics/editors.tt:46
+#: ../root/statistics/editors.tt:56 ../root/statistics/editors.tt:76
 #, perl-format
 msgid "Voter"
 msgstr ""
 
-#: ../root/statistics/editors.tt:44
+#: ../root/statistics/editors.tt:50
 #, perl-format
 msgid "Voters"
 msgstr ""
 
-#: ../root/statistics/index.tt:592 ../root/statistics/view_js.tt:65
+#: ../root/statistics/index.tt:588 ../root/statistics/view_js.tt:65
 #, perl-format
 msgid "Votes"
 msgstr "Votos"
 
-#: ../root/statistics/editors.tt:45
+#: ../root/statistics/editors.tt:57
 #, perl-format
 msgid "Votes in past week"
 msgstr ""
@@ -2126,10 +2142,15 @@ msgstr ""
 msgid "Votes per week"
 msgstr ""
 
-#: ../root/statistics/index.tt:595 ../root/statistics/index.tt:624
+#: ../root/statistics/index.tt:591 ../root/statistics/index.tt:620
 #, perl-format
 msgid "Votes:"
 msgstr "Votos:"
+
+#: ../root/statistics/relationships.tt:3
+#, perl-format
+msgid "Work"
+msgstr ""
 
 #: ../root/statistics/view_js.tt:162
 #, perl-format
@@ -2161,32 +2182,32 @@ msgstr "Obras:"
 msgid "Yes Votes"
 msgstr ""
 
-#: ../root/statistics/index.tt:607
+#: ../root/statistics/index.tt:603
 #, perl-format
 msgid "Yes:"
 msgstr "Sí:"
 
-#: ../root/statistics/index.tt:585 ../root/statistics/index.tt:637
+#: ../root/statistics/index.tt:581 ../root/statistics/index.tt:633
 #, perl-format
 msgid "Yesterday:"
 msgstr ""
 
-#: ../root/statistics/timeline.tt:75
+#: ../root/statistics/timeline.tt:73
 #, perl-format
 msgid "Zoom:"
 msgstr ""
 
-#: ../root/statistics/index.tt:501
+#: ../root/statistics/index.tt:497
 #, perl-format
 msgid "active last week:"
 msgstr "activos la última semana:"
 
-#: ../root/statistics/index.tt:210
+#: ../root/statistics/index.tt:206
 #, perl-format
 msgid "by a single artist:"
 msgstr "de un solo artista:"
 
-#: ../root/statistics/index.tt:204
+#: ../root/statistics/index.tt:200
 #, perl-format
 msgid "by various artists:"
 msgstr "de varios artistas:"
@@ -2196,49 +2217,49 @@ msgstr "de varios artistas:"
 msgid "l_{first}_{second} Relationships"
 msgstr ""
 
-#: ../root/statistics/index.tt:131
+#: ../root/statistics/index.tt:127
 #, perl-format
 msgid "of type Group:"
 msgstr "de tipo Grupo:"
 
-#: ../root/statistics/index.tt:137
+#: ../root/statistics/index.tt:133
 #, perl-format
 msgid "of type Other:"
 msgstr "de tipo Otro:"
 
-#: ../root/statistics/index.tt:125
+#: ../root/statistics/index.tt:121
 #, perl-format
 msgid "of type Person:"
 msgstr "de tipo Persona:"
 
-#: ../root/statistics/index.tt:474
+#: ../root/statistics/index.tt:470
 #, perl-format
 msgid "which identify 1 recording:"
 msgid_plural "which identify {num} recordings:"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../root/statistics/index.tt:481
+#: ../root/statistics/index.tt:477
 #, perl-format
 msgid "which identify 10+ recordings:"
 msgstr ""
 
-#: ../root/statistics/index.tt:508
+#: ../root/statistics/index.tt:504
 #, perl-format
 msgid "who edited last week:"
 msgstr ""
 
-#: ../root/statistics/index.tt:515
+#: ../root/statistics/index.tt:511
 #, perl-format
 msgid "who voted last week:"
 msgstr "quién votó la última semana:"
 
-#: ../root/statistics/index.tt:452
+#: ../root/statistics/index.tt:448
 #, perl-format
 msgid "with 10 or more PUIDs:"
 msgstr "con 10 o más PUIDs:"
 
-#: ../root/statistics/index.tt:343 ../root/statistics/index.tt:376
+#: ../root/statistics/index.tt:339 ../root/statistics/index.tt:372
 #, perl-format
 msgid "with 10 or more disc IDs:"
 msgstr "con 10 o más IDs de disco:"
@@ -2248,34 +2269,34 @@ msgstr "con 10 o más IDs de disco:"
 msgid "with 30 or more pieces of cover art:"
 msgstr ""
 
-#: ../root/statistics/index.tt:149
+#: ../root/statistics/index.tt:145
 #, perl-format
 msgid "with appearances in artist credits:"
 msgstr ""
 
-#: ../root/statistics/index.tt:155
+#: ../root/statistics/index.tt:151
 #, perl-format
 msgid "with no appearances in artist credits:"
 msgstr ""
 
-#: ../root/statistics/index.tt:184
+#: ../root/statistics/index.tt:180
 #, perl-format
 msgid "with no gender set:"
 msgstr ""
 
-#: ../root/statistics/index.tt:143
+#: ../root/statistics/index.tt:139
 #, perl-format
 msgid "with no type set:"
 msgstr ""
 
-#: ../root/statistics/index.tt:445
+#: ../root/statistics/index.tt:441
 #, perl-format
 msgid "with {num} PUID:"
 msgid_plural "with {num} PUIDs:"
 msgstr[0] "con {num} PUID:"
 msgstr[1] "con {num} PUIDs:"
 
-#: ../root/statistics/index.tt:335 ../root/statistics/index.tt:368
+#: ../root/statistics/index.tt:331 ../root/statistics/index.tt:364
 #, perl-format
 msgid "with {num} disc ID:"
 msgid_plural "with {num} disc IDs:"
@@ -2324,35 +2345,35 @@ msgstr ""
 #: ../root/statistics/coverart.tt:98 ../root/statistics/coverart.tt:114
 #: ../root/statistics/coverart.tt:121 ../root/statistics/edits.tt:24
 #: ../root/statistics/formats.tt:9 ../root/statistics/formats.tt:11
-#: ../root/statistics/index.tt:127 ../root/statistics/index.tt:133
-#: ../root/statistics/index.tt:139 ../root/statistics/index.tt:145
-#: ../root/statistics/index.tt:151 ../root/statistics/index.tt:157
-#: ../root/statistics/index.tt:168 ../root/statistics/index.tt:174
-#: ../root/statistics/index.tt:180 ../root/statistics/index.tt:186
-#: ../root/statistics/index.tt:206 ../root/statistics/index.tt:212
-#: ../root/statistics/index.tt:229 ../root/statistics/index.tt:236
-#: ../root/statistics/index.tt:253 ../root/statistics/index.tt:260
-#: ../root/statistics/index.tt:276 ../root/statistics/index.tt:282
-#: ../root/statistics/index.tt:289 ../root/statistics/index.tt:296
-#: ../root/statistics/index.tt:302 ../root/statistics/index.tt:323
-#: ../root/statistics/index.tt:329 ../root/statistics/index.tt:337
-#: ../root/statistics/index.tt:345 ../root/statistics/index.tt:356
-#: ../root/statistics/index.tt:362 ../root/statistics/index.tt:370
-#: ../root/statistics/index.tt:378 ../root/statistics/index.tt:399
-#: ../root/statistics/index.tt:415 ../root/statistics/index.tt:435
-#: ../root/statistics/index.tt:440 ../root/statistics/index.tt:447
-#: ../root/statistics/index.tt:454 ../root/statistics/index.tt:476
-#: ../root/statistics/index.tt:483 ../root/statistics/index.tt:503
-#: ../root/statistics/index.tt:510 ../root/statistics/index.tt:517
-#: ../root/statistics/index.tt:533 ../root/statistics/index.tt:539
-#: ../root/statistics/index.tt:545 ../root/statistics/index.tt:551
-#: ../root/statistics/index.tt:557 ../root/statistics/index.tt:563
-#: ../root/statistics/index.tt:569 ../root/statistics/index.tt:580
-#: ../root/statistics/index.tt:587 ../root/statistics/index.tt:603
-#: ../root/statistics/index.tt:609 ../root/statistics/index.tt:615
-#: ../root/statistics/index.tt:621 ../root/statistics/index.tt:632
-#: ../root/statistics/index.tt:639 ../root/statistics/relationships.tt:9
-#: ../root/statistics/relationships.tt:42
+#: ../root/statistics/index.tt:123 ../root/statistics/index.tt:129
+#: ../root/statistics/index.tt:135 ../root/statistics/index.tt:141
+#: ../root/statistics/index.tt:147 ../root/statistics/index.tt:153
+#: ../root/statistics/index.tt:164 ../root/statistics/index.tt:170
+#: ../root/statistics/index.tt:176 ../root/statistics/index.tt:182
+#: ../root/statistics/index.tt:202 ../root/statistics/index.tt:208
+#: ../root/statistics/index.tt:225 ../root/statistics/index.tt:232
+#: ../root/statistics/index.tt:249 ../root/statistics/index.tt:256
+#: ../root/statistics/index.tt:272 ../root/statistics/index.tt:278
+#: ../root/statistics/index.tt:285 ../root/statistics/index.tt:292
+#: ../root/statistics/index.tt:298 ../root/statistics/index.tt:319
+#: ../root/statistics/index.tt:325 ../root/statistics/index.tt:333
+#: ../root/statistics/index.tt:341 ../root/statistics/index.tt:352
+#: ../root/statistics/index.tt:358 ../root/statistics/index.tt:366
+#: ../root/statistics/index.tt:374 ../root/statistics/index.tt:395
+#: ../root/statistics/index.tt:411 ../root/statistics/index.tt:431
+#: ../root/statistics/index.tt:436 ../root/statistics/index.tt:443
+#: ../root/statistics/index.tt:450 ../root/statistics/index.tt:472
+#: ../root/statistics/index.tt:479 ../root/statistics/index.tt:499
+#: ../root/statistics/index.tt:506 ../root/statistics/index.tt:513
+#: ../root/statistics/index.tt:529 ../root/statistics/index.tt:535
+#: ../root/statistics/index.tt:541 ../root/statistics/index.tt:547
+#: ../root/statistics/index.tt:553 ../root/statistics/index.tt:559
+#: ../root/statistics/index.tt:565 ../root/statistics/index.tt:576
+#: ../root/statistics/index.tt:583 ../root/statistics/index.tt:599
+#: ../root/statistics/index.tt:605 ../root/statistics/index.tt:611
+#: ../root/statistics/index.tt:617 ../root/statistics/index.tt:628
+#: ../root/statistics/index.tt:635 ../root/statistics/relationships.tt:19
+#: ../root/statistics/relationships.tt:52
 #, perl-format
 msgid "{n}%"
 msgstr "{n}%"
@@ -2362,12 +2383,12 @@ msgstr "{n}%"
 msgid "{script} releases"
 msgstr ""
 
-#: ../root/statistics/relationships.tt:37
+#: ../root/statistics/relationships.tt:47
 #, perl-format
 msgid "{type0}-{type1}"
 msgstr ""
 
-#: ../root/statistics/relationships.tt:40
+#: ../root/statistics/relationships.tt:50
 #, perl-format
 msgid "{type0}-{type1} relationships:"
 msgstr ""

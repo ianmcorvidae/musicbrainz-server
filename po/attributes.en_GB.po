@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-09-11 20:45+0000\n"
+"PO-Revision-Date: 2012-06-09 18:23+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
-"Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/musicbrainz/language/en_GB/)\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.net/projects/p/musicbrainz/language/en_GB/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: ENCODING\n"
 "Language: en_GB\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: DB:medium_format/name:30
 msgctxt "medium_format"
@@ -78,11 +78,6 @@ msgstr "Bootleg"
 msgctxt "label_type"
 msgid "Bootleg Production"
 msgstr "Bootleg Production"
-
-#: DB:release_group_primary_type/name:12
-msgctxt "release_group_primary_type"
-msgid "Broadcast"
-msgstr ""
 
 #: DB:medium_format/name:1
 msgctxt "medium_format"
@@ -299,8 +294,8 @@ msgctxt "artist_type"
 msgid "Other"
 msgstr "Other"
 
-#: DB:gender/name:3
-msgctxt "gender"
+#: DB:release_group_primary_type/name:11
+msgctxt "release_group_primary_type"
 msgid "Other"
 msgstr "Other"
 
@@ -309,13 +304,13 @@ msgctxt "medium_format"
 msgid "Other"
 msgstr "Other"
 
-#: DB:release_group_primary_type/name:11
-msgctxt "release_group_primary_type"
+#: DB:release_packaging/name:5
+msgctxt "release_packaging"
 msgid "Other"
 msgstr "Other"
 
-#: DB:release_packaging/name:5
-msgctxt "release_packaging"
+#: DB:gender/name:3
+msgctxt "gender"
 msgid "Other"
 msgstr "Other"
 
