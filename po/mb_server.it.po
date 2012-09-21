@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-19 17:30-0700\n"
-"PO-Revision-Date: 2012-09-20 23:56+0000\n"
+"PO-Revision-Date: 2012-09-21 01:57+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -1014,7 +1014,7 @@ msgstr "Si è verificato un errore: "
 #: ../root/release/edit_relationships.tt:225
 #, perl-format
 msgid "An error occurred while creating the work."
-msgstr ""
+msgstr "Si è verificato un errore durante la creazione dell'opera."
 
 #: ../root/annotation/common.tt:2 ../root/artist/annotation_revision.tt:1
 #: ../root/edit/details/historic/add_release_annotation.tt:13
@@ -2430,7 +2430,7 @@ msgstr "Crea un nuovo attributo di relazione"
 #: ../root/release/edit_relationships.tt:92
 #, perl-format
 msgid "Create a new work"
-msgstr ""
+msgstr "Crea una nuova opera"
 
 #: ../root/relationship/linktype/tree.tt:43
 #, perl-format
@@ -2460,7 +2460,7 @@ msgstr "Crea relazione con {other}"
 #: ../root/release/edit_relationships.tt:233
 #, perl-format
 msgid "Create work"
-msgstr ""
+msgstr "Crea opera"
 
 #: ../root/edit/search_macros.tt:284
 #, perl-format
@@ -3400,7 +3400,7 @@ msgstr "Errore durante l'annullamento della modifica"
 #: ../root/scripts/text_strings.tt:99
 #, perl-format
 msgid "Error loading relationships."
-msgstr ""
+msgstr "Errore nel caricamento delle relazioni."
 
 #: ../root/main/400.tt:8 ../root/main/404.tt:12 ../root/main/500.tt:37
 #, perl-format
@@ -6972,7 +6972,7 @@ msgstr "Richiesta di dati:"
 #: ../lib/MusicBrainz/Server/Form/RelationshipEditor.pm:162
 #, perl-format
 msgid "Required field."
-msgstr ""
+msgstr "Campo necessario."
 
 #: ../root/edit/info.tt:48
 #, perl-format
@@ -8101,7 +8101,7 @@ msgstr "Il database non ha tag."
 #: ../root/scripts/text_strings.tt:94
 #, perl-format
 msgid "The date you've entered is not valid."
-msgstr ""
+msgstr "La data che hai inserito non è valida."
 
 #: ../root/user/profile.tt:83
 #, perl-format
@@ -8242,7 +8242,7 @@ msgstr "Gli utenti rendono possibile l'esistenza di MusicBrainz: apprezziamo il 
 #: ../root/scripts/text_strings.tt:96
 #, perl-format
 msgid "The value you've entered is not valid."
-msgstr ""
+msgstr "Il valore che hai inserito non è valido."
 
 #: ../root/watch/list.tt:4
 #, perl-format
@@ -9167,7 +9167,7 @@ msgstr "Titolo:"
 msgid ""
 "To <span class=\"rel-edit\">edit</span> a relationship, click on its name "
 "(e.g. \"composer\")."
-msgstr ""
+msgstr "Per <span class=\"rel-edit\">modificare</span> una relazione, clicca sul suo nome (per es. \"compositore\")."
 
 #: ../root/edit/index.tt:63
 #, perl-format
@@ -9896,7 +9896,7 @@ msgid ""
 "Warning: This relationship has pending edits. <a target=\"_blank\" data-"
 "bind=\"attr: {href: relationship().openEdits}\">Click here</a> to view these"
 " edits and make sure they do not conflict with your own."
-msgstr ""
+msgstr "Attenzione: questa relazione ha delle modifiche in corso. <a target=\"_blank\" data-bind=\"attr: {href: relationship().openEdits}\">Clicca qui</a> per visualizzare queste modifiche e assicurarti che non siano in conflitto con la tua."
 
 #: ../root/watch/list.tt:1 ../root/watch/list.tt:2
 #, perl-format
@@ -10094,7 +10094,7 @@ msgstr "Dettagli dell'opera"
 #: ../root/release/edit_relationships.tt:177
 #, perl-format
 msgid "Work Name:"
-msgstr ""
+msgstr "Nome dell'opera:"
 
 #: ../root/work/not_found.tt:1 ../root/work/not_found.tt:2
 #, perl-format
@@ -10104,7 +10104,7 @@ msgstr "Opera non trovata"
 #: ../root/release/edit_relationships.tt:97
 #, perl-format
 msgid "Work Type:"
-msgstr ""
+msgstr "Tipo di opera:"
 
 #: ../root/work/layout.tt:9
 #, perl-format
@@ -11489,11 +11489,11 @@ msgstr "'{types}' non è una coppia di tipi valida per le relazioni."
 
 #: ../lib/MusicBrainz/Server/Controller/RelationshipEditor.pm:42
 msgid "There were errors in your submission. Please fix them and try again."
-msgstr ""
+msgstr "Ci sono degli errori nel tuo invio. Correggili e riprova."
 
 #: ../lib/MusicBrainz/Server/Controller/RelationshipEditor.pm:49
 msgid "Invalid submission."
-msgstr ""
+msgstr "Invio non valido."
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:311
 msgid "This release is already in the selected release group"
