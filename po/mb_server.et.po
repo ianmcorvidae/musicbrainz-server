@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-19 17:30-0700\n"
-"PO-Revision-Date: 2012-09-22 19:07+0000\n"
+"PO-Revision-Date: 2012-09-24 22:54+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -925,12 +925,12 @@ msgstr "Kõik minu toimetused"
 #: ../root/account/preferences.tt:32
 #, perl-format
 msgid "Allow other users to see my ratings"
-msgstr "Teised kasutajad tohivad näha mu hinnanguid"
+msgstr "Teised kasutajad tohivad näha mu antud hindeid"
 
 #: ../root/account/preferences.tt:30
 #, perl-format
 msgid "Allow other users to see my subscriptions"
-msgstr "Teised kasutajad tohivad näha mu tellimusi"
+msgstr "Teised kasutajad tohivad näha mu jälgimisi"
 
 #: ../root/account/preferences.tt:31
 #, perl-format
@@ -1336,7 +1336,7 @@ msgstr "Artisti ei leitud"
 #: ../root/user/subscriptions/artist.tt:1 ../root/user/subscriptions/menu.tt:3
 #, perl-format
 msgid "Artist Subscriptions"
-msgstr "Artistitellimused"
+msgstr "Jälgitavad artistid"
 
 #: ../root/components/forms.tt:265
 #, perl-format
@@ -1376,7 +1376,7 @@ msgstr "Artisti nimi:"
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Artist ratings"
-msgstr "Artisti hinnangud"
+msgstr "Artisti hinded"
 
 #: ../root/cdstub/edit_form.tt:18
 #, perl-format
@@ -1539,27 +1539,27 @@ msgstr "Atribuudid:"
 #: ../root/admin/edit_user.tt:7
 #, perl-format
 msgid "Auto-editor"
-msgstr "Isetoimetaja"
+msgstr "Vanemtoimetaja"
 
 #: ../root/layout/menu.tt:125
 #, perl-format
 msgid "Auto-editor Elections"
-msgstr "Isetoimetajate valimised"
+msgstr "Vanemtoimetajate valimised"
 
 #: ../root/elections/show.tt:1 ../root/elections/show.tt:3
 #, perl-format
 msgid "Auto-editor election #{no}"
-msgstr "Isetoimetaja valimine #{no}"
+msgstr "Vanemtoimetaja valimine #{no}"
 
 #: ../root/elections/index.tt:1 ../root/elections/index.tt:3
 #, perl-format
 msgid "Auto-editor elections"
-msgstr "Isetoimetajate valimised"
+msgstr "Vanemtoimetajate valimised"
 
 #: ../root/user/privileged.tt:18
 #, perl-format
 msgid "Auto-editors"
-msgstr "Isetoimetajad"
+msgstr "Vanemtoimetajad"
 
 #: ../root/user/privileged.tt:19
 #, perl-format
@@ -1568,22 +1568,22 @@ msgid ""
 "privileges. These privileges allow them to make select edits that are "
 "automatically approved without going through the normal voting process, as "
 "well as the ability to instantly approve other users' edits."
-msgstr "Isetoimetajad on usaldusväärsed kasutajad, kellele on antud {url|isetoimetaja} õigused. See võimaldab teatud nende toimetused rakendada kohe, ilma tavapärase hääletusprotsessita. Samuti saavad nad teiste kasutajate paljusid toimetusi ühe häälega heaks kiita."
+msgstr "Vanemtoimetajad on usaldusväärsed kasutajad, kellele on antud {url|vanemtoimetaja} õigused. See võimaldab teatud nende toimetused rakendada kohe, ilma tavapärase hääletusprotsessita. Samuti saavad nad teiste kasutajate paljusid toimetusi ühe häälega heaks kiita."
 
 #: ../root/user/profile.tt:152
 #, perl-format
 msgid "Auto-edits"
-msgstr "Isetoimetused"
+msgstr "Kohetoimetused"
 
 #: ../root/account/preferences.tt:50
 #, perl-format
 msgid "Automatically subscribe me to artists I create."
-msgstr "Lisatavate artistide automaatne tellimine"
+msgstr "Lisatavate artistide automaatne jälgimine"
 
 #: ../root/account/preferences.tt:52
 #, perl-format
 msgid "Automatically subscribe me to labels I create."
-msgstr "Lisatavate plaadifirmade automaatne tellimine"
+msgstr "Lisatavate plaadifirmade automaatne jälgimine"
 
 #: ../root/browse/page_selector.tt:54
 #, perl-format
@@ -1665,7 +1665,7 @@ msgstr "Korraga mitme uue teose lisamine"
 #: ../root/user/subscribers.tt:35
 #, perl-format
 msgid "Be the first! {sub|Subscribe}?"
-msgstr "Võid olla esimene! {sub|Tellid?}"
+msgstr "Võid olla esimene! {sub|Jälgid?}"
 
 #: ../root/annotation/edit.tt:60
 #, perl-format
@@ -2933,7 +2933,7 @@ msgstr "Profiili muutmine"
 #: ../root/recording/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Recording Annotation"
-msgstr ""
+msgstr "Salvestise annotatsiooni muutmine"
 
 #: ../root/edit/relationship/edit.tt:13 ../root/edit/relationship/edit.tt:15
 #, perl-format
@@ -2970,7 +2970,7 @@ msgstr "Seoste toimetamine: „{release}”"
 #: ../root/release/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Release Annotation"
-msgstr ""
+msgstr "Väljalaske annotatsiooni muutmine"
 
 #: ../root/release_group/edit.tt:21
 #, perl-format
@@ -2980,7 +2980,7 @@ msgstr "Väljalaskerühma toimetamine"
 #: ../root/release_group/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Release Group Annotation"
-msgstr ""
+msgstr "Väljalaskerühma annotatsiooni muutmine"
 
 #: ../root/doc/edit_types.tt:1 ../root/doc/edit_types.tt:3
 #: ../root/doc/edit_type.tt:17 ../root/edit/info.tt:59
@@ -3162,7 +3162,7 @@ msgstr "Toimetajat ei leitud"
 #: ../root/user/subscriptions/editor.tt:1 ../root/user/subscriptions/menu.tt:5
 #, perl-format
 msgid "Editor Subscriptions"
-msgstr "Toimetajatellimused"
+msgstr "Jälgitavad toimetajad"
 
 #: ../root/user/profile/layout.tt:1
 #, perl-format
@@ -3172,12 +3172,12 @@ msgstr "Toimetaja {user}"
 #: ../root/artist/subscribe.tt:2
 #, perl-format
 msgid "Editors Subscribed to this Artist"
-msgstr ""
+msgstr "Seda artisti jälgivad toimetajad"
 
 #: ../root/label/subscriptions.tt:2
 #, perl-format
 msgid "Editors subscribed to this Label"
-msgstr ""
+msgstr "Seda plaadifirmat jälgivad toimetajad"
 
 #: ../root/user/edits.tt:15
 #, perl-format
@@ -3192,17 +3192,17 @@ msgstr "Toimetused ({view_url|vaata})"
 #: ../root/edit/subscribed-editors.tt:15 ../root/edit/subscribed-editors.tt:17
 #, perl-format
 msgid "Edits By Your Subscribed Editors"
-msgstr "Sinu tellitud toimetajate toimetused"
+msgstr "Sinu jälgitavate kasutajate toimetused"
 
 #: ../root/edit/subscribed.tt:15 ../root/edit/subscribed.tt:17
 #, perl-format
 msgid "Edits For Your Subscribed Entities"
-msgstr "Toimetused sinu tellitud olemitel"
+msgstr "Toimetused sinu jälgitavatel olemitel"
 
 #: ../root/layout/menu.tt:72
 #, perl-format
 msgid "Edits by Subscribed Editors"
-msgstr "Tellitud toimetajate toimetused"
+msgstr "Jälgitavate kasutajate toimetused"
 
 #: ../root/user/edits.tt:16
 #, perl-format
@@ -3212,7 +3212,7 @@ msgstr "{name}: toimetused"
 #: ../root/layout/menu.tt:69
 #, perl-format
 msgid "Edits for Subscribed Entities"
-msgstr "Toimetused tellitud olemitel"
+msgstr "Toimetused jälgitavatel olemitel"
 
 #: ../root/label/edits.tt:17
 #, perl-format
@@ -3295,7 +3295,7 @@ msgstr "Vinüülplaatide loonumbrite lubamine"
 #: ../root/components/forms.tt:13
 #, perl-format
 msgid "Enable {autoed|auto-editor} privileges for this edit."
-msgstr "Kasutatakse {autoed|isetoimetaja} õigusi"
+msgstr "Toimetus {autoed|rakendatakse kohe}"
 
 #: ../root/cdtoc/info.tt:34 ../root/search/lib/inline-results-artist.tt:11
 #: ../root/search/results-label.tt:15
@@ -4267,7 +4267,7 @@ msgstr "Plaadifirmat ei leitud"
 #: ../root/user/subscriptions/label.tt:1 ../root/user/subscriptions/menu.tt:4
 #, perl-format
 msgid "Label Subscriptions"
-msgstr "Plaadifirmatellimused"
+msgstr "Jälgitavad plaadifirmad"
 
 #: ../root/edit/details/add_label.tt:60 ../root/edit/details/edit_label.tt:29
 #: ../root/label/edit_form.tt:40 ../root/label/layout.tt:38
@@ -4934,7 +4934,7 @@ msgstr "Minu lahtised toimetused"
 #: ../root/layout/menu.tt:57
 #, perl-format
 msgid "My Ratings"
-msgstr "Minu hinnangud"
+msgstr "Minu antud hinded"
 
 #: ../root/layout/menu.tt:60
 #, perl-format
@@ -5290,7 +5290,7 @@ msgstr "Tulemusi ei leitud. Proovi otsingupäringut täpsustada."
 #: ../root/user/subscriptions/subscriptions.tt:63
 #, perl-format
 msgid "No subscriptions."
-msgstr "Tellimusi pole."
+msgstr "Kedagi ega midagi ei jälgita."
 
 #: ../root/user/privileged.tt:9
 #, perl-format
@@ -6090,7 +6090,7 @@ msgstr[1] "Hinda: {rating} tärni"
 #: ../root/tracklist/index.tt:14 ../root/work/merge.tt:17
 #, perl-format
 msgid "Rating"
-msgstr "Hinnang"
+msgstr "Hinne"
 
 #: ../root/artist/ratings.tt:1 ../root/components/ratings.tt:1
 #: ../root/label/ratings.tt:1 ../root/recording/ratings.tt:1
@@ -6099,7 +6099,7 @@ msgstr "Hinnang"
 #: ../root/work/ratings.tt:1
 #, perl-format
 msgid "Ratings"
-msgstr "Hinnangud"
+msgstr "Hinded"
 
 #: ../root/main/index.tt:39
 #, perl-format
@@ -6196,7 +6196,7 @@ msgstr "Salvestised, millel on varaseima väljalaske seoseid"
 #: ../root/report/featuring_recordings.tt:3 ../root/report/index.tt:72
 #, perl-format
 msgid "Recordings with titles containing featuring artists"
-msgstr ""
+msgstr "Salvestised, millel on pealkirjas kaasa tegevad artistid"
 
 #: ../root/edit/details/edit_medium.tt:192
 #, perl-format
@@ -6479,7 +6479,7 @@ msgstr "Väljalaskerühma teave"
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Release group ratings"
-msgstr "Väljalaskerühma hinnangud"
+msgstr "Väljalaskerühma hinded"
 
 #: ../root/release/relationships.tt:4
 #, perl-format
@@ -6520,7 +6520,7 @@ msgstr "Väljalaskerühmad, mis võivad vajada mestimist"
 #: ../root/report/featuring_release_groups.tt:3 ../root/report/index.tt:36
 #, perl-format
 msgid "Release groups with titles containing featuring artists"
-msgstr ""
+msgstr "Väljalaskerühmad, millel on pealkirjas kaasa tegevad artistid"
 
 #: ../root/release/edit/information.tt:23 ../root/release/sidebar.tt:19
 #, perl-format
@@ -6686,7 +6686,7 @@ msgstr "Liigsete andmeradadega väljalasked"
 #: ../root/report/featuring_releases.tt:3 ../root/report/index.tt:56
 #, perl-format
 msgid "Releases with titles containing featuring artists"
-msgstr ""
+msgstr "Väljalasked, millel on pealkirjas kaasa tegevad artistid"
 
 #: ../root/report/tracks_with_sequence_issues.tt:1
 #: ../root/report/tracks_with_sequence_issues.tt:3
@@ -6922,7 +6922,7 @@ msgstr "Eemalda lugu"
 #: ../root/components/rating-macros.tt:1
 #, perl-format
 msgid "Remove your rating"
-msgstr "Eemalda oma hinnang"
+msgstr "Eemalda oma hinne"
 
 #: ../root/components/forms.tt:108 ../root/components/forms.tt:109
 #, perl-format
@@ -7262,7 +7262,7 @@ msgstr "Koopia mu enda e-posti aadressile"
 #: ../root/account/preferences.tt:45
 #, perl-format
 msgid "Send me mails with edits to my subscriptions:"
-msgstr "Kirju toimetustest mu tellimustele saadetakse:"
+msgstr "Kirju jälgimisloendile tehtud toimetustest saadetakse:"
 
 #: ../root/cdtoc/set_durations.tt:1 ../root/cdtoc/set_durations.tt:2
 #, perl-format
@@ -7293,12 +7293,12 @@ msgstr ""
 #: ../root/report/filter_link.tt:4
 #, perl-format
 msgid "Show all results."
-msgstr ""
+msgstr "Näita kõiki tulemusi."
 
 #: ../root/scripts/text_strings.tt:89
 #, perl-format
 msgid "Show less..."
-msgstr ""
+msgstr "Näita vähem..."
 
 #: ../root/edit/search_macros.tt:32
 #, perl-format
@@ -7310,7 +7310,7 @@ msgstr "Näita mulle {sort_select_block} {autoedit_select_block}, mis {match_or_
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
 msgid "Show more..."
-msgstr ""
+msgstr "Näita rohkem..."
 
 #: ../root/account/preferences.tt:33
 #, perl-format
@@ -7320,7 +7320,7 @@ msgstr "Minu Gravatar on nähtav"
 #: ../root/report/filter_link.tt:6
 #, perl-format
 msgid "Show only results that are in my subscribed entities."
-msgstr ""
+msgstr "Näita ainult mind huvitavaid tulemusi."
 
 #: ../root/artist/index.tt:118
 #, perl-format
@@ -7406,7 +7406,7 @@ msgstr ""
 msgid ""
 "Some tracks were changed, please select a recording for each of these "
 "tracks."
-msgstr ""
+msgstr "mõnda lugu muudeti, palun vali neile lugudele salvestis."
 
 #: ../root/cdstub/error.tt:11
 #, perl-format
@@ -7690,17 +7690,17 @@ msgstr "Nimi sortimisel:"
 #: ../root/artist/split.tt:15
 #, perl-format
 msgid "Split Artist"
-msgstr ""
+msgstr "Artistide eraldamine"
 
 #: ../root/artist/cannot_split.tt:2 ../root/artist/split.tt:20
 #, perl-format
 msgid "Split Into Separate Artists"
-msgstr "Mitmeks artistiks tükeldamine"
+msgstr "Mitmeks artistiks eraldamine"
 
 #: ../root/artist/layout.tt:85
 #, perl-format
 msgid "Split into separate artists"
-msgstr "Tükelda mitmeks artistiks"
+msgstr "Eralda mitmeks artistiks"
 
 #: ../root/layout/menu.tt:107
 #, perl-format
@@ -7785,32 +7785,32 @@ msgstr "Anna hääled &amp; lisa märked"
 #: ../root/artist/layout.tt:122 ../root/label/layout.tt:94
 #, perl-format
 msgid "Subscribe"
-msgstr "Telli"
+msgstr "Jälgi"
 
 #: ../root/label/subscriptions.tt:25
 #, perl-format
 msgid "Subscribe to this Label."
-msgstr ""
+msgstr "Jälgi seda plaadifirmat"
 
 #: ../root/artist/subscribe.tt:20
 #, perl-format
 msgid "Subscribe to this artist."
-msgstr ""
+msgstr "Jälgi seda artisti"
 
 #: ../root/artist/subscribe.tt:1 ../root/label/subscriptions.tt:1
 #, perl-format
 msgid "Subscribed Editors"
-msgstr "Tellitud toimetajad"
+msgstr "Jälgitavad toimetajad"
 
 #: ../root/edit/list_header.tt:19
 #, perl-format
 msgid "Subscribed editors"
-msgstr "Tellitud toimetajad"
+msgstr "Jälgitavad toimetajad"
 
 #: ../root/edit/list_header.tt:17
 #, perl-format
 msgid "Subscribed entities"
-msgstr "Tellitud olemid"
+msgstr "Jälgitavad olemid"
 
 #: ../root/artist/layout.tt:124 ../root/artist/subscribers.tt:1
 #: ../root/artist/subscribers.tt:2 ../root/label/layout.tt:96
@@ -7819,18 +7819,18 @@ msgstr "Tellitud olemid"
 #: ../root/user/subscribers.tt:2
 #, perl-format
 msgid "Subscribers"
-msgstr "Tellijad"
+msgstr "Jälgijad"
 
 #: ../root/user/profile.tt:97
 #, perl-format
 msgid "Subscribers:"
-msgstr "Tellijaid:"
+msgstr "Jälgijaid:"
 
 #: ../root/artist/layout.tt:116 ../root/label/layout.tt:88
 #: ../root/layout/menu.tt:43 ../root/user/profile/layout.tt:12
 #, perl-format
 msgid "Subscriptions"
-msgstr "Tellimused"
+msgstr "Jälgimisloend"
 
 #: ../root/release/edit/recordings.tt:77
 #, perl-format
@@ -8139,7 +8139,7 @@ msgstr ""
 #: ../root/user/privileged.tt:23
 #, perl-format
 msgid "The following {count} users have auto-editor privileges:"
-msgstr "Järgmisel {count} kasutajal on isetoimetusõigused:"
+msgstr "Järgmised {count} kasutajat on vanemtoimetajad:"
 
 #: ../root/layout.tt:92
 #, perl-format
@@ -8263,22 +8263,22 @@ msgstr "Hetkel pole MusicBrainzis ükski plaat antud andmetega seostatud. Võid 
 #: ../root/user/subscribers.tt:23
 #, perl-format
 msgid "There are currently no users subscribed to edits that you make."
-msgstr "Sinu toimetused pole hetkel ühegi kasutaja tellimustes."
+msgstr "Sinu toimetusi ei jälgi hetkel ükski kasutaja."
 
 #: ../root/user/subscribers.tt:25
 #, perl-format
 msgid "There are currently no users subscribed to edits that {user} makes."
-msgstr "{user} oma toimetustega pole hetkel ühegi kasutaja tellimustes."
+msgstr "Üksi kasutaja ei jälgi hetkel toimetusi, mida {user} teeb."
 
 #: ../root/artist/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {artist}."
-msgstr "{artist} pole hetkel ühegi kasutaja tellimustes."
+msgstr "{artist} pole hetkel ühegi kasutaja jälgimisloendis."
 
 #: ../root/label/subscribers.tt:22
 #, perl-format
 msgid "There are currently no users subscribed to {label}."
-msgstr "{label} pole hetkel ühegi kasutaja tellimustes."
+msgstr "{label} pole hetkel ühegi kasutaja jälgimisloendis."
 
 #: ../root/release/discids.tt:52
 #, perl-format
@@ -8288,7 +8288,7 @@ msgstr ""
 #: ../root/artist/subscribe.tt:11
 #, perl-format
 msgid "There are no editors currently subscribed to this artist."
-msgstr "Hetkel pole see artist ühegi kasutaja tellimustes."
+msgstr "Seda artisti ei jälgi hetkel ükski kasutaja."
 
 #: ../root/artist/split.tt:24
 #, perl-format
@@ -8303,7 +8303,7 @@ msgstr ""
 #: ../root/label/subscriptions.tt:11
 #, perl-format
 msgid "There are no users currently subscribed to this Label."
-msgstr "Hetkel pole see plaadifirma ühegi kasutaja tellimustes."
+msgstr "Seda plaadifirmat ei jälgi hetkel ükski kasutaja."
 
 #: ../root/edit/relationship/cannot_create.tt:3
 #, perl-format
@@ -8316,42 +8316,42 @@ msgstr "Hetkel pole {types0} ja {types1} vahel ühtki võimalikku seosetüüpi."
 #, perl-format
 msgid "There is also one anonymous subscriber."
 msgid_plural "There are also {num} anonymous subscribers."
-msgstr[0] "On ka üks anonüümne tellija."
-msgstr[1] "On ka {num} anonüümset tellijat."
+msgstr[0] "On ka üks anonüümne jälgija."
+msgstr[1] "On ka {num} anonüümset jälgijat."
 
 #: ../root/artist/subscribe.tt:15
 #, perl-format
 msgid "There is also {num} anonymous subscriber"
 msgid_plural "There are also {num} anonymous subscribers"
-msgstr[0] "On ka {num} anonüümne tellija"
-msgstr[1] "On ka {num} anonüümset tellijat"
+msgstr[0] "On ka {num} anonüümne jälgija"
+msgstr[1] "On ka {num} anonüümset jälgijat"
 
 #: ../root/user/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to edits that {user} makes:"
 msgid_plural ""
 "There are currently {num} users subscribed to edits that {user} makes:"
-msgstr[0] "{user} oma toimetustega on hetkel {num} kasutaja tellimustes:"
-msgstr[1] "{user} oma toimetustega on hetkel {num} kasutaja tellimustes:"
+msgstr[0] "Hetkel on {num} kasutaja, kes jälgib toimetusi, mida {user} teeb:"
+msgstr[1] "Hetkel on {num} kasutajat, kes jälgib toimetusi, mida {user} teeb:"
 
 #: ../root/artist/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {artist}:"
 msgid_plural "There are currently {num} users subscribed to {artist}:"
-msgstr[0] "{artist} on hetkel {num} kasutaja tellimustes:"
-msgstr[1] "{artist} on hetkel {num} kasutaja tellimustes:"
+msgstr[0] "{artist} on hetkel {num} kasutaja jälgimisloendis:"
+msgstr[1] "{artist} on hetkel {num} kasutaja jälgimisloendis:"
 
 #: ../root/label/subscribers.tt:4
 #, perl-format
 msgid "There is currently {num} user subscribed to {label}:"
 msgid_plural "There are currently {num} users subscribed to {label}:"
-msgstr[0] "{label} on hetkel {num} kasutaja tellimustes:"
-msgstr[1] "{label} on hetkel {num} kasutaja tellimustes:"
+msgstr[0] "{label} on hetkel {num} kasutaja jälgimisloendis:"
+msgstr[1] "{label} on hetkel {num} kasutaja jälgimisloendis:"
 
 #: ../root/search/editor-not-found.tt:4
 #, perl-format
 msgid "There is no editor with this name."
-msgstr ""
+msgstr "Selle nimega toimetajat pole."
 
 #: ../root/edit/cannot_approve.tt:3
 #, perl-format
@@ -8414,7 +8414,7 @@ msgid ""
 "This artist has no relationships, recordings, releases or release groups, "
 "and will be removed automatically in the next few days. If this is not "
 "intended, please add more data to this artist."
-msgstr ""
+msgstr "Sel artstil pole seoseid, salvestisi, väljalaskeid ega väljalaskerühmi, niisiis eemaldatakse see järgmise paari päeva jooksul automaatselt andmebaasist. Selle takistamiseks lisa palun artistile andmeid."
 
 #: ../root/artist/tags.tt:2
 #, perl-format
@@ -8427,7 +8427,7 @@ msgid ""
 "This artist has relationships other than collaboration relationships, and "
 "cannot be split until these are removed. {relationships|View all "
 "relationships}."
-msgstr "Sel artistil on muid seoseid peale koostöö ning enne nende eemaldamist seda tükeldada ei saa. {relationships|Vaata kõiki seoseid}."
+msgstr "Sel artistil on muid seoseid peale koostöö ning enne nende eemaldamist ei saa seda artisti mitmeks eraldada. {relationships|Vaata kõiki seoseid}."
 
 #: ../root/artist/works.tt:11
 #, perl-format
@@ -8613,7 +8613,7 @@ msgstr ""
 #: ../root/alias/edit_form.tt:14
 #, perl-format
 msgid "This is the primary alias for this locale"
-msgstr ""
+msgstr "See on antud lokaadis esmane alias"
 
 #: ../root/label/delete.tt:17
 #, perl-format
@@ -8625,7 +8625,7 @@ msgstr ""
 #: ../root/label/index.tt:12
 #, perl-format
 msgid "This label does not have any releases."
-msgstr ""
+msgstr "Sellel plaadifirmal pole ühtegi väljalaset."
 
 #: ../root/label/edit_form.tt:54
 #, perl-format
@@ -9580,17 +9580,17 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:57
 #, perl-format
 msgid "Unsubscribe"
-msgstr "Lõpeta tellimus"
+msgstr "Lõpeta jälgimine"
 
 #: ../root/label/subscriptions.tt:21
 #, perl-format
 msgid "Unsubscribe from this Label."
-msgstr ""
+msgstr "Lõpeta selle plaadifirma jälgimine"
 
 #: ../root/artist/subscribe.tt:18
 #, perl-format
 msgid "Unsubscribe from this artist."
-msgstr ""
+msgstr "Lõpeta selle artisti jälgimine"
 
 #: ../root/admin/edit_user.tt:13
 #, perl-format
@@ -9894,7 +9894,7 @@ msgid ""
 "Warning: This relationship has pending edits. <a target=\"_blank\" data-"
 "bind=\"attr: {href: relationship().openEdits}\">Click here</a> to view these"
 " edits and make sure they do not conflict with your own."
-msgstr ""
+msgstr "Hoiatus: sel seosel on ootel toimetusi. Nende nägemiseks <a target=\"_blank\" data-bind=\"attr: {href: relationship().openEdits}\">klõpsa siin</a> ja siis vaata, et nad poleks sinu tehtavaga vastuolus."
 
 #: ../root/watch/list.tt:1 ../root/watch/list.tt:2
 #, perl-format
@@ -10112,7 +10112,7 @@ msgstr "Teose teave"
 #: ../root/user/ratings.tt:3
 #, perl-format
 msgid "Work ratings"
-msgstr "Teose hinnangud"
+msgstr "Teose hinded"
 
 #: ../root/edit/details/edit_work.tt:23
 #, perl-format
@@ -10314,7 +10314,7 @@ msgstr "Sirvid andmebaasi 6 märgi pikkuse päringuga. Sellest detailsusastmest 
 #: ../root/user/subscribers.tt:32
 #, perl-format
 msgid "You are currently subscribed. {unsub|Unsubscribe}?"
-msgstr "Tellimus on hetkel aktiivne. {unsub|Lõpetad tellimuse?}"
+msgstr "Hetkel oled sa jälgijate hulgas. {unsub|Lõpetad jälgimise?}"
 
 #: ../root/watch/list.tt:7
 #, perl-format
@@ -10335,7 +10335,7 @@ msgstr ""
 #: ../root/user/subscribers.tt:38
 #, perl-format
 msgid "You are not currently subscribed. {sub|Subscribe}?"
-msgstr ""
+msgstr "Hetkel pole sa jälgijate hulgas. {sub|Hakkad jälgima}?"
 
 #: ../root/watch/list.tt:32
 #, perl-format
@@ -10392,7 +10392,7 @@ msgstr ""
 #, perl-format
 msgid ""
 "You cannot vote for this candidate, because you are not an auto-editor."
-msgstr "Sa ei saa seda kandidaati hääletada, kuna sa pole isetoimetaja."
+msgstr "Sa ei saa seda kandidaati hääletada, kuna sa pole vanemtoimetaja."
 
 #: ../root/elections/show.tt:81
 #, perl-format
@@ -10437,7 +10437,7 @@ msgstr ""
 msgid ""
 "You may enter an edit note while cancelling this edit. This can be useful to"
 " point editors to another edit."
-msgstr "Ühtlasi võid sisestada ka toimetusmärke. See võib olla kasulik toimetajate suunamiseks teise toimetuse juurde."
+msgstr "Ühtlasi võid sisestada ka toimetusmärke. See võib olla kasulik kasutajate suunamiseks teise toimetuse juurde."
 
 #: ../root/artist/special_purpose.tt:2
 #, perl-format
@@ -10602,7 +10602,7 @@ msgstr "artistide"
 #: ../root/edit/search_macros.tt:14
 #, perl-format
 msgid "auto-edits"
-msgstr "isetoimetusi"
+msgstr "kohetoimetusi"
 
 #: ../root/edit/edit_header.tt:50
 #, perl-format
@@ -10739,7 +10739,7 @@ msgstr "on vahemikus"
 #: ../root/edit/search_macros.tt:253
 #, perl-format
 msgid "is in my subscriptions"
-msgstr "on minu tellimustes"
+msgstr "on minu jälgimisloendis"
 
 #: ../root/edit/search_macros.tt:140
 #, perl-format
@@ -10804,7 +10804,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:14
 #, perl-format
 msgid "non-auto-edits"
-msgstr "mitte-isetoimetusi"
+msgstr "tavalisi toimetusi"
 
 #: ../root/relationship/linkattributetype/common.tt:19
 #, perl-format
@@ -10910,7 +10910,7 @@ msgstr "tühik"
 #: ../root/user/profile.tt:108
 #, perl-format
 msgid "subscribe"
-msgstr "telli"
+msgstr "jälgi"
 
 #: ../root/browse/page_selector.tt:37
 #, perl-format
@@ -10938,7 +10938,7 @@ msgstr "lugude"
 #: ../root/user/profile.tt:106
 #, perl-format
 msgid "unsubscribe"
-msgstr "lõpeta tellimus"
+msgstr "lõpeta jälgimine"
 
 #: ../root/scripts/text_strings.tt:116
 #, perl-format
@@ -11026,7 +11026,7 @@ msgstr[1] ""
 #: ../root/user/profile.tt:45
 #, perl-format
 msgid "{doc|Auto-Editor}"
-msgstr "{doc|Isetoimetaja}"
+msgstr "{doc|Vanemtoimetaja}"
 
 #: ../root/cdstub/index.tt:13
 #, perl-format
@@ -11046,7 +11046,7 @@ msgstr ""
 #: ../root/user/subscriptions/subscriptions.tt:12
 #, perl-format
 msgid "{editor} is subscribed to:"
-msgstr "{editor} on tellinud:"
+msgstr "{editor} jälgib:"
 
 #: ../root/edit/require_note.tt:4
 #, perl-format
@@ -11074,7 +11074,7 @@ msgstr ""
 #: ../root/components/ratings.tt:20
 #, perl-format
 msgid "{link} has no ratings."
-msgstr "{link} on ilma hinnanguteta."
+msgstr "{link} on ilma hinneteta."
 
 #: ../root/components/relationships.tt:69
 #, perl-format
@@ -11091,7 +11091,7 @@ msgstr "{mbid|<abbr title=\"MusicBrainzi identifikaator\">MBID</abbr>}:"
 #: ../root/release/edit/layout.tt:2
 #, perl-format
 msgid "{name} - Edit Release"
-msgstr ""
+msgstr "„{name}” - Väljalaske toimetamine"
 
 #: ../root/tag/entity-list.tt:10
 #, perl-format
@@ -11102,7 +11102,7 @@ msgstr "„{name}” — {artist}"
 #, perl-format
 msgid "{num} artist"
 msgid_plural "{num} artists"
-msgstr[0] "{num} artist"
+msgstr[0] "{num} artisti"
 msgstr[1] "{num} artisti"
 
 #: ../root/tag/artist.tt:1
@@ -11130,14 +11130,14 @@ msgstr[1] "{num}&nbsp;päeva"
 #, perl-format
 msgid "{num} editor"
 msgid_plural "{num} editors"
-msgstr[0] "{num} toimetaja"
+msgstr[0] "{num} toimetajat"
 msgstr[1] "{num} toimetajat"
 
 #: ../root/user/subscriptions/subscriptions.tt:25
 #, perl-format
 msgid "{num} label"
 msgid_plural "{num} labels"
-msgstr[0] "{num} plaadifirma"
+msgstr[0] "{num} plaadifirmat"
 msgstr[1] "{num} plaadifirmat"
 
 #: ../root/tag/label.tt:1
@@ -11876,7 +11876,7 @@ msgstr "Rakendatud"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:249
 msgid "Failed vote"
-msgstr "Põrus hääletusel"
+msgstr "Mahahääletatud"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:250
 msgid "Failed dependency"
