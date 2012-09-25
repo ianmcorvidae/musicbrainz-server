@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-19 17:30-0700\n"
-"PO-Revision-Date: 2012-09-24 22:54+0000\n"
+"PO-Revision-Date: 2012-09-24 23:56+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -1311,7 +1311,7 @@ msgstr ""
 #: ../root/artist/aliases.tt:8 ../root/artist/edit_form.tt:59
 #, perl-format
 msgid "Artist Credits"
-msgstr ""
+msgstr "Nimekujud"
 
 #: ../root/edit/details/add_medium.tt:43
 #, perl-format
@@ -2146,7 +2146,7 @@ msgstr "Vali fail:"
 #: ../root/release/cover_art_fields.tt:6
 #, perl-format
 msgid "Choose one or more cover art types for this image"
-msgstr ""
+msgstr "Vali, mis tüüpi kaanepilt see on."
 
 #: ../root/scripts/text_strings.tt:80
 #, perl-format
@@ -2870,47 +2870,47 @@ msgstr "Muuda annotatsiooni"
 #: ../root/artist/edit.tt:17
 #, perl-format
 msgid "Edit Artist"
-msgstr ""
+msgstr "Artisti toimetamine"
 
 #: ../root/artist/edit_alias.tt:12
 #, perl-format
 msgid "Edit Artist Alias"
-msgstr ""
+msgstr "Artisti aliase muutmine"
 
 #: ../root/artist/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Artist Annotation"
-msgstr ""
+msgstr "Artisti annotatsiooni muutmine"
 
 #: ../root/artist/edit_credit.tt:15 ../root/artist/edit_credit.tt:20
 #, perl-format
 msgid "Edit Artist Credit"
-msgstr ""
+msgstr "Nimekuju muutmine"
 
 #: ../root/collection/edit.tt:1
 #, perl-format
 msgid "Edit Collection"
-msgstr ""
+msgstr "Kogu muutmine"
 
 #: ../root/release/edit_cover_art.tt:5 ../root/release/edit_cover_art.tt:6
 #, perl-format
 msgid "Edit Cover Art"
-msgstr ""
+msgstr "Kaanepildi muutmine"
 
 #: ../root/layout/menu.tt:85
 #, perl-format
 msgid "Edit Instrument Tree"
-msgstr "Muuda instrumendipuud"
+msgstr "Instrumendipuu muutmine"
 
 #: ../root/label/edit.tt:15
 #, perl-format
 msgid "Edit Label"
-msgstr ""
+msgstr "Plaadifirma toimetamine"
 
 #: ../root/label/edit_alias.tt:12
 #, perl-format
 msgid "Edit Label Alias"
-msgstr ""
+msgstr "Plaadifirma aliase muutmine"
 
 #: ../root/edit/not_found.tt:1 ../root/edit/not_found.tt:2
 #, perl-format
@@ -2944,23 +2944,23 @@ msgstr "Seose toimetamine"
 #: ../root/relationship/linkattributetype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Attribute"
-msgstr ""
+msgstr "Seoseatribuudi muutmine"
 
 #: ../root/admin/index.tt:7
 #, perl-format
 msgid "Edit Relationship Attributes"
-msgstr ""
+msgstr "Seoseatribuutide muutmine"
 
 #: ../root/relationship/linktype/edit.tt:1
 #: ../root/relationship/linktype/edit.tt:3
 #, perl-format
 msgid "Edit Relationship Type"
-msgstr ""
+msgstr "Seosetüübi muutmine"
 
 #: ../root/admin/index.tt:6 ../root/layout/menu.tt:82
 #, perl-format
 msgid "Edit Relationship Types"
-msgstr "Muuda seosetüüpe"
+msgstr "Seosetüüpide muutmine"
 
 #: ../root/release/edit_relationships.tt:303
 #, perl-format
@@ -3008,17 +3008,17 @@ msgstr "Teose toimetamine"
 #: ../root/work/edit_alias.tt:12
 #, perl-format
 msgid "Edit Work Alias"
-msgstr ""
+msgstr "Teose aliase muutmine"
 
 #: ../root/work/edit_annotation.tt:1
 #, perl-format
 msgid "Edit Work Annotation"
-msgstr ""
+msgstr "Teose annotatsiooni muutmine"
 
 #: ../root/components/common-macros.tt:744
 #, perl-format
 msgid "Edit annotation"
-msgstr ""
+msgstr "Muuda annotatsiooni"
 
 #: ../root/artist/edit_alias.tt:13
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditAlias.pm:12
@@ -3034,7 +3034,7 @@ msgstr "Artisti annotatsiooni muutmine"
 #: ../root/edit/edit_header.tt:96
 #, perl-format
 msgid "Edit by {editor}"
-msgstr ""
+msgstr "Toimetas {editor}"
 
 #: ../root/label/edit_alias.tt:13
 #: ../lib/MusicBrainz/Server/Edit/Label/EditAlias.pm:12
@@ -3758,7 +3758,7 @@ msgstr "Abi:"
 #: ../root/release/index.tt:12
 #, perl-format
 msgid "Hide Credits"
-msgstr ""
+msgstr "Peida seosed"
 
 #: ../root/components/common-macros.tt:529
 #: ../lib/MusicBrainz/Server/Controller/Edit.pm:182
@@ -5025,19 +5025,19 @@ msgstr "Uus artist"
 #: ../root/artist/edit_credit.tt:32 ../root/artist/split.tt:49
 #, perl-format
 msgid "New Artist Credit"
-msgstr ""
+msgstr "Uus artisti nimekuju"
 
 #: ../root/relationship/linkattributetype/create.tt:1
 #: ../root/relationship/linkattributetype/create.tt:3
 #, perl-format
 msgid "New Relationship Attribute"
-msgstr ""
+msgstr "Uus seoseatribuut"
 
 #: ../root/relationship/linktype/create.tt:1
 #: ../root/relationship/linktype/create.tt:3
 #, perl-format
 msgid "New Relationship Type"
-msgstr ""
+msgstr "Uus seosetüüp"
 
 #: ../root/edit/details/historic/merge_releases.tt:14
 #, perl-format
@@ -5872,7 +5872,7 @@ msgstr ""
 msgid ""
 "Please select the artist credits that you want to rename to follow the new "
 "artist name."
-msgstr ""
+msgstr "Palun vali nimekujud, mis peaks artisti uut nime järgima."
 
 #: ../root/cdtoc/attach_artist_releases.tt:26
 #, perl-format
@@ -7288,7 +7288,7 @@ msgstr ""
 #: ../root/release/index.tt:11
 #, perl-format
 msgid "Show Credits"
-msgstr ""
+msgstr "Näita seoseid"
 
 #: ../root/report/filter_link.tt:4
 #, perl-format
@@ -8572,7 +8572,7 @@ msgid ""
 "This form allows you to split {artist} into separate artists. When the edit "
 "is accepted, existing artist credits will be updated, and collaboration "
 "relationships will be removed"
-msgstr ""
+msgstr "Siin on võimalik {artist} mitmeks eri artistiks eraldada. Sisestatav toimetuse rakendamisel uuendatakse olemasolevad artisti nimekujud ning eemaldatakse koostööseosed."
 
 #: ../root/scripts/text_strings.tt:74
 #, perl-format
