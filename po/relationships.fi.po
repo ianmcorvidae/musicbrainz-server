@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-09-11 20:36+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-09-26 11:35+0000\n"
+"Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +28,7 @@ msgstr "Allmusic"
 #: DB:link_type/link_phrase:286 DB:link_type/reverse_link_phrase:283
 #: DB:link_type/reverse_link_phrase:284 DB:link_type/reverse_link_phrase:285
 msgid "Allmusic page for"
-msgstr ""
+msgstr "Allmusic-sivu"
 
 #: DB:link_type/link_phrase:190
 msgid "BBC Music"
@@ -171,11 +171,11 @@ msgstr "Discogs"
 #: DB:link_type/reverse_link_phrase:76 DB:link_type/reverse_link_phrase:180
 #: DB:link_type/reverse_link_phrase:217 DB:link_type/reverse_link_phrase:90
 msgid "Discogs page for"
-msgstr ""
+msgstr "Discogs-sivu"
 
 #: DB:link_attribute_type/name:545
 msgid "EP"
-msgstr ""
+msgstr "EP"
 
 #: DB:link_attribute_type/description:580
 msgid ""
@@ -1022,7 +1022,7 @@ msgstr "MusicMoz"
 
 #: DB:link_type/reverse_link_phrase:91 DB:link_type/reverse_link_phrase:181
 msgid "MusicMoz page for"
-msgstr ""
+msgstr "MusicMoz-sivu"
 
 #: DB:link_type/link_phrase:189 DB:link_type/link_phrase:215
 msgid "Myspace"
@@ -1030,7 +1030,7 @@ msgstr "Myspace"
 
 #: DB:link_type/reverse_link_phrase:189 DB:link_type/reverse_link_phrase:215
 msgid "Myspace page for"
-msgstr ""
+msgstr "Myspace-sivu"
 
 #: DB:link_attribute_type/description:246
 msgid "Other orchestra"
@@ -1196,7 +1196,7 @@ msgstr ""
 #: DB:link_attribute_type/description:582
 msgid ""
 "This attribute indicates that the streamable content is not audio but video."
-msgstr ""
+msgstr "Tämä ominaisuuden perusteella striimattavan sisällön kohteena on audion sijasta video."
 
 #: DB:link_attribute_type/description:425
 msgid ""
@@ -1705,7 +1705,7 @@ msgstr "VGMdb"
 #: DB:link_type/reverse_link_phrase:86 DB:link_type/reverse_link_phrase:191
 #: DB:link_type/reverse_link_phrase:210
 msgid "VGMdb page for"
-msgstr ""
+msgstr "VGMdb-sivu"
 
 #: DB:link_type/link_phrase:89 DB:link_type/link_phrase:179
 #: DB:link_type/link_phrase:216 DB:link_type/reverse_link_phrase:279
@@ -1715,11 +1715,11 @@ msgstr "Wikipedia"
 #: DB:link_type/link_phrase:279 DB:link_type/reverse_link_phrase:89
 #: DB:link_type/reverse_link_phrase:179 DB:link_type/reverse_link_phrase:216
 msgid "Wikipedia page for"
-msgstr ""
+msgstr "Wikipedia-sivu"
 
 #: DB:link_type/reverse_link_phrase:225 DB:link_type/reverse_link_phrase:193
 msgid "YouTube channel for"
-msgstr ""
+msgstr "Youtube-kanava"
 
 #: DB:link_type/link_phrase:225 DB:link_type/link_phrase:193
 msgid "YouTube channels"
@@ -1727,7 +1727,7 @@ msgstr "YouTube kanavat"
 
 #: DB:link_attribute_type/description:253
 msgid "a license used to release music under"
-msgstr ""
+msgstr "musiikin julkaisussa käytetty lisenssi"
 
 #: DB:link_attribute_type/name:1
 msgid "additional"
@@ -1819,7 +1819,7 @@ msgstr "bonus"
 #: DB:link_type/link_phrase:262 DB:link_type/reverse_link_phrase:23
 #: DB:link_type/reverse_link_phrase:134 DB:link_type/reverse_link_phrase:262
 msgid "booking"
-msgstr ""
+msgstr "paikanvaraus"
 
 #: DB:link_type/link_phrase:205 DB:link_type/reverse_link_phrase:205
 #: DB:link_type/short_link_phrase:205
@@ -1832,7 +1832,7 @@ msgstr "ladattavissa ilmaiseksi osoitteessa"
 
 #: DB:link_type/short_link_phrase:74 DB:link_type/short_link_phrase:254
 msgid "can be purchased for download at"
-msgstr "ostettavissa ladattavaksi osoiteessa"
+msgstr "ostettavissa ladattavaksi osoitteessa"
 
 #: DB:link_type/short_link_phrase:79
 msgid "can be purchased for mail-order at"
@@ -1906,7 +1906,7 @@ msgstr "sävellys"
 
 #: DB:link_type/short_link_phrase:261
 msgid "contains miscellaneous support from"
-msgstr ""
+msgstr "sekalaiset apuroolit"
 
 #: DB:link_type/short_link_phrase:83 DB:link_type/short_link_phrase:258
 msgid "contains samples from the IMDb entry at"
@@ -2091,7 +2091,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:73 DB:link_type/short_link_phrase:187
 #: DB:link_type/short_link_phrase:257
 msgid "get the music"
-msgstr ""
+msgstr "musiikin hankkiminen"
 
 #: DB:link_type/link_phrase:249 DB:link_type/reverse_link_phrase:249
 msgid "graphic design"
@@ -2123,7 +2123,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:77
 msgid "has Amazon ASIN"
-msgstr ""
+msgstr "Amazon ASIN"
 
 #: DB:link_type/short_link_phrase:190
 msgid "has a BBC Music page at"
@@ -2205,7 +2205,7 @@ msgstr ""
 #: DB:link_type/short_link_phrase:306 DB:link_type/short_link_phrase:222
 #: DB:link_type/short_link_phrase:188
 msgid "has a page in a database at"
-msgstr ""
+msgstr "on sivu tietokannassa"
 
 #: DB:link_type/short_link_phrase:173
 msgid "has a picture at"
@@ -2259,7 +2259,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:264
 msgid "has creative direction by"
-msgstr ""
+msgstr "taiteellinen johtaja"
 
 #: DB:link_type/short_link_phrase:248
 msgid "has design/illustration by"
@@ -2267,7 +2267,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:249
 msgid "has graphic design by"
-msgstr ""
+msgstr "graafinen suunnittelija"
 
 #: DB:link_type/short_link_phrase:211
 msgid "has its history presented at"
@@ -2295,7 +2295,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:65
 msgid "has tribute album(s)"
-msgstr ""
+msgstr "tribuutti albumi(t)"
 
 #: DB:link_type/short_link_phrase:250
 msgid "has {additional} photography by"
@@ -2494,11 +2494,11 @@ msgstr "linkkejä yhteistyökumppaneihin"
 
 #: DB:link_attribute_type/name:578
 msgid "live"
-msgstr ""
+msgstr "live"
 
 #: DB:link_type/link_phrase:17
 msgid "live performance of"
-msgstr ""
+msgstr "live-esiintyminen"
 
 #: DB:link_type/reverse_link_phrase:17
 msgid "live performances"
@@ -2528,7 +2528,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:111 DB:link_type/reverse_link_phrase:111
 msgid "married"
-msgstr ""
+msgstr "naimisissa"
 
 #: DB:link_type/link_phrase:232 DB:link_type/link_phrase:10
 msgid "mash-up of"
@@ -2638,7 +2638,7 @@ msgstr ""
 #: DB:link_type/reverse_link_phrase:287 DB:link_type/reverse_link_phrase:183
 #: DB:link_type/reverse_link_phrase:219
 msgid "official homepage for"
-msgstr ""
+msgstr "virallinen kotisivu"
 
 #: DB:link_type/link_phrase:287 DB:link_type/link_phrase:183
 #: DB:link_type/link_phrase:219
@@ -2732,7 +2732,7 @@ msgstr "performed {additional} {solo} {guest} {vocal} vocal on"
 
 #: DB:link_type/link_phrase:108 DB:link_type/short_link_phrase:108
 msgid "performs as"
-msgstr ""
+msgstr "esiintyy nimellä"
 
 #: DB:link_type/link_phrase:113 DB:link_type/reverse_link_phrase:113
 #: DB:link_type/short_link_phrase:113
@@ -2931,11 +2931,11 @@ msgstr ""
 
 #: DB:link_type/reverse_link_phrase:274
 msgid "score"
-msgstr ""
+msgstr "nuotit"
 
 #: DB:link_type/link_phrase:274
 msgid "score for"
-msgstr ""
+msgstr "nuotit"
 
 #: DB:link_type/link_phrase:110 DB:link_type/reverse_link_phrase:110
 msgid "siblings"
@@ -3028,11 +3028,11 @@ msgstr ""
 
 #: DB:link_type/link_phrase:65
 msgid "tribute albums"
-msgstr ""
+msgstr "tribuuttialbumit"
 
 #: DB:link_type/reverse_link_phrase:65
 msgid "tribute to"
-msgstr ""
+msgstr "tribuuttina"
 
 #: DB:link_attribute_type/name:582
 msgid "video"
@@ -3060,7 +3060,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:262
 msgid "was booked by"
-msgstr ""
+msgstr "paikanvaraaja"
 
 #: DB:link_type/short_link_phrase:252
 msgid "was published by"
@@ -3202,7 +3202,7 @@ msgstr ""
 #: DB:link_type/link_phrase:51 DB:link_type/link_phrase:156
 #: DB:link_type/short_link_phrase:51 DB:link_type/short_link_phrase:156
 msgid "{additional:additionally} {guest} {solo} performed"
-msgstr ""
+msgstr "{additional:lisäksi} {guest} {solo} esitti"
 
 #: DB:link_type/link_phrase:282 DB:link_type/link_phrase:158
 #: DB:link_type/link_phrase:41
@@ -3348,7 +3348,7 @@ msgstr "{additional} {guest} {solo} {instrument}"
 #: DB:link_type/link_phrase:60 DB:link_type/link_phrase:149
 #: DB:link_type/reverse_link_phrase:60 DB:link_type/reverse_link_phrase:149
 msgid "{additional} {guest} {solo} {vocal} vocals"
-msgstr "{additional} {guest} {solo} {vocal} vokaalit"
+msgstr "{additional} {guest} {solo} {vocal}vokaalit"
 
 #: DB:link_type/reverse_link_phrase:282 DB:link_type/reverse_link_phrase:158
 #: DB:link_type/reverse_link_phrase:41
@@ -3393,7 +3393,7 @@ msgstr "{additional} {translated:käännetty} libretto"
 
 #: DB:link_type/link_phrase:56 DB:link_type/link_phrase:165
 msgid "{additional} {translated} lyrics"
-msgstr ""
+msgstr "{additional} {translated} sanat"
 
 #: DB:link_type/reverse_link_phrase:294 DB:link_type/reverse_link_phrase:296
 #: DB:link_type/reverse_link_phrase:298
