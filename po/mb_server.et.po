@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-19 17:30-0700\n"
-"PO-Revision-Date: 2012-09-25 21:27+0000\n"
+"PO-Revision-Date: 2012-09-28 12:35+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -3362,7 +3362,7 @@ msgstr "Hääleta"
 msgid ""
 "Enter your email address below and we will send you an email with your "
 "MusicBrainz account information."
-msgstr ""
+msgstr "Sisesta allpool oma e-post ja sulle saadetakse kiri sinu MusicBrainzi kontoteabega."
 
 #: ../root/forms/edit-note.tt:5
 #, perl-format
@@ -3388,12 +3388,12 @@ msgstr "Viga"
 #: ../root/edit/require_note.tt:1 ../root/edit/require_note.tt:2
 #, perl-format
 msgid "Error Approving Edit"
-msgstr ""
+msgstr "Viga toimetuse heakskiitmisel"
 
 #: ../root/edit/cannot_cancel.tt:1 ../root/edit/cannot_cancel.tt:2
 #, perl-format
 msgid "Error Cancelling Edit"
-msgstr ""
+msgstr "Viga toimetuse tühistamisel"
 
 #: ../root/scripts/text_strings.tt:99
 #, perl-format
@@ -3504,7 +3504,7 @@ msgstr "Sõrmejäljed"
 msgid ""
 "For assistance in writing effective advanced search queries, read the "
 "{doc|syntax documentation}."
-msgstr ""
+msgstr "Tõhusate laiendatud päringute koostamiseks loe {doc|süntaksi dokumentatsiooni}."
 
 #: ../root/admin/delete_user.tt:16
 #, perl-format
@@ -3608,15 +3608,15 @@ msgstr[1] "Leiti vähemalt {n} toimetust"
 #, perl-format
 msgid "Found {n} result"
 msgid_plural "Found {n} results"
-msgstr[0] "Leiti {n} vastus"
-msgstr[1] "Leiti {n} vastust"
+msgstr[0] "Leiti {n} vaste"
+msgstr[1] "Leiti {n} vastet"
 
 #: ../root/components/with-pager.tt:7
 #, perl-format
 msgid "Found {n} result for \"{q}\""
 msgid_plural "Found {n} results for \"{q}\""
-msgstr[0] "Päringule „{q}” leiti {n} vastus."
-msgstr[1] "Päringule „{q}” leiti {n} vastust."
+msgstr[0] "Päringule „{q}” leiti {n} vaste."
+msgstr[1] "Päringule „{q}” leiti {n} vastet."
 
 #: ../root/components/common-macros.tt:757 ../root/label/layout.tt:14
 #: ../root/scripts/text_strings.tt:74
@@ -4517,13 +4517,13 @@ msgstr "Päringute arv:"
 #: ../root/account/lost_password.tt:3
 #, perl-format
 msgid "Lost Password"
-msgstr ""
+msgstr "Unustatud parool"
 
 #: ../root/account/lost_username_sent.tt:1 ../root/account/lost_username.tt:1
 #: ../root/account/lost_username.tt:3
 #, perl-format
 msgid "Lost Username"
-msgstr ""
+msgstr "Unustatud kasutajanimi"
 
 #: ../root/components/common-macros.tt:529
 #: ../lib/MusicBrainz/Server/Controller/Edit.pm:182
@@ -5446,7 +5446,7 @@ msgstr ""
 msgid ""
 "Only the user who created an edit can cancel it, either you did not create "
 "{edit} or perhaps it has already been closed."
-msgstr ""
+msgstr "Toimetuse saab tühistada ainult see toimetaja, kelle oma see on. {edit} pole kas sinu tehtud või siis on see juba suletud."
 
 #: ../root/release/edit_relationships.tt:44
 #: ../root/release/edit_relationships.tt:171
@@ -5459,7 +5459,7 @@ msgstr "Kasuta seda valikut ainult siis, kui oled soovitud teoseid tulutult otsi
 #: ../root/edit/cannot_approve.tt:10
 #, perl-format
 msgid "Only {doc|auto-editors} can approve an edit."
-msgstr ""
+msgstr "Ainult {doc|vanemtoimetajad} saavad toimetusi heaks kiita."
 
 #: ../root/edit/search_macros.tt:88
 #, perl-format
@@ -5522,7 +5522,7 @@ msgstr ""
 #: ../root/search/index.tt:16
 #, perl-format
 msgid "Other lookups"
-msgstr ""
+msgstr "Muud päringud"
 
 #: ../root/artist/index.tt:55
 #, perl-format
@@ -6985,7 +6985,7 @@ msgstr "Eeldused:"
 #: ../root/account/reset_password.tt:3 ../root/account/reset_password.tt:14
 #, perl-format
 msgid "Reset Password"
-msgstr ""
+msgstr "Lähtesta parool"
 
 #: ../root/release/edit/tracklist.tt:444 ../root/release/edit/tracklist.tt:445
 #, perl-format
@@ -7155,7 +7155,7 @@ msgid ""
 "Search indexes are updated every 3 hours. If you just added the content "
 "you're looking for and you can't find it here, go to {url|the search page} "
 "and select the \"direct database search\" option."
-msgstr ""
+msgstr "Otinguindekseid värskendatakse iga 3 tunni tagant. Kui siin ei kajastu hiljuti lisatud andmed, siis mine {url|otsingulehele} ja proovi valikut „Otsing otse andmebaasist”."
 
 #: ../root/search/form.tt:20
 #, perl-format
@@ -7252,7 +7252,7 @@ msgstr "Saada"
 #: ../root/user/contact.tt:3 ../lib/MusicBrainz/Server/Controller/User.pm:243
 #, perl-format
 msgid "Send Email"
-msgstr ""
+msgstr "Saada kiri"
 
 #: ../root/user/contact.tt:17
 #, perl-format
@@ -7446,7 +7446,7 @@ msgstr ""
 msgid ""
 "Sorry, but your query (<code>{query}</code>) could not be performed, due to "
 "an error which we are not quite able to identify."
-msgstr ""
+msgstr "Vabandust, aga sinu päringut „(<code>query</code>)” polnud võimalik teha, kuna ilmnes mingi arusaamatu viga."
 
 #: ../root/main/rate_limited.tt:4
 #, perl-format
@@ -7862,12 +7862,12 @@ msgstr "Silt"
 #: ../root/taglookup/index.tt:1 ../root/taglookup/index.tt:3
 #, perl-format
 msgid "Tag Lookup"
-msgstr ""
+msgstr "Sildipäring"
 
 #: ../root/taglookup/results.tt:1 ../root/taglookup/results.tt:3
 #, perl-format
 msgid "Tag Lookup Results"
-msgstr ""
+msgstr "Sildipäringu tulemused"
 
 #: ../root/tag/not_found.tt:1 ../root/tag/not_found.tt:2
 #, perl-format
@@ -7882,7 +7882,7 @@ msgstr "Muusika sildistamine"
 #: ../root/search/index.tt:14
 #, perl-format
 msgid "Tag lookup"
-msgstr ""
+msgstr "Sildipäring"
 
 #: ../root/release/sidebar.tt:65
 #, perl-format
@@ -8089,7 +8089,7 @@ msgstr ""
 msgid ""
 "The data you have submitted does not make any changes to the data already "
 "present."
-msgstr ""
+msgstr "Sisestatud andmed ei erine millegi poolest juba olemasolevatest andmetest."
 
 #: ../root/tag/cloud.tt:9
 #, perl-format
@@ -8109,12 +8109,12 @@ msgstr "Projekti alguspäevil"
 #: ../root/edit/cannot_approve.tt:6
 #, perl-format
 msgid "The edit has already been closed."
-msgstr ""
+msgstr "See toimetus on juba suletud."
 
 #: ../root/edit/cannot_approve.tt:8
 #, perl-format
 msgid "The edit has been cancelled."
-msgstr ""
+msgstr "See toimetus on tühistatud."
 
 #: ../root/scripts/text_strings.tt:95
 #, perl-format
@@ -8157,7 +8157,7 @@ msgstr "Enamik andmetest <strong>MusicBrainzi andmebaasis</strong> on kuulutatud
 #: ../root/main/403.tt:5
 #, perl-format
 msgid "The page you requested is private."
-msgstr ""
+msgstr "Soovitud leht ei ole avalik."
 
 #: ../root/release/edit/information.tt:200
 #, perl-format
@@ -8171,7 +8171,7 @@ msgstr "Selle välja eesmärk on hoida teavet, mis ei sobitu MusicBrainzi range 
 #: ../root/edit/cannot_approve.tt:12
 #, perl-format
 msgid "The reason for this was unknown."
-msgstr ""
+msgstr "Selle põhjus pole teada."
 
 #: ../root/release/merge.tt:140
 #, perl-format
@@ -8204,7 +8204,7 @@ msgstr ""
 #: ../root/layout.tt:111
 #, perl-format
 msgid "The server is temporary in read-only mode for database maintainance."
-msgstr ""
+msgstr "Server on hooldustööde tarvis ajutiselt kirjutuskaitstud režiimis."
 
 #: ../root/main/503.tt:5
 #, perl-format
@@ -8283,7 +8283,7 @@ msgstr "{label} pole hetkel ühegi kasutaja jälgimisloendis."
 #: ../root/release/discids.tt:52
 #, perl-format
 msgid "There are no disc IDs attached to this release."
-msgstr ""
+msgstr "Sellele väljalaskele pole plaadi-ID-sid omistatud."
 
 #: ../root/artist/subscribe.tt:11
 #, perl-format
@@ -8356,12 +8356,12 @@ msgstr "Selle nimega toimetajat pole."
 #: ../root/edit/cannot_approve.tt:3
 #, perl-format
 msgid "There was a problem approving {edit}."
-msgstr ""
+msgstr "{edit} heakskiitmine ei õnnestunud."
 
 #: ../root/edit/cannot_cancel.tt:3
 #, perl-format
 msgid "There was a problem cancelling {edit}."
-msgstr ""
+msgstr "{edit} tühistamine ei õnnestunud."
 
 #: ../root/release/edit/layout.tt:47
 #, perl-format
@@ -9697,7 +9697,7 @@ msgstr ""
 msgid ""
 "User accounts must be more than 2 weeks old, have a confirmed email address,"
 " and more than 10 accepted edits in order to vote on others' edits."
-msgstr ""
+msgstr "Teiste toimetuste hääletamiseks peab konto olema vähemalt 2 nädalat vana ja sel peab olema kinnitatud e-posti aadress ning üle 10 vastuvõetud toimetuse."
 
 #: ../root/admin/edit_user.tt:6
 #, perl-format
@@ -9754,7 +9754,7 @@ msgstr "Vaata kõiki seoseid"
 #: ../root/annotation/common.tt:21 ../root/components/common-macros.tt:750
 #, perl-format
 msgid "View annotation history"
-msgstr "Vaata annotateerimisajalugu"
+msgstr "Vaata annotatsiooniajalugu"
 
 #: ../root/annotation/diff.tt:19
 #, perl-format
@@ -10007,7 +10007,7 @@ msgid ""
 "We've sent you information about your MusicBrainz account. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr ""
+msgstr "Saatsime sulle sinu MusicBrainzi konto kohta kirja. Kui see kohale ei jõua või kui sisselogimine endiselt ei õnnestu, siis {link|võta ühendust}."
 
 #: ../root/account/lost_password_sent.tt:5
 #, perl-format
@@ -10015,7 +10015,7 @@ msgid ""
 "We've sent you instructions on how to reset your password. If you don't "
 "receive this email or still have problems logging in, please {link|contact "
 "us}."
-msgstr ""
+msgstr "Saatsime sulle juhised oma parooli lähtestamiseks. Kui kiri kohale ei jõua või kui sisselogimine endiselt ei õnnestu, siis {link|võta ühendust}."
 
 #: ../root/account/edit.tt:18 ../root/admin/edit_user.tt:33
 #, perl-format
@@ -11362,7 +11362,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:158
 msgid "There is no user with this username"
-msgstr ""
+msgstr "Sellenimelist kasutajat pole."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:162
 msgid "There is no user with this username and email"
@@ -11880,11 +11880,11 @@ msgstr "Mahahääletatud"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:250
 msgid "Failed dependency"
-msgstr ""
+msgstr "sõltuvus"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:252
 msgid "Failed prerequisite"
-msgstr ""
+msgstr "eeltingimus, eeldus"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:253
 msgid "No votes"
@@ -11893,7 +11893,7 @@ msgstr "Ilma häälteta"
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:254
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:103
 msgid "Cancelled"
-msgstr "Loobutud"
+msgstr "Tühistatud"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
@@ -11963,7 +11963,7 @@ msgstr "Keeldutud {date}"
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:94
 #, perl-brace-format
 msgid "Cancelled at {date}"
-msgstr "Loobutud {date}"
+msgstr "Tühistatud {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:100
 msgid "Voting open"
@@ -11996,7 +11996,7 @@ msgstr "Filtreeri salvestisi"
 
 #: ../lib/MusicBrainz/Server/Form/Alias.pm:104
 msgid "This alias can only be a primary alias if a locale is selected"
-msgstr ""
+msgstr "Alias saab esmane olla vaid siis, kui lokaat on määratud."
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:60
 msgid "Must be a valid barcode"
@@ -12016,38 +12016,38 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/DatePeriod.pm:46
 msgid "The end date must occur on or after the begin date"
-msgstr ""
+msgstr "Lõppkuupäev ei saa olla enne alguskuupäeva."
 
 #: ../lib/MusicBrainz/Server/Form/Field/DiscID.pm:12
 msgid "This is not a valid disc ID"
-msgstr ""
+msgstr "See pole kehtiv plaadi-ID."
 
 #: ../lib/MusicBrainz/Server/Form/Field/FreeDBID.pm:12
 msgid "This is not a valid FreeDB ID"
-msgstr ""
+msgstr "See pole kehtiv FreeDB ID."
 
 #: ../lib/MusicBrainz/Server/Form/Field/GID.pm:12
 msgid "This is not a valid MBID"
-msgstr ""
+msgstr "See pole kehtiv MBID."
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid ""
 "This is not a valid ISRC. If this code starts with \"TC\", it is a TuneCore "
 "ID, which should be put into the annotation instead."
-msgstr ""
+msgstr "See pole korrektne ISRC. Kui koodi alguses on „TC”, on see hoopis TuneCore’i ID, mis tuleks lisada hoopis annotatsiooni."
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:12
 #: ../lib/MusicBrainz/Server/Form/Field/ISWC.pm:16
 msgid "This is not a valid ISWC"
-msgstr ""
+msgstr "See pole korrektne ISWC."
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
-msgstr ""
+msgstr "Plaadifirma koodi pikkus peab olema 1 kuni 5 numbrit."
 
 #: ../lib/MusicBrainz/Server/Form/Field/Length.pm:31
 msgid "Not a valid time. Must be in the format MM:SS"
-msgstr ""
+msgstr "See pole korrektne pikkus. Õige vorming on „min:sek”."
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:21
 msgid "Enter a valid url e.g. \"http://google.com/\""
@@ -12071,7 +12071,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
-msgstr ""
+msgstr "Eraldiseisva salvestise lisamisel tuleb jätta toimetusmärge."
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:22
 msgid "Link type is required"
@@ -12097,7 +12097,7 @@ msgstr "Seda seost pole enam olemas."
 msgid ""
 "You must provide an edit note when adding a release. Even just a URL or "
 "something like “CD in hand” helps!"
-msgstr ""
+msgstr "Väljalaske lisamisel tuleb jätta toimetusmärge. Isegi lihtsalt internetiaadress või midagi nagu „CD siinsamas” on abiks!"
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:68
 msgid ""
@@ -12109,7 +12109,7 @@ msgstr ""
 msgid ""
 "You must select an existing release group. If you wish to move this release,\n"
 "           use the \"change release group\" action from the sidebar."
-msgstr ""
+msgstr "Pead valima olemasoleva väljalaskerühma. Kui soovid selle väljalaske teisaldada, vali külgribalt „Muuda väljalaskerühma”."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:60
 msgid "New tracklisting contains an empty track"
@@ -12145,7 +12145,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:156
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:198
 msgid "A tracklist is required"
-msgstr ""
+msgstr "Lugude nimekiri on kohustuslik."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:165
 #, perl-brace-format
@@ -12185,11 +12185,11 @@ msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:55
 msgid "Indexed search with advanced query syntax"
-msgstr ""
+msgstr "Indekseeritud otsing laiendatud päringusüntaksiga"
 
 #: ../lib/MusicBrainz/Server/Form/User/ChangePassword.pm:37
 msgid "The old password is incorrect"
-msgstr "Vana parool on vale"
+msgstr "Vana parool on vale."
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:22
 msgid "Invalid URL format"
