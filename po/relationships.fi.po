@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-09-26 11:35+0000\n"
+"PO-Revision-Date: 2012-09-28 21:05+0000\n"
 "Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -1034,7 +1034,7 @@ msgstr "Myspace-sivu"
 
 #: DB:link_attribute_type/description:246
 msgid "Other orchestra"
-msgstr "Muut orkesteri"
+msgstr "Muu orkesteri"
 
 #: DB:link_attribute_type/description:461
 msgid "Other vocalizations"
@@ -2371,7 +2371,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:278
 msgid "is a {partial} {live} {instrumental} {cover} recording of"
-msgstr "on {partial:osittainen} {live:live-}{instrumenta:instrumentaali-}{cover-}äänite"
+msgstr "on {partial:osittainen} {live:live-}{instrumenta:instrumentaali-}{cover-}äänite teoksesta"
 
 #: DB:link_type/short_link_phrase:15
 msgid "is a {translated} {parody} cover of"
@@ -2458,7 +2458,7 @@ msgstr "myöhemmät julkaisut"
 
 #: DB:link_type/link_phrase:241
 msgid "later {translated} {parody} versions"
-msgstr "myöhemmin {translated:käännetyt} {parody}versiot"
+msgstr "myöhemmät {translated:käännetyt} {parody:parodia}versiot"
 
 #: DB:link_attribute_type/name:4
 msgid "lead"
@@ -3381,7 +3381,7 @@ msgstr "{additional} {orchestra}orkesteri"
 #: DB:link_type/link_phrase:57 DB:link_type/reverse_link_phrase:57
 #: DB:link_type/reverse_link_phrase:169
 msgid "{additional} {translated:libretto translation|librettist}"
-msgstr "{additional} {translated:libreton kääntäjä|librettisti}"
+msgstr "{additional} {translated:libreton kääntäjä|libretisti}"
 
 #: DB:link_type/reverse_link_phrase:56 DB:link_type/reverse_link_phrase:165
 msgid "{additional} {translated:translator|lyricist}"
@@ -3422,7 +3422,7 @@ msgstr "{orchestra} orkesteri {additional:additionally} esitti"
 
 #: DB:link_type/link_phrase:278
 msgid "{partial} {live} {instrumental} {cover} recording of"
-msgstr "{partial:osittainen} {live-}{instrumental:instrumentaali-}{cover-}äänite"
+msgstr "{partial:osittainen} {live-}{instrumental:instrumentaali-}{cover-}äänite teoksesta"
 
 #: DB:link_type/reverse_link_phrase:278
 msgid "{partial} {live} {instrumental} {cover} recordings"
