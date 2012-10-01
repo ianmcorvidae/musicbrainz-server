@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-19 17:30-0700\n"
-"PO-Revision-Date: 2012-09-26 11:33+0000\n"
+"PO-Revision-Date: 2012-10-01 02:32+0000\n"
 "Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -782,7 +782,7 @@ msgstr "Lisää valitut teokset yhdistettäväksi"
 #: ../root/release/sidebar.tt:131
 #, perl-format
 msgid "Add to a new collection"
-msgstr ""
+msgstr "Lisää uuteen kokoelmaan"
 
 #: ../root/release/sidebar.tt:120
 #, perl-format
@@ -844,7 +844,7 @@ msgstr "Tarkempaa lisätietoa"
 #: ../root/release/edit/information.tt:115
 #, perl-format
 msgid "Additional information"
-msgstr ""
+msgstr "Lisätietoja"
 
 #: ../root/edit/details/add_isrcs.tt:10 ../root/edit/details/add_iswcs.tt:3
 #, perl-format
@@ -2491,7 +2491,7 @@ msgstr "Tiedon laatu:"
 #: ../root/layout/menu.tt:278
 #, perl-format
 msgid "Data Removal Policy"
-msgstr ""
+msgstr "Tietojenpoistamiskäytäntö"
 
 #: ../root/annotation/history.tt:9 ../root/artist/relationships.tt:13
 #: ../root/cdtoc/attach_artist_releases.tt:35
@@ -2725,13 +2725,13 @@ msgstr "Diskografia"
 #: ../root/report/discogs_links_with_multiple_artists.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Artists"
-msgstr ""
+msgstr "Discogs-osoitteet, jotka on liitetty useisiin artisteihin"
 
 #: ../root/report/discogs_links_with_multiple_labels.tt:1
 #: ../root/report/discogs_links_with_multiple_labels.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Labels"
-msgstr ""
+msgstr "Discogs-osoitteet, jotka on liitetty useisiin levymerkkeihin"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:1
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:3
@@ -2743,17 +2743,17 @@ msgstr "Discogs-linkit yhdistettyinä useisiin julkaisuryhmiin"
 #: ../root/report/discogs_links_with_multiple_releases.tt:3
 #, perl-format
 msgid "Discogs URLs Linked to Multiple Releases"
-msgstr ""
+msgstr "Discogs-osoitteet, jotka on liitetty useisiin julkaisuihin"
 
 #: ../root/report/index.tt:23
 #, perl-format
 msgid "Discogs URLs linked to multiple artists"
-msgstr ""
+msgstr "Discogs-osoitteet, jotka on liitetty useisiin artisteihin"
 
 #: ../root/report/index.tt:29
 #, perl-format
 msgid "Discogs URLs linked to multiple labels"
-msgstr ""
+msgstr "Discogs-osoitteet, jotka on liitetty useisiin levymerkkeihin"
 
 #: ../root/report/index.tt:37
 #, perl-format
@@ -2763,7 +2763,7 @@ msgstr "Discogs-linkit yhdistettyinä useisiin julkaisuryhmiin"
 #: ../root/report/index.tt:51
 #, perl-format
 msgid "Discogs URLs linked to multiple releases"
-msgstr ""
+msgstr "Discogs-osoitteet, jotka on liitetty useisiin julkaisuihin"
 
 #: ../root/report/separate_discs.tt:1 ../root/report/separate_discs.tt:3
 #, perl-format
@@ -2778,7 +2778,7 @@ msgstr "Erillisinä julkaisuna syötetyt levyt"
 #: ../root/components/common-macros.tt:761 ../root/scripts/text_strings.tt:74
 #, perl-format
 msgid "Dissolved:"
-msgstr ""
+msgstr "Lopetettu:"
 
 #: ../root/release/edit/duplicates.tt:40
 #, perl-format
@@ -3424,7 +3424,7 @@ msgstr "Virhe: Tuntematon tyyppi"
 #: ../root/forms/edit-note.tt:9
 #, perl-format
 msgid "Even just providing a URL or two is helpful!"
-msgstr "Pelkästään URL-osoitteen tai parinkin antaminen helpottaa!"
+msgstr "Pelkän URL-osoitteen antaminenkin helpottaa!"
 
 #: ../root/release/edit/tracklist.tt:173
 #, perl-format
@@ -3737,17 +3737,17 @@ msgstr "Arvaa lajittelunimi"
 #: ../root/release/edit/tracklist.tt:486
 #, perl-format
 msgid "Guess case"
-msgstr ""
+msgstr "Kirjoitusasu"
 
 #: ../root/release/edit/tracklist.tt:385
 #, perl-format
 msgid "Guess case disc title"
-msgstr ""
+msgstr "Kirjoitusasu nimelle"
 
 #: ../root/release/edit/tracklist.tt:333
 #, perl-format
 msgid "Guess case track"
-msgstr ""
+msgstr "Kirjoitusasu kappaleelle"
 
 #: ../root/annotation/edit.tt:43
 #, perl-format
@@ -4229,7 +4229,7 @@ msgstr "Pidä minut sisäänkirjautuneena."
 #: ../root/release/edit/tracklist.tt:479
 #, perl-format
 msgid "Keep uppercase words uppercased"
-msgstr ""
+msgstr "Säilytä isokirjaimiset sanat"
 
 #: ../root/cdtoc/attach_artist_releases.tt:37
 #: ../root/cdtoc/attach_filter_release.tt:51 ../root/cdtoc/list.tt:10
@@ -6183,7 +6183,7 @@ msgstr "Äänitteet"
 #: ../root/artist/browse_various_recordings.tt:5
 #, perl-format
 msgid "Recordings starting with “{index}”"
-msgstr ""
+msgstr "Äänitteet joiden nimi alkaa {index}-kirjaimella"
 
 #: ../root/report/recordings_with_earliest_release_relationships.tt:1
 #: ../root/report/recordings_with_earliest_release_relationships.tt:3
