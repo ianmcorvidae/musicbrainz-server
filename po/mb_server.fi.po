@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-19 17:30-0700\n"
-"PO-Revision-Date: 2012-10-01 02:32+0000\n"
+"PO-Revision-Date: 2012-10-01 13:40+0000\n"
 "Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +79,7 @@ msgstr "\"YY\" on rekisteröintivuoden kaksi viimeisintä numeroa."
 #: ../root/release/edit/tracklist.tt:265 ../root/release/edit/tracklist.tt:426
 #, perl-format
 msgid "#"
-msgstr "nro"
+msgstr "Nro"
 
 #: ../root/doc/edit_type.tt:67
 #, perl-format
@@ -954,7 +954,7 @@ msgstr "Vanhentunut. "
 #: ../root/release/edit/recordings.tt:358
 #, perl-format
 msgid "Also update the recording with track changes"
-msgstr ""
+msgstr "Päivitä kappalelistan muutokset äänitteeseen"
 
 #: ../root/search/results-artist.tt:7
 #, perl-format
@@ -2783,7 +2783,7 @@ msgstr "Lopetettu:"
 #: ../root/release/edit/duplicates.tt:40
 #, perl-format
 msgid "Do not use any of the above releases as a starting point"
-msgstr "Älä käytä ainuttakaan alta löytyvää julkaisua aloituspisteenä. "
+msgstr "Älä käytä edellä mainittuja julkaisuja aloituspisteenä"
 
 #: ../root/layout/menu.tt:233
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:46
@@ -2859,7 +2859,7 @@ msgstr "Muokkaus edit #{id}"
 #: ../root/edit/edit_header.tt:75 ../root/edit/edit_header.tt:90
 #, perl-format
 msgid "Edit #{id} - {name}"
-msgstr ""
+msgstr "Muokkaus #{id} - {name}"
 
 #: ../root/release/edit-links.tt:3
 #, perl-format
@@ -3402,7 +3402,7 @@ msgstr "Virhe muokkausta peruttaessa"
 #: ../root/scripts/text_strings.tt:99
 #, perl-format
 msgid "Error loading relationships."
-msgstr ""
+msgstr "Virhe yhteyksien latauksessa."
 
 #: ../root/main/400.tt:8 ../root/main/404.tt:12 ../root/main/500.tt:37
 #, perl-format
@@ -3459,19 +3459,19 @@ msgstr "Vanhentunut"
 #: ../root/components/common-macros.tt:562
 #, perl-format
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{days}</span>"
-msgstr ""
+msgstr "Vanhenee <span class=\"tooltip\" title=\"{exactdate}\">{days}</span>"
 
 #: ../root/components/common-macros.tt:567
 #, perl-format
 msgid ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{hours}, "
 "{minutes}</span>"
-msgstr ""
+msgstr "Vanhenee <span class=\"tooltip\" title=\"{exactdate}\">{hours}, {minutes}</span>"
 
 #: ../root/components/common-macros.tt:574
 #, perl-format
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>"
-msgstr ""
+msgstr "Vanhenee <span class=\"tooltip\" title=\"{exactdate}\">{minutes}</span>"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:33
 #, perl-format
@@ -4181,7 +4181,7 @@ msgstr "Sisäinen/botti"
 #: ../root/edit/details/merge_works.tt:10
 #, perl-format
 msgid "Into:"
-msgstr ""
+msgstr "Kohde:"
 
 #: ../root/cdstub/error.tt:5
 #, perl-format
@@ -6994,7 +6994,7 @@ msgstr "Salasanan vaihtaminen"
 #: ../root/release/edit/tracklist.tt:444 ../root/release/edit/tracklist.tt:445
 #, perl-format
 msgid "Reset track numbers"
-msgstr ""
+msgstr "Nollaa kappalenumerot"
 
 #: ../root/search/form.tt:7
 #, perl-format
@@ -7238,7 +7238,7 @@ msgstr "Valitse"
 #: ../root/release/edit/tracklist.tt:99
 #, perl-format
 msgid "Select a disc from the search results below and then click \"Add Disc\"."
-msgstr ""
+msgstr "Valitse levy hakutuloksista ja klikkaa \"Lisää levy\"."
 
 #: ../root/cdtoc/move_search.tt:4
 #, perl-format
@@ -7309,7 +7309,7 @@ msgstr "Näytä vähemmän..."
 msgid ""
 "Show me {autoedit_select_block} sorted {sort_select_block} that "
 "{match_or_negation_block} {and_vs_or_block} of the following conditions:"
-msgstr ""
+msgstr "Näytä {autoedit_select_block} järjestettynä {sort_select_block} siten että {match_or_negation_block} {and_vs_or_block} seuraaviin ehtoihin:"
 
 #: ../root/scripts/text_strings.tt:88
 #, perl-format
@@ -7634,7 +7634,7 @@ msgstr "Et voi suorittaa toimintoa peilipalvelimellamme."
 msgid ""
 "Sorry, you must have been a member for at least 2 weeks and have 10 accepted"
 " non-auto-edits before you may add standalone recordings"
-msgstr ""
+msgstr "Sinun tulee olla jäsenenä vähintää 2 viikkoa ja sinulla tulee olla vähintään 10 hyväksyttyä (ei-automaattista) muokkausta, lisätäksesi yksittäisen äänitteen."
 
 #: ../root/search/error/no-info.tt:3
 #, perl-format
@@ -7849,7 +7849,7 @@ msgstr "Tiivistelmä:"
 #: ../root/release/edit/tracklist.tt:448 ../root/release/edit/tracklist.tt:449
 #, perl-format
 msgid "Swap track titles with artist credits"
-msgstr ""
+msgstr "Vaihda kappalenimi artistin nimeen"
 
 #: ../root/main/503.tt:1 ../root/main/503.tt:3
 #, perl-format
@@ -8000,7 +8000,7 @@ msgstr "Kiitokset! Sähköpostiosoitteesi on nyt varmennetty! Jos et voi vieläk
 msgid ""
 "The Cover Art Archive has had a take down request in the past for this "
 "release, so we are unable to allow any more uploads."
-msgstr ""
+msgstr "Cover Art Archivelle on tullut pyyntöjä poistaa materiaalia, tähän julkaisuun liittyen, emmekä voi sallia uuden materiaalin lisäämistä."
 
 #: ../root/user/profile.tt:81
 #, perl-format
@@ -8062,7 +8062,7 @@ msgstr "Syöttämäsi viivakoodi näyttää UPC-koodilta, jonka tarkistusluku pu
 #: ../root/main/index.tt:42
 #, perl-format
 msgid "The blog is currently unavailable."
-msgstr ""
+msgstr "Blogi ei ole parhaillaan saatavilla."
 
 #: ../root/release/edit/information.tt:165
 #, perl-format
@@ -9076,7 +9076,7 @@ msgid ""
 "This tracklist has artist credits with information that will be lost if you "
 "swap artist credits with track titles. This cannot be undone. Do you wish to"
 " continue?"
-msgstr ""
+msgstr "Kappalelistalla on artistien nimitietoja, jotka menetetään jos vaihdat artistin nimen ja kappalenimen paikkaa. Tätä muutosta ei voi perua. Haluatko jatkaa?"
 
 #: ../root/components/common-macros.tt:382
 #, perl-format
@@ -9192,7 +9192,7 @@ msgstr "Aloita selaaminen valitsemalla jokin yläpuolen kirjaimista. "
 msgid ""
 "To create a new tracklist, use an existing tracklist or import a disc from a"
 " CD stub or FreeDB, select the appropriate tab."
-msgstr ""
+msgstr "Valitse asiaankuuluva välilehti, käyttääksesi tietokannasta jo löytyvää kappalelistaa tai tuodaksesi levyn tiedot CD-tyngästä tai FreeDB-tietokannasta. "
 
 #: ../root/release/edit/information.tt:50
 #, perl-format
@@ -10833,7 +10833,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:76
 #, perl-format
 msgid "page #{page} of #{total}"
-msgstr "sivu {page} / {total}"
+msgstr "sivu #{page} / #{total}"
 
 #: ../root/artist/subscribers.tt:14 ../root/label/subscribers.tt:14
 #: ../root/user/subscribers.tt:14
@@ -11127,8 +11127,8 @@ msgstr[1] "{num} kokoelmaa löytyi"
 #, perl-format
 msgid "{num} day"
 msgid_plural "{num}&nbsp;days"
-msgstr[0] "{num} päivä"
-msgstr[1] "{num} päivää"
+msgstr[0] "{num} päivässä"
+msgstr[1] "{num} päivässä"
 
 #: ../root/user/subscriptions/subscriptions.tt:22
 #, perl-format
@@ -11640,7 +11640,7 @@ msgstr "Vaihda artistin laatua (historiallinen)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeTrackArtist.pm:12
 msgid "Change track artist (historic)"
-msgstr ""
+msgstr "Vaihda kappaleen artistia (historiallinen)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/EditLink.pm:17
 msgid "Edit relationship (historic)"
@@ -11714,11 +11714,11 @@ msgstr "Poista julkaisutapahtumia (historiallinen)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases (historic)"
-msgstr ""
+msgstr "Poista julkaisuja (historiallinen)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SACToMAC.pm:15
 msgid "Convert release to multiple artists (historic)"
-msgstr ""
+msgstr "Muokkaa julkaisu usealle artistille (historiallinen)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/SetTrackLengthsFromCDTOC.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Medium/SetTrackLengths.pm:18
