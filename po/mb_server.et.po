@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-09-19 17:30-0700\n"
-"PO-Revision-Date: 2012-09-28 12:35+0000\n"
+"PO-Revision-Date: 2012-10-01 20:26+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -6943,7 +6943,7 @@ msgstr ""
 #: ../root/release/reorder_cover_art.tt:6
 #, perl-format
 msgid "Reorder Cover Art"
-msgstr ""
+msgstr "Kaanepiltide järjestuse muutmine"
 
 #: ../root/layout/menu.tt:271
 #, perl-format
@@ -8020,7 +8020,7 @@ msgstr ""
 msgid ""
 "The artwork in the sidebar is being provided by a {relationships|URL "
 "relationship}."
-msgstr ""
+msgstr "Külgribal näidatav kaanepilt on pärit {relationships|seostatud URL-ilt}."
 
 #: ../root/scripts/text_strings.tt:65
 #, perl-format
@@ -11059,7 +11059,7 @@ msgstr "{edit} on saanud mõne vastuhääle; selle heakskiitmiseks pead jätma t
 #: ../root/components/relationships.tt:18
 #, perl-format
 msgid "{entity} by {artist}"
-msgstr ""
+msgstr "„{entity}”, esitaja: {artist}"
 
 #: ../root/components/aliases.tt:57
 #, perl-format
@@ -11366,7 +11366,7 @@ msgstr "Sellenimelist kasutajat pole."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:162
 msgid "There is no user with this username and email"
-msgstr ""
+msgstr "Selle nime ja e-postiga kasutajat pole."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:191
 msgid "Missing one or more required parameters."
@@ -11383,7 +11383,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:257
 msgid "There is no user with this email"
-msgstr ""
+msgstr "Selle e-postiga kasutajat pole."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:510
 msgid ""
@@ -11848,11 +11848,11 @@ msgstr "Kaanepildi eemaldamine"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderCoverArt.pm:22
 msgid "Reorder cover art"
-msgstr "Kaanepiltide ümberjärjestamine"
+msgstr "Kaanepiltide järjestuse muutmine"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/ReorderMediums.pm:11
 msgid "Reorder mediums"
-msgstr "Helikandjate ümberjärjestamine"
+msgstr "Helikandjate järjestuse muutmine"
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/AddAnnotation.pm:12
 msgid "Add release group annotation"
@@ -11876,7 +11876,7 @@ msgstr "Rakendatud"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:249
 msgid "Failed vote"
-msgstr "Mahahääletatud"
+msgstr "Ei läbinud hääletust"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:250
 msgid "Failed dependency"
@@ -11884,7 +11884,7 @@ msgstr "sõltuvus"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:252
 msgid "Failed prerequisite"
-msgstr "eeltingimus, eeldus"
+msgstr "Ei täitnud eeldust"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:253
 msgid "No votes"
@@ -12118,7 +12118,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:65
 #, perl-brace-format
 msgid "A track name is required on track {pos}"
-msgstr ""
+msgstr "{pos}. loole on vaja pealkirja."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:70
 #, perl-brace-format
@@ -12133,7 +12133,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:88
 #, perl-brace-format
 msgid "An artist is required on track {pos}"
-msgstr ""
+msgstr "{pos}. loole on vaja artisti."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:115
 #, perl-brace-format
@@ -12157,7 +12157,7 @@ msgstr[1] "Sel andmekandjal on plaadi-ID, mille järgi sel peab olema {n} lugu."
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:173
 #, perl-brace-format
 msgid "Track {pos} is missing."
-msgstr "Lugu nr {pos} on puudu."
+msgstr "{pos}. lugu on puudu."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Tracklist.pm:213
 msgid ""
@@ -12197,19 +12197,19 @@ msgstr "Vigane URL-i vorming"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
-msgstr "Algtase"
+msgstr "algtase"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:62
 msgid "Intermediate"
-msgstr "Kesktase"
+msgstr "kesktase"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:63
 msgid "Advanced"
-msgstr "Kõrgtase"
+msgstr "kõrgtase"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:64
 msgid "Native"
-msgstr "Emakeel"
+msgstr "emakeel"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:78
 msgid "You must supply a complete birth date for us to display your age."
@@ -12229,7 +12229,7 @@ msgstr "Mitte kunagi"
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:43
 msgid "Please choose another username, this one is already taken"
-msgstr "See kastajanimi on juba võetud, palun vali uus."
+msgstr "See kasutajanimi on juba võetud, palun vali uus."
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
@@ -12271,7 +12271,7 @@ msgstr "PP"
 
 #: ../lib/MusicBrainz/Server/Release.pm:57
 msgid "(Special case)"
-msgstr ""
+msgstr "(Erijuhtum)"
 
 #: ../lib/MusicBrainz/Server/Release.pm:58
 msgid ""
