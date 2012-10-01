@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-09-28 21:05+0000\n"
+"PO-Revision-Date: 2012-10-01 01:38+0000\n"
 "Last-Translator: ListMyCDs.com Martikainen <email address hidden>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/musicbrainz/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -2462,7 +2462,7 @@ msgstr "myöhemmät {translated:käännetyt} {parody:parodia}versiot"
 
 #: DB:link_attribute_type/name:4
 msgid "lead"
-msgstr "joho"
+msgstr "pää"
 
 #: DB:link_type/reverse_link_phrase:108
 msgid "legal name"
@@ -2753,7 +2753,7 @@ msgstr "aiempi levy"
 
 #: DB:link_attribute_type/name:618
 msgid "principal"
-msgstr "pää-"
+msgstr "pää"
 
 #: DB:link_type/link_phrase:49 DB:link_type/short_link_phrase:49
 msgid "produced material that was {additional:additionally} sampled in"
@@ -2951,7 +2951,7 @@ msgstr ""
 
 #: DB:link_type/link_phrase:192 DB:link_type/link_phrase:218
 msgid "social networking"
-msgstr ""
+msgstr "sosiaaliset verkot"
 
 #: DB:link_type/reverse_link_phrase:192 DB:link_type/reverse_link_phrase:218
 msgid "social networking page for"
@@ -3118,7 +3118,7 @@ msgstr "{additional} säveltänyt"
 #: DB:link_type/link_phrase:46 DB:link_type/link_phrase:151
 #: DB:link_type/short_link_phrase:46 DB:link_type/short_link_phrase:151
 msgid "{additional:additionally} conducted"
-msgstr "{additional} johtanut kapellimestarina"
+msgstr "{additional} johti kapellimestarina"
 
 #: DB:link_type/link_phrase:40 DB:link_type/link_phrase:164
 #: DB:link_type/link_phrase:300 DB:link_type/short_link_phrase:40
@@ -3133,7 +3133,7 @@ msgstr "{additional}orkestroija"
 #: DB:link_type/link_phrase:47 DB:link_type/link_phrase:153
 #: DB:link_type/short_link_phrase:47 DB:link_type/short_link_phrase:153
 msgid "{additional:additionally} remixed"
-msgstr ""
+msgstr "{additional:additionally} uudelleenmiksasi"
 
 #: DB:link_type/reverse_link_phrase:231
 msgid "{additional:additionally} sampled by"
@@ -3142,7 +3142,7 @@ msgstr ""
 #: DB:link_type/link_phrase:54 DB:link_type/link_phrase:167
 #: DB:link_type/short_link_phrase:54 DB:link_type/short_link_phrase:167
 msgid "{additional:additionally} wrote"
-msgstr ""
+msgstr "{additional:additionally} kirjoitti"
 
 #: DB:link_type/short_link_phrase:37 DB:link_type/short_link_phrase:132
 msgid ""
@@ -3163,21 +3163,21 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:42 DB:link_type/short_link_phrase:136
 msgid "{additional:additionally} {assistant} {associate} {co:co-}mastered"
-msgstr ""
+msgstr "{additional:additionally} {assistant} {associate} {co:co-}masteroi"
 
 #: DB:link_type/link_phrase:143 DB:link_type/link_phrase:26
 #: DB:link_type/short_link_phrase:143 DB:link_type/short_link_phrase:26
 msgid "{additional:additionally} {assistant} {associate} {co:co-}mixed"
-msgstr ""
+msgstr "{additional:additionally} {assistant} {associate} {co:co-}miksasi"
 
 #: DB:link_type/link_phrase:36 DB:link_type/link_phrase:128
 #: DB:link_type/short_link_phrase:36 DB:link_type/short_link_phrase:128
 msgid "{additional:additionally} {assistant} {associate} {co:co-}recorded"
-msgstr ""
+msgstr "{additional:additionally} {assistant} {associate} {co:co-}äänitti"
 
 #: DB:link_type/reverse_link_phrase:36 DB:link_type/reverse_link_phrase:128
 msgid "{additional:additionally} {assistant} {associate} {co:co-}recorded by"
-msgstr ""
+msgstr "{additional:lisä} {apulais} {kumppani} {co-co-}äänittäjä"
 
 #: DB:link_type/link_phrase:29 DB:link_type/link_phrase:133
 #: DB:link_type/short_link_phrase:29 DB:link_type/short_link_phrase:133
@@ -3197,7 +3197,7 @@ msgstr ""
 msgid ""
 "{additional:additionally} {assistant} {associate} "
 "{co:co-}{executive:executive }produced"
-msgstr ""
+msgstr "toimi {additional:lisäksi} {assistant}{associate}{co:co-}{executive:pää}tuottajana"
 
 #: DB:link_type/link_phrase:51 DB:link_type/link_phrase:156
 #: DB:link_type/short_link_phrase:51 DB:link_type/short_link_phrase:156
@@ -3216,16 +3216,16 @@ msgstr ""
 #: DB:link_type/short_link_phrase:57 DB:link_type/short_link_phrase:169
 msgid ""
 "{additional:additionally} {translated:translated|wrote} the libretto for"
-msgstr ""
+msgstr "{additional:lisäksi} {translated:käänsi|kirjoitti} libreton"
 
 #: DB:link_type/short_link_phrase:56 DB:link_type/short_link_phrase:165
 msgid "{additional:additionally} {translated:translated|wrote} the lyrics for"
-msgstr ""
+msgstr "{additional:lisäksi} {translated:käänsi|kirjoitti} sanoituksen"
 
 #: DB:link_type/link_phrase:294 DB:link_type/link_phrase:296
 #: DB:link_type/link_phrase:298
 msgid "{additional:additionally} {vocal} vocal arranged"
-msgstr ""
+msgstr "{additional:additionally} sovitti {vocal}vokaalit"
 
 #: DB:link_type/reverse_link_phrase:293 DB:link_type/reverse_link_phrase:295
 #: DB:link_type/reverse_link_phrase:297
@@ -3282,7 +3282,7 @@ msgstr "{additional} valokuvaus"
 
 #: DB:link_type/reverse_link_phrase:47 DB:link_type/reverse_link_phrase:153
 msgid "{additional} remixer"
-msgstr ""
+msgstr "{additional} uudelleenmiksaaja"
 
 #: DB:link_type/link_phrase:231
 msgid "{additional} samples"
@@ -3398,15 +3398,15 @@ msgstr "{additional} {translated} sanat"
 #: DB:link_type/reverse_link_phrase:294 DB:link_type/reverse_link_phrase:296
 #: DB:link_type/reverse_link_phrase:298
 msgid "{additional} {vocal} vocal arranger"
-msgstr ""
+msgstr "{additional} {vocal}vokaalien sovittaja"
 
 #: DB:link_type/reverse_link_phrase:305
 msgid "{assistant} {principal} {guest} conductor {emeritus}"
-msgstr "{assistant} {principal} {guest} {emeritus} kapellimestari"
+msgstr "{assistant} {principal}{guest}{emeritus}kapellimestari"
 
 #: DB:link_type/link_phrase:305
 msgid "{assistant} {principal} {guest} conductor {emeritus} for"
-msgstr ""
+msgstr "{assistant} {principal} {guest}{emeritus}kapellimestari"
 
 #: DB:link_type/link_phrase:1
 msgid "{bonus:bonus|next} disc"
@@ -3418,7 +3418,7 @@ msgstr ""
 
 #: DB:link_type/short_link_phrase:45 DB:link_type/short_link_phrase:150
 msgid "{orchestra} orchestra {additional:additionally} performed"
-msgstr "{orchestra} orkesteri {additional:additionally} esitti"
+msgstr "{orchestra}orkesteri {additional:lisäksi} esitti"
 
 #: DB:link_type/link_phrase:278
 msgid "{partial} {live} {instrumental} {cover} recording of"
