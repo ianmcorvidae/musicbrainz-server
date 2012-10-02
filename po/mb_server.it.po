@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-01 13:49-0700\n"
-"PO-Revision-Date: 2012-10-02 17:00+0000\n"
+"PO-Revision-Date: 2012-10-02 17:32+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -1162,7 +1162,7 @@ msgstr "Nome artista"
 
 #: ../root/user/ratings_summary.tt:3 ../root/user/ratings.tt:1
 msgid "Artist ratings"
-msgstr "Valutazioni artista"
+msgstr "Valutazioni di artisti"
 
 #: ../root/cdstub/edit_form.tt:18
 msgid "Artist {n}:"
@@ -3592,7 +3592,7 @@ msgstr "Informazioni sull'etichetta"
 
 #: ../root/user/ratings_summary.tt:3 ../root/user/ratings.tt:1
 msgid "Label ratings"
-msgstr "Valutazioni etichetta"
+msgstr "Valutazioni di etichette"
 
 #: ../root/components/common-macros.tt:468
 #: ../root/edit/details/add_label_alias.tt:3
@@ -3666,7 +3666,7 @@ msgstr "Ultimo aggiornamento:"
 
 #: ../root/search/results-layout.tt:4
 msgid "Last updated: {date}"
-msgstr ""
+msgstr "Ultima modifica: {date}"
 
 #: ../root/main/index.tt:31
 msgid "Latest posts:"
@@ -4368,7 +4368,7 @@ msgstr "Nessuna scocciatura"
 
 #: ../root/user/ratings.tt:23
 msgid "No ratings."
-msgstr ""
+msgstr "Nessuna valutazione."
 
 #: ../root/artist/recordings.tt:16
 msgid "No recordings found."
@@ -5148,7 +5148,7 @@ msgstr "Informazioni sulla registrazione"
 
 #: ../root/user/ratings_summary.tt:3 ../root/user/ratings.tt:1
 msgid "Recording ratings"
-msgstr "Valutazioni registrazione"
+msgstr "Valutazioni di registrazioni"
 
 #: ../root/recording/layout.tt:1
 msgid "Recording “{name}” by {artist}"
@@ -5427,7 +5427,7 @@ msgstr "Informazioni sul gruppo di pubblicazioni"
 
 #: ../root/user/ratings_summary.tt:3 ../root/user/ratings.tt:1
 msgid "Release group ratings"
-msgstr "Valutazioni gruppo di pubblicazioni"
+msgstr "Valutazioni di gruppi di pubblicazioni"
 
 #: ../root/release/relationships.tt:4
 msgid "Release group relationships"
@@ -5469,7 +5469,7 @@ msgstr "Informazioni sulla pubblicazione"
 
 #: ../root/user/ratings.tt:1
 msgid "Release ratings"
-msgstr ""
+msgstr "Valutazioni di pubblicazioni"
 
 #: ../root/cdtoc/attach_filter_release.tt:28 ../root/cdtoc/move_search.tt:13
 msgid "Release title:"
@@ -6471,27 +6471,27 @@ msgstr "Statistiche"
 #: ../root/edit/search_macros.tt:284
 msgctxt "edit status"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../root/elections/index.tt:10
 msgctxt "election status"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../root/release/lookup.tt:14
 msgctxt "release status"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../root/edit/info.tt:27
 msgctxt "edit status"
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: ../root/elections/show.tt:38
 msgctxt "election status"
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: ../root/edit/details/add_release.tt:39
 #: ../root/edit/details/edit_release.tt:46
@@ -6499,7 +6499,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:55 ../root/release/sidebar.tt:36
 msgctxt "release status"
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: ../root/watch/list.tt:28
 msgid "Stop watching selected artists"
@@ -7615,7 +7615,7 @@ msgstr "Questo report mostra le pubblicazioni con status di pseudo-pubblicazione
 #: ../root/release/merge.tt:137
 msgid ""
 "This requires that corresponding mediums have the same number of tracks."
-msgstr ""
+msgstr "È necessario che i supporti corrispondenti abbiano lo stesso numero di tracce."
 
 #: ../root/user/profile.tt:166
 msgid "This table shows a summary of votes cast by this editor."
@@ -8327,19 +8327,19 @@ msgstr "Spiacenti, ma i dati di questo report non sono al momento disponibili."
 
 #: ../root/edit/details/macros.tt:88
 msgid "We are unable to display history for this cover art."
-msgstr ""
+msgstr "Non è possibile visualizzare la cronologia di questa copertina."
 
 #: ../root/edit/details/macros.tt:88
 msgid ""
 "We are unable to display history for this cover art. For a current listing "
 "of cover art, please see the {coverart|release's cover art page}."
-msgstr ""
+msgstr "Non è possibile visualizzare la cronologia di questa copertina. Per l'elenco attuale delle copertine, vai alla {coverart|pagina delle copertine della pubblicazione}."
 
 #: ../root/release/edit/missing_entities.tt:138
 msgid ""
 "We couldn't find a label with the name you entered. If you wish to create a "
 "new label, please fill in the fields below:"
-msgstr ""
+msgstr "Non è stato possibile trovare un'etichetta con il nome che hai inserito. Se vuoi crearne una nuova, riempi i campi qui sotto:"
 
 #: ../root/release/edit/missing_entities.tt:83
 msgid ""
@@ -8401,7 +8401,7 @@ msgstr "Una email di verifica è stata inviata a <code>{email}</code>. Controlla
 
 #: ../root/cdtoc/lookup.tt:10
 msgid "We used DiscID <code>{discid}</code> to look up this information."
-msgstr ""
+msgstr "Per cercare queste informazioni abbiamo usato l'ID disco <code>{discid}</code>."
 
 #: ../root/account/edit.tt:24
 msgid ""
@@ -8507,7 +8507,7 @@ msgstr "Informazioni sull'opera"
 
 #: ../root/user/ratings_summary.tt:3
 msgid "Work ratings"
-msgstr "Valutazioni opera"
+msgstr "Valutazioni di opere"
 
 #: ../root/edit/details/edit_work.tt:23
 msgid "Work type:"
@@ -9105,7 +9105,7 @@ msgstr "il {date}"
 
 #: ../root/components/common-macros.tt:106
 msgid "original"
-msgstr ""
+msgstr "originale"
 
 #: ../root/scripts/text_strings.tt:76
 msgid "page #{page} of #{total}"
@@ -9490,7 +9490,7 @@ msgstr "{user} non ha taggato niente."
 msgid ""
 "{valink|Various Artists} should very rarely be used on recordings, make sure"
 " that the artist has been entered correctly."
-msgstr ""
+msgstr "{valink|Artisti vari} non va normalmente usato nelle registrazioni: assicurati che gli artisti siano stati inseriti correttamente."
 
 #: ../root/release/edit/tracklist.tt:136
 msgid ""
@@ -9717,7 +9717,7 @@ msgstr "Non è stato possibile inviare il tuo messaggio"
 #: ../lib/MusicBrainz/Server/Controller/User.pm:355
 #, perl-brace-format
 msgid "'{type}' is not an entity type that can have ratings."
-msgstr ""
+msgstr "'{type}' non è un tipo di entità che può ricevere valutazioni."
 
 #: ../lib/MusicBrainz/Server/Controller/WS/2/DiscID.pm:87
 msgid "Invalid TOC"
@@ -10458,22 +10458,22 @@ msgstr "Un mese"
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:131
 msgctxt "language optgroup"
 msgid "Frequently used"
-msgstr ""
+msgstr "Utilizzate frequentemente"
 
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:131
 msgctxt "language optgroup"
 msgid "Other"
-msgstr ""
+msgstr "Altre"
 
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:154
 msgctxt "script optgroup"
 msgid "Frequently used"
-msgstr ""
+msgstr "Utilizzati frequentemente"
 
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:154
 msgctxt "script optgroup"
 msgid "Other"
-msgstr ""
+msgstr "Altri"
 
 #: ../lib/MusicBrainz/Server/Plugin/FormRenderer.pm:247
 msgid "YYYY"
