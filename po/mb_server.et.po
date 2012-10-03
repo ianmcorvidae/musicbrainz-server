@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-01 13:49-0700\n"
-"PO-Revision-Date: 2012-10-02 08:40+0000\n"
+"PO-Revision-Date: 2012-10-03 10:28+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -6893,7 +6893,7 @@ msgstr ""
 #: ../root/elections/show.tt:26
 msgid ""
 "The tally of votes cast will only be shown when the election is complete."
-msgstr ""
+msgstr "häältearvestust näidatakse pärast valimise lõppu."
 
 #: ../root/freedb/show.tt:55
 msgid ""
@@ -8832,23 +8832,23 @@ msgstr "Valitud on „{releasegroup}”."
 
 #: ../root/account/donation.tt:22
 msgid "You will never be nagged again!"
-msgstr ""
+msgstr "Sind ei tüüdata enam kunagi!"
 
 #: ../root/account/donation.tt:18
 msgid "You will not be nagged for another {days} days."
-msgstr ""
+msgstr "Sind ei tüüdata järgmised {days} päeva."
 
 #: ../root/user/email_sent.tt:5
 msgid ""
 "Your email has been successfully sent! Click {link|here} to continue to "
 "{user}'s profile."
-msgstr ""
+msgstr "Sinu e-kiri on edukalt saadetud. Kasutaja {user} lehele minemiseks klõpsa {link|siin}."
 
 #: ../root/account/change_password_ok.tt:5
 msgid ""
 "Your password has been changed. Click {link|here} to continue to your user "
 "page."
-msgstr ""
+msgstr "Sinu parool on muudetud. Oma kasutajalehele minemiseks klõpsa {link|siin}."
 
 #: ../root/account/reset_password_ok.tt:5
 msgid "Your password has been reset."
@@ -8858,7 +8858,7 @@ msgstr "Su parool on lähtestatud."
 msgid ""
 "Your preferences have been saved. Click {link|here} to continue to your user"
 " page."
-msgstr ""
+msgstr "Sinu eelistused on salvestatud. Oma kasutajalehele minemiseks klõpsa {link|siin}."
 
 #: ../root/account/edit_ok.tt:6
 msgid "Your profile has been updated."
@@ -8866,7 +8866,7 @@ msgstr "Su profiil on uuendatud."
 
 #: ../root/search/error/invalid.tt:3
 msgid "Your search query was deemed invalid by our ruthless search server."
-msgstr ""
+msgstr "Meie halastamatu otsnguserver hindas su päringu sobimatuks."
 
 #: ../root/account/register.tt:27
 msgid "Your username will be publicly visible."
@@ -10150,22 +10150,22 @@ msgstr "Oodatakse 2. sekundanti"
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:91
 #, perl-brace-format
 msgid "Voting open since {date}"
-msgstr "Hääletamine avatud alates {date}"
+msgstr "hääletamine avatud alates {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:92
 #, perl-brace-format
 msgid "Accepted at {date}"
-msgstr "Vastuvõetud {date}"
+msgstr "vastuvõetud {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:93
 #, perl-brace-format
 msgid "Declined at {date}"
-msgstr "Keeldutud {date}"
+msgstr "keeldutud {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:94
 #, perl-brace-format
 msgid "Cancelled at {date}"
-msgstr "Tühistatud {date}"
+msgstr "tühistatud {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:100
 msgid "Voting open"
