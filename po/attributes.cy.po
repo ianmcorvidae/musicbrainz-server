@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
-"PO-Revision-Date: 2012-09-11 20:45+0000\n"
+"PO-Revision-Date: 2012-10-03 11:05+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
 "Language-Team: Welsh (http://www.transifex.com/projects/p/musicbrainz/language/cy/)\n"
 "MIME-Version: 1.0\n"
@@ -53,6 +53,11 @@ msgctxt "release_group_secondary_type"
 msgid "Audiobook"
 msgstr ""
 
+#: DB:cover_art_archive.art_type/name:2
+msgctxt "cover_art_type"
+msgid "Back"
+msgstr ""
+
 #: DB:work_type/name:2
 msgctxt "work_type"
 msgid "Ballet"
@@ -66,6 +71,11 @@ msgstr ""
 #: DB:medium_format/name:20
 msgctxt "medium_format"
 msgid "Blu-ray"
+msgstr ""
+
+#: DB:cover_art_archive.art_type/name:3
+msgctxt "cover_art_type"
+msgid "Booklet"
 msgstr ""
 
 #: DB:release_status/name:3
@@ -183,6 +193,11 @@ msgctxt "gender"
 msgid "Female"
 msgstr ""
 
+#: DB:cover_art_archive.art_type/name:1
+msgctxt "cover_art_type"
+msgid "Front"
+msgstr ""
+
 #: DB:artist_type/name:2
 msgctxt "artist_type"
 msgid "Group"
@@ -253,6 +268,11 @@ msgctxt "work_type"
 msgid "Mass"
 msgstr ""
 
+#: DB:cover_art_archive.art_type/name:4
+msgctxt "cover_art_type"
+msgid "Medium"
+msgstr ""
+
 #: DB:medium_format/name:6
 msgctxt "medium_format"
 msgid "MiniDisc"
@@ -271,6 +291,11 @@ msgstr ""
 #: DB:release_packaging/name:7
 msgctxt "release_packaging"
 msgid "None"
+msgstr ""
+
+#: DB:cover_art_archive.art_type/name:5
+msgctxt "cover_art_type"
+msgid "Obi"
 msgstr ""
 
 #: DB:release_status/name:1
@@ -295,6 +320,11 @@ msgstr ""
 
 #: DB:artist_type/name:3
 msgctxt "artist_type"
+msgid "Other"
+msgstr ""
+
+#: DB:cover_art_archive.art_type/name:8
+msgctxt "cover_art_type"
 msgid "Other"
 msgstr ""
 
@@ -429,9 +459,19 @@ msgctxt "release_group_secondary_type"
 msgid "Soundtrack"
 msgstr ""
 
+#: DB:cover_art_archive.art_type/name:6
+msgctxt "cover_art_type"
+msgid "Spine"
+msgstr ""
+
 #: DB:release_group_secondary_type/name:3
 msgctxt "release_group_secondary_type"
 msgid "Spokenword"
+msgstr ""
+
+#: DB:cover_art_archive.art_type/name:10
+msgctxt "cover_art_type"
+msgid "Sticker"
 msgstr ""
 
 #: DB:work_type/name:6
@@ -447,6 +487,16 @@ msgstr ""
 #: DB:work_type/name:16
 msgctxt "work_type"
 msgid "Symphony"
+msgstr ""
+
+#: DB:cover_art_archive.art_type/name:7
+msgctxt "cover_art_type"
+msgid "Track"
+msgstr ""
+
+#: DB:cover_art_archive.art_type/name:9
+msgctxt "cover_art_type"
+msgid "Tray"
 msgstr ""
 
 #: DB:medium_format/name:28
