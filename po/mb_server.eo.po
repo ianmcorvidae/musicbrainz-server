@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-01 13:49-0700\n"
-"PO-Revision-Date: 2012-10-01 21:06+0000\n"
+"PO-Revision-Date: 2012-10-04 05:11+0000\n"
 "Last-Translator: Ian McEwen <email address hidden>\n"
 "Language-Team: Esperanto (http://www.transifex.com/projects/p/musicbrainz/language/eo/)\n"
 "MIME-Version: 1.0\n"
@@ -8489,7 +8489,7 @@ msgstr "Detaloj de Peco"
 
 #: ../root/release/edit_relationships.tt:177
 msgid "Work Name:"
-msgstr ""
+msgstr "Nomo al pecon:"
 
 #: ../root/work/not_found.tt:1 ../root/work/not_found.tt:2
 msgid "Work Not Found"
@@ -9210,7 +9210,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:132
 msgid "works"
-msgstr ""
+msgstr "pecoj"
 
 #: ../root/main/index.tt:75
 msgid ""
@@ -9422,8 +9422,8 @@ msgstr[1] ""
 #: ../root/release/edit_relationships.tt:323
 msgid "{n} work selected"
 msgid_plural "{n} works selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{n} elekta peco"
+msgstr[1] "{n} elektaj pecoj"
 
 #: ../root/user/profile.tt:194 ../root/user/profile.tt:198
 msgid "{percentage}%"
@@ -9458,7 +9458,7 @@ msgstr ""
 
 #: ../root/work/layout.tt:1
 msgid "{type} “{work}”"
-msgstr ""
+msgstr "{type} “{work}”"
 
 #: ../root/components/common-macros.tt:502
 msgid "{uri|Relate to URL}"
