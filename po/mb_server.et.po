@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-01 13:49-0700\n"
-"PO-Revision-Date: 2012-10-03 12:52+0000\n"
+"PO-Revision-Date: 2012-10-04 15:37+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -383,7 +383,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:546
 msgid "Accept upon expiration"
-msgstr "Aegumisel rakendatakse"
+msgstr "aegumisel rakendatakse"
 
 #: ../root/user/profile.tt:148
 msgctxt "edit descriptor"
@@ -3154,7 +3154,7 @@ msgstr "Peida seosed"
 #: ../root/components/common-macros.tt:539
 #: ../lib/MusicBrainz/Server/Controller/Edit.pm:182
 msgid "High"
-msgstr "Kõrge"
+msgstr "kõrge"
 
 #: ../root/doc/edit_types.tt:5 ../root/doc/edit_types.tt:19
 #: ../root/doc/edit_types.tt:21 ../lib/MusicBrainz/Server/Edit/Historic.pm:12
@@ -3701,7 +3701,7 @@ msgstr "Nagu Wikipediat, hooldab ka MusicBrainzi üleilmne kasutajate kogukond j
 
 #: ../root/user/profile.tt:49
 msgid "Limited User"
-msgstr "Piiratud kasutaja"
+msgstr "piiratud kasutaja"
 
 #: ../root/recording/fingerprints.tt:73
 msgid "Link"
@@ -3802,7 +3802,7 @@ msgstr "Unustatud kasutajanimi"
 #: ../root/components/common-macros.tt:539
 #: ../lib/MusicBrainz/Server/Controller/Edit.pm:182
 msgid "Low"
-msgstr "Madal"
+msgstr "madal"
 
 #: ../root/release/edit_relationships.tt:101
 #: ../root/release/edit_relationships.tt:202 ../root/work/edit_form.tt:10
@@ -4464,16 +4464,16 @@ msgstr ""
 
 #: ../root/edit/edit_header.tt:42 ../root/edit/vote.tt:23
 msgid "None"
-msgstr ""
+msgstr "Puudub"
 
 #: ../root/components/common-macros.tt:539
 #: ../lib/MusicBrainz/Server/Controller/Edit.pm:182
 msgid "Normal"
-msgstr "Tavaline"
+msgstr "tavaline"
 
 #: ../root/user/profile.tt:52
 msgid "Normal User"
-msgstr "Tavaline kasutaja"
+msgstr "tavaline kasutaja"
 
 #: ../root/scripts/text_strings.tt:77
 msgid "Not found? Try again with direct search."
@@ -5212,7 +5212,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:546
 msgid "Reject upon expiration"
-msgstr "Aegumisel hüljatakse"
+msgstr "aegumisel hüljatakse"
 
 #: ../root/scripts/text_strings.tt:93
 msgid "Relate recording to work"
@@ -9079,7 +9079,7 @@ msgstr "kõigepealt uuemaid"
 
 #: ../root/user/profile.tt:55
 msgid "nominate for auto-editor"
-msgstr ""
+msgstr "esita vanemtoimetaja kandidaadiks"
 
 #: ../root/edit/search_macros.tt:14
 msgid "non-auto-edits"
@@ -10070,32 +10070,32 @@ msgstr "See URL on juba teise URL-i mestitud."
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:247
 msgid "Open"
-msgstr "Lahtine"
+msgstr "lahtine"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:248
 msgid "Applied"
-msgstr "Rakendatud"
+msgstr "rakendatud"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:249
 msgid "Failed vote"
-msgstr "Ei läbinud hääletust"
+msgstr "ei läbinud hääletust"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:250
 msgid "Failed dependency"
-msgstr "Ei rahuldanud sõltuvust"
+msgstr "ei rahuldanud sõltuvust"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:252
 msgid "Failed prerequisite"
-msgstr "Ei täitnud eeldust"
+msgstr "ei täitnud eeldust"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:253
 msgid "No votes"
-msgstr "Ilma häälteta"
+msgstr "ilma häälteta"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:254
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:103
 msgid "Cancelled"
-msgstr "Tühistatud"
+msgstr "tühistatud"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
