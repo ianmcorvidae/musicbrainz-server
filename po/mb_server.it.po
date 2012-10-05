@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-04 14:31-0700\n"
-"PO-Revision-Date: 2012-10-05 19:56+0000\n"
+"PO-Revision-Date: 2012-10-05 20:08+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -7401,7 +7401,7 @@ msgid ""
 "members. If you find that an artist here is indeed a group, change its type."
 " If it is not, please make sure that the \"member of\" relationships are in "
 "the right direction and are correct."
-msgstr ""
+msgstr "Questo report elenca gli artisti il cui tipo non è impostato su <em>gruppo</em>, ma che potrebbero essere <em>gruppi</em> poiché hanno altri artisti elencati come membri. Se scopri che un artista tra questi è davvero un gruppo, modificane il tipo. Se non lo è, assicurati che le relazioni \"membro di\" siano state inserite nella giusta direzione e siano corrette."
 
 #: ../root/report/artists_that_may_be_persons.tt:6
 msgid ""
@@ -7410,7 +7410,7 @@ msgid ""
 "artist will appear here if it is listed as a member of another. If you find "
 "that an artist here is indeed a person, change its type. If it is not, "
 "please make sure that all the relationships are correct and make sense."
-msgstr ""
+msgstr "Questo report elenca gli artisti il cui tipo non è impostato su <em>persona</em>, ma che potrebbero essere <em>persone</em> in base alle loro relazioni. Per esempio, un artista apparirà qui se figura come membro di un altro. Se scopri che un artista tra questi è davvero una persona, modificane il tipo. Se non lo è, assicurati che tutte le relazioni siano corrette e abbiano senso."
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:6
 msgid ""
@@ -10269,7 +10269,7 @@ msgstr "L'artista \"{artist}\" non è stato associato, devi selezionare un artis
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:68
 msgid "Artist credit field is required"
-msgstr ""
+msgstr "Il campo accreditamento artista è necessario"
 
 #: ../lib/MusicBrainz/Server/Form/Field/DatePeriod.pm:46
 msgid "The end date must occur on or after the begin date"
@@ -10474,11 +10474,11 @@ msgstr "Devi fornire una data di nascita completa affinché sia possibile visual
 
 #: ../lib/MusicBrainz/Server/Form/User/Login.pm:9
 msgid "Username field is required"
-msgstr ""
+msgstr "Il campo nome utente è necessario"
 
 #: ../lib/MusicBrainz/Server/Form/User/Login.pm:16
 msgid "Password field is required"
-msgstr ""
+msgstr "Il campo password è necessario"
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Daily"
@@ -10494,11 +10494,11 @@ msgstr "Mai"
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:21
 msgid "Please enter a password in this field"
-msgstr ""
+msgstr "Inserisci una password in questo campo"
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:29
 msgid "The password confirmation does not match the password"
-msgstr ""
+msgstr "La conferma della password non corrisponde alla password"
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:45
 msgid "Please choose another username, this one is already taken"
