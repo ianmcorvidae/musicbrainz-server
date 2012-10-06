@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-04 14:31-0700\n"
-"PO-Revision-Date: 2012-10-05 20:08+0000\n"
+"PO-Revision-Date: 2012-10-06 17:22+0000\n"
 "Last-Translator: salorock <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -121,7 +121,7 @@ msgstr "(inattivo)"
 
 #: ../root/user/profile.tt:20
 msgid "(hidden)"
-msgstr "(nascosto)"
+msgstr "(nascosta)"
 
 #: ../root/edit/details/reorder_mediums.tt:26
 msgid "(moved from position <span class=\"old\">{old}</span>)"
@@ -368,7 +368,7 @@ msgstr "Una relazione tra {entity} e {url} è già esistente."
 
 #: ../root/layout/menu.tt:104
 msgid "About"
-msgstr "Informazioni"
+msgstr "Info"
 
 #: ../root/edit/search_macros.tt:239 ../root/edit/vote.tt:20
 #: ../root/elections/show.tt:73 ../lib/MusicBrainz/Server/Data/Vote.pm:186
@@ -6868,7 +6868,7 @@ msgstr "I {count} utenti seguenti hanno privilegi da auto-editor:"
 
 #: ../root/layout.tt:91
 msgid "The main server is located at {uri}."
-msgstr "Il server principale si trova a {uri}."
+msgstr "Il server principale si trova su {uri}."
 
 #: ../root/main/index.tt:102
 msgid ""
