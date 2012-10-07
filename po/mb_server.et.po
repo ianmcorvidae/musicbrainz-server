@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-06 20:26-0700\n"
-"PO-Revision-Date: 2012-10-07 03:30+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-10-07 18:54+0000\n"
+"Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -341,7 +341,7 @@ msgid ""
 "A CD Stub was found that matches the disc ID you provided. If the below "
 "tracklist appears correct, you may use it as a starting point as a new "
 "MusicBrainz release"
-msgstr ""
+msgstr "Leiti antud plaadi-ID-le vastav pooleldi sisestatud CD. Kui alltoodud lugude nimekiri näib sobivana, võid kasutada seda lähtekohana uue väljalaske sisestamisel."
 
 #: ../root/release/collections.tt:18
 msgid "A private collection"
@@ -376,11 +376,11 @@ msgstr "Erapooletu"
 
 #: ../root/doc/edit_type.tt:15
 msgid "Accept"
-msgstr ""
+msgstr "Rakendatakse"
 
 #: ../root/edit/index.tt:68
 msgid "Accept edit"
-msgstr ""
+msgstr "Rakenda toimetus"
 
 #: ../root/components/common-macros.tt:585
 msgid "Accept upon expiration"
@@ -1603,7 +1603,7 @@ msgstr "Pooleldi sisestatud CD-d ei leitud"
 
 #: ../root/cdtoc/lookup.tt:18
 msgid "CD Stub found"
-msgstr "Pooleldi sisestatud CD leitud"
+msgstr "Leiti pooleldi sisestatud CD"
 
 #: ../root/cdtoc/not_found.tt:1 ../root/cdtoc/not_found.tt:2
 msgid "CD TOC Not Found"
@@ -1642,7 +1642,7 @@ msgstr ""
 
 #: ../root/doc/edit_type.tt:75
 msgid "Can be approved"
-msgstr ""
+msgstr "Heakskiidetav"
 
 #: ../root/artist/merge.tt:22 ../root/components/common-macros.tt:571
 #: ../root/components/filter-form.tt:23 ../root/elections/nominate.tt:10
@@ -2897,7 +2897,7 @@ msgstr ""
 
 #: ../root/doc/edit_type.tt:65
 msgid "Expire action"
-msgstr ""
+msgstr "Aegumisel"
 
 #: ../root/edit/search_macros.tt:284
 msgid "Expired"
@@ -2907,23 +2907,23 @@ msgstr "Aegunud"
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} day</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} days</span>"
-msgstr[0] "Aegumiseni <span class=\"tooltip\" title=\"{exactdate}\">{num} päev</span>"
-msgstr[1] "Aegumiseni <span class=\"tooltip\" title=\"{exactdate}\">{num} päeva</span>"
+msgstr[0] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} päeva</span> pärast"
+msgstr[1] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} päeva</span> pärast"
 
 #: ../root/components/common-macros.tt:617
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} hour</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} hours</span>"
-msgstr[0] "Aegumiseni <span class=\"tooltip\" title=\"{exactdate}\">{num} tund</span>"
-msgstr[1] "Aegumiseni <span class=\"tooltip\" title=\"{exactdate}\">{num} tundi</span>"
+msgstr[0] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} tunni</span> pärast"
+msgstr[1] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} tunni</span> pärast"
 
 #: ../root/components/common-macros.tt:623
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} minute</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} "
 "minutes</span>"
-msgstr[0] "Aegumiseni <span class=\"tooltip\" title=\"{exactdate}\">{num} minut</span>"
-msgstr[1] "Aegumiseni <span class=\"tooltip\" title=\"{exactdate}\">{num} minutit</span>"
+msgstr[0] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} minuti</span> pärast"
+msgstr[1] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} minuti</span> pärast"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:38
 msgid "External links"
@@ -4582,7 +4582,7 @@ msgstr "Vana:"
 msgid ""
 "Only releases with the same amount of tracks ({n}) as the release the disc "
 "ID is currently attached to are shown."
-msgstr ""
+msgstr "Näidatakse ainult neid väljalaskeid, millel on {n} lugu (ehk sama palju kui sellel plaadi-ID-l)."
 
 #: ../root/edit/cannot_cancel.tt:6
 msgid ""
@@ -5056,7 +5056,7 @@ msgstr "Põhitüüp:"
 #: ../root/edit/details/remove_label_alias.tt:21
 #: ../root/edit/details/remove_work_alias.tt:21
 msgid "Primary for locale:"
-msgstr ""
+msgstr "Lokaadi esmane:"
 
 #: ../root/relationship/linktype/form.tt:24
 msgid "Priority:"
@@ -5233,11 +5233,11 @@ msgstr "Piirkondlikud seaded"
 
 #: ../root/doc/edit_type.tt:15
 msgid "Reject"
-msgstr ""
+msgstr "Hüljatakse"
 
 #: ../root/edit/index.tt:69
 msgid "Reject edit"
-msgstr ""
+msgstr "Hülga toimetus"
 
 #: ../root/components/common-macros.tt:585
 msgid "Reject upon expiration"
@@ -5409,7 +5409,7 @@ msgstr "Väljalaskerühm:"
 #: ../root/cdtoc/attach_artist_releases.tt:51
 #: ../root/cdtoc/attach_filter_release.tt:66
 msgid "Release Group: {release_group_link}"
-msgstr ""
+msgstr "Väljalaskerühm: „{release_group_link}”"
 
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 msgid "Release Groups"
@@ -5722,7 +5722,7 @@ msgstr "Eemalda kaanepilt"
 
 #: ../root/cdtoc/remove.tt:1 ../root/cdtoc/remove.tt:2
 msgid "Remove Disc ID"
-msgstr "Eemalda plaadi-ID"
+msgstr "Plaadi-ID eemaldamine"
 
 #: ../root/isrc/delete.tt:1 ../root/isrc/delete.tt:3
 msgid "Remove ISRC “{isrc}”"
@@ -6730,7 +6730,7 @@ msgstr "Tehnilised valikud"
 
 #: ../root/edit/index.tt:65
 msgid "Testing features"
-msgstr ""
+msgstr "Testimisfunktsioonid"
 
 #: ../root/edit/details/add_release_annotation.tt:13
 msgid "Text:"
@@ -6931,7 +6931,7 @@ msgstr ""
 #: ../root/elections/show.tt:26
 msgid ""
 "The tally of votes cast will only be shown when the election is complete."
-msgstr "häältearvestust näidatakse pärast valimise lõppu."
+msgstr "häältearvestust näidatakse pärast valimise lõppu"
 
 #: ../root/freedb/show.tt:55
 msgid ""
@@ -8332,7 +8332,7 @@ msgstr ""
 
 #: ../root/doc/edit_type.tt:59
 msgid "Voting period (days)"
-msgstr ""
+msgstr "Hääletusaeg (päevades)"
 
 #: ../root/release/edit/information.tt:142
 msgid ""
@@ -8853,7 +8853,7 @@ msgid ""
 "erroneously, since a release can have multiple valid disc IDs, and each disc"
 " ID can belong to more than one release. For more in-depth information about"
 " this topic, please see our {doc|CD submission guide}."
-msgstr ""
+msgstr "Pead olema kindel, et see plaadi-ID on sellele väljalaskele lisatud ekslikult, kuna ühel väljalaskel võib olla mitu korrektset plaadi-ID-d ning iga plaadi-ID võib kuuluda rohkem kui ühele väljalaskele. Täpsemat teavet sel teemal leiad {doc|CD sisestamise juhistest}."
 
 #: ../root/user/login.tt:7
 msgid "You need to be logged in to view this page."
@@ -9347,7 +9347,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:131
 msgid "{last_list_item}"
-msgstr ""
+msgstr "{last_list_item}"
 
 #: ../root/components/ratings.tt:20
 msgid "{link} has no ratings."
@@ -9359,7 +9359,7 @@ msgstr "{link} on ilma seosteta."
 
 #: ../root/components/common-macros.tt:124
 msgid "{list_item}, {rest}"
-msgstr ""
+msgstr "{list_item}, {rest}"
 
 #: ../root/artist/details.tt:11 ../root/label/details.tt:11
 #: ../root/recording/details.tt:11 ../root/release/details.tt:11
@@ -9501,8 +9501,8 @@ msgstr "„{release}” — {artist}"
 #: ../root/release/collections.tt:4
 msgid "{release} has been added to {num} collection:"
 msgid_plural "{release} has been added to {num} collections:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "„{release}” on lisatud {num} kogusse:"
+msgstr[1] "„{release}” on lisatud {num} kogusse:"
 
 #: ../root/release/collections.tt:23
 msgid "{release} has not been added to any collections."
