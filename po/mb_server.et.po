@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-06 20:26-0700\n"
-"PO-Revision-Date: 2012-10-07 18:54+0000\n"
+"PO-Revision-Date: 2012-10-09 08:54+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -3523,7 +3523,7 @@ msgstr "Sisemine/bot"
 #: ../root/edit/details/merge_releases.tt:57
 #: ../root/edit/details/merge_works.tt:10
 msgid "Into:"
-msgstr ""
+msgstr "Järgnevasse:"
 
 #: ../root/cdstub/error.tt:5
 msgid "Invalid Disc ID"
@@ -4002,7 +4002,7 @@ msgstr "Mesti teos"
 #: ../root/edit/details/merge_recordings.tt:3
 #: ../root/edit/details/merge_works.tt:3
 msgid "Merge:"
-msgstr ""
+msgstr "Mestitakse:"
 
 #: ../root/user/contact.tt:11
 msgid "Message:"
@@ -6624,7 +6624,7 @@ msgstr "Süsteem hõivatud"
 
 #: ../root/layout/sidebar/sidebar-tags.tt:36
 msgid "Tag"
-msgstr "Silt"
+msgstr "Sildista"
 
 #: ../root/components/tags.tt:11
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:43
@@ -6831,7 +6831,7 @@ msgstr "Sisestatud andmed ei erine millegi poolest juba olemasolevatest andmetes
 
 #: ../root/tag/cloud.tt:9
 msgid "The database has no tags."
-msgstr ""
+msgstr "Andmebaasis pole ühtki silti."
 
 #: ../root/scripts/text_strings.tt:94
 msgid "The date you've entered is not valid."
@@ -7281,7 +7281,7 @@ msgstr "See plaadifirma ei tegutse enam (aga lõppkuupäeva ei tea)"
 
 #: ../root/label/tags.tt:2
 msgid "This label has no tags."
-msgstr ""
+msgstr "Seda plaadifirmat pole sildistatud."
 
 #: ../root/cdtoc/attach_list.tt:28
 msgid "This medium format cannot have a disc ID attached"
@@ -7337,7 +7337,7 @@ msgstr "Sel salvestisel pole seostatud PUID-sid."
 
 #: ../root/recording/tags.tt:2
 msgid "This recording has no tags."
-msgstr "Sel salvestisel pole silte."
+msgstr "Seda salvestist pole sildistatud."
 
 #: ../root/edit/relationship/create.tt:108
 #: ../root/edit/relationship/edit.tt:139
@@ -7357,11 +7357,11 @@ msgstr ""
 
 #: ../root/release_group/tags.tt:2
 msgid "This release group has no tags."
-msgstr ""
+msgstr "Seda väljalaskerühma pole sildistatud."
 
 #: ../root/release/tags.tt:2
 msgid "This release has no tags."
-msgstr ""
+msgstr "Seda väljalaset pole sildistatud."
 
 #: ../root/report/duplicate_artists.tt:6
 msgid ""
