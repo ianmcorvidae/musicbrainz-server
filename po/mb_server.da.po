@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# Frederik "Freso" S. Olesen <email address hidden>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-06 20:26-0700\n"
-"PO-Revision-Date: 2012-10-07 03:31+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-10-09 12:51+0000\n"
+"Last-Translator: Frederik \"Freso\" S. Olesen <email address hidden>\n"
 "Language-Team: Danish (http://www.transifex.com/projects/p/musicbrainz/language/da/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -179,7 +180,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:79
 #: ../lib/MusicBrainz/Server/Entity/Release.pm:190
 msgid "(unknown)"
-msgstr ""
+msgstr "(ukendt)"
 
 #: ../root/user/profile.tt:24
 msgid "(verified at {date})"
@@ -628,12 +629,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddRelease.pm:17
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 msgid "Add release"
-msgstr ""
+msgstr "Tilføj udgivelse"
 
 #: ../root/artist/layout.tt:63
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Create.pm:23
 msgid "Add release group"
-msgstr ""
+msgstr "Tilføj udgivelsesgruppe"
 
 #: ../root/report/duplicate_artists.tt:51
 msgid "Add selected artists for merging"
@@ -671,7 +672,7 @@ msgstr ""
 #: ../root/artist/layout.tt:78
 #: ../lib/MusicBrainz/Server/Edit/Work/Create.pm:16
 msgid "Add work"
-msgstr ""
+msgstr "Tilføj værk"
 
 #: ../root/work/add_alias.tt:13
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAlias.pm:15
@@ -2906,23 +2907,23 @@ msgstr ""
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} day</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} days</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Udløber om <span class=\"tooltip\" title=\"{exactdate}\">{num} dag</span>"
+msgstr[1] "Udløber om <span class=\"tooltip\" title=\"{exactdate}\">{num} dage</span>"
 
 #: ../root/components/common-macros.tt:617
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} hour</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} hours</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Udløber om <span class=\"tooltip\" title=\"{exactdate}\">{num} time</span>"
+msgstr[1] "Udløber om <span class=\"tooltip\" title=\"{exactdate}\">{num} timer</span>"
 
 #: ../root/components/common-macros.tt:623
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} minute</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} "
 "minutes</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Udløber om <span class=\"tooltip\" title=\"{exactdate}\">{num} minut</span>"
+msgstr[1] "Udløber om <span class=\"tooltip\" title=\"{exactdate}\">{num} minutter</span>"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:38
 msgid "External links"
@@ -3873,7 +3874,7 @@ msgstr ""
 #: ../root/search/lib/inline-results-recording.tt:16
 #: ../lib/MusicBrainz/Server/Edit/Medium.pm:7
 msgid "Medium"
-msgstr ""
+msgstr "Medie"
 
 #: ../root/tracklist/index.tt:28
 msgid "Medium #"
@@ -3987,7 +3988,7 @@ msgstr ""
 #: ../root/artist/index.tt:99
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
 msgid "Merge release groups"
-msgstr ""
+msgstr "Sammenflet udgivelsesgrupper"
 
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:84
 msgid "Merge strategy:"
@@ -5154,7 +5155,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Recording.pm:7
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:36
 msgid "Recording"
-msgstr ""
+msgstr "Optagelse"
 
 #: ../root/recording/edit_form.tt:6
 msgid "Recording Details"
@@ -5198,7 +5199,7 @@ msgstr ""
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:65
 msgid "Recordings"
-msgstr ""
+msgstr "Optagelser"
 
 #: ../root/artist/browse_various_recordings.tt:5
 msgid "Recordings starting with “{index}”"
@@ -5363,7 +5364,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release.pm:8
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:35
 msgid "Release"
-msgstr ""
+msgstr "Udgivelse"
 
 #: ../root/recording/index.tt:13
 msgid "Release Artist"
@@ -5384,7 +5385,7 @@ msgstr ""
 #: ../root/search/results-release-group.tt:8
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:34
 msgid "Release Group"
-msgstr ""
+msgstr "Udgivelsesgruppe"
 
 #: ../root/release_group/edit_form.tt:6
 msgid "Release Group Details"
@@ -5446,7 +5447,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:106
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
 msgid "Release group"
-msgstr ""
+msgstr "Udgivelsesgruppe"
 
 #: ../root/release_group/edits.tt:20 ../root/release_group/header.tt:12
 msgid "Release group by {artist}"
@@ -5742,7 +5743,7 @@ msgstr ""
 #: ../root/recording/delete_puid.tt:1
 #: ../lib/MusicBrainz/Server/Edit/PUID/Delete.pm:14
 msgid "Remove PUID"
-msgstr ""
+msgstr "Fjern PUID"
 
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 msgid "Remove Page"
@@ -5812,12 +5813,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 msgid "Remove release"
-msgstr ""
+msgstr "Fjern udgivelse"
 
 #: ../root/release_group/layout.tt:41
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 msgid "Remove release group"
-msgstr ""
+msgstr "Fjern udgivelsesgruppe"
 
 #: ../root/layout/merge-helper.tt:33
 msgid "Remove selected entities"
@@ -6516,17 +6517,17 @@ msgstr ""
 #: ../root/release/lookup.tt:14
 msgctxt "release status"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../root/edit/info.tt:27
 msgctxt "edit status"
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: ../root/elections/show.tt:38
 msgctxt "election status"
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: ../root/edit/details/add_release.tt:39
 #: ../root/edit/details/edit_release.tt:46
@@ -6534,7 +6535,7 @@ msgstr ""
 #: ../root/release/edit/information.tt:55 ../root/release/sidebar.tt:38
 msgctxt "release status"
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: ../root/watch/list.tt:28
 msgid "Stop watching selected artists"
@@ -8040,7 +8041,7 @@ msgstr ""
 #: ../root/report/release_url_list.tt:5 ../root/scripts/text_strings.tt:107
 #: ../lib/MusicBrainz/Server/Edit/URL.pm:7
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../root/url/index.tt:2
 msgid "URL Details"
@@ -8517,7 +8518,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Work.pm:7
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:37
 msgid "Work"
-msgstr ""
+msgstr "Værk"
 
 #: ../root/work/edit_form.tt:6
 msgid "Work Details"
@@ -9247,7 +9248,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:122
 msgid "{almost_last_list_item} and {last_list_item}"
-msgstr ""
+msgstr "{almost_last_list_item} og {last_list_item}"
 
 #: ../root/artist/works-list.tt:36 ../root/iswc/index.tt:36
 #: ../root/otherlookup/results-work.tt:20 ../root/search/results-work.tt:24
@@ -9287,7 +9288,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:133
 msgid "{commas_only_list_item}, {rest}"
-msgstr ""
+msgstr "{commas_only_list_item}, {rest}"
 
 #: ../root/user/profile.tt:99
 msgid "{count} ({url|view list})"
@@ -9346,7 +9347,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:131
 msgid "{last_list_item}"
-msgstr ""
+msgstr "{last_list_item}"
 
 #: ../root/components/ratings.tt:20
 msgid "{link} has no ratings."
@@ -9358,7 +9359,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:124
 msgid "{list_item}, {rest}"
-msgstr ""
+msgstr "{list_item}, {rest}"
 
 #: ../root/artist/details.tt:11 ../root/label/details.tt:11
 #: ../root/recording/details.tt:11 ../root/release/details.tt:11
@@ -9401,8 +9402,8 @@ msgstr[1] ""
 #: ../root/components/common-macros.tt:67
 msgid "{num} day ago"
 msgid_plural "{num}&nbsp;days ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} dag siden"
+msgstr[1] "{num}&nbsp;dage siden"
 
 #: ../root/user/subscriptions/subscriptions.tt:22
 msgid "{num} editor"
@@ -9431,8 +9432,8 @@ msgstr[1] ""
 #: ../root/components/common-macros.tt:67
 msgid "{num} month ago"
 msgid_plural "{num}&nbsp;months ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} måned siden"
+msgstr[1] "{num}&nbsp;måneder siden"
 
 #: ../root/tag/recording.tt:1
 msgid "{num} recording found"
@@ -9573,7 +9574,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
 msgid "'{id}' is not a valid MusicBrainz ID"
-msgstr ""
+msgstr "'{id}' er ikke et gyldigt MusicBrainz ID"
 
 #: ../lib/MusicBrainz/Server/Controller.pm:115
 msgid ""
@@ -9623,7 +9624,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:158
 msgid "There is no user with this username"
-msgstr ""
+msgstr "Der er ingen bruger med det brugernavn"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:162
 msgid "There is no user with this username and email"
@@ -9664,7 +9665,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:146
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:312
 msgid "The provided CD TOC is not valid"
-msgstr ""
+msgstr "Det angivne CD TOC er ikke gyldigt"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:159
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:326
@@ -9812,7 +9813,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:140
 msgid "Invalid barcode"
-msgstr ""
+msgstr "Ugyldig stregkode"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:150
 msgid "There are already MusicBrainz releases with this disc ID"
@@ -9862,7 +9863,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/AddDiscID.pm:10
 msgid "Add disc ID"
-msgstr ""
+msgstr "Tilføj disk-id"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:13
@@ -9930,12 +9931,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Release/Merge.pm:49
 msgid "Merge releases"
-msgstr ""
+msgstr "Sammenflet udgivelser"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:19
 msgid "Move disc ID"
-msgstr ""
+msgstr "Fly disk-id"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release (historic)"
@@ -9944,7 +9945,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:11
 msgid "Remove disc ID"
-msgstr ""
+msgstr "Fjern disk-id"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabelAlias.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Label/DeleteAlias.pm:14
@@ -9990,11 +9991,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
-msgstr ""
+msgstr "Tilføj medie"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Delete.pm:19
 msgid "Remove medium"
-msgstr ""
+msgstr "Fjern medie"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Edit.pm:39
 msgid "Edit medium"
@@ -10006,11 +10007,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddISRCs.pm:21
 msgid "Add ISRCs"
-msgstr ""
+msgstr "Tilføj ISRC'er"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddPUIDs.pm:13
 msgid "Add PUIDs"
-msgstr ""
+msgstr "Tilføj PUID'er"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Create.pm:24
 msgid "Add standalone recording"
@@ -10022,7 +10023,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/RemoveISRC.pm:17
 msgid "Remove ISRC"
-msgstr ""
+msgstr "Fjern ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship.pm:7
 msgid "Relationship"
@@ -10139,7 +10140,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
-msgstr ""
+msgstr "Wiki-dokumentation"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
@@ -10155,7 +10156,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
-msgstr ""
+msgstr "Fjern værk"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/DeleteAlias.pm:15
 msgid "Remove work alias"
@@ -10167,7 +10168,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
-msgstr ""
+msgstr "Sammenflet værker"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/RemoveISWC.pm:16
 msgid "Remove ISWC"
@@ -10431,7 +10432,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:42
 msgid "FreeDB"
-msgstr ""
+msgstr "FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:55
 msgid "Indexed search with advanced query syntax"
@@ -10499,19 +10500,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:35
 msgid "A day"
-msgstr ""
+msgstr "En dag"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:36
 msgid "A week"
-msgstr ""
+msgstr "En uge"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:37
 msgid "2 weeks"
-msgstr ""
+msgstr "2 uger"
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:38
 msgid "A month"
-msgstr ""
+msgstr "En måned"
 
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 msgctxt "language optgroup"
