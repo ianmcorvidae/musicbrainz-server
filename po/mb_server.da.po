@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-06 20:26-0700\n"
-"PO-Revision-Date: 2012-10-09 12:51+0000\n"
+"PO-Revision-Date: 2012-10-09 13:38+0000\n"
 "Last-Translator: Frederik \"Freso\" S. Olesen <email address hidden>\n"
 "Language-Team: Danish (http://www.transifex.com/projects/p/musicbrainz/language/da/)\n"
 "MIME-Version: 1.0\n"
@@ -166,7 +166,7 @@ msgstr ""
 
 #: ../root/layout/menu.tt:24
 msgid "(reset language)"
-msgstr ""
+msgstr "(nulstil sprog)"
 
 #: ../root/search/lib/inline-results-recording.tt:60
 msgid "(standalone recording)"
@@ -229,7 +229,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:113
 msgid "250px"
-msgstr ""
+msgstr "250px"
 
 #: ../root/elections/show.tt:20
 msgid "2nd seconder:"
@@ -237,7 +237,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:114
 msgid "500px"
-msgstr ""
+msgstr "500px"
 
 #: ../root/admin/edit_user.tt:17
 msgid "<abbr title=\"MusicBrainz Identifier\">MBID</abbr> submitter"
@@ -780,7 +780,7 @@ msgstr ""
 
 #: ../root/release/cover_art.tt:21
 msgid "All sizes:"
-msgstr ""
+msgstr "Alle størrelser:"
 
 #: ../root/account/preferences.tt:32
 msgid "Allow other users to see my ratings"
@@ -3689,7 +3689,7 @@ msgstr ""
 
 #: ../root/search/results-layout.tt:6
 msgid "Last updated: {date}"
-msgstr ""
+msgstr "Sidst opdateret: {date}"
 
 #: ../root/main/index.tt:31
 msgid "Latest posts:"
@@ -6507,12 +6507,12 @@ msgstr ""
 #: ../root/edit/search_macros.tt:284
 msgctxt "edit status"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../root/elections/index.tt:10
 msgctxt "election status"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../root/release/lookup.tt:14
 msgctxt "release status"
@@ -8971,7 +8971,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:409
 msgid "bot"
-msgstr ""
+msgstr "bot"
 
 #: ../root/release/edit/recordings.tt:81
 #: ../root/release/edit/recordings.tt:214
@@ -9026,7 +9026,7 @@ msgstr ""
 #: ../root/release/edit_relationships.tt:67
 #: ../root/release/edit_relationships.tt:109
 msgid "help"
-msgstr ""
+msgstr "hjælp"
 
 #: ../root/search/results-freedb.tt:31
 msgid "import"
@@ -9087,7 +9087,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:408
 msgid "limited user"
-msgstr ""
+msgstr "begrænset bruger"
 
 #: ../root/edit/relationship/edit.tt:37 ../root/scripts/text_strings.tt:87
 msgid "link"
@@ -9182,7 +9182,7 @@ msgstr ""
 
 #: ../root/layout.tt:64
 msgid "search"
-msgstr ""
+msgstr "søg"
 
 #: ../root/layout/sidebar/sidebar-rating.tt:5
 msgid "see all ratings"
@@ -9272,11 +9272,11 @@ msgstr[1] ""
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:34
 msgid "{begindate} &ndash;"
-msgstr ""
+msgstr "{begindate} &ndash;"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:32
 msgid "{begindate} &ndash; ????"
-msgstr ""
+msgstr "{begindate} &ndash; ????"
 
 #: ../root/artist/relationships.tt:33 ../root/components/relationships.tt:27
 msgid "{begindate} &ndash; {enddate}"
@@ -9474,20 +9474,20 @@ msgstr[1] ""
 #: ../root/components/common-macros.tt:67
 msgid "{num} year ago"
 msgid_plural "{num}&nbsp;years ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{num} år siden"
+msgstr[1] "{num}&nbsp;år siden"
 
 #: ../root/release/edit_relationships.tt:336
 msgid "{n} recording selected"
 msgid_plural "{n} recordings selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{n} optagelse valgt"
+msgstr[1] "{n} optagelser valgt"
 
 #: ../root/release/edit_relationships.tt:337
 msgid "{n} work selected"
 msgid_plural "{n} works selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{n} værk valgt"
+msgstr[1] "{n} værker valgt"
 
 #: ../root/user/profile.tt:213 ../root/user/profile.tt:217
 msgid "{percentage}%"
@@ -9530,7 +9530,7 @@ msgstr ""
 
 #: ../root/user/profile/layout.tt:8
 msgid "{user}"
-msgstr ""
+msgstr "{user}"
 
 #: ../root/user/collections.tt:37
 msgid "{user} has no public collections."
@@ -10152,7 +10152,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddISWCs.pm:22
 msgid "Add ISWCs"
-msgstr ""
+msgstr "Tilføj ISWC'er"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
@@ -10172,7 +10172,7 @@ msgstr "Sammenflet værker"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/RemoveISWC.pm:16
 msgid "Remove ISWC"
-msgstr ""
+msgstr "Fjern ISWC"
 
 #: ../lib/MusicBrainz/Server/EditSearch/Predicate.pm:66
 msgid "This operator is not supported"
@@ -10227,7 +10227,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Entity/Relationship.pm:116
 #, perl-brace-format
 msgid "{b} and {a}"
-msgstr ""
+msgstr "{b} og {a}"
 
 #: ../lib/MusicBrainz/Server/FilterUtils.pm:25
 msgid "Filter release groups"
@@ -10448,7 +10448,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:61
 msgid "Basic"
-msgstr ""
+msgstr "Grundlæggende"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:62
 msgid "Intermediate"
@@ -10456,11 +10456,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:63
 msgid "Advanced"
-msgstr ""
+msgstr "Avanceret"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:64
 msgid "Native"
-msgstr ""
+msgstr "Modersmål"
 
 #: ../lib/MusicBrainz/Server/Form/User/EditProfile.pm:78
 msgid "You must supply a complete birth date for us to display your age."
