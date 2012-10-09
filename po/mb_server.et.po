@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-06 20:26-0700\n"
-"PO-Revision-Date: 2012-10-09 08:54+0000\n"
+"PO-Revision-Date: 2012-10-09 21:59+0000\n"
 "Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -1619,7 +1619,7 @@ msgstr "CD sisukord:"
 
 #: ../root/cdstub/header.tt:5
 msgid "CD stub by {artist}"
-msgstr "Pooleldi sisestatud CD — {artist}"
+msgstr "pooleldi sisestatud CD ~ {artist}"
 
 #: ../root/cdstub/edit_form.tt:4
 msgid "CD stub details"
@@ -2907,23 +2907,23 @@ msgstr "Aegunud"
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} day</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} days</span>"
-msgstr[0] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} päeva</span> pärast"
-msgstr[1] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} päeva</span> pärast"
+msgstr[0] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} päeva pärast</span>"
+msgstr[1] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} päeva pärast</span>"
 
 #: ../root/components/common-macros.tt:617
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} hour</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} hours</span>"
-msgstr[0] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} tunni</span> pärast"
-msgstr[1] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} tunni</span> pärast"
+msgstr[0] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} tunni pärast</span>"
+msgstr[1] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} tunni pärast</span>"
 
 #: ../root/components/common-macros.tt:623
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} minute</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} "
 "minutes</span>"
-msgstr[0] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} minuti</span> pärast"
-msgstr[1] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} minuti</span> pärast"
+msgstr[0] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} minuti pärast</span>"
+msgstr[1] "Aegub <span class=\"tooltip\" title=\"{exactdate}\">{num} minuti pärast</span>"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:38
 msgid "External links"
@@ -4423,7 +4423,7 @@ msgstr "Sellesse kogusse pole väljalaskeid lisatud."
 
 #: ../root/recording/index.tt:48
 msgid "No releases found which feature this recording."
-msgstr ""
+msgstr "Ei leitud ühtki väljalaset, kus see salvestis peal oleks."
 
 #: ../root/release_group/index.tt:78
 msgid "No releases found."
@@ -5167,7 +5167,7 @@ msgstr ""
 
 #: ../root/recording/edits.tt:20 ../root/recording/header.tt:16
 msgid "Recording by {artist}"
-msgstr "Salvestis — {artist}"
+msgstr "salvestis ~ {artist}"
 
 #: ../root/recording/layout.tt:8
 msgid "Recording information"
