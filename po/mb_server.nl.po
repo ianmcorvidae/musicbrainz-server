@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-06 20:26-0700\n"
-"PO-Revision-Date: 2012-10-17 18:37+0000\n"
+"PO-Revision-Date: 2012-10-17 19:33+0000\n"
 "Last-Translator: Maurits Meulenbelt <email address hidden>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -1151,7 +1151,7 @@ msgstr "Vermelding van de artiest:"
 
 #: ../root/artist/aliases.tt:8
 msgid "Artist credits"
-msgstr ""
+msgstr "Vermeldingen"
 
 #: ../root/edit/details/edit_medium.tt:223
 msgid "Artist credits:"
@@ -2909,23 +2909,23 @@ msgstr "Verlopen"
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} day</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} days</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Verloopt over <span class=\"tooltip\" title=\"{exactdate}\">{num} dag</span>"
+msgstr[1] "Verloopt over <span class=\"tooltip\" title=\"{exactdate}\">{num} dagen</span>"
 
 #: ../root/components/common-macros.tt:617
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} hour</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} hours</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Verloopt over <span class=\"tooltip\" title=\"{exactdate}\">{num} uur</span>"
+msgstr[1] "Verloopt over <span class=\"tooltip\" title=\"{exactdate}\">{num} uren</span>"
 
 #: ../root/components/common-macros.tt:623
 msgid "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} minute</span>"
 msgid_plural ""
 "Expires in <span class=\"tooltip\" title=\"{exactdate}\">{num} "
 "minutes</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Verloopt over  <span class=\"tooltip\" title=\"{exactdate}\">{num} minuut</span>"
+msgstr[1] "Verloopt over  <span class=\"tooltip\" title=\"{exactdate}\">{num} minuten</span>"
 
 #: ../root/layout/sidebar/sidebar-favicons.tt:38
 msgid "External links"
@@ -3669,7 +3669,7 @@ msgstr "Talen:"
 
 #: ../root/user/profile.tt:168
 msgid "Last 24 hours"
-msgstr ""
+msgstr "Afgelopen 24 uur"
 
 #: ../root/user/profile.tt:197
 msgid "Last 28 days"
@@ -5399,7 +5399,7 @@ msgstr "Uitgavegroep niet gevonden"
 
 #: ../root/release/edit_relationships.tt:392
 msgid "Release Group Relationships"
-msgstr ""
+msgstr "Relaties van de uitgavegroep"
 
 #: ../root/edit/details/add_release_group.tt:3
 #: ../root/edit/details/edit_release_group.tt:5
@@ -5411,7 +5411,7 @@ msgstr "Uitgavegroep:"
 #: ../root/cdtoc/attach_artist_releases.tt:51
 #: ../root/cdtoc/attach_filter_release.tt:66
 msgid "Release Group: {release_group_link}"
-msgstr ""
+msgstr "Uitgavegroep: {release_group_link}"
 
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 msgid "Release Groups"
@@ -6632,12 +6632,12 @@ msgstr "Etiket toevoegen"
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:43
 msgctxt "noun"
 msgid "Tag"
-msgstr ""
+msgstr "Etiket"
 
 #: ../root/collection/tag.tt:1
 msgctxt "verb"
 msgid "Tag"
-msgstr ""
+msgstr "Etiket"
 
 #: ../root/taglookup/index.tt:1 ../root/taglookup/index.tt:3
 msgid "Tag Lookup"
@@ -7255,7 +7255,7 @@ msgstr "Dit is een server voor ontwikkeling; alle wachtwoorden zijn teruggezet n
 msgid ""
 "This is a list of all the different ways {artist} is credited in the "
 "database. View the {doc|artist credit documentation} for more details."
-msgstr ""
+msgstr "Dit is een lijst van alle verschillende manieren waarop {artist} vermeld wordt in de gegevensbank. Bekijk de {doc|documentatie voor vermeldingen} voor meer details."
 
 #: ../root/annotation/common.tt:25
 msgid ""
@@ -7412,7 +7412,7 @@ msgid ""
 "members. If you find that an artist here is indeed a group, change its type."
 " If it is not, please make sure that the \"member of\" relationships are in "
 "the right direction and are correct."
-msgstr ""
+msgstr "Dit rapport toon artiesten van het type ander dan <em>groep</em> maar misschien een groep zijn omdat ze andere artiesten als lid hebben. Verander het type als een artiest inderdaad een groep is. Controleer als de artiest geen groep is of de „lid van“-relaties de goede richting op wijzen en kloppen."
 
 #: ../root/report/artists_that_may_be_persons.tt:6
 msgid ""
@@ -7421,7 +7421,7 @@ msgid ""
 "artist will appear here if it is listed as a member of another. If you find "
 "that an artist here is indeed a person, change its type. If it is not, "
 "please make sure that all the relationships are correct and make sense."
-msgstr ""
+msgstr "Dit rapport toont artiesten van het type ander dan <em>persoon</em> maar misschien een persoon zijn vanwege relaties die ze hebben. Een artiest staat hier bijvoorbeeld omdat het een lid is van een andere artiest. Verander het type als de artiest inderdaad een persoon is. Controleer of alle relaties kloppen en logisch zijn als de artiest geen persoon is."
 
 #: ../root/report/artists_containing_disambiguation_comments.tt:6
 msgid ""
@@ -7652,7 +7652,7 @@ msgstr "Dit rapport toont uitgaves met de status Pseudo-uitgave die niet met een
 #: ../root/release/merge.tt:137
 msgid ""
 "This requires that corresponding mediums have the same number of tracks."
-msgstr ""
+msgstr "Hiervoor moeten de overeenkomstige media hetzelfde aantal nummers hebben."
 
 #: ../root/user/profile.tt:185
 msgid "This table shows a summary of votes cast by this editor."
@@ -8364,13 +8364,13 @@ msgstr "Onze excuses, maar voor dit rapport zijn nu geen gegevens beschikbaar."
 
 #: ../root/edit/details/macros.tt:88
 msgid "We are unable to display history for this cover art."
-msgstr ""
+msgstr "We kunnen de geschiedenis van deze hoesafbeelding niet laten zien."
 
 #: ../root/edit/details/macros.tt:88
 msgid ""
 "We are unable to display history for this cover art. For a current listing "
 "of cover art, please see the {coverart|release's cover art page}."
-msgstr ""
+msgstr "We kunnen de geschiedenis van deze hoesafbeelding niet laten zien. Zie voor een huidige lijst van hoesafbeeldingen de {coverart|pagina met hoesafbeeldingen van de uitgave}"
 
 #: ../root/release/edit/missing_entities.tt:138
 msgid ""
@@ -8438,7 +8438,7 @@ msgstr "We hebben u een verificatie-e-mail gestuurd naar <code>{email}</code>. K
 
 #: ../root/cdtoc/lookup.tt:10
 msgid "We used DiscID <code>{discid}</code> to look up this information."
-msgstr ""
+msgstr "We hebben de DiscID <code>{discid}</code> gebruikt om deze informatie op te zoeken."
 
 #: ../root/account/edit.tt:24
 msgid ""
@@ -9138,7 +9138,7 @@ msgstr "op {date}"
 
 #: ../root/components/common-macros.tt:115
 msgid "original"
-msgstr ""
+msgstr "Origineel"
 
 #: ../root/scripts/text_strings.tt:76
 msgid "page #{page} of #{total}"
@@ -9250,7 +9250,7 @@ msgstr "{about|Meer informatie} &mdash; {faq|FAQ's} &mdash; {contact|Neem contac
 
 #: ../root/components/common-macros.tt:122
 msgid "{almost_last_list_item} and {last_list_item}"
-msgstr ""
+msgstr "{almost_last_list_item} en {last_list_item}"
 
 #: ../root/artist/works-list.tt:36 ../root/iswc/index.tt:36
 #: ../root/otherlookup/results-work.tt:20 ../root/search/results-work.tt:24
@@ -9290,7 +9290,7 @@ msgstr "{collection} van {owner}"
 
 #: ../root/components/common-macros.tt:133
 msgid "{commas_only_list_item}, {rest}"
-msgstr ""
+msgstr "{commas_only_list_item}, {rest}"
 
 #: ../root/user/profile.tt:99
 msgid "{count} ({url|view list})"
@@ -9349,7 +9349,7 @@ msgstr "{format} {position} {name} op {release} van {artist}"
 
 #: ../root/components/common-macros.tt:131
 msgid "{last_list_item}"
-msgstr ""
+msgstr "{last_list_item}"
 
 #: ../root/components/ratings.tt:20
 msgid "{link} has no ratings."
@@ -9361,7 +9361,7 @@ msgstr "{link} heeft geen relaties."
 
 #: ../root/components/common-macros.tt:124
 msgid "{list_item}, {rest}"
-msgstr ""
+msgstr "{list_item}, {rest}"
 
 #: ../root/artist/details.tt:11 ../root/label/details.tt:11
 #: ../root/recording/details.tt:11 ../root/release/details.tt:11
@@ -9554,7 +9554,7 @@ msgstr "{user} heeft niets een etiket gegeven."
 msgid ""
 "{valink|Various Artists} should very rarely be used on recordings, make sure"
 " that the artist has been entered correctly."
-msgstr ""
+msgstr "{valink|Diverse Artiesten} moet zelden worden gebruikt op opnames. Zorg er voor dat de artiest goed is ingevoerd."
 
 #: ../root/release/edit/tracklist.tt:136
 msgid ""
@@ -9767,7 +9767,7 @@ msgstr "Uw bericht kon niet verzonden worden"
 #: ../lib/MusicBrainz/Server/Controller/User.pm:356
 #, perl-brace-format
 msgid "'{type}' is not an entity type that can have ratings."
-msgstr ""
+msgstr "„{type}“ is geen type object dat een waardering kan hebben."
 
 #: ../lib/MusicBrainz/Server/Controller/WS/2/DiscID.pm:87
 msgid "Invalid TOC"
@@ -10265,7 +10265,7 @@ msgstr "De artiest „{artist}“ is niet gekoppeld, selecteer een bestaande art
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:68
 msgid "Artist credit field is required"
-msgstr ""
+msgstr "Het veld vermeldingen is vereist"
 
 #: ../lib/MusicBrainz/Server/Form/Field/DatePeriod.pm:46
 msgid "The end date must occur on or after the begin date"
@@ -10470,11 +10470,11 @@ msgstr "U moet een volledige geboortedatum opgeven om uw leeftijd te kunnen tone
 
 #: ../lib/MusicBrainz/Server/Form/User/Login.pm:9
 msgid "Username field is required"
-msgstr ""
+msgstr "Het veld gebruikersnaam is vereist."
 
 #: ../lib/MusicBrainz/Server/Form/User/Login.pm:16
 msgid "Password field is required"
-msgstr ""
+msgstr "Het veld wachtwoord is vereist."
 
 #: ../lib/MusicBrainz/Server/Form/User/Preferences.pm:81
 msgid "Daily"
@@ -10490,7 +10490,7 @@ msgstr "Nooit"
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:21
 msgid "Please enter a password in this field"
-msgstr ""
+msgstr "Voer het wachtwoord in dit veld in."
 
 #: ../lib/MusicBrainz/Server/Form/User/Register.pm:29
 msgid "The password confirmation does not match the password"
