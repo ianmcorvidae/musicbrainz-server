@@ -12,13 +12,14 @@
 #   <email address hidden>, 2012.
 #   <email address hidden>, 2012.
 #   <email address hidden>, 2012.
+#   <email address hidden>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-20 03:11-0700\n"
-"PO-Revision-Date: 2012-10-20 10:15+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-10-27 16:14+0000\n"
+"Last-Translator: nikki <email address hidden>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/musicbrainz/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2724,7 +2725,7 @@ msgstr "Edições para “{link}”"
 #: ../root/release/edits.tt:15 ../root/release_group/edits.tt:15
 #: ../root/work/edits.tt:14
 msgid "Edits for “{name}”"
-msgstr "Edições para “{link}”"
+msgstr "Edições para “{name}”"
 
 #: ../root/elections/not_found.tt:1 ../root/elections/not_found.tt:2
 msgid "Election Not Found"
@@ -4977,7 +4978,7 @@ msgstr "Por favor {log_in|faça login} para adicionar ou editar apelidos"
 
 #: ../root/recording/fingerprints.tt:39
 msgid "Please {login_url|log in} to edit these PUIDs."
-msgstr "Por favor {log_in|faça login} para editar estes PUIDs."
+msgstr "Por favor {login_url|faça login} para editar estes PUIDs."
 
 #: ../root/release/discids.tt:57
 msgid "Please {login} to edit the disc IDs for this release."
@@ -4985,7 +4986,7 @@ msgstr "Por favor {login} para editar os IDs de Disco deste release."
 
 #: ../root/release/edit-links.tt:15
 msgid "Please {uri|log in} to edit this release"
-msgstr "Por favor {log_in|faça login} para editar este release"
+msgstr "Por favor {uri|faça login} para editar este release"
 
 #: ../root/cdtoc/list.tt:4
 msgid "Position"
@@ -5180,7 +5181,7 @@ msgstr "Avaliações das gravações"
 
 #: ../root/recording/layout.tt:1
 msgid "Recording “{name}” by {artist}"
-msgstr "Limpar gravação"
+msgstr ""
 
 #: ../root/components/common-macros.tt:491
 #: ../root/edit/details/add_recording_annotation.tt:3
@@ -7820,7 +7821,7 @@ msgstr "Duração total:"
 #: ../root/report/featuring_recordings.tt:12
 #: ../root/report/recordings_with_earliest_release_relationships.tt:11
 msgid "Total recordings found: {count}"
-msgstr "Total de gravações encontradas:"
+msgstr "Total de gravações encontradas: {count}"
 
 #: ../root/report/discogs_links_with_multiple_release_groups.tt:7
 #: ../root/report/featuring_release_groups.tt:11
@@ -8882,7 +8883,7 @@ msgstr "Seu e-mail foi enviado com sucesso! Clique {link|aqui} para continuar no
 msgid ""
 "Your password has been changed. Click {link|here} to continue to your user "
 "page."
-msgstr "Sua senha foi modificada! Clique {link | aqui} para continuar na sua página de usuário."
+msgstr "Sua senha foi modificada! Clique {link|aqui} para continuar na sua página de usuário."
 
 #: ../root/account/reset_password_ok.tt:5
 msgid "Your password has been reset."
@@ -8892,7 +8893,7 @@ msgstr "Sua senha foi resetada."
 msgid ""
 "Your preferences have been saved. Click {link|here} to continue to your user"
 " page."
-msgstr "Suas preferências foram salvas. Clique {link| aqui} para continuar na sua página de usuário."
+msgstr "Suas preferências foram salvas. Clique {link|aqui} para continuar na sua página de usuário."
 
 #: ../root/account/edit_ok.tt:6
 msgid "Your profile has been updated."
