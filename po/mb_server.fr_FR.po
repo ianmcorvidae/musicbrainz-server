@@ -9,13 +9,14 @@
 # Benjamin Sonntag <email address hidden>, 2011, 2012.
 # Dibou  <email address hidden>, 2012.
 # murdos <email address hidden>, 2011.
+#   <email address hidden>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-20 03:11-0700\n"
-"PO-Revision-Date: 2012-10-20 10:15+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-10-27 17:58+0000\n"
+"Last-Translator: nikki <email address hidden>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/musicbrainz/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,7 +33,7 @@ msgid ""
 " Enter your username and email below. We will send you an email with a link "
 "to reset your password. If you have forgotten your username, {link|retrieve "
 "it} first and then reset your password. "
-msgstr " Saisissez votre nom d'utilisateur et votre adresse e-mail ci-dessous. Nous vous enverrons un e-mail incluant un lien pour réinitialiser votre mot de passe. Si vous avez oublié votre mot de passe, {lien|retrouvez-le} en premier et après réinitialisez votre mot de passe. ²"
+msgstr "Saisissez votre nom d'utilisateur et votre adresse e-mail ci-dessous. Nous vous enverrons un e-mail incluant un lien pour réinitialiser votre mot de passe. Si vous avez oublié votre mot de passe, {link|retrouvez-le} en premier et après réinitialisez votre mot de passe."
 
 #: ../root/components/forms.tt:239
 msgid "\"C\" is a single check digit."
@@ -3192,7 +3193,7 @@ msgid ""
 "{metabrainz_foundation}, a California based 501(c)3 tax-exempt non-profit, "
 "operates the MusicBrainz project which makes all donations <b>tax "
 "deductible</b> for US taxpayers. And its simply good karma everywhere else!"
-msgstr "Cependant, nous devons payer les factures d'hébergement du site qui est bien au-delà de 1000$ par mois. Nous avons donc besoin de votre aide pour joindre les deux bouts et, espérons-le, pouvoir financer d'autres développements. La {fondation_metabrainz}, une association à but non lucratif basée en Californie, gère le projet MusicBrainz, ce qui permet aux contribuables américains de <b>déduire de leurs impôts</b> les dons effectués. Et en dehors des États-Unis, nous soutenir influera sur votre karma !"
+msgstr "Cependant, nous devons payer les factures d'hébergement du site qui est bien au-delà de 1000$ par mois. Nous avons donc besoin de votre aide pour joindre les deux bouts et, espérons-le, pouvoir financer d'autres développements. La {metabrainz_foundation}, une association à but non lucratif basée en Californie, gère le projet MusicBrainz, ce qui permet aux contribuables américains de <b>déduire de leurs impôts</b> les dons effectués. Et en dehors des États-Unis, nous soutenir influera sur votre karma !"
 
 #: ../root/release/edit/information.tt:184
 msgid "I confirm that this is the barcode as it appears on the release."
@@ -6179,13 +6180,13 @@ msgstr "Affichage des enregistrements isolés. {show_all|Afficher plutôt tous l
 msgid ""
 "Showing release groups by this artist. {show_all|Show Various Artist release"
 " groups instead}."
-msgstr "Affichage des groupes de sorties de cet artiste {show_subset|Cliquez ici pour afficher plutôt les groupes de sorties des \"artistes divers\"}."
+msgstr "Affichage des groupes de sorties de cet artiste {show_all|Cliquez ici pour afficher plutôt les groupes de sorties des \"artistes divers\"}."
 
 #: ../root/artist/releases.tt:28
 msgid ""
 "Showing releases by this artist. {show_all|Show Various Artist releases "
 "instead}."
-msgstr "Affichage des sorties de cet artiste {show_subset|Cliquez ici pour afficher plutôt les sorties des \"artistes divers\"}."
+msgstr "Affichage des sorties de cet artiste {show_all|Cliquez ici pour afficher plutôt les sorties des \"artistes divers\"}."
 
 #: ../root/scripts/text_strings.tt:39
 msgid ""
@@ -6229,7 +6230,7 @@ msgstr "Certaines pistes ont été modifiées, merci de choisir un enregistremen
 msgid ""
 "Sorry, <code>{discid}</code> does not match a CD stub. You can try  "
 "{search_url|searching for it} instead."
-msgstr "Désolé, <code>{discis}</code> ne correspond à aucun CDStub. Vous pouvez essayer de {search_url|chercher après}."
+msgstr "Désolé, <code>{discid}</code> ne correspond à aucun CDStub. Vous pouvez essayer de {search_url|chercher après}."
 
 #: ../root/cdstub/error.tt:19
 msgid "Sorry, <code>{discid}</code> is not a valid disc ID."
@@ -7052,7 +7053,7 @@ msgstr "Un problème est survenu à la suppression de la modification {edit}."
 #: ../root/release/edit/layout.tt:47
 msgid ""
 "There were one or more errors, please check the following fields: {fields}"
-msgstr "Il y a une ou plusieurs erreurs, veuillez vérifier les champs suivants : {champs}"
+msgstr "Il y a une ou plusieurs erreurs, veuillez vérifier les champs suivants : {fields}"
 
 #: ../root/release/cover_art.tt:37
 msgid "These images provided by the {caa|Cover Art Archive}."
@@ -8727,7 +8728,7 @@ msgstr "Vous ne pouvez pas votez sur cette modification actuellement. ({url|Dét
 #: ../root/artist/subscribers.tt:33 ../root/label/subscribers.tt:33
 #: ../root/user/subscribers.tt:38
 msgid "You are not currently subscribed. {sub|Subscribe}?"
-msgstr "Vous n'êtes actuellement pas abonné. {Sub |S'abonner} ?"
+msgstr "Vous n'êtes actuellement pas abonné. {sub|S'abonner} ?"
 
 #: ../root/watch/list.tt:32
 msgid "You are not currently watching any artists for new releases."
