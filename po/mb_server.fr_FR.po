@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-20 03:11-0700\n"
-"PO-Revision-Date: 2012-10-27 18:07+0000\n"
+"PO-Revision-Date: 2012-10-27 19:37+0000\n"
 "Last-Translator: nikki <email address hidden>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/musicbrainz/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -198,7 +198,7 @@ msgstr "(était le média {position} de la sortie {release})"
 
 #: ../root/release/merge.tt:107
 msgid "(was medium {position}: {name} on release {release})"
-msgstr "(était le média {position} : {nom} de la sortie {release})"
+msgstr "(était le média {position} : {name} de la sortie {release})"
 
 #: ../root/recording/layout.tt:19
 msgid "({delete_uri|remove})"
@@ -937,7 +937,7 @@ msgstr "Approuver la modification"
 msgid ""
 "Are you sure that you want to merge {release1} by {artist1} into {release2} "
 "by {artist2}?"
-msgstr "Êtes-vous sûr de vouloir fusionner {release1} par {artiste1} avec {release2} par {artiste2} ?"
+msgstr "Êtes-vous sûr de vouloir fusionner {release1} par {artist1} avec {release2} par {artist2} ?"
 
 #: ../root/release/move_confirm.tt:4
 msgid ""
@@ -949,7 +949,7 @@ msgstr "Êtes-vous sûr de vouloir déplacer {release} par {release_artist} dans
 msgid ""
 "Are you sure that you wish to attach the disc ID <code>{discid}</code> to "
 "{format} {pos} of {release} by {artist}?"
-msgstr "Voulez-vous vraiment rattacher le disc ID <code>{discid}</code> à {format} {pos} de la sortie {release} par {artiste} ?"
+msgstr "Voulez-vous vraiment rattacher le disc ID <code>{discid}</code> à {format} {pos} de la sortie {release} par {artist} ?"
 
 #: ../root/admin/delete_user.tt:4
 msgid ""
@@ -1443,7 +1443,7 @@ msgid ""
 "review entered data to create the most accurate music database on the "
 "internet. If this appeals to you, please {reg|create an account} or "
 "{login_url|login}."
-msgstr "Devenez membre de MusicBrainz en vous créant un compte et {how|lisez notre documentation} sur comment entrer des informations dans MusicBrainz. Découvrez comment ce processus de re"
+msgstr ""
 
 #: ../root/scripts/text_strings.tt:72
 msgid "Began:"
@@ -2288,7 +2288,7 @@ msgstr "Disque {num}"
 
 #: ../root/release/edit/recordings.tt:245
 msgid "Disc {num}: {title}"
-msgstr "Disque {num} : {titre}"
+msgstr "Disque {num} : {title}"
 
 #: ../root/artist/index.tt:39
 msgid "Discography"
@@ -7688,7 +7688,7 @@ msgstr ""
 
 #: ../root/release/merge_search.tt:4
 msgid "This wizard allows you to merge {release} into another release."
-msgstr "Cet assistant vous permet de fusionner {cette sortie} dans une autre."
+msgstr "Cet assistant vous permet de fusionner {release} dans une autre sortie."
 
 #: ../root/work/index.tt:4
 msgid ""
