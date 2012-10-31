@@ -4,13 +4,14 @@
 # 
 # Translators:
 # Lukáš Lalinský <email address hidden>, 2012.
+# Pavol Babinčák <email address hidden>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-31 12:53-0700\n"
-"PO-Revision-Date: 2012-10-31 19:59+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-10-31 22:59+0000\n"
+"Last-Translator: Pavol Babinčák <email address hidden>\n"
 "Language-Team: Slovak (http://www.transifex.com/projects/p/musicbrainz/language/sk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -180,7 +181,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:79
 #: ../lib/MusicBrainz/Server/Entity/Release.pm:190
 msgid "(unknown)"
-msgstr ""
+msgstr "(neznáme)"
 
 #: ../root/user/profile.tt:24
 msgid "(verified at {date})"
@@ -571,7 +572,7 @@ msgstr ""
 #: ../root/artist/add_alias.tt:13
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAlias.pm:14
 msgid "Add artist alias"
-msgstr ""
+msgstr "Pridať prezývku umelca"
 
 #: ../root/relationship/linkattributetype/common.tt:24
 msgid "Add child"
@@ -588,7 +589,7 @@ msgstr ""
 #: ../root/label/add_alias.tt:13
 #: ../lib/MusicBrainz/Server/Edit/Label/AddAlias.pm:14
 msgid "Add label alias"
-msgstr ""
+msgstr "Pridať prezývku vydavateľstvu"
 
 #: ../root/release/edit/missing_entities.tt:69
 msgid "Add new artist"
@@ -923,7 +924,7 @@ msgstr ""
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:50
 msgid "Append mediums to target release"
-msgstr ""
+msgstr "Pripojiť médiá k cieľovému vydaniu"
 
 #: ../root/edit/search_macros.tt:239
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:189
@@ -1777,13 +1778,13 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseGroup.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Release/Move.pm:17
 msgid "Change release group"
-msgstr ""
+msgstr "Zmeniť skupinu vydania"
 
 #: ../root/release/sidebar.tt:81
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeReleaseQuality.pm:12
 #: ../lib/MusicBrainz/Server/Edit/Release/ChangeQuality.pm:17
 msgid "Change release quality"
-msgstr ""
+msgstr "Zmeniť kvalitu vydania"
 
 #: ../root/edit/vote.tt:27
 msgid "Change vote"
@@ -2471,7 +2472,7 @@ msgstr ""
 #: ../root/forms/edit-note.tt:2
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:80
 msgid "Edit Note"
-msgstr ""
+msgstr "Upraviť poznámku"
 
 #: ../root/account/edit_ok.tt:1 ../root/account/edit_ok.tt:3
 #: ../root/account/edit.tt:1 ../root/account/edit.tt:3
@@ -2555,7 +2556,7 @@ msgstr ""
 #: ../root/artist/edit_alias.tt:13
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditAlias.pm:12
 msgid "Edit artist alias"
-msgstr ""
+msgstr "Upraviť prezývku umelca"
 
 #: ../root/artist/edit_annotation.tt:2
 msgid "Edit artist annotation"
@@ -2568,7 +2569,7 @@ msgstr ""
 #: ../root/label/edit_alias.tt:13
 #: ../lib/MusicBrainz/Server/Edit/Label/EditAlias.pm:12
 msgid "Edit label alias"
-msgstr ""
+msgstr "Upraviť prezývku vydavateľstva"
 
 #: ../root/label/edit_annotation.tt:2
 msgid "Edit label annotation"
@@ -2590,7 +2591,7 @@ msgstr ""
 #: ../root/recording/edit.tt:32
 #: ../lib/MusicBrainz/Server/Edit/Recording/Edit.pm:32
 msgid "Edit recording"
-msgstr ""
+msgstr "Upraviť nahrávku"
 
 #: ../root/recording/edit_annotation.tt:2
 msgid "Edit recording annotation"
@@ -3603,7 +3604,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Label.pm:7
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:38
 msgid "Label"
-msgstr ""
+msgstr "Vydavateľstvo"
 
 #: ../root/edit/search_macros.tt:284
 msgid "Label Country"
@@ -3905,7 +3906,7 @@ msgstr ""
 #: ../root/search/lib/inline-results-recording.tt:16
 #: ../lib/MusicBrainz/Server/Edit/Medium.pm:7
 msgid "Medium"
-msgstr ""
+msgstr "Médium"
 
 #: ../root/tracklist/index.tt:28
 msgid "Medium #"
@@ -3998,7 +3999,7 @@ msgstr ""
 #: ../root/edit/details/merge_releases.tt:67
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:51
 msgid "Merge mediums and recordings"
-msgstr ""
+msgstr "Zlúčiť médiá a nahrávky"
 
 #: ../root/release/merge_confirm.tt:10
 msgid "Merge method:"
@@ -4019,7 +4020,7 @@ msgstr ""
 #: ../root/artist/index.tt:99
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Merge.pm:13
 msgid "Merge release groups"
-msgstr ""
+msgstr "Zlúčiť skupiny vydaní"
 
 #: ../root/edit/details/merge_releases.tt:65 ../root/release/merge.tt:84
 msgid "Merge strategy:"
@@ -5188,7 +5189,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Recording.pm:7
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:36
 msgid "Recording"
-msgstr ""
+msgstr "Nahrávka"
 
 #: ../root/recording/edit_form.tt:6
 msgid "Recording Details"
@@ -5232,7 +5233,7 @@ msgstr ""
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:65
 msgid "Recordings"
-msgstr ""
+msgstr "Nahrávky"
 
 #: ../root/artist/browse_various_recordings.tt:5
 msgid "Recordings starting with “{index}”"
@@ -5397,7 +5398,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Release.pm:8
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:35
 msgid "Release"
-msgstr ""
+msgstr "Vydanie"
 
 #: ../root/recording/index.tt:13
 msgid "Release Artist"
@@ -5418,7 +5419,7 @@ msgstr ""
 #: ../root/search/results-release-group.tt:8
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:34
 msgid "Release Group"
-msgstr ""
+msgstr "Skupina vydaní"
 
 #: ../root/release_group/edit_form.tt:6
 msgid "Release Group Details"
@@ -5772,7 +5773,7 @@ msgstr ""
 #: ../root/recording/delete_puid.tt:1
 #: ../lib/MusicBrainz/Server/Edit/PUID/Delete.pm:14
 msgid "Remove PUID"
-msgstr ""
+msgstr "Odstrániť PUID"
 
 #: ../root/admin/wikidoc/delete.tt:1 ../root/admin/wikidoc/delete.tt:3
 msgid "Remove Page"
@@ -5864,7 +5865,7 @@ msgstr ""
 #: ../root/release/edit/tracklist.tt:338
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveTrack.pm:10
 msgid "Remove track"
-msgstr ""
+msgstr "Odstrániť stopu"
 
 #: ../root/components/rating-macros.tt:1
 msgid "Remove your rating"
@@ -6131,7 +6132,7 @@ msgstr ""
 #: ../root/account/lost_username.tt:14 ../root/user/contact.tt:1
 #: ../root/user/contact.tt:3 ../lib/MusicBrainz/Server/Controller/User.pm:245
 msgid "Send Email"
-msgstr ""
+msgstr "Odoslať e-mail"
 
 #: ../root/user/contact.tt:17
 msgid "Send a copy to my own email address"
@@ -7233,7 +7234,7 @@ msgstr ""
 #: ../root/components/common-macros.tt:232
 #: ../lib/MusicBrainz/Server/Plugin/Diff.pm:118
 msgid "This entity has been removed, and cannot be displayed correctly."
-msgstr ""
+msgstr "Táto entita bola odobraná a nemôže byť správne zobrazená."
 
 #: ../root/components/common-macros.tt:232
 msgid "This entity will be created when edits are entered."
@@ -7763,7 +7764,7 @@ msgstr ""
 #: ../root/tracklist/index.tt:29
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:13
 msgid "Title"
-msgstr ""
+msgstr "Názov"
 
 #: ../root/cdstub/edit_form.tt:5 ../root/edit/details/add_track_kv.tt:3
 #: ../root/release/edit/information.tt:24
@@ -7952,7 +7953,7 @@ msgstr ""
 #: ../root/tracklist/index.tt:2
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:58
 msgid "Tracklist"
-msgstr ""
+msgstr "Zoznam stôp"
 
 #: ../root/edit/details/add_medium.tt:31
 #: ../root/edit/details/remove_medium.tt:17
@@ -8072,7 +8073,7 @@ msgstr ""
 #: ../root/report/release_url_list.tt:5 ../root/scripts/text_strings.tt:107
 #: ../lib/MusicBrainz/Server/Edit/URL.pm:7
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../root/url/index.tt:2
 msgid "URL Details"
@@ -9646,7 +9647,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller.pm:29
 #, perl-brace-format
 msgid "'{id}' is not a valid MusicBrainz ID"
-msgstr ""
+msgstr "„{id}“ nie je platný identifikátor MusicBrainz"
 
 #: ../lib/MusicBrainz/Server/Controller.pm:115
 msgid ""
