@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-31 12:53-0700\n"
-"PO-Revision-Date: 2012-10-31 22:59+0000\n"
+"PO-Revision-Date: 2012-10-31 23:17+0000\n"
 "Last-Translator: Pavol Babinčák <email address hidden>\n"
 "Language-Team: Slovak (http://www.transifex.com/projects/p/musicbrainz/language/sk/)\n"
 "MIME-Version: 1.0\n"
@@ -624,7 +624,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddLink.pm:10
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Create.pm:23
 msgid "Add relationship"
-msgstr ""
+msgstr "Pridať vzťah"
 
 #: ../root/artist/layout.tt:68 ../root/label/layout.tt:57
 #: ../root/release_group/layout.tt:28
@@ -3198,7 +3198,7 @@ msgstr ""
 #: ../root/doc/edit_types.tt:5 ../root/doc/edit_types.tt:19
 #: ../root/doc/edit_types.tt:21 ../lib/MusicBrainz/Server/Edit/Historic.pm:12
 msgid "Historic"
-msgstr ""
+msgstr "Historické"
 
 #: ../root/user/profile.tt:90
 msgid "Homepage:"
@@ -5832,7 +5832,7 @@ msgstr ""
 #: ../root/label/layout.tt:69
 #: ../lib/MusicBrainz/Server/Edit/Label/Delete.pm:12
 msgid "Remove label"
-msgstr ""
+msgstr "Odstrániť vydavateľstvo"
 
 #: ../root/recording/layout.tt:41
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
@@ -5843,12 +5843,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
 #: ../lib/MusicBrainz/Server/Edit/Release/Delete.pm:12
 msgid "Remove release"
-msgstr ""
+msgstr "Odstrániť vydanie"
 
 #: ../root/release_group/layout.tt:41
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Delete.pm:12
 msgid "Remove release group"
-msgstr ""
+msgstr "Odstrániť skupinu vydaní"
 
 #: ../root/layout/merge-helper.tt:33
 msgid "Remove selected entities"
@@ -9652,36 +9652,36 @@ msgstr "„{id}“ nie je platný identifikátor MusicBrainz"
 #: ../lib/MusicBrainz/Server/Controller.pm:115
 msgid ""
 "Thank you, your edit has been entered into the edit queue for peer review."
-msgstr ""
+msgstr "Ďakujeme vám. Vaše úpravy boli zadané do fronty úprav pre vzájomnú kontrolu."
 
 #: ../lib/MusicBrainz/Server/Controller.pm:116
 msgid "Thank you, your edit has been accepted and applied"
-msgstr ""
+msgstr "Ďakujeme vám. Vaše úpravy boli prijaté a použité."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:45
 msgid "The user ID is missing or is in an invalid format."
-msgstr ""
+msgstr "Chýba identifikátor používateľa, alebo je v nesprávnom formáte."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:52
 msgid "The email address is missing."
-msgstr ""
+msgstr "Chýba e-mailová adresa."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:59
 msgid "The time is missing or is in an invalid format."
-msgstr ""
+msgstr "Chýba čas, alebo je v nesprávnom formáte."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:67
 msgid "The verification key is missing."
-msgstr ""
+msgstr "Chýba overovací kľúč."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:75
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:207
 msgid "The checksum is invalid, please double check your email."
-msgstr ""
+msgstr "Nesprávny kontrolný súčet, prekontrolujte si váš e-mail."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:83
 msgid "Sorry, this email verification link has expired."
-msgstr ""
+msgstr "Je nám ľúto, overovací odkaz e-mailu exspiroval."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:92
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:216
@@ -9697,23 +9697,23 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:158
 msgid "There is no user with this username"
-msgstr ""
+msgstr "Neexistuje používateľ s takýmto používateľským menom"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:162
 msgid "There is no user with this username and email"
-msgstr ""
+msgstr "Neexistuje používateľ s takýmto používateľským menom a e-mailom"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:191
 msgid "Missing one or more required parameters."
-msgstr ""
+msgstr "Chýba jeden, či viac vyžadovaných parametrov."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:199
 msgid "Sorry, this password reset link has expired."
-msgstr ""
+msgstr "Je nám ľúto, odkaz na obnovu hesla exspiroval."
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:257
 msgid "There is no user with this email"
-msgstr ""
+msgstr "Neexistuje používateľ s takýmto e-mailom"
 
 #: ../lib/MusicBrainz/Server/Controller/Account.pm:511
 msgid ""
@@ -9738,7 +9738,7 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:146
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:312
 msgid "The provided CD TOC is not valid"
-msgstr ""
+msgstr "Zadané CD TOC nie je platné"
 
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:159
 #: ../lib/MusicBrainz/Server/Controller/CDTOC.pm:326
@@ -9764,24 +9764,24 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:185
 msgid "Invalid arguments"
-msgstr ""
+msgstr "Nesprávne argumenty"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:199
 msgid "Invalid entities"
-msgstr ""
+msgstr "Nesprávne entity"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:207
 msgid "A relationship requires 2 different entities"
-msgstr ""
+msgstr "Vzťah vyžaduje 2 rôzne entity"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:284
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:292
 msgid "Invalid type"
-msgstr ""
+msgstr "Nesprávny typ"
 
 #: ../lib/MusicBrainz/Server/Controller/Edit/Relationship.pm:298
 msgid "Entity not found"
-msgstr ""
+msgstr "Entita nebola nájdená"
 
 #: ../lib/MusicBrainz/Server/Controller/FreeDB.pm:37
 #, perl-brace-format
@@ -9790,7 +9790,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/ISRC.pm:58
 msgid "This ISRC does not exist"
-msgstr ""
+msgstr "Tento ISRC neexistuje"
 
 #: ../lib/MusicBrainz/Server/Controller/Recording.pm:243
 msgid "This ISRC already exists for this recording"
@@ -9811,7 +9811,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:311
 msgid "This release is already in the selected release group"
-msgstr ""
+msgstr "Vydanie sa už nachádza vo vybranej skupine vydaní"
 
 #: ../lib/MusicBrainz/Server/Controller/Release.pm:629
 msgid ""
@@ -9903,19 +9903,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Create.pm:18
 msgid "Add artist"
-msgstr ""
+msgstr "Pridať umelca"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Delete.pm:11
 msgid "Remove artist"
-msgstr ""
+msgstr "Odstrániť umelca"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/DeleteAlias.pm:14
 msgid "Remove artist alias"
-msgstr ""
+msgstr "Odstrániť prezývku umelca"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Edit.pm:31
 msgid "Edit artist"
-msgstr ""
+msgstr "Upraviť umelca"
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/EditArtistCredit.pm:24
 msgid "Edit artist credit"
@@ -9923,12 +9923,12 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Artist/Merge.pm:13
 msgid "Merge artists"
-msgstr ""
+msgstr "Zlúčiť umelcov"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/AddDiscID.pm:10
 msgid "Add disc ID"
-msgstr ""
+msgstr "Pridať identifikátor disku"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddReleaseAnnotation.pm:13
 #: ../lib/MusicBrainz/Server/Edit/Release/AddAnnotation.pm:13
@@ -9996,12 +9996,12 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/MergeReleaseMAC.pm:9
 #: ../lib/MusicBrainz/Server/Edit/Release/Merge.pm:49
 msgid "Merge releases"
-msgstr ""
+msgstr "Zlúčiť vydania"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/MoveDiscID.pm:19
 msgid "Move disc ID"
-msgstr ""
+msgstr "Presunúť identifikátor disku"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/MoveRelease.pm:12
 msgid "Move release (historic)"
@@ -10010,20 +10010,20 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveDiscID.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Medium/RemoveDiscID.pm:11
 msgid "Remove disc ID"
-msgstr ""
+msgstr "Odstrániť identifikátor disku"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLabelAlias.pm:11
 #: ../lib/MusicBrainz/Server/Edit/Label/DeleteAlias.pm:14
 msgid "Remove label alias"
-msgstr ""
+msgstr "Odstrániť prezývku vydavateľstva"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveLink.pm:10
 msgid "Remove relationship (historic)"
-msgstr ""
+msgstr "Odstrániť vzťah (historické)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleaseEvents.pm:11
 msgid "Remove release events (historic)"
-msgstr ""
+msgstr "Odstrániť udalosť vydania (historické)"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveReleases.pm:11
 msgid "Remove releases (historic)"
@@ -10044,7 +10044,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Create.pm:19
 msgid "Add label"
-msgstr ""
+msgstr "Pridať vydavateľstvo"
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:29
 msgid "Edit label"
@@ -10052,19 +10052,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
 msgid "Merge labels"
-msgstr ""
+msgstr "Zlúčiť vydavateľstvá"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Create.pm:25
 msgid "Add medium"
-msgstr ""
+msgstr "Pridať médium"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Delete.pm:19
 msgid "Remove medium"
-msgstr ""
+msgstr "Odstrániť médium"
 
 #: ../lib/MusicBrainz/Server/Edit/Medium/Edit.pm:39
 msgid "Edit medium"
-msgstr ""
+msgstr "Upraviť médium"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddAnnotation.pm:12
 msgid "Add recording annotation"
@@ -10072,7 +10072,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddISRCs.pm:21
 msgid "Add ISRCs"
-msgstr ""
+msgstr "Pridať ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddPUIDs.pm:13
 msgid "Add PUIDs"
@@ -10088,7 +10088,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/RemoveISRC.pm:17
 msgid "Remove ISRC"
-msgstr ""
+msgstr "Odstrániť ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship.pm:7
 msgid "Relationship"
@@ -10096,7 +10096,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkAttribute.pm:13
 msgid "Add relationship attribute"
-msgstr ""
+msgstr "Pridať vzťahový atribút"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkType.pm:13
 msgid "Add relationship type"
@@ -10116,7 +10116,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkAttribute.pm:13
 msgid "Remove relationship attribute"
-msgstr ""
+msgstr "Odstrániť vzťahový atribút"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkType.pm:13
 msgid "Remove relationship type"
