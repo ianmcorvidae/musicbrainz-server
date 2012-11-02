@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-31 12:53-0700\n"
-"PO-Revision-Date: 2012-11-01 22:59+0000\n"
+"PO-Revision-Date: 2012-11-01 23:19+0000\n"
 "Last-Translator: Luca Salini <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -4862,7 +4862,7 @@ msgid ""
 "Please make sure you're not removing a legitimate {doc_standalone|standalone"
 " recording}. If this recording duplicates another, please {doc_merge|merge "
 "rather than delete}."
-msgstr ""
+msgstr "Assicurati che tu non stia rimuovendo una {doc_standalone|registrazione indipendente} valida. Se questa registrazione ne duplica un'altra, {doc_merge|uniscile anziché eliminarla}."
 
 #: ../root/layout/merge-helper.tt:24
 msgid ""
@@ -7793,7 +7793,7 @@ msgstr "{url|Accedi} per sapere se puoi votare per questo candidato."
 msgid ""
 "To use the batch tools, select some recordings or works using the "
 "checkboxes."
-msgstr ""
+msgstr "Per utilizzare gli strumenti per effettuare batch di modifiche, seleziona alcune registrazioni o opere utilizzando le caselle di controllo."
 
 #: ../root/watch/list.tt:36
 msgid ""
@@ -8366,7 +8366,7 @@ msgid ""
 "Warning: This relationship has pending edits. <a target=\"_blank\" data-"
 "bind=\"attr: {href: relationship().openEdits()}\">Click here</a> to view "
 "these edits and make sure they do not conflict with your own."
-msgstr ""
+msgstr "Attenzione: questa relazione ha delle modifiche in corso. <a target=\"_blank\" data-bind=\"attr: {href: relationship().openEdits()}\">Clicca qui</a> per visualizzare queste modifiche e assicurarti che non siano in conflitto con la tua."
 
 #: ../root/watch/list.tt:1 ../root/watch/list.tt:2
 msgid "Watched Artists"
@@ -8470,7 +8470,7 @@ msgstr "Siamo desolati per questo inconveniente. Aspetta qualche minuto e poi ri
 msgid ""
 "We're very sorry, an error occurred during submission. The server may be "
 "under heavy load; please wait a moment and try again."
-msgstr ""
+msgstr "Spiacenti, si è verificato un errore durante il tuo invio. Il server potrebbe essere sovraccarico; per favore, aspetta un momento e riprova."
 
 #: ../root/account/lost_username_sent.tt:5
 msgid ""
@@ -10159,7 +10159,7 @@ msgstr "Nessun voto"
 
 #: ../lib/MusicBrainz/Server/Edit/Utils.pm:254
 msgid "Cancelled"
-msgstr "Cancellato"
+msgstr "Annullata"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
@@ -10215,25 +10215,25 @@ msgstr "In attesa del 2º sostenitore"
 #, perl-brace-format
 msgctxt "autoeditor election status"
 msgid "Voting open since {date}"
-msgstr ""
+msgstr "Votazione aperta dal {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:92
 #, perl-brace-format
 msgctxt "autoeditor election status"
 msgid "Accepted at {date}"
-msgstr ""
+msgstr "Accettato il {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:93
 #, perl-brace-format
 msgctxt "autoeditor election status"
 msgid "Declined at {date}"
-msgstr ""
+msgstr "Rifiutato il {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:94
 #, perl-brace-format
 msgctxt "autoeditor election status"
 msgid "Cancelled at {date}"
-msgstr ""
+msgstr "Annullato il {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:98
 msgctxt "autoeditor election status (short)"
@@ -10248,22 +10248,22 @@ msgstr "In attesa del 2º sostenitore"
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:100
 msgctxt "autoeditor election status (short)"
 msgid "Voting open"
-msgstr ""
+msgstr "Votazione aperta"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:101
 msgctxt "autoeditor election status (short)"
 msgid "Accepted"
-msgstr ""
+msgstr "Accettato"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:102
 msgctxt "autoeditor election status (short)"
 msgid "Declined"
-msgstr ""
+msgstr "Rifiutato"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:103
 msgctxt "autoeditor election status (short)"
 msgid "Cancelled"
-msgstr ""
+msgstr "Annullato"
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
