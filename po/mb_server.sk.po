@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-31 12:53-0700\n"
-"PO-Revision-Date: 2012-10-31 23:17+0000\n"
+"PO-Revision-Date: 2012-11-04 12:34+0000\n"
 "Last-Translator: Pavol Babinčák <email address hidden>\n"
 "Language-Team: Slovak (http://www.transifex.com/projects/p/musicbrainz/language/sk/)\n"
 "MIME-Version: 1.0\n"
@@ -171,7 +171,7 @@ msgstr ""
 
 #: ../root/search/lib/inline-results-recording.tt:60
 msgid "(standalone recording)"
-msgstr ""
+msgstr "(samostatná nahrávka)"
 
 #: ../root/components/details.tt:1 ../root/edit/details/add_isrcs.tt:5
 #: ../root/edit/details/historic/convert_release_to_multiple_artists.tt:11
@@ -185,15 +185,15 @@ msgstr "(neznáme)"
 
 #: ../root/user/profile.tt:24
 msgid "(verified at {date})"
-msgstr ""
+msgstr "(overené {dátum})"
 
 #: ../root/release/merge.tt:112
 msgid "(was medium {position} on release {release})"
-msgstr ""
+msgstr "(bolo médium {pozícia} na vydaní {vydanie})"
 
 #: ../root/release/merge.tt:107
 msgid "(was medium {position}: {name} on release {release})"
-msgstr ""
+msgstr "(bolo médium {pozícia}: {názov} na vydaní {vydanie})"
 
 #: ../root/recording/layout.tt:19
 msgid "({delete_uri|remove})"
@@ -212,18 +212,18 @@ msgstr ""
 
 #: ../root/user/profile.tt:101
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../root/edit/info.tt:48
 msgid "1 vote"
 msgid_plural "{n} unanimous votes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "1 hlas"
+msgstr[1] "{n} súhlasné hlasy"
+msgstr[2] "{n} súhlasných hlasov"
 
 #: ../root/user/profile.tt:230 ../root/user/profile.tt:234
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: ../root/elections/show.tt:17
 msgid "1st seconder:"
@@ -631,12 +631,12 @@ msgstr "Pridať vzťah"
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddRelease.pm:17
 #: ../lib/MusicBrainz/Server/Edit/Release/Create.pm:29
 msgid "Add release"
-msgstr ""
+msgstr "Pridať vydanie"
 
 #: ../root/artist/layout.tt:63
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Create.pm:23
 msgid "Add release group"
-msgstr ""
+msgstr "Pridať skupinu vydaní"
 
 #: ../root/report/duplicate_artists.tt:51
 msgid "Add selected artists for merging"
@@ -2600,7 +2600,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:97
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Edit.pm:28
 msgid "Edit relationship"
-msgstr ""
+msgstr "Upraviť vzťah"
 
 #: ../root/release/sidebar.tt:92
 msgid "Edit relationships"
@@ -5481,7 +5481,7 @@ msgstr ""
 #: ../root/scripts/text_strings.tt:106
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup.pm:7
 msgid "Release group"
-msgstr ""
+msgstr "Skupina vydaní"
 
 #: ../root/release_group/edits.tt:20 ../root/release_group/header.tt:12
 msgid "Release group by {artist}"
@@ -5837,7 +5837,7 @@ msgstr "Odstrániť vydavateľstvo"
 #: ../root/recording/layout.tt:41
 #: ../lib/MusicBrainz/Server/Edit/Recording/Delete.pm:12
 msgid "Remove recording"
-msgstr ""
+msgstr "Odstrániť nahrávku"
 
 #: ../root/release/sidebar.tt:88
 #: ../lib/MusicBrainz/Server/Edit/Historic/RemoveRelease.pm:14
@@ -7161,17 +7161,17 @@ msgstr ""
 #: ../lib/MusicBrainz/Server/Form/Role/LinkType.pm:111
 #, perl-brace-format
 msgid "This attribute can only be specified {max} times. You specified {n}."
-msgstr ""
+msgstr "Tento atribút môže byť použitý najviac {max} krát. Zadali ste {n}."
 
 #: ../root/scripts/text_strings.tt:110
 #: ../lib/MusicBrainz/Server/Form/Role/LinkType.pm:95
 msgid "This attribute is not supported for the selected relationship type."
-msgstr ""
+msgstr "Tento atribút nie je podporovaný pre vybraný vzťahový typ."
 
 #: ../root/scripts/text_strings.tt:112
 #: ../lib/MusicBrainz/Server/Form/Role/LinkType.pm:106
 msgid "This attribute is required."
-msgstr ""
+msgstr "Tento atribút je vyžadovaný."
 
 #: ../root/collection/tags.tt:2
 msgid "This collection has no tags."
@@ -9786,7 +9786,7 @@ msgstr "Entita nebola nájdená"
 #: ../lib/MusicBrainz/Server/Controller/FreeDB.pm:37
 #, perl-brace-format
 msgid "'{id}' is not a valid FreeDB ID"
-msgstr ""
+msgstr "„{id}“ nie je platný identifikátor FreeDB"
 
 #: ../lib/MusicBrainz/Server/Controller/ISRC.pm:58
 msgid "This ISRC does not exist"
@@ -9842,19 +9842,19 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:104
 msgid "No title provided"
-msgstr ""
+msgstr "Nebol zadaný názov"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:108
 msgid "No artist names provided"
-msgstr ""
+msgstr "Neboli zadané mená umelcov"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:112
 msgid "Not all tracks specify an artist"
-msgstr ""
+msgstr "Niektoré stopy nemajú zadaného umelca"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:116
 msgid "Not all tracks have a title"
-msgstr ""
+msgstr "Niektoré stopy nemajú zadaný názov"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:120
 msgid "Cannot add a CD stub with no tracks"
@@ -9878,7 +9878,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:140
 msgid "Invalid barcode"
-msgstr ""
+msgstr "Neplatný čiarkový kód"
 
 #: ../lib/MusicBrainz/Server/Data/CDStub.pm:150
 msgid "There are already MusicBrainz releases with this disc ID"
@@ -9945,7 +9945,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/AddTrackKV.pm:11
 msgid "Add track"
-msgstr ""
+msgstr "Pridať stopu"
 
 #: ../lib/MusicBrainz/Server/Edit/Historic/ChangeArtistQuality.pm:10
 msgid "Change artist quality (historic)"
@@ -10048,7 +10048,7 @@ msgstr "Pridať vydavateľstvo"
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Edit.pm:29
 msgid "Edit label"
-msgstr ""
+msgstr "Upraviť vydavateľstvo"
 
 #: ../lib/MusicBrainz/Server/Edit/Label/Merge.pm:12
 msgid "Merge labels"
@@ -10076,7 +10076,7 @@ msgstr "Pridať ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/AddPUIDs.pm:13
 msgid "Add PUIDs"
-msgstr ""
+msgstr "Pridať PUID"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Create.pm:24
 msgid "Add standalone recording"
@@ -10084,7 +10084,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/Merge.pm:13
 msgid "Merge recordings"
-msgstr ""
+msgstr "Zlúčiť nahrávky"
 
 #: ../lib/MusicBrainz/Server/Edit/Recording/RemoveISRC.pm:17
 msgid "Remove ISRC"
@@ -10092,7 +10092,7 @@ msgstr "Odstrániť ISRC"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship.pm:7
 msgid "Relationship"
-msgstr ""
+msgstr "Vzťah"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/AddLinkAttribute.pm:13
 msgid "Add relationship attribute"
@@ -10104,15 +10104,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/Delete.pm:25
 msgid "Remove relationship"
-msgstr ""
+msgstr "Odstrániť vzťah"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkAttribute.pm:14
 msgid "Edit relationship attribute"
-msgstr ""
+msgstr "Upraviť atribút vzťahu"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/EditLinkType.pm:14
 msgid "Edit relationship type"
-msgstr ""
+msgstr "Upraviť vzťah typu"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkAttribute.pm:13
 msgid "Remove relationship attribute"
@@ -10120,7 +10120,7 @@ msgstr "Odstrániť vzťahový atribút"
 
 #: ../lib/MusicBrainz/Server/Edit/Relationship/RemoveLinkType.pm:13
 msgid "Remove relationship type"
-msgstr ""
+msgstr "Odstrániť vzťah typu"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddCoverArt.pm:18
 msgid "Add cover art"
@@ -10128,23 +10128,23 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/AddReleaseLabel.pm:16
 msgid "Add release label"
-msgstr ""
+msgstr "Pridať vydavateľstvo vydania"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/DeleteReleaseLabel.pm:18
 msgid "Remove release label"
-msgstr ""
+msgstr "Odstrániť vydavateľstvo vydania"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/Edit.pm:39
 msgid "Edit release"
-msgstr ""
+msgstr "Upraviť vydanie"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditArtist.pm:28
 msgid "Edit release artist"
-msgstr ""
+msgstr "Upraviť umelcov vydania"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditBarcodes.pm:19
 msgid "Edit barcodes"
-msgstr ""
+msgstr "Upraviť čiarkové kódy"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditCoverArt.pm:19
 msgid "Edit cover art"
@@ -10152,7 +10152,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Release/EditReleaseLabel.pm:22
 msgid "Edit release label"
-msgstr ""
+msgstr "Upraviť vydavateľstvo vydania"
 
 #: ../lib/MusicBrainz/Server/Edit/Release/RemoveCoverArt.pm:17
 msgid "Remove cover art"
@@ -10172,7 +10172,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/ReleaseGroup/Edit.pm:35
 msgid "Edit release group"
-msgstr ""
+msgstr "Upraviť skupinu vydaní"
 
 #: ../lib/MusicBrainz/Server/Edit/URL/Edit.pm:80
 msgid "This URL has already been merged into another URL"
@@ -10204,11 +10204,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc.pm:7
 msgid "Wiki documentation"
-msgstr ""
+msgstr "Wiki dokumentácia"
 
 #: ../lib/MusicBrainz/Server/Edit/WikiDoc/Change.pm:14
 msgid "Change WikiDoc"
-msgstr ""
+msgstr "Upraviť wiki dokumentáciu"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAnnotation.pm:13
 msgid "Add work annotation"
@@ -10333,7 +10333,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/CDStub.pm:59
 msgid "Must be a valid barcode"
-msgstr ""
+msgstr "Musí byť platným čiarkovým kódom"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ArtistCredit.pm:42
 #, perl-brace-format
@@ -10357,15 +10357,15 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/DiscID.pm:12
 msgid "This is not a valid disc ID"
-msgstr ""
+msgstr "Toto nie je platný identifikátor disku"
 
 #: ../lib/MusicBrainz/Server/Form/Field/FreeDBID.pm:12
 msgid "This is not a valid FreeDB ID"
-msgstr ""
+msgstr "Toto nie je platný identifikátor FreeDB"
 
 #: ../lib/MusicBrainz/Server/Form/Field/GID.pm:12
 msgid "This is not a valid MBID"
-msgstr ""
+msgstr "Toto nie je platný MBID"
 
 #: ../lib/MusicBrainz/Server/Form/Field/ISRC.pm:15
 msgid ""
@@ -10380,7 +10380,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/LabelCode.pm:14
 msgid "Label codes must be greater than 0 and 5 digits at most"
-msgstr ""
+msgstr "Kódy vydavateľstva musia byť väčšie ako 0 a musia mať najviac 5 číslic"
 
 #: ../lib/MusicBrainz/Server/Form/Field/Length.pm:31
 msgid "Not a valid time. Must be in the format MM:SS"
@@ -10392,7 +10392,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Field/URL.pm:24
 msgid "URL protocol must be HTTP, HTTPS or FTP"
-msgstr ""
+msgstr "Protokol URL musí byť HTTP, HTTPS alebo FTP"
 
 #: ../lib/MusicBrainz/Server/Form/Merge.pm:16
 msgid "Please pick the entity you want the others merged into."
@@ -10400,11 +10400,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:61
 msgid "Another medium is already in this position"
-msgstr ""
+msgstr "Na tejto pozícii sa už nachádza iné médium"
 
 #: ../lib/MusicBrainz/Server/Form/Merge/Release.pm:64
 msgid "Positions must be greater than 0"
-msgstr ""
+msgstr "Pozície musia byť väčšie ako 0"
 
 #: ../lib/MusicBrainz/Server/Form/Recording/Standalone.pm:8
 msgid "You must provide an edit note when adding a standalone recording"
@@ -10412,7 +10412,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/Relationship/LinkType.pm:22
 msgid "Link type is required"
-msgstr ""
+msgstr "Je vyžadovaný typ prepojenia"
 
 #: ../lib/MusicBrainz/Server/Form/RelationshipEditor.pm:130
 msgid "The relationship is missing one or both entities."
@@ -10440,7 +10440,7 @@ msgstr ""
 msgid ""
 "This barcode is invalid, please check that you've correctly entered the "
 "barcode."
-msgstr ""
+msgstr "Tento čiarkový kód je neplatný. Skontrolujte, či ste ho zadali správne."
 
 #: ../lib/MusicBrainz/Server/Form/ReleaseEditor/Information.pm:73
 msgid ""
@@ -10511,7 +10511,7 @@ msgstr ""
 msgid ""
 "This relationship type is used to group other relationships. Please select a"
 " subtype of the currently selected relationship type."
-msgstr ""
+msgstr "Tento vzťahový typ je použitý pre zoskupenie s inými vzťahmi. Zadajte podtyp aktuálne vybraného vzťahového typu."
 
 #: ../lib/MusicBrainz/Server/Form/Role/LinkType.pm:75
 msgid "This relationship type is deprecated."
@@ -10599,7 +10599,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Form/User/WatchPreferences.pm:38
 msgid "A month"
-msgstr ""
+msgstr "Mesiac"
 
 #: ../lib/MusicBrainz/Server/Form/Utils.pm:132
 msgctxt "language optgroup"
@@ -10623,32 +10623,32 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:57
 msgid "(Special case)"
-msgstr ""
+msgstr "(špeciálny prípad)"
 
 #: ../lib/MusicBrainz/Server/Release.pm:58
 msgid ""
 "An album release primarily consists of previously unreleased material. This "
 "includes album re-issues, with or without bonus tracks."
-msgstr ""
+msgstr "Vydaný album sa hlavne skladá z predtým nevydaného materiálu. Medzi toto patria opakované vydania s i bez bonusovými stopami."
 
 #: ../lib/MusicBrainz/Server/Release.pm:59
 msgid ""
 "A single typically has one main song and possibly a handful of additional "
 "tracks or remixes of the main track. A single is usually named after its "
 "main song."
-msgstr ""
+msgstr "Singel je zvyčajne jedna hlavná skladba a niekedy niekoľko ďalších stôp, alebo remixov hlavnej stopy. Singel sa zvyčajne volá podľa jeho hlavnej skladby."
 
 #: ../lib/MusicBrainz/Server/Release.pm:60
 msgid ""
 "An EP is an Extended Play release and often contains the letters EP in the "
 "title."
-msgstr ""
+msgstr "EP je skratkou Extended Play (Dlhohrajúca platňa) a často má v názve uvedené písmená EP."
 
 #: ../lib/MusicBrainz/Server/Release.pm:61
 msgid ""
 "A compilation is a collection of previously released tracks by one or more "
 "artists."
-msgstr ""
+msgstr "Kompilácia je kolekcia stôp vydaných v minulosti jedným, alebo viacerými umelcami."
 
 #: ../lib/MusicBrainz/Server/Release.pm:62
 msgid ""
@@ -10658,11 +10658,11 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:63
 msgid "Non-music spoken word releases."
-msgstr ""
+msgstr "Vydania hovoreného slova bez hudby."
 
 #: ../lib/MusicBrainz/Server/Release.pm:64
 msgid "An interview release contains an interview with the Artist."
-msgstr ""
+msgstr "Vydanie typu rozhovor obsahuje rozhovor s umelcom."
 
 #: ../lib/MusicBrainz/Server/Release.pm:65
 msgid "An audiobook is a book read by a narrator without music."
@@ -10670,21 +10670,21 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Release.pm:66
 msgid "A release that was recorded live."
-msgstr ""
+msgstr "Vydanie bolo nahrané naživo."
 
 #: ../lib/MusicBrainz/Server/Release.pm:67
 msgid "A release that was (re)mixed from previously released material."
-msgstr ""
+msgstr "Vydanie bolo (re)mixované z materiálu vydaného v minulosti."
 
 #: ../lib/MusicBrainz/Server/Release.pm:68
 msgid "Any release that does not fit any of the categories above."
-msgstr ""
+msgstr "Akékoľvek vydanie, ktoré sa nehodí do kategórií uvedených vyššie."
 
 #: ../lib/MusicBrainz/Server/Release.pm:70
 msgid ""
 "Any release officially sanctioned by the artist and/or their record company."
 " (Most releases will fit into this category.)"
-msgstr ""
+msgstr "Akékoľvek vydanie oficiálne pripisované umelcovi, alebo nahrávacej spoločnosti. Väčšina vydaní patrí do tejto kategórie."
 
 #: ../lib/MusicBrainz/Server/Release.pm:71
 msgid ""
@@ -10696,7 +10696,7 @@ msgstr ""
 msgid ""
 "An unofficial/underground release that was not sanctioned by the artist "
 "and/or the record company."
-msgstr ""
+msgstr "Neoficiálne vydanie, ktoré nebolo povolené autorom, alebo nahrávacou spoločnosťou."
 
 #: ../lib/MusicBrainz/Server/Release.pm:73
 msgid ""
@@ -10706,12 +10706,12 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"
-msgstr ""
+msgstr "Informácie o vydaní"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
-msgstr ""
+msgstr "Pridať chýbajúce položky"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor/Add.pm:160
 msgid "Release Duplicates"
-msgstr ""
+msgstr "Duplicitné vydania"

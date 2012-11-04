@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-31 12:53-0700\n"
-"PO-Revision-Date: 2012-10-31 19:59+0000\n"
-"Last-Translator: Ian McEwen <email address hidden>\n"
+"PO-Revision-Date: 2012-11-04 12:03+0000\n"
+"Last-Translator: Mihkel Tõnnov <email address hidden>\n"
 "Language-Team: Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -603,7 +603,7 @@ msgstr "Lisa uus salvestis"
 
 #: ../root/edit/index.tt:84
 msgid "Add note"
-msgstr ""
+msgstr "Lisa märge"
 
 #: ../root/edit/index.tt:82
 msgid "Add note and vote"
@@ -3091,7 +3091,7 @@ msgstr "Täielik sisukord:"
 
 #: ../root/search/lib/inline-results-artist.tt:10
 msgid "Gender"
-msgstr ""
+msgstr "Sugu"
 
 #: ../root/account/edit.tt:19 ../root/artist/edit_form.tt:42
 #: ../root/artist/index.tt:5 ../root/artist/layout.tt:12
@@ -3292,7 +3292,7 @@ msgstr "ISWC:"
 
 #: ../root/work/edit_form.tt:11
 msgid "ISWCs:"
-msgstr ""
+msgstr "ISWC-d:"
 
 #: ../root/release/edit/missing_entities.tt:80
 msgid ""
@@ -3320,7 +3320,7 @@ msgid ""
 "will be prompted to add a {doc_comment|disambiguation comment to this label}"
 " that will allow users to distinguish this entry from the other label(s) "
 "with the same name."
-msgstr "Kui andmebaasis juba on mõni samanimeline plaadifirma, tuleb lisada {doc_comment|täpsustus}, mis aitab teistel kasutajatel eristada lisatavat plaadifirmat teistest samanimelistest."
+msgstr "Kui andmebaasis juba on mõni samanimeline plaadifirma, tuleb lisada {doc_addcomment|täpsustus}, mis aitab teistel kasutajatel eristada lisatavat plaadifirmat teistest samanimelistest."
 
 #: ../root/main/500.tt:60
 msgid ""
@@ -3521,7 +3521,7 @@ msgstr "Instrumendipuu"
 
 #: ../root/main/500.tt:47
 msgid "Interface language:"
-msgstr ""
+msgstr "Kasutajaliidese keel:"
 
 #: ../root/main/500.tt:1 ../root/main/500.tt:3
 msgid "Internal Server Error"
@@ -4900,25 +4900,25 @@ msgstr "Palun loe {doc_styleguide|stiilijuhiseid} ja seejärel sisesta allpool u
 msgid ""
 "Please review the documentation about the {doc_remove|remove release group "
 "edit-type}, before entering this edit"
-msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc_remove|väljalaskerühma eemaldamise toimetusetüübi dokumentatsioon}."
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|väljalaskerühma eemaldamise toimetusetüübi dokumentatsioon}."
 
 #: ../root/artist/delete_alias.tt:4
 msgid ""
 "Please review the documentation about {aliases|artist aliases}, before "
 "entering this edit."
-msgstr "Palun loe enne selle toimetuse sisestamist läbi {aliases|artisti aliaste dokumentatsioon}."
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|artisti aliaste dokumentatsioon}."
 
 #: ../root/label/delete_alias.tt:4
 msgid ""
 "Please review the documentation about {aliases|label aliases}, before "
 "entering this edit."
-msgstr "Palun loe enne selle toimetuse sisestamist läbi {aliases|plaadifirma aliaste dokumentatsioon}."
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|plaadifirma aliaste dokumentatsioon}."
 
 #: ../root/work/delete_alias.tt:4
 msgid ""
 "Please review the documentation about {aliases|work aliases}, before "
 "entering this edit."
-msgstr "Palun loe enne selle toimetuse sisestamist läbi {aliases|teose aliaste dokumentatsioon}."
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|teose aliaste dokumentatsioon}."
 
 #: ../root/release/move_search.tt:4
 msgid ""
@@ -4936,13 +4936,13 @@ msgstr "Enne konto loomist loe palun läbi {coc|MusicBrainzi käitumiskoodeks}."
 msgid ""
 "Please review the {doc_remove|remove label edit-type} documentation before "
 "entering this edit."
-msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc_remove|plaadifirma eemaldamise toimetusetüübi dokumentatsioon}."
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|plaadifirma eemaldamise toimetusetüübi dokumentatsioon}."
 
 #: ../root/release/delete.tt:4
 msgid ""
 "Please review the {doc_remove|remove release edit-type} documentation before"
 " entering this edit."
-msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc_remove|väljalaske eemaldamise toimetusetüübi dokumentatsioon}."
+msgstr "Palun loe enne selle toimetuse sisestamist läbi {doc|väljalaske eemaldamise toimetusetüübi dokumentatsioon}."
 
 #: ../root/cdstub/import.tt:3
 msgid "Please search for the artist you wish to create a new release for:"
@@ -4996,7 +4996,7 @@ msgstr "Aliase lisamiseks või muutmiseks {log_in|logi sisse}."
 
 #: ../root/recording/fingerprints.tt:39
 msgid "Please {login_url|log in} to edit these PUIDs."
-msgstr "Nende PUID-de muutmiseks {login_url|logi sisse}."
+msgstr "Nende PUID-de muutmiseks {log_in|logi sisse}."
 
 #: ../root/release/discids.tt:57
 msgid "Please {login} to edit the disc IDs for this release."
@@ -6179,13 +6179,13 @@ msgstr "Näita ainult mind huvitavaid tulemusi."
 msgid ""
 "Showing Various Artist release groups. {show_subset|Show release groups by "
 "this artist instead}."
-msgstr "Näidatakse erinevate esitajatega väljalaskerühmi. {show_subset|Näita selle artisti nimel väljalaskerühmi}."
+msgstr "Näidatakse erinevate esitajatega väljalaskerühmi. {show_all|Näita selle artisti nimel väljalaskerühmi}."
 
 #: ../root/artist/releases.tt:31
 msgid ""
 "Showing Various Artist releases. {show_subset|Show releases by this artist "
 "instead}."
-msgstr "Näidatakse erinevate esitajatega väljalaskeid. {show_subset|Näita selle artisti nimel väljalaskeid}."
+msgstr "Näidatakse erinevate esitajatega väljalaskeid. {show_all|Näita selle artisti nimel väljalaskeid}."
 
 #: ../root/artist/recordings.tt:23
 msgid ""
@@ -6195,7 +6195,7 @@ msgstr "Näidatakse kõiki salvestisi. {show_sa|Näita ainult eraldiseisvaid sal
 #: ../root/artist/recordings.tt:20
 msgid ""
 "Showing only standalone recordings. {show_all|Show all recordings instead}."
-msgstr "Näidatakse ainult eraldiseisvaid salvestisi. {show_all|Näita kõiki salvestisi}."
+msgstr "Näidatakse ainult eraldiseisvaid salvestisi. {show_sa|Näita kõiki salvestisi}."
 
 #: ../root/artist/index.tt:115
 msgid ""
@@ -6279,7 +6279,7 @@ msgstr ""
 msgid ""
 "Sorry, but your query (<code>{query}</code>) could not be performed, due to "
 "an error which we are not quite able to identify."
-msgstr "Vabandust, aga sinu päringut „(<code>{query}</code>)” polnud võimalik teha, kuna ilmnes mingi arusaamatu viga."
+msgstr "Vabandust, aga sinu päringut „(<code>query</code>)” polnud võimalik teha, kuna ilmnes mingi arusaamatu viga."
 
 #: ../root/main/rate_limited.tt:4
 msgid ""
@@ -7790,7 +7790,7 @@ msgstr ""
 msgid ""
 "To use the batch tools, select some recordings or works using the "
 "checkboxes."
-msgstr ""
+msgstr "Nende tööriistade kasutamiseks vali märkeruutude abil soovitud salvestised või teosed."
 
 #: ../root/watch/list.tt:36
 msgid ""
@@ -9182,7 +9182,7 @@ msgstr[1] "ja veel {n} privaatset kogu"
 
 #: ../root/artist/edit_form.tt:66
 msgid "preview:"
-msgstr ""
+msgstr "eelvaade:"
 
 #: ../root/edit/search_macros.tt:19
 msgid "randomly"
@@ -10201,66 +10201,66 @@ msgstr "Seda tehtemärki ei toetata"
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:89
 msgctxt "autoeditor election status"
 msgid "Awaiting 1st seconder"
-msgstr ""
+msgstr "oodatakse 1. sekundanti"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:90
 msgctxt "autoeditor election status"
 msgid "Awaiting 2nd seconder"
-msgstr ""
+msgstr "oodatakse 2. sekundanti"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:91
 #, perl-brace-format
 msgctxt "autoeditor election status"
 msgid "Voting open since {date}"
-msgstr ""
+msgstr "hääletamine avatud alates {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:92
 #, perl-brace-format
 msgctxt "autoeditor election status"
 msgid "Accepted at {date}"
-msgstr ""
+msgstr "vastuvõetud {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:93
 #, perl-brace-format
 msgctxt "autoeditor election status"
 msgid "Declined at {date}"
-msgstr ""
+msgstr "keeldutud {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:94
 #, perl-brace-format
 msgctxt "autoeditor election status"
 msgid "Cancelled at {date}"
-msgstr ""
+msgstr "tühistatud {date}"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:98
 msgctxt "autoeditor election status (short)"
 msgid "Awaiting 1st seconder"
-msgstr ""
+msgstr "Oodatakse 1. sekundanti"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:99
 msgctxt "autoeditor election status (short)"
 msgid "Awaiting 2nd seconder"
-msgstr ""
+msgstr "Oodatakse 2. sekundanti"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:100
 msgctxt "autoeditor election status (short)"
 msgid "Voting open"
-msgstr ""
+msgstr "Hääletamine avatud"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:101
 msgctxt "autoeditor election status (short)"
 msgid "Accepted"
-msgstr ""
+msgstr "Vastuvõetud"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:102
 msgctxt "autoeditor election status (short)"
 msgid "Declined"
-msgstr ""
+msgstr "Keeldutud"
 
 #: ../lib/MusicBrainz/Server/Entity/AutoEditorElection.pm:103
 msgctxt "autoeditor election status (short)"
 msgid "Cancelled"
-msgstr ""
+msgstr "Tühistatud"
 
 #: ../lib/MusicBrainz/Server/Entity/Barcode.pm:25
 msgid "[none]"
