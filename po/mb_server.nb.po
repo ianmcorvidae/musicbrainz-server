@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-31 12:53-0700\n"
-"PO-Revision-Date: 2012-11-11 12:59+0000\n"
+"PO-Revision-Date: 2012-11-11 13:10+0000\n"
 "Last-Translator: Zaphod Beeblebrox <email address hidden>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/musicbrainz/language/nb/)\n"
 "MIME-Version: 1.0\n"
@@ -246,7 +246,7 @@ msgstr ""
 
 #: ../root/edit/info.tt:42
 msgid "<em>Cancelling</em>"
-msgstr ""
+msgstr "<em>Avbryter</em>"
 
 #: ../root/annotation/history.tt:31
 msgid "<em>no changelog specified</em>"
@@ -840,8 +840,8 @@ msgstr ""
 #: ../root/user/subscribers.tt:17
 msgid "An anonymous user"
 msgid_plural "{n} anonymous users"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "En anonym bruker"
+msgstr[1] "{n} anonyme brukere"
 
 #: ../root/edit/index.tt:16 ../root/edit/list.tt:83
 #: ../root/release/edit/editnote.tt:27
@@ -1653,11 +1653,11 @@ msgstr ""
 #: ../root/release/merge.tt:154 ../root/scripts/text_strings.tt:27
 #: ../root/work/merge.tt:64
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: ../root/edit/cancel.tt:1 ../root/edit/cancel.tt:2
 msgid "Cancel Edit"
-msgstr ""
+msgstr "Avbryt endring"
 
 #: ../root/components/common-macros.tt:521
 msgid "Cancel creating relationship with {name}"
@@ -1666,7 +1666,7 @@ msgstr ""
 #: ../root/edit/cancel.tt:24 ../root/edit/edit_header.tt:85
 #: ../root/edit/info.tt:21
 msgid "Cancel edit"
-msgstr ""
+msgstr "Avbryt endring"
 
 #: ../root/elections/show.tt:100
 msgid "Cancel the election"
@@ -2414,7 +2414,7 @@ msgstr ""
 
 #: ../root/edit/edit_header.tt:75 ../root/edit/edit_header.tt:90
 msgid "Edit #{id} - {name}"
-msgstr ""
+msgstr "Endring #{id} - {name}"
 
 #: ../root/release/edit-links.tt:3
 msgid "Edit All"
@@ -2860,17 +2860,17 @@ msgstr ""
 
 #: ../root/scripts/text_strings.tt:99
 msgid "Error loading relationships."
-msgstr ""
+msgstr "Kan ikke laste relasjoner."
 
 #: ../root/main/400.tt:8 ../root/main/404.tt:12 ../root/main/500.tt:37
 msgid "Error message: "
-msgstr "Feilmelding"
+msgstr "Feilmelding:"
 
 #: ../root/main/500.tt:9
 msgid "Error:"
 msgid_plural "Errors:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Feil:"
+msgstr[1] "Feil:"
 
 #: ../root/components/common-macros.tt:157
 msgid "Error: Unknown Type"
@@ -2944,7 +2944,7 @@ msgstr ""
 
 #: ../root/edit/details/remove_cover_art.tt:22 ../root/taglookup/form.tt:9
 msgid "Filename:"
-msgstr ""
+msgstr "Filnavn:"
 
 #: ../root/recording/header.tt:1
 msgid "Fingerprints"
@@ -4213,7 +4213,7 @@ msgstr ""
 #: ../root/search/results-work.tt:8
 #: ../root/user/subscriptions/subscriptions.tt:41
 msgid "Name"
-msgstr ""
+msgstr "Navn"
 
 #: ../root/artist/details.tt:7 ../root/artist/edit_form.tt:38
 #: ../root/collection/edit_form.tt:5 ../root/components/filter-form.tt:16
@@ -4245,7 +4245,7 @@ msgstr ""
 #: ../root/release_group/details.tt:7 ../root/release_group/edit_form.tt:8
 #: ../root/work/details.tt:7 ../root/work/edit_form.tt:7
 msgid "Name:"
-msgstr ""
+msgstr "Navn:"
 
 #: ../root/annotation/history.tt:7
 msgid "New"
@@ -4658,7 +4658,7 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:391
 #: ../root/release/edit/tracklist.tt:156 ../root/release/edit/tracklist.tt:186
 msgid "Options"
-msgstr ""
+msgstr "Alternativer"
 
 #: ../root/cdtoc/lookup.tt:97
 msgid "Or..."
@@ -4725,7 +4725,7 @@ msgstr ""
 
 #: ../root/admin/wikidoc/index.tt:84
 msgid "Page name"
-msgstr ""
+msgstr "Side navn"
 
 #: ../root/edit/details/change_wikidoc.tt:29
 msgid "Page removed"
@@ -5249,7 +5249,7 @@ msgstr ""
 
 #: ../root/account/preferences.tt:12
 msgid "Regional settings"
-msgstr ""
+msgstr "Regionale innstillinger"
 
 #: ../root/doc/edit_type.tt:15
 msgid "Reject"
@@ -5988,7 +5988,7 @@ msgstr ""
 
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 msgid "Search Error"
-msgstr ""
+msgstr "Søkefeil"
 
 #: ../root/otherlookup/results-release.tt:1
 #: ../root/otherlookup/results-release.tt:3
@@ -6456,15 +6456,15 @@ msgstr ""
 #: ../root/search/lib/inline-results-artist.tt:8
 #: ../root/search/results-label.tt:9
 msgid "Sort Name"
-msgstr ""
+msgstr "Sorteringsnavn"
 
 #: ../root/release/edit/missing_entities.tt:17
 msgid "Sort Name:"
-msgstr ""
+msgstr "Sorteringsnavn:"
 
 #: ../root/components/aliases.tt:7 ../root/report/duplicate_artists.tt:26
 msgid "Sort name"
-msgstr ""
+msgstr "Sorteringsnavn"
 
 #: ../root/alias/edit_form.tt:8 ../root/artist/edit_form.tt:39
 #: ../root/artist/layout.tt:6 ../root/edit/details/add_artist_alias.tt:12
@@ -6482,7 +6482,7 @@ msgstr ""
 #: ../root/edit/details/remove_work_alias.tt:12 ../root/label/edit_form.tt:35
 #: ../root/label/layout.tt:6
 msgid "Sort name:"
-msgstr ""
+msgstr "Sorteringsnavn:"
 
 #: ../root/artist/split.tt:15
 msgid "Split Artist"
@@ -8206,16 +8206,16 @@ msgstr ""
 
 #: ../root/admin/edit_user.tt:6
 msgid "User permissions"
-msgstr ""
+msgstr "Brukertillatelser"
 
 #: ../root/user/profile.tt:43
 msgid "User type:"
-msgstr ""
+msgstr "Bruker type:"
 
 #: ../root/account/lost_password.tt:14 ../root/account/register.tt:25
 #: ../root/user/login.tt:23
 msgid "Username:"
-msgstr ""
+msgstr "Brukernavn:"
 
 #: ../root/release/merge.tt:90
 msgid ""
@@ -8356,7 +8356,7 @@ msgstr ""
 
 #: ../root/artist/edit_form.tt:18 ../root/label/edit_form.tt:14
 msgid "Warning:"
-msgstr ""
+msgstr "Advarsel:"
 
 #: ../root/release/edit_relationships.tt:18
 msgid ""
@@ -8634,7 +8634,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:239 ../root/edit/vote.tt:14
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:188
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #: ../root/edit/search_macros.tt:284
 msgid "Yes vote count"
@@ -8642,7 +8642,7 @@ msgstr ""
 
 #: ../root/elections/nominate.tt:11
 msgid "Yes, I am sure"
-msgstr ""
+msgstr "Ja, jeg er sikker"
 
 #: ../root/artist/edit_form.tt:32
 msgid ""
@@ -9291,7 +9291,7 @@ msgstr ""
 
 #: ../root/components/common-macros.tt:201
 msgid "{artist} as {name}"
-msgstr ""
+msgstr "{artist} som {name}"
 
 #: ../root/cdtoc/attach_artist_releases.tt:64
 msgid "{artist} has no releases which have only {n} track."
@@ -9402,7 +9402,7 @@ msgstr ""
 
 #: ../root/tag/entity-list.tt:10
 msgid "{name} by {artist}"
-msgstr ""
+msgstr "{name} av {artist}"
 
 #: ../root/user/subscriptions/subscriptions.tt:19
 msgid "{num} artist"
@@ -9559,7 +9559,7 @@ msgstr ""
 
 #: ../root/user/profile/layout.tt:8
 msgid "{user}"
-msgstr ""
+msgstr "{user}"
 
 #: ../root/user/collections.tt:37
 msgid "{user} has no public collections."
@@ -9591,7 +9591,7 @@ msgstr ""
 
 #: ../root/edit/edit_header.tt:50 ../root/edit/index.tt:28
 msgid "{yes} yes : {no} no"
-msgstr ""
+msgstr "{yes} ja : {no} nei"
 
 #: ../root/release/edit/duplicates.tt:46 ../root/release/edit/editnote.tt:41
 #: ../root/release/edit/missing_entities.tt:149
