@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-10-31 12:53-0700\n"
-"PO-Revision-Date: 2012-11-11 15:20+0000\n"
+"PO-Revision-Date: 2012-11-18 14:59+0000\n"
 "Last-Translator: Zaphod Beeblebrox <email address hidden>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/musicbrainz/language/nb/)\n"
 "MIME-Version: 1.0\n"
@@ -501,7 +501,7 @@ msgstr ""
 #: ../root/layout/menu.tt:221 ../root/work/create.tt:15
 #: ../root/work/create.tt:16
 msgid "Add Work"
-msgstr ""
+msgstr "Legg til verk"
 
 #: ../root/work/add_alias.tt:12
 msgid "Add Work Alias"
@@ -565,7 +565,7 @@ msgstr ""
 
 #: ../root/scripts/text_strings.tt:48
 msgid "Add another track"
-msgstr ""
+msgstr "Legg til ett spor"
 
 #: ../root/artist/add_alias.tt:13
 #: ../lib/MusicBrainz/Server/Edit/Artist/AddAlias.pm:14
@@ -672,7 +672,7 @@ msgstr "Legg til spor"
 #: ../root/artist/layout.tt:78
 #: ../lib/MusicBrainz/Server/Edit/Work/Create.pm:16
 msgid "Add work"
-msgstr ""
+msgstr "Ligg til verk"
 
 #: ../root/work/add_alias.tt:13
 #: ../lib/MusicBrainz/Server/Edit/Work/AddAlias.pm:15
@@ -1156,7 +1156,7 @@ msgstr ""
 
 #: ../root/artist/layout.tt:4
 msgid "Artist information"
-msgstr ""
+msgstr "Informasjon om artisten"
 
 #: ../root/edit/details/historic/add_track_old.tt:20
 msgid "Artist name:"
@@ -1451,7 +1451,7 @@ msgstr "Begynte:"
 #: ../root/search/lib/inline-results-artist.tt:12
 #: ../root/search/results-label.tt:12
 msgid "Begin"
-msgstr "Begynner:"
+msgstr "Starter"
 
 #: ../root/components/aliases.tt:8
 msgid "Begin Date"
@@ -1502,7 +1502,7 @@ msgstr ""
 
 #: ../root/layout/menu.tt:140
 msgid "Blog"
-msgstr "Blog"
+msgstr "Blogg"
 
 #: ../root/components/common-macros.tt:810 ../root/scripts/text_strings.tt:73
 msgid "Born:"
@@ -1721,11 +1721,11 @@ msgstr ""
 #: ../root/edit/details/historic/add_release.tt:78
 #: ../root/report/cat_no_looks_like_asin.tt:18
 msgid "Catalog Number"
-msgstr ""
+msgstr "Katalognummer"
 
 #: ../root/edit/details/edit_release_events.tt:8
 msgid "Catalog number"
-msgstr ""
+msgstr "Katalognummer"
 
 #: ../root/edit/details/add_release_label.tt:13
 #: ../root/edit/details/edit_release_label.tt:23
@@ -1733,7 +1733,7 @@ msgstr ""
 #: ../root/edit/details/remove_release_label.tt:11
 #: ../root/otherlookup/form.tt:3
 msgid "Catalog number:"
-msgstr ""
+msgstr "Katalognummer:"
 
 #: ../root/cdtoc/attach_artist_releases.tt:38
 #: ../root/cdtoc/attach_filter_release.tt:52 ../root/cdtoc/list.tt:11
@@ -2047,7 +2047,7 @@ msgstr ""
 
 #: ../root/release/edit_relationships.tt:93
 msgid "Create a new work"
-msgstr ""
+msgstr "Lag et nytt verk"
 
 #: ../root/relationship/linktype/tree.tt:43
 msgid "Create a new {type0}-{type1} relationship"
@@ -2224,7 +2224,7 @@ msgstr ""
 #: ../root/search/form.tt:35 ../root/search/form.tt:40
 #: ../lib/MusicBrainz/Server/Form/Search/Search.pm:56
 msgid "Direct database search"
-msgstr ""
+msgstr "Direkte databasesøk "
 
 #: ../root/cdstub/index.tt:3
 msgid "Disambiguation"
@@ -2254,7 +2254,7 @@ msgstr ""
 
 #: ../root/cdstub/index.tt:10
 msgid "Disc ID information"
-msgstr ""
+msgstr "Informasjon om Disk IDen"
 
 #: ../root/cdtoc/index.tt:3
 msgid "Disc ID “<code>{discid}</code>”"
@@ -2534,7 +2534,7 @@ msgstr ""
 
 #: ../root/work/edit.tt:16
 msgid "Edit Work"
-msgstr ""
+msgstr "Endre verk"
 
 #: ../root/work/edit_alias.tt:12
 msgid "Edit Work Alias"
@@ -2777,7 +2777,7 @@ msgstr ""
 #: ../root/cdtoc/info.tt:34 ../root/search/lib/inline-results-artist.tt:13
 #: ../root/search/results-label.tt:13
 msgid "End"
-msgstr "Slutt"
+msgstr "Slutter"
 
 #: ../root/components/aliases.tt:9
 msgid "End Date"
@@ -2970,7 +2970,7 @@ msgstr ""
 
 #: ../root/edit/info.tt:55
 msgid "For more information:"
-msgstr ""
+msgstr "Mer informasjon:"
 
 #: ../root/main/403.tt:1 ../root/main/403.tt:3 ../root/main/mirror.tt:1
 #: ../root/main/mirror.tt:3
@@ -3785,22 +3785,22 @@ msgstr ""
 #: ../root/layout/menu.tt:97 ../root/user/login.tt:1 ../root/user/login.tt:3
 #: ../root/user/login.tt:34
 msgid "Log In"
-msgstr ""
+msgstr "Logg inn"
 
 #: ../root/layout/menu.tt:46
 msgid "Log Out"
-msgstr ""
+msgstr "Logg ut"
 
 #: ../root/components/common-macros.tt:442
 msgid "Log in"
-msgstr ""
+msgstr "Logg inn"
 
 #: ../root/artist/layout.tt:112 ../root/label/layout.tt:85
 #: ../root/recording/layout.tt:57 ../root/release_group/layout.tt:58
 #: ../root/release/sidebar.tt:105 ../root/url/layout.tt:18
 #: ../root/work/layout.tt:57
 msgid "Log in to edit"
-msgstr ""
+msgstr "Logg inn for å endre"
 
 #: ../root/release/cover_art.tt:63
 msgid "Log in to upload cover art"
@@ -4064,11 +4064,11 @@ msgstr ""
 
 #: ../root/release/edit/tracklist.tt:310
 msgid "Move track down"
-msgstr ""
+msgstr "Flytt sporet ned"
 
 #: ../root/release/edit/tracklist.tt:313
 msgid "Move track up"
-msgstr ""
+msgstr "Flytt sporet opp"
 
 #: ../root/edit/details/historic/move_release.tt:14
 msgid "Move tracks:"
@@ -4080,7 +4080,7 @@ msgstr ""
 
 #: ../root/main/index.tt:29
 msgid "MusicBrainz Blog"
-msgstr ""
+msgstr "MusicBrainz Bloggen"
 
 #: ../root/layout/menu.tt:163 ../root/main/index.tt:99
 msgid "MusicBrainz Database"
@@ -4160,7 +4160,7 @@ msgstr ""
 
 #: ../root/layout.tt:18
 msgid "MusicBrainz: Track"
-msgstr ""
+msgstr "MusicBrainz: Spor"
 
 #: ../root/layout/menu.tt:54
 msgid "My Collections"
@@ -4279,7 +4279,7 @@ msgstr ""
 
 #: ../root/edit/details/edit_medium.tt:116
 msgid "New Tracklist:"
-msgstr ""
+msgstr "Ny sporliste:"
 
 #: ../root/edit/details/historic/edit_release_attributes.tt:22
 msgid "New Type:"
@@ -4521,7 +4521,7 @@ msgstr ""
 
 #: ../root/scripts/text_strings.tt:77
 msgid "Not found? Try again with direct search."
-msgstr ""
+msgstr "Direkte søk"
 
 #: ../root/release/edit/information.tt:145
 msgid ""
@@ -5191,7 +5191,7 @@ msgstr ""
 
 #: ../root/recording/layout.tt:8
 msgid "Recording information"
-msgstr ""
+msgstr "Informasjon om Innspillingen"
 
 #: ../root/user/ratings_summary.tt:3 ../root/user/ratings.tt:1
 msgid "Recording ratings"
@@ -5479,7 +5479,7 @@ msgstr ""
 
 #: ../root/release_group/layout.tt:8
 msgid "Release group information"
-msgstr ""
+msgstr "Informasjon om Utgivelsegruppen"
 
 #: ../root/user/ratings_summary.tt:3 ../root/user/ratings.tt:1
 msgid "Release group ratings"
@@ -5521,7 +5521,7 @@ msgstr ""
 
 #: ../root/release/edit/information.tt:23 ../root/release/sidebar.tt:19
 msgid "Release information"
-msgstr ""
+msgstr "Informasjon om Utgivelsen"
 
 #: ../root/user/ratings.tt:1
 msgid "Release ratings"
@@ -5984,7 +5984,7 @@ msgstr "Søk"
 
 #: ../root/layout/menu.tt:184
 msgid "Search Edits"
-msgstr ""
+msgstr "Endringssøk"
 
 #: ../root/search/error/wrapper.tt:1 ../root/search/error/wrapper.tt:2
 msgid "Search Error"
@@ -6010,7 +6010,7 @@ msgstr ""
 #: ../root/edit/search_results.tt:24 ../root/edit/search_results.tt:26
 #: ../root/edit/search.tt:2 ../root/edit/search.tt:4
 msgid "Search for Edits"
-msgstr ""
+msgstr "Søk etter endringer"
 
 #: ../root/search/editor.tt:1
 msgid "Search for an Editor"
@@ -6018,7 +6018,7 @@ msgstr ""
 
 #: ../root/cdtoc/attach_filter_artist.tt:3
 msgid "Search for an artist"
-msgstr ""
+msgstr "Søk etter en artist"
 
 #: ../root/edit/list_header.tt:8
 msgid "Search for edits"
@@ -6043,7 +6043,7 @@ msgstr ""
 
 #: ../root/search/form.tt:20
 msgid "Search method:"
-msgstr ""
+msgstr "Søkemetode:"
 
 #: ../root/cdstub/layout.tt:34
 msgid "Search the database for this CD"
@@ -6498,7 +6498,7 @@ msgstr ""
 
 #: ../root/layout/menu.tt:107
 msgid "Sponsors"
-msgstr ""
+msgstr "Sponsorer"
 
 #: ../root/main/500.tt:19
 msgid "Stack trace:"
@@ -7880,7 +7880,7 @@ msgstr ""
 #: ../root/cdtoc/info.tt:31 ../root/freedb/show.tt:11
 #: ../root/freedb/show.tt:63 ../root/search/lib/inline-results-recording.tt:15
 msgid "Track"
-msgstr ""
+msgstr "Spor"
 
 #: ../root/release/edit/tracklist.tt:152 ../root/release/edit/tracklist.tt:394
 #: ../root/release/edit/tracklist.tt:395
@@ -7889,7 +7889,7 @@ msgstr ""
 
 #: ../root/release/edit_relationships.tt:329
 msgid "Track Relationships"
-msgstr ""
+msgstr "Sporrelasjoner"
 
 #: ../root/release/edit/tracklist.tt:219
 msgid "Track count:"
@@ -7897,16 +7897,16 @@ msgstr ""
 
 #: ../root/cdtoc/info.tt:27
 msgid "Track details:"
-msgstr ""
+msgstr "Spordetaljer"
 
 #: ../root/edit/details/historic/edit_track_length.tt:13
 msgid "Track length:"
-msgstr ""
+msgstr "Sporlengde"
 
 #: ../root/edit/details/set_track_lengths_from_discid.tt:20
 #: ../root/edit/details/set_track_lengths.tt:34
 msgid "Track lengths:"
-msgstr ""
+msgstr "Sporlengder:"
 
 #: ../root/release/edit/tracklist.tt:192
 msgid "Track names start with a number"
@@ -7917,16 +7917,16 @@ msgstr ""
 #: ../root/edit/details/historic/edit_track_number.tt:13
 #: ../root/taglookup/form.tt:6
 msgid "Track number:"
-msgstr ""
+msgstr "Spornummer:"
 
 #: ../root/cdstub/edit_form.tt:15
 msgid "Track {n}:"
-msgstr ""
+msgstr "Spor {n}:"
 
 #: ../root/edit/details/historic/remove_track.tt:14
 #: ../root/taglookup/form.tt:7
 msgid "Track:"
-msgstr ""
+msgstr "Spor:"
 
 #: ../root/cdstub/edit_form.tt:12 ../root/cdstub/index.tt:7
 #: ../root/cdtoc/set_durations.tt:10 ../root/release/edit/recordings.tt:253
@@ -7939,7 +7939,7 @@ msgstr "Sporliste"
 #: ../root/edit/details/add_medium.tt:31
 #: ../root/edit/details/remove_medium.tt:17
 msgid "Tracklist:"
-msgstr ""
+msgstr "Sporliste:"
 
 #: ../root/collection/index.tt:13 ../root/otherlookup/results-release.tt:9
 #: ../root/release/discids.tt:9 ../root/release_group/index.tt:14
@@ -7948,7 +7948,7 @@ msgstr ""
 #: ../root/search/results-cdstub.tt:10 ../root/search/results-freedb.tt:16
 #: ../root/tracklist/index.tt:5
 msgid "Tracks"
-msgstr ""
+msgstr "Spor"
 
 #: ../root/report/index.tt:71
 msgid "Tracks whose names include their sequence numbers"
@@ -7956,7 +7956,7 @@ msgstr ""
 
 #: ../root/edit/details/historic/add_release.tt:44
 msgid "Tracks:"
-msgstr ""
+msgstr "Spor:"
 
 #: ../root/admin/index.tt:11 ../root/layout/menu.tt:90
 msgid "Transclude WikiDocs"
@@ -8062,7 +8062,7 @@ msgstr ""
 
 #: ../root/url/index.tt:1
 msgid "URL Information"
-msgstr ""
+msgstr "Informasjon om URLen"
 
 #: ../root/url/not_found.tt:1 ../root/url/not_found.tt:2
 msgid "URL Not Found"
@@ -8545,7 +8545,7 @@ msgstr ""
 
 #: ../root/release/edit_relationships.tt:187
 msgid "Work Name:"
-msgstr ""
+msgstr "Verknavn:"
 
 #: ../root/work/not_found.tt:1 ../root/work/not_found.tt:2
 msgid "Work Not Found"
@@ -8553,11 +8553,11 @@ msgstr ""
 
 #: ../root/release/edit_relationships.tt:98
 msgid "Work Type:"
-msgstr ""
+msgstr "Verktype:"
 
 #: ../root/work/layout.tt:9
 msgid "Work information"
-msgstr ""
+msgstr "Informasjon om verket"
 
 #: ../root/user/ratings_summary.tt:3
 msgid "Work ratings"
@@ -8576,12 +8576,12 @@ msgstr ""
 #: ../root/edit/details/remove_work_alias.tt:3
 #: ../root/edit/details/remove_work.tt:3
 msgid "Work:"
-msgstr ""
+msgstr "Verk:"
 
 #: ../root/artist/header.tt:1 ../root/artist/works.tt:2
 #: ../root/tag/header.tt:1 ../root/tag/index.tt:3 ../root/user/tag.tt:4
 msgid "Works"
-msgstr ""
+msgstr "Verk"
 
 #: ../root/browse/work.tt:8
 msgid "Works starting with “{index}”"
@@ -8612,7 +8612,7 @@ msgstr "ÅÅÅÅ"
 #: ../root/artist/browse_various.tt:13 ../root/artist/index.tt:60
 #: ../root/release_group/merge.tt:15 ../root/search/results-freedb.tt:18
 msgid "Year"
-msgstr ""
+msgstr "År"
 
 #: ../root/edit/details/add_artist_alias.tt:25
 #: ../root/edit/details/add_artist.tt:55
@@ -8634,7 +8634,7 @@ msgstr ""
 #: ../root/edit/search_macros.tt:239 ../root/edit/vote.tt:14
 #: ../lib/MusicBrainz/Server/Data/Vote.pm:188
 msgid "Yes"
-msgstr "Ja"
+msgstr ""
 
 #: ../root/edit/search_macros.tt:284
 msgid "Yes vote count"
@@ -8656,7 +8656,7 @@ msgstr ""
 
 #: ../root/admin/wikidoc/delete.tt:9
 msgid "Yes, I'm sure"
-msgstr ""
+msgstr "Ja, jeg er sikker"
 
 #: ../root/recording/add_isrc.tt:3
 msgid ""
@@ -8858,7 +8858,7 @@ msgstr ""
 
 #: ../root/edit/index.tt:74
 msgid "You must be logged in to vote on edits"
-msgstr ""
+msgstr "Du må være logget inn for å vote på endringer"
 
 #: ../root/main/401.tt:9
 msgid ""
@@ -9229,7 +9229,7 @@ msgstr ""
 
 #: ../root/cdtoc/attach_list.tt:35
 msgid "show tracklist"
-msgstr ""
+msgstr "vis sporliste"
 
 #: ../root/browse/page_selector.tt:43
 msgid "space"
@@ -9252,11 +9252,11 @@ msgstr ""
 #: ../root/release/edit/recordings.tt:191
 #: ../root/release/edit/recordings.tt:262
 msgid "track"
-msgstr ""
+msgstr "spor"
 
 #: ../root/components/common-macros.tt:157
 msgid "tracks"
-msgstr ""
+msgstr "spor"
 
 #: ../root/user/profile.tt:106
 msgid "unsubscribe"
@@ -9491,20 +9491,20 @@ msgstr[1] ""
 #: ../root/tag/work.tt:1
 msgid "{num} work found"
 msgid_plural "{num} works found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ett verk funnet"
+msgstr[1] "{num} verk funnet"
 
 #: ../root/components/common-macros.tt:53
 msgid "{num} year"
 msgid_plural "{num}&nbsp;years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ett år"
+msgstr[1] "{num}&nbsp;år"
 
 #: ../root/components/common-macros.tt:67
 msgid "{num} year ago"
 msgid_plural "{num}&nbsp;years ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ett år siden"
+msgstr[1] "{num}&nbsp;år siden"
 
 #: ../root/release/edit_relationships.tt:334
 msgid "{n} recording selected"
@@ -9515,8 +9515,8 @@ msgstr[1] ""
 #: ../root/release/edit_relationships.tt:335
 msgid "{n} work selected"
 msgid_plural "{n} works selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ett verk valgt"
+msgstr[1] "{n} verk valgt"
 
 #: ../root/user/profile.tt:213 ../root/user/profile.tt:217
 msgid "{percentage}%"
@@ -9551,7 +9551,7 @@ msgstr ""
 
 #: ../root/work/layout.tt:1
 msgid "{type} “{work}”"
-msgstr ""
+msgstr "{type} \"{verk}\""
 
 #: ../root/components/common-macros.tt:533
 msgid "{uri|Relate to URL}"
@@ -10176,7 +10176,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Delete.pm:11
 msgid "Remove work"
-msgstr ""
+msgstr "fjern verk"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/DeleteAlias.pm:15
 msgid "Remove work alias"
@@ -10184,7 +10184,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Edit.pm:25
 msgid "Edit work"
-msgstr ""
+msgstr "Endre verk"
 
 #: ../lib/MusicBrainz/Server/Edit/Work/Merge.pm:12
 msgid "Merge works"
@@ -10661,7 +10661,7 @@ msgstr ""
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:51
 msgid "Release Information"
-msgstr ""
+msgstr "Informasjon om utgivelsen"
 
 #: ../lib/MusicBrainz/Server/Wizard/ReleaseEditor.pm:72
 msgid "Add Missing Entities"
