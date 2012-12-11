@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: MusicBrainz\n"
 "Report-Msgid-Bugs-To: http://tickets.musicbrainz.org/\n"
 "POT-Creation-Date: 2012-11-27 14:38-0700\n"
-"PO-Revision-Date: 2012-11-27 23:03+0000\n"
+"PO-Revision-Date: 2012-12-11 20:12+0000\n"
 "Last-Translator: Luca Salini <email address hidden>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -4650,7 +4650,7 @@ msgstr "Ops, qualcosa è andato storto!"
 
 #: ../root/user/profile.tt:164 ../lib/MusicBrainz/Server/Edit/Utils.pm:250
 msgid "Open"
-msgstr "Aperta"
+msgstr "In corso"
 
 #: ../root/edit/open.tt:14 ../root/edit/open.tt:16
 #: ../root/user/profile/layout.tt:19
@@ -7229,7 +7229,7 @@ msgstr "Questa modifica è stata applicata con successo."
 
 #: ../root/components/common-macros.tt:598
 msgid "This edit is open and awaiting votes before it can be applied."
-msgstr "Questa modifica è aperta e in attesa di voti prima di poter essere applicata."
+msgstr "Questa modifica è in corso e in attesa di voti prima di poter essere applicata."
 
 #: ../root/edit/details/set_track_lengths.tt:43
 msgid "This edit makes subsecond changes to track lengths"
@@ -9261,7 +9261,7 @@ msgstr "Visualizza tutte le valutazioni"
 #: ../root/release/header.tt:10
 msgid "see all versions of this release, {count} available"
 msgid_plural "see all versions of this release, {count} available"
-msgstr[0] ""
+msgstr[0] "visualizza tutte le versioni di questa pubblicazione, disponibile {count}"
 msgstr[1] "visualizza tutte le versioni di questa pubblicazione, disponibili {count}"
 
 #: ../root/user/profile.tt:36
