@@ -7,14 +7,14 @@
           <thead>
               <tr>
                   [% IF my_collection %]<th><input type="checkbox" /></th>[% END %]
-                  [% sortble_table_header('title', l('Release')) %]
-                  [% sortble_table_header('artist', l('Artist')) %]
-                  [% sortble_table_header('format', l('Format')) %]
-                  [% sortble_table_header('tracks', l('Tracks')) %]
-                  [% sortble_table_header('date', l('Date')) %]
-                  [% sortble_table_header('country', l('Country')) %]
-                  [% sortble_table_header('label', l('Label')) %]
-                  [% sortble_table_header('catno', l('Catalog#')) %]
+                  [% sortable_table_header('title', l('Release')) %]
+                  [% sortable_table_header('artist', l('Artist')) %]
+                  [% sortable_table_header('format', l('Format')) %]
+                  [% sortable_table_header('tracks', l('Tracks')) %]
+                  [% sortable_table_header('date', l('Date')) %]
+                  [% sortable_table_header('country', l('Country')) %]
+                  [% sortable_table_header('label', l('Label')) %]
+                  [% sortable_table_header('catno', l('Catalog#')) %]
               </tr>
           </thead>
           <tbody>
