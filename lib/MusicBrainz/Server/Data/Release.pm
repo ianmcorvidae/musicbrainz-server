@@ -5,6 +5,7 @@ use namespace::autoclean -also => [qw( _where_status_in _where_type_in )];
 
 use Carp 'confess';
 use List::UtilsBy qw( partition_by );
+use List::AllUtils qw( any );
 use MusicBrainz::Server::Constants qw( :quality );
 use MusicBrainz::Server::Entity::Barcode;
 use MusicBrainz::Server::Entity::PartialDate;
@@ -91,6 +92,66 @@ sub _entity_class
     return 'MusicBrainz::Server::Entity::Release';
 }
 
+sub _order_and_join
+{
+    my ($self, $order) = @_;
+
+    my $extra_join = "";
+    my $definitions = {
+        "date"   => "release.date_year, release.date_month, release.date_day, musicbrainz_collate(name.name)",
+        "title"  => "musicbrainz_collate(name.name), release.date_year, release.date_month, release.date_day",
+        "barcode"  => "release.barcode, release.date_year, release.date_month, release.date_day",
+        "country"  => "release.country, release.date_year, release.date_month, release.date_day",
+        "artist" => sub {
+            $extra_join = "JOIN artist_credit ac ON ac.id = release.artist_credit
+                           JOIN artist_name ac_name ON ac_name.id=ac.name";
+            return "musicbrainz_collate(ac_name.name), release.date_year, release.date_month, release.date_day, musicbrainz_collate(name.name)";
+        },
+        "label" => sub {
+            $extra_join = "LEFT OUTER JOIN
+                (SELECT release, array_agg(musicbrainz_collate(label_name.name)) AS labels FROM release_label
+                    JOIN label ON release_label.label = label.id
+                    JOIN label_name ON label.sort_name = label_name.id
+                    GROUP BY release) rl_labels
+                ON rl_labels.release = release.id";
+            return "rl_labels.labels, release.date_year, release.date_month, release.date_day, musicbrainz_collate(name.name)";
+        },
+        "catno" => sub {
+            $extra_join = "LEFT OUTER JOIN
+                (SELECT release, array_agg(catalog_number) AS catnos FROM release_label GROUP BY release) rl_catnos
+                ON rl_catnos.release = release.id";
+            return "rl_catnos.catnos, release.date_year, release.date_month, release.date_day, musicbrainz_collate(name.name)";
+        },
+        "format" => sub {
+            $extra_join = "LEFT OUTER JOIN
+                (SELECT release, array_agg(medium_format.name) AS formats FROM medium
+                    JOIN medium_format ON medium.format = medium_format.id
+                    GROUP BY release) med_formats
+                ON med_formats.release = release.id";
+            return "med_formats.formats, release.date_year, release.date_month, release.date_day, musicbrainz_collate(name.name)";
+        },
+        "tracks" => sub {
+            $extra_join = "JOIN
+                (SELECT medium.release, sum(tracklist.track_count) AS total_track_count
+                    FROM medium JOIN tracklist on medium.tracklist = tracklist.id
+                    GROUP BY medium.release) med_tracks
+                ON med_tracks.release = release.id";
+            return "med_tracks.total_track_count, release.date_year, release.date_month, release.date_day, musicbrainz_collate(name.name)";
+        },
+    };
+    my $extra_distinct_columns = "";
+    my $order_by = order_by($order, "date", $definitions);
+    if ($order =~ /-(.*)/) {
+        $order =~ s/^-//;
+        $extra_distinct_columns = order_by($order, "date", $definitions);
+    } else {
+        $extra_distinct_columns = $order_by;
+    }
+    my @all_columns = split(', ', $self->_columns);
+    $extra_distinct_columns = join(', ', (grep { my $elem = $_; !any { $_ eq $elem } @all_columns } split(', ', $extra_distinct_columns)));
+    return ($order_by, $extra_join, $extra_distinct_columns);
+}
+
 sub _where_filter
 {
     my ($filter) = @_;
@@ -157,23 +218,26 @@ sub find_artist_credits_by_artist
 
 sub find_by_artist
 {
-    my ($self, $artist_id, $limit, $offset, %args) = @_;
+    my ($self, $artist_id, $limit, $offset, $order, %args) = @_;
 
     my ($conditions, $extra_joins, $params) = _where_filter($args{filter});
+    my ($order_by, $extra_join, $extra_distinct_columns) = $self->_order_and_join($order);
+    push @$extra_joins, $extra_join;
 
     push @$conditions, "acn.artist = ?";
     push @$params, $artist_id;
 
     my $query = "SELECT DISTINCT " . $self->_columns . ",
                         country.name AS country_name,
-                        musicbrainz_collate(name.name) AS name_collate
-                 FROM " . $self->_table . "
+                        musicbrainz_collate(name.name) AS name_collate" .
+                        ($extra_distinct_columns ? ', ' . $extra_distinct_columns : '') .
+                 " FROM " . $self->_table . "
                      JOIN artist_credit_name acn
                          ON acn.artist_credit = release.artist_credit
                      " . join(' ', @$extra_joins) . "
                      LEFT JOIN country ON release.country = country.id
                  WHERE " . join(" AND ", @$conditions) . "
-                 ORDER BY date_year, date_month, date_day,
+                 ORDER BY $order_by,
                           country.name, barcode, musicbrainz_collate(name.name)
                  OFFSET ?";
     return query_to_list_limited(
@@ -252,9 +316,11 @@ sub find_by_release_group
 
 sub find_by_track_artist
 {
-    my ($self, $artist_id, $limit, $offset, %args) = @_;
+    my ($self, $artist_id, $limit, $offset, $order, %args) = @_;
 
     my ($conditions, $extra_joins, $params) = _where_filter($args{filter});
+    my ($order_by, $extra_join) = $self->_order_and_join($order);
+    push @$extra_joins, $extra_join;
 
     push @$conditions, "
         release.id IN (
@@ -275,7 +341,7 @@ sub find_by_track_artist
                  FROM " . $self->_table . "
                  " . join(' ', @$extra_joins) . "
                  WHERE " . join(" AND ", @$conditions) . "
-                 ORDER BY date_year, date_month, date_day, musicbrainz_collate(name.name)
+                 ORDER BY $order_by, musicbrainz_collate(name.name)
                  OFFSET ?";
     return query_to_list_limited(
         $self->c->sql, $offset, $limit, sub { $self->_new_from_row(@_) },
@@ -502,48 +568,7 @@ sub find_by_collection
 {
     my ($self, $collection_id, $limit, $offset, $order) = @_;
 
-    my $extra_join = "";
-    my $order_by = order_by($order, "date", {
-        "date"   => "date_year, date_month, date_day, musicbrainz_collate(name.name)",
-        "title"  => "musicbrainz_collate(name.name), date_year, date_month, date_day",
-        "country"  => "country, date_year, date_month, date_day",
-        "artist" => sub {
-            $extra_join = "JOIN artist_credit ac ON ac.id = release.artist_credit
-                           JOIN artist_name ac_name ON ac_name.id=ac.name";
-            return "musicbrainz_collate(ac_name.name), date_year, date_month, date_day, musicbrainz_collate(name.name)";
-        },
-        "label" => sub {
-            $extra_join = "LEFT OUTER JOIN
-                (SELECT release, array_agg(musicbrainz_collate(label_name.name)) AS labels FROM release_label
-                    JOIN label ON release_label.label = label.id
-                    JOIN label_name ON label.sort_name = label_name.id
-                    GROUP BY release) rl
-                ON rl.release = release.id";
-            return "rl.labels, date_year, date_month, date_day, musicbrainz_collate(name.name)";
-        },
-        "catno" => sub {
-            $extra_join = "LEFT OUTER JOIN
-                (SELECT release, array_agg(catalog_number) AS catnos FROM release_label GROUP BY release) rl
-                ON rl.release = release.id";
-            return "rl.catnos, date_year, date_month, date_day, musicbrainz_collate(name.name)";
-        },
-        "format" => sub {
-            $extra_join = "LEFT OUTER JOIN
-                (SELECT release, array_agg(medium_format.name) AS formats FROM medium
-                    JOIN medium_format ON medium.format = medium_format.id
-                    GROUP BY release) medium
-                ON medium.release = release.id";
-            return "medium.formats, date_year, date_month, date_day, musicbrainz_collate(name.name)";
-        },
-        "tracks" => sub {
-            $extra_join = "JOIN
-                (SELECT medium.release, sum(tracklist.track_count) AS total_track_count
-                    FROM medium JOIN tracklist on medium.tracklist = tracklist.id
-                    GROUP BY medium.release) medium
-                ON medium.release = release.id";
-            return "medium.total_track_count, date_year, date_month, date_day, musicbrainz_collate(name.name)";
-        },
-    });
+    my ($order_by, $extra_join) = $self->_order_and_join($order);
 
     my $query = "SELECT " . $self->_columns . "
                  FROM " . $self->_table . "

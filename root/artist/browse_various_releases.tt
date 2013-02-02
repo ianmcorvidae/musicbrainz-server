@@ -7,7 +7,7 @@
 
     [%- IF releases.size -%]
         [%- WRAPPER 'components/with-pager.tt' -%]
-            [%- INCLUDE 'release_group/releases-list.tt' %]
+            [%- INCLUDE 'release_group/releases-list.tt' sortable=1 %]
         [%- END -%]
     [% ELSE %]
         [%- IF index && index.length > 0 -%]

@@ -343,6 +343,8 @@ sub releases : Chained('load')
 
     my $artist = $c->stash->{artist};
     my $releases;
+    my $order = $c->req->params->{order} || 'date';
+    $c->stash( order => $order );
 
     if ($artist->id == $VARTIST_ID)
     {
@@ -372,7 +374,7 @@ sub releases : Chained('load')
         }
 
         $releases = $self->_load_paged($c, sub {
-                $c->model('Release')->$method($artist->id, shift, shift, filter => \%filter);
+                $c->model('Release')->$method($artist->id, shift, shift, $order, filter => \%filter);
             });
 
         my $pager = $c->stash->{pager};

@@ -13,19 +13,35 @@
             [% IF c.user_exists %]<th>
             <input type="checkbox" />
             </th>[% END %]
-            <th>[% l('Release') %]</th>
-            [% IF show_artists %]
-            <th>[% l('Artist') %]</th>
-            [% END %]
-            <th>[% l('Format') %]</th>
-            <th>[% l('Tracks') %]</th>
-            <th>[% l('Date') %]</th>
-            <th>[% l('Country') %]</th>
-            [%- IF !filter_label -%]
-            <th>[% l('Label') %]</th>
+            [%- IF sortable -%]
+              [% sortable_table_header('title', l('Release')) %]
+              [% IF show_artists %]
+                [% sortable_table_header('artist', l('Artist')) %]
+              [% END %]
+              [% sortable_table_header('format', l('Format')) %]
+              [% sortable_table_header('tracks', l('Tracks')) %]
+              [% sortable_table_header('date', l('Date')) %]
+              [% sortable_table_header('country', l('Country')) %]
+              [%- IF !filter_label -%]
+                [% sortable_table_header('label', l('Label')) %]
+              [%- END -%]
+              [% sortable_table_header('catno', l('Catalog#')) %]
+              [% sortable_table_header('barcode', l('Barcode')) %]
+            [%- ELSE -%]
+              <th>[% l('Release') %]</th>
+              [% IF show_artists %]
+                <th>[% l('Artist') %]</th>
+              [% END %]
+              <th>[% l('Format') %]</th>
+              <th>[% l('Tracks') %]</th>
+              <th>[% l('Date') %]</th>
+              <th>[% l('Country') %]</th>
+              [%- IF !filter_label -%]
+                <th>[% l('Label') %]</th>
+              [%- END -%]
+              <th>[% l('Catalog#') %]</th>
+              <th>[% l('Barcode') %]</th>
             [%- END -%]
-            <th>[% l('Catalog#') %]</th>
-            <th>[% l('Barcode') %]</th>
             [%- IF c.session.tport -%]
               <th>[% l('Tagger') %]</th>
             [%- END -%]
