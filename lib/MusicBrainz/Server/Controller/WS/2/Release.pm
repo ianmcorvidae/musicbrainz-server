@@ -190,7 +190,7 @@ sub release_browse : Private
         $c->detach('not_found') unless ($artist);
 
         my @tmp = $c->model('Release')->find_by_artist (
-            $artist->id, $limit, $offset, filter => { status => $c->stash->{status}, type => $c->stash->{type} });
+            $artist->id, $limit, $offset, 'date', filter => { status => $c->stash->{status}, type => $c->stash->{type} });
         $releases = $self->make_list (@tmp, $offset);
     }
     elsif ($resource eq 'track_artist')

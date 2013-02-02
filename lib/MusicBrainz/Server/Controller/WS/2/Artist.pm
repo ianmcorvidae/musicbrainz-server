@@ -92,7 +92,7 @@ sub artist_toplevel
         else
         {
             @results = $c->model('Release')->find_by_artist(
-                $artist->id, $MAX_ITEMS, 0, filter => { status => $c->stash->{status}, type => $c->stash->{type}});
+                $artist->id, $MAX_ITEMS, 0, 'date', filter => { status => $c->stash->{status}, type => $c->stash->{type}});
         }
 
         $opts->{releases} = $self->make_list (@results);
