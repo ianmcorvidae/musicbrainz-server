@@ -353,7 +353,7 @@ sub find_for_various_artists
 {
     my ($self, $artist_id, $limit, $offset, %args) = @_;
 
-	my ($conditions, $extra_joins, $params) = _where_filter($args{filter});
+    my ($conditions, $extra_joins, $params) = _where_filter($args{filter});
 
     push @$conditions, "
         acn.artist != ?
