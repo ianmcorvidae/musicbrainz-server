@@ -91,8 +91,9 @@ sub show : PathPart('') Chained('load')
 {
     my  ($self, $c) = @_;
 
+    my $order = $c->req->params->{order} || 'date';
     my $releases = $self->_load_paged($c, sub {
-            $c->model('Release')->find_by_label($c->stash->{label}->id, shift, shift);
+            $c->model('Release')->find_by_label($c->stash->{label}->id, shift, shift, $order);
         });
 
     $c->model('ArtistCredit')->load(@$releases);
@@ -103,6 +104,7 @@ sub show : PathPart('') Chained('load')
     $c->stash(
         template => 'label/index.tt',
         releases => $releases,
+        order => $order,
     );
 }
 

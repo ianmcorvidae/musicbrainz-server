@@ -208,7 +208,7 @@ sub release_browse : Private
         $c->detach('not_found') unless ($label);
 
         my @tmp = $c->model('Release')->find_by_label (
-            $label->id, $limit, $offset, filter => { status => $c->stash->{status}, type => $c->stash->{type} });
+            $label->id, $limit, $offset, 'date', filter => { status => $c->stash->{status}, type => $c->stash->{type} });
         $releases = $self->make_list (@tmp, $offset);
     }
     elsif ($resource eq 'release-group')

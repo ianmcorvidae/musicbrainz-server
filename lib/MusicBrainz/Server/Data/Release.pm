@@ -100,8 +100,8 @@ sub _order_and_join
     my $definitions = {
         "date"   => "release.date_year, release.date_month, release.date_day, musicbrainz_collate(name.name)",
         "title"  => "musicbrainz_collate(name.name), release.date_year, release.date_month, release.date_day",
-        "barcode"  => "release.barcode, release.date_year, release.date_month, release.date_day",
-        "country"  => "release.country, release.date_year, release.date_month, release.date_day",
+        "barcode"  => "release.barcode, release.date_year, release.date_month, release.date_day, musicbrainz_collate(name.name)",
+        "country"  => "release.country, release.date_year, release.date_month, release.date_day, musicbrainz_collate(name.name)",
         "artist" => sub {
             $extra_join = "JOIN artist_credit ac ON ac.id = release.artist_credit
                            JOIN artist_name ac_name ON ac_name.id=ac.name";
@@ -147,8 +147,8 @@ sub _order_and_join
     } else {
         $extra_distinct_columns = $order_by;
     }
-    my @all_columns = split(', ', $self->_columns);
-    $extra_distinct_columns = join(', ', (grep { my $elem = $_; !any { $_ eq $elem } @all_columns } split(', ', $extra_distinct_columns)));
+    my @all_columns = split(/\s*,\s*/, $self->_columns);
+    $extra_distinct_columns = join(', ', (grep { my $elem = $_; !any { $_ eq $elem } @all_columns } split(/\s*,\s*/, $extra_distinct_columns)));
     return ($order_by, $extra_join, $extra_distinct_columns);
 }
 
@@ -247,27 +247,28 @@ sub find_by_artist
 
 sub find_by_label
 {
-    my ($self, $label_id, $limit, $offset, %args) = @_;
+    my ($self, $label_id, $limit, $offset, $order, %args) = @_;
 
     my ($conditions, $extra_joins, $params) = _where_filter($args{filter});
+    my ($order_by, $extra_join, $extra_distinct_columns) = $self->_order_and_join($order);
+    push @$extra_joins, $extra_join;
 
     push @$conditions, "release_label.label = ?";
     push @$params, $label_id;
 
     my $query =
-        "SELECT * FROM (
-           SELECT DISTINCT ON (release.id) " . $self->_columns . " 
-             , country.name AS country_name, catalog_number
-           FROM " . $self->_table . "
+        "SELECT DISTINCT " . $self->_columns .
+             ", country.name AS country_name, release_label.catalog_number" .
+             ($extra_distinct_columns ? ', ' . $extra_distinct_columns : '') .
+           " FROM " . $self->_table . "
            JOIN release_label
              ON release_label.release = release.id
            " . join(' ', @$extra_joins) . "
            LEFT JOIN country ON release.country = country.id
            WHERE " . join(" AND ", @$conditions) . "
-         ) s
-         ORDER BY date_year, date_month, date_day, catalog_number,
-                  musicbrainz_collate(name), country_name,
-                  barcode
+         ORDER BY $order_by, release_label.catalog_number,
+                  country_name,
+                  release.barcode
          OFFSET ?";
     return query_to_list_limited(
         $self->c->sql, $offset, $limit, sub { $self->_new_from_row(@_) },
